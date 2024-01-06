@@ -10,13 +10,19 @@
 (function() {
     'use strict';
 
-    // Вставьте свой API-ключ здесь
+    // Вставьте свой API-ключ здесь, можете запросить его у t.me/pohape
     var yandexApiKey = '';
 
     var divIds = ['question-content', 'report-question-content', 'a-answer', 'b-answer', 'c-answer', 'report-explanation', 'report-a-answer', 'report-b-answer', 'report-c-answer'];
     var contentCache = {};
 
     function translateText(text, callback) {
+        if (yandexApiKey === '') {
+            callback("Впишите API-ключ в верхней части скрипта");
+
+            return;
+        }
+
         GM_xmlhttpRequest({
             method: "POST",
             url: "https://translate.api.cloud.yandex.net/translate/v2/translate",
