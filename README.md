@@ -4,17 +4,22 @@
 **Как установить:**
 
 1. Устанавливаем расширение ViolentMonkey: https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
-2. Создаем в этом расширении новый скрипт, куда копируем содержимое этого файла: https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/script.js
-3. Скрипт использует API Яндекс-переводчика для автоматического перевода на лету, ключ я не выкладываю в открытый доступ, запросите его у меня в телеграме: https://t.me/pohape, я сразу его Вам скину (без регистрации и СМС).
-4. Сохраняем, заходим на сайт https://teoria.pl/, решаем тесты и наслаждаемся переводами.
-
-Скриншоты:
+2. Заходим в настройки расширения ViolentMonkey, нажав на шестеренку:
 
 ![Violentmonekey 1](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/1.png)
+
+3. Добавляем наш скрипт, вставив в расширение URL-адрес скрипта:
+```
+https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/script.js
+```
 
 ![Violentmonekey 2](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/2.png)
 
 ![Violentmonekey 3](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/3.png)
+
+4. Сохраняем, заходим на сайт https://teoria.pl/, решаем тесты и наслаждаемся переводами.
+
+Скриншоты:
 
 ![Teoria.pl 1](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/4.png)
 
