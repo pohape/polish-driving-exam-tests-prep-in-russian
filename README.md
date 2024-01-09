@@ -1,7 +1,7 @@
 # Monkey-скрипт для сайта teoria.pl
 Для изучающих польские ПДД и решающих польские тесты ПДД: вопросы, ответы и пояснения дублируются на русском языке.
 
-**Как установить:**
+## Как установить:
 
 1. Устанавливаем расширение ViolentMonkey: https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
 2. Заходим в настройки расширения ViolentMonkey, нажав на шестеренку:
@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/script.j
 
 4. Сохраняем, заходим на сайт https://teoria.pl/, решаем тесты и наслаждаемся переводами.
 
-Скриншоты:
+
+## Скриншоты:
 
 ![Teoria.pl 1](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/4.png)
 
