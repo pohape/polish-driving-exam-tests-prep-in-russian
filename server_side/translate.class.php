@@ -12,7 +12,7 @@ class Translate {
         ];
         
         $body = json_encode([
-            'texts' => ['TEST'],
+            'texts' => [$text],
             'sourceLanguageCode' => 'pl',
             'targetLanguageCode' => 'ru'
         ]);
