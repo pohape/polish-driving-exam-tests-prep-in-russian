@@ -51,5 +51,9 @@
     "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku.": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
     "Sygnał ten oznacza, że za chwilę zapali się sygnał czerwony.": "Этот сигнал означает, что через некоторое время загорится красный сигнал.",
     "Kierujący pojazdem, który skręca w drogę poprzeczną, jest obowiązany ustąpić pierwszeństwa pieszemu przechodzącemu na skrzyżowaniu przez jezdnię drogi, na którą wjeżdża.": "Водитель транспортного средства, который поворачивает на поперечную дорогу, обязан уступить дорогу пешеходу, проходящему на перекрестке через проезжую часть дороги, на которую он въезжает.",
-    "Nie można rozdzielać kolumny rowerowej.": "Вы не можете разделить велосипедную колонку."
+    "Nie można rozdzielać kolumny rowerowej.": "Вы не можете разделить велосипедную колонку.",
+    "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
+    "Czy przed znakiem \"Pierwszeństwo dla nadjeżdżających z przeciwka\" należy się zatrzymać w każdej sytuacji?": "Стоит ли останавливаться перед знаком \"приоритет встречным\" в любой ситуации?",
+    "Czy w tej sytuacji jesteś ostrzegany o zbliżaniu się do skrzyżowania z drogą podporządkowaną?": "В этой ситуации вас предупреждают о приближении к перекрестку с подчиненной дорогой?",
+    "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?"
 }
