@@ -8,7 +8,7 @@
 // @grant        GM_xmlhttpRequest
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
 // ==/UserScript==
-(function () {
+(function() {
     'use strict';
 
     var selectors = [
@@ -24,7 +24,55 @@
         '#a0',
         '#a1',
         '#a2',
-        'div.col-md-6.col-lg-6 > div:not([class]):not([id])'
+        'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
+        'div.page_title > h1'
+    ];
+
+    var selectorsToRemove = [
+        {
+            selector: '.right-a.right-a-nl',
+            deleteLevel: 0
+        },
+        {
+            selector: '.google-auto-placed',
+            deleteLevel: 0
+        },
+        {
+            selector: 'iframe',
+            deleteLevel: 0
+        },
+        {
+            selector: 'div > .adsbygoogle',
+            deleteLevel: 1
+        },
+        {
+            selector: '.adsbygoogle',
+            deleteLevel: 0
+        },
+        {
+            selector: '.cc_banner-wrapper',
+            deleteLevel: 0
+        },
+        {
+            selector: '.google-revocation-link-placeholder',
+            deleteLevel: 0
+        },
+        {
+            selector: 'div.col-xs-12.society-like',
+            deleteLevel: 2
+        },
+        {
+            selector: '.top_header_area.hidden-xs',
+            deleteLevel: 0
+        },
+        {
+            selector: 'ol.test-list',
+            deleteLevel: 3
+        },
+        {
+            selector: 'div.text-center.version',
+            deleteLevel: 3
+        }
     ];
 
     var contentCache = {};
@@ -65,9 +113,13 @@
             GM_xmlhttpRequest({
                 method: "POST",
                 url: "https://dobroedelo39.ru/other/teoria_pl_tests_translate/",
-                headers: { "Content-Type": "application/json" },
-                data: JSON.stringify({ text: text }),
-                onload: function (response) {
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                data: JSON.stringify({
+                    text: text
+                }),
+                onload: function(response) {
                     var result = JSON.parse(response.responseText);
 
                     console.log("");
@@ -116,14 +168,18 @@
                 contentCache[selector] = originalTextWithNoTranslate;
 
                 if (id && id.endsWith('-answer')) {
-                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                    translateText(originalTextWithNoTranslate, function(translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
+                    });
+                } else if (selector.includes('page_title')) {
+                    translateText(originalTextWithNoTranslate, function(translatedText) {
+                        element.innerHTML = originalTextWithNoTranslate + '<translation><br />' + translatedText + '</translation>';
                     });
                 } else {
                     var clonedContent = getElementWithTranslation(element)
                     clonedContent.style.display = 'none';
 
-                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                    translateText(originalTextWithNoTranslate, function(translatedText) {
                         var clonedContent = getElementWithTranslation(element)
                         clonedContent.innerHTML = '<b>' + translatedText + '</b>';
                         clonedContent.style.display = 'block';
@@ -133,7 +189,54 @@
         });
     }
 
-    setInterval(function () {
+    var emptyRemoved = false;
+
+    setInterval(function() {
         selectors.forEach(updateTranslation);
+
+        const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
+
+        if (consentButton && !consentButton.classList.contains('clicked')) {
+            consentButton.classList.add('clicked');
+            consentButton.click();
+        }
+
+        selectorsToRemove.forEach(function(item) {
+            var elements = document.querySelectorAll(item.selector);
+
+            elements.forEach(function(element) {
+                var elementToRemove = element;
+
+                for (var i = 0; i < item.deleteLevel; i++) {
+                    if (elementToRemove.parentNode) {
+                        elementToRemove = elementToRemove.parentNode;
+                    } else {
+                        break;
+                    }
+                }
+
+                elementToRemove.parentNode.removeChild(elementToRemove);
+            });
+        });
+
+        if (!emptyRemoved) {
+            var elementToRemove = document.querySelector('section.breadcumb_area + *');
+
+            if (elementToRemove) {
+                elementToRemove.parentNode.removeChild(elementToRemove);
+                emptyRemoved = true;
+            }
+        }
     }, 100);
+
+    var style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerHTML = `
+    .breadcumb_area {
+        height: 170px !important;
+    }
+    .breadcumb_section {
+        margin-top: 33px !important;
+    }`;
+    document.head.appendChild(style);
 })();
