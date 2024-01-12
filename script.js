@@ -6,12 +6,27 @@
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
 // @grant        GM_xmlhttpRequest
-// @require https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
 // ==/UserScript==
 (function () {
     'use strict';
 
-    var divIds = ['question-content', 'report-question-content', 'a-answer', 'b-answer', 'c-answer', 'report-explanation', 'report-a-answer', 'report-b-answer', 'report-c-answer'];
+    var selectors = [
+        '#question-content',
+        '#report-question-content',
+        '#a-answer',
+        '#b-answer',
+        '#c-answer',
+        '#report-explanation',
+        '#report-a-answer',
+        '#report-b-answer',
+        '#report-c-answer',
+        '#a0',
+        '#a1',
+        '#a2',
+        'div.col-md-6.col-lg-6 > div:not([class]):not([id])'
+    ];
+
     var contentCache = {};
 
     function getCacheKey(originalText) {
@@ -91,17 +106,16 @@
         return clonedContent
     }
 
-    function updateTranslation(id) {
-        var element = document.getElementById(id);
-
-        if (element) {
+    function updateTranslation(selector) {
+        document.querySelectorAll(selector).forEach(element => {
+            var id = element.id; // Определение ID элемента
             var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
-            if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
+            if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[selector]) {
                 console.log("Element changed: " + originalTextWithNoTranslate)
-                contentCache[id] = originalTextWithNoTranslate;
+                contentCache[selector] = originalTextWithNoTranslate;
 
-                if (id.endsWith('-answer')) {
+                if (id && id.endsWith('-answer')) {
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
                     });
@@ -116,10 +130,10 @@
                     });
                 }
             }
-        }
+        });
     }
 
     setInterval(function () {
-        divIds.forEach(updateTranslation);
+        selectors.forEach(updateTranslation);
     }, 100);
 })();
