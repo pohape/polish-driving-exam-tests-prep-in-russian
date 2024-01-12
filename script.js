@@ -34,7 +34,7 @@
         if (cachedValue !== null) {
             console.log("Translation loaded from cache: " + cachedValue);
             printNumberOfTranslationsInCache();
-          
+
             return cachedValue;
         }
 
@@ -52,19 +52,43 @@
                 url: "https://dobroedelo39.ru/other/teoria_pl_tests_translate/",
                 headers: { "Content-Type": "application/json" },
                 data: JSON.stringify({ text: text }),
-
                 onload: function (response) {
                     var result = JSON.parse(response.responseText);
-                    console.log("")
-                    console.log("Original: " + text)
-                    console.log("Translate: " + result.translate)
-                    console.log("")
 
-                    saveToCache(text, result.translate);
-                    callback(result.translate);
+                    console.log("");
+                    console.log("Original: " + text);
+                    console.log("Translate: " + result.translate);
+                    console.log("");
+
+                    if (result.translate && result.translate.trim() !== '') {
+                        saveToCache(text, result.translate);
+                        callback(result.translate);
+                    } else {
+                        console.log("Invalid translation received for: " + text);
+                        callback("Ошибка: не получилось перевести.");
+                    }
                 }
             });
         }
+    }
+
+    function getElementWithTranslation(originalElement) {
+        var clonedId = originalElement.id + '-cloned';
+        var clonedContent = document.getElementById(clonedId);
+
+        if (!clonedContent) {
+            clonedContent = document.createElement('div');
+            clonedContent.id = clonedId;
+            originalElement.parentNode.insertBefore(clonedContent, originalElement.nextSibling);
+
+            if (originalElement.id.endsWith('-content')) {
+                originalElement.parentNode.insertBefore(document.createElement('br'), clonedContent);
+            }
+
+            originalElement.parentNode.insertBefore(document.createElement('br'), clonedContent.nextSibling);
+        }
+
+        return clonedContent
     }
 
     function updateTranslation(id) {
@@ -82,24 +106,14 @@
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
                     });
                 } else {
-                  translateText(originalTextWithNoTranslate, function (translatedText) {
-                      var clonedId = id + '-cloned';
-                      var clonedContent = document.getElementById(clonedId);
+                    var clonedContent = getElementWithTranslation(element)
+                    clonedContent.style.display = 'none';
 
-                      if (!clonedContent) {
-                          clonedContent = document.createElement('div');
-                          clonedContent.id = clonedId;
-                          element.parentNode.insertBefore(clonedContent, element.nextSibling);
-
-                          if (id.endsWith('-content')) {
-                              element.parentNode.insertBefore(document.createElement('br'), clonedContent);
-                          }
-
-                          element.parentNode.insertBefore(document.createElement('br'), clonedContent.nextSibling);
-                      }
-
-                      clonedContent.innerHTML = '<b>' + translatedText + '</b>';
-                  });
+                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                        var clonedContent = getElementWithTranslation(element)
+                        clonedContent.innerHTML = '<b>' + translatedText + '</b>';
+                        clonedContent.style.display = 'block';
+                    });
                 }
             }
         }
