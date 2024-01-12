@@ -2,7 +2,7 @@
 
 class Translate {
     const API_URL = 'https://translate.api.cloud.yandex.net/translate/v2/translate';
-    const API_KEY_FILE = 'api_key.txt';
+    const API_KEY_FILE = '../yandex_api_key.txt';
     const CACHE_FILE = 'cache.json';
 
     private static function translateViaApi($text) {
