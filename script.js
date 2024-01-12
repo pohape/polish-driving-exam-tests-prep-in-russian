@@ -22,6 +22,10 @@
 
             onload: function (response) {
                 var result = JSON.parse(response.responseText);
+                console.log("")
+                console.log("Original: " + text)
+                console.log("Translate: " + result.translate)
+                console.log("")
                 callback(result.translate);
             }
         });
@@ -31,18 +35,18 @@
         var element = document.getElementById(id);
 
         if (element) {
-            var innerHtmlWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
-            console.log(innerHtmlWithNoTranslate)
+            var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
-            if (innerHtmlWithNoTranslate !== '' && innerHtmlWithNoTranslate !== contentCache[id]) {
-                contentCache[id] = innerHtmlWithNoTranslate;
+            if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
+                console.log("Element changed: " + originalTextWithNoTranslate)
+                contentCache[id] = originalTextWithNoTranslate;
 
                 if (id.endsWith('-answer')) {
-                    translateText(element.textContent, function (translatedText) {
-                        element.innerHTML += '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
+                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
                     });
                 } else {
-                  translateText(element.textContent, function (translatedText) {
+                  translateText(originalTextWithNoTranslate, function (translatedText) {
                       var clonedId = id + '-cloned';
                       var clonedContent = document.getElementById(clonedId);
 
