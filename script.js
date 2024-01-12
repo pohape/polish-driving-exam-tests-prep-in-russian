@@ -6,6 +6,7 @@
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
 // @grant        GM_xmlhttpRequest
+// @require https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
 // ==/UserScript==
 (function () {
     'use strict';
@@ -13,22 +14,57 @@
     var divIds = ['question-content', 'report-question-content', 'a-answer', 'b-answer', 'c-answer', 'report-explanation', 'report-a-answer', 'report-b-answer', 'report-c-answer'];
     var contentCache = {};
 
-    function translateText(text, callback) {
-        GM_xmlhttpRequest({
-            method: "POST",
-            url: "https://dobroedelo39.ru/other/teoria_pl_tests_translate/",
-            headers: { "Content-Type": "application/json" },
-            data: JSON.stringify({ text: text }),
+    function getCacheKey(originalText) {
+        return "translationCache_" + CryptoJS.MD5(originalText).toString();
+    }
 
-            onload: function (response) {
-                var result = JSON.parse(response.responseText);
-                console.log("")
-                console.log("Original: " + text)
-                console.log("Translate: " + result.translate)
-                console.log("")
-                callback(result.translate);
-            }
-        });
+    function printNumberOfTranslationsInCache() {
+        console.log("Number of translations in cache: " + Object.keys(localStorage).filter(key => key.startsWith("translationCache_")).length);
+    }
+
+
+    function saveToCache(original, translate) {
+        localStorage.setItem(getCacheKey(original), translate);
+        console.log("Translation saved to cache: " + translate);
+        printNumberOfTranslationsInCache();
+    }
+
+    function loadFromCache(original) {
+        var cachedValue = localStorage.getItem(getCacheKey(original));
+        if (cachedValue !== null) {
+            console.log("Translation loaded from cache: " + cachedValue);
+            printNumberOfTranslationsInCache();
+          
+            return cachedValue;
+        }
+
+        return null;
+    }
+
+    function translateText(text, callback) {
+        var cachedTranslation = loadFromCache(text);
+
+        if (cachedTranslation !== null) {
+            callback(cachedTranslation);
+        } else {
+            GM_xmlhttpRequest({
+                method: "POST",
+                url: "https://dobroedelo39.ru/other/teoria_pl_tests_translate/",
+                headers: { "Content-Type": "application/json" },
+                data: JSON.stringify({ text: text }),
+
+                onload: function (response) {
+                    var result = JSON.parse(response.responseText);
+                    console.log("")
+                    console.log("Original: " + text)
+                    console.log("Translate: " + result.translate)
+                    console.log("")
+
+                    saveToCache(text, result.translate);
+                    callback(result.translate);
+                }
+            });
+        }
     }
 
     function updateTranslation(id) {
