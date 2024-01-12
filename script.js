@@ -30,34 +30,38 @@
     function updateTranslation(id) {
         var element = document.getElementById(id);
 
-        if (element && element.textContent.trim() !== '' && element.textContent !== contentCache[id]) {
-            contentCache[id] = element.textContent;
+        if (element) {
+            var innerHtmlWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
+            console.log(innerHtmlWithNoTranslate)
 
-            translateText(element.textContent, function (translatedText) {
-                var clonedId = id + '-cloned';
-                var clonedContent = document.getElementById(clonedId);
-
-                if (!clonedContent) {
-                    clonedContent = document.createElement('div');
-                    clonedContent.id = clonedId;
-                    element.parentNode.insertBefore(clonedContent, element.nextSibling);
-
-                    if (id.endsWith('-content')) {
-                        element.parentNode.insertBefore(document.createElement('br'), clonedContent);
-                    } else if (id.endsWith('-answer')) {
-                        element.parentNode.insertBefore(document.createElement('br'), clonedContent.nextSibling);
-                    }
-
-                    element.parentNode.insertBefore(document.createElement('br'), clonedContent.nextSibling);
-                }
+            if (innerHtmlWithNoTranslate !== '' && innerHtmlWithNoTranslate !== contentCache[id]) {
+                contentCache[id] = innerHtmlWithNoTranslate;
 
                 if (id.endsWith('-answer')) {
-                    clonedContent.innerHTML = '<b style="margin-left: 50px">' + translatedText + '</b>';
+                    translateText(element.textContent, function (translatedText) {
+                        element.innerHTML += '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
+                    });
                 } else {
-                    clonedContent.innerHTML = '<b>' + translatedText + '</b>';
-                }
+                  translateText(element.textContent, function (translatedText) {
+                      var clonedId = id + '-cloned';
+                      var clonedContent = document.getElementById(clonedId);
 
-            });
+                      if (!clonedContent) {
+                          clonedContent = document.createElement('div');
+                          clonedContent.id = clonedId;
+                          element.parentNode.insertBefore(clonedContent, element.nextSibling);
+
+                          if (id.endsWith('-content')) {
+                              element.parentNode.insertBefore(document.createElement('br'), clonedContent);
+                          }
+
+                          element.parentNode.insertBefore(document.createElement('br'), clonedContent.nextSibling);
+                      }
+
+                      clonedContent.innerHTML = '<b>' + translatedText + '</b>';
+                  });
+                }
+            }
         }
     }
 
