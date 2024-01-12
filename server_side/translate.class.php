@@ -50,14 +50,26 @@ class Translate {
         }
     }
 
-    public static function translate($text) {
+    private static function loadCache() {
         $cachePath = __DIR__ . '/' . self::CACHE_FILE;
 
         if (file_exists($cachePath)) {
-            $cache = json_decode(file_get_contents($cachePath), true);
+            return json_decode(file_get_contents($cachePath), true);
         } else {
-            $cache = [];
+            return [];
         }
+    }
+
+    private static function saveToCache(string $original, string $translation) {
+        $cachePath = __DIR__ . '/' . self::CACHE_FILE;
+        $cache = self::loadCache();
+        $cache[$original] = $translation;
+
+        file_put_contents($cachePath, json_encode($cache, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+    }
+
+    public static function translate($text) {
+        $cache = self::loadCache();
 
         if (isset($cache[$text])) {
             return array(
@@ -68,8 +80,7 @@ class Translate {
             $translationResult = self::translateViaApi($text);
 
             if ($translationResult['translate'] !== null) {
-                $cache[$text] = $translationResult['translate'];
-                file_put_contents($cachePath, json_encode($cache, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+                self::saveToCache($text, $translationResult['translate']);
             }
 
             return $translationResult;
