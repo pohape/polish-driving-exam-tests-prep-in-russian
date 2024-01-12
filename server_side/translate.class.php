@@ -6,6 +6,13 @@ class Translate {
     const CACHE_FILE = 'cache.json';
 
     private static function translateViaApi($text) {
+        if (!is_file(__DIR__ . '/' . self::API_KEY_FILE)) {
+            return array(
+                'translate' => null,
+                'error' => 'The file with the API key not found.'
+            );
+        }
+
         $headers = [
             'Content-Type: application/json',
             'Authorization: Api-Key ' . trim(file_get_contents(__DIR__ . '/' . self::API_KEY_FILE))
@@ -28,7 +35,7 @@ class Translate {
         
         curl_close($ch);
 	
-	$decodedResponse = json_decode($response, true);
+	    $decodedResponse = json_decode($response, true);
 
         if ($httpCode == 200) {
             return array(
