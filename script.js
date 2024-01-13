@@ -201,6 +201,27 @@
             consentButton.click();
         }
 
+        var videoElement = document.getElementById('video');
+
+        if (videoElement) {
+            videoElement.controls = true;
+        }
+
+        var imgElement = document.querySelector('img.img-responsive');
+
+        imgElement.addEventListener('click', function() {
+            // Проверяем, поддерживает ли браузер API полноэкранного режима
+            if (imgElement.requestFullscreen) {
+                imgElement.requestFullscreen(); // Нативный полноэкранный режим
+            } else if (imgElement.mozRequestFullScreen) { /* Firefox */
+                imgElement.mozRequestFullScreen();
+            } else if (imgElement.webkitRequestFullscreen) { /* Chrome, Safari & Opera */
+                imgElement.webkitRequestFullscreen();
+            } else if (imgElement.msRequestFullscreen) { /* IE/Edge */
+                imgElement.msRequestFullscreen();
+            }
+        });
+
         selectorsToRemove.forEach(function(item) {
             var elements = document.querySelectorAll(item.selector);
 
