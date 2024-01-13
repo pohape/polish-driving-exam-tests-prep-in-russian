@@ -944,5 +944,18 @@
     "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
     "A-8: skrzyżowanie o ruchu okrężnym.": "А-8: перекресток с круговым движением.",
     "Czy w tej sytuacji zbliżasz się do skrzyżowania z drogą jednokierunkową podporządkowaną znajdującą się po prawej stronie?": "В этой ситуации вы приближаетесь к перекрестку с дорогой с односторонним движением, расположенной справа?",
-    "Znak A-6d: wlot drogi jednokierunkowej z prawej strony": "Знак A-6d: вход с односторонним движением справа"
+    "Znak A-6d: wlot drogi jednokierunkowej z prawej strony": "Знак A-6d: вход с односторонним движением справа",
+    "Znak ostrzega przed tramwajami.": "Знак предупреждает о трамваях.",
+    "Czy za tym znakiem należy spodziewać się trzech niebezpiecznych zakrętów, z których wszystkie mogą być w lewo?": "Следует ли ожидать трех опасных поворотов за этим знаком, каждый из которых может быть левым?",
+    "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo.": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
+    "Znak A-32 - oszronienie jezdni lub gołoledź.": "Знак а-32-обморожение проезжей части или гололедица.",
+    "Czy ten znak ostrzega o niebezpiecznym zakręcie w prawo?": "Предупреждает ли этот знак об опасном повороте вправо?",
+    "Znak A-1 - niebezpieczny zakręt w prawo.": "Знак а-1-опасный поворот вправо.",
+    "Czy na najbliższym skrzyżowaniu musisz ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Нужно ли на ближайшем перекрестке уступать дорогу встречным транспортным средствам с левой стороны?",
+    "Świadczą o tym znak A-7 wraz z tabliczką.": "Об этом свидетельствует знак а-7 вместе с табличкой.",
+    "Czy ten znak ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po prawej stronie?": "Предупреждает ли этот знак о перекрестке с подчиненной дорогой, идущей справа?",
+    "Znak A-6b - skrzyżowanie z drogą podporządkowaną występującą po prawej stronie.": "Знак а-6б-пересечение с подчиненной дорогой справа.",
+    "1. TAK": "1. Да",
+    "2. NIE": "2. Нет",
+    "Czy w przedstawionej... (390)": "Или в представленном... (390)"
 }
