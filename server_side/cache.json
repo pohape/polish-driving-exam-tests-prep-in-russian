@@ -6,18 +6,14 @@
     "Ten znak ostrzega o zbliżaniu się do miejsca uczęszczanego przez dzieci.": "Этот знак предупреждает Вас о приближении к месту, которое часто переходят дети.",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o miejscu na drodze szczególnie często uczęszczanym przez dzieci lub o bliskości takiego miejsca?": "В представленной ситуации вас предупреждают о месте на дороге, которое особенно часто переходят дети, или о близости к такому месту?",
     "Znak widoczny na zdjęciu ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca.": "Знак, показанный на фотографии, предупреждает Вас о месте на дороге, которое часто переходят дети, или о близости к такому месту.",
-
     "--roboty--": "",
     "Znak widoczny na zdjęciu ostrzega o prowadzonych na drodze robotach mogących powodować utrudnienia w ruchu.": "Знак, показанный на фотографии, предупреждает о том, что на дороге проводятся работы, которые могут вызвать затруднения в движении.",
-
     "--ruch silnika--": "",
     "W tej sytuacji silnik nie daje się uruchomić i nie masz możliwości usunięcia pojazdu z torowiska. Czy jesteś zobowiązany ostrzec kierującego pojazdem szynowym o niebezpieczeństwie?": "В этой ситуации двигатель не запускается, и у вас нет возможности снять автомобиль с рельсов. Вы обязаны предупредить водителя железнодорожного транспорта об опасности?",
     "Czy jako kierujący możesz oddalić się od pojazdu, którego silnik jest w ruchu?": "Можете ли вы, как водитель, отойти от автомобиля, двигатель которого запущен и работает?",
     "Czy przepisy ustawy Prawo o ruchu drogowym dopuszczają możliwość oddalenia się od pojazdu, którego silnik jest w ruchu?": "Допускает ли закон О дорожном движении возможность удалиться от транспортного средства, двигатель которого запущен и работает?",
-
     "--spadek podłużny--": "",
     "Znak widoczny na zdjęciu ostrzega o znacznym spadku podłużnym drogi.": "Знак, видимый на фото, предупреждает о крутом спуске.",
-
     "--odcinek--": "",
     "Znak widoczny na zdjęciu ostrzega o odcinku drogi pokrytej żwirem (grysem), który może być wyrzucany spod kół jadących pojazdów.": "Знак, показанный на фотографии, предупреждает о участке дороги, покрытом гравием, который может быть выброшен из-под колес движущихся транспортных средств.",
     "Czy na odcinku drogi za widocznym znakiem będziesz ostrzegany o każdym występującym na niej zakręcie?": "Будете ли вы предупреждены о каждом повороте на участке дороги за видимым знаком?",
@@ -32,20 +28,16 @@
     "Czy wolno Ci zatrzymać się na odcinku jezdni przed widocznym znakiem w celu wysadzenia pasażera?": "Разрешено ли вам останавливаться на участке дороги перед видимым знаком для высадки пассажира?",
     "Czy znak zakazu umieszczony pod znakiem obszar zabudowany oznacza, że zakaz obowiązuje na całym obszarze zabudowanym z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem?": "Означает ли знак запрета, помещенный под знаком застроенной территории, что запрет действует на всей застроенной территории, за исключением участка дороги, на котором он был изменен или отменен другим знаком?",
     "Tabliczka widoczna pod znakiem wskazuje długość odcinka drogi, na którym powtarza się lub występuje niebezpieczeństwo.": "Табличка, видимая под знаком, указывает длину участка дороги, на котором повторяется или возникает опасность.",
-
     "--przecięcie--": "",
     "Znak \"uwaga tramwaj\" ostrzega przed przecięciem drogi przez tory tramwajowe.": "Знак \"Внимание трамвай\" предупреждает о пересечении дороги трамвайными путями.",
-
     "--prog zwalniający--": "",
     "Znak ostrzega o zbliżaniu się do progu zwalniającego.": "Знак предупреждает о приближении к искусственной дорожной неровности (лежачему полицейскому).",
-
     "--nierówność--": "",
     "Znak widoczny na zdjęciu ostrzega o poprzecznej nierówności jezdni.": "Знак, видимый на фото, предупреждает о неровности проезжей части.",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o nierównościach na drodze, występujących na odcinku 1,2 km za znakiem?": "Предупреждены ли вы в описанной ситуации о неровностях на дороге, возникающих на участке в 1,2 км после знака?",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o poprzecznej nierówności jezdni?": "Предупреждены ли вы о неровности проезжей части в представленной ситуации?",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o   poprzecznej nierówności jezdni spowodowanej ubytkami nawierzchni?": "В представленной ситуации вас предупреждают о неровности проезжей части, вызванной полостью дорожного покрытия?",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o poprzecznej nierówności jezdni spowodowanej ubytkami nawierzchni?": "В представленной ситуации вас предупреждают о неровности проезжей части, вызванной дефектами дорожного покрытия?",
-
     "--zapory": "",
     "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego bez zapór?": "В представленной ситуации вы приближаетесь к железнодорожному переезду без шлагбаумов?",
     "Czy widoczne oznakowanie ostrzega o przejeździe kolejowym z zaporami?": "Предупреждают ли видимые знаки о железнодорожном переезде с шлагбаумами?",
@@ -57,7 +49,6 @@
     "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do przejazdu kolejowego, wyposażonego w zapory lub półzapory?": "В представленной ситуации вас предупреждают о приближении к железнодорожному переезду, оборудованному шлагбаумами?",
     "Ten znak ostrzega o zbliżaniu się do przejazdu z zaporami.": "Этот знак предупреждает о приближении к железнодорожному переезду с шлагбаумами.",
     "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego z zaporami?": "Вы приближаетесь к железнодорожному переезду с шлагбаумами в представленной ситуации?",
-
     "--wlot--": "",
     "Skrzyżowanie z wlotem drogi jednokierunkowej występującej z lewej strony poprzedza się innym znakiem (A - 6e)": "Перекрестку с примыканием односторонней дороги, встречающейся слева, предшествует другой знак (A - 6e)",
     "W przypadku wlotu drogi jednokierunkowej po lewej stronie stosuje się znak  A-6e.": "В случае примыкания односторонней дороги слева используется знак A-6e.",
@@ -66,7 +57,6 @@
     "Znak ostrzega o zbliżaniu się do wlotu drogi jednokierunkowej z prawej strony": "Знак предупреждает о приближении к примыканию дороги с односторонним движением справа",
     "O skrzyżowaniu z wlotem drogi jednokierunkowej występującej z lewej strony ostrzega inny znak (A-6e).": "О пересечении с односторонней дорогой, примыкающей слева, предупреждает другой знак (A-6e).",
     "Znak A-6d: wlot drogi jednokierunkowej z prawej strony": "Знак A-6d: примыкание дороги с односторонним движением справа",
-
     "--podporządkowaną--": "",
     "Znak A-6b - skrzyżowanie z drogą podporządkowaną występującą po prawej stronie.": "Знак A-6b - перекресток с второстепенной дорогой справа.",
     "Znak A-6c - skrzyżowanie z drogą podporządkowaną występującą po lewej stronie.": "Знак A-6c - перекресток с второстепенной дорогой слева.",
@@ -89,7 +79,6 @@
     "Czy w tej sytuacji zbliżasz się do skrzyżowania z drogą jednokierunkową podporządkowaną znajdującą się po prawej stronie?": "В этой ситуации вы приближаетесь к перекрестку с односторонней второстепенной дорогой, расположенной справа?",
     "Pojazdy jeżdżące poprzecznie poruszają się drogą podporządkowaną.": "Транспортные средства, движущиеся в поперечном направлении, движутся по второстепенной дороге.",
     "Czy ten znak ostrzega o skrzyżowaniu z drogą podporządkowaną, występującą po prawej stronie?": "Предупреждает ли этот знак о перекрестке с второстепенной дорогой, расположенной справа?",
-
     "--sygnalizator--": "",
     "Czy w tej sytuacji, kiedy na sygnalizatorze nadawane jest sygnał żółty migający, powinieneś ustąpić pierwszeństwa pieszemu z lewej strony?": "В этой ситуации, когда на светофоре мигает желтый сигнал, следует ли уступать дорогу пешеходу слева?",
     "Czy w tej sytuacji migający sygnał żółty zezwala Ci wjechać za sygnalizator bez zatrzymywania się?": "В этой ситуации разрешает ли мигающий желтый сигнал проехать светофор без остановки?",
@@ -97,7 +86,6 @@
     "Czy w tej sytuacji wolno Ci wjechać za sygnalizator, jeżeli zatrzymanie się przed nim wymaga gwałtownego hamowania?": "В этой ситуации разрешено ли вам проехать светофор, если остановка перед ним требует резкого торможения?",
     "Czy w tej sytuacji sygnał żółty migający zezwala na wjazd za sygnalizator?": "Разрешает ли в этой ситуации мигающий желтый сигнал проезд за светофор?",
     "Czy w tej sytuacji nadawany sygnał świetlny zezwala Ci na wjazd za sygnalizator?": "В этой ситуации разрешает ли переданный световой сигнал проезд за светофор?",
-
     "--nadjeżdżając--": "",
     "Czy w tej sytuacji masz pierwszeństwo przed nadjeżdżającym z lewej strony rowerzystą?": "Есть ли у вас в этой ситуации преимущество перед приближающимся с левой стороны велосипедистом?",
     "Czy na jezdni za tym znakiem ostrzegawczym możesz spodziewać się pojazdu nadjeżdżającego z przeciwka?": "Можете ли вы ожидать приближающегося с встречного направления автомобиля за этим предупреждающим знаком?",
@@ -105,7 +93,6 @@
     "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy w tej sytuacji należy przyśpieszyć, aby zdążyć przejechać przed pojazdami nadjeżdżającymi z przeciwka?": "Вы собираетесь повернуть налево на перекрестке. Нужно ли в этой ситуации ускоряться, чтобы успеть проехать впереди приближающихся с встречного направления транспортных средств?",
     "Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się: pojazdu nadjeżdżającego z przeciwka.": "Водитель транспортного средства, используя дальний свет, обязан переключить его на ближний свет при приближении: встречного транспортного средства.",
     "1. Patrzeć prosto w reflektory pojazdu nadjeżdżającego z przeciwka.": "1. Смотреть прямо в фары приближающегося автомобиля.",
-
     "--pierwszeństwo--": "",
     "Czy skręcając w lewo masz pierwszeństwo przed pojazdem nadjeżdżającym z przeciwka?": "Когда вы поворачиваете налево, у вас есть преимущество перед встречным автомобилем?",
     "Czy jadąc na wprost masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Если вы едете прямо, вы обязаны уступить дорогу транспортному средству, приближающемуся справа?",
@@ -992,5 +979,12 @@
     "Znak A-32 - oszronienie jezdni lub gołoledź.": "Знак а-32-обморожение проезжей части или гололедица.",
     "Czy ten znak ostrzega o niebezpiecznym zakręcie w prawo?": "Предупреждает ли этот знак об опасном повороте вправо?",
     "Znak A-1 - niebezpieczny zakręt w prawo.": "Знак а-1-опасный поворот вправо.",
-    "Świadczą o tym znak A-7 wraz z tabliczką.": "Об этом свидетельствует знак а-7 вместе с табличкой."
+    "Świadczą o tym znak A-7 wraz z tabliczką.": "Об этом свидетельствует знак а-7 вместе с табличкой.",
+    "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości jezdni zastosowanej w celu spowolnienia ruchu?": "В представленной ситуации вас предупреждают о выступе проезжей части, используемом для замедления движения?",
+    "Znak widoczny na zdjęciu ostrzega o poprzecznej nierówności jezdni. O wypukłości jezdni zastosowanej w celu spowolnienia ruchu ostrzega znak A-11a.": "Знак, видимый на фото, предупреждает о поперечном неровности проезжей части. О выступе проезжей части, используемом для замедления движения, предупреждает знак а-11а.",
+    "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu?": "В представленной ситуации вас предупреждают о выступе на проезжей части, используемом для замедления движения?",
+    "Znak widoczny na zdjęciu ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu.": "Знак, видимый на фотографии, предупреждает о выступе на проезжей части, используемом для замедления движения.",
+    "Czy umieszczona pod znakiem ostrzegawczym widocznym na zdjęciu tabliczka, wskazuje jego odległość od miejsca niebezpiecznego?": "Указана ли табличка под предупреждающим знаком, видимым на фотографии, на ее расстоянии от опасного места?",
+    "Czy w przedstawionej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В представленной ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?",
+    "Znak widoczny na zdjęciu ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu .": "Знак, показанный на фотографии, предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения ."
 }
