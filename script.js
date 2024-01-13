@@ -18,6 +18,11 @@
         '#b-answer',
         '#c-answer',
         '#report-explanation',
+        '#q-result-explanation',
+        '#q-result-question',
+        '#learning-success-tr2 > td > div:not([class]):not([id])',
+        '#learning-failure-tr2 > td:first-child',
+        '#learning-failure-tr3 > td:first-child',
         '#report-a-answer',
         '#report-b-answer',
         '#report-c-answer',
@@ -140,15 +145,21 @@
     }
 
     function getElementWithTranslation(originalElement) {
-        var clonedId = originalElement.id + '-cloned';
+         if (!originalElement.id) {
+              originalElement.id = 'random-' + Math.floor(Math.random() * 1000000);
+          }
+
+
+        var originalId = originalElement.id;
+        var clonedId = originalId + '-cloned';
         var clonedContent = document.getElementById(clonedId);
 
         if (!clonedContent) {
-            clonedContent = document.createElement('div');
+            clonedContent = document.createElement(originalElement.tagName);
             clonedContent.id = clonedId;
             originalElement.parentNode.insertBefore(clonedContent, originalElement.nextSibling);
 
-            if (originalElement.id.endsWith('-content')) {
+            if (originalId.endsWith('-content') || originalId.endsWith('q-result-explanation') || originalId.endsWith('q-result-question')) {
                 originalElement.parentNode.insertBefore(document.createElement('br'), clonedContent);
             }
 
@@ -161,29 +172,32 @@
     function updateTranslation(selector) {
         document.querySelectorAll(selector).forEach(element => {
             var id = element.id; // Определение ID элемента
-            var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
+            console.log(selector + ": " + id)
+            if (!id.includes('-cloned')) {
+                var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
-            if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[selector]) {
-                console.log("Element changed: " + originalTextWithNoTranslate)
-                contentCache[selector] = originalTextWithNoTranslate;
+                if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[selector]) {
+                    console.log("Element changed: " + originalTextWithNoTranslate)
+                    contentCache[selector] = originalTextWithNoTranslate;
 
-                if (id && id.endsWith('-answer')) {
-                    translateText(originalTextWithNoTranslate, function(translatedText) {
-                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
-                    });
-                } else if (selector.includes('page_title')) {
-                    translateText(originalTextWithNoTranslate, function(translatedText) {
-                        element.innerHTML = originalTextWithNoTranslate + '<translation><br />' + translatedText + '</translation>';
-                    });
-                } else {
-                    var clonedContent = getElementWithTranslation(element)
-                    clonedContent.style.display = 'none';
-
-                    translateText(originalTextWithNoTranslate, function(translatedText) {
+                    if (id && id.endsWith('-answer')) {
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
+                        });
+                    } else if (selector.includes('page_title')) {
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                            element.innerHTML = originalTextWithNoTranslate + '<translation><br />' + translatedText + '</translation>';
+                        });
+                    } else {
                         var clonedContent = getElementWithTranslation(element)
-                        clonedContent.innerHTML = '<b>' + translatedText + '</b>';
-                        clonedContent.style.display = 'block';
-                    });
+                        clonedContent.style.display = 'none';
+
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                            var clonedContent = getElementWithTranslation(element)
+                            clonedContent.innerHTML = '<b>' + translatedText + '</b>';
+                            clonedContent.style.display = 'block';
+                        });
+                    }
                 }
             }
         });
