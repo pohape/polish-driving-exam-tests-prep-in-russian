@@ -149,7 +149,6 @@
               originalElement.id = 'random-' + Math.floor(Math.random() * 1000000);
           }
 
-
         var originalId = originalElement.id;
         var clonedId = originalId + '-cloned';
         var clonedContent = document.getElementById(clonedId);
@@ -171,8 +170,8 @@
 
     function updateTranslation(selector) {
         document.querySelectorAll(selector).forEach(element => {
-            var id = element.id; // Определение ID элемента
-            console.log(selector + ": " + id)
+            var id = element.id;
+
             if (!id.includes('-cloned')) {
                 var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
