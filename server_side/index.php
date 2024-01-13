@@ -8,7 +8,7 @@ $inputJSON = file_get_contents('php://input');
 $input = json_decode($inputJSON, true);
 
 if (isset($input['text'])) {
-    echo json_encode(Translate::translate($input['text']), JSON_UNESCAPED_UNICODE);
+    echo json_encode(Translate::performTranslation($input['text']), JSON_UNESCAPED_UNICODE);
 } else {
     echo json_encode(['error' => 'No text provided']);
 }

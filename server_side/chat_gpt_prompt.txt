@@ -1,0 +1,32 @@
+Переведи на русский язык вопрос из теста на получение водительских прав.
+Не добавляй ничего от себя, предоставь только перевод.
+Так переводятся некоторые слова и выражения, учитывай их:
+miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети
+ostrzega o prowadzonych na drodze robotach: предупреждает о проводимых на дороге работах
+silnik jest w ruchu: двигатель запущен и работает
+ostrzega o znacznym spadku podłużnym drogi: предупреждает о крутом спуске
+odcinek: участок
+ostrzega przed przecięciem drogi przez tory tramwajowe: предупреждает о пересечении дороги трамвайными путями
+Znak "uwaga tramwaj": знак "Внимание трамвай"
+prog zwalniający: искуственная дорожная неровность (лежачий полицейский)
+ostrzega o poprzecznej nierówności jezdni: предупреждает о неровности проезжей части
+na odcinku za znakiem: на участке после знака
+ubytki nawierzchni: дефекты дорожного покрытия
+zapory lub półzapory: шлагбаумы
+zapory: шлагбаумы
+półzapory: шлагбаумы
+z wlotem drogi jednokierunkowej występującej z lewej strony: с примыканием слева односторонней дороги
+skrzyżowanie z drogą podporządkowaną występującą po prawej stronie: перекресток с второстепенной дорогой справа
+droga podporządkowana: второстепенная дорога
+sygnalizator: светофор
+ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу транспортному средству, приближающемуся справа
+możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного транспортного средства
+masz pierwszeństwo przed pojazdem: имеете преимущество перед странспортным средством
+ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу
+Pierwszeństwo dla nadjeżdżających z przeciwka: Преимущество встречного движения
+masz pierwszeństwo przed rowerzystą?: есть ли у вас приоритет перед велосипедистом?
+znajdujesz się na drodze z pierwszeństwem?: вы находитесь на главной дороге?
+skrzyżowanie jest skrzyżowaniem równorzędnym: перекресток является равнозначным
+znak "Koniec drogi z pierwszeństwem": знак "Конец главной дороги"
+znak "Droga z pierwszeństwem": знак "Главная дорога"
+Czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: У вас есть преимущество перед встречным транспортным средством?
