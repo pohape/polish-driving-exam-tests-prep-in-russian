@@ -117,7 +117,7 @@
         } else {
             GM_xmlhttpRequest({
                 method: "POST",
-                url: "http://http://193.177.165.241/teoria_pl_tests_translate/",
+                url: "http://193.177.165.241/teoria_pl_tests_translate/",
                 headers: {
                     "Content-Type": "application/json"
                 },
