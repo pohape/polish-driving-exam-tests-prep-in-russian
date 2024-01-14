@@ -1179,5 +1179,7 @@
     "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
     "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu.": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
     "Czy ten znak informuje Cię, że zbliżasz się do końca autostrady?": "Знак этот информирует тебя о том, что ты приближаешься к концу автомагистрали?",
-    "Widoczny znak to D-10 - Koniec autostrady.": "Видимый знак это D-10 - \"Конец автомагистрали\"."
+    "Widoczny znak to D-10 - Koniec autostrady.": "Видимый знак это D-10 - \"Конец автомагистрали\".",
+    "Widoczny znak informacyjny to D-5 - Pierwszeństwo na zwężonym odcinku jezdni.": "Видимый информационный знак - это D-5 - Преимущество на суженном участке проезжей части.",
+    "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?"
 }
