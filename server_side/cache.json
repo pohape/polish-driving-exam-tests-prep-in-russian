@@ -1228,5 +1228,8 @@
     "Czy w tej sytuacji zatrzymanie pojazdu w celu ustąpienia pierwszeństwa powinno nastąpić bezpośrednio przed linią bezwzględnego zatrzymania?": "Должны ли вы в этой ситуации остановить транспортное средство, чтобы уступить дорогу, непосредственно перед линией обязательной остановки?",
     "Linia wyznacza miejsce zatrzymania.": "Линия определяет место остановки.",
     "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują.": "Горизонтальные знаки на проезжей части в виде стрелок обязывают движение только в указанном направлении с полос движения, на которых они находятся.",
-    "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимая горизонтальная разметка разделяет полосы движения, предназначенные для транспорта, движущегося в одном направлении?"
+    "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимая горизонтальная разметка разделяет полосы движения, предназначенные для транспорта, движущегося в одном направлении?",
+    "Czy z tego pasa ruchu dozwolona jest jazda tylko prosto przez skrzyżowanie?": "С этой полосы движения разрешено движение только прямо через перекресток?",
+    "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "Обязаны ли вы соблюдать дорожные знаки, установленные на внутренней дороге, обозначенной соответствующим дорожным знаком?",
+    "Na drodze wewnętrznej obowiązują przepisy ruchu drogowego.": "На внутренней дороге действуют правила дорожного движения."
 }
