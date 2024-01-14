@@ -1254,5 +1254,10 @@
     "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
     "Znak uprzedza o końcu lewego pasa.": "Знак предупреждает о конце левой полосы.",
     "Dopuszcza się postój pojazdu po lewej stronie drogi jednokierunkowej.": "Разрешена остановка ТС слева на односторонней дороге.",
-    "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?"
+    "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
+    "Pas ruchu nie jest przeznaczony do skrętu w lewo.": "Полоса движения не предназначена для поворота налево.",
+    "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных ТС?",
+    "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
+    "Świadczy o tym tabliczka umieszczona pod znakiem.": "Это указывает табличка, расположенная под знаком.",
+    "Czy w tej sytuacji skręcając w lewo masz zawsze pierwszeństwo na tym skrzyżowaniu?": "Имеете ли вы всегда преимущество при повороте налево на этом перекрестке в данной ситуации?"
 }
