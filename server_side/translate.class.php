@@ -119,7 +119,7 @@ class Translate {
         $cache = self::loadCache();
 
         if (isset($cache[$text])) {
-            return array(
+            $result = array(
                 'translate' => $cache[$text],
                 'error' => null
             );
@@ -133,7 +133,25 @@ class Translate {
                 self::saveToCache($text, $translationResult['translate']);
             }
 
-            return $translationResult;
+            $result = $translationResult;
         }
+
+        if (!empty($result['translate'])) {
+            $additional = '';
+
+            if (stripos($text, 'zterokoł')) {
+                $additional .= '"czterokołowec" - масса до 400 кг в случае перевозки людей и масса до 550 кг в случае перевозки грузов';
+
+                if (stripos($text, 'lekk')) {
+                    $additional .= ', "czterokołowec lekki" - это масса до 350 кг и скорость до 45 км/ч';
+                }
+            }
+
+            if ($additional) {
+                $result['translate'] .= ' (' . $additional . ')';
+            }
+        }
+
+        return $result;
     }
 }

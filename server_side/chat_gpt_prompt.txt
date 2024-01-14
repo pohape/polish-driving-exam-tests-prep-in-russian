@@ -36,3 +36,10 @@ pojazd jednośladowy: одноколейное ТС
 motocykle jednośladowe: одноколейные мотоциклы
 z wyjątkiem: за исключением
 pojazd szynowy: железнодорожный транспорт
+dmc: разрешенная максимальная масса
+jezdnia: проезжая часть
+droga jednojezdniowa: дорога с одной проезжей частью
+lekki: лёгкий
+Не переводи слово "czterokołowiec" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
+kierować czterokołowcem: управлять так называемым "czterokołowcem"
+prędkość czterokołowca: скорость так называемого "czterokołowca"
