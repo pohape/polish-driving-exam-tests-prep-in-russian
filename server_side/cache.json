@@ -1,4 +1,9 @@
 {
+    "--cofanie--": "",
+    "Czy na jezdni za tym znakiem pionowym możesz wykonać manewr cofania?": "Можете ли вы выполнить манёвр заднего хода на проезжей части за этим вертикальным знаком?",
+    "Czy masz prawo cofać pojazdem na moście przy zachowaniu szczególnej ostrożności?": "Имеете ли вы право двигаться задним ходом на мосту (с особой осторожностью)?",
+    "Czy za widocznym znakiem informacyjnym wolno Ci cofać?": "За видимым информационным знаком вам разрешено двигаться задним ходом?",
+    "Cofanie na drodze jednokierunkowej jest dozwolone.": "Разрешено движение задним ходом на односторонней дороге.",
     "--pas włączania i wyłączania--": "",
     "Znak widoczny na zdjęciu informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania).": "Знак, видимый на фотографии, информирует о приближении к началу полосы, ведущей к выезду с автомагистрали (полоса торможения).",
     "--miejscowość--": "",
@@ -423,7 +428,6 @@
     "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, при обходе, вы обязаны проявлять особую осторожность?",
     "Czy sygnał, który daje policjant oznacza, że na najbliższym skrzyżowaniu masz obowiązek skręcić w prawo?": "Означает ли сигнал, который дает полицейский, что на ближайшем перекрестке вы обязаны повернуть направо?",
     "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?",
-    "Czy za widocznym znakiem informacyjnym wolno Ci cofać?": "За видимым информационным знаком вам разрешено отступать?",
     "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?",
     "Czy możesz skorzystać z tej drogi, chcąc wjechać do myjni?": "Можете ли вы воспользоваться этой дорогой, желая въехать в автомойку?",
     "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
@@ -627,7 +631,6 @@
     "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
     "Czy w czasie postoju pojazdu w nocy na nieoświetlonej jezdni masz obowiązek używać świateł pozycyjnych lub postojowych?": "Вы обязаны использовать габаритные огни или габаритные огни при остановке автомобиля ночью на неосвещенной дороге?",
     "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
-    "Czy masz prawo cofać pojazdem na moście przy zachowaniu szczególnej ostrożności?": "Имеете ли вы право ездить на автомобиле по мосту с особой осторожностью?",
     "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
     "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
     "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"”",
@@ -1152,7 +1155,5 @@
     "Czy na drodze za tym znakiem możesz jechać z prędkością 20km\/h?": "Можете ли вы двигаться на этой дороге после этого знака со скоростью 20 км\/ч?",
     "Czy na drodze za tym znakiem pionowym masz pierwszeństwo przed pieszymi?": "На дороге после этого вертикального знака у вас есть преимущество перед пешеходами?",
     "W strefie zamieszkania pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem.": "В зоне проживания пешеход использует всю ширину дороги и имеет преимущество перед транспортным средством.",
-    "Czy na drodze za tym znakiem pionowym masz obowiązek ustąpić pierwszeństwa pieszym?": "Обязаны ли вы уступить дорогу пешеходам на участке после этого вертикального знака?",
-    "Czy na jezdni za tym znakiem pionowym możesz wykonać manewr cofania?": "Можете ли вы выполнить манёвр заднего хода на проезжей части за этим вертикальным знаком?",
-    "Cofanie na drodze jednokierunkowej jest dozwolone.": "Допускается ли движение задним ходом по односторонней дороге?"
+    "Czy na drodze za tym znakiem pionowym masz obowiązek ustąpić pierwszeństwa pieszym?": "Обязаны ли вы уступить дорогу пешеходам на участке после этого вертикального знака?"
 }
