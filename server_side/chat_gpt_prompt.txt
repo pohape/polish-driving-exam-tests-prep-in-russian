@@ -19,6 +19,7 @@ z wlotem drogi jednokierunkowej występującej z lewej strony: с примыка
 skrzyżowanie z drogą podporządkowaną występującą po prawej stronie: перекресток с второстепенной дорогой справа
 droga podporządkowana: второстепенная дорога
 sygnalizator: светофор
+Sygnalizacja świetlna: светофор
 ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу ТС, приближающемуся справа
 możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного ТС
 masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС
