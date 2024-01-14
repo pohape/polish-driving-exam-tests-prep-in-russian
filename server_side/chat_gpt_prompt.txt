@@ -39,6 +39,7 @@ pojazd szynowy: железнодорожный транспорт
 dmc: разрешенная максимальная масса
 jezdnia: проезжая часть
 droga jednojezdniowa: дорога с одной проезжей частью
+droga dwujezdniowa: дорога с двумя проезжими частями
 lekki: лёгкий
 na regularnych liniach: на регулярных маршрутах
 miejscowość: местность
