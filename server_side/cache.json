@@ -1066,5 +1066,9 @@
     "Znak widoczny na zdjęciu oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku.": "Знак, видимый на фотографии, означает, что на перекрестке движение осуществляется вокруг островка или площади в направлении, указанном на знаке.",
     "Czy w tej sytuacji wolno Ci zawrócić na najbliższym skrzyżowaniu?": "В данной ситуации разрешено ли вам развернуться на ближайшем перекрестке?",
     "Na najbliższym skrzyżowaniu nie można skręcić w lewo i zawrócić.": "На ближайшем перекрестке нельзя повернуть налево и развернуться.",
-    "Widoczny na zdjęciu znak to zakaz zawracania.": "Знак, видимый на фотографии, означает запрет на разворот."
+    "Widoczny na zdjęciu znak to zakaz zawracania.": "Знак, видимый на фотографии, означает запрет на разворот.",
+    "Zakaz skrętu w lewo uniemożliwia również zawracanie.": "Запрет на поворот налево также не разрешает разворот.",
+    "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
+    "Zakaz postoju dotyczy tej strony drogi, po której znak się znajduje": "Знак запрещает остановку на той стороне дороги, на которой он установлен.",
+    "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?"
 }
