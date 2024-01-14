@@ -1275,5 +1275,8 @@
     "Czy w tej sytuacji prawy skrajny pasu ruchu przeznaczony jest tylko dla pojazdów szynowych?": "В данной ситуации правая крайняя полоса движения предназначена только для железнодорожного транспорта?",
     "Dla pojazdów szynowych nie jest przeznaczony skrajny prawy pas.": "Для железнодорожного транспорта не предназначена крайняя правая полоса.",
     "Znak informuje o przeznaczeniu pasów ruchu.": "Знак информирует о назначении полос движения.",
-    "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?"
+    "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?",
+    "Widoczny znak nie zabrania się poruszania skrajnym prawym pasem.": "Видимый знак не запрещает движение по крайней правой полосе.",
+    "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej.": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
+    "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1."
 }
