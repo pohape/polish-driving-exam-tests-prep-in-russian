@@ -1292,5 +1292,10 @@
     "Czy widoczny znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach?": "Видимый знак указывает полосы движения, предназначенные для движения в указанных направлениях?",
     "Znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach.": "Знак указывает полосы движения, предназначенные для движения в указанных направлениях.",
     "Zawracanie uniemożliwia oznakowanie poziome.": "Разворот запрещён горизонтальной разметкой.",
-    "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?"
+    "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?",
+    "Skręt w lewo nie jest w żaden sposób ograniczony.": "Поворот налево никак не ограничен.",
+    "2. NIE": "Пункт 2: НЕ",
+    "1. TAK": "1. What does a diamond-shaped sign indicate?",
+    "Czy ten znak informuje o... (1098)": "Информирует ли этот знак о... (1098)  ",
+    "Czy znak zakazu umieszczony... (15843)": "К сожалению, вы не предоставили полный текст вопроса, поэтому я не смогу перевести его полностью. Пожалуйста, предоставьте полный текст вопроса для перевода."
 }
