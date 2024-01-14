@@ -1242,5 +1242,9 @@
     "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
     "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym.": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
     "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdzającemu z prawej strony?": "Обязаны ли вы в представленной ситуации уступить дорогу ТС, приближающемуся справа?",
-    "To nie jest skrzyżowanie równorzędne. Poruszamy się drogą z pierwszeństwem przejazdu.": "Это не равнозначный перекресток. Мы движемся по главной дороге."
+    "To nie jest skrzyżowanie równorzędne. Poruszamy się drogą z pierwszeństwem przejazdu.": "Это не равнозначный перекресток. Мы движемся по главной дороге.",
+    "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem nadjeżdzającym z prawej strony?": "В данной ситуации у вас есть преимущество перед ТС, приближающимся справа?",
+    "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
+    "Świadczy o tym znak informacyjny widoczny na zdjęciu.": "Это свидетельствует информационный знак, видимый на фото.",
+    "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров)."
 }
