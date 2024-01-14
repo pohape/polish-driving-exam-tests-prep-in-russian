@@ -1094,5 +1094,8 @@
     "Czy w tej sytuacji, skręcając w prawo, możesz wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации, поворачивая направо, можешь ли ты въехать на перекресток без остановки?",
     "Znak widoczny na zdjęciu zabrania skrętu w prawo.": "Знак, видимый на фотографии, запрещает поворот направо.",
     "Czy zakaz wyrażony tym znakiem obowiązuje za najbliższym skrzyżowaniem?": "Запрещает ли этот знак движение после ближайшего перекрестка?",
-    "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie ze skrzyżowaniem.": "Запрет на разворот действует от места установки знака до ближайшего перекрестка включительно с перекрестком."
+    "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie ze skrzyżowaniem.": "Запрет на разворот действует от места установки знака до ближайшего перекрестка включительно с перекрестком.",
+    "Czy zakaz wyrażony tym znakiem pionowym zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Запрещает ли этот вертикальный знак поворот налево на ближайшем перекрестке?",
+    "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
+    "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu.": "Запрет на правый поворот действует на ближайшем перекрестке."
 }
