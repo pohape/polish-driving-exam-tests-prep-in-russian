@@ -150,7 +150,7 @@
     "Ten znak ostrzega o zbliżaniu się do przejazdu z zaporami.": "Этот знак предупреждает о приближении к железнодорожному переезду с шлагбаумами.",
     "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego z zaporami?": "Вы приближаетесь к железнодорожному переезду с шлагбаумами в представленной ситуации?",
     "--wlot--": "",
-    "Skrzyżowanie z wlotem drogi jednokierunkowej występującej z lewej strony poprzedza się innym znakiem (A - 6e)": "Перекрестку с примыканием слева односторонней дороги, предшествует другой знак (A - 6e)",
+    "Skrzyżowanie z wlotem drogi jednokierunkowej występującej z lewej strony poprzedza się innym znakiem (A-6e)": "Перекрестку с примыканием слева односторонней дороги, предшествует другой знак (A-6e)",
     "W przypadku wlotu drogi jednokierunkowej po lewej stronie stosuje się znak A-6e.": "В случае примыкания односторонней дороги слева используется знак A-6e.",
     "Czy ten znak ostrzega, że zbliżasz się do skrzyżowania z wlotem drogi jednokierunkowej występującej z lewej strony?": "Предупреждает ли этот знак, что вы приближаетесь к перекрестку с примыканием односторонней дороги, идущей слева?",
     "Znak ostrzega o zbliżaniu się do wlotu drogi jednokierunkowej z prawej strony": "Знак предупреждает о приближении к примыканию дороги с односторонним движением справа",
@@ -1325,5 +1325,5 @@
     "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi.": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
     "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze.": "Знак предупреждает о въезде в участок с измерением скорости на дороге.",
     "Czy ten znak oznacza wjazd do strefy czystego transportu?": "Этот знак обозначает въезд в зону чистого транспорта?",
-    "Znak D - 54: strefa czystego transportu.": "Знак D - 54: зона чистого транспорта."
+    "Znak D-54: strefa czystego transportu.": "Знак D-54: зона чистого транспорта."
 }

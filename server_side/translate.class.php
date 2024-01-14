@@ -121,6 +121,7 @@ class Translate {
     }
 
     public static function performTranslation($text) {
+        $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
         $text = trim(preg_replace('/\s{1,}/', ' ', $text));
         $cache = self::loadCache();
 
