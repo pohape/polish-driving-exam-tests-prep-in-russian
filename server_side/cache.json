@@ -1297,5 +1297,10 @@
     "2. NIE": "Пункт 2: НЕ",
     "1. TAK": "1. What does a diamond-shaped sign indicate?",
     "Czy ten znak informuje o... (1098)": "Информирует ли этот знак о... (1098)  ",
-    "Czy znak zakazu umieszczony... (15843)": "К сожалению, вы не предоставили полный текст вопроса, поэтому я не смогу перевести его полностью. Пожалуйста, предоставьте полный текст вопроса для перевода."
+    "Czy znak zakazu umieszczony... (15843)": "К сожалению, вы не предоставили полный текст вопроса, поэтому я не смогу перевести его полностью. Пожалуйста, предоставьте полный текст вопроса для перевода.",
+    "Czy ten znak oznacza koniec drogi z pierwszeństwem?": "Этот знак означает конец главной дороги?",
+    "Znak z tabliczką informują o poruszaniu się drogą z pierwszeństwem przejazdu.": "Знак с табличкой информирует о движении по дороге с преимуществом проезда.",
+    "Świadczą o tym znak z tabliczką.": "Они свидетельствуют о том знак с табличкой.",
+    "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje układ torów i drogi na przejeździe tramwajowym?": "Является ли табличка, видимая под предупреждающим знаком, указателем расположения трамвайных путей и дороги на трамвайном переезде?",
+    "Tabliczka wskazuje układ torów i drogi.": "Табличка указывает расположение путей и дороги."
 }
