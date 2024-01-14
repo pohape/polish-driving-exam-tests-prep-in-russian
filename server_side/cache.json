@@ -1135,14 +1135,5 @@
     "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
     "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa.": "Видимый знак относится к группе информационных. D-3 Одностороннее движение.",
     "Czy zbliżając się do miejsca oznaczonego tym znakiem masz obowiązek zachować szczególną ostrożność?": "Приближаясь к месту, обозначенному этим знаком, вы обязаны проявлять особую осторожность?",
-    "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zachować szczególną ostrożność.": "Водитель, приближающийся к месту, обозначенному знаком, обязан соблюдать особую осторожность.",
-<<<<<<< HEAD
-    "Czy na tak oznakowanej drodze możesz jechać samochodem osobowym z prędkością 100 km\/h?": "Можете ли вы двигаться на личном автомобиле со скоростью 100 км\/ч на такой размеченной дороге?",
-    "Na drodze ekspresowej dwujezdniowej limit prędkości dla samochodu osobowego wynosi 120 km\/h.": "На двухполосной \"droga ekspresowa\" ограничение скорости для легкового автомобиля составляет 120 км\/ч.",
-    "Czy maksymalna prędkość, z jaką możesz jechać samochodem osobowym na drodze za tym znakiem wynosi 120 km\/h?": "Максимальная скорость, с которой вы можете ехать на легковом автомобиле на дороге после этого знака, составляет 120 км\/ч?",
-    "Wynosi 140 km\/h.": "Составляет 140 км\/ч.",
-    "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можете ли вы двигаться на дороге после этого знака со скоростью 30 км\/ч?"
-=======
-    "Czy na tak oznakowanej drodze możesz jechać samochodem osobowym z prędkością 100 km\/h?": "Можете ли вы двигаться на личном автомобиле со скоростью 100 км\/ч на такой размеченной дороге?"
->>>>>>> 67239ba6017f52060505342cc9bd3646e39a089c
+    "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zachować szczególną ostrożność.": "Водитель, приближающийся к месту, обозначенному знаком, обязан соблюдать особую осторожность."
 }
