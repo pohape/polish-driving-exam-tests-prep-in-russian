@@ -1,4 +1,7 @@
 {
+    "--schronisko młodzieżowe--": "",
+    "Czy ten znak pionowy informuje Cię o lokalizacji schroniska młodzieżowego?": "Даёт ли вам этот вертикальный знак информацию о местоположении туристического молодежного хостела?",
+    "Znak informuje o schronisku młodzieżowym znajdującym się przy drodze.": "Знак информирует о туристическом молодежном хостеле, расположенном у дороги.",
     "--cofanie--": "",
     "Czy na jezdni za tym znakiem pionowym możesz wykonać manewr cofania?": "Можете ли вы выполнить манёвр заднего хода на проезжей части за этим вертикальным знаком?",
     "Czy masz prawo cofać pojazdem na moście przy zachowaniu szczególnej ostrożności?": "Имеете ли вы право двигаться задним ходом на мосту (с особой осторожностью)?",
@@ -1172,7 +1175,5 @@
     "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.": "Водитель ТС обязан заблаговременно и явно сигнализировать о намерении изменить направление движения или полосу движения, а также прекратить сигнализацию немедленно после выполнения маневра.",
     "Znak umieszczony na górze oznacza koniec drogi z pierwszeństwem.": "Знак, расположенный сверху, обозначает конец главной дороги.",
     "Czy umieszczona pod widocznym znakiem tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie?": "Выставленная под видимым знаком табличка указывает на фактическую приоритетную дорогу на перекрестке?",
-    "Tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem.": "Знак указывает на фактическую дорогу с приоритетом.",
-    "Czy ten znak pionowy informuje Cię o lokalizacji schroniska młodzieżowego?": "Даёт ли вам этот вертикальный знак информацию о местоположении молодежного приюта?",
-    "Znak informuje o schronisku młodzieżowym znajdującym się przy drodze.": "Знак информирует о молодежном приюте, расположенном у дороги."
-}
+    "Tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem.": "Знак указывает на фактическую дорогу с приоритетом."
+    }
