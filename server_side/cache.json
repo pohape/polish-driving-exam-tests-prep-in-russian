@@ -1071,5 +1071,9 @@
     "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
     "Zakaz postoju dotyczy tej strony drogi, po której znak się znajduje": "Знак запрещает остановку на той стороне дороги, на которой он установлен.",
     "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
-    "Ten znak to zakaz skręcania w prawo.": "Этот знак означает запрет на поворот направо."
+    "Ten znak to zakaz skręcania w prawo.": "Этот знак означает запрет на поворот направо.",
+    "Czy masz obowiązek zatrzymać się przed widocznym przejazdem kolejowym nawet wówczas, gdy jesteś pewien, że nie nadjeżdża pociąg?": "Есть ли у вас обязанность остановиться перед видимым железнодорожным переездом, даже если вы уверены, что поезд не приближается?",
+    "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
+    "Czy w tnej sytuacji wolno Ci skręcić w prawo w widoczną drogę?": "Разрешено ли вам в этой ситуации повернуть направо на видимую дорогу?",
+    "Po skręcie ustawiono zakaz wjazdu.": "После поворота установлен знак запрета въезда."
 }
