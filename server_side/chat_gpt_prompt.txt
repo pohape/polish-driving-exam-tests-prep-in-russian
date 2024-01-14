@@ -19,9 +19,9 @@ z wlotem drogi jednokierunkowej występującej z lewej strony: с примыка
 skrzyżowanie z drogą podporządkowaną występującą po prawej stronie: перекресток с второстепенной дорогой справа
 droga podporządkowana: второстепенная дорога
 sygnalizator: светофор
-ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу транспортному средству, приближающемуся справа
-możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного транспортного средства
-masz pierwszeństwo przed pojazdem: имеете преимущество перед странспортным средством
+ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу ТС, приближающемуся справа
+możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного ТС
+masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС
 ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу
 Pierwszeństwo dla nadjeżdżających z przeciwka: Преимущество встречного движения
 masz pierwszeństwo przed rowerzystą?: есть ли у вас приоритет перед велосипедистом?
@@ -29,4 +29,6 @@ znajdujesz się na drodze z pierwszeństwem?: вы находитесь на г�
 skrzyżowanie jest skrzyżowaniem równorzędnym: перекресток является равнозначным
 znak "Koniec drogi z pierwszeństwem": знак "Конец главной дороги"
 znak "Droga z pierwszeństwem": знак "Главная дорога"
-Czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: У вас есть преимущество перед встречным транспортным средством?
+Czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: У вас есть преимущество перед встречным ТС?
+pojazd silnikowy wielośladowy: многоколейное ТС
+pojazd jednośladowy: одноколейное ТС
