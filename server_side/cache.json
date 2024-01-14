@@ -1088,5 +1088,8 @@
     "Widoczny znak to zakaz wjazdu.": "Видимый знак - это знак запрещения въезда.",
     "Znak \"STOP\" nakłada obowiązek zatrzymania się.": "Знак \"СТОП\" обязывает остановиться.",
     "Czy w tej sytuacji masz prawo pojechać prosto przez skrzyżowanie?": "В данной ситуации разрешено ли вам двигаться прямо через перекресток?",
-    "Znak nakazu uniemożliwia jazdę prosto.": "Знак обязательного направления запрещает движение прямо."
+    "Znak nakazu uniemożliwia jazdę prosto.": "Знак обязательного направления запрещает движение прямо.",
+    "Czy w tej sytuacji zatrzymanie pojazdu, w celu ustąpienia pierwszeństwa, powinno nastąpić każdorazowo przed znakiem „STOP”?": "Должны ли вы в этой ситуации каждый раз останавливать транспортное средство перед знаком «СТОП», чтобы уступить дорогу?",
+    "Zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności.": "Остановка должна произойти перед линией остановки или в месте с наилучшей видимостью.",
+    "Czy w tej sytuacji, skręcając w prawo, możesz wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации, поворачивая направо, можешь ли ты въехать на перекресток без остановки?"
 }
