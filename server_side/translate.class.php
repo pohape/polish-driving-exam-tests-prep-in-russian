@@ -43,7 +43,12 @@ class Translate {
         $decodedResponse = json_decode($response, true);
         curl_close($ch);
 
-        return $decodedResponse['choices'][0]['message']['content'] ?? null;
+        $translation = $decodedResponse['choices'][0]['message']['content'] ?? null;
+
+        return array(
+            'translate' => $translation,
+            'error' => $decodedResponse['error']['message'] ?? null
+        );
     }
 
 
@@ -124,8 +129,8 @@ class Translate {
                 $text
             );
 
-            if ($translationResult) {
-                self::saveToCache($text, $translationResult);
+            if ($translationResult['translate'] !== null) {
+                self::saveToCache($text, $translationResult['translate']);
             }
 
             return $translationResult;
