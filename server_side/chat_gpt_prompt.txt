@@ -35,3 +35,4 @@ pojazd silnikowy wielośladowy: многоколейное ТС
 pojazd jednośladowy: одноколейное ТС
 motocykle jednośladowe: одноколейные мотоциклы
 z wyjątkiem: за исключением
+pojazd szynowy: железнодорожный транспорт
