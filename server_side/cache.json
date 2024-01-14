@@ -1,4 +1,6 @@
 {
+    "--pas włączania i wyłączania--": "",
+    "Znak widoczny na zdjęciu informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania).": "Знак, видимый на фотографии, информирует о приближении к началу полосы, ведущей к выезду с автомагистрали (полоса торможения).",
     "--miejscowość--": "",
     "Jest to początek miejscowości. Droga nadal znajduje się poza obszarem zabudowanym,": "Это начало местности. Дорога все еще находится за пределами населенного пункта.",
     "Czy po wykonaniu skrętu w lewo na najbliższym skrzyżowaniu będziesz poruszał się w kierunku miejscowości Prażmów?": "После поворота налево на ближайшем перекрестке, будете ли вы двигаться в направлении местности Пражмув?",
@@ -1146,6 +1148,5 @@
     "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можете ли вы двигаться на дороге после этого знака со скоростью 30 км\/ч?",
     "Czy na drodze za tym znakiem możesz zawrócić?": "Можно ли на участке после этого знака совершить разворот?",
     "Czy najbliższy widoczny znak zobowiązuje do jazdy z prędkością do 50 km\/h?": "Обязывает ли ближайший видимый знак двигаться со скоростью до 50 км\/ч?",
-    "Czy ten znak informuje o zbliżaniu się do miejsca zjazdu z autostrady?": "Этот знак информирует о приближении к месту съезда с автомагистрали?",
-    "Znak widoczny na zdjęciu informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady (pasa wyłączania).": "Знак, видимый на фотографии, информирует о приближении к началу полосы, ведущей к выезду с автомагистрали (полоса отключения)."
+    "Czy ten znak informuje o zbliżaniu się do miejsca zjazdu z autostrady?": "Этот знак информирует о приближении к месту съезда с автомагистрали?"
 }
