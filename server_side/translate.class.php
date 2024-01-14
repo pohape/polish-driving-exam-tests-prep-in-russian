@@ -8,15 +8,19 @@ class Translate {
     const CACHE_FILE = 'cache.json';
 
     private static function requestOpenAI($systemMessage, $userData) {
-        if (!is_file(__DIR__ . '/' . self::OPEN_AI_API_KEY_FILE)) {
+        $filename = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
+
+        if (!is_file($filename)) {
             return array(
                 'translate' => null,
                 'error' => 'The file with the API key not found.'
             );
         }
 
+        $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+
         $data = [
-            'model' => 'gpt-3.5-turbo',//gpt-4-1106-preview',
+            'model' => 'gpt-4-1106-preview',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
                 ['role' => 'user', 'content' => $userData]
@@ -25,7 +29,7 @@ class Translate {
 
         $headers = [
             'Content-Type: application/json',
-            'Authorization: Bearer ' . trim(file_get_contents(__DIR__ . '/' . self::OPEN_AI_API_KEY_FILE))
+            'Authorization: Bearer ' . trim($lines[array_rand($lines)])
         ];
 
         $ch = curl_init('https://api.openai.com/v1/chat/completions');
