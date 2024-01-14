@@ -16,7 +16,7 @@ class Translate {
         }
 
         $data = [
-            'model' => 'gpt-4-1106-preview',
+            'model' => 'gpt-3.5-turbo',//gpt-4-1106-preview',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
                 ['role' => 'user', 'content' => $userData]
@@ -47,6 +47,7 @@ class Translate {
 
         return array(
             'translate' => $translation,
+            'info' => empty($decodedResponse['error']['message']) ? [$decodedResponse['model'], $decodedResponse['usage']] : null,
             'error' => $decodedResponse['error']['message'] ?? null
         );
     }
