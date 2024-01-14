@@ -1206,5 +1206,9 @@
     "Czy mając zamiar zawrócić na tym skrzyżowaniu jesteś na właściwym pasie ruchu?": "Собираясь развернуться на этом перекрестке, вы находитесь в правильной полосе движения?",
     "Do zawrócenia trzeba zająć skrajny lewy pas.": "Для разворота необходимо занять крайнюю левую полосу.",
     "Czy przed tą linią (złożoną z trójkątów) należy bezwzględnie się zatrzymać?": "Нужно ли обязательно остановиться перед этой линией (состоящей из треугольников)?",
-    "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku.": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении."
+    "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku.": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении.",
+    "Czy w przedstawionej sytuacji dojechałeś do przejścia dla pieszych?": "Вы прибыли к пешеходному переходу в данной ситуации?",
+    "W tej sytuacji dojechałeś\/aś do progu zwalniającego.": "В этой ситуации вы подъезжаете к искусственной дорожной неровности (лежачему полицейскому).",
+    "Czy w tej sytuacji podczas wyprzedzania masz prawo przejechać przez linię na środku jezdni?": "В данной ситуации во время обгона разрешается ли вам пересекать линию на середине проезжей части?",
+    "Zabrania się przejeżdżania przez linie podwójną ciągła.": "Запрещается пересекать двойную сплошную линию."
 }
