@@ -1204,5 +1204,7 @@
     "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Вы имеете право продолжить движение прямо, двигаясь по этой полосе движения?",
     "Ten pas służy do krętu w lewo.": "Эта полоса предназначена для поворота налево.",
     "Czy mając zamiar zawrócić na tym skrzyżowaniu jesteś na właściwym pasie ruchu?": "Собираясь развернуться на этом перекрестке, вы находитесь в правильной полосе движения?",
-    "Do zawrócenia trzeba zająć skrajny lewy pas.": "Для разворота необходимо занять крайнюю левую полосу."
+    "Do zawrócenia trzeba zająć skrajny lewy pas.": "Для разворота необходимо занять крайнюю левую полосу.",
+    "Czy przed tą linią (złożoną z trójkątów) należy bezwzględnie się zatrzymać?": "Нужно ли обязательно остановиться перед этой линией (состоящей из треугольников)?",
+    "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku.": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении."
 }
