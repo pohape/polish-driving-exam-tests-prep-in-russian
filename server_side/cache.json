@@ -993,5 +993,9 @@
     "Czy w przedstawionej sytuacji jesteś obowiązany do zatrzymania się przed znakiem?": "Вы обязаны остановиться перед знаком в представленной ситуации?",
     "Zatrzymanie powinno nastąpić w wyznaczonym w tym celu miejscu, a w razie jego braku - w takim miejscu, w którym kierujący może upewnić się, że nie utrudni ruchu na drodze z pierwszeństwem.": "Остановка должна произойти в специально отведенном для этого месте, а в отсутствие такового - в таком месте, где водитель может убедиться, что не будет затруднять движение на главной дороге.",
     "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?",
-    "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo.": "Знак, видимый на фотографии, означает запрет на поворот налево."
+    "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo.": "Знак, видимый на фотографии, означает запрет на поворот налево.",
+    "Czy ten znak zakazu umieszczony w obrębie skrzyżowania dotyczy tylko jezdni, przy której jest ustawiony?": "Знак запрета, установленный в пределах перекрестка, действует только на проезжую часть, у которой он расположен?",
+    "Znak zakaz skrętu w lewo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni.": "Знак запрета на поворот налево, расположенный в пределах перекрёстка, относится только к ближайшей проезжей части.",
+    "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo w najbliższą jezdnię?": "Можешь ли ты в данной ситуации повернуть направо на ближайшую проезжую часть?",
+    "Znak zakaz skrętu w prawo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот направо, находящийся в пределах перекрестка, относится только к ближайшей проезжей части."
 }
