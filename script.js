@@ -31,7 +31,7 @@
         '#a2',
         'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
         'div.page_title > h1',
-        'div.card-body'
+        'div.panel-body.card-panel > div.card-body'
     ];
 
     var selectorsToRemove = [
@@ -146,10 +146,6 @@
     }
 
     function getElementWithTranslation(originalElement) {
-         if (!originalElement.id) {
-              originalElement.id = 'random-' + Math.floor(Math.random() * 1000000);
-          }
-
         var originalId = originalElement.id;
         var clonedId = originalId + '-cloned';
         var clonedContent = document.getElementById(clonedId);
@@ -171,14 +167,21 @@
 
     function updateTranslation(selector) {
         document.querySelectorAll(selector).forEach(element => {
+            if (!element.id) {
+                element.id = 'random-' + Math.floor(Math.random() * 1000000);
+            }
+
             var id = element.id;
 
             if (!id.includes('-cloned')) {
                 var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
-                if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[selector]) {
-                    console.log("Element changed: " + originalTextWithNoTranslate)
-                    contentCache[selector] = originalTextWithNoTranslate;
+                if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
+                    console.log("");
+                    console.log("Element changed OLD: '" + originalTextWithNoTranslate + "'")
+                    console.log("NEW: '" + contentCache[id] + "'")
+                    console.log("");
+                    contentCache[id] = originalTextWithNoTranslate;
 
                     if (id && id.endsWith('-answer')) {
                         translateText(originalTextWithNoTranslate, function(translatedText) {
