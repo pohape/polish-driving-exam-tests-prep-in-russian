@@ -1226,5 +1226,7 @@
     "Czy w tej sytuacji widoczny bezpośrednio przed tobą znak poziomy wyznacza miejsce zatrzymania pojazdu w związku ze znakiem pionowym B-20 „STOP”?": "В данной ситуации видимая прямо перед вами горизонтальная разметка определяет место остановки транспортного средства в связи с вертикальным знаком B-20 \"СТОП\"?",
     "Jest to linia bezwarunkowego zatrzymania.": "Это линия безусловной остановки.",
     "Czy w tej sytuacji zatrzymanie pojazdu w celu ustąpienia pierwszeństwa powinno nastąpić bezpośrednio przed linią bezwzględnego zatrzymania?": "Должны ли вы в этой ситуации остановить транспортное средство, чтобы уступить дорогу, непосредственно перед линией обязательной остановки?",
-    "Linia wyznacza miejsce zatrzymania.": "Линия определяет место остановки."
+    "Linia wyznacza miejsce zatrzymania.": "Линия определяет место остановки.",
+    "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują.": "Горизонтальные знаки на проезжей части в виде стрелок обязывают движение только в указанном направлении с полос движения, на которых они находятся.",
+    "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимая горизонтальная разметка разделяет полосы движения, предназначенные для транспорта, движущегося в одном направлении?"
 }
