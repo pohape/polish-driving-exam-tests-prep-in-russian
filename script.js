@@ -30,7 +30,8 @@
         '#a1',
         '#a2',
         'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
-        'div.page_title > h1'
+        'div.page_title > h1',
+        'div.card-body'
     ];
 
     var selectorsToRemove = [
