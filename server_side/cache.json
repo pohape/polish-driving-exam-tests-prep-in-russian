@@ -1175,5 +1175,9 @@
     "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru.": "Водитель ТС обязан заблаговременно и явно сигнализировать о намерении изменить направление движения или полосу движения, а также прекратить сигнализацию немедленно после выполнения маневра.",
     "Znak umieszczony na górze oznacza koniec drogi z pierwszeństwem.": "Знак, расположенный сверху, обозначает конец главной дороги.",
     "Czy umieszczona pod widocznym znakiem tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem przez skrzyżowanie?": "Выставленная под видимым знаком табличка указывает на фактическую приоритетную дорогу на перекрестке?",
-    "Tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem.": "Знак указывает на фактическую дорогу с приоритетом."
-    }
+    "Tabliczka wskazuje rzeczywisty przebieg drogi z pierwszeństwem.": "Знак указывает на фактическую дорогу с приоритетом.",
+    "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
+    "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu.": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
+    "Czy ten znak informuje Cię, że zbliżasz się do końca autostrady?": "Знак этот информирует тебя о том, что ты приближаешься к концу автомагистрали?",
+    "Widoczny znak to D-10 - Koniec autostrady.": "Видимый знак это D-10 - \"Конец автомагистрали\"."
+}
