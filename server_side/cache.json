@@ -1187,5 +1187,10 @@
     "Znak oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi.": "Знак обозначает место, предназначенное для пересечения дороги велосипедистами в поперечном направлении.",
     "Czy widoczny znak pionowy informuje Cię, że zbliżasz się do restauracji i hotelu?": "Видимый вертикальный знак информирует тебя о том, что ты приближаешься к ресторану и отелю?",
     "D-28 - Restauracja; D-28 - Restauracja - informuje o wskazanym na znaku obiekcie znajdującym się przy drodze.": "D-28 - Ресторан; D-28 - Ресторан - информирует о объекте, указанном на знаке, находящемся у дороги.",
-    "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?"
+    "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?",
+    "Zabrania się zawracania na drodze jednokierunkowej.": "Запрещается разворачиваться на односторонней дороге.",
+    "Czy po wjeździe na drogę oznaczoną tymi znakami pionowymi, masz prawo kontynuować jazdę z prędkością 30 km\/h?": "После въезда на дорогу, обозначенную этими вертикальными знаками, у вас есть право продолжать движение со скоростью 30 км\/ч?",
+    "W strefie zamieszkania obowiązuje ograniczenie prędkości do 20 km\/h.": "В зоне жительства действует ограничение скорости до 20 км\/ч.",
+    "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, отмеченном этим информационным знаком, двигаться задним ходом ТС?",
+    "Zabrania się cofania w tunelu.": "Запрещается двигаться задним ходом в тоннеле."
 }
