@@ -1,4 +1,6 @@
 {
+    "--droga bez przejazdu": "",
+    "Nie jest zabronione zawracanie na drodze bez przejazdu.": "Не запрещено разворачиваться в тупике.",
     "--zespół pojazdów--": "",
     "Prawo jazdy kat. B uprawnia do kierowania zespołem pojazdów składającym się z samochodu osobowego i przyczepy, których łączna dopuszczalna masa całkowita nie przekracza 3,5 tony.": "Водительское удостоверение категории B дает право управлять автопоездом, состоящим из легкового автомобиля и прицепа, общий допустимый вес которого не превышает 3,5 тонн.",
     "Czy prawo jazdy kat. B uprawnia do kierowania zespołem pojazdów składającym się z samochodu osobowego i przyczepy, których łączna dopuszczalna masa całkowita nie przekracza 3,5 tony?": "Имеет ли водительское удостоверение Kat. B право управлять автопоездом, состоящим из легкового автомобиля и прицепа, общий допустимый вес которых не превышает 3,5 тонн?",
@@ -1140,6 +1142,5 @@
     "Czy maksymalna prędkość, z jaką możesz jechać samochodem osobowym na drodze za tym znakiem wynosi 120 km\/h?": "Максимальная скорость, с которой вы можете ехать на легковом автомобиле на дороге после этого знака, составляет 120 км\/ч?",
     "Wynosi 140 km\/h.": "Составляет 140 км\/ч.",
     "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можете ли вы двигаться на дороге после этого знака со скоростью 30 км\/ч?",
-    "Czy na drodze za tym znakiem możesz zawrócić?": "Можно ли на участке после этого знака совершить разворот?",
-    "Nie jest zabronione zawracanie na drodze bez przejazdu.": "Не запрещено разворачиваться на дороге без переезда."
+    "Czy na drodze za tym znakiem możesz zawrócić?": "Можно ли на участке после этого знака совершить разворот?"
 }
