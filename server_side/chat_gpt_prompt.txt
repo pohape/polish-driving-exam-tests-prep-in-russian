@@ -45,6 +45,7 @@ na regularnych liniach: на регулярных маршрутах
 miejscowość: местность
 obszar zabudowany: населенный пункт
 аutostrada: автомагистраль
+zespół pojazdów: автопоезд
 Не переводи выражение "droga ekspresowa" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
 na drodze, która nie jest drogą ekspresową: на дороге, которая не является "drogą ekspresową"
 Не переводи слово "czterokołowiec" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
