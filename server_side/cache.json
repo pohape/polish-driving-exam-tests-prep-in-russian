@@ -1,4 +1,7 @@
 {
+    "--zator--": "",
+    "Czy za tym znakiem, w razie zatrzymania pojazdu wskutek zatoru drogowego, masz obowiązek zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5m?": "За этим знаком, в случае остановки транспортного средства из-за затора, вы обязаны соблюдать расстояние от предшествующего транспортного средства не менее 5 м?",
+    "Jaki odstęp od poprzedzającego pojazdu masz obowiązek zachować podczas zatrzymania w zatorze drogowym w tunelu?": "Какое расстояние от предшествующего транспортного средства вы обязаны соблюдать при остановке в заторе в туннеле?",
     "--droga ekspresowa--": "",
     "Nie, ponieważ tabliczka wskazuje, że na drogę ekspresową wjeżdżasz dopiero za 450 metrów.": "Нет, потому что табличка указывает, что вы въезжаете на \"drogę ekspresową\" только через 450 метров.",
     "Tak, ponieważ wjeżdżasz na drogę ekspresową.": "Да, потому что вы въезжаете на \"drogę ekspresową\".",
@@ -465,7 +468,6 @@
     "Ładunek nie musi być zabezpieczony przed zmianą położenia.": "Груз не должен быть защищен от изменения положения.",
     "Na bezpieczeństwo podczas wymijania.": "Безопасность при уклонении.",
     "Gdy wyprzedzany pojazd jest 100 metrów za mną.": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
-    "Jaki odstęp od poprzedzającego pojazdu masz obowiązek zachować podczas zatrzymania w zatorze drogowym w tunelu?": "Какое расстояние от предшествующего транспортного средства вы обязаны соблюдать при остановке на заторе в туннеле?",
     "Powinieneś posadzić dziecko na środku tylnego siedzenia.": "Вы должны посадить ребенка в центр заднего сиденья.",
     "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
     "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
@@ -703,7 +705,6 @@
     "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
     "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
     "Czy z tak oznakowanej jezdni wolno Ci zjechać na widoczny po lewej stronie parking?": "С такой обозначенной дороги вам разрешено выезжать на стоянку, видимую слева?",
-    "Czy za tym znakiem, w razie zatrzymania pojazdu wskutek zatoru drogowego, masz obowiązek zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5m?": "За этим знаком, в случае остановки транспортного средства из-за дорожной заторы, вы обязаны соблюдать расстояние от предшествующего транспортного средства не менее 5 м?",
     "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
     "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
     "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
