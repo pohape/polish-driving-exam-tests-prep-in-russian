@@ -32,3 +32,5 @@ znak "Droga z pierwszeństwem": знак "Главная дорога"
 Czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: У вас есть преимущество перед встречным ТС?
 pojazd silnikowy wielośladowy: многоколейное ТС
 pojazd jednośladowy: одноколейное ТС
+motocykle jednośladowe: одноколейные мотоциклы
+z wyjątkiem: за исключением
