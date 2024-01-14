@@ -1044,5 +1044,10 @@
     "Czy w przedstawionej sytuacji masz obowiązek skręcić wyłącznie w prawo na najbliższym skrzyżowaniu?": "Обязаны ли вы в данной ситуации повернуть исключительно направо на ближайшем перекрестке?",
     "Znak nakazu zobowiązuje do skrętu w lewo lub w prawo.": "Знак обязательного направления подразумевает поворот налево или направо.",
     "Czy w tej sytuacji wolno Ci przejechać przez przejazd kolejowy bez zatrzymywania się, jeśli upewniłeś się wcześniej, że nie nadjeżdża pociąg?": "Можешь ли ты в этой ситуации проехать через железнодорожный переезд без остановки, если заранее убедился, что поезд не приближается?",
-    "Znak STOP zobowiązuje do zatrzymania.": "Знак STOP обязывает остановиться."
+    "Znak STOP zobowiązuje do zatrzymania.": "Знак STOP обязывает остановиться.",
+    "Czy w tej sytuacji z pasa ruchu, który zajmujesz, dozwolone jest wykonanie skrętu w prawo?": "Разрешен ли в данной ситуации поворот направо с полосы движения, на которой вы находитесь?",
+    "W związku z umieszczonym znakiem nakazu cała szerokość jezdni służy do skrętu w prawo.": "В связи с установленным знаком обязательного направления вся ширина проезжей части используется для поворота направо.",
+    "Czy wolno Ci wjechać na drogę za tym znakiem aby zawrócić?": "Вам разрешено въезжать на дорогу после этого знака, чтобы развернуться?",
+    "Ten znak to \"Zakaz ruchu w obu kierunkach\"": "Этот знак - \"Движение запрещено в обоих направлениях\".",
+    "Czy jadąc samochodem (bez przyczepy) o rzeczywistej masie całkowitej 3 t wolno Ci wjechać za ten znak?": "Разрешено ли Вам на автомобиле (без прицепа) с фактической полной массой 3 тонны въехать за этот знак?"
 }
