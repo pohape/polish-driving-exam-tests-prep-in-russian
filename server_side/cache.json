@@ -1023,5 +1023,11 @@
     "Znak widoczny na zdjęciu zakazuje ruchu pojazdów lub zespołów pojazdów, których długość wraz z ładunkiem jest większa od wartości podanej na znaku.": "Знак, видимый на фото, запрещает движение ТС или составов ТС, длина которых с грузом больше значения, указанного на знаке.",
     "Czy ten znak zabrania Ci wyprzedzać motocykle jednośladowe?": "Запрещает ли этот знак вам обгонять одноколейные мотоциклы?",
     "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad.": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
-    "Czy w tej sytuacji zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia?": "В данной ситуации действует ли запрет, указанный на знаке, начиная с места его установки?"
+    "Czy w tej sytuacji zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia?": "В данной ситуации действует ли запрет, указанный на знаке, начиная с места его установки?",
+    "Pod znakiem umieszczono tabliczkę wskazującą odległość znaku od miejsca w którym znak obowiązuje.": "Под знаком установлена табличка, указывающая расстояние от знака до места, где знак действует.",
+    "Czy umieszczona pod widocznym znakiem zakazu tabliczka wskazuje odległość od miejsca, w którym ten zakaz obowiązuje?": "Указывает ли табличка, расположенная под видимым знаком запрета, на расстояние до места, где этот запрет действует?",
+    "Umieszczona pod widocznym znakiem zakazu tabliczka wskazuje odległość od miejsca, w którym ten zakaz obowiązuje.": "Установленная под видимым знаком запрета табличка указывает расстояние от места, где этот запрет действует.",
+    "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
+    "Znak nakazu zobowiązuje do jazdy na wprost.": "Знак обязательного направления движения требует ехать прямо.",
+    "Czy znak zakazu umieszczony na prawej jezdni oznacza, że jest ona zamknięta dla ruchu?": "Знак запрета, установленный на правой полосе движения, означает, что она закрыта для проезда?"
 }
