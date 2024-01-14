@@ -1259,5 +1259,10 @@
     "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных ТС?",
     "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
     "Świadczy o tym tabliczka umieszczona pod znakiem.": "Это указывает табличка, расположенная под знаком.",
-    "Czy w tej sytuacji skręcając w lewo masz zawsze pierwszeństwo na tym skrzyżowaniu?": "Имеете ли вы всегда преимущество при повороте налево на этом перекрестке в данной ситуации?"
+    "Czy w tej sytuacji skręcając w lewo masz zawsze pierwszeństwo na tym skrzyżowaniu?": "Имеете ли вы всегда преимущество при повороте налево на этом перекрестке в данной ситуации?",
+    "Należy ustąpić pierwszeństwa pojazdowi, który ewentualnie nadjedzie z prawej strony.": "Необходимо уступить дорогу ТС, которое возможно приблизится справа.",
+    "Czy w tej sytuacji zbliżasz się do skrzyżowania drogą z pierwszeństwem przejazdu?": "В этой ситуации приближаетесь ли вы к перекрестку по главной дороге?",
+    "Znak wraz z tabliczką o tym świadczą.": "Знак вместе с табличкой об этом свидетельствует.",
+    "Czy jadąc samochodem osobowym wolno Ci skręcić w prawo za tym znakiem?": "Вы разрешено поворачивать направо за этим знаком, когда вы едете на легковом автомобиле?",
+    "Uprzedzenie o zakazie nie dotyczy samochodów osobowych.": "Предупреждение о запрете не относится к легковым автомобилям."
 }
