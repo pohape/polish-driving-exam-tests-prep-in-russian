@@ -40,7 +40,9 @@ dmc: разрешенная максимальная масса
 jezdnia: проезжая часть
 droga jednojezdniowa: дорога с одной проезжей частью
 lekki: лёгкий
-na regularnych liniach: на маршрутах
+na regularnych liniach: на регулярных маршрутах
+miejscowość: местность
+obszar zabudowany: населенный пункт
 аutostrada: автомагистраль
 Не переводи выражение "droga ekspresowa" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
 na drodze, która nie jest drogą ekspresową: на дороге, которая не является "drogą ekspresową"
