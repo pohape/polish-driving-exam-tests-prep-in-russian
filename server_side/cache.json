@@ -1181,5 +1181,11 @@
     "Czy ten znak informuje Cię, że zbliżasz się do końca autostrady?": "Знак этот информирует тебя о том, что ты приближаешься к концу автомагистрали?",
     "Widoczny znak to D-10 - Koniec autostrady.": "Видимый знак это D-10 - \"Конец автомагистрали\".",
     "Widoczny znak informacyjny to D-5 - Pierwszeństwo na zwężonym odcinku jezdni.": "Видимый информационный знак - это D-5 - Преимущество на суженном участке проезжей части.",
-    "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?"
+    "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
+    "Tabliczka informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej.": "Табличка информирует о месте, предназначенном для автомобиля, принадлежащего инвалиду с ограниченной подвижностью.",
+    "Czy widoczny po prawej stronie znak pionowy informuje Cię o miejscu przejeżdżania rowerzystów w poprzek drogi?": "Видимый справа вертикальный знак информирует вас о месте пересечения дороги велосипедистами?",
+    "Znak oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi.": "Знак обозначает место, предназначенное для пересечения дороги велосипедистами в поперечном направлении.",
+    "Czy widoczny znak pionowy informuje Cię, że zbliżasz się do restauracji i hotelu?": "Видимый вертикальный знак информирует тебя о том, что ты приближаешься к ресторану и отелю?",
+    "D-28 - Restauracja; D-28 - Restauracja - informuje o wskazanym na znaku obiekcie znajdującym się przy drodze.": "D-28 - Ресторан; D-28 - Ресторан - информирует о объекте, указанном на знаке, находящемся у дороги.",
+    "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?"
 }
