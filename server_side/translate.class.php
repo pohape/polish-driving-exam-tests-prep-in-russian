@@ -116,6 +116,7 @@ class Translate {
     }
 
     public static function performTranslation($text) {
+        $text = trim(preg_replace('/\s{1,}/', ' ', $text));
         $cache = self::loadCache();
 
         if (isset($cache[$text])) {
