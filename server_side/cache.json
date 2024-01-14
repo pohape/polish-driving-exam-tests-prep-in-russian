@@ -1,4 +1,7 @@
 {
+    "--miejscowość--": "",
+    "Jest to początek miejscowości. Droga nadal znajduje się poza obszarem zabudowanym,": "Это начало местности. Дорога все еще находится за пределами населенного пункта.",
+    "Czy po wykonaniu skrętu w lewo na najbliższym skrzyżowaniu będziesz poruszał się w kierunku miejscowości Prażmów?": "После поворота налево на ближайшем перекрестке, будете ли вы двигаться в направлении местности Пражмув?",
     "--droga bez przejazdu": "",
     "Nie jest zabronione zawracanie na drodze bez przejazdu.": "Не запрещено разворачиваться в тупике.",
     "--zespół pojazdów--": "",
@@ -1106,7 +1109,6 @@
     "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
     "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu.": "Запрет на правый поворот действует на ближайшем перекрестке.",
     "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\".": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
-    "Czy po wykonaniu skrętu w lewo na najbliższym skrzyżowaniu będziesz poruszał się w kierunku miejscowości Prażmów?": "После поворота налево на ближайшем перекрестке, будете ли вы двигаться в направлении местности Пражмув?",
     "Akcje ratunkowe": "Спасательные действия",
     "Odstępy i hamowanie pojazdu": "Интервалы и торможение транспортного средства",
     "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения",
@@ -1143,6 +1145,5 @@
     "Wynosi 140 km\/h.": "Составляет 140 км\/ч.",
     "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можете ли вы двигаться на дороге после этого знака со скоростью 30 км\/ч?",
     "Czy na drodze za tym znakiem możesz zawrócić?": "Можно ли на участке после этого знака совершить разворот?",
-    "Czy najbliższy widoczny znak zobowiązuje do jazdy z prędkością do 50 km\/h?": "Обязывает ли ближайший видимый знак двигаться со скоростью до 50 км\/ч?",
-    "Jest to początek miejscowości. Droga nadal znajduje się poza obszarem zabudowanym,": "Это начало населенного пункта. Дорога все еще находится за пределами населенного пункта."
+    "Czy najbliższy widoczny znak zobowiązuje do jazdy z prędkością do 50 km\/h?": "Обязывает ли ближайший видимый знак двигаться со скоростью до 50 км\/ч?"
 }

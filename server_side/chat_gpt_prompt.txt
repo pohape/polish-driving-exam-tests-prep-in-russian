@@ -1,6 +1,6 @@
 Переведи на русский язык вопрос из теста на получение водительских прав.
 Не добавляй ничего от себя, предоставь только перевод.
-Так переводятся некоторые слова и выражения, учитывай их:
+1. Так переводятся некоторые слова и выражения, учитывай их:
 miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети
 ostrzega o prowadzonych na drodze robotach: предупреждает о проводимых на дороге работах
 silnik jest w ruchu: двигатель запущен и работает
@@ -42,13 +42,14 @@ droga jednojezdniowa: дорога с одной проезжей частью
 droga dwujezdniowa: дорога с двумя проезжими частями
 lekki: лёгкий
 na regularnych liniach: на регулярных маршрутах
-miejscowość: местность
-obszar zabudowany: населенный пункт
 аutostrada: автомагистраль
 zespół pojazdów: автопоезд
 droga bez przejazdu: тупик
-Не переводи выражение "droga ekspresowa" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
+2. Не переводи выражение "droga ekspresowa" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
 na drodze, która nie jest drogą ekspresową: на дороге, которая не является "drogą ekspresową"
-Не переводи слово "czterokołowiec" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
+3. Не переводи слово "czterokołowiec" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
 kierować czterokołowcem: управлять так называемым "czterokołowcem"
 prędkość czterokołowca: скорость так называемого "czterokołowca"
+4. "miejscowość" и "obszar zabudowany" - это разные понятия в ПДД, учитывай это:
+miejscowość: местность
+obszar zabudowany: населенный пункт
