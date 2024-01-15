@@ -193,7 +193,7 @@
 
                     if (result.translate && result.translate.trim() !== '') {
                         saveToCache(text, result.translate);
-                        callback(result.translate + "D-18a");
+                        callback(result.translate);
                     } else {
                         console.log("Invalid translation received for: " + text);
                         callback("Ошибка: не получилось перевести.");
