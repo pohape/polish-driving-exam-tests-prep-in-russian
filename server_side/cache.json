@@ -1333,5 +1333,10 @@
     "Czy kierujący zespołem pojazdów o rzeczywistej masie całkowitej powyżej 3,5 tony jest uprzedzany o zakazie występującym na wskazanej drodze bezpośrednio za skrzyżowaniem?": "Водителю автопоезда с разрешенной максимальной массой свыше 3,5 тонны сообщается о запрете, действующем на указанной дороге сразу после перекрестка?",
     "Jest uprzedzany za pomocą znaku F-6.": "Он предупреждается с помощью знака F-6.",
     "Czy ten znak oznacza wyjazd z miejscowości?": "Этот знак означает выезд из местности?",
-    "Znak E-18a - koniec miejscowości.": "Знак E-18a - конец местности."
+    "Znak E-18a - koniec miejscowości.": "Знак E-18a - конец местности.",
+    "Czy ten znak oznacza wjazd do strefy zamieszkania?": "Этот знак означает въезд в жилую зону?",
+    "Znak E-17a - początek miejscowości.": "Знак Е-17а - начало местности.",
+    "Czy ten znak oznacza wjazd do miejscowości?": "Этот знак обозначает въезд в населённый пункт?",
+    "Znak D-42 - początek obszaru zabudowanego.": "Знак D-42 - начало населенного пункта.",
+    "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?"
 }
