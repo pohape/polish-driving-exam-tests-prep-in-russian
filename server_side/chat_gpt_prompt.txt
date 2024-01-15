@@ -48,6 +48,7 @@ droga bez przejazdu: тупик
 pas włączania: полоса разгона
 pas wyłączania: полоса торможения
 autostrada: автострада
+od poprzedzającego pojazdu: от впереди идущего ТС
 2. Не переводи выражение "droga ekspresowa" и его производные, оставляй их в польском варианте, но в кавычках, пример:
 na drodze, która nie jest drogą ekspresową: на дороге, которая не является "drogą ekspresową"
 3. Не переводи слово "czterokołowiec" и его производные, оставляй их в польском варианте, но в кавычках, примеры:
