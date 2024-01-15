@@ -83,6 +83,65 @@
 
     var contentCache = {};
 
+    function createPopup(src, mouseX, mouseY) {
+        const popup = document.createElement('div');
+        popup.style.position = 'fixed';
+        popup.style.top = mouseY + 'px';
+        popup.style.left = mouseX + 'px';
+        popup.style.zIndex = '1000';
+        popup.style.border = '1px solid black';
+        popup.style.backgroundColor = 'white';
+        popup.style.padding = '5px';
+        popup.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+
+        const img = document.createElement('img');
+        img.src = src;
+        img.style.width = '200px';
+        img.style.height = 'auto';
+
+        popup.appendChild(img);
+        document.body.appendChild(popup);
+
+        return popup;
+    }
+
+    function addLinksToSignCodes(element, text) {
+        const regex = /\b([A-Z]-\d+[a-z]?)\b/g;
+        let lastIndex = 0;
+        let match;
+
+        while ((match = regex.exec(text)) !== null) {
+            // Добавляем текст до найденного соответствия жирным шрифтом
+            const beforeMatch = document.createElement('b');
+            beforeMatch.textContent = text.substring(lastIndex, match.index);
+            element.appendChild(beforeMatch);
+
+            // Создаем и добавляем ссылку
+            const link = document.createElement('a');
+            link.href = 'https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
+            link.textContent = match[1];
+            let popup;
+            link.onmouseover = (e) => {
+                const mouseX = e.clientX + 10; // 10 пикселей справа от курсора
+                const mouseY = e.clientY + 10; // 10 пикселей ниже курсора
+                popup = createPopup(link.href, mouseX, mouseY);
+            };
+            link.onmouseout = () => { if (popup) document.body.removeChild(popup); };
+            element.appendChild(link); // Ссылка добавляется напрямую, без оборачивания в <b>
+
+            lastIndex = regex.lastIndex;
+        }
+
+        // Добавляем оставшуюся часть текста после последнего соответствия жирным шрифтом
+        if (lastIndex < text.length) {
+            const remainingText = document.createElement('b');
+            remainingText.textContent = text.substring(lastIndex);
+            element.appendChild(remainingText);
+        }
+    }
+
+
+
     function getCacheKey(originalText) {
         return "translationCache_" + CryptoJS.MD5(originalText).toString();
     }
@@ -135,7 +194,7 @@
 
                     if (result.translate && result.translate.trim() !== '') {
                         saveToCache(text, result.translate);
-                        callback(result.translate);
+                        callback(result.translate + "D-18a");
                     } else {
                         console.log("Invalid translation received for: " + text);
                         callback("Ошибка: не получилось перевести.");
@@ -185,19 +244,23 @@
 
                     if (id && id.endsWith('-answer')) {
                         translateText(originalTextWithNoTranslate, function(translatedText) {
-                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b>' + translatedText + '</b><br /><br /></translation>';
+                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
+                            const translationElement = element.querySelector('b');
+                            addLinksToSignCodes(translationElement, translatedText);
                         });
                     } else if (selector.includes('page_title')) {
                         translateText(originalTextWithNoTranslate, function(translatedText) {
-                            element.innerHTML = originalTextWithNoTranslate + '<translation><br />' + translatedText + '</translation>';
+                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
+                            const translationElement = element.querySelector('translation');
+                            addLinksToSignCodes(translationElement, translatedText);
                         });
                     } else {
                         var clonedContent = getElementWithTranslation(element)
                         clonedContent.style.display = 'none';
 
                         translateText(originalTextWithNoTranslate, function(translatedText) {
-                            var clonedContent = getElementWithTranslation(element)
-                            clonedContent.innerHTML = '<b>' + translatedText + '</b>';
+                            clonedContent.innerHTML = '';
+                            addLinksToSignCodes(clonedContent, translatedText);
                             clonedContent.style.display = 'block';
                         });
                     }
