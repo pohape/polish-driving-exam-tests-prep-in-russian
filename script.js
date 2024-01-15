@@ -30,7 +30,6 @@
         '#a1',
         '#a2',
         'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
-        'div.page_title > h1',
         'div.panel-body.card-panel > div.card-body'
     ];
 
@@ -194,7 +193,7 @@
 
                     if (result.translate && result.translate.trim() !== '') {
                         saveToCache(text, result.translate);
-                        callback(result.translate);
+                        callback(result.translate + "D-18a");
                     } else {
                         console.log("Invalid translation received for: " + text);
                         callback("Ошибка: не получилось перевести.");
