@@ -666,7 +666,7 @@
     "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
     "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
     "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
-    "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"”",
+    "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"?",
     "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
     "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "С этой полосы, когда вы меняете сигнал на зеленый, Вы имеете право повернуть налево на перекрестке?",
     "Widoczność na drodze, złożoność sytuacji drogowej.": "Видимость на дороге, сложность дорожной ситуации.",
@@ -1287,8 +1287,6 @@
     "Skręt w lewo nie jest w żaden sposób ograniczony.": "Поворот налево никак не ограничен.",
     "NIE": "НЕТ",
     "TAK": "ДА",
-    "Czy ten znak informuje o... (1098)": "Информирует ли этот знак о... (1098)  ",
-    "Czy znak zakazu umieszczony... (15843)": "К сожалению, вы не предоставили полный текст вопроса, поэтому я не смогу перевести его полностью. Пожалуйста, предоставьте полный текст вопроса для перевода.",
     "Czy ten znak oznacza koniec drogi z pierwszeństwem?": "Этот знак означает конец главной дороги?",
     "Znak z tabliczką informują o poruszaniu się drogą z pierwszeństwem przejazdu.": "Знак с табличкой информирует о движении по дороге с преимуществом проезда.",
     "Świadczą o tym znak z tabliczką.": "Они свидетельствуют о том знак с табличкой.",
@@ -1386,9 +1384,9 @@
     "Odpowiedzi inne niż nr 3 są bez sensu.": "Ответы, отличные от номера 3, бессмысленны.",
     "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
     "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
-    "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "Да, в представленной ситуации во время обгона транспортного средства вам необходимо проявлять осторожность и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса.",
-    "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Да, включаясь в движение, вы должны соблюдать особую осторожность.",
     "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Должны ли вы убедиться, приближаясь к видимому переезду, что во время вашего проезда через него поезд не прибудет?",
     "Czy w tej sytuacji masz prawo zaparkować pojazd bezpośrednio przed przejściem dla pieszych?": "В данной ситуации имеете ли вы право припарковать транспортное средство непосредственно перед пешеходным переходом?",
-    "Czy postój pojazdu bezpośrednio za widocznym słupkiem wskaźnikowym jest zabroniony?": "Стоянка транспортного средства непосредственно за видимым указательным столбиком запрещена?"
+    "Czy postój pojazdu bezpośrednio za widocznym słupkiem wskaźnikowym jest zabroniony?": "Стоянка транспортного средства непосредственно за видимым указательным столбиком запрещена?",
+    "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "\"Должны ли вы соблюдать особую осторожность, включаясь в движение?\"",
+    "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "В данной ситуации при обгоне транспортного средства вы должны проявлять осторожность и принимать во внимание, что кто-то может выбежать на проезжую часть из-за автобуса?"
 }

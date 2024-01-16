@@ -23,7 +23,7 @@ class Translate {
             'model' => 'gpt-4-1106-preview',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
-                ['role' => 'user', 'content' => $userData]
+                ['role' => 'user', 'content' => 'Фрагмент для перевода: "' . $userData . '"']
             ]
         ];
 
