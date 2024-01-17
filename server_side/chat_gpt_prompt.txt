@@ -23,6 +23,7 @@ sygnalizator: светофор
 Sygnalizacja świetlna: светофор
 ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу ТС, приближающемуся справа
 możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного ТС
+rzeczywisty przebieg drogi z pierwszeństwem: фактический ход главной дороги
 masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС
 ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу
 Pierwszeństwo dla nadjeżdżających z przeciwka: Преимущество встречного движения
