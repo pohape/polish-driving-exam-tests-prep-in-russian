@@ -1481,5 +1481,11 @@
     "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
     "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
     "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
-    "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz jechać na wprost. Czy poruszasz się prawidłowym pasem ruchu?": "В представленной ситуации на ближайшем перекрестке вы собираетесь ехать прямо. Вы двигаетесь по правильной полосе движения?"
+    "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz jechać na wprost. Czy poruszasz się prawidłowym pasem ruchu?": "В представленной ситуации на ближайшем перекрестке вы собираетесь ехать прямо. Вы двигаетесь по правильной полосе движения?",
+    "Czy w widocznej sytuacji konieczne jest włączenie kierunkowskazu w celu zasygnalizowania zmiany pasa ruchu?": "\"Необходимо ли в данной видимой ситуации включение указателя поворота для сигнализации о смене полосы движения?\"",
+    "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
+    "Zwierząt pędzonych przez drogę.": "\"Прогон скота через дорогу.\"",
+    "Dzikich zwierząt przebiegających przez drogę.": "Диких животных, перебегающих через дорогу.",
+    "Bezkolizyjnego przepustu pod drogą dla dzikich zwierząt.": "Бесконтактного перехода под дорогой для диких животных.",
+    "Tak, ale tylko poza obszarem zabudowanym.": "Да, но только вне населенного пункта."
 }
