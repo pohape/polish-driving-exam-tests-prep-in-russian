@@ -1476,5 +1476,8 @@
     "W sytuacji gdy zbyt wcześnie zwolnimy dźwignię hamulca na samochód stojący na wzniesieniu zadziała grawitacja. Odpowiednie odpuszczenie sprzęgła przed zwolnieniem hamulca postojowego umożliwi ruszenie bez stoczenia się pojazdu.": "В ситуации, когда мы слишком рано отпустим рычаг тормоза на автомобиле, стоящем на подъеме, сработает гравитация. Правильное отпускание сцепления перед тем, как отпустить стояночный тормоз, позволит тронуться без скатывания транспортного средства.",
     "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
     "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
-    "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "\"Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?\""
+    "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "\"Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?\"",
+    "Czy w tej sytuacji wolno Ci rozpocząć wyprzedzanie?": "\"Разрешено ли вам в этой ситуации начать обгон?\"",
+    "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
+    "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?"
 }
