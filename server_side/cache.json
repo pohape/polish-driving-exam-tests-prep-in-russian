@@ -1544,5 +1544,12 @@
     "Tak, ale tylko w obszarze zabudowanym.": "Да, но только в населенном пункте.",
     "Tak, ale tylko podczas opadów śniegu.": "Да, но только во время снегопада.",
     "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
-    "Obserwując wskazania nawigacji satelitarnej.": "Наблюдая за показаниями спутниковой навигации."
+    "Obserwując wskazania nawigacji satelitarnej.": "Наблюдая за показаниями спутниковой навигации.",
+    "Uwzględniając znaki poziome wyznaczające pasy ruchu.": "Учитывая горизонтальные знаки, определяющие полосы движения.",
+    "Obserwując znaki pionowe.": "Наблюдая за вертикальными знаками.",
+    "Jak utrzymasz właściwy tor jazdy, gdy poruszasz się drogą ekspresową w gęstej mgle?": "Как вы будете поддерживать правильную траекторию движения, когда передвигаетесь по \"drodze ekspresową\" в густом тумане?",
+    "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
+    "Natychmiast po unieruchomieniu silnika.": "Немедленно после остановки двигателя.",
+    "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu.": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
+    "Przy uruchomionym silniku.": "Фраза \"Przy uruchomionym silniku.\" переводится как \"С запущенным и работающим двигателем.\""
 }
