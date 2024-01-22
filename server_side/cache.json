@@ -1685,5 +1685,7 @@
     "Z jaką maksymalną dopuszczalną prędkością możesz holować inny pojazd?": "С какой максимальной разрешенной скоростью вы можете буксировать другое ТС?",
     "Nie, tylko od godziny 5:00 do 23:00.": "Нет, только с 5:00 до 23:00.",
     "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem.": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
-    "50 km\/h w obszarze zabudowanym obowiązuje przez całą dobę.": "\"50 км\/ч в населённом пункте действует круглосуточно.\""
+    "50 km\/h w obszarze zabudowanym obowiązuje przez całą dobę.": "\"50 км\/ч в населённом пункте действует круглосуточно.\"",
+    "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "\"В этой ситуации следует ли вам проявлять особую осторожность?\"",
+    "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?"
 }
