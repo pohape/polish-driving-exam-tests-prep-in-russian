@@ -1665,5 +1665,8 @@
     "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
     "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
     "Czy w tej sytuacji masz pierwszeństwo przed pieszymi?": "В данной ситуации у тебя есть преимущество перед пешеходами?",
-    "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?"
+    "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
+    "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej.": "Да, за исключением случаев, когда это транспортное средство используется для ведения хозяйственной деятельности.",
+    "Nie mam takiego obowiązku.": "\"У меня нет такой обязанности.\"",
+    "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec.": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать."
 }
