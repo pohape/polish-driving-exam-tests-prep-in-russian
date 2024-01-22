@@ -1668,5 +1668,10 @@
     "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
     "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej.": "Да, за исключением случаев, когда это транспортное средство используется для ведения хозяйственной деятельности.",
     "Nie mam takiego obowiązku.": "\"У меня нет такой обязанности.\"",
-    "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec.": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать."
+    "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec.": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать.",
+    "60 km\/h poza obszarem zabudowanym.": "60 км\/ч вне населенного пункта.",
+    "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni.": "Да, если с того времени не прошло более 14 дней.",
+    "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni.": "Да, если с того времени прошло не более 7 дней.",
+    "Czy dozwolony jest postój na wyznaczonych miejscach dla osób niepełnosprawnych, jeżeli posiadana przez kierującego karta parkingowa straciła ważność?": "Разрешена ли остановка на местах, выделенных для лиц с ограниченными возможностями, если парковочная карта, имеющаяся у водителя, потеряла срок действия?",
+    "W sytuacji gwałtownego ruszania na śliskiej nawierzchni.": "В ситуации резкого трогания на скользкой дорожной поверхности."
 }
