@@ -144,6 +144,7 @@ class Translate {
         }
 
         if (!empty($result['translate'])) {
+            $result['translate'] = trim($result['translate'], '"');
             $additional = '';
 
             if (stripos($text, 'zterokoł')) {
