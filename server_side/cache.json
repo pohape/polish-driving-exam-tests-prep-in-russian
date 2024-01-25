@@ -1969,5 +1969,10 @@
     "Kierujesz pojazdem jadąc w obszarze zabudowanym. Czy widoczny znak zakazu dotyczy motocykli?": "Вы управляете транспортным средством, двигаясь в населенном пункте. Знак запрета виден? Относится ли он к мотоциклам?",
     "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "В данной ситуации разрешает ли сигнал, подаваемый полицейским, въезд на перекресток?",
     "Czy zatrzymanie w tym miejscu jest dozwolone?": "\"Разрешена ли остановка в этом месте?\"",
-    "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "\"Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?\""
+    "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "\"Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?\"",
+    "Czy w tej sytuacji sygnał świetlny zabrania Ci zawracania na skrzyżowaniu?": "В данной ситуации светофор запрещает вам разворачиваться на перекрестке?",
+    "Czy w celu wysadzenia pasażera, wolno Ci zatrzymać pojazd na tym przystanku?": "\"Разрешается ли вам остановить транспортное средство на этой остановке, чтобы высадить пассажира?\"",
+    "Prawo jazdy.": "Водительское удостоверение.",
+    "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
+    "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej.": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности."
 }
