@@ -1927,5 +1927,8 @@
     "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "\"Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?\"",
     "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "\"Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?\"",
     "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
-    "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В данной ситуации разрешено ли вам въехать на видный железнодорожный переезд, если красный свет уже погас, но шлагбаумы еще не были полностью подняты?"
+    "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В данной ситуации разрешено ли вам въехать на видный железнодорожный переезд, если красный свет уже погас, но шлагбаумы еще не были полностью подняты?",
+    "40 km\/h na obszarze zabudowanym.": "40 км\/ч в населенном пункте.",
+    "30 km\/h bez względu na obszar w jakim się porusza.": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
+    "Jaka jest dopuszczalna prędkość pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego?": "Какая разрешенная скорость ТС с устройством, выступающим вперед более чем на 1,5 м от сидения для водителя?"
 }
