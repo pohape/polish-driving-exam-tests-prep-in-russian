@@ -1967,5 +1967,7 @@
     "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
     "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
     "Kierujesz pojazdem jadąc w obszarze zabudowanym. Czy widoczny znak zakazu dotyczy motocykli?": "Вы управляете транспортным средством, двигаясь в населенном пункте. Знак запрета виден? Относится ли он к мотоциклам?",
-    "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "В данной ситуации разрешает ли сигнал, подаваемый полицейским, въезд на перекресток?"
+    "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "В данной ситуации разрешает ли сигнал, подаваемый полицейским, въезд на перекресток?",
+    "Czy zatrzymanie w tym miejscu jest dozwolone?": "\"Разрешена ли остановка в этом месте?\"",
+    "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "\"Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?\""
 }
