@@ -28,3 +28,6 @@ https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/script.j
 
 ![Teoria.pl 3](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/6.png)
 
+## Памятка по вопросам связанным с детским креслом:
+![Памятка по вопросам связанным с детским креслом](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/notatki/fotelik.png)
+
