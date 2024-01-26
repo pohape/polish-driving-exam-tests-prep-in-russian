@@ -187,24 +187,33 @@ class Translate
     {
         $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
         $text = trim(preg_replace('/\s{1,}/', ' ', $text));
-        $cache = self::loadCache();
 
-        if (isset($cache[$text])) {
+        if (is_numeric($text)) {
             $result = array(
-                'translate' => $cache[$text],
+                'translate' => $text,
+                'info' => 'A number: no need to translate',
                 'error' => null
             );
         } else {
-            $translationResult = self::requestOpenAI(
-                self::generatePrompt($text),
-                $text
-            );
+            $cache = self::loadCache();
 
-            if ($translationResult['translate'] !== null) {
-                self::saveToCache($text, $translationResult['translate']);
+            if (isset($cache[$text])) {
+                $result = array(
+                    'translate' => $cache[$text],
+                    'error' => null
+                );
+            } else {
+                $translationResult = self::requestOpenAI(
+                    self::generatePrompt($text),
+                    $text
+                );
+
+                if ($translationResult['translate'] !== null) {
+                    self::saveToCache($text, $translationResult['translate']);
+                }
+
+                $result = $translationResult;
             }
-
-            $result = $translationResult;
         }
 
         if (!empty($result['translate'])) {
