@@ -125,6 +125,33 @@ class Translate
         file_put_contents($cachePath, json_encode($cache, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
 
+    private static function replaceRoadSignCyrillicCodes($text)
+    {
+        $replacement = function ($matches) {
+            return strtr(
+                $matches[0],
+                [
+                    'А' => 'A',
+                    'В' => 'B',
+                    'С' => 'C',
+                    'Е' => 'E',
+                    'Н' => 'H',
+                    'Р' => 'P',
+                    'Т' => 'T',
+                    'а' => 'a',
+                    'в' => 'b',
+                    'с' => 'c',
+                    'е' => 'e',
+                    'н' => 'h',
+                    'р' => 'p',
+                    'т' => 't',
+                ]
+            );
+        };
+
+        return preg_replace_callback('/\b([А-ЯA-Z]-\d+[A-Za-zА-Яа-я]?)/u', $replacement, $text);
+    }
+
     private static function generatePrompt($text)
     {
         $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
@@ -181,7 +208,7 @@ class Translate
         }
 
         if (!empty($result['translate'])) {
-            $result['translate'] = trim($result['translate'], '"');
+            $result['translate'] = trim(self::replaceRoadSignCyrillicCodes($result['translate'], '"'));
             $additional = '';
 
             if (stripos($text, 'zterokoł')) {
