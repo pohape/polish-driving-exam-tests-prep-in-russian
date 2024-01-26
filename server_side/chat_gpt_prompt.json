@@ -5,6 +5,10 @@
         "Не переводи выражение \"droga ekspresowa\" и его производные, оставляй их в польском варианте, но в кавычках, пример правильного перевода: «na drodze, która nie jest drogą ekspresową: на дороге, которая не является \"drogą ekspresową\"».": [
             "ekspresow"
         ],
+        "Не переводи выражение \"Pan Stopek\" и его производные, оставляй их в польском варианте, но в кавычках, пример правильного перевода: należy zastosować się do polecenia \"Pana Stopka\": Необходимо следовать указанию \"Pana Stopka\"».": [
+            "stopek",
+            "stopk"
+        ],
         "Не переводи слово \"czterokołowiec\" и его производные, оставляй их в польском варианте, но в кавычках, примеры правильных переводов: «kierować czterokołowcem: управлять так называемым \"czterokołowcem\"», «prędkość czterokołowca: скорость так называемого \"czterokołowca\"».": [
             "czteroko"
         ],
