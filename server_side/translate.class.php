@@ -179,6 +179,11 @@ class Translate
         $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $promptData['prompt']);
         $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro, $prompt);
         $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, array_keys($dictionary))), $prompt);
+        $prompt = str_ireplace(
+            '%short_notice%',
+            strlen($text) < 30 ? $promptData['short_notice'] : '',
+            $prompt
+        );
 
         return trim($prompt);
     }
