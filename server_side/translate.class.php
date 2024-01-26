@@ -1,13 +1,15 @@
 <?php
 
-class Translate {
+class Translate
+{
     const API_URL = 'https://translate.api.cloud.yandex.net/translate/v2/translate';
     const YANDEX_API_KEY_FILE = '../yandex_api_key.txt';
     const OPEN_AI_API_KEY_FILE = '../open_ai_api_key.txt';
-    const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.txt';
+    const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
     const CACHE_FILE = 'cache.json';
 
-    private static function requestOpenAI($systemMessage, $userData) {
+    private static function requestOpenAI($systemMessage, $userData)
+    {
         $filename = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
 
         if (!is_file($filename)) {
@@ -57,7 +59,8 @@ class Translate {
     }
 
 
-    private static function translateViaYandexApi($text) {
+    private static function translateViaYandexApi($text)
+    {
         if (!is_file(__DIR__ . '/' . self::YANDEX_API_KEY_FILE)) {
             return array(
                 'translate' => null,
@@ -87,7 +90,7 @@ class Translate {
 
         curl_close($ch);
 
-	    $decodedResponse = json_decode($response, true);
+        $decodedResponse = json_decode($response, true);
 
         if ($httpCode == 200) {
             return array(
@@ -102,7 +105,8 @@ class Translate {
         }
     }
 
-    private static function loadCache() {
+    private static function loadCache()
+    {
         $cachePath = __DIR__ . '/' . self::CACHE_FILE;
 
         if (file_exists($cachePath)) {
@@ -112,7 +116,8 @@ class Translate {
         }
     }
 
-    private static function saveToCache(string $original, string $translation) {
+    private static function saveToCache(string $original, string $translation)
+    {
         $cachePath = __DIR__ . '/' . self::CACHE_FILE;
         $cache = self::loadCache();
         $cache[$original] = $translation;
@@ -120,7 +125,39 @@ class Translate {
         file_put_contents($cachePath, json_encode($cache, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
     }
 
-    public static function performTranslation($text) {
+    private static function generatePrompt($text)
+    {
+        $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
+        $dictionaryIntro = '';
+        $dictionary = [];
+        $comments = [];
+
+        foreach ($promptData['dictionary'] as $line => $searchList) {
+            foreach ($searchList as $search) {
+                if (stripos($text, $search) !== false) {
+                    $dictionary[$line] = null;
+                    $dictionaryIntro = PHP_EOL . $promptData['dictionary_intro'] . PHP_EOL;
+                }
+            }
+        }
+
+        foreach ($promptData['comments'] as $line => $searchList) {
+            foreach ($searchList as $search) {
+                if (stripos($text, $search) !== false) {
+                    $comments[$line] = null;
+                }
+            }
+        }
+
+        $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $promptData['prompt']);
+        $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro, $prompt);
+        $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, array_keys($dictionary))), $prompt);
+
+        return trim($prompt);
+    }
+
+    public static function performTranslation($text)
+    {
         $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
         $text = trim(preg_replace('/\s{1,}/', ' ', $text));
         $cache = self::loadCache();
@@ -132,7 +169,7 @@ class Translate {
             );
         } else {
             $translationResult = self::requestOpenAI(
-                trim(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE)),
+                self::generatePrompt($text),
                 $text
             );
 

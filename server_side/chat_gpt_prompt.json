@@ -1,0 +1,204 @@
+{
+    "prompt": "Переведи на русский язык польский фрагмент из теста на получение водительских прав. Не обращай внимания, если фрагмент содержит логическую ошибку, так задумано. Не добавляй абсолютно ничего от себя, предоставь только перевод. %comments%%dictionary_intro%%dictionary%",
+    "dictionary_intro": "Так переводятся некоторые слова и выражения, учитывай их:",
+    "comments": {
+        "Не переводи выражение \"droga ekspresowa\" и его производные, оставляй их в польском варианте, но в кавычках, пример правильного перевода: «na drodze, która nie jest drogą ekspresową: на дороге, которая не является \"drogą ekspresową\"».": [
+            "ekspresow"
+        ],
+        "Не переводи слово \"czterokołowiec\" и его производные, оставляй их в польском варианте, но в кавычках, примеры правильных переводов: «kierować czterokołowcem: управлять так называемым \"czterokołowcem\"», «prędkość czterokołowca: скорость так называемого \"czterokołowca\"».": [
+            "czteroko"
+        ],
+        "\"miejscowość\" и \"obszar zabudowany\" - это разные понятия в ПДД, учитывай это: «miejscowość: местность», «obszar zabudowany: населенный пункт».": [
+            "miejscowo",
+            "zabudowan"
+        ]
+    },
+    "dictionary": {
+        "miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети": [
+            "przez dzieci"
+        ],
+        "ostrzega o prowadzonych na drodze robotach: предупреждает о проводимых на дороге работах" : [
+            "ostrzega",
+            "robota"
+        ],
+        "silnik jest w ruchu: двигатель запущен и работает": [
+            "silnik jest w ruchu"
+        ],
+        "ostrzega o znacznym spadku podłużnym drogi: предупреждает о крутом спуске": [
+            "ostrzega",
+            "spadek",
+            "spadku"
+        ],
+        "odcinek: участок": [
+            "odcinek",
+            "odcink"
+        ],
+        "ostrzega przed przecięciem drogi przez tory tramwajowe: предупреждает о пересечении дороги трамвайными путями": [
+            "ostrzega",
+            "przecięcie",
+            "tory"
+        ],
+        "Znak \"uwaga tramwaj\": знак \"Внимание трамвай\"": [
+            "znak",
+            "uwaga"
+        ],
+        "prog zwalniający: искуственная дорожная неровность (лежачий полицейский)": [
+            "zwalniaj"
+        ],
+        "ostrzega o poprzecznej nierówności jezdni: предупреждает о неровности проезжей части": [
+            "ostrzega",
+            "jezdn"
+        ],
+        "na odcinku za znakiem: на участке после знака": [
+            "odcinek",
+            "odcink",
+            "znak"
+        ],
+        "ubytki nawierzchni: дефекты дорожного покрытия": [
+            "nawierzch",
+            "ubyt"
+        ],
+        "zapory lub półzapory: шлагбаумы": [
+            "zapor"
+        ],
+        "zapory: шлагбаумы": [
+            "zapor"
+        ],
+        "półzapory: шлагбаумы": [
+            "półzapor"
+        ],
+        "z wlotem drogi jednokierunkowej występującej z lewej strony: с примыканием слева односторонней дороги": [
+            "wlot",
+            "występuj"
+        ],
+        "skrzyżowanie z drogą podporządkowaną występującą po prawej stronie: перекресток с второстепенной дорогой справа": [
+            "skrzyżowa",
+            "występuj",
+            "podporządkowan"
+        ],
+        "droga podporządkowana: второстепенная дорога": [
+            "podporządkowan"
+        ],
+        "sygnalizator: светофор": [
+            "sygnaliza"
+        ],
+        "Sygnalizacja świetlna: светофор": [
+            "sygnaliza"
+        ],
+        "ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу ТС, приближающемуся справа": [
+            "pierwszeństw",
+            "nadjeżdżaj"
+        ],
+        "możesz spodziewać się pojazdu nadjeżdżającego z przeciwka: можете ожидать приближающегося встречного ТС": [
+            "spodziew",
+            "nadjeżdżaj",
+            "przeciw"
+        ],
+        "rzeczywisty przebieg drogi z pierwszeństwem: фактический ход главной дороги": [
+            "przebieg",
+            "pierwszeństw",
+            "rzeczywist"
+        ],
+        "masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС": [
+            "pierwszeństw"
+        ],
+        "ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу": [
+            "pierwszeństw"
+        ],
+        "pierwszeństwo dla nadjeżdżających z przeciwka: преимущество встречного движения": [
+            "pierwszeństw",
+            "nadjeżdżaj",
+            "przeciw"
+        ],
+        "masz pierwszeństwo przed rowerzystą?: есть ли у вас приоритет перед велосипедистом?": [
+            "pierwszeństw"
+        ],
+        "znajdujesz się na drodze z pierwszeństwem?: вы находитесь на главной дороге?": [
+            "pierwszeństw"
+        ],
+        "skrzyżowanie jest skrzyżowaniem równorzędnym: перекресток является равнозначным": [
+            "równorzędn"
+        ],
+        "znak \"Koniec drogi z pierwszeństwem\": знак \"Конец главной дороги\"": [
+            "znak",
+            "pierwszeństw"
+        ],
+        "znak \"Droga z pierwszeństwem\": знак \"Главная дорога\"": [
+            "znak",
+            "pierwszeństw"
+        ],
+        "czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: у вас есть преимущество перед встречным ТС?": [
+            "przeciw",
+            "pierwszeństw"
+        ],
+        "pojazd silnikowy wielośladowy: многоколейное ТС": [
+            "śladow"
+        ],
+        "pojazd jednośladowy: одноколейное ТС": [
+            "śladow"
+        ],
+        "motocykle jednośladowe: одноколейные мотоциклы": [
+            "śladow"
+        ],
+        "z wyjątkiem: за исключением": [
+            "wyjąt"
+        ],
+        "pojazd szynowy: железнодорожный транспорт": [
+            "szyn"
+        ],
+        "dmc: разрешенная максимальная масса": [
+            "dmc"
+        ],
+        "jezdnia: проезжая часть": [
+            "jezdn"
+        ],
+        "droga jednojezdniowa: дорога с одной проезжей частью": [
+            "jezdn"
+        ],
+        "droga dwujezdniowa: дорога с двумя проезжими частями": [
+            "jezdn"
+        ],
+        "lekki: лёгкий": [
+            "lekk"
+        ],
+        "na regularnych liniach: на регулярных маршрутах": [
+            "regularn"
+        ],
+        "zespół pojazdów: автопоезд": [
+            "zesp"
+        ],
+        "droga bez przejazdu: тупик": [
+            "bez przejazd"
+        ],
+        "pas włączania: полоса разгона": [
+            "pasa włączan",
+            "pas włączan",
+            "pasu włączan",
+            "pasów włączan"
+        ],
+        "pas wyłączania: полоса разгона": [
+            "pasa wyłączan",
+            "pas wyłączan",
+            "pasu wyłączan",
+            "pasów wyłączan"
+        ],
+        "autostrada: автострада": [
+            "autostrad"
+        ],
+        "od poprzedzającego pojazdu: от впереди идущего ТС": [
+            "poprzedzaj"
+        ],
+        "ruch dwukierunkowy: двустороннее движение": [
+            "dwukierunk"
+        ],
+        "droga dwukierunkowa: дорога с двусторонним движением": [
+            "dwukierunk"
+        ],
+        "ruch jednokierunkowy: одностороннее движение": [
+            "jednokierunk"
+        ],
+        "droga jednokierunkowa: дорога с односторонним движением": [
+            "jednokierunk"
+        ]
+    }
+}
