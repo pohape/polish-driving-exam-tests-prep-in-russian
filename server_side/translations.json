@@ -2149,6 +2149,7 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
-        "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\""
+        "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\"",
+        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот."
     }
 }
