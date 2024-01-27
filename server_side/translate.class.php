@@ -268,6 +268,7 @@ class Translate
 
     public static function trimDoubleQuotes(string $string)
     {
+        $string = str_ireplace('\"', '"', $string);
         $string = trim($string);
 
         if (substr($string, 0, 1) === '"' && substr($string, -1) === '"') {
