@@ -480,7 +480,8 @@
             "Czy w tej sytuacji musisz zastosować się do żółtych znaków poziomych?": "В этой ситуации должны ли вы соблюдать жёлтые горизонтальные знаки?",
             "Czy w tej sytuacji wolno Ci jechać na wprost z zajmowanego przez Ciebie pasa ruchu?": "В этой ситуации вам разрешено ехать прямо с полосы движения, которую вы занимаете?",
             "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия односторонне пересекаемая означает запрет проезда (наезда) через эту линию с полосы движения, расположенной при сплошной линии.",
-            "Czy w tej sytuacji wolno Ci zmienić pas ruchu na lewy, jeżeli zamierzasz skręcić w lewo?": "В этой ситуации разрешается ли тебе перестроиться на левую полосу, если ты намереваешься повернуть налево?"
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu na lewy, jeżeli zamierzasz skręcić w lewo?": "В этой ситуации разрешается ли тебе перестроиться на левую полосу, если ты намереваешься повернуть налево?",
+            "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?"
         }
     },
     "not_approved": {
@@ -2153,6 +2154,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
-        "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?"
+        "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\""
     }
 }
