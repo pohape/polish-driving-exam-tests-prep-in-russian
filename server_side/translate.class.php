@@ -250,6 +250,7 @@ class Translate
 
     private static function findInTranslations($original)
     {
+        $original = trim(trim(trim($original), '.'));
         $translations = self::loadTranslations();
 
         foreach ($translations['approved'] as $category) {
@@ -298,7 +299,11 @@ class Translate
 
                 if ($translationResult['translate'] !== null) {
                     $result['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($translationResult['translate']));
-                    self::saveToTranslations($text, $translationResult['translate'], self::NOT_APPROVED);
+                    self::saveToTranslations(
+                        trim(trim(trim($text), '.')),
+                        $translationResult['translate'],
+                        self::NOT_APPROVED
+                    );
                 }
 
                 $result = $translationResult;
