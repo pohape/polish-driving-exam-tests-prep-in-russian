@@ -504,7 +504,10 @@
             "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения.",
             "Czy w tej sytuacji wolno Ci pojechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
             "Czy w tej sytuacji masz obowiązek zastosować się do żółtych znaków poziomych?": "В этой ситуации ты обязан следовать желтым горизонтальным знакам?",
-            "Czy widoczne poziome znaki ostrzegawcze uprzedzają Cię o miejscu, w którym występuje lub może występować niebezpieczeństwo?": "Видимые горизонтальные предупредительные знаки предупреждают тебя о месте, где возникает или может возникнуть опасность?"
+            "Czy widoczne poziome znaki ostrzegawcze uprzedzają Cię o miejscu, w którym występuje lub może występować niebezpieczeństwo?": "Видимые горизонтальные предупредительные знаки предупреждают тебя о месте, где возникает или может возникнуть опасность?",
+            "Planujesz skręcić w lewo, a kierujący pojazdem z przeciwka ma zamiar jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы планируете повернуть налево, а водитель встречного ТС намеревается ехать прямо. У вас есть преимущество перед ним?",
+            "Pojazdy z przeciwka i z lewej strony poruszają się drogą z pierwszeństwem. Motocykl porusza się tak jak my - drogą podporządkowaną, znajduje się po naszej prawej stronie": "Встречные и слева приближающиеся транспортные средства движутся по главной дороге. Мотоцикл движется так же, как и мы - по второстепенной дороге, он находится справа от нас.",
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa wszystkim pojazdom znajdującym się na skrzyżowaniu?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу всем транспортным средствам, находящимся на перекрестке?"
         }
     },
     "not_approved": {
@@ -2165,12 +2168,12 @@
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Разрешен ли тебе разворот на проезжей части, обозначенной этим знаком?",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
-        "Planujesz skręcić w lewo, a kierujący pojazdem z przeciwka ma zamiar jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы планируете повернуть налево, а водитель встречного ТС намеревается ехать прямо. У вас есть преимущество перед ним?",
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак."
+        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
+        "Zamierzasz jechać na wprost, a motocyklista chce skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены ехать прямо, а мотоциклист хочет повернуть налево. Обязаны ли вы уступить ему дорогу?"
     }
 }
