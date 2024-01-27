@@ -452,7 +452,10 @@
             "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение.",
             "Znaki ostrzegawcze": "Знаки предупреждающие",
             "Znaki zakazu, nakazu": "Знаки запрещения, предписания",
-            "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные"
+            "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные",
+            "Jedziesz prawym pasem ruchu. Czy wolno Ci skręcić w lewo na skrzyżowaniu?": "Вы едете по правой полосе движения. Разрешено ли вам повернуть налево на перекрестке?",
+            "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различное поведение, то водитель обязан соблюдать знаки желтого цвета.",
+            "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли остановка транспортного средства на этой обочине?"
         }
     },
     "not_approved": {
@@ -533,7 +536,6 @@
         "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
-        "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различное поведение, то водитель обязан соблюдать знаки желтого цвета.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
         "Bezpieczny, ale nie mniejszy niż 1,5 metra": "Безопасный, но не менее 1,5 метра.",
@@ -756,7 +758,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed widoczną linią ciągłą?": "В этой ситуации вы обязаны остановить автомобиль перед видимой сплошной линией?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
-        "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли остановка транспортного средства на этой обочине?",
         "Czy w tym miejscu możesz skręcić w lewo, na parking?": "В этом месте вы можете повернуть налево, на парковку?",
         "Czy w strefie zamieszkania dozwolone jest zatrzymanie pojazdu?": "Разрешено ли останавливать автомобиль в зоне проживания?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
@@ -2134,6 +2135,6 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Jedziesz prawym pasem ruchu. Czy wolno Ci skręcić w lewo na skrzyżowaniu?": "Вы едете по правой полосе движения. Разрешено ли вам повернуть налево на перекрестке?"
+        "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной краевой линией."
     }
 }
