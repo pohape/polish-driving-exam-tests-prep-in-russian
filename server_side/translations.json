@@ -466,7 +466,8 @@
             "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
             "Lewy pas umożliwia jazdę na wprost, skręcanie w lewo i zawracanie": "Левая полоса позволяет двигаться прямо, поворачивать налево и разворачиваться.",
             "Zawracanie jest tu możliwe tylko ze skrajnego lewego pasa": "Разворот здесь возможен только с крайнего левого полосы.",
-            "Zatrzymanie takie powinno odbyć się przed linią bezwzględnego zatrzymania": "Такая остановка должна быть выполнена перед линией абсолютной остановки."
+            "Zatrzymanie takie powinno odbyć się przed linią bezwzględnego zatrzymania": "Такая остановка должна быть выполнена перед линией абсолютной остановки.",
+            "Tylko na wprost": "Только прямо."
         }
     },
     "not_approved": {
@@ -2142,7 +2143,6 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
-        "Tylko na wprost": "Только прямо."
+        "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?"
     }
 }
