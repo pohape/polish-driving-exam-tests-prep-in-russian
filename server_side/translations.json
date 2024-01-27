@@ -458,7 +458,9 @@
             "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различное поведение, то водитель обязан соблюдать знаки желтого цвета.",
             "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли остановка транспортного средства на этой обочине?",
             "TAK": "ДА",
-            "NIE": "НЕТ"
+            "NIE": "НЕТ",
+            "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "Допускается ли на этой обочине остановка транспортного средства по причинам, не связанным с условиями или правилами дорожного движения?",
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu, żeby pojechać na wprost?": "В данной ситуации разрешено ли тебе сменить полосу движения, чтобы ехать прямо?"
         }
     },
     "not_approved": {
@@ -2009,7 +2011,6 @@
         "Czy wyprzedzając rowerzystę masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Вы переводите велосипедиста, обязаны ли вы сохранить дистанцию не меньше одного метра?",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере того, как вы ведете транспортное средство с течением времени?",
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
-        "Czy w tej sytuacji wolno Ci zmienić pas ruchu, żeby pojechać na wprost?": "В данной ситуации разрешено ли тебе сменить полосу движения, чтобы ехать прямо?",
         "Zamierzasz wjechać na lewy pas ruchu. Czy masz pierwszeństwo przed pojazdami, które się nim poruszają?": "Вы планируете въехать на левую полосу движения. Имеете ли вы преимущество перед транспортными средствами, которые движутся по ней?",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
@@ -2136,6 +2137,6 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "Допускается ли на этой обочине остановка транспортного средства по причинам, не связанным с условиями или правилами дорожного движения?"
+        "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы."
     }
 }
