@@ -154,12 +154,9 @@
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
             link.href = '#'; // Изменено для предотвращения перехода по URL
+            link.href = 'https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
-            link.setAttribute('data-sign-code', match[1].toUpperCase()); // Добавление data-атрибута для хранения кода знака
-            link.onclick = (e) => {
-                e.preventDefault(); // Предотвращение перехода по ссылке
-                window.open('https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + link.getAttribute('data-sign-code') + '.png', '_blank');
-            };
+
             let popup;
             link.onmouseover = (e) => {
                 const mouseX = e.clientX + 10; // 10 пикселей справа от курсора
