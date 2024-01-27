@@ -513,7 +513,12 @@
             "Poruszamy się drogą podporządkowaną, a on drogą z pierwszeństwem": "Мы движемся по второстепенной дороге, а он по главной дороге.",
             "Zamierzasz jechać na wprost, a kierujący pojazdem, jadącym z naprzeciwka, chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы собираетесь ехать прямо, а водитель ТС, движущегося навстречу, хочет повернуть налево. У вас есть преимущество перед ним?",
             "Czy widoczna linia wskazuje miejsce obowiązkowego zatrzymania się przed wjazdem na skrzyżowanie?": "Указывает ли видимая линия на место обязательной остановки перед въездом на перекресток?",
-            "Ta linia to linia bezwzględnego zatrzymania": "Эта линия означает линию абсолютной остановки."
+            "Ta linia to linia bezwzględnego zatrzymania": "Эта линия означает линию абсолютной остановки.",
+            "Czy widoczna linia wskazuje miejsce zatrzymania, które zapewnia Ci najlepszą widoczność na skrzyżowaniu?": "Показывает ли видимая линия место остановки, которое обеспечивает тебе лучшую видимость на перекрестке?",
+            "Drogowcy zadbali o dobrą lokalizację linii": "Дорожники позаботились о хорошем расположении линий.",
+            "Ten pojazd porusza się drogą podporządkowaną": "Этот транспортное средство движется по второстепенной дороге.",
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
+            "Obaj znajdujemy się na drodze z pierwszeństwem. Trzeba zastosować się do zasad ogólbych (prawa strona)": "Оба мы находимся на главной дороге. Необходимо придерживаться общих правил (правая сторона)."
         }
     },
     "not_approved": {
@@ -1639,7 +1644,6 @@
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
-        "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi, którego motorniczy sygnalizuje zamiar skrętu w lewo?": "Вы обязаны уступить дорогу трамваю, водитель которого сигнализирует о намерении повернуть налево, в этой ситуации?",
         "Czy w tej sytuacji należy zatrzymać się przed widoczną linią bezwzględnego zatrzymania - stop?": "В данной ситуации нужно остановиться перед видимой линией абсолютной остановки - стоп?",
@@ -1685,7 +1689,6 @@
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м.",
         "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
         "Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni": "Водитель транспортного средства обязан ехать как можно ближе к правому краю проезжей части.",
-        "Ten pojazd porusza się drogą podporządkowaną": "Этот транспортное средство движется по второстепенной дороге.",
         "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
         "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
@@ -2178,8 +2181,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
-        "Drogowcy zadbali o dobrą lokalizację linii": "Дорожники позаботились о хорошем расположении линий.",
-        "Czy widoczna linia wskazuje miejsce zatrzymania, które zapewnia Ci najlepszą widoczność na skrzyżowaniu?": "Показывает ли видимая линия место остановки, которое обеспечивает тебе лучшую видимость на перекрестке?"
+        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак."
     }
 }
