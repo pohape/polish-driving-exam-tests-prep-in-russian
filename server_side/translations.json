@@ -423,7 +423,12 @@
             "W umowie OC.": "В договоре OC (odpowiedzialności cywilnej - гражданской ответственности).",
             "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь прерывистой линией обозначена обочина.",
             "Znak widoczny na zdjęciu ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.": "Знак, показанный на фотографии, предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
-            "Czy jadąc tym pasem ruchu masz prawo zawrócić na najbliższym skrzyżowaniu?": "Если вы едете по этой полосе, имеете ли вы право развернуться на ближайшем перекрестке?"
+            "Czy jadąc tym pasem ruchu masz prawo zawrócić na najbliższym skrzyżowaniu?": "Если вы едете по этой полосе, имеете ли вы право развернуться на ближайшем перекрестке?",
+            "Czy w przedstawionej sytuacji masz prawo - mimo podawanego sygnału - skręcić w prawo?": "В представленной ситуации вы имеете право - несмотря на подаваемый сигнал-повернуть направо?",
+            "Należy zastosować się do polecenia \"Pana Stopka\".": "Необходимо следовать указанию \"Pana Stopka\".",
+            "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
+            "Czy w tej sytuacji powinieneś oczekiwać, że następnym sygnałem będzie światło zielone?": "Должны ли вы в этой ситуации ожидать, что следующим сигналом будет зеленый свет?",
+            "Po sygnale czerwonym i żółtym włącza się zielone.": "После красного и желтого сигнала включается зеленый."
         }
     },
     "not_approved": {
@@ -623,7 +628,6 @@
         "Powinieneś posadzić dziecko na środku tylnego siedzenia.": "Вы должны посадить ребенка в центр заднего сиденья.",
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
-        "Czy w przedstawionej sytuacji masz prawo - mimo podawanego sygnału - skręcić w prawo?": "В представленной ситуации вы имеете право - несмотря на подаваемый сигнал-повернуть направо?",
         "Czy za chwilę będzie dawany sygnał zakazujący wjazdu?": "Будет ли в ближайшее время подан сигнал о запрете въезда?",
         "Czy w tej sytuacji masz obowiązek zmienić zajmowany pas ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации вы обязаны изменить занятую полосу движения, если собираетесь повернуть налево?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
@@ -2064,7 +2068,6 @@
         "Na filmie jest widoczny znak F-6: znak uprzedzający o zakazie, umieszczany przed skrzyżowaniem.": "На видео виден знак F-6: предупреждающий знак о запрете, устанавливаемый перед перекрестком.",
         "Znak D-5: pierwszeństwo na zwężonym odcinku drogi.": "Знак D-5: преимущество на суженном участке дороги.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
-        "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
         "Jest to linia bezwzględnego zatrzymania.": "Это линия абсолютной остановки.",
