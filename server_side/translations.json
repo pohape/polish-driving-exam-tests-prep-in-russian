@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы."
+        "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы.",
+        "Z tego pasa na wprost mogą pojechać tylko rowerzyści": "С этой полосы могут двигаться только велосипедисты."
     },
     "approved": {
         "linia ciągła": {
@@ -467,7 +468,10 @@
             "Lewy pas umożliwia jazdę na wprost, skręcanie w lewo i zawracanie": "Левая полоса позволяет двигаться прямо, поворачивать налево и разворачиваться.",
             "Zawracanie jest tu możliwe tylko ze skrajnego lewego pasa": "Разворот здесь возможен только с крайнего левого полосы.",
             "Zatrzymanie takie powinno odbyć się przed linią bezwzględnego zatrzymania": "Такая остановка должна быть выполнена перед линией абсолютной остановки.",
-            "Tylko na wprost": "Только прямо."
+            "Tylko na wprost": "Только прямо.",
+            "Kierujesz pojazdem silnikowym. Czy z zajmowanego pasa ruchu wolno Ci pojechać przez skrzyżowanie na wprost?": "Вы управляете моторным транспортным средством. Разрешается ли Вам продолжить движение прямо через перекресток из занимаемой полосы движения?",
+            "Linia pojedyncza ciągła uniemożliwia manewr zmiany pasa": "Одинарная сплошная линия запрещает маневр смены полосы.",
+            "Czy w tak oznakowanym miejscu wolno Ci zmienić pas ruchu?": "В таком обозначенном месте разрешено ли тебе сменить полосу движения?"
         }
     },
     "not_approved": {
