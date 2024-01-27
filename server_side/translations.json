@@ -445,7 +445,8 @@
             "Wyjeżdżając z obiektu przydrożnego mamy do czynienia z włączaniem się do ruchu.": "При выезде с придорожного объекта мы имеем дело с включением в движение.",
             "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpienia pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "Вы намереваетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Mamy do czynienia ze skrzyżowaniem równorzędnym. Znajdujemy się po prawej stronie tego pojazdu.": "Мы имеем дело с равнозначным перекрестком. Находимся справа от того транспортного средства.",
-            "Planujesz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka ma zamiar skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. У вас есть преимущество перед ним?"
+            "Planujesz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka ma zamiar skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. У вас есть преимущество перед ним?",
+            "Pojazd z przeciwka porusza się drogą z pierwszeństwem.": "Встречное ТС движется по главной дороге."
         }
     },
     "not_approved": {
@@ -2131,7 +2132,6 @@
         "Nie zastosowano tu żadnej ciągłej linii.": "Здесь не применили никакой сплошной линии.",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "\"Разрешен ли тебе разворот на проезжей части, обозначенной этим знаком?\"",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "\"В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?\"",
-        "Pojazd z przeciwka porusza się drogą z pierwszeństwem.": "Встречное ТС движется по главной дороге."
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "\"В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?\""
     }
 }
