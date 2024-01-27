@@ -443,7 +443,8 @@
             "W tej sytuacji (wyłączona sygnalizacja) sygnalizacji należy zastosować się do znaków drogowych.": "В этой ситуации (выключенный светофор) необходимо следовать дорожным знакам.",
             "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Sygnał czerwony - zakaz wjazdu za sygnalizator.": "Сигнал красный - въезд за светофор запрещён.",
-            "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?"
+            "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?",
+            "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?"
         }
     },
     "not_approved": {
@@ -492,7 +493,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
-        "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
