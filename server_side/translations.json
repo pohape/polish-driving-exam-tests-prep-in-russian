@@ -437,7 +437,8 @@
             "Twoja odpowiedź to:": "Ваш ответ:",
             "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w prawo nie występuje kolizja z innymi uczestnikami ruchu?": "\"В данной ситуации данный световой сигнал означает, что при повороте направо отсутствует столкновение с другими участниками движения?\"",
             "Zaznaczono prawidłową odpowiedź:": "Отмечен правильный ответ:",
-            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.": "Зеленый сигнал, излучаемый поворотником S-3, означает, что во время движения в указанном направлении не происходит конфликт с другими участниками движения."
+            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.": "Зеленый сигнал, излучаемый поворотником S-3, означает, что во время движения в указанном направлении не происходит конфликт с другими участниками движения.",
+            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami.": "Зелёный сигнал, подаваемый направленным светофором S-3, означает, что при движении в указанном направлении не возникает конфликта с другими участниками движения."
         }
     },
     "not_approved": {
