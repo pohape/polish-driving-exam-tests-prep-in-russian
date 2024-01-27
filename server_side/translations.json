@@ -503,7 +503,8 @@
             "Linia podwójna ciągła uniemożliwia wyprzedzenie": "Двойная сплошная линия не позволяет обгонять.",
             "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения.",
             "Czy w tej sytuacji wolno Ci pojechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
-            "Czy w tej sytuacji masz obowiązek zastosować się do żółtych znaków poziomych?": "В этой ситуации ты обязан следовать желтым горизонтальным знакам?"
+            "Czy w tej sytuacji masz obowiązek zastosować się do żółtych znaków poziomych?": "В этой ситуации ты обязан следовать желтым горизонтальным знакам?",
+            "Czy widoczne poziome znaki ostrzegawcze uprzedzają Cię o miejscu, w którym występuje lub może występować niebezpieczeństwo?": "Видимые горизонтальные предупредительные знаки предупреждают тебя о месте, где возникает или может возникнуть опасность?"
         }
     },
     "not_approved": {
@@ -2170,7 +2171,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Czy widoczne poziome znaki ostrzegawcze uprzedzają Cię o miejscu, w którym występuje lub może występować niebezpieczeństwo?": "Видимые горизонтальные предупредительные знаки предупреждают тебя о месте, где возникает или может возникнуть опасность?",
         "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак."
     }
 }
