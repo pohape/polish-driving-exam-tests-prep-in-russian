@@ -6,7 +6,7 @@ class Translate
     const YANDEX_API_KEY_FILE = '../yandex_api_key.txt';
     const OPEN_AI_API_KEY_FILE = '../open_ai_api_key.txt';
     const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
-    const CACHE_FILE = 'cache.json';
+    const TRANSLATIONS_FILE = 'translations.json';
 
     private static function requestOpenAI($systemMessage, $userData)
     {
@@ -53,6 +53,7 @@ class Translate
 
         return array(
             'translate' => $translation,
+            'approved' => false,
             'info' => empty($decodedResponse['error']['message']) ? [$decodedResponse['model'], $decodedResponse['usage']] : null,
             'error' => $decodedResponse['error']['message'] ?? null
         );
@@ -105,24 +106,31 @@ class Translate
         }
     }
 
-    private static function loadCache()
+    private static function loadTranslations()
     {
-        $cachePath = __DIR__ . '/' . self::CACHE_FILE;
+        $path = __DIR__ . '/' . self::TRANSLATIONS_FILE;
 
-        if (file_exists($cachePath)) {
-            return json_decode(file_get_contents($cachePath), true);
+        if (file_exists($path)) {
+            return json_decode(file_get_contents($path), true);
         } else {
             return [];
         }
     }
 
-    private static function saveToCache(string $original, string $translation)
+    private static function saveToTranslations(string $original, string $translation, $approved = false)
     {
-        $cachePath = __DIR__ . '/' . self::CACHE_FILE;
-        $cache = self::loadCache();
-        $cache[$original] = $translation;
+        $translations = self::loadTranslations();
 
-        file_put_contents($cachePath, json_encode($cache, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
+        if ($approved) {
+            $translations['approved']['others'][$original] = $translation;
+        } else {
+            $translations['not_approved'][$original] = $translation;
+        }
+
+        file_put_contents(
+            __DIR__ . '/' . self::TRANSLATIONS_FILE,
+            json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
+        );
     }
 
     private static function replaceRoadSignCyrillicCodes($text)
@@ -188,6 +196,23 @@ class Translate
         return trim($prompt);
     }
 
+    private static function findInTranslations($text)
+    {
+        $translations = self::loadTranslations();
+
+        foreach ($translations['approved'] as $category) {
+            if (array_key_exists($text, $category)) {
+                return [$category[$text], true];
+            }
+        }
+
+        if (array_key_exists($text, $translations['not_approved'])) {
+            return [$translations['not_approved'][$text], false];
+        }
+
+        return null;
+    }
+
     public static function performTranslation($text)
     {
         $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
@@ -200,24 +225,25 @@ class Translate
                 'error' => null
             );
         } else {
-            $cache = self::loadCache();
+            $tranlation = self::findInTranslations($text);
 
-            if (isset($cache[$text])) {
-                $result = array(
-                    'translate' => $cache[$text],
-                    'error' => null
-                );
-            } else {
+            if ($tranlation === null) {
                 $translationResult = self::requestOpenAI(
                     self::generatePrompt($text),
                     $text
                 );
 
                 if ($translationResult['translate'] !== null) {
-                    self::saveToCache($text, $translationResult['translate']);
+                    self::saveToTranslations($text, $translationResult['translate']);
                 }
 
                 $result = $translationResult;
+            } else {
+                $result = array(
+                    'translate' => $tranlation[0],
+                    'approved' => $tranlation[1],
+                    'error' => null
+                );
             }
         }
 
