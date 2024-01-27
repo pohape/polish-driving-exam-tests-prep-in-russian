@@ -117,7 +117,7 @@
             onload: function(response) {
               var result = JSON.parse(response.responseText);
 
-              console.log(result);
+              console.log(text + " mark incorrect: " + result.success);
             }
         });
     }
@@ -135,7 +135,7 @@
             onload: function(response) {
               var result = JSON.parse(response.responseText);
 
-              console.log(result);
+              console.log(text + " approve: " + result.success);
             }
         });
     }
@@ -316,10 +316,6 @@
                 var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
                 if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
-                    console.log("");
-                    console.log("Element changed OLD: '" + originalTextWithNoTranslate + "'")
-                    console.log("NEW: '" + contentCache[id] + "'")
-                    console.log("");
                     contentCache[id] = originalTextWithNoTranslate;
 
                     if (id && id.endsWith('-answer')) {
@@ -412,7 +408,7 @@
 
     var style = document.createElement('style');
     style.type = 'text/css';
-    
+
     style.innerHTML = `
     .breadcumb_area {
         height: 170px !important;
