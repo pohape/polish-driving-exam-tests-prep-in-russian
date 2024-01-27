@@ -63,7 +63,6 @@ class Translate
         );
     }
 
-
     private static function translateViaYandexApi($text)
     {
         if (!is_file(__DIR__ . '/' . self::YANDEX_API_KEY_FILE)) {
@@ -186,7 +185,7 @@ class Translate
         );
     }
 
-    private static function replaceRoadSignCyrillicCodes($text)
+    public static function replaceRoadSignCyrillicCodes($text)
     {
         $replacement = function ($matches) {
             return strtr(
@@ -266,6 +265,17 @@ class Translate
         return null;
     }
 
+    public static function trimDoubleQuotes(string $string)
+    {
+        $string = trim($string);
+
+        if (substr($string, 0, 1) === '"' && substr($string, -1) === '"') {
+            return substr($string, 1, -1);
+        }
+
+        return $string;
+    }
+
     public static function performTranslation($text)
     {
         $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
@@ -287,6 +297,7 @@ class Translate
                 );
 
                 if ($translationResult['translate'] !== null) {
+                    $result['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($translationResult['translate']));
                     self::saveToTranslations($text, $translationResult['translate'], self::NOT_APPROVED);
                 }
 
@@ -301,7 +312,6 @@ class Translate
         }
 
         if (!empty($result['translate'])) {
-            $result['translate'] = trim(self::replaceRoadSignCyrillicCodes($result['translate']), '"');
             $additional = '';
 
             if (stripos($text, 'zterokoł')) {
