@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы."
+    },
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -460,7 +462,10 @@
             "TAK": "ДА",
             "NIE": "НЕТ",
             "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "Допускается ли на этой обочине остановка транспортного средства по причинам, не связанным с условиями или правилами дорожного движения?",
-            "Czy w tej sytuacji wolno Ci zmienić pas ruchu, żeby pojechać na wprost?": "В данной ситуации разрешено ли тебе сменить полосу движения, чтобы ехать прямо?"
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu, żeby pojechać na wprost?": "В данной ситуации разрешено ли тебе сменить полосу движения, чтобы ехать прямо?",
+            "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
+            "Lewy pas umożliwia jazdę na wprost, skręcanie w lewo i zawracanie": "Левая полоса позволяет двигаться прямо, поворачивать налево и разворачиваться.",
+            "Zawracanie jest tu możliwe tylko ze skrajnego lewego pasa": "Разворот здесь возможен только с крайнего левого полосы."
         }
     },
     "not_approved": {
@@ -2135,8 +2140,6 @@
         "Planujesz skręcić w lewo, a kierujący pojazdem z przeciwka ma zamiar jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы планируете повернуть налево, а водитель встречного ТС намеревается ехать прямо. У вас есть преимущество перед ним?",
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
-        "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
-        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы."
+        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?"
     }
 }
