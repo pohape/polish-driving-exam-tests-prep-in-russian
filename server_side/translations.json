@@ -444,7 +444,8 @@
             "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Sygnał czerwony - zakaz wjazdu za sygnalizator.": "Сигнал красный - въезд за светофор запрещён.",
             "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?",
-            "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?"
+            "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "В этой ситуации обязаны ли вы уступить дорогу транспортному средству, приближающемуся слева?"
         }
     },
     "not_approved": {
