@@ -481,7 +481,10 @@
             "Czy w tej sytuacji wolno Ci jechać na wprost z zajmowanego przez Ciebie pasa ruchu?": "В этой ситуации вам разрешено ехать прямо с полосы движения, которую вы занимаете?",
             "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия односторонне пересекаемая означает запрет проезда (наезда) через эту линию с полосы движения, расположенной при сплошной линии.",
             "Czy w tej sytuacji wolno Ci zmienić pas ruchu na lewy, jeżeli zamierzasz skręcić w lewo?": "В этой ситуации разрешается ли тебе перестроиться на левую полосу, если ты намереваешься повернуть налево?",
-            "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?"
+            "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?",
+            "Jest to linia bezwzględnego zatrzymania": "Это линия абсолютной остановки.",
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed widoczną linią ciągłą?": "В этой ситуации вы обязаны остановить автомобиль перед видимой сплошной линией?",
+            "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania pojazdu przed widoczną linią ciągłą?": "Разрешается ли тебе в этой ситуации въехать на перекресток без остановки транспортного средства перед видимой сплошной линией?"
         }
     },
     "not_approved": {
@@ -780,7 +783,6 @@
         "Świateł przeciwmgłowych przednich": "Передние противотуманные фары.",
         "Tak, aby umożliwiał swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Таким образом, чтобы обеспечить свободный доступ к устройствам транспортного средства, используемым для управления и управления им.",
         "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
-        "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed widoczną linią ciągłą?": "В этой ситуации вы обязаны остановить автомобиль перед видимой сплошной линией?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
         "Czy w tym miejscu możesz skręcić w lewo, na parking?": "В этом месте вы можете повернуть налево, на парковку?",
@@ -2097,7 +2099,6 @@
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
-        "Jest to linia bezwzględnego zatrzymania": "Это линия абсолютной остановки.",
         "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?",
         "Linia dzieląca pasy ruchu umożliwia jej przekraczanie w kierunku prawej krawędzi": "Линия, разделяющая полосы движения, позволяет её пересекать в направлении правого края.",
         "Czy widoczna linia złożona z trójkątów wskazuje Ci miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa?": "Видимая линия, состоящая из треугольников, указывает вам место остановки ТС для того, чтобы уступить дорогу?",
