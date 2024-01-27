@@ -2036,5 +2036,7 @@
     "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej.": "Линия односторонне пересекаемая означает запрет проезда (наезда) через эту линию с полосы движения, расположенной при сплошной линии.",
     "Czy widoczny znak poziomy w kształcie trójkąta potwierdza ostrzeżenie o skrzyżowaniu z drogą z pierwszeństwem?": "Видимый горизонтальный знак в форме треугольника подтверждает предупреждение о перекрестке с главной дорогой?",
     "Ten znak jest niejako powtórzeniem znaku pionowego A-7 (Ustąp pierwszeństwa)": "Этот знак как бы повторяет вертикальный знак A-7 (\"Уступи дорогу\")",
-    "Czy w tej sytuacji wolno Ci wjechać na sąsiedni prawy pas ruchu?": "В этой ситуации разрешено ли тебе въехать на соседнюю правую полосу движения?"
+    "Czy w tej sytuacji wolno Ci wjechać na sąsiedni prawy pas ruchu?": "В этой ситуации разрешено ли тебе въехать на соседнюю правую полосу движения?",
+    "Czy widoczna poprzeczna linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu?": "Обозначает ли видимая пунктирная поперечная линия место условной остановки транспортного средства?",
+    "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu.": "Пунктирная линия обозначает место условной остановки транспортного средства."
 }
