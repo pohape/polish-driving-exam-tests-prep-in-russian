@@ -425,7 +425,7 @@
             "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь прерывистой линией обозначена обочина.",
             "Znak widoczny na zdjęciu ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.": "Знак, показанный на фотографии, предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
             "Czy jadąc tym pasem ruchu masz prawo zawrócić na najbliższym skrzyżowaniu?": "Если вы едете по этой полосе, имеете ли вы право развернуться на ближайшем перекрестке?",
-            "Czy w przedstawionej sytuacji masz prawo - mimo podawanego sygnału - skręcić w prawo?": "В представленной ситуации вы имеете право - несмотря на подаваемый сигнал-повернуть направо?",
+            "Czy w przedstawionej sytuacji masz prawo - mimo podawanego sygnału - skręcić w prawo?": "В представленной ситуации вы имеете право - несмотря на подаваемый сигнал - повернуть направо?",
             "Należy zastosować się do polecenia \"Pana Stopka\".": "Необходимо следовать указанию \"Pana Stopka\".",
             "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
             "Czy w tej sytuacji powinieneś oczekiwać, że następnym sygnałem będzie światło zielone?": "Должны ли вы в этой ситуации ожидать, что следующим сигналом будет зеленый свет?",
@@ -435,10 +435,9 @@
             "Taki sygnał umożliwia tylko skręt w lewo.": "Такой сигнал разрешает только поворот налево.",
             "Prawidłowa odpowiedź to:": "Правильный ответ:",
             "Twoja odpowiedź to:": "Ваш ответ:",
-            "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w prawo nie występuje kolizja z innymi uczestnikami ruchu?": "\"В данной ситуации данный световой сигнал означает, что при повороте направо отсутствует столкновение с другими участниками движения?\"",
+            "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w prawo nie występuje kolizja z innymi uczestnikami ruchu?": "В данной ситуации данный световой сигнал означает, что при повороте направо исключено столкновение с другими участниками движения?",
             "Zaznaczono prawidłową odpowiedź:": "Отмечен правильный ответ:",
-            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.": "Зеленый сигнал, излучаемый поворотником S-3, означает, что во время движения в указанном направлении не происходит конфликт с другими участниками движения.",
-            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami.": "Зелёный сигнал, подаваемый направленным светофором S-3, означает, что при движении в указанном направлении не возникает конфликта с другими участниками движения."
+            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.": "Зеленый сигнал, излучаемый поворотником S-3, означает, что во время движения в указанном направлении не произойдет конфликта с другими участниками движения."
         }
     },
     "not_approved": {
