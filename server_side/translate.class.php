@@ -278,36 +278,36 @@ class Translate
         return $string;
     }
 
-    public static function performTranslation($text)
+    public static function performTranslation($original)
     {
-        $text = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $text);
-        $text = trim(preg_replace('/\s{1,}/', ' ', $text));
+        $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
+        $original = trim(preg_replace('/\s{1,}/', ' ', $original));
 
-        if (is_numeric($text)) {
+        if (is_numeric($original)) {
             $result = array(
-                'translate' => $text,
+                'translate' => $original,
                 'info' => 'A number: no need to translate',
                 'error' => null
             );
         } else {
-            $tranlation = self::findInTranslations($text);
+            $tranlation = self::findInTranslations($original);
 
             if ($tranlation === null) {
-                $translationResult = self::requestOpenAI(
-                    self::generatePrompt($text),
-                    $text
+                $apiResponse = self::requestOpenAI(
+                    self::generatePrompt($original),
+                    $original
                 );
 
-                if ($translationResult['translate'] !== null) {
-                    $result['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($translationResult['translate']));
+                if ($apiResponse['translate'] !== null) {
+                    $apiResponse['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translate']));
                     self::saveToTranslations(
-                        trim(trim(trim($text), '.')),
-                        $translationResult['translate'],
+                        trim(trim(trim($original), '.')),
+                        $apiResponse['translate'],
                         self::NOT_APPROVED
                     );
                 }
 
-                $result = $translationResult;
+                $result = $apiResponse;
             } else {
                 $result = array(
                     'translate' => $tranlation[0],
@@ -320,10 +320,10 @@ class Translate
         if (!empty($result['translate'])) {
             $additional = '';
 
-            if (stripos($text, 'zterokoł')) {
+            if (stripos($original, 'zterokoł')) {
                 $additional .= '"czterokołowec" - масса до 400 кг в случае перевозки людей и масса до 550 кг в случае перевозки грузов';
 
-                if (stripos($text, 'lekk')) {
+                if (stripos($original, 'lekk')) {
                     $additional .= ', "czterokołowec lekki" - это масса до 350 кг и скорость до 45 км/ч';
                 }
             }
