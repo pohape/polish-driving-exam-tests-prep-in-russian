@@ -1,5 +1,7 @@
 {
-    "incorrect": {},
+    "incorrect": {
+        "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "\"Разрешена ли на этой обочине остановка транспортного средства, не обусловленная дорожными условиями или правилами дорожного движения?\""
+    },
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
