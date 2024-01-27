@@ -449,7 +449,8 @@
             "Pojazd z prawej strony jest włączającym się do ruchu": "Транспортное средство с правой стороны включается в движение.",
             "Oznakowanie poziome, a także forma sygnalizatora S-3 (strzałka w lewo i w dół) umożliwiają zawracanie": "Горизонтальная разметка, а также форма светофора S-3 (стрелка влево и вниз) позволяют разворот.",
             "Czy w tej sytuacji, jadąc na wprost, jesteś włączającym się do ruchu?": "В этой ситуации, когда вы едете прямо, вы включаетесь в движение?",
-            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение."
+            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение.",
+            "Znaki ostrzegawcze": "Знаки предупреждающие"
         }
     },
     "not_approved": {
@@ -2050,7 +2051,6 @@
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
         "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные",
         "Znaki zakazu, nakazu": "Знаки запрещения, предписания",
-        "Znaki ostrzegawcze": "Знаки предупреждающие",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Włączanie się do ruchu, skrzyżowania równorzędne": "Включение в движение, равнозначные перекрестки.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
