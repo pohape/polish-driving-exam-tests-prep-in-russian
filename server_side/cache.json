@@ -2027,5 +2027,8 @@
     "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
     "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
     "Jest to linia bezwzględnego zatrzymania.": "Это линия абсолютной остановки.",
-    "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?"
+    "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?",
+    "Linia dzieląca pasy ruchu umożliwia jej przekraczanie w kierunku prawej krawędzi.": "Линия, разделяющая полосы движения, позволяет её пересекать в направлении правого края.",
+    "Czy widoczna linia złożona z trójkątów wskazuje Ci miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa?": "Видимая линия, состоящая из треугольников, указывает вам место остановки ТС для того, чтобы уступить дорогу?",
+    "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7.": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7."
 }
