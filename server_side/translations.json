@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы.",
-        "Z tego pasa na wprost mogą pojechać tylko rowerzyści": "С этой полосы могут двигаться только велосипедисты."
+        "Z tego pasa na wprost mogą pojechać tylko rowerzyści": "С этой полосы могут двигаться только велосипедисты.",
+        "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\""
     },
     "approved": {
         "linia ciągła": {
@@ -473,7 +474,8 @@
             "Linia pojedyncza ciągła uniemożliwia manewr zmiany pasa": "Одинарная сплошная линия запрещает маневр смены полосы.",
             "Czy w tak oznakowanym miejscu wolno Ci zmienić pas ruchu?": "В таком обозначенном месте разрешено ли тебе сменить полосу движения?",
             "Czy w tej sytuacji, kontynuując jazdę, masz obowiązek zmienić pas ruchu?": "В этой ситуации, продолжая движение, вы обязаны менять полосу движения?",
-            "Strzałka naprowadzająca w lewo oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка направляющая влево означает требование въезда на соседнюю полосу движения указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен дальнейший участок полосы движения."
+            "Strzałka naprowadzająca w lewo oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка направляющая влево означает требование въезда на соседнюю полосу движения указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен дальнейший участок полосы движения.",
+            "Czy z tak oznakowanej jezdni wolno Ci zjechać na widoczny po lewej stronie parking?": "С такой обозначенной дороги вам разрешено выезжать на стоянку, видимую слева?"
         }
     },
     "not_approved": {
@@ -883,7 +885,6 @@
         "Czy na widocznym skrzyżowaniu wolno Ci zawrócić?": "На видимом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
-        "Czy z tak oznakowanej jezdni wolno Ci zjechać na widoczny po lewej stronie parking?": "С такой обозначенной дороги вам разрешено выезжать на стоянку, видимую слева?",
         "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
@@ -2149,7 +2150,7 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
-        "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\"",
-        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот."
+        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
+        "Na wysokości wjazdu na parking znajduje się przerywana linia": "На уровне въезда на парковку находится прерывистая линия."
     }
 }
