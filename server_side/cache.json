@@ -2040,5 +2040,9 @@
     "Czy widoczna poprzeczna linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu?": "Обозначает ли видимая пунктирная поперечная линия место условной остановки транспортного средства?",
     "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu.": "Пунктирная линия обозначает место условной остановки транспортного средства.",
     "Czy w tej sytuacji, bezpośrednio za widoczną po prawej stronie drogi linią złożoną z punktowych elementów odblaskowych barwy białej jest pobocze?": "В этой ситуации, непосредственно за видимой справа на дороге линией, составленной из пунктирных отражающих элементов белого цвета, располагается обочина?",
-    "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu.": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения."
+    "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu.": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения.",
+    "Czy w tej sytuacji masz prawo zatrzymać pojazd na poboczu?": "В этой ситуации у вас есть право остановить транспортное средство на обочине?",
+    "Linia krawędziowa ciągła oznacza zakaz wjazdu na pobocze kierującemu pojazdem samochodowym.": "Сплошная линия обочины означает запрет на заезд на обочину водителю автомобильного транспортного средства.",
+    "Czy w tej sytuacji, zajmując prawy pas ruchu, będziesz mógł poprawnie wykonać skręt w lewo?": "\"В этой ситуации, занимая правую полосу движения, сможешь ли ты правильно выполнить поворот налево?\"",
+    "Prawy pas jest przeznaczony do jazdy prosto.": "Правая полоса предназначена для движения прямо."
 }
