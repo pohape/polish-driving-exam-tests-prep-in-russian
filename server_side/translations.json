@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной краевой линией."
+    },
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -2134,7 +2136,6 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
-        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной краевой линией."
+        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?"
     }
 }
