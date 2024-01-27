@@ -9,7 +9,9 @@
         "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?",
         "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?",
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?",
-        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?"
+        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?",
+        "Przed wjazdem na skrzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи первенство\".",
+        "Ten pojazd również porusza się drogą z pierwszeństwem. Mają tu zastosowanie ogólne zasady pierwszeństwa": "Этот транспортное средство также движется по главной дороге. Здесь применимы общие правила преимущества."
     },
     "approved": {
         "linia ciągła": {
@@ -520,7 +522,9 @@
             "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
             "Obaj znajdujemy się na drodze z pierwszeństwem. Trzeba zastosować się do zasad ogólbych (prawa strona)": "Оба мы находимся на главной дороге. Необходимо придерживаться общих правил (правая сторона).",
             "Motocyklista tak samo jak my porusza się drogą podporządkowaną, znajduje się po naszej prawej stronie": "Мотоциклист так же, как и мы, движется по второстепенной дороге, находится справа от нас.",
-            "Przed skrzyżowaniem umieszczono znak Ustąp pierwszeństwa": "Перед перекрестком установлен знак \"Уступи дорогу\"."
+            "Przed skrzyżowaniem umieszczono znak Ustąp pierwszeństwa": "Перед перекрестком установлен знак \"Уступи дорогу\".",
+            "Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева?",
+            "Motocykl porusza się drogą podporządkowana": "Мотоцикл движется по второстепенной дороге."
         }
     },
     "not_approved": {
@@ -2183,8 +2187,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
-        "Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева?",
-        "Przed wjazdem na skrzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи первенство\"."
+        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак."
     }
 }
