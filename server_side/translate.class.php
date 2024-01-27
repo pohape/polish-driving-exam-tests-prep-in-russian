@@ -222,7 +222,7 @@ class Translate
         }
 
         if (!empty($result['translate'])) {
-            $result['translate'] = trim(self::replaceRoadSignCyrillicCodes($result['translate'], '"'));
+            $result['translate'] = trim(self::replaceRoadSignCyrillicCodes($result['translate']), '"');
             $additional = '';
 
             if (stripos($text, 'zterokoł')) {
