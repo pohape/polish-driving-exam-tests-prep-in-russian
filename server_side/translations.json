@@ -446,7 +446,9 @@
             "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?",
             "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "В этой ситуации обязаны ли вы уступить дорогу транспортному средству, приближающемуся слева?",
-            "Wyjeżdżając z obiektu przydrożnego mamy do czynienia z włączaniem się do ruchu.": "При выезде с придорожного объекта мы имеем дело с включением в движение."
+            "Wyjeżdżając z obiektu przydrożnego mamy do czynienia z włączaniem się do ruchu.": "При выезде с придорожного объекта мы имеем дело с включением в движение.",
+            "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpienia pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "Вы намереваетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
+            "Mamy do czynienia ze skrzyżowaniem równorzędnym. Znajdujemy się po prawej stronie tego pojazdu.": "Мы имеем дело с равнозначным перекрестком. Находимся справа от этого транспортного средства."
         }
     },
     "not_approved": {
@@ -2129,7 +2131,6 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "\"Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?\"",
         "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie.": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться.",
-        "Nie zastosowano tu żadnej ciągłej linii.": "Здесь не применили никакой сплошной линии.",
-        "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpienia pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "Вы намереваетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?"
+        "Nie zastosowano tu żadnej ciągłej linii.": "Здесь не применили никакой сплошной линии."
     }
 }
