@@ -104,7 +104,8 @@
         return popup;
     }
 
-    function markTranslationAsIncorrect(text) {
+    function sendTranslationFeedback(translation, actionType) {
+        saveToCacheEmojiFlag(translation, false);
         GM_xmlhttpRequest({
             method: "POST",
             url: "http://193.177.165.241/teoria_pl_tests_translate/",
@@ -112,35 +113,24 @@
                 "Content-Type": "application/json"
             },
             data: JSON.stringify({
-                mark_incorrect: text
+                [actionType]: translation
             }),
             onload: function(response) {
-              var result = JSON.parse(response.responseText);
-
-              console.log(text + " mark incorrect: " + result.success);
+                var result = JSON.parse(response.responseText);
+                console.log(translation + " " + actionType + ": " + result.success);
             }
         });
     }
 
-    function approveTranslation(text) {
-        GM_xmlhttpRequest({
-            method: "POST",
-            url: "http://193.177.165.241/teoria_pl_tests_translate/",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            data: JSON.stringify({
-                approve: text
-            }),
-            onload: function(response) {
-              var result = JSON.parse(response.responseText);
-
-              console.log(text + " approve: " + result.success);
-            }
-        });
+    function markTranslationAsIncorrect(translation) {
+        sendTranslationFeedback(translation, "mark_incorrect");
     }
 
-    function addLinksToSignCodes(element, translation, showEmojis) {
+    function approveTranslation(translation) {
+        sendTranslationFeedback(translation, "approve");
+    }
+
+    function addLinksToSignCodes(element, translation) {
         const regex = /\b([A-Z]-\d+[a-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -157,11 +147,13 @@
             link.textContent = match[1];
 
             let popup;
+
             link.onmouseover = (e) => {
                 const mouseX = e.clientX + 10; // 10 пикселей справа от курсора
                 const mouseY = e.clientY + 10; // 10 пикселей ниже курсора
                 popup = createPopup(link.href, mouseX, mouseY);
             };
+
             link.onmouseout = () => { if (popup) document.body.removeChild(popup); };
             element.appendChild(link); // Ссылка добавляется напрямую, без оборачивания в <b>
 
@@ -175,7 +167,7 @@
             element.appendChild(remainingText);
         }
 
-        if (showEmojis) {
+        if (loadFromCacheEmojiFlag(translation)) {
           // Группируем смайлики в родительский элемент
           const emojiGroup = document.createElement('span'); // Создаем родительский элемент для пары смайликов
 
@@ -186,7 +178,6 @@
               e.preventDefault(); // Предотвращаем переход по ссылке
               approveTranslation(translation); // Вызов функции для позитивной оценки
               emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
-              saveToCacheEmojiFlag(translation, false);
           };
 
           const thumbsDownLink = document.createElement('a');
@@ -196,7 +187,6 @@
               e.preventDefault(); // Предотвращаем переход по ссылке
               markTranslationAsIncorrect(translation); // Вызов функции для негативной оценки
               emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
-              saveToCacheEmojiFlag(translation, false);
           };
 
           // Добавляем смайлики к родительскому элементу
@@ -222,25 +212,27 @@
     }
 
     function saveToCacheEmojiFlag(translate, flag) {
-        localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag);
+        localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag ? '1' : '0');
     }
 
-    function loadFromCacheEmojiFlag(original) {
-        return localStorage.getItem(getCacheKeyForEmojiFlags(original));
+    function loadFromCacheEmojiFlag(translate) {
+        var result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
+
+        return result == 1 ? true : false;
     }
 
     function saveToCache(original, translate) {
         localStorage.setItem(getCacheKey(original), translate);
-        console.log("Translation saved to cache: " + translate);
-        printNumberOfTranslationsInCache();
+        // console.log("Translation saved to cache: " + translate);
+        // printNumberOfTranslationsInCache();
     }
 
     function loadFromCache(original) {
         var cachedTranslation = localStorage.getItem(getCacheKey(original));
 
         if (cachedTranslation !== null) {
-            console.log("Translation loaded from cache: " + cachedTranslation);
-            printNumberOfTranslationsInCache();
+            // console.log("Translation loaded from cache: " + cachedTranslation);
+            // printNumberOfTranslationsInCache();
 
             return cachedTranslation;
         }
@@ -252,7 +244,7 @@
         var cachedTranslation = loadFromCache(text);
 
         if (cachedTranslation !== null) {
-            callback(cachedTranslation, loadFromCacheEmojiFlag(cachedTranslation));
+            callback(cachedTranslation);
         } else {
             GM_xmlhttpRequest({
                 method: "POST",
@@ -266,15 +258,16 @@
                 onload: function(response) {
                     var result = JSON.parse(response.responseText);
 
-                    console.log("");
-                    console.log("Original: " + text);
-                    console.log("Translate: " + result.translate);
-                    console.log("");
+                    // console.log("");
+                    // console.log("Original: " + text);
+                    // console.log("Translate: " + result.translate);
+                    // console.log("");
 
                     if (result.translate && result.translate.trim() !== '') {
                         saveToCache(text, result.translate);
                         saveToCacheEmojiFlag(result.translate, !result.approved);
-                        callback(result.translate, !result.approved);
+
+                        callback(result.translate);
                     } else {
                         console.log("Invalid translation received for: " + text);
                         callback("Ошибка: не получилось перевести.", false);
@@ -319,24 +312,24 @@
                     contentCache[id] = originalTextWithNoTranslate;
 
                     if (id && id.endsWith('-answer')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
                             element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
                             const translationElement = element.querySelector('b');
-                            addLinksToSignCodes(translationElement, translatedText, showEmojis);
+                            addLinksToSignCodes(translationElement, translatedText);
                         });
                     } else if (selector.includes('page_title')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
                             element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
                             const translationElement = element.querySelector('translation');
-                            addLinksToSignCodes(translationElement, translatedText, showEmojis);
+                            addLinksToSignCodes(translationElement, translatedText);
                         });
                     } else {
                         var clonedContent = getElementWithTranslation(element)
                         clonedContent.style.display = 'none';
 
-                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
+                        translateText(originalTextWithNoTranslate, function(translatedText) {
                             clonedContent.innerHTML = '';
-                            addLinksToSignCodes(clonedContent, translatedText, showEmojis);
+                            addLinksToSignCodes(clonedContent, translatedText);
                             clonedContent.style.display = 'block';
                         });
                     }
