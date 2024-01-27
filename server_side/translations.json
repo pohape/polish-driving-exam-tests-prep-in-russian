@@ -3,7 +3,10 @@
         "Linia oddzielająca pasy ruchu uniemożliwia manewr zmiany pasa": "Линия, разделяющая полосы движения, предотвращает маневр смены полосы.",
         "Z tego pasa na wprost mogą pojechać tylko rowerzyści": "С этой полосы могут двигаться только велосипедисты.",
         "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\"",
-        "Na wysokości wjazdu na parking znajduje się przerywana linia": "На уровне въезда на парковку находится прерывистая линия."
+        "Na wysokości wjazdu na parking znajduje się przerywana linia": "На уровне въезда на парковку находится прерывистая линия.",
+        "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Этот знак указывает место остановки ТС в целях уступки дороги, вытекающей из вертикального знака A-7.",
+        "Jest to zatoka przystankowa": "Это автобусная бухта.",
+        "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?"
     },
     "approved": {
         "linia ciągła": {
@@ -2159,6 +2162,6 @@
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Этот знак указывает место остановки ТС в целях уступки дороги, вытекающей из вертикального знака A-7."
+        "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?"
     }
 }
