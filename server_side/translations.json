@@ -484,7 +484,11 @@
             "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?",
             "Jest to linia bezwzględnego zatrzymania": "Это линия абсолютной остановки.",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed widoczną linią ciągłą?": "В этой ситуации вы обязаны остановить автомобиль перед видимой сплошной линией?",
-            "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania pojazdu przed widoczną linią ciągłą?": "Разрешается ли тебе в этой ситуации въехать на перекресток без остановки транспортного средства перед видимой сплошной линией?"
+            "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania pojazdu przed widoczną linią ciągłą?": "Разрешается ли тебе в этой ситуации въехать на перекресток без остановки транспортного средства перед видимой сплошной линией?",
+            "Jest to wytyczony tor jazdy dla skręcających w lewo": "Это обозначенная дорожка движения для поворачивающих налево.",
+            "Czy widoczne na tym skrzyżowaniu oznakowanie poziome w postaci linii przerywanej, oznacza kontynuację zajmowanego pasa ruchu?": "Означает ли видимая на этом перекрестке горизонтальная разметка в виде пунктирной линии продолжение занятой полосы движения?",
+            "Jest to powtórzony w formie poziomej znak ostrzegawczy": "Это повторённый в горизонтальной форме предупреждающий знак.",
+            "Czy widoczny trójkątny znak poziomy uprzedza Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?": "Видимый горизонтальный треугольный знак предупреждает тебя о месте на дороге, где возникает или может возникнуть опасность?"
         }
     },
     "not_approved": {
@@ -740,7 +744,6 @@
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
         "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям.",
         "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
-        "Czy widoczne na tym skrzyżowaniu oznakowanie poziome w postaci linii przerywanej, oznacza kontynuację zajmowanego pasa ruchu?": "Означает ли видимая на этом перекрестке горизонтальная разметка в виде пунктирной линии продолжение занятой полосы движения?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie?": "Имеете ли вы право въезжать на перекресток в этой ситуации?",
@@ -2155,6 +2158,7 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
-        "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\""
+        "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
+        "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Этот знак указывает место остановки ТС в целях уступки дороги, вытекающей из вертикального знака A-7."
     }
 }
