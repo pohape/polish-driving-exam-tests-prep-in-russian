@@ -524,7 +524,9 @@
             "Motocyklista tak samo jak my porusza się drogą podporządkowaną, znajduje się po naszej prawej stronie": "Мотоциклист так же, как и мы, движется по второстепенной дороге, находится справа от нас.",
             "Przed skrzyżowaniem umieszczono znak Ustąp pierwszeństwa": "Перед перекрестком установлен знак \"Уступи дорогу\".",
             "Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева?",
-            "Motocykl porusza się drogą podporządkowana": "Мотоцикл движется по второстепенной дороге."
+            "Motocykl porusza się drogą podporządkowana": "Мотоцикл движется по второстепенной дороге.",
+            "On również znajduje się na drodze z pierwszeństwem. W tym przypadku należy zastosować zasady ogólne (prawa strona)": "Он также находится на главной дороге. В этом случае необходимо применить общие правила (правая сторона).",
+            "Ten pojazd porusza się drogą z pierwszeństwem": "Этот транспортное средство движется по главной дороге."
         }
     },
     "not_approved": {
@@ -1959,7 +1961,6 @@
         "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
         "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
-        "On również znajduje się na drodze z pierwszeństwem. W tym przypadku należy zastosować zasady ogólne (prawa strona)": "Он также находится на главной дороге. В этом случае необходимо применить общие правила (правая сторона).",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
