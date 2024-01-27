@@ -2068,5 +2068,9 @@
     "Czy w tej sytuacji wolno Ci korzystać ze wszystkich pasów ruchu na całej szerokości jezdni?": "\"В этой ситуации разрешено ли тебе использовать все полосы движения на всей ширине проезжей части?\"",
     "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię.": "Если на дороге установлены знаки белого и желтого цвета, указывающие различные способы поведения, водитель обязан следовать желтым знакам. Двойная сплошная линия разделяет полосы движения противоположных направлений и означает запрет переезжать через эту линию.",
     "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Вопрос: Запрещает ли видимая горизонтальная разметка смену ранее занятой полосы движения?",
-    "Można go zmienić o jeden na lewo.": "Можно его изменить на один влево."
+    "Można go zmienić o jeden na lewo.": "Можно его изменить на один влево.",
+    "Czy z zajmowanego pasa ruchu wolno Ci skręcić w prawo na tym skrzyżowaniu?": "\"Можешь ли ты повернуть направо с занятой полосы движения на этом перекрестке?\"",
+    "Skręt w prawo jest możliwy dzięki linii przerywanej.": "Поворот направо возможен благодаря пунктирной линии.",
+    "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
+    "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь обозначено прерывистой линией обочина."
 }
