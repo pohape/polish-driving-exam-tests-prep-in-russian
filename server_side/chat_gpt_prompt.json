@@ -19,6 +19,12 @@
         ]
     },
     "dictionary": {
+        "linia krawędziowa: линия края проезжей части": [
+            "krawędz"
+        ],
+        "pobocze jest oddzielone ciągłą linią krawędziową: обочина отделена сплошной линией края проезжей части": [
+            "krawędz"
+        ],
         "ta linia ciągła wyznacza miejsce zatrzymania: эта сплошная линия указывает место остановки": [
             "ciągł"
         ],

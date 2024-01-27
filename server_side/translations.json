@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной краевой линией."
-    },
+    "incorrect": {},
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -418,6 +416,7 @@
             "Znak ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo": "Знак предупреждает о двух опасных поворотах, первый из которых находится в направлении, указанном на знаке, а второй может быть как влево, так и вправо."
         },
         "others": {
+            "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной линией края проезжей части.",
             "W umowie OC": "В договоре OC (odpowiedzialności cywilnej - гражданской ответственности).",
             "Jest tu wyznaczone przerywaną linią pobocze": "Здесь прерывистой линией обозначена обочина.",
             "Znak widoczny na zdjęciu ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi": "Знак, показанный на фотографии, предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
