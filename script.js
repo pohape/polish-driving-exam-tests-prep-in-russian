@@ -153,7 +153,6 @@
 
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
-            link.href = '#'; // Изменено для предотвращения перехода по URL
             link.href = 'https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
 
