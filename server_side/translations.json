@@ -446,7 +446,8 @@
             "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpienia pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "Вы намереваетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Mamy do czynienia ze skrzyżowaniem równorzędnym. Znajdujemy się po prawej stronie tego pojazdu.": "Мы имеем дело с равнозначным перекрестком. Находимся справа от того транспортного средства.",
             "Planujesz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka ma zamiar skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. У вас есть преимущество перед ним?",
-            "Pojazd z przeciwka porusza się drogą z pierwszeństwem.": "Встречное ТС движется по главной дороге."
+            "Pojazd z przeciwka porusza się drogą z pierwszeństwem.": "Встречное ТС движется по главной дороге.",
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa rowerzyście?": "Вы намерены повернуть налево. Обязаны ли вы уступить дорогу велосипедисту?"
         }
     },
     "not_approved": {
@@ -2133,6 +2134,7 @@
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "\"Разрешен ли тебе разворот на проезжей части, обозначенной этим знаком?\"",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "\"В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?\"",
-        "Planujesz skręcić w lewo, a kierujący pojazdem z przeciwka ma zamiar jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы планируете повернуть налево, а водитель встречного ТС намеревается ехать прямо. У вас есть преимущество перед ним?"
+        "Planujesz skręcić w lewo, a kierujący pojazdem z przeciwka ma zamiar jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы планируете повернуть налево, а водитель встречного ТС намеревается ехать прямо. У вас есть преимущество перед ним?",
+        "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "\"В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?\""
     }
 }
