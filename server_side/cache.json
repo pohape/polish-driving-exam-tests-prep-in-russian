@@ -1,4 +1,6 @@
 {
+    "--linia ciągła--": "",
+    "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?",
     "--linia przekraczalna--": "",
     "Linia przerywana jest linią przekraczalną.": "Пунктирная линия - это линия которую можно пересекать.",
     "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej, z wyjątkiem powrotu po wyprzedzaniu na pas ruchu zajmowany przed wyprzedzaniem.": "Односторонне пересекаемая линия означает запрет проезда (наезда) через эту линию с полосы движения, где линия непрерывная, за исключением ситуаций, когда водитель завершает обгон и возвращается на исходную полосу.",
@@ -2025,6 +2027,5 @@
     "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
     "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
     "Jest to linia bezwzględnego zatrzymania.": "Это линия абсолютной остановки.",
-    "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?",
-    "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "\"Разделяет ли эта сплошная линия для вас место остановки транспортного средства в связи со знаком \"стоп\"?\""
+    "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?"
 }
