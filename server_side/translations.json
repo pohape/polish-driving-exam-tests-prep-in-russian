@@ -451,7 +451,8 @@
             "Czy w tej sytuacji, jadąc na wprost, jesteś włączającym się do ruchu?": "В этой ситуации, когда вы едете прямо, вы включаетесь в движение?",
             "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение.",
             "Znaki ostrzegawcze": "Знаки предупреждающие",
-            "Znaki zakazu, nakazu": "Знаки запрещения, предписания"
+            "Znaki zakazu, nakazu": "Знаки запрещения, предписания",
+            "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные"
         }
     },
     "not_approved": {
@@ -2050,7 +2051,6 @@
         "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t": "Допустимая скорость свыше 60 км\/ч в населенном пункте относится к легковому автомобилю, мотоциклу и грузовому автомобилю с разрешенной максимальной массой не более 3,5 т.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
-        "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Włączanie się do ruchu, skrzyżowania równorzędne": "Включение в движение, равнозначные перекрестки.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
@@ -2133,6 +2133,7 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
-        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?"
+        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
+        "Jedziesz prawym pasem ruchu. Czy wolno Ci skręcić w lewo na skrzyżowaniu?": "Вы едете по правой полосе движения. Разрешено ли вам повернуть налево на перекрестке?"
     }
 }
