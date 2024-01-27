@@ -419,13 +419,13 @@
         "others": {
             "W umowie OC.": "В договоре OC (odpowiedzialności cywilnej - гражданской ответственности).",
             "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь прерывистой линией обозначена обочина.",
-            "Znak widoczny na zdjęciu ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.": "Знак, показанный на фотографии, предупреждает о возможном обморожении проезжей части или гололедице на дороге."
+            "Znak widoczny na zdjęciu ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi.": "Знак, показанный на фотографии, предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
+            "Czy jadąc tym pasem ruchu masz prawo zawrócić na najbliższym skrzyżowaniu?": "Если вы едете по этой полосе, имеете ли вы право развернуться на ближайшем перекрестке?"
         }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
         "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdom napędzanym wodorem?": "Разрешает ли этот знак Въезд в зону чистого транспорта водородным транспортным средствам?",
-        "Czy jadąc tym pasem ruchu masz prawo zawrócić na najbliższym skrzyżowaniu?": "Если вы едете по этой полосе, имеете ли вы право развернуться на ближайшем перекрестке?",
         "Czy w tej sytuacji, jadąc na wprost, jesteś włączającym się do ruchu?": "В этой ситуации, когда вы едете прямо, вы включаетесь в движение?",
         "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
