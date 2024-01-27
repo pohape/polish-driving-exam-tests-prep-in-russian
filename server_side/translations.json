@@ -430,7 +430,14 @@
             "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
             "Czy w tej sytuacji powinieneś oczekiwać, że następnym sygnałem będzie światło zielone?": "Должны ли вы в этой ситуации ожидать, что следующим сигналом будет зеленый свет?",
             "Po sygnale czerwonym i żółtym włącza się zielone.": "После красного и желтого сигнала включается зеленый.",
-            "Zabrania się zawracania na jezdni jednokierunkowej.": "Запрещается разворот на односторонней проезжей части."
+            "Zabrania się zawracania na jezdni jednokierunkowej.": "Запрещается разворот на односторонней проезжей части.",
+            "Czy w tej sytuacji sygnał świetlny nadawany dla Twojego pasa ruchu zezwala Ci na zawracanie?": "В этой ситуации разрешает ли вам разворот световой сигнал, передаваемый вашей полосе движения?",
+            "Taki sygnał umożliwia tylko skręt w lewo.": "Такой сигнал разрешает только поворот налево.",
+            "Prawidłowa odpowiedź to:": "Правильный ответ:",
+            "Twoja odpowiedź to:": "Ваш ответ:",
+            "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w prawo nie występuje kolizja z innymi uczestnikami ruchu?": "\"В данной ситуации данный световой сигнал означает, что при повороте направо отсутствует столкновение с другими участниками движения?\"",
+            "Zaznaczono prawidłową odpowiedź:": "Отмечен правильный ответ:",
+            "Sygnał zielony nadawany przez sygnalizator kierunkowy S-3 oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu.": "Зеленый сигнал, излучаемый поворотником S-3, означает, что во время движения в указанном направлении не происходит конфликт с другими участниками движения."
         }
     },
     "not_approved": {
@@ -694,7 +701,6 @@
         "Świadectwo zgodności z warunkami technicznymi.": "Сертификат соответствия техническим условиям.",
         "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
         "Czy widoczne na tym skrzyżowaniu oznakowanie poziome w postaci linii przerywanej, oznacza kontynuację zajmowanego pasa ruchu?": "Означает ли видимая на этом перекрестке горизонтальная разметка в виде пунктирной линии продолжение занятой полосы движения?",
-        "Czy w tej sytuacji sygnał świetlny nadawany dla Twojego pasa ruchu zezwala Ci na zawracanie?": "В этой ситуации разрешает ли вам разворот световой сигнал, передаваемый вашей полосе движения?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie?": "Имеете ли вы право въезжать на перекресток в этой ситуации?",
@@ -1008,12 +1014,9 @@
         "Akceptacja Regulaminu i Polityki Prywatności": "Принятие условий и политики конфиденциальности",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do jednego niebezpiecznego zakrętu w prawo?": "В представленной ситуации вас предупреждают о приближении к одному опасному повороту направо?",
         "Znak widoczny na zdjęciu ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku.": "Знак, видимый на фотографии, предупреждает об опасном повороте в направлении, указанном на знаке.",
-        "Zaznaczono prawidłową odpowiedź:": "Отмечен правильный ответ:",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach?": "В представленной ситуации вас предупреждают о двух опасных поворотах?",
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
         "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów.": "Табличка, размещенная под знаком, показывает количество опасных поворотов.",
-        "Prawidłowa odpowiedź to:": "Правильный ответ:",
-        "Twoja odpowiedź to:": "Ваш ответ:",
         "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia.": "На табличке изображен предупреждающий знак а-15-скользкая поверхность.",
         "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa.": "На световых досках отображаются предупреждающие знаки а-30-другие опасности.",
