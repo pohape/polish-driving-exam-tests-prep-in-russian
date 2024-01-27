@@ -445,7 +445,8 @@
             "Sygnał czerwony - zakaz wjazdu za sygnalizator.": "Сигнал красный - въезд за светофор запрещён.",
             "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?",
             "Czy z zajmowanego pasa ruchu wolno Ci zawrócić?": "С занятой полосы движения вам разрешено развернуться?",
-            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "В этой ситуации обязаны ли вы уступить дорогу транспортному средству, приближающемуся слева?"
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi, który nadjeżdża z lewej strony?": "В этой ситуации обязаны ли вы уступить дорогу транспортному средству, приближающемуся слева?",
+            "Wyjeżdżając z obiektu przydrożnego mamy do czynienia z włączaniem się do ruchu.": "При выезде с придорожного объекта мы имеем дело с включением в движение."
         }
     },
     "not_approved": {
