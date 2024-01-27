@@ -9,7 +9,7 @@ class Translate
     const TRANSLATIONS_FILE = 'translations.json';
 
     const INCORRECT = 'INCORRECT';
-    const NOT_APPROVED = 'APPROVED';
+    const NOT_APPROVED = 'NOT_APPROVED';
     const APPROVED = 'APPROVED';
 
     private static function requestOpenAI($systemMessage, $userData)
@@ -168,7 +168,7 @@ class Translate
         return $translations;
     }
 
-    private static function saveToTranslations(string $original, string $translation, $type = self::NOT_APPROVED)
+    private static function saveToTranslations(string $original, string $translation, $type)
     {
         $translations = self::removeTranslation($original);
 
@@ -287,7 +287,7 @@ class Translate
                 );
 
                 if ($translationResult['translate'] !== null) {
-                    self::saveToTranslations($text, $translationResult['translate']);
+                    self::saveToTranslations($text, $translationResult['translate'], self::NOT_APPROVED);
                 }
 
                 $result = $translationResult;
