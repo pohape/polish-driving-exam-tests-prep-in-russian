@@ -19,6 +19,12 @@
         ]
     },
     "dictionary": {
+        "linia przekraczalna: линия, которую можно пересекать": [
+            "przekraczaln"
+        ],
+        "linia przerywana jest linią przekraczalną: пунктирная линия - это линия которую можно пересекать": [
+            "przekraczaln"
+        ],
         "miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети": [
             "przez dzieci"
         ],
@@ -43,7 +49,7 @@
             "przecięcie",
             "tory"
         ],
-        "Znak \"uwaga tramwaj\": знак \"Внимание трамвай\"": [
+        "znak \"uwaga tramwaj\": знак \"Внимание трамвай\"": [
             "znak",
             "uwaga"
         ],

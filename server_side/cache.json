@@ -1,4 +1,8 @@
 {
+    "--linia przekraczalna--": "",
+    "Linia przerywana jest linią przekraczalną.": "Пунктирная линия - это линия которую можно пересекать.",
+    "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej, z wyjątkiem powrotu po wyprzedzaniu na pas ruchu zajmowany przed wyprzedzaniem.": "Односторонне пересекаемая линия означает запрет проезда (наезда) через эту линию с полосы движения, где линия непрерывная, за исключением ситуаций, когда водитель завершает обгон и возвращается на исходную полосу.",
+    "Linia rozdzielająca pasy ruchu jest linią przekraczalną.": "Линия, разделяющая полосы движения, является линией которую можно пересекать.",
     "--tablicy--": "",
     "Warunkiem dopuszczenia pojazdu do ruchu jest jego zarejestrowanie i zaopatrzonie w zalegalizowane tablice rejestracyjne.": "Условием допуска транспортного средства в движение является его регистрация и наличие легальных номерных знаков.",
     "Co powinien zrobić właściciel samochodu osobowego w przypadku utraty tablicy rejestracyjnej?": "Что делать владельцу легкового автомобиля в случае потери номерного знака?",
@@ -772,7 +776,6 @@
     "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
     "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu.": "Безопасный, зависит от ширины проезжей части и условий движения.",
     "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
-    "Linia przerywana jest linią przekraczalną.": "Пунктирная линия-это линия пересечения.",
     "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy.": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
     "Pojazd holowany, z wyjątkiem motocykla, powinien być oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym.": "Буксируемое транспортное средство, за исключением мотоцикла, должно быть обозначено сзади слева предупреждающим отражающим треугольником.",
     "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?",
@@ -1841,7 +1844,6 @@
     "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
     "Zabrania się cofania na moście lub wiadukcie.": "Запрещается двигаться задним ходом на мосту или эстакаде.",
     "On również znajduje się na drodze z pierwszeństwem. W tym przypadku należy zastosować zasady ogólne (prawa strona).": "Он также находится на главной дороге. В этом случае необходимо применить общие правила (правая сторона).",
-    "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej, z wyjątkiem powrotu po wyprzedzaniu na pas ruchu zajmowany przed wyprzedzaniem.": "Односторонне пересекаемая линия означает запрет проезда (наезда) через эту линию с полосы движения, расположенной рядом с непрерывной линией, за исключением возвращения на полосу движения, занимаемую до начала обгона, после завершения обгона.",
     "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa.": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
     "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka.": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
     "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
@@ -2020,6 +2022,5 @@
     "Znak D-5: pierwszeństwo na zwężonym odcinku drogi.": "Знак D-5: преимущество на суженном участке дороги.",
     "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
     "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
-    "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
-    "Linia rozdzielająca pasy ruchu jest linią przekraczalną.": "Линия, разделяющая полосы движения, является линией пересекаемой."
+    "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?"
 }
