@@ -1,7 +1,6 @@
 {
     "incorrect": {
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "Предупреждены ли вы о частых блокировках движения транспортных средств (пробках) в представленной ситуации?",
-        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, показанный на фотографии, предупреждает о частых блокировках движения транспортных средств.",
         "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Можно ли вам развернуться на проезжей части, обозначенной этим знаком?"
     },
     "approved": {
@@ -2131,6 +2130,7 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "\"Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?\"",
         "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie.": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться.",
-        "Nie zastosowano tu żadnej ciągłej linii.": "Здесь не применили никакой сплошной линии."
+        "Nie zastosowano tu żadnej ciągłej linii.": "Здесь не применили никакой сплошной линии.",
+        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств."
     }
 }
