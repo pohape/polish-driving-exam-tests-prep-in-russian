@@ -104,21 +104,62 @@
         return popup;
     }
 
-    function addLinksToSignCodes(element, text) {
+    function markTranslationAsIncorrect(text) {
+        GM_xmlhttpRequest({
+            method: "POST",
+            url: "http://193.177.165.241/teoria_pl_tests_translate/",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            data: JSON.stringify({
+                mark_incorrect: text
+            }),
+            onload: function(response) {
+              var result = JSON.parse(response.responseText);
+
+              console.log(result);
+            }
+        });
+    }
+
+    function approveTranslation(text) {
+        GM_xmlhttpRequest({
+            method: "POST",
+            url: "http://193.177.165.241/teoria_pl_tests_translate/",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            data: JSON.stringify({
+                approve: text
+            }),
+            onload: function(response) {
+              var result = JSON.parse(response.responseText);
+
+              console.log(result);
+            }
+        });
+    }
+
+    function addLinksToSignCodes(element, translation, showEmojis) {
         const regex = /\b([A-Z]-\d+[a-z]?)\b/g;
         let lastIndex = 0;
         let match;
 
-        while ((match = regex.exec(text)) !== null) {
+        while ((match = regex.exec(translation)) !== null) {
             // Добавляем текст до найденного соответствия жирным шрифтом
             const beforeMatch = document.createElement('b');
-            beforeMatch.textContent = text.substring(lastIndex, match.index);
+            beforeMatch.textContent = translation.substring(lastIndex, match.index);
             element.appendChild(beforeMatch);
 
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
-            link.href = 'https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
+            link.href = '#'; // Изменено для предотвращения перехода по URL
             link.textContent = match[1];
+            link.setAttribute('data-sign-code', match[1].toUpperCase()); // Добавление data-атрибута для хранения кода знака
+            link.onclick = (e) => {
+                e.preventDefault(); // Предотвращение перехода по ссылке
+                window.open('https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + link.getAttribute('data-sign-code') + '.png', '_blank');
+            };
             let popup;
             link.onmouseover = (e) => {
                 const mouseX = e.clientX + 10; // 10 пикселей справа от курсора
@@ -132,23 +173,65 @@
         }
 
         // Добавляем оставшуюся часть текста после последнего соответствия жирным шрифтом
-        if (lastIndex < text.length) {
+        if (lastIndex < translation.length) {
             const remainingText = document.createElement('b');
-            remainingText.textContent = text.substring(lastIndex);
+            remainingText.textContent = translation.substring(lastIndex);
             element.appendChild(remainingText);
+        }
+
+        if (showEmojis) {
+          // Группируем смайлики в родительский элемент
+          const emojiGroup = document.createElement('span'); // Создаем родительский элемент для пары смайликов
+
+          const thumbsUpLink = document.createElement('a');
+          thumbsUpLink.href = '#';
+          thumbsUpLink.innerHTML = '👍'; // Смайлик палец вверх
+          thumbsUpLink.onclick = (e) => {
+              e.preventDefault(); // Предотвращаем переход по ссылке
+              approveTranslation(translation); // Вызов функции для позитивной оценки
+              emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
+              saveToCacheEmojiFlag(translation, false);
+          };
+
+          const thumbsDownLink = document.createElement('a');
+          thumbsDownLink.href = '#';
+          thumbsDownLink.innerHTML = '👎'; // Смайлик палец вниз
+          thumbsDownLink.onclick = (e) => {
+              e.preventDefault(); // Предотвращаем переход по ссылке
+              markTranslationAsIncorrect(translation); // Вызов функции для негативной оценки
+              emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
+              saveToCacheEmojiFlag(translation, false);
+          };
+
+          // Добавляем смайлики к родительскому элементу
+          emojiGroup.appendChild(thumbsUpLink);
+          emojiGroup.appendChild(document.createTextNode(' ')); // Добавляем пробел между смайликами
+          emojiGroup.appendChild(thumbsDownLink);
+
+          // Добавляем родительский элемент с смайликами к основному элементу на странице
+          element.appendChild(emojiGroup);
         }
     }
 
-
-
     function getCacheKey(originalText) {
         return "translationCache_" + CryptoJS.MD5(originalText).toString();
+    }
+
+    function getCacheKeyForEmojiFlags(translation) {
+        return "emojiFlagsCache_" + CryptoJS.MD5(translation).toString();
     }
 
     function printNumberOfTranslationsInCache() {
         console.log("Number of translations in cache: " + Object.keys(localStorage).filter(key => key.startsWith("translationCache_")).length);
     }
 
+    function saveToCacheEmojiFlag(translate, flag) {
+        localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag);
+    }
+
+    function loadFromCacheEmojiFlag(original) {
+        return localStorage.getItem(getCacheKeyForEmojiFlags(original));
+    }
 
     function saveToCache(original, translate) {
         localStorage.setItem(getCacheKey(original), translate);
@@ -157,12 +240,13 @@
     }
 
     function loadFromCache(original) {
-        var cachedValue = localStorage.getItem(getCacheKey(original));
-        if (cachedValue !== null) {
-            console.log("Translation loaded from cache: " + cachedValue);
+        var cachedTranslation = localStorage.getItem(getCacheKey(original));
+
+        if (cachedTranslation !== null) {
+            console.log("Translation loaded from cache: " + cachedTranslation);
             printNumberOfTranslationsInCache();
 
-            return cachedValue;
+            return cachedTranslation;
         }
 
         return null;
@@ -172,7 +256,7 @@
         var cachedTranslation = loadFromCache(text);
 
         if (cachedTranslation !== null) {
-            callback(cachedTranslation);
+            callback(cachedTranslation, loadFromCacheEmojiFlag(cachedTranslation));
         } else {
             GM_xmlhttpRequest({
                 method: "POST",
@@ -193,10 +277,11 @@
 
                     if (result.translate && result.translate.trim() !== '') {
                         saveToCache(text, result.translate);
-                        callback(result.translate);
+                        saveToCacheEmojiFlag(result.translate, !result.approved);
+                        callback(result.translate, !result.approved);
                     } else {
                         console.log("Invalid translation received for: " + text);
-                        callback("Ошибка: не получилось перевести.");
+                        callback("Ошибка: не получилось перевести.", false);
                     }
                 }
             });
@@ -242,24 +327,24 @@
                     contentCache[id] = originalTextWithNoTranslate;
 
                     if (id && id.endsWith('-answer')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
                             element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
                             const translationElement = element.querySelector('b');
-                            addLinksToSignCodes(translationElement, translatedText);
+                            addLinksToSignCodes(translationElement, translatedText, showEmojis);
                         });
                     } else if (selector.includes('page_title')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
                             element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
                             const translationElement = element.querySelector('translation');
-                            addLinksToSignCodes(translationElement, translatedText);
+                            addLinksToSignCodes(translationElement, translatedText, showEmojis);
                         });
                     } else {
                         var clonedContent = getElementWithTranslation(element)
                         clonedContent.style.display = 'none';
 
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
+                        translateText(originalTextWithNoTranslate, function(translatedText, showEmojis) {
                             clonedContent.innerHTML = '';
-                            addLinksToSignCodes(clonedContent, translatedText);
+                            addLinksToSignCodes(clonedContent, translatedText, showEmojis);
                             clonedContent.style.display = 'block';
                         });
                     }
@@ -331,6 +416,7 @@
 
     var style = document.createElement('style');
     style.type = 'text/css';
+    
     style.innerHTML = `
     .breadcumb_area {
         height: 170px !important;
@@ -338,5 +424,6 @@
     .breadcumb_section {
         margin-top: 33px !important;
     }`;
+
     document.head.appendChild(style);
 })();
