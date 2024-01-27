@@ -7,7 +7,8 @@
         "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Этот знак указывает место остановки ТС в целях уступки дороги, вытекающей из вертикального знака A-7.",
         "Jest to zatoka przystankowa": "Это автобусная бухта.",
         "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?",
-        "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?"
+        "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?",
+        "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?"
     },
     "approved": {
         "linia ciągła": {
@@ -495,7 +496,10 @@
             "Czy widoczny trójkątny znak poziomy uprzedza Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?": "Видимый горизонтальный треугольный знак предупреждает тебя о месте на дороге, где возникает или может возникнуть опасность?",
             "Czy w tej sytuacji wolno Ci zastosować się do wskazań białych strzałek?": "В этой ситуации вам разрешено следовать указаниям белых стрелок?",
             "Czy w tej sytuacji wolno Ci skręcić na parking znajdujący się po lewej stronie drogi?": "В этой ситуации разрешается ли тебе повернуть на парковку, находящуюся слева от дороги?",
-            "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот."
+            "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
+            "Linia ciągła jest linią nieprzekraczalną": "Сплошная линия является линией, которую нельзя пересекать.",
+            "Czy masz prawo najechać na linię ciągłą oddzielającą pasy ruchu?": "Имеешь ли ты право заехать на сплошную линию, разделяющую полосы движения?",
+            "Linia podwójna ciągła uniemożliwia wyprzedzenie": "Двойная сплошная линия не позволяет обгонять."
         }
     },
     "not_approved": {
@@ -2164,6 +2168,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Czy masz prawo najechać na linię ciągłą oddzielającą pasy ruchu?": "Имеешь ли ты право заехать на сплошную линию, разделяющую полосы движения?"
+        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?"
     }
 }
