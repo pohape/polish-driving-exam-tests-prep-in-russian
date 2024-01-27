@@ -9,8 +9,7 @@
         "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?",
         "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?",
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?",
-        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?",
-        "Czy widoczna linia wskazuje miejsce obowiązkowego zatrzymania się przed wjazdem na skrzyżowanie?": "Указывает ли видимая линия на место обязательной остановки перед въездом на перекресток?"
+        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?"
     },
     "approved": {
         "linia ciągła": {
@@ -512,7 +511,9 @@
             "Motocykl porusza się tak jak my - drogą podporządkowaną, znajduje się po naszej prawej stronie": "Мотоцикл движется так же, как и мы - по второстепенной дороге, он находится справа от нас.",
             "Zamierzasz jechać na wprost, a motocyklista chce skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены ехать прямо, а мотоциклист хочет повернуть налево. Обязаны ли вы уступить ему дорогу?",
             "Poruszamy się drogą podporządkowaną, a on drogą z pierwszeństwem": "Мы движемся по второстепенной дороге, а он по главной дороге.",
-            "Zamierzasz jechać na wprost, a kierujący pojazdem, jadącym z naprzeciwka, chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы собираетесь ехать прямо, а водитель ТС, движущегося навстречу, хочет повернуть налево. У вас есть преимущество перед ним?"
+            "Zamierzasz jechać na wprost, a kierujący pojazdem, jadącym z naprzeciwka, chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы собираетесь ехать прямо, а водитель ТС, движущегося навстречу, хочет повернуть налево. У вас есть преимущество перед ним?",
+            "Czy widoczna linia wskazuje miejsce obowiązkowego zatrzymania się przed wjazdem na skrzyżowanie?": "Указывает ли видимая линия на место обязательной остановки перед въездом на перекресток?",
+            "Ta linia to linia bezwzględnego zatrzymania": "Эта линия означает линию абсолютной остановки."
         }
     },
     "not_approved": {
@@ -1578,7 +1579,6 @@
         "Sygnał zielony - zezwolenie na wjazd za sygnalizator": "Зеленый сигнал - разрешение на проезд за светофор.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
-        "Ta linia to linia bezwzględnego zatrzymania": "Эта линия означает линию абсолютной остановки.",
         "Sygnalizator S-2 zobowiązuje do zatrzymania się przed nim": "Светофор S-2 обязывает остановиться перед ним.",
         "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
         "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
@@ -2178,6 +2178,8 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак."
+        "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
+        "Drogowcy zadbali o dobrą lokalizację linii": "Дорожники позаботились о хорошем расположении линий.",
+        "Czy widoczna linia wskazuje miejsce zatrzymania, które zapewnia Ci najlepszą widoczność na skrzyżowaniu?": "Показывает ли видимая линия место остановки, которое обеспечивает тебе лучшую видимость на перекрестке?"
     }
 }
