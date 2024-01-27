@@ -31,14 +31,17 @@ if (isset($input['text'])) {
     echo json_encode($result, JSON_UNESCAPED_UNICODE);
 } elseif (isset($input['approve'])) {
     $prepared = prepareText($input['approve']);
-    Translate::approveTranslation($prepared['text']);
-
-    echo json_encode(['error' => null], JSON_UNESCAPED_UNICODE);
+    echo json_encode(
+        ['error' => null, 'success' => Translate::approveTranslation($prepared['text'])],
+        JSON_UNESCAPED_UNICODE
+    );
 } elseif (isset($input['mark_incorrect'])) {
     $prepared = prepareText($input['mark_incorrect']);
-    Translate::approveTranslation($prepared['text']);
 
-    echo json_encode(['error' => null], JSON_UNESCAPED_UNICODE);
+    echo json_encode(
+        ['error' => null, 'success' => Translate::markTranslationAsIncorrect($prepared['text'])],
+        JSON_UNESCAPED_UNICODE
+    );
 } else {
     echo json_encode(['error' => 'No text provided']);
 }
