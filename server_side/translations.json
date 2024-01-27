@@ -447,7 +447,8 @@
             "Mamy do czynienia ze skrzyżowaniem równorzędnym. Znajdujemy się po prawej stronie tego pojazdu.": "Мы имеем дело с равнозначным перекрестком. Находимся справа от того транспортного средства.",
             "Planujesz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka ma zamiar skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. У вас есть преимущество перед ним?",
             "Pojazd z przeciwka porusza się drogą z pierwszeństwem.": "Встречное ТС движется по главной дороге.",
-            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa rowerzyście?": "Вы намерены повернуть налево. Обязаны ли вы уступить дорогу велосипедисту?"
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa rowerzyście?": "Вы намерены повернуть налево. Обязаны ли вы уступить дорогу велосипедисту?",
+            "Pojazd z prawej strony jest włączającym się do ruchu.": "Транспортное средство с правой стороны включается в движение."
         }
     },
     "not_approved": {
