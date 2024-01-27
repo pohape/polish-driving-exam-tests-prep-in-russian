@@ -8,6 +8,10 @@ class Translate
     const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
     const TRANSLATIONS_FILE = 'translations.json';
 
+    const INCORRECT = 'INCORRECT';
+    const NOT_APPROVED = 'APPROVED';
+    const APPROVED = 'APPROVED';
+
     private static function requestOpenAI($systemMessage, $userData)
     {
         $filename = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
@@ -117,12 +121,61 @@ class Translate
         }
     }
 
-    private static function saveToTranslations(string $original, string $translation, $approved = false)
+    private static function findOriginalByTranslation(string $translation)
     {
         $translations = self::loadTranslations();
+        $original = array_search($translation, $translations['not_approved']);
 
-        if ($approved) {
+        if ($original) {
+            return [$original, false];
+        }
+
+        return null;
+    }
+
+    public static function approveTranslation(string $translation)
+    {
+        $original = self::findOriginalByTranslation($translation);
+
+        if ($original) {
+            self::saveToTranslations($original[0], $translation, self::APPROVED);
+
+            return true;
+        }
+
+        return false;
+    }
+
+    public static function markTranslationAsIncorrect(string $translation)
+    {
+        $original = self::findOriginalByTranslation($translation);
+
+        if ($original) {
+            self::saveToTranslations($original[0], $translation, self::INCORRECT);
+
+            return true;
+        }
+
+        return false;
+    }
+
+    private static function removeTranslation(string $original)
+    {
+        $translations = self::loadTranslations();
+        unset($translations['not_approved'][$original]);
+        unset($translations['incorrect'][$original]);
+
+        return $translations;
+    }
+
+    private static function saveToTranslations(string $original, string $translation, $type = self::NOT_APPROVED)
+    {
+        $translations = self::removeTranslation($original);
+
+        if ($type == self::APPROVED) {
             $translations['approved']['others'][$original] = $translation;
+        } elseif ($type == self::INCORRECT) {
+            $translations['incorrect'][$original] = $translation;
         } else {
             $translations['not_approved'][$original] = $translation;
         }
@@ -196,18 +249,18 @@ class Translate
         return trim($prompt);
     }
 
-    private static function findInTranslations($text)
+    private static function findInTranslations($original)
     {
         $translations = self::loadTranslations();
 
         foreach ($translations['approved'] as $category) {
-            if (array_key_exists($text, $category)) {
-                return [$category[$text], true];
+            if (array_key_exists($original, $category)) {
+                return [$category[$original], true];
             }
         }
 
-        if (array_key_exists($text, $translations['not_approved'])) {
-            return [$translations['not_approved'][$text], false];
+        if (array_key_exists($original, $translations['not_approved'])) {
+            return [$translations['not_approved'][$original], false];
         }
 
         return null;

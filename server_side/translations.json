@@ -1,4 +1,7 @@
 {
+    "incorrect": {
+        
+    },
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -415,7 +418,10 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach, z których pierwszy jest w prawo?": "В представленной ситуации вас предупреждают о двух опасных поворотах, первый из которых вправо?",
             "Znak ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo.": "Знак предупреждает о двух опасных поворотах, первый из которых находится в направлении, указанном на знаке, а второй может быть как влево, так и вправо."
         },
-        "others": []
+        "others": {
+            "W umowie OC.": "В договоре OC (odpowiedzialności cywilnej - гражданской ответственности).",
+            "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь прерывистой линией обозначена обочина."
+        }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
@@ -453,7 +459,6 @@
         "Tak, w sytuacjach awaryjnych.": "Да, в чрезвычайных ситуациях.",
         "Ułatwianie pokonywania zakrętów.": "Упрощение прохождения поворотов.",
         "Ma wpływ na ograniczenie pola widzenia.": "Это влияет на ограничение поля зрения.",
-        "W umowie OC.": "В договоре OC.",
         "110 km\/h.": "110 км \/ ч.",
         "To nie jest linia bezwarunkowego zatrzymania.": "Это не линия безусловной остановки.",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność.": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
@@ -2108,7 +2113,6 @@
         "Można go zmienić o jeden na lewo.": "Можно его изменить на один влево.",
         "Czy z zajmowanego pasa ruchu wolno Ci skręcić w prawo na tym skrzyżowaniu?": "\"Можешь ли ты повернуть направо с занятой полосы движения на этом перекрестке?\"",
         "Skręt w prawo jest możliwy dzięki linii przerywanej.": "Поворот направо возможен благодаря пунктирной линии.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
-        "Jest tu wyznaczone przerywaną linią pobocze.": "Здесь прерывистой линией обозначена обочина."
+        "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?"
     }
 }
