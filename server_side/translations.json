@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "\"Разрешена ли на этой обочине остановка транспортного средства, не обусловленная дорожными условиями или правилами дорожного движения?\""
-    },
+    "incorrect": [],
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -458,7 +456,9 @@
             "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные",
             "Jedziesz prawym pasem ruchu. Czy wolno Ci skręcić w lewo na skrzyżowaniu?": "Вы едете по правой полосе движения. Разрешено ли вам повернуть налево на перекрестке?",
             "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различное поведение, то водитель обязан соблюдать знаки желтого цвета.",
-            "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли остановка транспортного средства на этой обочине?"
+            "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли остановка транспортного средства на этой обочине?",
+            "TAK": "ДА",
+            "NIE": "НЕТ"
         }
     },
     "not_approved": {
@@ -1368,8 +1368,6 @@
         "Zawracanie uniemożliwia oznakowanie poziome": "Разворот запрещён горизонтальной разметкой.",
         "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?",
         "Skręt w lewo nie jest w żaden sposób ograniczony": "Поворот налево никак не ограничен.",
-        "NIE": "НЕТ",
-        "TAK": "ДА",
         "Świadczą o tym znak z tabliczką": "Они свидетельствуют о том знак с табличкой.",
         "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje układ torów i drogi na przejeździe tramwajowym?": "Является ли табличка, видимая под предупреждающим знаком, указателем расположения трамвайных путей и дороги на трамвайном переезде?",
         "Tabliczka wskazuje układ torów i drogi": "Табличка указывает расположение путей и дороги.",
@@ -2137,6 +2135,7 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy w tej sytuacji wolno Ci zawrócić na widocznym skrzyżowaniu?": "В данной ситуации разрешено ли тебе развернуться на видимом перекрестке?",
-        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?"
+        "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
+        "Czy na tym poboczu dozwolone jest zatrzymanie pojazdu niewynikające z warunków lub przepisów ruchu drogowego?": "Допускается ли на этой обочине остановка транспортного средства по причинам, не связанным с условиями или правилами дорожного движения?"
     }
 }
