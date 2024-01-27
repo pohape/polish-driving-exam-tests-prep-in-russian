@@ -1,5 +1,8 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "Предупреждены ли вы о частых блокировках движения транспортных средств (пробках) в представленной ситуации?",
+        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, показанный на фотографии, предупреждает о частых блокировках движения транспортных средств."
+    },
     "approved": {
         "linia ciągła": {
             "Czy ta linia ciągła wyznacza Ci miejsce zatrzymania pojazdu w związku ze znakiem \"stop\"?": "Эта сплошная линия указывает место остановки вашего транспортного средства в соответствии со знаком STOP?"
@@ -1021,8 +1024,6 @@
         "Znak widoczny na zdjęciu ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają.": "Знак, показанный на фотографии, предупреждает Вас о том, где велосипедисты выезжают с велосипедной дороги на проезжую часть или пересекают ее.",
         "Znak widoczny na zdjęciu ostrzega przed niebezpiecznym poboczem.": "Знак, который вы видите на фотографии, предупреждает вас об опасной обочине дороги.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "Предупреждены ли вы о частых блокировках движения транспортных средств (пробках) в представленной ситуации?",
-        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, показанный на фотографии, предупреждает о частых блокировках движения транспортных средств.",
         "Czy w przedstawionej sytuacji odległość od znaku ostrzegawczego do miejsca niebezpiecznego wynosi do 100 metrów?": "В представленной ситуации расстояние от предупреждающего знака до опасного места составляет до 100 метров?",
         "Odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów na drogach, na których dopuszczalna prędkość przekracza 60 km\/h, oraz do 100 metrów na pozostałych drogach.": "Расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров на дорогах, где допустимая скорость превышает 60 км\/ч, и до 100 метров на остальных дорогах.",
         "W każdej sytuacji poprzedzonej znakiem ostrzegawczym należy zachować szczególną ostrożność.": "В любой ситуации, которой предшествует предупреждающий знак, следует проявлять особую осторожность.",
