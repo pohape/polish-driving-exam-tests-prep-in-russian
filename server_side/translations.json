@@ -6,7 +6,8 @@
         "Na wysokości wjazdu na parking znajduje się przerywana linia": "На уровне въезда на парковку находится прерывистая линия.",
         "Znak ten wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Этот знак указывает место остановки ТС в целях уступки дороги, вытекающей из вертикального знака A-7.",
         "Jest to zatoka przystankowa": "Это автобусная бухта.",
-        "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?"
+        "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?",
+        "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?"
     },
     "approved": {
         "linia ciągła": {
@@ -491,7 +492,10 @@
             "Jest to wytyczony tor jazdy dla skręcających w lewo": "Это обозначенная дорожка движения для поворачивающих налево.",
             "Czy widoczne na tym skrzyżowaniu oznakowanie poziome w postaci linii przerywanej, oznacza kontynuację zajmowanego pasa ruchu?": "Означает ли видимая на этом перекрестке горизонтальная разметка в виде пунктирной линии продолжение занятой полосы движения?",
             "Jest to powtórzony w formie poziomej znak ostrzegawczy": "Это повторённый в горизонтальной форме предупреждающий знак.",
-            "Czy widoczny trójkątny znak poziomy uprzedza Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?": "Видимый горизонтальный треугольный знак предупреждает тебя о месте на дороге, где возникает или может возникнуть опасность?"
+            "Czy widoczny trójkątny znak poziomy uprzedza Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?": "Видимый горизонтальный треугольный знак предупреждает тебя о месте на дороге, где возникает или может возникнуть опасность?",
+            "Czy w tej sytuacji wolno Ci zastosować się do wskazań białych strzałek?": "В этой ситуации вам разрешено следовать указаниям белых стрелок?",
+            "Czy w tej sytuacji wolno Ci skręcić na parking znajdujący się po lewej stronie drogi?": "В этой ситуации разрешается ли тебе повернуть на парковку, находящуюся слева от дороги?",
+            "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот."
         }
     },
     "not_approved": {
@@ -649,7 +653,6 @@
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию.",
         "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
         "Czy w tej sytuacji masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность в этой ситуации?",
-        "Czy w tej sytuacji wolno Ci zastosować się do wskazań białych strzałek?": "В этой ситуации вам разрешено следовать указаниям белых стрелок?",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
         "Czy zbliżając się do miejsca postoju tak oznakowanego pojazdu, masz obowiązek zachować szczególną ostrożność?": "При приближении к месту стоянки транспортного средства с такой маркировкой вы обязаны проявлять особую осторожность?",
         "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie?": "Разрешена ли дальнейшая поездка через перекресток в представленной ситуации?",
@@ -2160,8 +2163,7 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
-        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?"
+        "Czy masz prawo najechać na linię ciągłą oddzielającą pasy ruchu?": "Имеешь ли ты право заехать на сплошную линию, разделяющую полосы движения?"
     }
 }
