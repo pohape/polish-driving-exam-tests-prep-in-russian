@@ -477,7 +477,10 @@
             "Czy w tej sytuacji, kontynuując jazdę, masz obowiązek zmienić pas ruchu?": "В этой ситуации, продолжая движение, вы обязаны менять полосу движения?",
             "Strzałka naprowadzająca w lewo oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка направляющая влево означает требование въезда на соседнюю полосу движения указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен дальнейший участок полосы движения.",
             "Czy z tak oznakowanej jezdni wolno Ci zjechać na widoczny po lewej stronie parking?": "С такой обозначенной дороги вам разрешено выезжать на стоянку, видимую слева?",
-            "Czy w tej sytuacji musisz zastosować się do żółtych znaków poziomych?": "В этой ситуации должны ли вы соблюдать жёлтые горизонтальные знаки?"
+            "Czy w tej sytuacji musisz zastosować się do żółtych znaków poziomych?": "В этой ситуации должны ли вы соблюдать жёлтые горизонтальные знаки?",
+            "Czy w tej sytuacji wolno Ci jechać na wprost z zajmowanego przez Ciebie pasa ruchu?": "В этой ситуации вам разрешено ехать прямо с полосы движения, которую вы занимаете?",
+            "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия односторонне пересекаемая означает запрет проезда (наезда) через эту линию с полосы движения, расположенной при сплошной линии.",
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu na lewy, jeżeli zamierzasz skręcić w lewo?": "В этой ситуации разрешается ли тебе перестроиться на левую полосу, если ты намереваешься повернуть налево?"
         }
     },
     "not_approved": {
@@ -761,7 +764,6 @@
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy zatrzymanie pojazdu na wiadukcie w celu wysadzenia pasażera jest zabronione?": "Запрещено ли останавливать автомобиль на эстакаде, чтобы взорвать пассажира?",
-        "Czy w tej sytuacji wolno Ci jechać na wprost z zajmowanego przez Ciebie pasa ruchu?": "В этой ситуации вам разрешено ехать прямо с полосы движения, которую вы занимаете?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
         "Jazdy z dużą prędkością": "Вождение на высокой скорости.",
@@ -2101,7 +2103,6 @@
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Czy w tym miejscu wolno Ci wjechać na pas ruchu przeznaczony dla pojazdów jadących w przeciwnym kierunku?": "Разрешено ли вам в этом месте въезжать на полосу движения, предназначенную для ТС, движущихся в противоположном направлении?",
-        "Linia jednostronnie przekraczalna oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия односторонне пересекаемая означает запрет проезда (наезда) через эту линию с полосы движения, расположенной при сплошной линии.",
         "Czy widoczny znak poziomy w kształcie trójkąta potwierdza ostrzeżenie o skrzyżowaniu z drogą z pierwszeństwem?": "Видимый горизонтальный знак в форме треугольника подтверждает предупреждение о перекрестке с главной дорогой?",
         "Ten znak jest niejako powtórzeniem znaku pionowego A-7 (Ustąp pierwszeństwa)": "Этот знак как бы повторяет вертикальный знак A-7 (\"Уступи дорогу\")",
         "Czy w tej sytuacji wolno Ci wjechać na sąsiedni prawy pas ruchu?": "В этой ситуации разрешено ли тебе въехать на соседнюю правую полосу движения?",
@@ -2151,6 +2152,7 @@
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
-        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот."
+        "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
+        "Czy wolno Ci skręcić w lewo przed przejściem dla pieszych?": "Можешь ли ты повернуть налево перед пешеходным переходом?"
     }
 }
