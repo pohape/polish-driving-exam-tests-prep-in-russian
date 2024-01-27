@@ -471,7 +471,9 @@
             "Tylko na wprost": "Только прямо.",
             "Kierujesz pojazdem silnikowym. Czy z zajmowanego pasa ruchu wolno Ci pojechać przez skrzyżowanie na wprost?": "Вы управляете моторным транспортным средством. Разрешается ли Вам продолжить движение прямо через перекресток из занимаемой полосы движения?",
             "Linia pojedyncza ciągła uniemożliwia manewr zmiany pasa": "Одинарная сплошная линия запрещает маневр смены полосы.",
-            "Czy w tak oznakowanym miejscu wolno Ci zmienić pas ruchu?": "В таком обозначенном месте разрешено ли тебе сменить полосу движения?"
+            "Czy w tak oznakowanym miejscu wolno Ci zmienić pas ruchu?": "В таком обозначенном месте разрешено ли тебе сменить полосу движения?",
+            "Czy w tej sytuacji, kontynuując jazdę, masz obowiązek zmienić pas ruchu?": "В этой ситуации, продолжая движение, вы обязаны менять полосу движения?",
+            "Strzałka naprowadzająca w lewo oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка направляющая влево означает требование въезда на соседнюю полосу движения указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен дальнейший участок полосы движения."
         }
     },
     "not_approved": {
@@ -1011,7 +1013,6 @@
         "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?",
         "Z jaką dopuszczalną maksymalną prędkością wolno Ci kierować samochodem osobowym z przyczepą po drodze za tym znakiem?": "На какой допустимой максимальной скорости вам разрешено управлять легковым автомобилем с прицепом по дороге за этим знаком?",
         "Czy w tej sytuacji wyjeżdżasz ze strefy zamieszkania?": "Вы покидаете зону проживания в этой ситуации?",
-        "Czy w tej sytuacji, kontynuując jazdę, masz obowiązek zmienić pas ruchu?": "В этой ситуации, продолжая движение, вы обязаны менять полосу движения?",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
@@ -2147,6 +2148,7 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?"
+        "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
+        "Czy w tak oznakowanym miejscu wolno Ci skręcić w lewo na widoczny przy drodze parking?": "\"Разрешено ли тебе в таком обозначенном месте повернуть налево на видимую у дороги парковку?\""
     }
 }
