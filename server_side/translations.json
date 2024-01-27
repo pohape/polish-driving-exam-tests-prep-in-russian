@@ -442,7 +442,8 @@
             "Ten sygnał umożliwia jedynie jazdę na wprost.": "Этот сигнал разрешает движение только прямо.",
             "W tej sytuacji (wyłączona sygnalizacja) sygnalizacji należy zastosować się do znaków drogowych.": "В этой ситуации (выключенный светофор) необходимо следовать дорожным знакам.",
             "Zamierzasz skręcić w prawo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть направо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
-            "Sygnał czerwony - zakaz wjazdu za sygnalizator.": "Сигнал красный - въезд за светофор запрещён."
+            "Sygnał czerwony - zakaz wjazdu za sygnalizator.": "Сигнал красный - въезд за светофор запрещён.",
+            "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?"
         }
     },
     "not_approved": {
@@ -2125,6 +2126,6 @@
         "Skręt w prawo jest możliwy dzięki linii przerywanej.": "Поворот направо возможен благодаря пунктирной линии.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "\"Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?\"",
-        "Czy w tej sytuacji widoczny sygnał zezwala Ci na wjazd za sygnalizator, jeżeli nie utrudnisz tym ruchu pojazdom nadjeżdżającym z przeciwka?": "В данной ситуации видимый сигнал позволяет вам въехать за светофор, если это не будет мешать движению приближающихся встречных ТС?"
+        "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie.": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться."
     }
 }
