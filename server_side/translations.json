@@ -8,7 +8,8 @@
         "Jest to zatoka przystankowa": "Это автобусная бухта.",
         "Czy w tak oznakowanej zatoce, możesz zatrzymać każdy pojazd w celu wysadzenia pasażera?": "Можешь ли ты остановить любой транспортное средство в так обозначенной бухте, чтобы высадить пассажира?",
         "Czy widoczne oznakowanie poziome wskazuje miejsce zatrzymania się w celu ustąpienia pierwszeństwa?": "Видимая горизонтальная разметка указывает место остановки для уступки дороги?",
-        "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?"
+        "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?",
+        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?"
     },
     "approved": {
         "linia ciągła": {
@@ -499,7 +500,9 @@
             "Linia podwójna ciągła uniemożliwia skręt": "Двойная сплошная линия запрещает поворот.",
             "Linia ciągła jest linią nieprzekraczalną": "Сплошная линия является линией, которую нельзя пересекать.",
             "Czy masz prawo najechać na linię ciągłą oddzielającą pasy ruchu?": "Имеешь ли ты право заехать на сплошную линию, разделяющую полосы движения?",
-            "Linia podwójna ciągła uniemożliwia wyprzedzenie": "Двойная сплошная линия не позволяет обгонять."
+            "Linia podwójna ciągła uniemożliwia wyprzedzenie": "Двойная сплошная линия не позволяет обгонять.",
+            "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения.",
+            "Czy w tej sytuacji wolno Ci pojechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?"
         }
     },
     "not_approved": {
@@ -555,7 +558,6 @@
         "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?",
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
-        "Czy w tej sytuacji wolno Ci pojechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
         "Czy w tej sytuacji wolno Ci zmienić pas ruchu na prawy?": "В этой ситуации вам разрешено менять полосу движения на правую?",
@@ -2124,7 +2126,6 @@
         "Czy widoczna poprzeczna linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu?": "Обозначает ли видимая пунктирная поперечная линия место условной остановки транспортного средства?",
         "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu": "Пунктирная линия обозначает место условной остановки транспортного средства.",
         "Czy w tej sytuacji, bezpośrednio za widoczną po prawej stronie drogi linią złożoną z punktowych elementów odblaskowych barwy białej jest pobocze?": "В этой ситуации, непосредственно за видимой справа на дороге линией, составленной из пунктирных отражающих элементов белого цвета, располагается обочина?",
-        "Elementy odblaskowe barwy białej lub żółtej wyznaczają lewą krawędź jezdni bądź pasy ruchu": "Отражающие элементы белого или желтого цвета обозначают левый край проезжей части или полосы движения.",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na poboczu?": "В этой ситуации у вас есть право остановить транспортное средство на обочине?",
         "Linia krawędziowa ciągła oznacza zakaz wjazdu na pobocze kierującemu pojazdem samochodowym": "Сплошная линия обочины означает запрет на заезд на обочину водителю автомобильного транспортного средства.",
         "Czy w tej sytuacji, zajmując prawy pas ruchu, będziesz mógł poprawnie wykonać skręt w lewo?": "В этой ситуации, занимая правую полосу движения, сможешь ли ты правильно выполнить поворот налево?",
@@ -2168,6 +2169,6 @@
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
         "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
-        "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?"
+        "Czy w tej sytuacji masz obowiązek zastosować się do żółtych znaków poziomych?": "В этой ситуации ты обязан следовать желтым горизонтальным знакам?"
     }
 }
