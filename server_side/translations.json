@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "Предупреждены ли вы о частых блокировках движения транспортных средств (пробках) в представленной ситуации?",
-        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, показанный на фотографии, предупреждает о частых блокировках движения транспортных средств."
+        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów.": "Знак, показанный на фотографии, предупреждает о частых блокировках движения транспортных средств.",
+        "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Можно ли вам развернуться на проезжей части, обозначенной этим знаком?"
     },
     "approved": {
         "linia ciągła": {
@@ -428,7 +429,8 @@
             "Należy zastosować się do polecenia \"Pana Stopka\".": "Необходимо следовать указанию \"Pana Stopka\".",
             "Należy zastosować się do polecenia \"Pana Stopka\"": "Необходимо следовать указанию \"Pana Stopka\".",
             "Czy w tej sytuacji powinieneś oczekiwać, że następnym sygnałem będzie światło zielone?": "Должны ли вы в этой ситуации ожидать, что следующим сигналом будет зеленый свет?",
-            "Po sygnale czerwonym i żółtym włącza się zielone.": "После красного и желтого сигнала включается зеленый."
+            "Po sygnale czerwonym i żółtym włącza się zielone.": "После красного и желтого сигнала включается зеленый.",
+            "Zabrania się zawracania na jezdni jednokierunkowej.": "Запрещается разворот на односторонней проезжей части."
         }
     },
     "not_approved": {
@@ -1387,8 +1389,6 @@
         "Jest uprzedzany za pomocą znaku F-6.": "Он предупреждается с помощью знака F-6.",
         "Znak D-42 - początek obszaru zabudowanego.": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
-        "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Можно ли вам развернуться на проезжей части, обозначенной этим знаком?",
-        "Zabrania się zawracania na jezdni jednokierunkowej.": "Запрещается разворот на односторонней проезжей части.",
         "Czy na tej drodze możesz spodziewać się rowerzystów nadjeżdżających z przeciwka?": "Можете ли вы ожидать на этой дороге приближающихся встречных велосипедистов?",
         "Pod znakiem Droga Jednokierunkowa umieszczono tabliczkę wyłączającą rowerzystów.": "Под знаком \"Односторонняя дорога\" установлена табличка, исключающая велосипедистов.",
         "Czy w tej sytuacji, gdy zamierzasz jechać do Gdańska, należy zmienić pas ruchu na lewy?": "В этой ситуации, когда вы собираетесь ехать в Гданьск, нужно ли перестраиваться на левую полосу?",
