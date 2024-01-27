@@ -447,13 +447,16 @@
             "Pojazd z przeciwka porusza się drogą z pierwszeństwem": "Встречное ТС движется по главной дороге.",
             "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa rowerzyście?": "Вы намерены повернуть налево. Обязаны ли вы уступить дорогу велосипедисту?",
             "Pojazd z prawej strony jest włączającym się do ruchu": "Транспортное средство с правой стороны включается в движение.",
-            "Oznakowanie poziome, a także forma sygnalizatora S-3 (strzałka w lewo i w dół) umożliwiają zawracanie": "Горизонтальная разметка, а также форма светофора S-3 (стрелка влево и вниз) позволяют разворот."
+            "Oznakowanie poziome, a także forma sygnalizatora S-3 (strzałka w lewo i w dół) umożliwiają zawracanie": "Горизонтальная разметка, а также форма светофора S-3 (стрелка влево и вниз) позволяют разворот.",
+            "Czy w tej sytuacji, jadąc na wprost, jesteś włączającym się do ruchu?": "В этой ситуации, когда вы едете прямо, вы включаетесь в движение?",
+            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение.",
+            "Znaki ostrzegawcze": "Знаки предупреждающие",
+            "Znaki zakazu, nakazu": "Знаки запрещения, предписания"
         }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
         "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdom napędzanym wodorem?": "Разрешает ли этот знак Въезд в зону чистого транспорта водородным транспортным средствам?",
-        "Czy w tej sytuacji, jadąc na wprost, jesteś włączającym się do ruchu?": "В этой ситуации, когда вы едете прямо, вы включаетесь в движение?",
         "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
@@ -468,7 +471,6 @@
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
         "Jak może zareagować kontrolujący, jeżeli nie będziesz miał przy sobie prawa jazdy?": "Как может отреагировать контролер, если у вас нет с собой водительских прав?",
         "Gdy droga jest pokryta śniegiem": "Когда дорога покрыта снегом.",
-        "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu": "Выезжая с внутренней дороги на общественную дорогу, мы включаемся в движение.",
         "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
         "Czy wyjeżdżając ze strefy zamieszkania, włączasz się do ruchu?": "Когда вы покидаете зону проживания, вы включаетесь в движение?",
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
@@ -2049,8 +2051,6 @@
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
         "Znaki informacyjne, kierunku i miejscowości, uzupełniające": "Знаки информационные, направления и местности, дополнительные",
-        "Znaki zakazu, nakazu": "Знаки запрещения, предписания",
-        "Znaki ostrzegawcze": "Знаки предупреждающие",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Włączanie się do ruchu, skrzyżowania równorzędne": "Включение в движение, равнозначные перекрестки.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
