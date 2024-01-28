@@ -429,6 +429,7 @@
             "Znak ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo": "Знак предупреждает о двух опасных поворотах, первый из которых находится в направлении, указанном на знаке, а второй может быть как влево, так и вправо."
         },
         "others": {
+            "Przewozić dziecka w foteliku ochronnym na przednim siedzeniu": "Перевозите ребенка в детском кресле на переднем сиденье.",
             "Pobocze jest oddzielone ciągłą linią krawędziową": "Обочина отделена сплошной линией края проезжей части.",
             "W umowie OC": "В договоре OC (odpowiedzialności cywilnej - гражданской ответственности).",
             "Jest tu wyznaczone przerywaną linią pobocze": "Здесь прерывистой линией обозначена обочина.",
@@ -1021,7 +1022,6 @@
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
         "Tak, aby nie zasłaniał świateł przyczepy": "Чтобы он не закрывал фары прицепа.",
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
-        "Przewozić dziecka w foteliku ochronnym na przednim siedzeniu": "Перевозите ребенка в защитном кресле на переднем сиденье.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
         "Gaśnica umieszczona jest luźno między siedzeniami": "Огнетушитель свободно расположен между сиденьями.",
