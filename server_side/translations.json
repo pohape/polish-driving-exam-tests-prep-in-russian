@@ -529,7 +529,9 @@
             "Ten pojazd porusza się drogą z pierwszeństwem": "Этот транспортное средство движется по главной дороге.",
             "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "Вы собираетесь повернуть налево. У вас есть преимущество перед ТС, приближающимся справа?",
             "Pojazd z prawej porusza się drogą podporządkowaną": "Транспортное средство справа движется по второстепенной дороге.",
-            "Skręcasz w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы поворачиваете налево. Обязаны ли вы уступить дорогу ТС, приближающемуся справа?"
+            "Skręcasz w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы поворачиваете налево. Обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
+            "Razem z nim poruszamy się drogą z pierwszeństwem. Jesteśmy po jego prawej stronie": "Вместе с ним мы движемся по главной дороге. Мы находимся с его правой стороны.",
+            "Czy ten znak poziomy wyznacza miejsce zatrzymania się jedynie w sytuacji, kiedy drogą poprzeczną nadjeżdża pojazd?": "Указывает ли эта горизонтальная разметка место остановки только в ситуации, когда по поперечной дороге приближается транспортное средство?"
         }
     },
     "not_approved": {
