@@ -535,7 +535,8 @@
             "Czy w tej sytuacji, skręcając w lewo, masz obowiązek ustąpić pierwszeństwa motocykliście?": "В этой ситуации, поворачивая налево, вы обязаны уступить дорогу мотоциклисту?",
             "Skręcasz w lewo, a kierujący samochodem zamierza jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете налево, а водитель автомобиля собирается ехать прямо. Есть ли у вас перед ним преимущество?",
             "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. У вас есть преимущество перед приближающимся встречным ТС?",
-            "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka chce skręcić w prawo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены повернуть налево, а водитель приближающегося встречного ТС хочет повернуть направо. Обязаны ли вы уступить ему дорогу?"
+            "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka chce skręcić w prawo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены повернуть налево, а водитель приближающегося встречного ТС хочет повернуть направо. Обязаны ли вы уступить ему дорогу?",
+            "Zamierzasz skręcić w lewo, a kierujący motocyklem zamierza jechać na wprost. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы собираетесь повернуть налево, а водитель мотоцикла собирается продолжить движение прямо. Обязаны ли вы уступить ему дорогу?"
         }
     },
     "not_approved": {
@@ -2197,7 +2198,6 @@
         "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
-        "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
-        "Zamierzasz skręcić w lewo, a kierujący motocyklem zamierza jechać na wprost. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы собираетесь повернуть налево, а водитель мотоцикла собирается продолжить движение прямо. Обязаны ли вы уступить ему дорогу?"
+        "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге."
     }
 }
