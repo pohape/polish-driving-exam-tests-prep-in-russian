@@ -537,7 +537,8 @@
             "Skręcasz w lewo, a kierujący samochodem zamierza jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете налево, а водитель автомобиля собирается ехать прямо. Есть ли у вас перед ним преимущество?",
             "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. У вас есть преимущество перед приближающимся встречным ТС?",
             "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka chce skręcić w prawo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены повернуть налево, а водитель приближающегося встречного ТС хочет повернуть направо. Обязаны ли вы уступить ему дорогу?",
-            "Zamierzasz skręcić w lewo, a kierujący motocyklem zamierza jechać na wprost. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы собираетесь повернуть налево, а водитель мотоцикла собирается продолжить движение прямо. Обязаны ли вы уступить ему дорогу?"
+            "Zamierzasz skręcić w lewo, a kierujący motocyklem zamierza jechać na wprost. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы собираетесь повернуть налево, а водитель мотоцикла собирается продолжить движение прямо. Обязаны ли вы уступить ему дорогу?",
+            "Czy w tej sytuacji masz obowiązek sygnalizować zamiar powrotu na prawy pas?": "Имеешь ли ты в этой ситуации обязательство сигнализировать о намерении вернуться на правую полосу?"
         }
     },
     "not_approved": {
