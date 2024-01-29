@@ -577,7 +577,11 @@
             "Wraz ze wzrostem prędkości pole widzenia zwiększa się": "С увеличением скорости поле зрения увеличивается.",
             "Wraz ze wzrostem prędkości pole widzenia zmniejsza się": "С увеличением скорости поле зрения сужается.",
             "W jaki sposób prędkość pojazdu wpływa na pole widzenia kierowcy?": "Как скорость транспортного средства влияет на поле зрения водителя?",
-            "Z jaką prędkością wolno poruszać się tak oznakowaną drogą jednojezdniową kierując samochodem osobowym?": "С какой скоростью разрешается двигаться по такой обозначенной дороге с одной проезжей частью, управляя легковым автомобилем?"
+            "Z jaką prędkością wolno poruszać się tak oznakowaną drogą jednojezdniową kierując samochodem osobowym?": "С какой скоростью разрешается двигаться по такой обозначенной дороге с одной проезжей частью, управляя легковым автомобилем?",
+            "Odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Дистанция, необходимая для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
+            "Nie mniejszy niż 10 metrów": "Не меньше чем 10 метров.",
+            "Nie większy niż 10 metrów": "Не более чем 10 метров.",
+            "Jaki odstęp należy utrzymać od poprzedzającego pojazdu w tej sytuacji?": "Какое расстояние следует сохранять от впереди идущего транспортного средства в данной ситуации?"
         }
     },
     "not_approved": {
@@ -2300,8 +2304,6 @@
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Nie mniejszy niż 10 metrów": "Не меньше чем 10 метров.",
-        "Jaki odstęp należy utrzymać od poprzedzającego pojazdu w tej sytuacji?": "Какое расстояние следует сохранять от впереди идущего транспортного средства в данной ситуации?",
-        "Nie większy niż 10 metrów": "Не более чем 10 метров."
+        "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение."
     }
 }
