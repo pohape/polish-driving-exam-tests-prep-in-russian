@@ -539,7 +539,9 @@
             "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka chce skręcić w prawo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы намерены повернуть налево, а водитель приближающегося встречного ТС хочет повернуть направо. Обязаны ли вы уступить ему дорогу?",
             "Zamierzasz skręcić w lewo, a kierujący motocyklem zamierza jechać na wprost. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы собираетесь повернуть налево, а водитель мотоцикла собирается продолжить движение прямо. Обязаны ли вы уступить ему дорогу?",
             "Czy w tej sytuacji masz obowiązek sygnalizować zamiar powrotu na prawy pas?": "Имеешь ли ты в этой ситуации обязательство сигнализировать о намерении вернуться на правую полосу?",
-            "Czy w tej sytuacji masz obowiązek zatrzymać się przed widoczną linią poprzeczną?": "В этой ситуации ты обязан остановиться перед видимой поперечной линией?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać się przed widoczną linią poprzeczną?": "В этой ситуации ты обязан остановиться перед видимой поперечной линией?",
+            "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego?": "В этой ситуации у вас есть право использовать звуковой сигнал?",
+            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału osoby kierującej ruchem?": "В данной ситуации обязаны ли вы подчиняться сигналам регулировщика?"
         }
     },
     "not_approved": {
@@ -2269,6 +2271,6 @@
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego?": "В этой ситуации у вас есть право использовать звуковой сигнал?"
+        "Czy w tej sytuacji masz obowiązek zastosować się do pionowego znaku ostrzegawczego \"ustąp pierwszeństwa\"?": "В этой ситуации обязаны ли вы подчиниться вертикальному предупреждающему знаку \"уступи дорогу\"?"
     }
 }
