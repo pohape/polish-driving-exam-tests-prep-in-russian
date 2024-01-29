@@ -14,7 +14,8 @@
         "Ten pojazd również porusza się drogą z pierwszeństwem. Mają tu zastosowanie ogólne zasady pierwszeństwa": "Этот транспортное средство также движется по главной дороге. Здесь применимы общие правила преимущества.",
         "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?": "В этой ситуации ты имеешь право ехать с включенными дальними светами?",
         "Do czego służą światła pozycyjne pojazdu?": "К чему предназначены габаритные огни автомобиля?",
-        "W jaki sposób powinny być ustawione światła mijania w pojeździe samochodowym?": "Как должны быть установлены ближние света в автомобиле?"
+        "W jaki sposób powinny być ustawione światła mijania w pojeździe samochodowym?": "Как должны быть установлены ближние света в автомобиле?",
+        "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?"
     },
     "approved": {
         "linia ciągła": {
@@ -560,7 +561,13 @@
             "Do oświetlania drogi": "Для освещения дороги.",
             "Tak, aby oświetlały drogę asymetrycznie": "Так, чтобы освещали дорогу асимметрично.",
             "Tak, aby symetrycznie oświetlały całą drogę": "Да, чтобы они симметрично освещали всю дорогу.",
-            "Tak, aby oświetlały drogę na odległość do 30 m przed pojazdem": "Так, чтобы освещали дорогу на расстояние до 30 м перед транспортным средством."
+            "Tak, aby oświetlały drogę na odległość do 30 m przed pojazdem": "Так, чтобы освещали дорогу на расстояние до 30 м перед транспортным средством.",
+            "Bezpieczny, ale nie mniejszy niż 1 metr": "Безопасный, но не менее 1 метра.",
+            "Bezpieczny, ale nie większy niż 1 metr": "Безопасный, но не больше чем 1 метр.",
+            "Bezpieczny, ale nie większy niż 0,5 metra": "Безопасный, но не больше чем 0,5 метра.",
+            "Na wszystkich drogach": "На всех дорогах.",
+            "Tylko na drogach twardych": "Только на твердых дорогах.",
+            "Tylko na drogach poza obszarem zabudowanym": "Только на дорогах за пределами населённого пункта."
         }
     },
     "not_approved": {
@@ -629,7 +636,6 @@
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Как установить автокресло для перевозки ребенка в автомобиле?",
         "Zjechać na pas ruchu dla kierunku przeciwnego": "Выезжайте на полосу движения в противоположном направлении.",
-        "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке.",
@@ -700,7 +706,6 @@
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
         "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
         "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
-        "Bezpieczny, ale nie mniejszy niż 1 metr": "Безопасный, но не менее 1 метра.",
         "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
         "998": "998",
         "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
@@ -2285,6 +2290,7 @@
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
-        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения."
+        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
+        "Na których drogach publicznych masz obowiązek zapinać pasy bezpieczeństwa?": "На каких общественных дорогах у вас есть обязанность пристегивать ремни безопасности?"
     }
 }
