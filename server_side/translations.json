@@ -567,7 +567,13 @@
             "Bezpieczny, ale nie większy niż 0,5 metra": "Безопасный, но не больше чем 0,5 метра.",
             "Na wszystkich drogach": "На всех дорогах.",
             "Tylko na drogach twardych": "Только на твердых дорогах.",
-            "Tylko na drogach poza obszarem zabudowanym": "Только на дорогах за пределами населённого пункта."
+            "Tylko na drogach poza obszarem zabudowanym": "Только на дорогах за пределами населённого пункта.",
+            "Na których drogach publicznych masz obowiązek zapinać pasy bezpieczeństwa?": "На каких общественных дорогах у вас есть обязанность пристегивать ремни безопасности?",
+            "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia": "Концентрация внимания, текущее самочувствие и состояние здоровья.",
+            "Stan nawierzchni jezdni, pora dnia lub nocy": "Состояние дорожного покрытия проезжей части, время суток или ночи.",
+            "Temperatura i wilgotność powietrza": "Температура и влажность воздуха.",
+            "Które wymienione czynniki zależne od kierującego pojazdem mają istotny wpływ na jego ostrość widzenia?": "Какие из перечисленных факторов, зависящих от водителя транспортного средства, имеют существенное влияние на его остроту зрения?",
+            "Nie ma wpływu": "Нет влияния."
         }
     },
     "not_approved": {
@@ -711,7 +717,6 @@
         "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
         "Do 30 km\/h": "До 30 км \/ ч.",
         "Masa pojazdu": "Масса автомобиля.",
-        "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia": "Концентрация внимания, текущее самочувствие и состояние здоровья.",
         "Gdy temperatura powietrza jest mniejsza niż 0 stopni Celsjusza, niezależnie od tego, czy droga jest pokryta śniegiem": "Когда температура воздуха ниже 0 градусов по Цельсию, независимо от того, покрыта ли дорога снегом.",
         "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
         "Dlaczego nie?": "Почему бы и нет?",
@@ -2291,6 +2296,8 @@
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Na których drogach publicznych masz obowiązek zapinać pasy bezpieczeństwa?": "На каких общественных дорогах у вас есть обязанность пристегивать ремни безопасности?"
+        "Wraz ze wzrostem prędkości pole widzenia zmniejsza się": "С увеличением скорости поле зрения сужается.",
+        "Wraz ze wzrostem prędkości pole widzenia zwiększa się": "С увеличением скорости поле зрения увеличивается.",
+        "W jaki sposób prędkość pojazdu wpływa na pole widzenia kierowcy?": "Как скорость транспортного средства влияет на поле зрения водителя?"
     }
 }
