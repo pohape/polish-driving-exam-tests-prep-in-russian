@@ -11,7 +11,8 @@
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd?": "В этой ситуации ты имеешь право обогнать едущий перед тобой транспортное средство?",
         "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?",
         "Przed wjazdem na skrzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи первенство\".",
-        "Ten pojazd również porusza się drogą z pierwszeństwem. Mają tu zastosowanie ogólne zasady pierwszeństwa": "Этот транспортное средство также движется по главной дороге. Здесь применимы общие правила преимущества."
+        "Ten pojazd również porusza się drogą z pierwszeństwem. Mają tu zastosowanie ogólne zasady pierwszeństwa": "Этот транспортное средство также движется по главной дороге. Здесь применимы общие правила преимущества.",
+        "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?": "В этой ситуации ты имеешь право ехать с включенными дальними светами?"
     },
     "approved": {
         "linia ciągła": {
@@ -546,7 +547,12 @@
             "Czy w widocznej sytuacji dopuszczalne jest zawracanie?": "Допустимо ли разворот в видимой ситуации?",
             "Czy w tej sytuacji wolno Ci zawrócić na skrzyżowaniu?": "В этой ситуации вам разрешено развернуться на перекрестке?",
             "Czy w tej sytuacji wolno Ci skręcić w prawo, jeżeli nie utrudniasz nikomu ruchu?": "В данной ситуации, разрешено ли тебе повернуть направо, если ты никому не затрудняешь движение?",
-            "Czy na tej drodze wolno Ci zawracać?": "Вы можете развернуться на этой дороге?"
+            "Czy na tej drodze wolno Ci zawracać?": "Вы можете развернуться на этой дороге?",
+            "Czy zakaz wyrażony tym znakiem dotyczy wyłącznie tej strony drogi, po której znak się znajduje?": "Запрет, выраженный этим знаком, относится только к той стороне дороги, на которой знак находится?",
+            "Która z wymienionych czynności jest dozwolona podczas kierowania samochodem osobowym?": "Какое из перечисленных действий разрешено во время управления легковым автомобилем?",
+            "Korzystanie z nawigacji": "Использование навигации.",
+            "Odpinanie pasa bezpieczeństwa": "Отстегивание ремня безопасности.",
+            "Korzystanie z telefonu wymagającego trzymania słuchawki w ręku": "Использование телефона, требующего держать трубку в руке."
         }
     },
     "not_approved": {
@@ -674,7 +680,6 @@
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
         "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?",
         "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
-        "Czy zakaz wyrażony tym znakiem dotyczy wyłącznie tej strony drogi, po której znak się znajduje?": "Запрет, выраженный этим знаком, относится только к той стороне дороги, на которой знак находится?",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
         "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, при обходе, вы обязаны проявлять особую осторожность?",
         "Czy sygnał, który daje policjant oznacza, że na najbliższym skrzyżowaniu masz obowiązek skręcić w prawo?": "Означает ли сигнал, который дает полицейский, что на ближайшем перекрестке вы обязаны повернуть направо?",
@@ -847,7 +852,6 @@
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Niesprawny rozrusznik": "Неисправный стартер.",
-        "Korzystanie z telefonu wymagającego trzymania słuchawki w ręku": "Использование телефона, требующего держать трубку в руке.",
         "Użyję sygnału dźwiękowego, żeby zmusić kierującego poprzedzającym pojazdem do zjechania na pobocze lub pas awaryjny": "Я воспользуюсь звуковым сигналом, чтобы заставить водителя, идущего впереди, съехать на обочину или аварийную полосу.",
         "Czy w tej sytuacji możesz spodziewać się wtargnięcia pieszego na jezdnię?": "Можете ли вы ожидать, что в этой ситуации вы столкнетесь с пешеходным вторжением на проезжую часть?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено выезжать на полосу движения у правого края проезжей части?",
