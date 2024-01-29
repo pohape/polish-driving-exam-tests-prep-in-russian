@@ -12,7 +12,8 @@
         "Czy widoczna linia złożona z białych punktowych elementów odblaskowych wyznacza lewą krawędź jezdni?": "Видна ли линия, состоящая из белых отражающих точечных элементов, обозначающая левый край проезжей части?",
         "Przed wjazdem na skrzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи первенство\".",
         "Ten pojazd również porusza się drogą z pierwszeństwem. Mają tu zastosowanie ogólne zasady pierwszeństwa": "Этот транспортное средство также движется по главной дороге. Здесь применимы общие правила преимущества.",
-        "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?": "В этой ситуации ты имеешь право ехать с включенными дальними светами?"
+        "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?": "В этой ситуации ты имеешь право ехать с включенными дальними светами?",
+        "Do czego służą światła pozycyjne pojazdu?": "К чему предназначены габаритные огни автомобиля?"
     },
     "approved": {
         "linia ciągła": {
@@ -552,7 +553,10 @@
             "Która z wymienionych czynności jest dozwolona podczas kierowania samochodem osobowym?": "Какое из перечисленных действий разрешено во время управления легковым автомобилем?",
             "Korzystanie z nawigacji": "Использование навигации.",
             "Odpinanie pasa bezpieczeństwa": "Отстегивание ремня безопасности.",
-            "Korzystanie z telefonu wymagającego trzymania słuchawki w ręku": "Использование телефона, требующего держать трубку в руке."
+            "Korzystanie z telefonu wymagającego trzymania słuchawki w ręku": "Использование телефона, требующего держать трубку в руке.",
+            "Do określania pozycji pojazdu": "Для определения положения транспортного средства.",
+            "Do sygnalizowania zmiany pasa ruchu": "Для сигнализирования изменения полосы движения.",
+            "Do oświetlania drogi": "Для освещения дороги."
         }
     },
     "not_approved": {
@@ -2277,6 +2281,10 @@
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
-        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения."
+        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
+        "Tak, aby oświetlały drogę na odległość do 30 m przed pojazdem": "Так, чтобы освещали дорогу на расстояние до 30 м перед транспортным средством.",
+        "Tak, aby oświetlały drogę asymetrycznie": "Так, чтобы освещали дорогу асимметрично.",
+        "W jaki sposób powinny być ustawione światła mijania w pojeździe samochodowym?": "Как должны быть установлены ближние света в автомобиле?",
+        "Tak, aby symetrycznie oświetlały całą drogę": "Да, чтобы они симметрично освещали всю дорогу."
     }
 }
