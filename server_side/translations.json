@@ -541,7 +541,9 @@
             "Czy w tej sytuacji masz obowiązek sygnalizować zamiar powrotu na prawy pas?": "Имеешь ли ты в этой ситуации обязательство сигнализировать о намерении вернуться на правую полосу?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się przed widoczną linią poprzeczną?": "В этой ситуации ты обязан остановиться перед видимой поперечной линией?",
             "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego?": "В этой ситуации у вас есть право использовать звуковой сигнал?",
-            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału osoby kierującej ruchem?": "В данной ситуации обязаны ли вы подчиняться сигналам регулировщика?"
+            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału osoby kierującej ruchem?": "В данной ситуации обязаны ли вы подчиняться сигналам регулировщика?",
+            "Czy w tej sytuacji masz obowiązek zastosować się do pionowego znaku ostrzegawczego \"ustąp pierwszeństwa\"?": "В этой ситуации обязаны ли вы подчиниться вертикальному предупреждающему знаку \"уступи дорогу\"?",
+            "Czy w widocznej sytuacji dopuszczalne jest zawracanie?": "Допустимо ли разворот в видимой ситуации?"
         }
     },
     "not_approved": {
@@ -591,7 +593,6 @@
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
-        "Czy w widocznej sytuacji dopuszczalne jest zawracanie?": "Допустимо ли разворот в видимой ситуации?",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch jest kierowany za pomocą sygnalizacji świetlnej?": "В представленной ситуации вас предупреждают о перекрестке, на котором движение направляется светофором?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
         "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
@@ -2270,7 +2271,6 @@
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
-        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Czy w tej sytuacji masz obowiązek zastosować się do pionowego znaku ostrzegawczego \"ustąp pierwszeństwa\"?": "В этой ситуации обязаны ли вы подчиниться вертикальному предупреждающему знаку \"уступи дорогу\"?"
+        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения."
     }
 }
