@@ -2230,6 +2230,8 @@
         "120 km\/h": "120 км\/ч.",
         "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
-        "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?"
+        "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?",
+        "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
+        "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?"
     }
 }
