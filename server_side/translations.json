@@ -2201,6 +2201,9 @@
         "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
         "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
-        "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?"
+        "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?",
+        "Czy w tej sytuacji jadąc w tunelu za pojazdem szynowym, masz obowiązek zachować szczególną ostrożność?": "В данной ситуации, двигаясь в туннеле за железнодорожным транспортом, обязан ли ты соблюдать особую осторожность?",
+        "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
+        "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "Перевод фрагмента: \"В данной ситуации разрешено ли вам остановиться у края дороги перед знаком?\""
     }
 }
