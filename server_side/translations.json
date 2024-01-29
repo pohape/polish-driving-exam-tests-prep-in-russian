@@ -2199,6 +2199,8 @@
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
         "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
-        "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?"
+        "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
+        "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
+        "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?"
     }
 }
