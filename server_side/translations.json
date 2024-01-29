@@ -2206,6 +2206,14 @@
         "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "Перевод фрагмента: \"В данной ситуации разрешено ли вам остановиться у края дороги перед знаком?\"",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
-        "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?"
+        "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
+        "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?",
+        "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
+        "Zatrzymanie prawa jazdy na okres 6 miesięcy": "Отзыв водительских прав на срок 6 месяцев.",
+        "Zatrzymanie prawa jazdy na okres 3 miesięcy": "Отзыв водительских прав на срок 3 месяца.",
+        "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
+        "Nieprawidłowa zbieżność kół przednich": "Неправильное схождение передних колес.",
+        "Usterka modułu elektronicznego hamulca ręcznego": "Неисправность электронного модуля стояночного тормоза.",
+        "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?"
     }
 }
