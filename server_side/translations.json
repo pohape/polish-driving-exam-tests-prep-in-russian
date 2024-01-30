@@ -603,7 +603,9 @@
             "Tabliczka umieszczona pod znakiem wskazuje odległość znaku ostrzegawczego od niebezpiecznego miejsca": "Табличка, размещенная под знаком, указывает расстояние предупреждающего знака от опасного места.",
             "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?",
             "Czy za tymi znakami powinieneś spodziewać się dwustronnego zwężenia jezdni?": "Стоит ли ожидать двустороннего сужения проезжей части за этими знаками?",
-            "Znak na górze słupka ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак в верхней части стойки предупреждает Вас о сужении с обеих сторон дороги,которое может вызвать затруднение движения."
+            "Znak na górze słupka ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак в верхней части стойки предупреждает Вас о сужении с обеих сторон дороги,которое может вызвать затруднение движения.",
+            "Tabliczka umieszczona pod znakiem wskazuje nieoczekiwaną zmianę kierunku ruchu": "Табличка, размещенная под знаком, указывает на неожиданное изменение направления движения.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o niebezpieczeństwie wynikającym z nieoczekiwanej zmiany kierunku ruchu?": "В представленной ситуации вас предупреждают об опасности, возникающей в результате неожиданного изменения направления движения?"
         }
     },
     "not_approved": {
@@ -1182,8 +1184,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o niebezpieczeństwie wynikającym z nieoczekiwanej zmiany kierunku ruchu?": "В представленной ситуации вас предупреждают об опасности, возникающей в результате неожиданного изменения направления движения?",
-        "Tabliczka umieszczona pod znakiem wskazuje nieoczekiwaną zmianę kierunku ruchu": "Табличка, размещенная под знаком, указывает на неожиданное изменение направления движения.",
         "Czy w przedstawionej sytuacji zbliżasz się do prawostronnego zwężenia jezdni?": "Приближаетесь ли вы к правостороннему сужению проезжей части в представленной ситуации?",
         "Znak ostrzega przed prawostronnym zwężeniem jezdni, które może powodować utrudnienia ruchu lub być niebezpieczne dla kierujących": "Знак предупреждает о сужении проезжей части с правой стороны,которое может вызвать затруднение движения или быть опасным для водителей.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o lewostronnym zwężeniu jezdni?": "В представленной ситуации вас предупреждают о левостороннем сужении проезжей части?",
