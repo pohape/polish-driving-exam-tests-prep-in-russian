@@ -19,6 +19,15 @@
         ]
     },
     "dictionary": {
+        "znak ostrzega przed znacznym wzniesieniem drogi: знак предупреждает о крутом подъеме дороги": [
+            "wzniesien",
+            "znak ostrzega"
+        ],
+        "w sytuacji konieczności wjeżdżania na wzniesienie: в ситуации необходимости въезда на возвышенность.": [
+            "wzniesien",
+            "koniecznoś",
+            "wjeżdża"
+        ],
         "skrzyżowanie równorzędne: равнозначный перекресток": [
             "równorzędn"
         ],

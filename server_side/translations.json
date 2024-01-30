@@ -18,6 +18,16 @@
         "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?"
     },
     "approved": {
+        "wzniesienie": {
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o znacznym wzniesieniu drogi?": "В представленной ситуации вас предупреждают о крутом подъеме дороги?",
+            "Znak widoczny na zdjęciu ostrzega o znacznym wzniesieniu drogi": "Знак, показанный на фотографии, предупреждает о крутом подъеме дороги.",
+            "Czy w tej sytuacji jesteś ostrzegany zbliżaniu się do znacznego wzniesienia drogi?": "В этой ситуации вас предупреждают о приближении к крутому подъему дороги?",
+            "Znak ostrzega przed znacznym wzniesieniem drogi": "Знак предупреждает о крутом подъеме дороги.",
+            "Jaki efekt może wystąpić, gdy podczas ruszania na wzniesieniu zbyt wcześnie zwolnisz dźwignię hamulca awaryjnego, w porównaniu ze zwolnieniem pedału sprzęgła?": "Какой эффект может произойти, если во время трогания в гору слишком рано опустить рычаг стояночного тормоза по сравнению с отпусканием педали сцепления?",
+            "W sytuacji konieczności wjeżdżania na wzniesienie": "В ситуации необходимости въезда на возвышенность.",
+            "W sytuacji gdy zbyt wcześnie zwolnimy dźwignię hamulca na samochód stojący na wzniesieniu zadziała grawitacja. Odpowiednie odpuszczenie sprzęgła przed zwolnieniem hamulca postojowego umożliwi ruszenie bez stoczenia się pojazdu": "В ситуации, когда мы слишком рано отпустим рычаг тормоза на автомобиле, стоящем на подъеме, сработает гравитация. Правильное отпускание сцепления перед тем, как отпустить стояночный тормоз, позволит тронуться без скатывания транспортного средства."
+        
+        },
         "skrzyżowanie równorzędne": {
             "To nie jest skrzyżowanie równorzędne. Poruszamy się drogą z pierwszeństwem przejazdu": "Это не равнозначный перекресток. Мы движемся по главной дороге.",
             "Mamy do czynienia ze skrzyżowaniem równorzędnym. Należy ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony": "Мы имеем дело с равнозначным перекрестком. Необходимо уступить дорогу ТС, приближающемуся справа.",
@@ -1165,8 +1175,6 @@
         "Czy w przedstawionej sytuacji odległość od znaku ostrzegawczego do miejsca niebezpiecznego wynosi do 100 metrów?": "В представленной ситуации расстояние от предупреждающего знака до опасного места составляет до 100 метров?",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu, w kierunku wskazanym na znaku?": "В представленной ситуации вас предупреждают о перекрестке, где движение происходит вокруг островка или площадки, в направлении, указанном на знаке?",
         "Znak widoczny na zdjęciu ostrzega przed skrzyżowaniem, na którym ruch odbywa się dookoła wyspy lub placu": "Знак, видимый на фотографии, предупреждает о перекрестке, где движение происходит вокруг островка или площадки.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o znacznym wzniesieniu drogi?": "В представленной ситуации вас предупреждают о значительном подъеме дороги?",
-        "Znak widoczny na zdjęciu ostrzega o znacznym wzniesieniu drogi": "Знак, показанный на фотографии, предупреждает о значительном подъеме дороги.",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Ten znak ostrzegawczy nie zobowiązuje do zatrzymania,": "Этот предупреждающий знак не обязывает к остановке,",
         "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?",
@@ -1186,8 +1194,6 @@
         "Znak ostrzega przed pojedynczym niebezpiecznym zakrętem w prawo": "Знак предупреждает об одном опасном повороте вправо.",
         "Czy widoczna pod znakiem tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego?": "Указывает ли табличка, видимая под знаком, расстояние предупреждающего знака от опасного места?",
         "Tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego": "Табличка указывает расстояние предупреждающего знака от опасного места.",
-        "Czy w tej sytuacji jesteś ostrzegany zbliżaniu się do znacznego wzniesienia drogi?": "В этой ситуации вас предупреждают о приближении к значительному подъему дороги?",
-        "Znak ostrzega przed znacznym wzniesieniem drogi": "Знак предупреждает о значительном подъеме дороги.",
         "Czy masz obowiązek każdorazowo zatrzymać pojazd przed wjazdem na takie skrzyżowanie?": "Вы обязаны каждый раз останавливать транспортное средство перед въездом на такой перекресток?",
         "Obowiązek zatrzymania nakłada znak \"STOP\"": "Обязанность остановки накладывает знак \"СТОП\"",
         "Czy w tej sytuacji jesteś ostrzegany, że zbliżasz się do przejścia dla pieszych?": "В этой ситуации вас предупреждают, что вы приближаетесь к пешеходному переходу?",
@@ -1598,7 +1604,6 @@
         "Unieruchomienie silnika": "Остановка двигателя.",
         "Gwałtowne ruszenie": "Быстрый старт.",
         "Stoczenie się pojazdu": "Скатывание транспортного средства.",
-        "Jaki efekt może wystąpić, gdy podczas ruszania na wzniesieniu zbyt wcześnie zwolnisz dźwignię hamulca awaryjnego, w porównaniu ze zwolnieniem pedału sprzęgła?": "Какой эффект может произойти, если во время трогания в гору слишком рано освободить рычаг стояночного тормоза по сравнению с отпусканием педали сцепления?",
         "Zwolnić pedał hamulca": "Отпустить педаль тормоза.",
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
@@ -1611,7 +1616,6 @@
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
         "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?",
         "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов.",
-        "W sytuacji konieczności wjeżdżania na wzniesienie": "В ситуации необходимости въезжать на возвышенность.",
         "W sytuacji konieczności utrzymania stałej prędkości": "В ситуации необходимости поддержания постоянной скорости.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?": "В какой из перечисленных опасных ситуаций на дороге лучше всего проявит себя транспортное средство, оснащённое так называемой ESP, то есть системой стабилизации траектории движения?",
         "Ciągnikiem rolniczym z dwiema przyczepami": "Трактором с двумя прицепами.",
@@ -1646,7 +1650,6 @@
         "Sygnalizator S-2 zobowiązuje do zatrzymania się przed nim": "Светофор S-2 обязывает остановиться перед ним.",
         "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
         "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
-        "W sytuacji gdy zbyt wcześnie zwolnimy dźwignię hamulca na samochód stojący na wzniesieniu zadziała grawitacja. Odpowiednie odpuszczenie sprzęgła przed zwolnieniem hamulca postojowego umożliwi ruszenie bez stoczenia się pojazdu": "В ситуации, когда мы слишком рано отпустим рычаг тормоза на автомобиле, стоящем на подъеме, сработает гравитация. Правильное отпускание сцепления перед тем, как отпустить стояночный тормоз, позволит тронуться без скатывания транспортного средства.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?",
