@@ -26,7 +26,6 @@
             "Jaki efekt może wystąpić, gdy podczas ruszania na wzniesieniu zbyt wcześnie zwolnisz dźwignię hamulca awaryjnego, w porównaniu ze zwolnieniem pedału sprzęgła?": "Какой эффект может произойти, если во время трогания в гору слишком рано опустить рычаг стояночного тормоза по сравнению с отпусканием педали сцепления?",
             "W sytuacji konieczności wjeżdżania na wzniesienie": "В ситуации необходимости въезда на возвышенность.",
             "W sytuacji gdy zbyt wcześnie zwolnimy dźwignię hamulca na samochód stojący na wzniesieniu zadziała grawitacja. Odpowiednie odpuszczenie sprzęgła przed zwolnieniem hamulca postojowego umożliwi ruszenie bez stoczenia się pojazdu": "В ситуации, когда мы слишком рано отпустим рычаг тормоза на автомобиле, стоящем на подъеме, сработает гравитация. Правильное отпускание сцепления перед тем, как отпустить стояночный тормоз, позволит тронуться без скатывания транспортного средства."
-        
         },
         "skrzyżowanie równorzędne": {
             "To nie jest skrzyżowanie równorzędne. Poruszamy się drogą z pierwszeństwem przejazdu": "Это не равнозначный перекресток. Мы движемся по главной дороге.",
@@ -601,7 +600,8 @@
             "Odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów na drogach, na których dopuszczalna prędkość przekracza 60 km\/h, oraz do 100 metrów na pozostałych drogach": "Расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров на дорогах, где допустимая скорость превышает 60 км\/ч, и до 100 метров на остальных дорогах.",
             "W każdej sytuacji poprzedzonej znakiem ostrzegawczym należy zachować szczególną ostrożność": "В любой ситуации, которой предшествует предупреждающий знак, следует проявлять особую осторожность.",
             "Czy w przedstawionej sytuacji odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów?": "В представленной ситуации расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров?",
-            "Tabliczka umieszczona pod znakiem wskazuje odległość znaku ostrzegawczego od niebezpiecznego miejsca": "Табличка, размещенная под знаком, указывает расстояние предупреждающего знака от опасного места."
+            "Tabliczka umieszczona pod znakiem wskazuje odległość znaku ostrzegawczego od niebezpiecznego miejsca": "Табличка, размещенная под знаком, указывает расстояние предупреждающего знака от опасного места.",
+            "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?"
         }
     },
     "not_approved": {
@@ -1177,7 +1177,6 @@
         "Znak widoczny na zdjęciu ostrzega przed skrzyżowaniem, na którym ruch odbywa się dookoła wyspy lub placu": "Знак, видимый на фотографии, предупреждает о перекрестке, где движение происходит вокруг островка или площадки.",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Ten znak ostrzegawczy nie zobowiązuje do zatrzymania,": "Этот предупреждающий знак не обязывает к остановке,",
-        "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?",
         "Czy za tymi znakami powinieneś spodziewać się dwustronnego zwężenia jezdni?": "Стоит ли ожидать двустороннего сужения проезжей части за этими знаками?",
         "Znak na górze słupka ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак в верхней части стойки предупреждает Вас о сужении с обеих сторон дороги,которое может вызвать затруднение движения.",
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
