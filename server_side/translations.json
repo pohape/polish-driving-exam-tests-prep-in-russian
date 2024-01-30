@@ -601,7 +601,9 @@
             "W każdej sytuacji poprzedzonej znakiem ostrzegawczym należy zachować szczególną ostrożność": "В любой ситуации, которой предшествует предупреждающий знак, следует проявлять особую осторожность.",
             "Czy w przedstawionej sytuacji odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów?": "В представленной ситуации расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров?",
             "Tabliczka umieszczona pod znakiem wskazuje odległość znaku ostrzegawczego od niebezpiecznego miejsca": "Табличка, размещенная под знаком, указывает расстояние предупреждающего знака от опасного места.",
-            "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?"
+            "Czy widoczne znaki ostrzegają o zbliżaniu się do przejścia dla pieszych?": "Предупреждают ли видимые знаки о приближении к пешеходному переходу?",
+            "Czy za tymi znakami powinieneś spodziewać się dwustronnego zwężenia jezdni?": "Стоит ли ожидать двустороннего сужения проезжей части за этими знаками?",
+            "Znak na górze słupka ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак в верхней части стойки предупреждает Вас о сужении с обеих сторон дороги,которое может вызвать затруднение движения."
         }
     },
     "not_approved": {
@@ -1177,8 +1179,6 @@
         "Znak widoczny na zdjęciu ostrzega przed skrzyżowaniem, na którym ruch odbywa się dookoła wyspy lub placu": "Знак, видимый на фотографии, предупреждает о перекрестке, где движение происходит вокруг островка или площадки.",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Ten znak ostrzegawczy nie zobowiązuje do zatrzymania,": "Этот предупреждающий знак не обязывает к остановке,",
-        "Czy za tymi znakami powinieneś spodziewać się dwustronnego zwężenia jezdni?": "Стоит ли ожидать двустороннего сужения проезжей части за этими знаками?",
-        "Znak na górze słupka ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак в верхней части стойки предупреждает Вас о сужении с обеих сторон дороги,которое может вызвать затруднение движения.",
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
