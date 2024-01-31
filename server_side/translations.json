@@ -15,7 +15,8 @@
         "Czy w tej sytuacji masz prawo jechać z włączonymi światłami drogowymi?": "В этой ситуации ты имеешь право ехать с включенными дальними светами?",
         "Do czego służą światła pozycyjne pojazdu?": "К чему предназначены габаритные огни автомобиля?",
         "W jaki sposób powinny być ustawione światła mijania w pojeździe samochodowym?": "Как должны быть установлены ближние света в автомобиле?",
-        "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?"
+        "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?",
+        "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z naprzeciwka?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, идущим навстречу?"
     },
     "approved": {
         "wzniesienie": {
@@ -613,7 +614,9 @@
             "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje na nieoczekiwaną zmianę kierunku ruchu?": "Указывает ли табличка под предупреждающим знаком на неожиданное изменение направления движения?",
             "Czy umieszczona pod widocznym znakiem ostrzegawczym tabliczka wskazuje nieoczekiwaną zmianę kierunku ruchu?": "Указывает ли табличка под видимым предупреждающим знаком неожиданное изменение направления движения?",
             "Znak ostrzega przed pojedynczym niebezpiecznym zakrętem w prawo": "Знак предупреждает об одном опасном повороте вправо.",
-            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?"
+            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
+            "Czy z pasa ruchu, który zajmujesz, masz prawo zawrócić?": "Имеешь ли ты право развернуться с полосы движения, которую занимаешь?",
+            "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться."
         }
     },
     "not_approved": {
@@ -2227,7 +2230,6 @@
         "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
-        "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться.",
         "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Разрешен ли тебе разворот на проезжей части, обозначенной этим знаком?",
@@ -2309,7 +2311,6 @@
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение.",
-        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
-        "Czy z pasa ruchu, który zajmujesz, masz prawo zawrócić?": "Имеешь ли ты право развернуться с полосы движения, которую занимаешь?"
+        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
     }
 }
