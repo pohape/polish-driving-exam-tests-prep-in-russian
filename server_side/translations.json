@@ -18,7 +18,8 @@
         "Z jaką maksymalną prędkością wolno kontynuować jazdę na wprost kierując samochodem ciężarowym o dmc wynoszącej 3 tony?": "На какой максимальной скорости вы можете продолжать движение прямо, управляя грузовиком с dmc 3 тонны?",
         "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z naprzeciwka?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, идущим навстречу?",
         "Ten znak ostrzega o występowaniu gołoledzi lub o oszronieniu jezdni": "Этот знак предупреждает о возникновении гололедей или о замерзании проезжей части.",
-        "Czy w tej sytuacji jesteś ostrzegany o możliwości występowania gołoledzi na jezdni?": "Предупреждены ли вы в этой ситуации о возможности появления гололедей на проезжей части?"
+        "Czy w tej sytuacji jesteś ostrzegany o możliwości występowania gołoledzi na jezdni?": "Предупреждены ли вы в этой ситуации о возможности появления гололедей на проезжей части?",
+        "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?"
     },
     "approved": {
         "wzniesienie": {
@@ -627,7 +628,10 @@
             "Czy masz obowiązek każdorazowo zatrzymać pojazd przed wjazdem na takie skrzyżowanie?": "Вы обязаны каждый раз останавливать транспортное средство перед въездом на такой перекресток?",
             "Czy w tej sytuacji jesteś ostrzegany, że zbliżasz się do przejścia dla pieszych?": "В этой ситуации вас предупреждают, что вы приближаетесь к пешеходному переходу?",
             "Świadczy o tym znak ostrzegawczy widoczny na filmie": "Об этом свидетельствует предупреждающий знак, показанный на видео.",
-            "Znak ostrzega o pojedynczym zakręcie": "Знак предупреждает об одном повороте."
+            "Znak ostrzega o pojedynczym zakręcie": "Знак предупреждает об одном повороте.",
+            "Znak ostrzega o oszronieniu jezdni lub gołoledzi": "Знак предупреждает о замерзании проезжей части или гололедице.",
+            "Czy w przedstawionej sytuacji widoczny znak ostrzega Cię o niebezpiecznym zakręcie w prawo?": "В представленной ситуации видимый знак предупреждает вас об опасном повороте вправо?",
+            "Ten znak to \"niebezpieczny zakręt w prawo\"": "Этот знак - \"Опасный поворот направо\"."
         }
     },
     "not_approved": {
@@ -1062,7 +1066,6 @@
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
-        "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?",
         "Czy w tej sytuacji zbliżasz się do przejazdu kolejowego?": "Вы приближаетесь к железнодорожному переезду в этой ситуации?",
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
@@ -1205,9 +1208,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Znak ostrzega o oszronieniu jezdni lub gołoledzi": "Знак предупреждает о замерзании проезжей части или гололедице.",
-        "Czy w przedstawionej sytuacji widoczny znak ostrzega Cię o niebezpiecznym zakręcie w prawo?": "В представленной ситуации видимый знак предупреждает вас об опасном повороте вправо?",
-        "Ten znak to \"niebezpieczny zakręt w prawo\"": "Этот знак - \"Опасный поворот направо\".",
         "Czy w przedstawionej sytuacji widoczny znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "В представленной ситуации предупреждают ли видимый знак о том, что на дороге может произойти обморожение проезжей части или гололедицы?",
         "Znak ostrzega przed mogącym występować na drodze oszronieniem jezdni lub gołoledzią": "Знак предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
         "Czy widoczny znak ostrzega o możliwości napotkania na drodze zwierząt dzikich?": "Предупреждает ли видимый знак о возможности встретить на пути диких животных?",
