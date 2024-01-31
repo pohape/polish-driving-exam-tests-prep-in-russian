@@ -105,7 +105,7 @@
     }
 
     function sendTranslationFeedback(translation, actionType) {
-        saveToCacheEmojiFlag(translation, false);
+        localStorage.clear();
         GM_xmlhttpRequest({
             method: "POST",
             url: "http://193.177.165.241/teoria_pl_tests_translate/",
@@ -130,7 +130,21 @@
         sendTranslationFeedback(translation, "approve");
     }
 
+    function createEmojiLink(emojiGroup, emoji, onClickHandler) {
+        const link = document.createElement('a');
+        link.href = '#';
+        link.innerHTML = emoji;
+        link.onclick = (e) => {
+            e.preventDefault();
+            emojiGroup.innerHTML = ' ✅';
+            onClickHandler();
+        };
+
+        emojiGroup.appendChild(link);
+    }
+
     function addLinksToSignCodes(element, translation) {
+        console.log("addLinksToSignCodes for " + translation);
         const regex = /\b([A-Z]-\d+[a-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -167,36 +181,19 @@
             element.appendChild(remainingText);
         }
 
+        const emojiGroup = document.createElement('span');
+
         if (loadFromCacheEmojiFlag(translation)) {
-          // Группируем смайлики в родительский элемент
-          const emojiGroup = document.createElement('span'); // Создаем родительский элемент для пары смайликов
+            console.log(loadFromCacheEmojiFlag(translation) + ": add emojis for " + translation);
 
-          const thumbsUpLink = document.createElement('a');
-          thumbsUpLink.href = '#';
-          thumbsUpLink.innerHTML = '👍'; // Смайлик палец вверх
-          thumbsUpLink.onclick = (e) => {
-              e.preventDefault(); // Предотвращаем переход по ссылке
-              approveTranslation(translation); // Вызов функции для позитивной оценки
-              emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
-          };
-
-          const thumbsDownLink = document.createElement('a');
-          thumbsDownLink.href = '#';
-          thumbsDownLink.innerHTML = '👎'; // Смайлик палец вниз
-          thumbsDownLink.onclick = (e) => {
-              e.preventDefault(); // Предотвращаем переход по ссылке
-              markTranslationAsIncorrect(translation); // Вызов функции для негативной оценки
-              emojiGroup.style.display = 'none'; // Скрываем всю группу смайликов
-          };
-
-          // Добавляем смайлики к родительскому элементу
-          emojiGroup.appendChild(thumbsUpLink);
-          emojiGroup.appendChild(document.createTextNode(' ')); // Добавляем пробел между смайликами
-          emojiGroup.appendChild(thumbsDownLink);
-
-          // Добавляем родительский элемент с смайликами к основному элементу на странице
-          element.appendChild(emojiGroup);
+            createEmojiLink(emojiGroup, ' 👍', () => approveTranslation(translation));
+            emojiGroup.appendChild(document.createTextNode(' '));
+            createEmojiLink(emojiGroup, '👎', () => markTranslationAsIncorrect(translation));
+        } else {
+            emojiGroup.innerHTML = ' ✅';
         }
+
+        element.appendChild(emojiGroup);
     }
 
     function getCacheKey(originalText) {
