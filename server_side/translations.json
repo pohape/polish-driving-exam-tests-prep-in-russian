@@ -19,7 +19,8 @@
         "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z naprzeciwka?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, идущим навстречу?",
         "Ten znak ostrzega o występowaniu gołoledzi lub o oszronieniu jezdni": "Этот знак предупреждает о возникновении гололедей или о замерзании проезжей части.",
         "Czy w tej sytuacji jesteś ostrzegany o możliwości występowania gołoledzi na jezdni?": "Предупреждены ли вы в этой ситуации о возможности появления гололедей на проезжей части?",
-        "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?"
+        "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?",
+        "Czy w przedstawionej sytuacji widoczny znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "В представленной ситуации предупреждают ли видимый знак о том, что на дороге может произойти обморожение проезжей части или гололедицы?"
     },
     "approved": {
         "wzniesienie": {
@@ -631,7 +632,10 @@
             "Znak ostrzega o pojedynczym zakręcie": "Знак предупреждает об одном повороте.",
             "Znak ostrzega o oszronieniu jezdni lub gołoledzi": "Знак предупреждает о замерзании проезжей части или гололедице.",
             "Czy w przedstawionej sytuacji widoczny znak ostrzega Cię o niebezpiecznym zakręcie w prawo?": "В представленной ситуации видимый знак предупреждает вас об опасном повороте вправо?",
-            "Ten znak to \"niebezpieczny zakręt w prawo\"": "Этот знак - \"Опасный поворот направо\"."
+            "Ten znak to \"niebezpieczny zakręt w prawo\"": "Этот знак - \"Опасный поворот направо\".",
+            "Znak ostrzega przed mogącym występować na drodze oszronieniem jezdni lub gołoledzią": "Знак предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
+            "Widoczny znak to A-18b: zwierzęta dzikie": "Видимый знак-A-18b: дикие животные.",
+            "Czy widoczny znak ostrzega o możliwości napotkania na drodze zwierząt dzikich?": "Видимый знак предупреждает о возможности встречи с дикими животными на дороге?"
         }
     },
     "not_approved": {
@@ -1208,10 +1212,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Czy w przedstawionej sytuacji widoczny znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "В представленной ситуации предупреждают ли видимый знак о том, что на дороге может произойти обморожение проезжей части или гололедицы?",
-        "Znak ostrzega przed mogącym występować na drodze oszronieniem jezdni lub gołoledzią": "Знак предупреждает о возможном обморожении проезжей части или гололедице на дороге.",
-        "Czy widoczny znak ostrzega o możliwości napotkania na drodze zwierząt dzikich?": "Предупреждает ли видимый знак о возможности встретить на пути диких животных?",
-        "Widoczny znak to A-18b: zwierzęta dzikie": "Видимый знак-A-18b: дикие животные.",
         "Czy widoczny w przedstawionej sytuacji znak ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "Предупреждает ли видимый в представленной ситуации знак о сужении проезжей части, которое может вызвать затруднение движения?",
         "Widoczny znak to A-12a: zwężenie jezdni - dwustronne": "Видимый знак-а-12а: сужение проезжей части-двустороннее",
         "Czy widoczny w przedstawionej sytuacji znak ostrzega o możliwości napotkania na drodze zwierząt dzikich?": "Предупреждает ли видимый в представленной ситуации знак о возможности встречи на пути диких животных?",
