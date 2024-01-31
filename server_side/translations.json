@@ -622,7 +622,8 @@
             "Czy widoczna pod znakiem tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego?": "Указывает ли табличка, видимая под знаком, расстояние предупреждающего знака от опасного места?",
             "Tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego": "Табличка указывает расстояние предупреждающего знака от опасного места.",
             "Obowiązek zatrzymania nakłada znak \"STOP\"": "Обязанность остановки накладывает знак \"СТОП\"",
-            "Czy masz obowiązek każdorazowo zatrzymać pojazd przed wjazdem na takie skrzyżowanie?": "Вы обязаны каждый раз останавливать транспортное средство перед въездом на такой перекресток?"
+            "Czy masz obowiązek każdorazowo zatrzymać pojazd przed wjazdem na takie skrzyżowanie?": "Вы обязаны каждый раз останавливать транспортное средство перед въездом на такой перекресток?",
+            "Czy w tej sytuacji jesteś ostrzegany, że zbliżasz się do przejścia dla pieszych?": "В этой ситуации вас предупреждают, что вы приближаетесь к пешеходному переходу?"
         }
     },
     "not_approved": {
@@ -1200,7 +1201,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Czy w tej sytuacji jesteś ostrzegany, że zbliżasz się do przejścia dla pieszych?": "В этой ситуации вас предупреждают, что вы приближаетесь к пешеходному переходу?",
         "Świadczy o tym znak ostrzegawczy widoczny na filmie": "Об этом свидетельствует предупреждающий знак, показанный на видео.",
         "Czy w tej sytuacji jesteś ostrzegany o możliwości występowania gołoledzi na jezdni?": "Предупреждены ли вы в этой ситуации о возможности появления гололедей на проезжей части?",
         "Ten znak ostrzega o występowaniu gołoledzi lub o oszronieniu jezdni": "Этот знак предупреждает о возникновении гололедей или о замерзании проезжей части.",
