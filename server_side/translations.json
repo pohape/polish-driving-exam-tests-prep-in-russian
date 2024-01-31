@@ -616,7 +616,8 @@
             "Znak ostrzega przed pojedynczym niebezpiecznym zakrętem w prawo": "Знак предупреждает об одном опасном повороте вправо.",
             "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Czy z pasa ruchu, który zajmujesz, masz prawo zawrócić?": "Имеешь ли ты право развернуться с полосы движения, которую занимаешь?",
-            "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться."
+            "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться.",
+            "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwnego kierunku na wprost?": "Вы намерены повернуть налево на перекрестке. Вы обязаны уступить дорогу ТС, идущему из противоположного направления прямо?"
         }
     },
     "not_approved": {
