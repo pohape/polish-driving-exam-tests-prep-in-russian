@@ -612,7 +612,8 @@
             "Znak ostrzega przed lewostronnym zwężeniem jezdni, które może powodować utrudnienia ruchu lub być niebezpieczne dla kierujących": "Знак предупреждает о левостороннем сужении проезжей части, которое может затруднить движение или быть опасным для водителей.",
             "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje na nieoczekiwaną zmianę kierunku ruchu?": "Указывает ли табличка под предупреждающим знаком на неожиданное изменение направления движения?",
             "Czy umieszczona pod widocznym znakiem ostrzegawczym tabliczka wskazuje nieoczekiwaną zmianę kierunku ruchu?": "Указывает ли табличка под видимым предупреждающим знаком неожиданное изменение направления движения?",
-            "Znak ostrzega przed pojedynczym niebezpiecznym zakrętem w prawo": "Знак предупреждает об одном опасном повороте вправо."
+            "Znak ostrzega przed pojedynczym niebezpiecznym zakrętem w prawo": "Знак предупреждает об одном опасном повороте вправо.",
+            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?"
         }
     },
     "not_approved": {
@@ -1658,7 +1659,6 @@
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz jechać na wprost. Czy poruszasz się prawidłowym pasem ruchu?": "В представленной ситуации на ближайшем перекрестке вы собираетесь ехать прямо. Вы двигаетесь по правильной полосе движения?",
         "Czy w widocznej sytuacji konieczne jest włączenie kierunkowskazu w celu zasygnalizowania zmiany pasa ruchu?": "Необходимо ли в данной видимой ситуации включение указателя поворота для сигнализации о смене полосы движения?",
-        "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Zwierząt pędzonych przez drogę": "Прогон скота через дорогу.",
         "Dzikich zwierząt przebiegających przez drogę": "Диких животных, перебегающих через дорогу.",
         "Bezkolizyjnego przepustu pod drogą dla dzikich zwierząt": "Бесконтактного перехода под дорогой для диких животных.",
@@ -2309,6 +2309,7 @@
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение.",
-        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
+        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
+        "Czy z pasa ruchu, który zajmujesz, masz prawo zawrócić?": "Имеешь ли ты право развернуться с полосы движения, которую занимаешь?"
     }
 }
