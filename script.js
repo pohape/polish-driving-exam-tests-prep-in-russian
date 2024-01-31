@@ -104,21 +104,23 @@
         return popup;
     }
 
-    function sendTranslationFeedback(translation, actionType) {
-        localStorage.clear();
+    function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
             method: "POST",
             url: "http://193.177.165.241/teoria_pl_tests_translate/",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            data: JSON.stringify({
-                [actionType]: translation
-            }),
+            headers: {"Content-Type": "application/json"},
+            data: JSON.stringify(data),
             onload: function(response) {
                 var result = JSON.parse(response.responseText);
-                console.log(translation + " " + actionType + ": " + result.success);
+                callback(result);
             }
+        });
+    }
+
+    function sendTranslationFeedback(translation, actionType) {
+        localStorage.clear();
+        makeHttpRequest({[actionType]: translation}, function(result) {
+            console.log(translation + " " + actionType + ": " + result.success);
         });
     }
 
@@ -209,11 +211,14 @@
     }
 
     function saveToCacheEmojiFlag(translate, flag) {
+        console.log("Save for '" + translate + "' emojiFlag=" + flag)
         localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag ? '1' : '0');
     }
 
     function loadFromCacheEmojiFlag(translate) {
         var result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
+
+        console.log("Load for '" + translate + "' emojiFlag=" + result)
 
         return result == 1 ? true : false;
     }
@@ -239,36 +244,17 @@
 
     function translateText(text, callback) {
         var cachedTranslation = loadFromCache(text);
-
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
-            GM_xmlhttpRequest({
-                method: "POST",
-                url: "http://193.177.165.241/teoria_pl_tests_translate/",
-                headers: {
-                    "Content-Type": "application/json"
-                },
-                data: JSON.stringify({
-                    text: text
-                }),
-                onload: function(response) {
-                    var result = JSON.parse(response.responseText);
-
-                    // console.log("");
-                    // console.log("Original: " + text);
-                    // console.log("Translate: " + result.translate);
-                    // console.log("");
-
-                    if (result.translate && result.translate.trim() !== '') {
-                        saveToCache(text, result.translate);
-                        saveToCacheEmojiFlag(result.translate, !result.approved);
-
-                        callback(result.translate);
-                    } else {
-                        console.log("Invalid translation received for: " + text);
-                        callback("Ошибка: не получилось перевести.", false);
-                    }
+            makeHttpRequest({text: text}, function(result) {
+                if (result.translate && result.translate.trim() !== '') {
+                    saveToCache(text, result.translate);
+                    saveToCacheEmojiFlag(result.translate, !result.approved);
+                    callback(result.translate);
+                } else {
+                    console.log("Invalid translation received for: " + text);
+                    callback("Ошибка: не получилось перевести.", false);
                 }
             });
         }
