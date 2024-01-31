@@ -21,9 +21,7 @@
         "Czy w tej sytuacji jesteś ostrzegany o możliwości występowania gołoledzi na jezdni?": "Предупреждены ли вы в этой ситуации о возможности появления гололедей на проезжей части?",
         "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?",
         "Czy w przedstawionej sytuacji widoczny znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "В представленной ситуации предупреждают ли видимый знак о том, что на дороге может произойти обморожение проезжей части или гололедицы?",
-        "Widoczny znak to A-12a: zwężenie jezdni - dwustronne": "Видимый знак-а-12а: сужение проезжей части-двустороннее",
-        "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść tylko na polecenie kontrolującego": "После того, как транспортное средство остановлено для осмотра, водитель транспортного средства может выйти из него только по команде управляющего.",
-        "Znak A-32- oszronienie jezdni": "Знак а-32-обледенение проезжей части"
+        "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść tylko na polecenie kontrolującego": "После того, как транспортное средство остановлено для осмотра, водитель транспортного средства может выйти из него только по команде управляющего."
     },
     "approved": {
         "wzniesienie": {
@@ -207,7 +205,7 @@
         "dzieci": {
             "Znaki widoczne na zdjęciu ostrzegają o zwężeniu i o miejscu na drodze szczególnie uczęszczanym przez dzieci": "Знаки, видимые на фотографии, предупреждают о сужении и месте на дороге, которое часто переходят дети.",
             "Czy w tej sytuacji jesteś ostrzegany o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca?": "В этой ситуации вас предупреждают о месте на дороге, которое часто переходят дети, или о близости к такому месту?",
-            "Widoczny znak A-17 ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca": "Видимый знак а-17 предупреждает о месте на дороге, которое часто переходят дети, или о близости к такому месту.",
+            "Widoczny znak A-17 ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca": "Видимый знак A-17 предупреждает о месте на дороге, которое часто переходят дети, или о близости к такому месту.",
             "Ten znak ostrzega o zbliżaniu się do miejsca uczęszczanego przez dzieci": "Этот знак предупреждает Вас о приближении к месту, которое часто переходят дети.",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o miejscu na drodze szczególnie często uczęszczanym przez dzieci lub o bliskości takiego miejsca?": "В представленной ситуации вас предупреждают о месте на дороге, которое особенно часто переходят дети, или о близости к такому месту?",
             "Znak widoczny na zdjęciu ostrzega o miejscu na drodze szczególnie uczęszczanym przez dzieci lub o bliskości takiego miejsca": "Знак, показанный на фотографии, предупреждает Вас о месте на дороге, которое часто переходят дети, или о близости к такому месту."
@@ -645,9 +643,7 @@
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для осмотра, может ли водитель автомобиля выйти из него без разрешения инспектора?",
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
             "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
-            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
-            "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
-            "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?"
+            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?"
         }
     },
     "not_approved": {
@@ -1199,9 +1195,9 @@
         "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach?": "В представленной ситуации вас предупреждают о двух опасных поворотах?",
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
         "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów": "Табличка, размещенная под знаком, показывает количество опасных поворотов.",
-        "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак а-15-скользкая поверхность.",
+        "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак A-15 - скользкая поверхность.",
         "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
-        "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки а-30-другие опасности.",
+        "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
         "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do wyznaczonego na drodze przejścia dla pieszych?": "Предупреждены ли вы о приближении к пешеходному переходу, обозначенному на дороге?",
@@ -1223,6 +1219,9 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
+        "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
+        "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
+        "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
         "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации вас предупреждают о пешеходном переходе, обозначенном на дороге?",
         "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?",
         "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
@@ -1232,10 +1231,10 @@
         "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях.",
         "Czy za tym znakiem należy spodziewać się trzech niebezpiecznych zakrętów, z których wszystkie mogą być w lewo?": "Следует ли ожидать трех опасных поворотов за этим знаком, каждый из которых может быть левым?",
         "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
-        "Znak A-32 - oszronienie jezdni lub gołoledź": "Знак а-32-обморожение проезжей части или гололедица.",
+        "Znak A-32 - oszronienie jezdni lub gołoledź": "Знак A-32 - обморожение проезжей части или гололедица.",
         "Czy ten znak ostrzega o niebezpiecznym zakręcie w prawo?": "Предупреждает ли этот знак об опасном повороте вправо?",
-        "Znak A-1 - niebezpieczny zakręt w prawo": "Знак а-1-опасный поворот вправо.",
-        "Świadczą o tym znak A-7 wraz z tabliczką": "Об этом свидетельствует знак а-7 вместе с табличкой.",
+        "Znak A-1 - niebezpieczny zakręt w prawo": "Знак A-1-опасный поворот вправо.",
+        "Świadczą o tym znak A-7 wraz z tabliczką": "Об этом свидетельствует знак A-7 вместе с табличкой.",
         "Czy w przedstawionej sytuacji zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia?": "В данной ситуации, действует ли запрет, выраженный знаком, начиная с места его установки?",
         "Czy umieszczona pod tym znakiem zakazu tabliczka określa długość odcinka jezdni, na którym zakaz ten obowiązuje?": "Указывает ли табличка, установленная под этим знаком запрета, на длину участка дороги, на котором действует этот запрет?",
         "Umieszczona pod tym znakiem zakazu tabliczka określa długość odcinka jezdni, na którym zakaz obowiązuje": "Табличка, установленная под этим знаком запрета, указывает длину участка проезжей части, на котором действует запрет.",
