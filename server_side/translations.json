@@ -22,7 +22,8 @@
         "Czy w przedstawionej sytuacji widoczny znak ostrzega o przejeździe przez tory tramwajowe?": "В представленной ситуации предупреждают ли видимый знак о прохождении трамвайных путей?",
         "Czy w przedstawionej sytuacji widoczny znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "В представленной ситуации предупреждают ли видимый знак о том, что на дороге может произойти обморожение проезжей части или гололедицы?",
         "Widoczny znak to A-12a: zwężenie jezdni - dwustronne": "Видимый знак-а-12а: сужение проезжей части-двустороннее",
-        "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść tylko na polecenie kontrolującego": "После того, как транспортное средство остановлено для осмотра, водитель транспортного средства может выйти из него только по команде управляющего."
+        "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść tylko na polecenie kontrolującego": "После того, как транспортное средство остановлено для осмотра, водитель транспортного средства может выйти из него только по команде управляющего.",
+        "Znak A-32- oszronienie jezdni": "Знак а-32-обледенение проезжей части"
     },
     "approved": {
         "wzniesienie": {
@@ -644,7 +645,9 @@
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для осмотра, может ли водитель автомобиля выйти из него без разрешения инспектора?",
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
             "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
-            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?"
+            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
+            "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
+            "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?"
         }
     },
     "not_approved": {
@@ -1220,9 +1223,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
-        "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
-        "Znak A-32- oszronienie jezdni": "Знак а-32-обледенение проезжей части",
         "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации вас предупреждают о пешеходном переходе, обозначенном на дороге?",
         "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?",
         "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
