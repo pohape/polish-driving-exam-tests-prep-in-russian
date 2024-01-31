@@ -641,7 +641,10 @@
             "Czy widoczny w przedstawionej sytuacji znak ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "Предупреждает ли видимый в представленной ситуации знак о сужении проезжей части, которое может вызвать затруднение движения?",
             "Czy widoczny w przedstawionej sytuacji znak ostrzega o możliwości napotkania na drodze zwierząt dzikich?": "Видимый в представленной ситуации, знак предупреждает о возможности встречи на дороге с дикими животными?",
             "Czy widoczny w przedstawionej sytuacji znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Видимый на представленной ситуации знак предупреждает о возможном обледенении проезжей части дороги или гололеде?",
-            "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для осмотра, может ли водитель автомобиля выйти из него без разрешения инспектора?"
+            "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для осмотра, может ли водитель автомобиля выйти из него без разрешения инспектора?",
+            "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
+            "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
+            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?"
         }
     },
     "not_approved": {
@@ -684,7 +687,6 @@
         "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
         "Sygnał ten oznacza, że za chwilę zapali się sygnał czerwony": "Этот сигнал означает, что через некоторое время загорится красный сигнал.",
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
-        "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
@@ -1218,8 +1220,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
-        "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак а-32-обледенение проезжей части",
