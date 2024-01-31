@@ -617,7 +617,10 @@
             "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Czy z pasa ruchu, który zajmujesz, masz prawo zawrócić?": "Имеешь ли ты право развернуться с полосы движения, которую занимаешь?",
             "Taka forma sygnalizatora S-3 (strzałka w lewo) uniemożliwia zawracanie": "Такая форма светофора S-3 (стрелка влево) не позволяет разворачиваться.",
-            "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwnego kierunku na wprost?": "Вы намерены повернуть налево на перекрестке. Вы обязаны уступить дорогу ТС, идущему из противоположного направления прямо?"
+            "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwnego kierunku na wprost?": "Вы намерены повернуть налево на перекрестке. Вы обязаны уступить дорогу ТС, идущему из противоположного направления прямо?",
+            "Czy umieszczona pod widocznym znakiem ostrzegawczym tabliczka wskazuje odległość znaku od miejsca niebezpiecznego?": "Указывает ли табличка под видимым предупреждающим знаком расстояние от опасного места?",
+            "Czy widoczna pod znakiem tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego?": "Указывает ли табличка, видимая под знаком, расстояние предупреждающего знака от опасного места?",
+            "Tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego": "Табличка указывает расстояние предупреждающего знака от опасного места."
         }
     },
     "not_approved": {
@@ -982,7 +985,6 @@
         "Czy w tej sytuacji możesz przyspieszyć, jeżeli nie przekroczysz prędkości dozwolonej na tej drodze?": "Можете ли вы разогнаться, если не превысите скорость, разрешенную на этой дороге?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?",
-        "Czy umieszczona pod widocznym znakiem ostrzegawczym tabliczka wskazuje odległość znaku od miejsca niebezpiecznego?": "Указывает ли табличка под видимым предупреждающим знаком расстояние от опасного места?",
         "Czy w tej sytuacji możesz wyprzedzać?": "Можете ли вы опережать в этой ситуации?",
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
         "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
@@ -1196,8 +1198,6 @@
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
-        "Czy widoczna pod znakiem tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego?": "Указывает ли табличка, видимая под знаком, расстояние предупреждающего знака от опасного места?",
-        "Tabliczka wskazuje odległość znaku ostrzegawczego od miejsca niebezpiecznego": "Табличка указывает расстояние предупреждающего знака от опасного места.",
         "Czy masz obowiązek każdorazowo zatrzymać pojazd przed wjazdem na takie skrzyżowanie?": "Вы обязаны каждый раз останавливать транспортное средство перед въездом на такой перекресток?",
         "Obowiązek zatrzymania nakłada znak \"STOP\"": "Обязанность остановки накладывает знак \"СТОП\"",
         "Czy w tej sytuacji jesteś ostrzegany, że zbliżasz się do przejścia dla pieszych?": "В этой ситуации вас предупреждают, что вы приближаетесь к пешеходному переходу?",
