@@ -651,7 +651,9 @@
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
             "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
             "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
-            "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?"
+            "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?",
+            "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
+            "Czy w tej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?"
         }
     },
     "not_approved": {
@@ -894,7 +896,6 @@
         "Czy w tej sytuacji masz obowiązek każdorazowo zatrzymać swój pojazd przed wjazdem na skrzyżowanie?": "В этой ситуации вы обязаны каждый раз останавливать свой автомобиль перед въездом на перекресток?",
         "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
-        "Czy w tej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
         "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям.",
@@ -1229,7 +1230,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
         "Czy za widocznym znakiem możesz się spodziewać trzech niebezpiecznych zakrętów w lewo?": "Можете ли вы ожидать три опасных поворота влево за видимым знаком?",
         "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
         "A-8: skrzyżowanie o ruchu okrężnym": "A-8: перекресток с круговым движением.",
