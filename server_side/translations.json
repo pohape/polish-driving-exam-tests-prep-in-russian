@@ -687,7 +687,12 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu, w kierunku wskazanym na znaku?": "В представленной ситуации вас предупреждают о перекрестке, где движение происходит вокруг островка или площадки, в направлении, указанном на знаке?",
             "Znak widoczny na zdjęciu ostrzega przed skrzyżowaniem, na którym ruch odbywa się dookoła wyspy lub placu": "Знак, видимый на фотографии, предупреждает о перекрестке, где движение происходит вокруг островка или площадки.",
             "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
-            "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?"
+            "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
+            "Czy masz obowiązek zatrzymać się przed widocznym przejazdem kolejowym nawet wówczas, gdy jesteś pewien, że nie nadjeżdża pociąg?": "Есть ли у вас обязанность остановиться перед видимым железнодорожным переездом, даже если вы уверены, что поезд не приближается?",
+            "Czy w tnej sytuacji wolno Ci skręcić w prawo w widoczną drogę?": "Разрешено ли вам в этой ситуации повернуть направо на видимую дорогу?",
+            "Po skręcie ustawiono zakaz wjazdu": "После поворота установлен знак запрета въезда.",
+            "Czy ten znak informuje o prędkości minimalnej, z jaką masz prawo się poruszać?": "Информирует ли этот знак о минимальной скорости, с которой вы имеете право двигаться?",
+            "Ten znak to początek strefy ograniczenia prędkości": "Этот знак обозначает начало зоны ограничения скорости."
         }
     },
     "not_approved": {
@@ -1327,12 +1332,7 @@
         "Zakaz postoju dotyczy tej strony drogi, po której znak się znajduje": "Знак запрещает остановку на той стороне дороги, на которой он установлен.",
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
-        "Czy masz obowiązek zatrzymać się przed widocznym przejazdem kolejowym nawet wówczas, gdy jesteś pewien, że nie nadjeżdża pociąg?": "Есть ли у вас обязанность остановиться перед видимым железнодорожным переездом, даже если вы уверены, что поезд не приближается?",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Czy w tnej sytuacji wolno Ci skręcić w prawo w widoczną drogę?": "Разрешено ли вам в этой ситуации повернуть направо на видимую дорогу?",
-        "Po skręcie ustawiono zakaz wjazdu": "После поворота установлен знак запрета въезда.",
-        "Czy ten znak informuje o prędkości minimalnej, z jaką masz prawo się poruszać?": "Информирует ли этот знак о минимальной скорости, с которой вы имеете право двигаться?",
-        "Ten znak to początek strefy ograniczenia prędkości": "Этот знак обозначает начало зоны ограничения скорости.",
         "Czy w przedstawionej sytuacji masz prawo zatrzymać pojazd na jezdni na moście?": "Имеете ли вы право остановить транспортное средство на проезжей части моста в данной ситуации?",
         "Zabrania się zatrzymania na moście i wiadukcie": "Запрещается остановка на мосту и эстакаде.",
         "Czy w tej sytuacji dozwolone jest zawracanie na skrzyżowaniu?": "В данной ситуации разрешено ли разворачиваться на перекрестке?",
