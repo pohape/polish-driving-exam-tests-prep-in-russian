@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций подтверждение остановки права управления транспортным средством уполномочивает на управление транспортным средством в течение 7 дней?"
+    },
     "approved": {
         "kontrolujący": {
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для досмотра, может ли водитель автомобиля выйти из него без разрешения должностного лица?",
@@ -2426,6 +2428,12 @@
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
         "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
-        "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?"
+        "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
+        "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав.",
+        "W przypadku przekroczenia przez kierującego 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny": "В случае превышения водителем 24 очков за нарушение правил дорожного движения в течение 5 лет после выдачи направления на переобучающий курс.",
+        "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав.",
+        "Będę utrzymywać odstęp od pojazdu poprzedzającego, wystarczający do obserwacji drogi przed tym pojazdem": "Я буду поддерживать дистанцию от впереди идущего ТС, достаточную для наблюдения за дорогой перед этим ТС.",
+        "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня.",
+        "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?"
     }
 }
