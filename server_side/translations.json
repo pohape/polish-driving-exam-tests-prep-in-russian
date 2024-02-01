@@ -869,7 +869,8 @@
             "Czy umieszczona pod tym znakiem informacyjnym tabliczka wskazuje układ dróg podporządkowanych?": "Указывает ли табличка, расположенная под этим информационным знаком, на схему второстепенных дорог?",
             "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
             "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?": "В этой ситуации у вас есть право использовать дневные ходовые огни?",
-            "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?"
+            "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?",
+            "Czy posiadając prawo jazdy kat. B od co najmniej 3 lat, masz prawo kierować motocyklem o pojemności skokowej silnika nie większej niż 125 cm3?": "Имея водительские права категории B не менее 3 лет, имеешь ли ты право управлять мотоциклом с рабочим объемом двигателя не более 125 см³?"
         }
     },
     "not_approved": {
@@ -2502,6 +2503,14 @@
         "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
         "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
         "Na autostradzie": "На автостраде.",
-        "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?"
+        "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
+        "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде.",
+        "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej": "За обгон с нарушением одиночной сплошной линии.",
+        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на двоих число мест, указанных в регистрационных документах легкового автомобиля.",
+        "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?",
+        "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
+        "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
+        "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
+        "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС."
     }
 }
