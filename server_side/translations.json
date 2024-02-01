@@ -11,7 +11,8 @@
         "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?",
         "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?",
         "Niepogorszonej przyczepności, jeżeli jedziesz z dopuszczalną prędkością": "Неухудшенного сцепления, если вы движетесь с допустимой скоростью.",
-        "Niepogorszonej przyczepności, jeśli pojazd wyposażony jest w system przeciwblokujący (ABS)": "Не ухудшенное сцепление, если транспортное средство оборудовано антиблокировочной системой (ABS)."
+        "Niepogorszonej przyczepności, jeśli pojazd wyposażony jest w system przeciwblokujący (ABS)": "Не ухудшенное сцепление, если транспортное средство оборудовано антиблокировочной системой (ABS).",
+        "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от ответственности за использование ремней безопасности при вождении легкового автомобиля?"
     },
     "approved": {
         "zatoka": {
@@ -739,7 +740,9 @@
             "Zmniejszanie prędkości pojazdu": "Уменьшение скорости транспортного средства.",
             "Stres kierowcy": "Стресс водителя.",
             "Czego powinieneś się spodziewać skręcając na oblodzonym skrzyżowaniu?": "Чего вы должны ожидать, поворачивая на обледенелом перекрестке?",
-            "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот."
+            "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
+            "Kobieta w widocznej ciąży": "Женщина с видимой беременностью.",
+            "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?": "Какая передача подходит для начала движения легковым автомобилем по сухой дорожной поверхности?"
         }
     },
     "not_approved": {
@@ -1094,7 +1097,6 @@
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
         "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
-        "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от ответственности за использование ремней безопасности при вождении легкового автомобиля?",
         "Tylko pod warunkiem nie przekraczania prędkości 30 km\/h": "Только при условии не превышения скорости 30 км \/ ч.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
@@ -1898,7 +1900,6 @@
         "Pierwszy": "Первый.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
-        "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?": "Какая передача подходит для начала движения легковым автомобилем по сухой дорожной поверхности?",
         "112 lub 999": "112 или 999",
         "Prawidłowe ustawienie zbieżności zapewnia możliwość zachowania prostego toru jazdy": "Правильная настройка схождения обеспечивает возможность сохранения прямого направления движения.",
         "Czy w tej sytuacji, parkując na drodze, masz obowiązek włączyć światła pozycyjne lub postojowe?": "В данной ситуации, паркуясь на дороге, обязаны ли вы включать габаритные или парковочные огни?",
@@ -2278,7 +2279,6 @@
         "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Czy prędkość dopuszczalna 50 km\/h obowiązuje na obszarze zabudowanym przez całą dobę?": "Действует ли ограничение скорости 50 км\/ч в населенном пункте круглосуточно?",
         "Czy warunki atmosferyczne to czynnik, który należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли погодные условия фактором, который следует учитывать при выборе скорости движения?",
-        "Kobieta w widocznej ciąży": "Женщина с видимой беременностью.",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
@@ -2341,6 +2341,9 @@
         "7 m": "7 м.",
         "5 m": "5 м.",
         "3 m": "3 м.",
-        "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства."
+        "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
+        "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
+        "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
+        "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какое минимальное расстояние от впереди идущего ТС следует соблюдать, стоя в тоннеле, в дорожной пробке, так называемом корке?"
     }
 }
