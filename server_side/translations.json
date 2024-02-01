@@ -665,7 +665,11 @@
             "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Этот знак предупреждает о возможности образования гололеда на проезжей части?",
             "Czy ten znak ostrzega o niebezpiecznym zakręcie w prawo?": "Предупреждает ли этот знак об опасном повороте вправо?",
             "Znak A-1 - niebezpieczny zakręt w prawo": "Знак A-1-опасный поворот вправо.",
-            "Świadczą o tym znak A-7 wraz z tabliczką": "Об этом свидетельствует знак A-7 вместе с табличкой."
+            "Świadczą o tym znak A-7 wraz z tabliczką": "Об этом свидетельствует знак A-7 вместе с табличкой.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do jednego niebezpiecznego zakrętu w prawo?": "В представленной ситуации вас предупреждают о приближении к одному опасному повороту направо?",
+            "Znak widoczny na zdjęciu ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku": "Знак, видимый на фотографии, предупреждает об опасном повороте в направлении, указанном на знаке.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach?": "В представленной ситуации вас предупреждают о двух опасных поворотах?",
+            "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów": "Табличка, размещенная под знаком, показывает количество опасных поворотов."
         }
     },
     "not_approved": {
@@ -1209,11 +1213,7 @@
         "Pozwolenie do kierowania tramwajem": "Разрешение на управление трамваем",
         "Zaloguj się": "Войти",
         "Akceptacja Regulaminu i Polityki Prywatności": "Принятие условий и политики конфиденциальности",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do jednego niebezpiecznego zakrętu w prawo?": "В представленной ситуации вас предупреждают о приближении к одному опасному повороту направо?",
-        "Znak widoczny na zdjęciu ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku": "Знак, видимый на фотографии, предупреждает об опасном повороте в направлении, указанном на знаке.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach?": "В представленной ситуации вас предупреждают о двух опасных поворотах?",
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
-        "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów": "Табличка, размещенная под знаком, показывает количество опасных поворотов.",
         "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак A-15 - скользкая поверхность.",
         "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
