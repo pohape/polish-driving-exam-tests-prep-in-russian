@@ -21,7 +21,9 @@
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?",
         "W prawie jazdy": "В правилах дорожного движения.",
         "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с разрешенной максимальной массой до 3,5 тонны и прицепа-дачи?",
-        "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?"
+        "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?",
+        "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
+        "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?"
     },
     "approved": {
         "zatoka": {
@@ -772,7 +774,10 @@
             "Tak, ale tylko przy dużym natężeniu ruchu na drodze": "Да, но только при интенсивном движении по дороге.",
             "W dowodzie rejestracyjnym": "В свидетельстве о регистрации.",
             "Gdzie można znaleźć informację o dozwolonej liczbie przewożonych w samochodzie osobowym osób?": "Где можно найти информацию о разрешенном количестве перевозимых в легковом автомобиле людей?",
-            "Kręgosłup szyjny": "Шейный отдел позвоночника."
+            "Kręgosłup szyjny": "Шейный отдел позвоночника.",
+            "Kość czołową": "Лобная кость",
+            "Kość potyliczną": "Затылочная кость.",
+            "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?"
         }
     },
     "not_approved": {
@@ -904,7 +909,6 @@
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
         "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
         "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
-        "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
         "998": "998",
         "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
         "Do 30 km\/h": "До 30 км \/ ч.",
@@ -1659,10 +1663,8 @@
         "Sprawność bezpieczników": "Производительность предохранителей.",
         "Napięcie akumulatora": "Напряжение аккумулятора.",
         "Co należy sprawdzić, gdy lampka kontrolna kierunkowskazów zaczęła migać dużo szybciej?": "Что необходимо проверить, когда индикатор поворотников начал мигать намного быстрее?",
-        "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
         "Zmniejszenie odstępu od poprzedzającego pojazdu": "Уменьшение расстояния от впереди идущего ТС.",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?",
         "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов.",
         "W sytuacji konieczności utrzymania stałej prędkości": "В ситуации необходимости поддержания постоянной скорости.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?": "В какой из перечисленных опасных ситуаций на дороге лучше всего проявит себя транспортное средство, оснащённое так называемой ESP, то есть системой стабилизации траектории движения?",
@@ -2016,9 +2018,7 @@
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pieszymi?": "Вы планируете повернуть направо. У вас есть преимущество перед пешеходами?",
         "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?",
-        "Kość potyliczną": "Затылочная кость.",
         "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?": "Будучи участником дорожно-транспортного происшествия, обязаны ли вы оказать помощь пострадавшим, даже если у вас нет медицинских квалификаций?",
-        "Kość czołową": "Лобная кость",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego na wprost?": "В данной ситуации, поворачивая налево на перекрестке, обязаны ли вы уступить дорогу ТС, движущемуся прямо из противоположного направления?",
         "Czy w przedstawionej sytuacji możesz wykonać manewr wyprzedzania?": "Вы можете выполнить маневр обгона в данной ситуации?",
         "Ostrzeganie o unieruchomieniu pojazdu na drodze z powodu awarii": "Предупреждение об остановке ТС на дороге из-за поломки.",
@@ -2356,6 +2356,9 @@
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
-        "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность."
+        "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
+        "Tak, aby jego górna część znajdowała się na wysokości czubka głowy": "Так, чтобы его верхняя часть находилась на уровне макушки головы.",
+        "Tak, aby jego górna część znajdowała się na wysokości szyi": "Да, чтобы его верхняя часть находилась на уровне шеи.",
+        "Tak, aby jego górna część znajdowała się powyżej czubka głowy": "Так, чтобы его верхняя часть находилась выше макушки головы."
     }
 }
