@@ -147,7 +147,7 @@
 
     function addLinksToSignCodes(element, translation) {
         console.log("addLinksToSignCodes for " + translation);
-        const regex = /\b([A-Z]-\d+[a-z]?)\b/g;
+        const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
 
