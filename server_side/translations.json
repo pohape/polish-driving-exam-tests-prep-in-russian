@@ -12,7 +12,8 @@
         "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?",
         "Niepogorszonej przyczepności, jeżeli jedziesz z dopuszczalną prędkością": "Неухудшенного сцепления, если вы движетесь с допустимой скоростью.",
         "Niepogorszonej przyczepności, jeśli pojazd wyposażony jest w system przeciwblokujący (ABS)": "Не ухудшенное сцепление, если транспортное средство оборудовано антиблокировочной системой (ABS).",
-        "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от ответственности за использование ремней безопасности при вождении легкового автомобиля?"
+        "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от ответственности за использование ремней безопасности при вождении легкового автомобиля?",
+        "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какое минимальное расстояние от впереди идущего ТС следует соблюдать, стоя в тоннеле, в дорожной пробке, так называемом корке?"
     },
     "approved": {
         "zatoka": {
@@ -742,7 +743,10 @@
             "Czego powinieneś się spodziewać skręcając na oblodzonym skrzyżowaniu?": "Чего вы должны ожидать, поворачивая на обледенелом перекрестке?",
             "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
             "Kobieta w widocznej ciąży": "Женщина с видимой беременностью.",
-            "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?": "Какая передача подходит для начала движения легковым автомобилем по сухой дорожной поверхности?"
+            "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?": "Какая передача подходит для начала движения легковым автомобилем по сухой дорожной поверхности?",
+            "Tak": "Да.",
+            "Stan hamulców": "Состояние тормозов.",
+            "Który z wymienionych czynników ma bezpośredni wpływ na drogę hamowania?": "Какой из перечисленных факторов имеет прямое влияние на тормозной путь?"
         }
     },
     "not_approved": {
@@ -772,7 +776,6 @@
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
         "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
         "Wraz ze wzrostem prędkości rozszerza się pole widzenia": "С увеличением скорости поле зрения расширяется.",
-        "Tak": "Да.",
         "140 km\/h": "140 км \/ ч.",
         "Tak, w sytuacjach awaryjnych": "Да, в чрезвычайных ситуациях.",
         "Ułatwianie pokonywania zakrętów": "Упрощение прохождения поворотов.",
@@ -1708,9 +1711,7 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-        "Stan hamulców": "Состояние тормозов.",
         "Oznakowanie poziome": "Горизонтальная дорожная разметка.",
-        "Który z wymienionych czynników ma bezpośredni wpływ na drogę hamowania?": "Какой из перечисленных факторов имеет прямое влияние на тормозной путь?",
         "Zwiększonej siły tarcia": "Увеличенное трение.",
         "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью.",
         "Zwiększonej przyczepności kół do jezdni": "Увеличенное сцепление колес с проезжей частью.",
@@ -2344,6 +2345,6 @@
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
-        "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какое минимальное расстояние от впереди идущего ТС следует соблюдать, стоя в тоннеле, в дорожной пробке, так называемом корке?"
+        "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность."
     }
 }
