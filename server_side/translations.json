@@ -20,7 +20,6 @@
         "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Выезжая на эту проезжую часть, можете ли вы занять полосу движения, обозначенную горизонтальной разметкой слева?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?",
         "W prawie jazdy": "В правилах дорожного движения.",
-        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с разрешенной максимальной массой до 3,5 тонны и прицепа-дачи?",
         "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?",
         "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
         "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
@@ -792,7 +791,8 @@
             "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania": "Позволяет сохранить контроль над транспортным средством во время резкого торможения.",
             "Zawsze skraca drogę hamowania": "Всегда сокращает тормозной путь.",
             "Zalecany przez producenta urządzenia": "Рекомендованный производителем устройства.",
-            "Podczas wyprzedzania należy zachować szczególną ostrożność": "Во время обгона необходимо проявлять особую осторожность."
+            "Podczas wyprzedzania należy zachować szczególną ostrożność": "Во время обгона необходимо проявлять особую осторожность.",
+            "Znak dotyczy pojazdów przewożących materiały wybuchowe lub łatwopalne": "Знак относится к транспортным средствам, перевозящим взрывчатые материалы или легковоспламеняющиеся."
         }
     },
     "not_approved": {
@@ -1542,7 +1542,6 @@
         "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
         "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
         "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете ТС с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
-        "Znak dotyczy pojazdów przewożących materiały wybuchowe lub łatwopalne": "Знак относится к транспортным средствам, перевозящим взрывчатые материалы или легковоспламеняющиеся.",
         "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
         "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
         "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?",
@@ -2376,6 +2375,8 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
         "60 m": "60 м.",
         "80 m": "80 м.",
-        "70 m": "70 м."
+        "70 m": "70 м.",
+        "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
+        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с допустимой общей массой до 3,5 тонны и кемпингового прицепа?"
     }
 }
