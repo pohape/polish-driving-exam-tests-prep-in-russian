@@ -718,7 +718,8 @@
             "Czy na tym skrzyżowaniu dopuszczalne jest skręcenie w prawo bez uprzedniego zatrzymania się?": "Допустимо ли на этом перекрестке повернуть направо без предварительной остановки?",
             "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"?",
             "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?",
-            "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\"."
+            "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
+            "Na pasie dzielącym jezdnie umieszczono zakaz zawracania": "На полосе, разделяющей проезжую часть, был установлен запрет на разворот."
         }
     },
     "not_approved": {
@@ -788,7 +789,6 @@
         "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке.",
         "Wkrótce": "Вскоре",
         "Lewy pas służy do skrętu w lewo, jazdy na wprost i zawracania": "Левая полоса используется для поворота влево, прямого движения и разворота.",
-        "Na pasie dzielącym jezdnie umieszczono zakaz zawracania": "На полосе, разделяющей проезжую часть, был установлен запрет на разворот.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
