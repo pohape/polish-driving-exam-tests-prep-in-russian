@@ -2553,6 +2553,10 @@
         "Znak zakazuje ruchu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает движение транспортных средств, высота которых вместе с грузом больше значений, указанных на знаке.",
         "Nie ma żadnych przeciwwskazań do wykonania wyprzedzania": "Нет никаких противопоказаний для выполнения обгона.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
-        "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania jest wymagane podczas kontroli drogowej": "Квитанция о задержании водительских прав в тот период, когда они дают право на управление, требуется во время дорожного контроля."
+        "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania jest wymagane podczas kontroli drogowej": "Квитанция о задержании водительских прав в тот период, когда они дают право на управление, требуется во время дорожного контроля.",
+        "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
+        "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
+        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
+        "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь."
     }
 }
