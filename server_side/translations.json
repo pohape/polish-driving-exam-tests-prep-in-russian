@@ -686,7 +686,8 @@
             "Czy w przedstawionej sytuacji odległość od znaku ostrzegawczego do miejsca niebezpiecznego wynosi do 100 metrów?": "В представленной ситуации расстояние от предупреждающего знака до опасного места составляет до 100 метров?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu, w kierunku wskazanym na znaku?": "В представленной ситуации вас предупреждают о перекрестке, где движение происходит вокруг островка или площадки, в направлении, указанном на знаке?",
             "Znak widoczny na zdjęciu ostrzega przed skrzyżowaniem, na którym ruch odbywa się dookoła wyspy lub placu": "Знак, видимый на фотографии, предупреждает о перекрестке, где движение происходит вокруг островка или площадки.",
-            "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?"
+            "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
+            "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?"
         }
     },
     "not_approved": {
@@ -1239,7 +1240,6 @@
         "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Ten znak ostrzegawczy nie zobowiązuje do zatrzymania,": "Этот предупреждающий знак не обязывает к остановке,",
-        "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
