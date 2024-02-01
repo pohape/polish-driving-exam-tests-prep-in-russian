@@ -746,7 +746,9 @@
             "Który bieg jest właściwy do rozpoczęcia jazdy samochodem osobowym na suchej nawierzchni?": "Какая передача подходит для начала движения легковым автомобилем по сухой дорожной поверхности?",
             "Tak": "Да.",
             "Stan hamulców": "Состояние тормозов.",
-            "Który z wymienionych czynników ma bezpośredni wpływ na drogę hamowania?": "Какой из перечисленных факторов имеет прямое влияние на тормозной путь?"
+            "Który z wymienionych czynników ma bezpośredni wpływ na drogę hamowania?": "Какой из перечисленных факторов имеет прямое влияние на тормозной путь?",
+            "Czy w tej sytuacji, skręcając w prawo, masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu z przeciwka pojazdowi, który skręca w lewo?": "В этой ситуации, поворачивая направо, обязаны ли вы уступить дорогу приближающемуся встречному ТС, которое поворачивает налево?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi?": "В этой ситуации обязаны ли вы уступить дорогу трамваю?"
         }
     },
     "not_approved": {
@@ -2345,6 +2347,7 @@
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
-        "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность."
+        "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
+        "Czy w przedstawionej sytuacji pojazd jadący z przeciwka ma pierwszeństwo?": "Имеет ли ТС, идущий навстречу, преимущество в представленной ситуации?"
     }
 }
