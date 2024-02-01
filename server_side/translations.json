@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о выделенном на дороге переходе для пешеходов?"
+        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о выделенном на дороге переходе для пешеходов?",
+        "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены."
     },
     "approved": {
         "zatoka": {
@@ -658,7 +659,9 @@
             "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
             "A-8: skrzyżowanie o ruchu okrężnym": "A-8: перекресток с круговым движением.",
             "Czy w tej sytuacji zbliżasz się do przejazdu kolejowego?": "Вы приближаетесь к железнодорожному переезду в этой ситуации?",
-            "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях."
+            "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях.",
+            "Czy za tym znakiem należy spodziewać się trzech niebezpiecznych zakrętów, z których wszystkie mogą być w lewo?": "После этого знака следует ожидать трех опасных поворотов, все из которых могут быть налево?",
+            "Znak A-32 - oszronienie jezdni lub gołoledź": "Знак A-32 - обморожение проезжей части или гололедица."
         }
     },
     "not_approved": {
@@ -1230,13 +1233,9 @@
         "Ten znak ostrzegawczy nie zobowiązuje do zatrzymania,": "Этот предупреждающий знак не обязывает к остановке,",
         "Czy ten znak ostrzega o miejscu intensywnych opadów atmosferycznych?": "Предупреждает ли этот знак о месте сильных атмосферных осадков?",
         "Czy ten znak ostrzega o możliwości poślizgu pojazdu spowodowanego zawilgoceniem jezdni?": "Предупреждает ли этот знак о возможности проскальзывания транспортного средства, вызванного влажностью проезжей части?",
-        "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Предупреждает ли этот знак о возможности гололедицы на проезжей части?",
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Czy za tym znakiem należy spodziewać się trzech niebezpiecznych zakrętów, z których wszystkie mogą być w lewo?": "Следует ли ожидать трех опасных поворотов за этим знаком, каждый из которых может быть левым?",
-        "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
-        "Znak A-32 - oszronienie jezdni lub gołoledź": "Знак A-32 - обморожение проезжей части или гололедица.",
         "Czy ten znak ostrzega o niebezpiecznym zakręcie w prawo?": "Предупреждает ли этот знак об опасном повороте вправо?",
         "Znak A-1 - niebezpieczny zakręt w prawo": "Знак A-1-опасный поворот вправо.",
         "Świadczą o tym znak A-7 wraz z tabliczką": "Об этом свидетельствует знак A-7 вместе с табличкой.",
@@ -2313,6 +2312,7 @@
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение.",
-        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
+        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
+        "Czy ten znak ostrzega o możliwości wystąpienia gołoledzi na jezdni?": "Этот знак предупреждает о возможности образования гололеда на проезжей части?"
     }
 }
