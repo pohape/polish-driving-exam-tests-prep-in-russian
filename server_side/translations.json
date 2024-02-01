@@ -653,7 +653,8 @@
             "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
             "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?",
             "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
-            "Czy w tej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?"
+            "Czy w tej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?",
+            "Czy za widocznym znakiem możesz się spodziewać trzech niebezpiecznych zakrętów w lewo?": "Можете ли вы ожидать три опасных поворота влево за видимым знаком?"
         }
     },
     "not_approved": {
@@ -1230,7 +1231,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Czy za widocznym znakiem możesz się spodziewać trzech niebezpiecznych zakrętów w lewo?": "Можете ли вы ожидать три опасных поворота влево за видимым знаком?",
         "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
         "A-8: skrzyżowanie o ruchu okrężnym": "A-8: перекресток с круговым движением.",
         "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях.",
