@@ -4,7 +4,8 @@
         "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора.",
         "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о размеченном на дороге переходе для пешеходов?",
         "Czy zakaz wyrażony tym znakiem obowiązuje za najbliższym skrzyżowaniem?": "Запрещает ли этот знак движение после ближайшего перекрестка?",
-        "Zakaz zawracania umożliwia wykonanie skrętu w lewo": "Знак \"Запрещено разворот\" разрешает выполнение поворота налево."
+        "Zakaz zawracania umożliwia wykonanie skrętu w lewo": "Знак \"Запрещено разворот\" разрешает выполнение поворота налево.",
+        "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?"
     },
     "approved": {
         "zatoka": {
@@ -712,7 +713,11 @@
             "Czy widoczne oznakowanie wskazuje, że powinieneś skręcić w prawo w najbliższą jezdnię?": "Указывает ли видимый знак, что вы должны повернуть направо на ближайшую проезжую часть?",
             "Znak widoczny na zdjęciu zabrania skrętu w prawo": "Знак, видимый на фотографии, запрещает поворот направо.",
             "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie ze skrzyżowaniem": "Запрет на разворот действует от места установки знака до ближайшего перекрестка включительно с перекрестком.",
-            "Czy zakaz wyrażony tym znakiem pionowym zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Запрещает ли этот вертикальный знак поворот налево на ближайшем перекрестке?"
+            "Czy zakaz wyrażony tym znakiem pionowym zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Запрещает ли этот вертикальный знак поворот налево на ближайшем перекрестке?",
+            "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu": "Запрет на правый поворот действует на ближайшем перекрестке.",
+            "Czy na tym skrzyżowaniu dopuszczalne jest skręcenie w prawo bez uprzedniego zatrzymania się?": "Допустимо ли на этом перекрестке повернуть направо без предварительной остановки?",
+            "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"?",
+            "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?"
         }
     },
     "not_approved": {
@@ -896,7 +901,6 @@
         "Czy za chwilę będzie dawany sygnał zakazujący wjazdu?": "Будет ли в ближайшее время подан сигнал о запрете въезда?",
         "Czy w tej sytuacji masz obowiązek zmienić zajmowany pas ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации вы обязаны изменить занятую полосу движения, если собираетесь повернуть налево?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
-        "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?",
         "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
         "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
         "Gdy widoczność podczas opadów śniegu jest mniejsza niż 50 m": "Когда видимость во время снегопада составляет менее 50 м.",
@@ -1023,7 +1027,6 @@
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
         "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
-        "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"?",
         "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
         "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "С этой полосы, когда вы меняете сигнал на зеленый, Вы имеете право повернуть налево на перекрестке?",
         "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
@@ -1040,7 +1043,6 @@
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
         "Czy w tej sytuacji możesz wyprzedzić rowerzystę?": "Можете ли вы обогнать велосипедиста в этой ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
-        "Czy na tym skrzyżowaniu dopuszczalne jest skręcenie w prawo bez uprzedniego zatrzymania się?": "Допустимо ли на этом перекрестке повернуть направо без предварительной остановки?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "karta pojazdu": "карта автомобиля.",
@@ -1349,8 +1351,6 @@
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
-        "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu": "Запрет на правый поворот действует на ближайшем перекрестке.",
         "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
         "Akcje ratunkowe": "Спасательные действия",
         "Odstępy i hamowanie pojazdu": "Интервалы и торможение транспортного средства",
