@@ -796,7 +796,10 @@
             "Znak dotyczy pojazdów przewożących materiały wybuchowe lub łatwopalne": "Знак относится к транспортным средствам, перевозящим взрывчатые материалы или легковоспламеняющиеся.",
             "Czy w tej sytuacji możesz jechać na wprost dowolnym pasem ruchu, gdy w tunelu nie ma innych pojazdów?": "Можешь ли ты в этой ситуации двигаться прямо по любой полосе движения, когда в туннеле нет других транспортных средств?",
             "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie?": "Имеете ли вы право въезжать на перекресток в этой ситуации?",
-            "Czy w tej sytuacji zbliżasz się do przejścia dla pieszych, które jest szczególnie uczęszczane przez dzieci?": "В данной ситуации вы приближаетесь к пешеходному переходу, который особенно часто используется детьми?"
+            "Czy w tej sytuacji zbliżasz się do przejścia dla pieszych, które jest szczególnie uczęszczane przez dzieci?": "В данной ситуации вы приближаетесь к пешеходному переходу, который особенно часто используется детьми?",
+            "Czy linia złożona z prostokątów oznacza miejsce zatrzymania pojazdu przed przejściem dla pieszych?": "Означает ли линия, составленная из прямоугольников, место остановки транспортного средства перед пешеходным переходом?",
+            "Czy włączając się do ruchu po zabraniu pasażera, masz pierwszeństwo przed nadjeżdżającym pojazdem, który skręca w lewo na stanowisko postojowe?": "Включаясь в движение после посадки пассажира, имеете ли вы преимущество перед приближающимся ТС, которое поворачивает налево на стоянку?",
+            "Czy w tej sytuacji przed wykonaniem skrętu w lewo należy zbliżyć się do środka jezdni?": "В этой ситуации перед выполнением поворота налево нужно приблизиться к центру проезжей части?"
         }
     },
     "not_approved": {
