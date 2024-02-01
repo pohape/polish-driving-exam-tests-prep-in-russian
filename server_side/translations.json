@@ -692,7 +692,13 @@
             "Czy w tnej sytuacji wolno Ci skręcić w prawo w widoczną drogę?": "Разрешено ли вам в этой ситуации повернуть направо на видимую дорогу?",
             "Po skręcie ustawiono zakaz wjazdu": "После поворота установлен знак запрета въезда.",
             "Czy ten znak informuje o prędkości minimalnej, z jaką masz prawo się poruszać?": "Информирует ли этот знак о минимальной скорости, с которой вы имеете право двигаться?",
-            "Ten znak to początek strefy ograniczenia prędkości": "Этот знак обозначает начало зоны ограничения скорости."
+            "Ten znak to początek strefy ograniczenia prędkości": "Этот знак обозначает начало зоны ограничения скорости.",
+            "Czy w przedstawionej sytuacji masz prawo zatrzymać pojazd na jezdni na moście?": "Имеете ли вы право остановить транспортное средство на проезжей части моста в данной ситуации?",
+            "Zabrania się zatrzymania na moście i wiadukcie": "Запрещается остановка на мосту и эстакаде.",
+            "Czy w tej sytuacji dozwolone jest zawracanie na skrzyżowaniu?": "В данной ситуации разрешено ли разворачиваться на перекрестке?",
+            "Zakaz skrętu w lewo uniemożliwia również zawracanie": "Запрет на поворот налево также не разрешает разворот.",
+            "Czy w tej sytuacji jesteś informowany, że poruszasz się drogą jednokierunkową?": "В данной ситуации вас информируют о том, что вы движетесь по односторонней дороге?",
+            "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак обязательного направления движения прямо."
         }
     },
     "not_approved": {
@@ -1327,17 +1333,11 @@
         "Czy w tej sytuacji wolno Ci zawrócić na najbliższym skrzyżowaniu?": "В данной ситуации разрешено ли вам развернуться на ближайшем перекрестке?",
         "Na najbliższym skrzyżowaniu nie można skręcić w lewo i zawrócić": "На ближайшем перекрестке нельзя повернуть налево и развернуться.",
         "Widoczny na zdjęciu znak to zakaz zawracania": "Знак, видимый на фотографии, означает запрет на разворот.",
-        "Zakaz skrętu w lewo uniemożliwia również zawracanie": "Запрет на поворот налево также не разрешает разворот.",
         "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
         "Zakaz postoju dotyczy tej strony drogi, po której znak się znajduje": "Знак запрещает остановку на той стороне дороги, на которой он установлен.",
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Czy w przedstawionej sytuacji masz prawo zatrzymać pojazd na jezdni na moście?": "Имеете ли вы право остановить транспортное средство на проезжей части моста в данной ситуации?",
-        "Zabrania się zatrzymania na moście i wiadukcie": "Запрещается остановка на мосту и эстакаде.",
-        "Czy w tej sytuacji dozwolone jest zawracanie na skrzyżowaniu?": "В данной ситуации разрешено ли разворачиваться на перекрестке?",
-        "Czy w tej sytuacji jesteś informowany, że poruszasz się drogą jednokierunkową?": "В данной ситуации вас информируют о том, что вы движетесь по односторонней дороге?",
-        "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак обязательного направления движения прямо.",
         "Czy w tej sytuacji masz prawo wjechać na drogę za tym znakiem pionowym, jeżeli nie utrudnisz ruchu innym pojazdom?": "Имеете ли вы право въехать на дорогу за этим вертикальным знаком, если вы не будете мешать движению других ТС?",
         "Widoczny znak to zakaz wjazdu": "Видимый знак - это знак запрещения въезда.",
         "Znak \"STOP\" nakłada obowiązek zatrzymania się": "Знак \"СТОП\" обязывает остановиться.",
