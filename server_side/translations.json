@@ -872,7 +872,11 @@
             "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
             "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?": "В этой ситуации у вас есть право использовать дневные ходовые огни?",
             "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?",
-            "Czy posiadając prawo jazdy kat. B od co najmniej 3 lat, masz prawo kierować motocyklem o pojemności skokowej silnika nie większej niż 125 cm3?": "Имея водительские права категории B не менее 3 лет, имеешь ли ты право управлять мотоциклом с рабочим объемом двигателя не более 125 см³?"
+            "Czy posiadając prawo jazdy kat. B od co najmniej 3 lat, masz prawo kierować motocyklem o pojemności skokowej silnika nie większej niż 125 cm3?": "Имея водительские права категории B не менее 3 лет, имеешь ли ты право управлять мотоциклом с рабочим объемом двигателя не более 125 см³?",
+            "Tak, aby widzieć tylną szybę i drogę za pojazdem": "Так, чтобы видеть заднее стекло и дорогу за транспортным средством.",
+            "Dowolnie, w zależności od tego co chcesz obserwować": "Произвольно, в зависимости от того, что вы хотите наблюдать.",
+            "Tak, aby widzieć siedzącego z tyłu pasażera": "Так, чтобы видеть сидящего сзади пассажира.",
+            "Jak prawidłowo powinieneś ustawić lusterko wsteczne (wewnętrzne)?": "Как правильно следует настроить зеркало заднего вида (внутреннее)?"
         }
     },
     "not_approved": {
@@ -1032,7 +1036,6 @@
         "Jakie mogą być skutki niezapięcia pasów bezpieczeństwa przez kierowcę?": "Каковы могут быть последствия того, что водитель не пристегнет ремень безопасности?",
         "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли листья, лежащие на проезжей части, повлиять на длину пути остановки транспортного средства?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
-        "Dowolnie, w zależności od tego co chcesz obserwować": "Произвольно, в зависимости от того, что вы хотите наблюдать.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Na bezpieczeństwo podczas wymijania": "Безопасность при уклонении.",
         "Gdy wyprzedzany pojazd jest 100 metrów za mną": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
@@ -2539,9 +2542,6 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Uszkodzony system ABS": "Поврежденная система ABS.",
         "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym podczas jazdy nocą?": "Какой из перечисленных факторов может ограничить поле зрения водителя легкового автомобиля во время ночной езды?",
-        "Tak, aby widzieć tylną szybę i drogę za pojazdem": "Так, чтобы видеть заднее стекло и дорогу за транспортным средством.",
-        "Tak, aby widzieć siedzącego z tyłu pasażera": "Так, чтобы видеть сидящего сзади пассажира.",
-        "Jak prawidłowo powinieneś ustawić lusterko wsteczne (wewnętrzne)?": "Как правильно следует настроить зеркало заднего вида (внутреннее)?",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
         "Jaki może być skutek zużycia amortyzatorów kół kierowanych?": "Каким может быть результат износа амортизаторов управляемых колёс?",
@@ -2557,6 +2557,11 @@
         "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
-        "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь."
+        "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
+        "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
+        "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
+        "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
+        "Rodzaj nawierzchni oraz warunki panujące na drodze powinny mieć wpływ na dobór bezpiecznej prędkości": "Тип дорожного покрытия, а также условия, царящие на дороге, должны влиять на выбор безопасной скорости.",
+        "Zabrania się stosowania w pojeździe przedmiotów wyposażenia i części nieodpowiadających warunkom określonym w przepisach szczegółowych": "Запрещается использовать в транспортном средстве предметы оборудования и части, которые не соответствуют условиям, определенным в детальных правилах."
     }
 }
