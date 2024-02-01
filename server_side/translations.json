@@ -858,7 +858,10 @@
             "Czy zaśnieżone szyby lub lusterka samochodu, którym zamierzasz kierować, utrudniają ocenę sytuacji na drodze?": "Заснеженные окна или зеркала автомобиля, которым вы собираетесь управлять, затрудняют оценку дорожной ситуации?",
             "Czy polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi?": "Имеют ли указания и сигналы, подаваемые регулировщиками, преимущество перед дорожными знаками?",
             "Czy na autostradzie wolno Ci poruszać się dowolnym pasem ruchu niezależnie od sytuacji na drodze?": "Разрешается ли тебе двигаться по автостраде по любой полосе движения независимо от ситуации на дороге?",
-            "Czy możesz cofać pojazdem na drodze jednokierunkowej?": "Можешь ли ты двигаться задним ходом на дороге с односторонним движением?"
+            "Czy możesz cofać pojazdem na drodze jednokierunkowej?": "Можешь ли ты двигаться задним ходом на дороге с односторонним движением?",
+            "Czy na tej drodze jest ustalona maksymalna prędkość, z jaką może jechać samochód osobowy?": "Установлена ли на этой дороге максимальная скорость, с которой может двигаться легковой автомобиль?",
+            "Tak, 140 km\/h": "Да, 140 км\/ч.",
+            "Tak, 130 km\/h": "Да, 130 км\/ч."
         }
     },
     "not_approved": {
@@ -2434,6 +2437,10 @@
         "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав.",
         "Będę utrzymywać odstęp od pojazdu poprzedzającego, wystarczający do obserwacji drogi przed tym pojazdem": "Я буду поддерживать дистанцию от впереди идущего ТС, достаточную для наблюдения за дорогой перед этим ТС.",
         "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня.",
-        "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?"
+        "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?",
+        "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
+        "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
+        "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
+        "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч."
     }
 }
