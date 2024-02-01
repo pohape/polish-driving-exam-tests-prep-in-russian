@@ -4,7 +4,8 @@
         "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге.",
         "Czy widoczny na skrzyżowaniu sygnał zielony oznacza bezkolizyjny skręt w lewo?": "Означает ли зеленый сигнал, видимый на перекрестке, без столкновений левый поворот?",
         "Czy w tej sytuacji nadawany sygnał świetlny zabrania Ci wjazdu za sygnalizator?": "В данной ситуации, излучаемый светофором световой сигнал запрещает тебе въезжать за светофор?",
-        "Wyłącznie jałową gazę": "Только холостую передачу."
+        "Wyłącznie jałową gazę": "Только холостую передачу.",
+        "Czy w widocznej sytuacji masz pierwszeństwo przed pojazdem poruszającym się jezdnią poprzeczną?": "В данной видимой ситуации у вас есть преимущество перед ТС, движущимся по поперечной проезжей части?"
     },
     "approved": {
         "kontrolujący": {
