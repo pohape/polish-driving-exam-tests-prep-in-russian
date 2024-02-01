@@ -865,7 +865,8 @@
             "Tak, 130 km\/h": "Да, 130 км\/ч.",
             "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszego?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешехода?",
             "Czy umieszczona pod tym znakiem informacyjnym tabliczka wskazuje układ dróg podporządkowanych?": "Указывает ли табличка, расположенная под этим информационным знаком, на схему второстепенных дорог?",
-            "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?"
+            "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
+            "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?": "В этой ситуации у вас есть право использовать дневные ходовые огни?"
         }
     },
     "not_approved": {
