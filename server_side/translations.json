@@ -2494,6 +2494,9 @@
         "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
-        "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?"
+        "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
+        "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
+        "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
+        "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?"
     }
 }
