@@ -2424,6 +2424,8 @@
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
         "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?": "Обязаны ли вы в этой ситуации переключить дальний свет на ближний?",
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
-        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?"
+        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?",
+        "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
+        "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?"
     }
 }
