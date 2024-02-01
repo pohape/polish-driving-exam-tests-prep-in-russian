@@ -9,7 +9,9 @@
         "Czy zatrzymanie pojazdu na wiadukcie w celu wysadzenia pasażera jest zabronione?": "Запрещено ли останавливать автомобиль на эстакаде, чтобы взорвать пассажира?",
         "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po lewej stronie jezdni?": "Сообщают ли вам эти знаки о конце полосы движения слева от проезжей части в данной ситуации?",
         "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?",
-        "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?"
+        "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?",
+        "Niepogorszonej przyczepności, jeżeli jedziesz z dopuszczalną prędkością": "Неухудшенного сцепления, если вы движетесь с допустимой скоростью.",
+        "Niepogorszonej przyczepności, jeśli pojazd wyposażony jest w system przeciwblokujący (ABS)": "Не ухудшенное сцепление, если транспортное средство оборудовано антиблокировочной системой (ABS)."
     },
     "approved": {
         "zatoka": {
@@ -735,7 +737,9 @@
             "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu": "Документ подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства.",
             "Kierujący pojazdem": "Водитель транспортного средства.",
             "Zmniejszanie prędkości pojazdu": "Уменьшение скорости транспортного средства.",
-            "Stres kierowcy": "Стресс водителя."
+            "Stres kierowcy": "Стресс водителя.",
+            "Czego powinieneś się spodziewać skręcając na oblodzonym skrzyżowaniu?": "Чего вы должны ожидать, поворачивая на обледенелом перекрестке?",
+            "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот."
         }
     },
     "not_approved": {
@@ -1047,7 +1051,6 @@
         "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "С этой полосы, когда вы меняете сигнал на зеленый, Вы имеете право повернуть налево на перекрестке?",
         "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
         "B": "B.",
-        "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
         "Który z wymienionych czynników, może spowodować szybsze zużywanie się opon na kołach przednich w samochodzie osobowym?": "Какой из перечисленных факторов может привести к более быстрому износу шин на передних колесах в легковом автомобиле?",
         "Niewielkie obciążenie przedniej osi pojazdu.Небольшая нагрузка на переднюю ось автомобиля": "Небольшая нагрузка на переднюю ось автомобиля.Небольшая нагрузка на переднюю ось автомобиля.",
         "Nierówna nawierzchnia jezdni.Неровное покрытие проезжей части": "Неровное покрытие проезжей части.Неровное покрытие проезжей части.",
@@ -2334,6 +2337,10 @@
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
         "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?",
         "Jakie czynniki wpływają na poprawę pola widzenia?": "Какие факторы влияют на улучшение поля зрения?",
-        "Zwiększanie prędkości pojazdu": "Увеличение скорости транспортного средства."
+        "Zwiększanie prędkości pojazdu": "Увеличение скорости транспортного средства.",
+        "7 m": "7 м.",
+        "5 m": "5 м.",
+        "3 m": "3 м.",
+        "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства."
     }
 }
