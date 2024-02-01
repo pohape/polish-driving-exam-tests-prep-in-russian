@@ -669,7 +669,8 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do jednego niebezpiecznego zakrętu w prawo?": "В представленной ситуации вас предупреждают о приближении к одному опасному повороту направо?",
             "Znak widoczny na zdjęciu ostrzega o niebezpiecznym zakręcie w kierunku wskazanym na znaku": "Знак, видимый на фотографии, предупреждает об опасном повороте в направлении, указанном на знаке.",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach?": "В представленной ситуации вас предупреждают о двух опасных поворотах?",
-            "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów": "Табличка, размещенная под знаком, показывает количество опасных поворотов."
+            "Widoczna na zdjęciu tabliczka umieszczona pod znakiem informuje o ilości niebezpiecznych zakrętów": "Табличка, размещенная под знаком, показывает количество опасных поворотов.",
+            "Czy umieszczona pod znakiem ostrzegawczym widocznym na zdjęciu tabliczka, wskazuje jego odległość od miejsca niebezpiecznego?": "Указывает ли табличка, размещенная под предупреждающим знаком, видимым на фотографии, на его расстояние от опасного места?"
         }
     },
     "not_approved": {
@@ -2313,6 +2314,7 @@
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение.",
-        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
+        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В представленной ситуации тебя предупреждают о сужении проезжей части, которое может вызывать трудности движения?"
     }
 }
