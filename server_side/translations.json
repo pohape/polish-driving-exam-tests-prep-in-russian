@@ -2479,6 +2479,11 @@
         "Numer telefonu informującego": "Номер телефона информирующего.",
         "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности.",
         "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
-        "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?"
+        "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
+        "Co najmniej 40 km\/h": "Не менее 40 км\/ч.",
+        "Co najmniej 60 km\/h": "Не менее 60 км\/ч.",
+        "Z jaką prędkością masz obowiązek jechać na autostradzie?": "С какой скоростью ты обязан ехать на автостраде?",
+        "Bezpieczną, nieutrudniającą jazdy innym kierującym, jednak nie większą niż dopuszczalna": "Безопасную, не затрудняющую движение другим водителям, однако не больше, чем разрешено.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonym ogrzewaniu tylnej szyby?": "Какая из видимых на иллюстрации контрольных лампочек информирует об включенном обогреве заднего стекла?"
     }
 }
