@@ -1,8 +1,8 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о выделенном на дороге переходе для пешеходов?",
         "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
-        "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора."
+        "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора.",
+        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о размеченном на дороге переходе для пешеходов?"
     },
     "approved": {
         "zatoka": {
