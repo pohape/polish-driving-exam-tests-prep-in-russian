@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о выделенном на дороге переходе для пешеходов?",
-        "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены."
+        "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
+        "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора."
     },
     "approved": {
         "zatoka": {
@@ -678,7 +679,10 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do stromego podjazdu?": "В представленной ситуации вас предупреждают о приближении к крутому подъему?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o miejscu, w którym rowerzyści wjeżdżają na jezdnię lub przez nią przejeżdżają?": "В представленной ситуации вас предупреждают о том, где велосипедисты въезжают или пересекают проезжую часть?",
             "Znak widoczny na zdjęciu ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają": "Знак, показанный на фотографии, предупреждает Вас о том, где велосипедисты выезжают с велосипедной дороги на проезжую часть или пересекают ее.",
-            "Czy w przedstawionej sytuacji jesteś ostrzegany o drodze pokrytej żwirem, który może być wyrzucany spod kół jadących pojazdów?": "В представленной ситуации вас предупреждают о дороге, покрытой гравием, которое может быть выброшено из-под колес движущихся транспортных средств?"
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o drodze pokrytej żwirem, który może być wyrzucany spod kół jadących pojazdów?": "В представленной ситуации вас предупреждают о дороге, покрытой гравием, которое может быть выброшено из-под колес движущихся транспортных средств?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch jest kierowany za pomocą sygnalizacji świetlnej?": "В представленной ситуации вас предупреждают о перекрестке, на котором движение направляется светофором?",
+            "Czy w przedstawionej sytuacji, wjeżdżając na pobocze, powinieneś zrobić to ostrożnie i znacznie zmniejszyć prędkość?": "В представленной ситуации, выезжая на обочину, следует ли делать это осторожно и значительно снижать скорость?",
+            "Znak widoczny na zdjęciu ostrzega przed niebezpiecznym poboczem": "Знак, который вы видите на фотографии, предупреждает вас об опасной обочине дороги."
         }
     },
     "not_approved": {
@@ -687,7 +691,6 @@
         "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
-        "Czy w przedstawionej sytuacji, wjeżdżając na pobocze, powinieneś zrobić to ostrożnie i znacznie zmniejszyć prędkość?": "В представленной ситуации, выезжая на обочину, следует ли делать это осторожно и значительно снижать скорость?",
         "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Czy w przedstawionej sytuacji masz obowiązek zachować odstęp nie mniejszy niż 1 metr od wyprzedzanego rowerzysty?": "В представленной ситуации вы обязаны держать расстояние не менее 1 метра от обгоняемого велосипедиста?",
@@ -727,7 +730,6 @@
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch jest kierowany za pomocą sygnalizacji świetlnej?": "В представленной ситуации вас предупреждают о перекрестке, на котором движение направляется светофором?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
         "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?",
@@ -752,7 +754,6 @@
         "Wkrótce": "Вскоре",
         "Lewy pas służy do skrętu w lewo, jazdy na wprost i zawracania": "Левая полоса используется для поворота влево, прямого движения и разворота.",
         "Na pasie dzielącym jezdnie umieszczono zakaz zawracania": "На полосе, разделяющей проезжую часть, был установлен запрет на разворот.",
-        "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
@@ -1231,7 +1232,6 @@
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
-        "Znak widoczny na zdjęciu ostrzega przed niebezpiecznym poboczem": "Знак, который вы видите на фотографии, предупреждает вас об опасной обочине дороги.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
         "Czy w przedstawionej sytuacji odległość od znaku ostrzegawczego do miejsca niebezpiecznego wynosi do 100 metrów?": "В представленной ситуации расстояние от предупреждающего знака до опасного места составляет до 100 метров?",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o skrzyżowaniu, na którym ruch odbywa się dookoła wyspy lub placu, w kierunku wskazanym na znaku?": "В представленной ситуации вас предупреждают о перекрестке, где движение происходит вокруг островка или площадки, в направлении, указанном на знаке?",
