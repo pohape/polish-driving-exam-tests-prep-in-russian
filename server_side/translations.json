@@ -3,7 +3,8 @@
         "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
         "Znak A-29 - Sygnały świetlne ostrzega o miejscu, w którym ruch jest kierowany za pomocą sygnalizacji świetlnej": "Знак а - \"29-светофоры\" предупреждают о месте, где движение направляется с помощью светофора.",
         "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о размеченном на дороге переходе для пешеходов?",
-        "Czy zakaz wyrażony tym znakiem obowiązuje za najbliższym skrzyżowaniem?": "Запрещает ли этот знак движение после ближайшего перекрестка?"
+        "Czy zakaz wyrażony tym znakiem obowiązuje za najbliższym skrzyżowaniem?": "Запрещает ли этот знак движение после ближайшего перекрестка?",
+        "Zakaz zawracania umożliwia wykonanie skrętu w lewo": "Знак \"Запрещено разворот\" разрешает выполнение поворота налево."
     },
     "approved": {
         "zatoka": {
@@ -710,7 +711,8 @@
             "Czy w tej sytuacji, skręcając w prawo, możesz wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации, поворачивая направо, можешь ли ты въехать на перекресток без остановки?",
             "Czy widoczne oznakowanie wskazuje, że powinieneś skręcić w prawo w najbliższą jezdnię?": "Указывает ли видимый знак, что вы должны повернуть направо на ближайшую проезжую часть?",
             "Znak widoczny na zdjęciu zabrania skrętu w prawo": "Знак, видимый на фотографии, запрещает поворот направо.",
-            "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie ze skrzyżowaniem": "Запрет на разворот действует от места установки знака до ближайшего перекрестка включительно с перекрестком."
+            "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie ze skrzyżowaniem": "Запрет на разворот действует от места установки знака до ближайшего перекрестка включительно с перекрестком.",
+            "Czy zakaz wyrażony tym znakiem pionowym zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Запрещает ли этот вертикальный знак поворот налево на ближайшем перекрестке?"
         }
     },
     "not_approved": {
@@ -1282,7 +1284,6 @@
         "Czy w przedstawionej sytuacji obowiązuje Cię zakaz zawracania od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie?": "В данной ситуации на вас распространяется ли запрет на разворот от места установки знака до ближайшего перекрестка включительно?",
         "Zakaz zawracania zabrania kierującym zawracania od miejsca ustawienia do najbliższego skrzyżowania włącznie": "Знак запрета разворота запрещает водителям производить разворот с места установки и до ближайшего перекрестка включительно.",
         "Czy w tej sytuacji wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "В этой ситуации разрешено ли вам повернуть налево на ближайшем перекрестке?",
-        "Zakaz zawracania umożliwia wykonanie skrętu w lewo": "Знак \"Запрещено разворот\" разрешает выполнение поворота налево.",
         "Znak drogowy B-26 \"zakaz wyprzedzania przez samochody ciężarowe\" zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t": "Дорожный знак B-26 \"запрещение обгона для грузовых автомобилей\" запрещает водителю грузового автомобиля с разрешенной максимальной массой свыше 3,5 тонн обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek jezdni, jeżeli nie zmusisz tym nadjeżdżającego z przeciwka do zatrzymania się?": "Можете ли вы в этой ситуации заехать на суженный участок дороги, если это не заставит приближающееся встречное транспортное средство остановиться?",
         "Znak widoczny na zdjęciu zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się lub zmiany toru jazdy": "Знак, видимый на фотографии, запрещает водителям въезжать или входить на суженный участок дороги, если это вынудило бы водителей, находящихся на этом участке или приближающихся к нему с противоположной стороны, остановиться или изменить направление движения.",
@@ -1348,7 +1349,6 @@
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Czy zakaz wyrażony tym znakiem pionowym zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Запрещает ли этот вертикальный знак поворот налево на ближайшем перекрестке?",
         "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
         "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu": "Запрет на правый поворот действует на ближайшем перекрестке.",
         "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
