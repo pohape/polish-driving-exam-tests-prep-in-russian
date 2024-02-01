@@ -854,7 +854,8 @@
             "Czy w tej sytuacji na obszarze zabudowanym masz obowiązek umożliwić kierującemu autobusem wyjechanie z zatoki na jezdnię?": "Имеешь ли ты обязанность позволить водителю автобуса выехать с остановки общественного транспорта на проезжую часть в данной ситуации в населённом пункте?",
             "Czy w tej sytuacji masz prawo zatrzymać pojazd na poboczu?": "В этой ситуации у вас есть право остановить транспортное средство на обочине?",
             "Czy zaśnieżone szyby lub lusterka samochodu, którym zamierzasz kierować, utrudniają ocenę sytuacji na drodze?": "Заснеженные окна или зеркала автомобиля, которым вы собираетесь управлять, затрудняют оценку дорожной ситуации?",
-            "Czy polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi?": "Имеют ли указания и сигналы, подаваемые регулировщиками, преимущество перед дорожными знаками?"
+            "Czy polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi?": "Имеют ли указания и сигналы, подаваемые регулировщиками, преимущество перед дорожными знаками?",
+            "Czy na autostradzie wolno Ci poruszać się dowolnym pasem ruchu niezależnie od sytuacji na drodze?": "Разрешается ли тебе двигаться по автостраде по любой полосе движения независимо от ситуации на дороге?"
         }
     },
     "not_approved": {
@@ -2388,6 +2389,11 @@
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Czy w tej sytuacji wolno Ci zatrzymać samochód osobowy kołami jednego boku na chodniku po prawej stronie jezdni?": "Разрешается ли в данной ситуации остановить легковой автомобиль колесами одного бока на тротуаре справа от проезжей части?",
         "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
-        "Czy na autostradzie wolno Ci poruszać się dowolnym pasem ruchu niezależnie od sytuacji na drodze?": "Разрешается ли тебе двигаться по автостраде по любой полосе движения независимо от ситуации на дороге?"
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
+        "2 miesięcy": "2 месяца.",
+        "3 miesięcy": "3 месяца.",
+        "1 miesiąca": "1 месяца.",
+        "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km\/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres:": "В случае, когда водитель превысил допустимую скорость более чем на 50 км\/ч в населенном пункте, староста выносит административное решение о лишении права управления на срок:",
+        "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?"
     }
 }
