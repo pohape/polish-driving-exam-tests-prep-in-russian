@@ -19,7 +19,9 @@
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
         "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Выезжая на эту проезжую часть, можете ли вы занять полосу движения, обозначенную горизонтальной разметкой слева?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?",
-        "W prawie jazdy": "В правилах дорожного движения."
+        "W prawie jazdy": "В правилах дорожного движения.",
+        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с разрешенной максимальной массой до 3,5 тонны и прицепа-дачи?",
+        "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?"
     },
     "approved": {
         "zatoka": {
@@ -769,7 +771,8 @@
             "Nie": "Не.",
             "Tak, ale tylko przy dużym natężeniu ruchu na drodze": "Да, но только при интенсивном движении по дороге.",
             "W dowodzie rejestracyjnym": "В свидетельстве о регистрации.",
-            "Gdzie można znaleźć informację o dozwolonej liczbie przewożonych w samochodzie osobowym osób?": "Где можно найти информацию о разрешенном количестве перевозимых в легковом автомобиле людей?"
+            "Gdzie można znaleźć informację o dozwolonej liczbie przewożonych w samochodzie osobowym osób?": "Где можно найти информацию о разрешенном количестве перевозимых в легковом автомобиле людей?",
+            "Kręgosłup szyjny": "Шейный отдел позвоночника."
         }
     },
     "not_approved": {
@@ -1717,7 +1720,6 @@
         "Działanie wspomagania układu kierowniczego": "Действие усилителя рулевого управления.",
         "Nieprawidłowe ustawienie zbieżności kół": "Неправильная установка схождения колёс.",
         "Zbyt niskie ciśnienie w prawej przedniej oponie": "Слишком низкое давление в правой передней шине.",
-        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с разрешенной максимальной массой до 3,5 тонны и прицепа-дачи?",
         "Największe w początkowej fazie deszczu": "Наибольшие в начальной фазе дождя.",
         "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?": "Каков риск заноса ТС во время движения в дождливую погоду?",
         "Najmniejsze w początkowej fazie deszczu": "Минимальное расстояние в начальной фазе дождя.",
@@ -2014,8 +2016,6 @@
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pieszymi?": "Вы планируете повернуть направо. У вас есть преимущество перед пешеходами?",
         "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?",
-        "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?",
-        "Kręgosłup szyjny": "Шейный отдел позвоночника.",
         "Kość potyliczną": "Затылочная кость.",
         "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?": "Будучи участником дорожно-транспортного происшествия, обязаны ли вы оказать помощь пострадавшим, даже если у вас нет медицинских квалификаций?",
         "Kość czołową": "Лобная кость",
