@@ -29,7 +29,10 @@
         "Największe w początkowej fazie deszczu": "Наибольшие в начальной фазе дождя.",
         "Najmniejsze w początkowej fazie deszczu": "Минимальное расстояние в начальной фазе дождя.",
         "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей.",
-        "Hamować pulsacyjnie": "Тормозить импульсно."
+        "Hamować pulsacyjnie": "Тормозить импульсно.",
+        "Zablokowanie kół": "Заблокирование колёс.",
+        "Jak może zareagować kontrolujący, jeżeli nie będziesz miał przy sobie prawa jazdy?": "Как может отреагировать контролер, если у вас нет с собой водительских прав?",
+        "Uniemożliwić Ci dalszą jazdę i ukaże mandatem karnym za brak wymaganych dokumentów": "Запретит продолжение поездки и выписать штраф за отсутствие необходимых документов."
     },
     "approved": {
         "zatoka": {
@@ -830,7 +833,11 @@
             "Szerokość pojazdów": "Ширина транспортных средств.",
             "Którą z podanych wielkości należy uwzględnić, ustalając odstęp od poprzedzającego pojazdu?": "Какой из указанных параметров необходимо учитывать, определяя расстояние от впереди идущего транспортного средства?",
             "Jaki może być skutek zbyt słabego nacisku na pedał hamulca w samochodzie osobowym?": "Каким может быть эффект слишком слабого давления на педаль тормоза в легковом автомобиле?",
-            "Wydłużenie drogi hamowania": "Увеличение тормозного пути."
+            "Wydłużenie drogi hamowania": "Увеличение тормозного пути.",
+            "Utrata sterowności": "Потеря управляемости.",
+            "Sprawdzi Twoje dane zgromadzone w Centralnej Ewidencji Kierowców": "Проверит ваши данные, собранные в Центральном Реестре Водителей.",
+            "Ukarać mandatem karnym za brak wymaganych dokumentów": "Наказать штрафом за отсутствие необходимых документов.",
+            "Czy dozwolone jest oddalanie się od pojazdu, gdy jego silnik jest w ruchu?": "Разрешается ли удаляться от автомобиля, когда его двигатель запущен и работает?"
         }
     },
     "not_approved": {
@@ -846,7 +853,6 @@
         "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
-        "Jak może zareagować kontrolujący, jeżeli nie będziesz miał przy sobie prawa jazdy?": "Как может отреагировать контролер, если у вас нет с собой водительских прав?",
         "Gdy droga jest pokryta śniegiem": "Когда дорога покрыта снегом.",
         "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
         "Czy wyjeżdżając ze strefy zamieszkania, włączasz się do ruchu?": "Когда вы покидаете зону проживания, вы включаетесь в движение?",
@@ -2010,9 +2016,6 @@
         "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?": "Вы управляете транспортным средством в населенном пункте. Запрещено ли в этой ситуации использование звукового сигнала?",
-        "Ukarać mandatem karnym za brak wymaganych dokumentów": "Наказать штрафом за отсутствие необходимых документов.",
-        "Sprawdzi Twoje dane zgromadzone w Centralnej Ewidencji Kierowców": "Проверит ваши данные, собранные в Центральном Реестре Водителей.",
-        "Uniemożliwić Ci dalszą jazdę i ukaże mandatem karnym za brak wymaganych dokumentów": "Запретит продолжение поездки и выписать штраф за отсутствие необходимых документов.",
         "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
         "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu": "Размещенные в держателях сзади транспортного средства, закрывающем один фонарь транспортного средства.",
         "Kamizelka odblaskowa": "Светоотражающий жилет.",
@@ -2021,8 +2024,6 @@
         "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
         "Widoczność na drodze": "Видимость на дороге.",
         "Prędkość jazdy": "Скорость движения.",
-        "Zablokowanie kół": "Заблокирование колёс.",
-        "Utrata sterowności": "Потеря управляемости.",
         "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством.",
         "Co powinieneś widzieć w prawidłowo ustawionym lusterku wstecznym (wewnętrznym)?": "Что вы должны видеть в правильно настроенном зеркале заднего вида (внутреннем)?",
         "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
@@ -2400,6 +2401,8 @@
         "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
         "W tym przypadku należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "В этом случае необходимо наложить стерильный давящий бинт из марли и иммобилизировать.",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
-        "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час."
+        "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час.",
+        "Tak, na czas nie dłuższy niż 1 minutę": "Да, на время не дольше чем 1 минуту.",
+        "Tak, pod warunkiem, że pojazd pozostaje w polu widzenia": "Да, при условии, что транспортное средство остается в поле зрения."
     }
 }
