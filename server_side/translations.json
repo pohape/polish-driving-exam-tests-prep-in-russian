@@ -817,7 +817,14 @@
             "Którą z wymienionych technik hamowania awaryjnego należy zastosować w samochodzie osobowym wyposażonym w układ ABS?": "Какую из перечисленных техник экстренного торможения следует применить в легковом автомобиле, оснащенном системой ABS?",
             "Szybko i mocno wcisnąć pedał hamulca": "Быстро и сильно нажать на педаль тормоза.",
             "Delikatnie wcisnąć pedał hamulca, stopniowo zwiększając nacisk, aż zadziała układ ABS": "Нежно нажать педаль тормоза, постепенно увеличивая давление, пока не сработает система ABS.",
-            "W jaki sposób można ułatwić sobie wyjazd samochodem osobowym z grząskiego śniegu?": "Как можно облегчить себе выезд легковым автомобилем из снежной каши?"
+            "W jaki sposób można ułatwić sobie wyjazd samochodem osobowym z grząskiego śniegu?": "Как можно облегчить себе выезд легковым автомобилем из снежной каши?",
+            "Kilkakrotne cofając i ruszając do przodu": "Несколько раз двигаясь назад и вперед.",
+            "Ruszając na dużych obrotach silnika": "Трогаясь на высоких оборотах двигателя.",
+            "Puszczając gwałtownie pedał sprzęgła": "Отпуская педаль сцепления резко.",
+            "Co grozi kierowcy, który samochodem ciężarowym przewozi o trzy osoby więcej od liczby miejsc wpisanej w dowodzie rejestracyjnym pojazdu?": "Что грозит водителю, который грузовым автомобилем перевозит на три человека больше, чем количество мест, указанное в свидетельстве о регистрации транспортного средства?",
+            "Zatrzymanie prawa jazdy na okres 6 miesięcy": "Отзыв водительских прав на срок 6 месяцев.",
+            "Zatrzymanie prawa jazdy na okres 3 miesięcy": "Отзыв водительских прав на срок 3 месяца.",
+            "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с допустимой общей массой до 3,5 тонны и кемпингового прицепа?"
         }
     },
     "not_approved": {
@@ -2212,9 +2219,6 @@
         "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
         "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
         "Czego nie możesz robić uczestnicząc w wypadku, w którym są zabici?": "Что ты не можешь делать, участвуя в аварии, в которой есть погибшие?",
-        "Ruszając na dużych obrotach silnika": "Трогаясь на высоких оборотах двигателя.",
-        "Kilkakrotne cofając i ruszając do przodu": "Несколько раз двигаясь назад и вперед.",
-        "Puszczając gwałtownie pedał sprzęgła": "Отпуская педаль сцепления резко.",
         "Na mocne trzymanie dłoni na dźwigni zmiany biegów": "На сильное удерживание руки на рычаге переключения передач.",
         "Na co należy zwracać uwagę podczas cofania pojazdem?": "На что следует обращать внимание во время движения задним ходом ТС?",
         "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения.",
@@ -2313,8 +2317,6 @@
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
-        "Zatrzymanie prawa jazdy na okres 6 miesięcy": "Отзыв водительских прав на срок 6 месяцев.",
-        "Zatrzymanie prawa jazdy na okres 3 miesięcy": "Отзыв водительских прав на срок 3 месяца.",
         "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
         "Nieprawidłowa zbieżność kół przednich": "Неправильное схождение передних колес.",
         "Usterka modułu elektronicznego hamulca ręcznego": "Неисправность электронного модуля стояночного тормоза.",
@@ -2392,9 +2394,9 @@
         "80 m": "80 м.",
         "70 m": "70 м.",
         "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
-        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с допустимой общей массой до 3,5 тонны и кемпингового прицепа?",
         "W tym przypadku należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "В этом случае необходимо наложить стерильный давящий бинт из марли и иммобилизировать.",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
-        "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час."
+        "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час.",
+        "Szerokość pojazdów": "Ширина транспортных средств."
     }
 }
