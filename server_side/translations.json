@@ -758,7 +758,10 @@
             "Czy w tej sytuacji powinieneś zmienić pas ruchu na środkowy, jeśli chcesz jechać na wprost?": "В данной ситуации должен ли ты перестроиться на среднюю полосу, если хочешь ехать прямо?",
             "Czy w tej sytuacji należy zachować szczególną ostrożność?": "Нужно ли быть особенно осторожным в этой ситуации?",
             "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?",
-            "W przedstawionej sytuacji zamierzasz skręcić w prawo. Czy musisz zatrzymać się w wyznaczonym miejscu przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь повернуть направо. Должны ли вы остановиться в указанном месте перед въездом на перекресток?"
+            "W przedstawionej sytuacji zamierzasz skręcić w prawo. Czy musisz zatrzymać się w wyznaczonym miejscu przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь повернуть направо. Должны ли вы остановиться в указанном месте перед въездом на перекресток?",
+            "Czy w tej sytuacji jadąc w tunelu za pojazdem szynowym, masz obowiązek zachować szczególną ostrożność?": "В данной ситуации, двигаясь в туннеле за железнодорожным транспортом, обязан ли ты соблюдать особую осторожность?",
+            "Czy w przedstawionej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В данной ситуации тебе разрешается ехать прямо через перекресток?",
+            "Czy postój w tym miejscu jest dozwolony?": "Разрешена ли остановка в этом месте?"
         }
     },
     "not_approved": {
@@ -1143,7 +1146,6 @@
         "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
-        "Czy postój w tym miejscu jest dozwolony?": "Разрешена ли остановка в этом месте?",
         "Czy w tej sytuacji, umieszczone po prawej stronie jezdni punktowe elementy odblaskowe barwy białej informują Cię o krawędzi jezdni?": "В этой ситуации, размещенные на правой стороне проезжей части точечные светоотражающие элементы белого цвета информируют вас о краю проезжей части?",
         "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
         "Jak osiągnąć najkrótszą drogę hamowania pojazdem wyposażonym w układ przeciwblokujący (ABS)?": "Как достичь кратчайшего тормозного пути с помощью антиблокировочной тормозной системы (ABS)?",
@@ -2273,7 +2275,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
         "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?",
-        "Czy w tej sytuacji jadąc w tunelu za pojazdem szynowym, masz obowiązek zachować szczególną ostrożność?": "В данной ситуации, двигаясь в туннеле за железнодорожным транспортом, обязан ли ты соблюдать особую осторожность?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "Перевод фрагмента: \"В данной ситуации разрешено ли вам остановиться у края дороги перед знаком?\"",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
