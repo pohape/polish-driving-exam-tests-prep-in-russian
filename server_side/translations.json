@@ -791,7 +791,8 @@
             "Zapobiega poślizgowi kół podczas ruszania": "Предотвращает проскальзывание колёс при трогании с места.",
             "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania": "Позволяет сохранить контроль над транспортным средством во время резкого торможения.",
             "Zawsze skraca drogę hamowania": "Всегда сокращает тормозной путь.",
-            "Zalecany przez producenta urządzenia": "Рекомендованный производителем устройства."
+            "Zalecany przez producenta urządzenia": "Рекомендованный производителем устройства.",
+            "Podczas wyprzedzania należy zachować szczególną ostrożność": "Во время обгона необходимо проявлять особую осторожность."
         }
     },
     "not_approved": {
@@ -2375,7 +2376,6 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
         "60 m": "60 м.",
         "80 m": "80 м.",
-        "70 m": "70 м.",
-        "Podczas wyprzedzania należy zachować szczególną ostrożność": "Во время обгона необходимо проявлять особую осторожность."
+        "70 m": "70 м."
     }
 }
