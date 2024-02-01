@@ -717,7 +717,8 @@
             "Zakaz skrętu w prawo obowiązuje na najbliższym skrzyżowaniu": "Запрет на правый поворот действует на ближайшем перекрестке.",
             "Czy na tym skrzyżowaniu dopuszczalne jest skręcenie w prawo bez uprzedniego zatrzymania się?": "Допустимо ли на этом перекрестке повернуть направо без предварительной остановки?",
             "Czy na tym skrzyżowaniu zatrzymanie pojazdu powinno nastąpić przed znakiem „STOP”?": "На этом перекрестке должна ли остановка транспортного средства происходить перед знаком \"СТОП\"?",
-            "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?"
+            "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?",
+            "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\"."
         }
     },
     "not_approved": {
@@ -1351,7 +1352,6 @@
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
         "Akcje ratunkowe": "Спасательные действия",
         "Odstępy i hamowanie pojazdu": "Интервалы и торможение транспортного средства",
         "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения",
