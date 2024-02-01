@@ -24,7 +24,8 @@
         "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
         "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
         "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может вызывать ограничение поля зрения водителя легкового автомобиля?",
-        "Jaką funkcję w pojeździe spełnia system przeciwblokujący ABS?": "Какую функцию в транспортном средстве выполняет система противоблокировки ABS?"
+        "Jaką funkcję w pojeździe spełnia system przeciwblokujący ABS?": "Какую функцию в транспортном средстве выполняет система противоблокировки ABS?",
+        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать."
     },
     "approved": {
         "zatoka": {
@@ -2370,13 +2371,15 @@
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
-        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать.",
         "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
         "60 m": "60 м.",
         "80 m": "80 м.",
         "70 m": "70 м.",
         "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
-        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с допустимой общей массой до 3,5 тонны и кемпингового прицепа?"
+        "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с допустимой общей массой до 3,5 тонны и кемпингового прицепа?",
+        "W tym przypadku należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "В этом случае необходимо наложить стерильный давящий бинт из марли и иммобилизировать.",
+        "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
+        "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час."
     }
 }
