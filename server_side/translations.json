@@ -28,7 +28,8 @@
         "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать.",
         "Największe w początkowej fazie deszczu": "Наибольшие в начальной фазе дождя.",
         "Najmniejsze w początkowej fazie deszczu": "Минимальное расстояние в начальной фазе дождя.",
-        "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей."
+        "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей.",
+        "Hamować pulsacyjnie": "Тормозить импульсно."
     },
     "approved": {
         "zatoka": {
@@ -812,7 +813,11 @@
             "Czy jadąc prosto przez to skrzyżowanie masz pierwszeństwo przed pojazdem z prawej strony?": "Если вы едете прямо через этот перекресток, имеете ли вы преимущество перед ТС справа?",
             "Czy włączając się do ruchu masz obowiązek ustąpić pierwszeństwa pieszemu, który znajduje się poza przejściem dla pieszych?": "Включаясь в движение, обязаны ли вы уступить дорогу пешеходу, который находится вне пешеходного перехода?",
             "Czy w tej sytuacji zajmujesz właściwy pas ruchu?": "Вы занимаете правильную полосу движения в данной ситуации?",
-            "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?": "Каков риск заноса ТС во время движения в дождливую погоду?"
+            "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?": "Каков риск заноса ТС во время движения в дождливую погоду?",
+            "Którą z wymienionych technik hamowania awaryjnego należy zastosować w samochodzie osobowym wyposażonym w układ ABS?": "Какую из перечисленных техник экстренного торможения следует применить в легковом автомобиле, оснащенном системой ABS?",
+            "Szybko i mocno wcisnąć pedał hamulca": "Быстро и сильно нажать на педаль тормоза.",
+            "Delikatnie wcisnąć pedał hamulca, stopniowo zwiększając nacisk, aż zadziała układ ABS": "Нежно нажать педаль тормоза, постепенно увеличивая давление, пока не сработает система ABS.",
+            "W jaki sposób można ułatwić sobie wyjazd samochodem osobowym z grząskiego śniegu?": "Как можно облегчить себе выезд легковым автомобилем из снежной каши?"
         }
     },
     "not_approved": {
@@ -2210,7 +2215,6 @@
         "Ruszając na dużych obrotach silnika": "Трогаясь на высоких оборотах двигателя.",
         "Kilkakrotne cofając i ruszając do przodu": "Несколько раз двигаясь назад и вперед.",
         "Puszczając gwałtownie pedał sprzęgła": "Отпуская педаль сцепления резко.",
-        "W jaki sposób można ułatwić sobie wyjazd samochodem osobowym z grząskiego śniegu?": "Как можно облегчить себе выезд легковым автомобилем из снежной каши?",
         "Na mocne trzymanie dłoni na dźwigni zmiany biegów": "На сильное удерживание руки на рычаге переключения передач.",
         "Na co należy zwracać uwagę podczas cofania pojazdem?": "На что следует обращать внимание во время движения задним ходом ТС?",
         "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения.",
