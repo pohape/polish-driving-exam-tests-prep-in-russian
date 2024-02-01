@@ -18,7 +18,8 @@
         "Czy widoczny na jezdni napis \"STOP\" potwierdza oznakowanie wlotu na skrzyżowanie znakiem pionowym \"stop\"?": "Видимая на проезжей части надпись \"STOP\" подтверждает разметку на въезде на перекресток вертикальным знаком \"стоп\"?",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
         "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Выезжая на эту проезжую часть, можете ли вы занять полосу движения, обозначенную горизонтальной разметкой слева?",
-        "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?"
+        "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?",
+        "W prawie jazdy": "В правилах дорожного движения."
     },
     "approved": {
         "zatoka": {
@@ -765,7 +766,10 @@
             "Czy w tej sytuacji możesz przyspieszyć, jeżeli nie przekroczysz prędkości dozwolonej na tej drodze?": "Можете ли вы разогнаться, если не превысите скорость, разрешенную на этой дороге?",
             "Czy ten znak ostrzega o zbliżaniu się do obiektów z materiałami niebezpiecznymi?": "Этот знак предупреждает о приближении к объектам с опасными материалами?",
             "Czy warunki atmosferyczne to czynnik, który należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли погодные условия фактором, который следует учитывать при выборе скорости движения?",
-            "Nie": "Не."
+            "Nie": "Не.",
+            "Tak, ale tylko przy dużym natężeniu ruchu na drodze": "Да, но только при интенсивном движении по дороге.",
+            "W dowodzie rejestracyjnym": "В свидетельстве о регистрации.",
+            "Gdzie można znaleźć informację o dozwolonej liczbie przewożonych w samochodzie osobowym osób?": "Где можно найти информацию о разрешенном количестве перевозимых в легковом автомобиле людей?"
         }
     },
     "not_approved": {
@@ -1183,7 +1187,6 @@
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей.",
-        "Tak, ale tylko przy dużym natężeniu ruchu na drodze": "Да, но только при интенсивном движении по дороге.",
         "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
         "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
         "Asymetrycznie": "Асимметрично.",
