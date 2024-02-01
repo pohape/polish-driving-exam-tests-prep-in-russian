@@ -675,7 +675,10 @@
             "Znak widoczny na zdjęciu ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, видимый на фотографии, предупреждает о сужении проезжей части, встречающемся с обеих сторон, которое может вызывать затруднения движения.",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze dzikich zwierząt?": "В представленной ситуации вас предупреждают о возможности встретить на дороге диких животных?",
             "Znak widoczny na filmie ostrzega przed możliwością napotkania na drodze zwierząt dzikich": "Знак, показанный на видео, предупреждает о возможности встретить на дороге диких животных.",
-            "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do stromego podjazdu?": "В представленной ситуации вас предупреждают о приближении к крутому подъему?"
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do stromego podjazdu?": "В представленной ситуации вас предупреждают о приближении к крутому подъему?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o miejscu, w którym rowerzyści wjeżdżają na jezdnię lub przez nią przejeżdżają?": "В представленной ситуации вас предупреждают о том, где велосипедисты въезжают или пересекают проезжую часть?",
+            "Znak widoczny na zdjęciu ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają": "Знак, показанный на фотографии, предупреждает Вас о том, где велосипедисты выезжают с велосипедной дороги на проезжую часть или пересекают ее.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o drodze pokrytej żwirem, który może być wyrzucany spod kół jadących pojazdów?": "В представленной ситуации вас предупреждают о дороге, покрытой гравием, которое может быть выброшено из-под колес движущихся транспортных средств?"
         }
     },
     "not_approved": {
@@ -865,7 +868,6 @@
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?",
         "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o drodze pokrytej żwirem, który może być wyrzucany spod kół jadących pojazdów?": "В представленной ситуации вас предупреждают о дороге, покрытой гравием, которое может быть выброшено из-под колес движущихся транспортных средств?",
         "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
         "Gdy widoczność podczas opadów śniegu jest mniejsza niż 50 m": "Когда видимость во время снегопада составляет менее 50 м.",
         "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?",
@@ -1229,8 +1231,6 @@
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o miejscu, w którym rowerzyści wjeżdżają na jezdnię lub przez nią przejeżdżają?": "В представленной ситуации вас предупреждают о том, где велосипедисты въезжают или пересекают проезжую часть?",
-        "Znak widoczny na zdjęciu ostrzega o miejscu, w którym rowerzyści wjeżdżają z drogi dla rowerów na jezdnię lub przez nią przejeżdżają": "Знак, показанный на фотографии, предупреждает Вас о том, где велосипедисты выезжают с велосипедной дороги на проезжую часть или пересекают ее.",
         "Znak widoczny na zdjęciu ostrzega przed niebezpiecznym poboczem": "Знак, который вы видите на фотографии, предупреждает вас об опасной обочине дороги.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
         "Czy w przedstawionej sytuacji odległość od znaku ostrzegawczego do miejsca niebezpiecznego wynosi do 100 metrów?": "В представленной ситуации расстояние от предупреждающего знака до опасного места составляет до 100 метров?",
