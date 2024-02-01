@@ -655,7 +655,10 @@
             "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
             "Czy w tej sytuacji jesteś ostrzegany o zwężeniu jezdni, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части, которое может вызвать затруднение движения?",
             "Czy za widocznym znakiem możesz się spodziewać trzech niebezpiecznych zakrętów w lewo?": "Можете ли вы ожидать три опасных поворота влево за видимым знаком?",
-            "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?"
+            "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
+            "A-8: skrzyżowanie o ruchu okrężnym": "A-8: перекресток с круговым движением.",
+            "Czy w tej sytuacji zbliżasz się do przejazdu kolejowego?": "Вы приближаетесь к железнодорожному переезду в этой ситуации?",
+            "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях."
         }
     },
     "not_approved": {
@@ -1087,7 +1090,6 @@
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
-        "Czy w tej sytuacji zbliżasz się do przejazdu kolejowego?": "Вы приближаетесь к железнодорожному переезду в этой ситуации?",
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей.",
@@ -1232,8 +1234,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "A-8: skrzyżowanie o ruchu okrężnym": "A-8: перекресток с круговым движением.",
-        "Znak ostrzega przed tramwajami": "Знак предупреждает о трамваях.",
         "Czy za tym znakiem należy spodziewać się trzech niebezpiecznych zakrętów, z których wszystkie mogą być w lewo?": "Следует ли ожидать трех опасных поворотов за этим знаком, каждый из которых может быть левым?",
         "Znak oraz tabliczka nie precyzują kierunku zakrętów. Wobec tego może się zdarzyć, że wszystkie będą w lewo": "Знак и табличка не указывают направление поворотов. Таким образом, может случиться так, что все они будут оставлены.",
         "Znak A-32 - oszronienie jezdni lub gołoledź": "Знак A-32 - обморожение проезжей части или гололедица.",
