@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций подтверждение остановки права управления транспортным средством уполномочивает на управление транспортным средством в течение 7 дней?"
+        "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций подтверждение остановки права управления транспортным средством уполномочивает на управление транспортным средством в течение 7 дней?",
+        "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге."
     },
     "approved": {
         "kontrolujący": {
@@ -2465,7 +2466,11 @@
         "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
         "Tylko na znaki zakazu": "Только на знаки запрета.",
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
-        "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге.",
-        "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?"
+        "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?",
+        "Z jaką prędkością nie możesz poruszać się w strefie zamieszkania?": "С какой скоростью ты не можешь двигаться в зоне проживания?",
+        "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?": "На какой дороге водителя обязует соблюдение строго определенного минимального расстояния от впереди идущего ТС?",
+        "Na drodze ekspresowej": "На \"drodze ekspresowej\".",
+        "Na drodze jednojezdniowej poza obszarem zabudowanym": "На дороге с одной проезжей частью вне населённого пункта.",
+        "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения."
     }
 }
