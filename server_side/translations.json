@@ -804,7 +804,10 @@
             "Czy w tej sytuacji masz obowiązek zawsze zatrzymać pojazd przed przejazdem kolejowym?": "В данной ситуации обязаны ли вы всегда останавливать транспортное средство перед железнодорожным переездом?",
             "Zamierzasz wjechać do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszym?": "Вы собираетесь заехать на ворота. Вы обязаны уступить дорогу пешеходам?",
             "Czy w tej sytuacji masz prawo kilkukrotnie użyć sygnału dźwiękowego, zamiast zatrzymać pojazd?": "Имеешь ли ты право в данной ситуации несколько раз использовать звуковой сигнал, вместо остановки транспортного средства?",
-            "Czy w tej sytuacji wyprzedzanie jest zabronione?": "В данной ситуации обгон запрещен?"
+            "Czy w tej sytuacji wyprzedzanie jest zabronione?": "В данной ситуации обгон запрещен?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości jezdni zastosowanej w celu spowolnienia ruchu?": "В данной ситуации тебя предупреждают о выпуклости проезжей части, используемой для замедления движения?",
+            "Czy jadąc prosto przez to skrzyżowanie masz pierwszeństwo przed pojazdem z prawej strony?": "Если вы едете прямо через этот перекресток, имеете ли вы преимущество перед ТС справа?",
+            "Czy włączając się do ruchu masz obowiązek ustąpić pierwszeństwa pieszemu, który znajduje się poza przejściem dla pieszych?": "Включаясь в движение, обязаны ли вы уступить дорогу пешеходу, который находится вне пешеходного перехода?"
         }
     },
     "not_approved": {
