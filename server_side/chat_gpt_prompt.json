@@ -19,6 +19,18 @@
         ]
     },
     "dictionary": {
+        "tylko na polecenie kontrolującego: только по команде должностного лица": [
+            "kontroluj"
+        ],
+        "kontrolujący: должностное лицо": [
+            "kontroluj"
+        ],
+        "zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: сделать стерильный давящий бинт из марли и обездвижить" : [
+            "unieruch"
+        ],
+        "unieruchomić: обездвижить" : [
+            "unieruch"
+        ],
         "zatoka przystankowa: остановка общественного транспорта": [
             "zatok",
             "zatoc"
