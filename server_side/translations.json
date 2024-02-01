@@ -2528,6 +2528,12 @@
         "Czy ten znak drogowy uprzedza o początku odcinka drogi, na którym średnia prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Этот дорожный знак предупреждает о начале участка дороги, на котором средняя скорость движения контролируется и регистрируется стационарным устройством регистрации?",
         "Czy w tej sytuacji należy zrezygnować z manewru wyprzedzania?": "В этой ситуации следует отказаться от маневра обгона?",
         "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
-        "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?"
+        "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
+        "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
+        "Orzeczenie lekarskie": "Медицинское заключение.",
+        "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób": "Психологическое заключение, если выполняешь коммерческие перевозки людей.",
+        "Unieruchomić dwa sąsiadujące stawy": "Обездвижить два соседних сустава.",
+        "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
+        "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность."
     }
 }
