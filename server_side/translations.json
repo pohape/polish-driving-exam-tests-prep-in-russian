@@ -24,7 +24,8 @@
         "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?",
         "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
         "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
-        "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может вызывать ограничение поля зрения водителя легкового автомобиля?"
+        "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может вызывать ограничение поля зрения водителя легкового автомобиля?",
+        "Jaką funkcję w pojeździe spełnia system przeciwblokujący ABS?": "Какую функцию в транспортном средстве выполняет система противоблокировки ABS?"
     },
     "approved": {
         "zatoka": {
@@ -784,7 +785,10 @@
             "Tak, aby jego górna część znajdowała się na wysokości szyi": "Да, чтобы его верхняя часть находилась на уровне шеи.",
             "Zbyt nisko lub zbyt wysoko ustawiony fotel kierującego": "Слишком низко или слишком высоко установленное сиденье водителя.",
             "Okulary przeciwsłoneczne używane w słoneczny dzień": "Солнцезащитные очки, используемые в солнечный день.",
-            "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки."
+            "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки.",
+            "Założyć opaskę uciskową powyżej rany": "Наложить жгут выше раны.",
+            "Unieść rękę powyżej wysokości serca bez opatrywania": "Поднять руку выше уровня сердца без наложения повязки.",
+            "Zapobiega poślizgowi kół podczas ruszania": "Предотвращает проскальзывание колёс при трогании с места."
         }
     },
     "not_approved": {
@@ -2363,8 +2367,8 @@
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
-        "Założyć opaskę uciskową powyżej rany": "Наложить жгут выше раны.",
-        "Unieść rękę powyżej wysokości serca bez opatrywania": "Поднять руку выше уровня сердца без наложения повязки.",
-        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать."
+        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать.",
+        "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania": "Позволяет сохранить контроль над транспортным средством во время резкого торможения.",
+        "Zawsze skraca drogę hamowania": "Всегда сокращает тормозной путь."
     }
 }
