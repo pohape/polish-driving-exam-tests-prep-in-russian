@@ -25,7 +25,10 @@
         "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
         "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может вызывать ограничение поля зрения водителя легкового автомобиля?",
         "Jaką funkcję w pojeździe spełnia system przeciwblokujący ABS?": "Какую функцию в транспортном средстве выполняет система противоблокировки ABS?",
-        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать."
+        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать.",
+        "Największe w początkowej fazie deszczu": "Наибольшие в начальной фазе дождя.",
+        "Najmniejsze w początkowej fazie deszczu": "Минимальное расстояние в начальной фазе дождя.",
+        "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей."
     },
     "approved": {
         "zatoka": {
@@ -807,7 +810,9 @@
             "Czy w tej sytuacji wyprzedzanie jest zabronione?": "В данной ситуации обгон запрещен?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości jezdni zastosowanej w celu spowolnienia ruchu?": "В данной ситуации тебя предупреждают о выпуклости проезжей части, используемой для замедления движения?",
             "Czy jadąc prosto przez to skrzyżowanie masz pierwszeństwo przed pojazdem z prawej strony?": "Если вы едете прямо через этот перекресток, имеете ли вы преимущество перед ТС справа?",
-            "Czy włączając się do ruchu masz obowiązek ustąpić pierwszeństwa pieszemu, który znajduje się poza przejściem dla pieszych?": "Включаясь в движение, обязаны ли вы уступить дорогу пешеходу, который находится вне пешеходного перехода?"
+            "Czy włączając się do ruchu masz obowiązek ustąpić pierwszeństwa pieszemu, który znajduje się poza przejściem dla pieszych?": "Включаясь в движение, обязаны ли вы уступить дорогу пешеходу, который находится вне пешеходного перехода?",
+            "Czy w tej sytuacji zajmujesz właściwy pas ruchu?": "Вы занимаете правильную полосу движения в данной ситуации?",
+            "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?": "Каков риск заноса ТС во время движения в дождливую погоду?"
         }
     },
     "not_approved": {
@@ -1221,7 +1226,6 @@
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
-        "Największe w końcowej fazie deszczu": "Самый большой в конце сезона дождей.",
         "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
         "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
         "Asymetrycznie": "Асимметрично.",
@@ -1676,7 +1680,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?",
         "Czy w tej sytuacji należy pozostawić poszkodowanego z twarzą zanurzoną w wodzie, ponieważ zmiana pozycji może spowodować uraz kręgosłupa?": "В данной ситуации необходимо оставить пострадавшего с лицом, погруженным в воду, поскольку изменение положения может привести к травме позвоночника?",
         "Czy w tej sytuacji możesz zawrócić bezpośrednio za znakiem?": "В этой ситуации можно развернуться сразу после знака?",
-        "Czy w tej sytuacji zajmujesz właściwy pas ruchu?": "Вы занимаете правильную полосу движения в данной ситуации?",
         "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz prawo usunąć pojazd z miejsca zdarzenia, aby nie tamować ruchu?": "Вы имеете право убрать ТС с места происшествия, чтобы не препятствовать движению, будучи участником дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowanie pieszych?": "В данной ситуации ты обязан наблюдать за поведением пешеходов?",
         "Unieruchomienie silnika": "Остановка двигателя.",
@@ -1748,9 +1751,6 @@
         "Działanie wspomagania układu kierowniczego": "Действие усилителя рулевого управления.",
         "Nieprawidłowe ustawienie zbieżności kół": "Неправильная установка схождения колёс.",
         "Zbyt niskie ciśnienie w prawej przedniej oponie": "Слишком низкое давление в правой передней шине.",
-        "Największe w początkowej fazie deszczu": "Наибольшие в начальной фазе дождя.",
-        "Jakie jest ryzyko poślizgu pojazdu podczas jazdy w czasie deszczu?": "Каков риск заноса ТС во время движения в дождливую погоду?",
-        "Najmniejsze w początkowej fazie deszczu": "Минимальное расстояние в начальной фазе дождя.",
         "Nie wolno": "Не разрешается.",
         "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
