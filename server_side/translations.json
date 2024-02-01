@@ -1,5 +1,7 @@
 {
-    "incorrect": {},
+    "incorrect": {
+        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации тебя предупреждают о выделенном на дороге переходе для пешеходов?"
+    },
     "approved": {
         "zatoka": {
             "Czy w tej sytuacji wolno Ci zatrzymać pojazd w zatoce?": "Вам разрешено останавливать автомобиль в кармане в этой ситуации?",
@@ -648,7 +650,8 @@
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для осмотра, может ли водитель автомобиля выйти из него без разрешения инспектора?",
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy?": "После того, как автомобиль остановлен для осмотра, должен ли водитель автомобиля держать руки на руле?",
             "Po zatrzymaniu pojazdu do kontroli, kierujący pojazdem powinien trzymać ręce na kierownicy": "После того, как автомобиль остановлен для осмотра, водитель автомобиля должен держать руки на руле.",
-            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?"
+            "Czy ten znak ostrzega o niebezpieczeństwie?": "Предупреждает ли этот знак об опасности?",
+            "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?"
         }
     },
     "not_approved": {
@@ -1226,8 +1229,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Czy w tej sytuacji jesteś ostrzegany o wyznaczonym na drodze przejściu dla pieszych?": "В этой ситуации вас предупреждают о пешеходном переходе, обозначенном на дороге?",
-        "Czy w tej sytuacji jesteś ostrzegany o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu?": "В этой ситуации вас предупреждают о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения?",
         "Znak widoczny na zdjęciu (A-12a) ostrzega o występującym po obu stronach jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии (A-12A), предупреждает о сужении проезжей части с обеих сторон, которое может вызвать затруднение движения.",
         "Czy za widocznym znakiem możesz się spodziewać trzech niebezpiecznych zakrętów w lewo?": "Можете ли вы ожидать три опасных поворота влево за видимым знаком?",
         "Czy w tej sytuacji zbliżasz się do skrzyżowania o ruchu okrężnym?": "Вы приближаетесь к перекрестку с круговым движением в этой ситуации?",
