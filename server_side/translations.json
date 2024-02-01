@@ -868,7 +868,8 @@
             "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszego?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешехода?",
             "Czy umieszczona pod tym znakiem informacyjnym tabliczka wskazuje układ dróg podporządkowanych?": "Указывает ли табличка, расположенная под этим информационным знаком, на схему второстепенных дорог?",
             "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się?": "Можно ли вам в этой ситуации повернуть направо без остановки?",
-            "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?": "В этой ситуации у вас есть право использовать дневные ходовые огни?"
+            "Czy w tej sytuacji masz prawo używać świateł do jazdy dziennej?": "В этой ситуации у вас есть право использовать дневные ходовые огни?",
+            "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?"
         }
     },
     "not_approved": {
@@ -2497,6 +2498,10 @@
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Czy w tej sytuacji masz prawo ominąć poprzedzający cię pojazd?": "Имеешь ли ты право в данной ситуации обогнать впереди идущее ТС?"
+        "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству.",
+        "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
+        "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
+        "Na autostradzie": "На автостраде.",
+        "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?"
     }
 }
