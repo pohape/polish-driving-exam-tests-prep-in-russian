@@ -788,7 +788,10 @@
             "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки.",
             "Założyć opaskę uciskową powyżej rany": "Наложить жгут выше раны.",
             "Unieść rękę powyżej wysokości serca bez opatrywania": "Поднять руку выше уровня сердца без наложения повязки.",
-            "Zapobiega poślizgowi kół podczas ruszania": "Предотвращает проскальзывание колёс при трогании с места."
+            "Zapobiega poślizgowi kół podczas ruszania": "Предотвращает проскальзывание колёс при трогании с места.",
+            "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania": "Позволяет сохранить контроль над транспортным средством во время резкого торможения.",
+            "Zawsze skraca drogę hamowania": "Всегда сокращает тормозной путь.",
+            "Zalecany przez producenta urządzenia": "Рекомендованный производителем устройства."
         }
     },
     "not_approved": {
@@ -2368,7 +2371,10 @@
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
         "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать.",
-        "Umożliwia zachowanie kontroli nad pojazdem podczas gwałtownego hamowania": "Позволяет сохранить контроль над транспортным средством во время резкого торможения.",
-        "Zawsze skraca drogę hamowania": "Всегда сокращает тормозной путь."
+        "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
+        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
+        "60 m": "60 м.",
+        "80 m": "80 м.",
+        "70 m": "70 м."
     }
 }
