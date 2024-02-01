@@ -799,7 +799,12 @@
             "Czy w tej sytuacji zbliżasz się do przejścia dla pieszych, które jest szczególnie uczęszczane przez dzieci?": "В данной ситуации вы приближаетесь к пешеходному переходу, который особенно часто используется детьми?",
             "Czy linia złożona z prostokątów oznacza miejsce zatrzymania pojazdu przed przejściem dla pieszych?": "Означает ли линия, составленная из прямоугольников, место остановки транспортного средства перед пешеходным переходом?",
             "Czy włączając się do ruchu po zabraniu pasażera, masz pierwszeństwo przed nadjeżdżającym pojazdem, który skręca w lewo na stanowisko postojowe?": "Включаясь в движение после посадки пассажира, имеете ли вы преимущество перед приближающимся ТС, которое поворачивает налево на стоянку?",
-            "Czy w tej sytuacji przed wykonaniem skrętu w lewo należy zbliżyć się do środka jezdni?": "В этой ситуации перед выполнением поворота налево нужно приблизиться к центру проезжей части?"
+            "Czy w tej sytuacji przed wykonaniem skrętu w lewo należy zbliżyć się do środka jezdni?": "В этой ситуации перед выполнением поворота налево нужно приблизиться к центру проезжей части?",
+            "Czy w tej sytuacji wyprzedzanie rowerzysty jest zabronione?": "Запрещается ли в этой ситуации обгон велосипедиста?",
+            "Czy w tej sytuacji masz obowiązek zawsze zatrzymać pojazd przed przejazdem kolejowym?": "В данной ситуации обязаны ли вы всегда останавливать транспортное средство перед железнодорожным переездом?",
+            "Zamierzasz wjechać do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszym?": "Вы собираетесь заехать на ворота. Вы обязаны уступить дорогу пешеходам?",
+            "Czy w tej sytuacji masz prawo kilkukrotnie użyć sygnału dźwiękowego, zamiast zatrzymać pojazd?": "Имеешь ли ты право в данной ситуации несколько раз использовать звуковой сигнал, вместо остановки транспортного средства?",
+            "Czy w tej sytuacji wyprzedzanie jest zabronione?": "В данной ситуации обгон запрещен?"
         }
     },
     "not_approved": {
@@ -897,7 +902,6 @@
         "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszych?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешеходов?",
         "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
-        "Czy w tej sytuacji wyprzedzanie rowerzysty jest zabronione?": "Запрещается ли в этой ситуации обгон велосипедиста?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?",
