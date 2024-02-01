@@ -761,7 +761,11 @@
             "W przedstawionej sytuacji zamierzasz skręcić w prawo. Czy musisz zatrzymać się w wyznaczonym miejscu przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь повернуть направо. Должны ли вы остановиться в указанном месте перед въездом на перекресток?",
             "Czy w tej sytuacji jadąc w tunelu za pojazdem szynowym, masz obowiązek zachować szczególną ostrożność?": "В данной ситуации, двигаясь в туннеле за железнодорожным транспортом, обязан ли ты соблюдать особую осторожность?",
             "Czy w przedstawionej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В данной ситуации тебе разрешается ехать прямо через перекресток?",
-            "Czy postój w tym miejscu jest dozwolony?": "Разрешена ли остановка в этом месте?"
+            "Czy postój w tym miejscu jest dozwolony?": "Разрешена ли остановка в этом месте?",
+            "Czy w tej sytuacji możesz przyspieszyć, jeżeli nie przekroczysz prędkości dozwolonej na tej drodze?": "Можете ли вы разогнаться, если не превысите скорость, разрешенную на этой дороге?",
+            "Czy ten znak ostrzega o zbliżaniu się do obiektów z materiałami niebezpiecznymi?": "Этот знак предупреждает о приближении к объектам с опасными материалами?",
+            "Czy warunki atmosferyczne to czynnik, który należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли погодные условия фактором, который следует учитывать при выборе скорости движения?",
+            "Nie": "Не."
         }
     },
     "not_approved": {
@@ -1107,7 +1111,6 @@
         "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
-        "Czy w tej sytuacji możesz przyspieszyć, jeżeli nie przekroczysz prędkości dozwolonej na tej drodze?": "Можете ли вы разогнаться, если не превысите скорость, разрешенную на этой дороге?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?",
         "Czy w tej sytuacji możesz wyprzedzać?": "Можете ли вы опережать в этой ситуации?",
@@ -1514,7 +1517,6 @@
         "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
         "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
         "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете ТС с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
-        "Czy ten znak ostrzega o zbliżaniu się do obiektów z materiałami niebezpiecznymi?": "Этот знак предупреждает о приближении к объектам с опасными материалами?",
         "Znak dotyczy pojazdów przewożących materiały wybuchowe lub łatwopalne": "Знак относится к транспортным средствам, перевозящим взрывчатые материалы или легковоспламеняющиеся.",
         "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
         "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
@@ -1668,7 +1670,6 @@
         "O kolejny miesiąc": "На следующий месяц.",
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит срок задержания водительского удостоверения, если вы были остановлены для проверки, когда управляли транспортным средством, несмотря на то, что ранее ваше водительское удостоверение было задержано на три месяца за перевозку людей в количестве, превышающем на два количество мест, указанное в свидетельстве о регистрации легкового автомобиля?",
-        "Nie": "Не.",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
         "Tak, jeżeli trzonek źródła światła pasuje do oprawki w reflektorze": "Да, если цоколь источника света подходит к патрону в фаре.",
@@ -2287,7 +2288,6 @@
         "Usterka modułu elektronicznego hamulca ręcznego": "Неисправность электронного модуля стояночного тормоза.",
         "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Czy prędkość dopuszczalna 50 km\/h obowiązuje na obszarze zabudowanym przez całą dobę?": "Действует ли ограничение скорости 50 км\/ч в населенном пункте круглосуточно?",
-        "Czy warunki atmosferyczne to czynnik, który należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли погодные условия фактором, который следует учитывать при выборе скорости движения?",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
