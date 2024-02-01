@@ -698,7 +698,13 @@
             "Czy w tej sytuacji dozwolone jest zawracanie na skrzyżowaniu?": "В данной ситуации разрешено ли разворачиваться на перекрестке?",
             "Zakaz skrętu w lewo uniemożliwia również zawracanie": "Запрет на поворот налево также не разрешает разворот.",
             "Czy w tej sytuacji jesteś informowany, że poruszasz się drogą jednokierunkową?": "В данной ситуации вас информируют о том, что вы движетесь по односторонней дороге?",
-            "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак обязательного направления движения прямо."
+            "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак обязательного направления движения прямо.",
+            "Czy w tej sytuacji masz prawo wjechać na drogę za tym znakiem pionowym, jeżeli nie utrudnisz ruchu innym pojazdom?": "Имеете ли вы право въехать на дорогу за этим вертикальным знаком, если вы не будете мешать движению других ТС?",
+            "Widoczny znak to zakaz wjazdu": "Видимый знак - это знак запрещения въезда.",
+            "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
+            "Znak \"STOP\" nakłada obowiązek zatrzymania się": "Знак \"СТОП\" обязывает остановиться.",
+            "Czy w tej sytuacji masz prawo pojechać prosto przez skrzyżowanie?": "В данной ситуации разрешено ли вам двигаться прямо через перекресток?",
+            "Znak nakazu uniemożliwia jazdę prosto": "Знак обязательного направления запрещает движение прямо."
         }
     },
     "not_approved": {
@@ -743,7 +749,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
-        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
@@ -1338,11 +1343,6 @@
         "Czy ten znak zakazu zabrania Ci skrętu w prawo na najbliższym skrzyżowaniu?": "Запрещает ли этот знак запрещающий поворот направо на ближайшем перекрестке?",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-        "Czy w tej sytuacji masz prawo wjechać na drogę za tym znakiem pionowym, jeżeli nie utrudnisz ruchu innym pojazdom?": "Имеете ли вы право въехать на дорогу за этим вертикальным знаком, если вы не будете мешать движению других ТС?",
-        "Widoczny znak to zakaz wjazdu": "Видимый знак - это знак запрещения въезда.",
-        "Znak \"STOP\" nakłada obowiązek zatrzymania się": "Знак \"СТОП\" обязывает остановиться.",
-        "Czy w tej sytuacji masz prawo pojechać prosto przez skrzyżowanie?": "В данной ситуации разрешено ли вам двигаться прямо через перекресток?",
-        "Znak nakazu uniemożliwia jazdę prosto": "Знак обязательного направления запрещает движение прямо.",
         "Zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка должна произойти перед линией остановки или в месте с наилучшей видимостью.",
         "Czy w tej sytuacji, skręcając w prawo, możesz wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации, поворачивая направо, можешь ли ты въехать на перекресток без остановки?",
         "Znak widoczny na zdjęciu zabrania skrętu w prawo": "Знак, видимый на фотографии, запрещает поворот направо.",
