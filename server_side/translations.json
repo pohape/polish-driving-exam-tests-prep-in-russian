@@ -837,7 +837,9 @@
             "Utrata sterowności": "Потеря управляемости.",
             "Sprawdzi Twoje dane zgromadzone w Centralnej Ewidencji Kierowców": "Проверит ваши данные, собранные в Центральном Реестре Водителей.",
             "Ukarać mandatem karnym za brak wymaganych dokumentów": "Наказать штрафом за отсутствие необходимых документов.",
-            "Czy dozwolone jest oddalanie się od pojazdu, gdy jego silnik jest w ruchu?": "Разрешается ли удаляться от автомобиля, когда его двигатель запущен и работает?"
+            "Czy dozwolone jest oddalanie się od pojazdu, gdy jego silnik jest w ruchu?": "Разрешается ли удаляться от автомобиля, когда его двигатель запущен и работает?",
+            "Tak, pod warunkiem, że pojazd pozostaje w polu widzenia": "Да, при условии, что транспортное средство остается в поле зрения.",
+            "Tak, na czas nie dłuższy niż 1 minutę": "Да, на время не дольше чем 1 минуту."
         }
     },
     "not_approved": {
@@ -2402,7 +2404,6 @@
         "W tym przypadku należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "В этом случае необходимо наложить стерильный давящий бинт из марли и иммобилизировать.",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
         "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час.",
-        "Tak, na czas nie dłuższy niż 1 minutę": "Да, на время не дольше чем 1 минуту.",
-        "Tak, pod warunkiem, że pojazd pozostaje w polu widzenia": "Да, при условии, что транспортное средство остается в поле зрения."
+        "Która z wymienionym kategorii uprawnia do kierowania czterokołowcem innym niż lekki?": "Какая из перечисленных категорий даёт право на управление так называемым \"czterokołowcem\" иным, чем лёгкий?"
     }
 }
