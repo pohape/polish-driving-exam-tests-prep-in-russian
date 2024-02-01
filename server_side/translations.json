@@ -1,7 +1,9 @@
 {
     "incorrect": {
         "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций подтверждение остановки права управления транспортным средством уполномочивает на управление транспортным средством в течение 7 дней?",
-        "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге."
+        "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге.",
+        "Czy widoczny na skrzyżowaniu sygnał zielony oznacza bezkolizyjny skręt w lewo?": "Означает ли зеленый сигнал, видимый на перекрестке, без столкновений левый поворот?",
+        "Czy w tej sytuacji nadawany sygnał świetlny zabrania Ci wjazdu za sygnalizator?": "В данной ситуации, излучаемый светофором световой сигнал запрещает тебе въезжать за светофор?"
     },
     "approved": {
         "kontrolujący": {
@@ -899,7 +901,6 @@
         "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
         "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
-        "Czy widoczny na skrzyżowaniu sygnał zielony oznacza bezkolizyjny skręt w lewo?": "Означает ли зеленый сигнал, видимый на перекрестке, без столкновений левый поворот?",
         "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
         "Sygnał ten oznacza, że za chwilę zapali się sygnał czerwony": "Этот сигнал означает, что через некоторое время загорится красный сигнал.",
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
@@ -2492,6 +2493,7 @@
         "Poruszasz się z prędkością 110 km\/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы движетесь со скоростью 110 км\/ч. Обязаны ли вы в этой ситуации снизить скорость?",
         "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
-        "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?"
+        "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
+        "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?"
     }
 }
