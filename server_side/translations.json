@@ -732,7 +732,10 @@
             "Kiedy, w tej sytuacji, wolno Ci powrócić na prawy pas ruchu, po wykonaniu manewru wyprzedzania?": "В какой ситуации тебе разрешается вернуться на правую полосу движения после выполнения маневра обгона?",
             "Po upewnieniu się, że nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "После убеждения в том, что это не заставит водителя обгоняемого транспортного средства тормозить или менять направление движения.",
             "W przypadku krwotoku": "В случае кровоизлияния.",
-            "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu": "Документ подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства."
+            "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu": "Документ подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства.",
+            "Kierujący pojazdem": "Водитель транспортного средства.",
+            "Zmniejszanie prędkości pojazdu": "Уменьшение скорости транспортного средства.",
+            "Stres kierowcy": "Стресс водителя."
         }
     },
     "not_approved": {
@@ -2274,7 +2277,6 @@
         "Czy warunki atmosferyczne to czynnik, który należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли погодные условия фактором, который следует учитывать при выборе скорости движения?",
         "Kobieta w widocznej ciąży": "Женщина с видимой беременностью.",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
-        "Kierujący pojazdem": "Водитель транспортного средства.",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
         "Orzeczenie psychologiczne": "Психологическое заключение.",
@@ -2330,6 +2332,8 @@
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
-        "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?"
+        "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?",
+        "Jakie czynniki wpływają na poprawę pola widzenia?": "Какие факторы влияют на улучшение поля зрения?",
+        "Zwiększanie prędkości pojazdu": "Увеличение скорости транспортного средства."
     }
 }
