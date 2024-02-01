@@ -862,7 +862,8 @@
             "Czy na tej drodze jest ustalona maksymalna prędkość, z jaką może jechać samochód osobowy?": "Установлена ли на этой дороге максимальная скорость, с которой может двигаться легковой автомобиль?",
             "Tak, 140 km\/h": "Да, 140 км\/ч.",
             "Tak, 130 km\/h": "Да, 130 км\/ч.",
-            "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszego?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешехода?"
+            "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszego?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешехода?",
+            "Czy umieszczona pod tym znakiem informacyjnym tabliczka wskazuje układ dróg podporządkowanych?": "Указывает ли табличка, расположенная под этим информационным знаком, на схему второстепенных дорог?"
         }
     },
     "not_approved": {
@@ -1651,7 +1652,6 @@
         "Czy w tym miejscu wolno Ci skręcić w lewo i wjechać na stację paliw?": "Вам разрешено здесь повернуть налево и заехать на заправочную станцию?",
         "Zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia": "Запрет, выраженный знаком, действует с места его установки.",
         "Czy w tej sytuacji masz prawo powoli kontynuować jazdę, uważając na pieszych?": "В данной ситуации имеешь ли ты право медленно продолжить движение, будучи внимательным к пешеходам?",
-        "Czy umieszczona pod tym znakiem informacyjnym tabliczka wskazuje układ dróg podporządkowanych?": "Указывает ли табличка, расположенная под этим информационным знаком, на схему второстепенных дорог?",
         "Czy widoczny w przedstawionej sytuacji zakaz zatrzymywania dotyczy także chodnika?": "Относится ли видимый в представленной ситуации запрет на остановку также к тротуару?",
         "Czy w tej sytuacji masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "В этой ситуации имеете ли вы право остановить легковой автомобиль колесами одной стороны на тротуаре?",
         "Czy uczestnicząc w wypadku, w którym są ranni, masz obowiązek usunąć swój pojazd z miejsca zdarzenia, aby nie utrudniał ruchu?": "Обязаны ли вы убрать свой автомобиль с места происшествия, где есть пострадавшие, чтобы не мешать движению?",
@@ -2460,6 +2460,12 @@
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
         "Czy zabrania się cofania pojazdem w tunelu, na moście i wiadukcie?": "Запрещается ли движение задним ходом транспортным средством в туннеле, на мосту и на эстакаде?",
         "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?": "Во время буксировки транспортного средства разрешено ли тебе использовать аварийные огни?",
-        "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?"
+        "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?",
+        "Za omijanie pojazdu z naruszeniem podwójnej linii ciągłej": "За обгон транспортного средства с нарушением двойной сплошной линии.",
+        "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
+        "Tylko na znaki zakazu": "Только на знаки запрета.",
+        "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
+        "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге.",
+        "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?"
     }
 }
