@@ -2545,6 +2545,9 @@
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
         "Jaki może być skutek zużycia amortyzatorów kół kierowanych?": "Каким может быть результат износа амортизаторов управляемых колёс?",
-        "Zwiększenie przyczepności kół do jezdni": "Увеличение сцепления колёс с проезжей частью."
+        "Zwiększenie przyczepności kół do jezdni": "Увеличение сцепления колёс с проезжей частью.",
+        "Na tym skrzyżowaniu pierwszeństwo mają pojazdy poruszające się wokół wyspy. (Znak \"ustąp pierwszeństwa\" przed wjazdem na skrzyżowanie)": "На этом перекрестке преимущество имеют ТС, двигающиеся вокруг островка. (Знак \"уступи дорогу\" перед въездом на перекресток)",
+        "Poruszamy się drogą podporządkowaną. (Znak \"STOP\")": "Мы движемся по второстепенной дороге. (Знак \"СТОП\")",
+        "Przy wyprzedzaniu kolumny pieszych i pojazdów jednośladowych należy zachować odstęp nie mniejszy niż 1 metr": "При обгоне колонны пешеходов и одноколейных транспортных средств необходимо соблюдать интервал не менее 1 метра."
     }
 }
