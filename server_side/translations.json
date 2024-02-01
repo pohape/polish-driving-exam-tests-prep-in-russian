@@ -2471,6 +2471,14 @@
         "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?": "На какой дороге водителя обязует соблюдение строго определенного минимального расстояния от впереди идущего ТС?",
         "Na drodze ekspresowej": "На \"drodze ekspresowej\".",
         "Na drodze jednojezdniowej poza obszarem zabudowanym": "На дороге с одной проезжей частью вне населённого пункта.",
-        "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения."
+        "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
+        "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
+        "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
+        "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?",
+        "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос.",
+        "Numer telefonu informującego": "Номер телефона информирующего.",
+        "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности.",
+        "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
+        "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?"
     }
 }
