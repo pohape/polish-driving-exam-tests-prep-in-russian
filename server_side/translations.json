@@ -16,7 +16,9 @@
         "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какое минимальное расстояние до впереди идущего транспортного средства вы должны сохранять, стоя в туннеле в дорожной пробке, так называемом заторе?",
         "Czy w przedstawionej sytuacji pojazd jadący z przeciwka ma pierwszeństwo?": "Имеет ли ТС, идущий навстречу, преимущество в представленной ситуации?",
         "Czy widoczny na jezdni napis \"STOP\" potwierdza oznakowanie wlotu na skrzyżowanie znakiem pionowym \"stop\"?": "Видимая на проезжей части надпись \"STOP\" подтверждает разметку на въезде на перекресток вертикальным знаком \"стоп\"?",
-        "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\""
+        "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "\"Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь идти прямо?\"",
+        "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Выезжая на эту проезжую часть, можете ли вы занять полосу движения, обозначенную горизонтальной разметкой слева?",
+        "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к более быстрой езде?"
     },
     "approved": {
         "zatoka": {
@@ -755,7 +757,8 @@
             "Czy w tej sytuacji z pasa ruchu, który zajmujesz, dozwolone jest wykonanie skrętu w prawo?": "Разрешен ли в данной ситуации поворот направо с полосы движения, на которой вы находитесь?",
             "Czy w tej sytuacji powinieneś zmienić pas ruchu na środkowy, jeśli chcesz jechać na wprost?": "В данной ситуации должен ли ты перестроиться на среднюю полосу, если хочешь ехать прямо?",
             "Czy w tej sytuacji należy zachować szczególną ostrożność?": "Нужно ли быть особенно осторожным в этой ситуации?",
-            "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?"
+            "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?",
+            "W przedstawionej sytuacji zamierzasz skręcić w prawo. Czy musisz zatrzymać się w wyznaczonym miejscu przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь повернуть направо. Должны ли вы остановиться в указанном месте перед въездом на перекресток?"
         }
     },
     "not_approved": {
@@ -1441,7 +1444,6 @@
         "Znak informuje o początku drogi ekspresowej": "Знак информирует о начале \"drogi ekspresowej\".",
         "Czy w tej sytuacji, kierując samochodem osobowym, masz prawo kontynuować jazdę prawym pasem ruchu?": "В данной ситуации, управляя легковым автомобилем, имеете ли вы право продолжать движение по правой полосе движения?",
         "W tej sytuacji prawy pas jest przeznaczony dla pojazdów określonych na znaku": "В этой ситуации правая полоса предназначена для транспортных средств, указанных на знаке.",
-        "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Выезжая на эту проезжую часть, можете ли вы занять полосу движения, обозначенную горизонтальной разметкой слева?",
         "Zabrania się najeżdżania na linię ciągłą": "Запрещается наезжать на сплошную линию.",
         "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Вы имеете право продолжить движение прямо, двигаясь по этой полосе движения?",
         "Ten pas służy do krętu w lewo": "Эта полоса предназначена для поворота налево.",
