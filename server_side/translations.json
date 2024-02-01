@@ -6,7 +6,9 @@
         "Czy zakaz wyrażony tym znakiem obowiązuje za najbliższym skrzyżowaniem?": "Запрещает ли этот знак движение после ближайшего перекрестка?",
         "Zakaz zawracania umożliwia wykonanie skrętu w lewo": "Знак \"Запрещено разворот\" разрешает выполнение поворота налево.",
         "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
-        "Czy zatrzymanie pojazdu na wiadukcie w celu wysadzenia pasażera jest zabronione?": "Запрещено ли останавливать автомобиль на эстакаде, чтобы взорвать пассажира?"
+        "Czy zatrzymanie pojazdu na wiadukcie w celu wysadzenia pasażera jest zabronione?": "Запрещено ли останавливать автомобиль на эстакаде, чтобы взорвать пассажира?",
+        "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po lewej stronie jezdni?": "Сообщают ли вам эти знаки о конце полосы движения слева от проезжей части в данной ситуации?",
+        "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?"
     },
     "approved": {
         "zatoka": {
@@ -721,7 +723,9 @@
             "Czy w tej sytuacji zamierzając kontynuować jazdę prosto przez skrzyżowanie masz obowiązek zatrzymać się przed znakiem „STOP”?": "В этой ситуации, намереваясь продолжить движение прямо через перекресток, вы обязаны остановиться перед знаком \"СТОП\"?",
             "Sygnalizacja świetlna zdejmuje obowiązek zastosowania się do znaku \"STOP\"": "Светофор освобождает от обязанности соблюдения знака \"СТОП\".",
             "Na pasie dzielącym jezdnie umieszczono zakaz zawracania": "На полосе, разделяющей проезжую часть, был установлен запрет на разворот.",
-            "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania drogą podporządkowaną?": "В представленной ситуации ты приближаешься к перекрестку по второстепенной дороге?"
+            "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania drogą podporządkowaną?": "В представленной ситуации ты приближаешься к перекрестку по второстепенной дороге?",
+            "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu?": "В представленной ситуации вы обязаны уступить дорогу пешеходу?",
+            "Czy w tej sytuacji możesz wjechać na przejazd kolejowy?": "Можете ли вы в этой ситуации въехать на железнодорожный переезд?"
         }
     },
     "not_approved": {
@@ -1447,7 +1451,6 @@
         "Znak informacyjny informuje o przejeździe dla rowerzystów i przejściu dla pieszych": "Информационный знак информирует о велосипедном переезде и пешеходном переходе.",
         "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
         "Strzałki naprowadzające zobowiązują do powrotu na prawą część jezdni": "Стрелки направления обязывают вернуться на правую часть проезжей части.",
-        "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?",
         "Wyjeżdżając ze strefy zamieszkania, a także z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде из зоны жилой застройки, а также с внутренней дороги происходит включение в движение.",
         "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
         "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
@@ -1513,7 +1516,6 @@
         "Czy w tej sytuacji jesteś informowany o zbliżaniu się do punktu poboru opłat za przejazd autostradą?": "В этой ситуации вы информированы о приближении к пункту сбора платы за проезд по автостраде?",
         "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
         "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
-        "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po lewej stronie jezdni?": "Сообщают ли вам эти знаки о конце полосы движения слева от проезжей части в данной ситуации?",
         "Czy w tej sytuacji znaki informują Cię o końcu drogi ekspresowej?": "В данной ситуации знаки информируют вас о конце \"drogi ekspresowej\"?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
         "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
@@ -2321,6 +2323,7 @@
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy bez zatrzymania po upewnieniu się, że nie nadjeżdża pojazd szynowy?": "Имеете ли вы право в данной ситуации въехать на железнодорожный переезд без остановки после убеждения, что не приближается железнодорожный транспорт?",
-        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?"
+        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
+        "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?"
     }
 }
