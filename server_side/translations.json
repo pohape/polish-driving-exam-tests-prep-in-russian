@@ -728,7 +728,9 @@
             "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu?": "В представленной ситуации вы обязаны уступить дорогу пешеходу?",
             "Czy w tej sytuacji możesz wjechać na przejazd kolejowy?": "Можете ли вы в этой ситуации въехать на железнодорожный переезд?",
             "Czy w tej sytuacji, zbliżając się do skrzyżowania, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, приближаясь к перекрестку, ты освобожден от обязанности проявлять особую осторожность?",
-            "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?"
+            "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?",
+            "Kiedy, w tej sytuacji, wolno Ci powrócić na prawy pas ruchu, po wykonaniu manewru wyprzedzania?": "В какой ситуации тебе разрешается вернуться на правую полосу движения после выполнения маневра обгона?",
+            "Po upewnieniu się, że nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "После убеждения в том, что это не заставит водителя обгоняемого транспортного средства тормозить или менять направление движения."
         }
     },
     "not_approved": {
@@ -2325,6 +2327,8 @@
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy bez zatrzymania po upewnieniu się, że nie nadjeżdża pojazd szynowy?": "Имеете ли вы право в данной ситуации въехать на железнодорожный переезд без остановки после убеждения, что не приближается железнодорожный транспорт?",
         "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
-        "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?"
+        "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
+        "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
+        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале."
     }
 }
