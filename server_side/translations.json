@@ -3,7 +3,8 @@
         "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций подтверждение остановки права управления транспортным средством уполномочивает на управление транспортным средством в течение 7 дней?",
         "Rodzaj nawierzchni oraz warunki panujące na drodze": "Вид дорожного покрытия и условия, царящие на дороге.",
         "Czy widoczny na skrzyżowaniu sygnał zielony oznacza bezkolizyjny skręt w lewo?": "Означает ли зеленый сигнал, видимый на перекрестке, без столкновений левый поворот?",
-        "Czy w tej sytuacji nadawany sygnał świetlny zabrania Ci wjazdu za sygnalizator?": "В данной ситуации, излучаемый светофором световой сигнал запрещает тебе въезжать за светофор?"
+        "Czy w tej sytuacji nadawany sygnał świetlny zabrania Ci wjazdu za sygnalizator?": "В данной ситуации, излучаемый светофором световой сигнал запрещает тебе въезжать за светофор?",
+        "Wyłącznie jałową gazę": "Только холостую передачу."
     },
     "approved": {
         "kontrolujący": {
@@ -2511,6 +2512,11 @@
         "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
         "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
         "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
-        "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС."
+        "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС.",
+        "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя во время обгона автомобилем легковым ночью другого транспортного средства?",
+        "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?": "Какое расстояние необходимо сохранять при обгоне легковым автомобилем другого транспортного средства?",
+        "Jodynę i gencjanę": "Йодин и генциану.",
+        "Opatrunek uciskowy z gazy lub bandaża": "Компрессионная повязка из марли или бинта.",
+        "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?"
     }
 }
