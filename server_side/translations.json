@@ -8,7 +8,8 @@
         "Czy zakaz wyrażony umieszczonym z prawej strony jezdni znakiem pionowym obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania włącznie?": "Запрещает ли вертикальный знак, размещенный с правой стороны дороги, движение от места его установки до ближайшего перекрестка включительно?",
         "Czy zatrzymanie pojazdu na wiadukcie w celu wysadzenia pasażera jest zabronione?": "Запрещено ли останавливать автомобиль на эстакаде, чтобы взорвать пассажира?",
         "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po lewej stronie jezdni?": "Сообщают ли вам эти знаки о конце полосы движения слева от проезжей части в данной ситуации?",
-        "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?"
+        "Czy wyjeżdżając za te znaki informacyjne włączasz się do ruchu?": "Вы въезжаете в поток транспорта за этими информационными знаками?",
+        "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?"
     },
     "approved": {
         "zatoka": {
@@ -725,7 +726,9 @@
             "Na pasie dzielącym jezdnie umieszczono zakaz zawracania": "На полосе, разделяющей проезжую часть, был установлен запрет на разворот.",
             "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania drogą podporządkowaną?": "В представленной ситуации ты приближаешься к перекрестку по второстепенной дороге?",
             "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu?": "В представленной ситуации вы обязаны уступить дорогу пешеходу?",
-            "Czy w tej sytuacji możesz wjechać na przejazd kolejowy?": "Можете ли вы в этой ситуации въехать на железнодорожный переезд?"
+            "Czy w tej sytuacji możesz wjechać na przejazd kolejowy?": "Можете ли вы в этой ситуации въехать на железнодорожный переезд?",
+            "Czy w tej sytuacji, zbliżając się do skrzyżowania, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, приближаясь к перекрестку, ты освобожден от обязанности проявлять особую осторожность?",
+            "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?"
         }
     },
     "not_approved": {
@@ -1237,7 +1240,6 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
-        "Czy w widocznej sytuacji masz prawo zawrócić na najbliższym skrzyżowaniu?": "Имеете ли вы право развернуться на ближайшем перекрестке в видимой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в представленной ситуации?",
         "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
         "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
@@ -2259,7 +2261,6 @@
         "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "Перевод фрагмента: \"В данной ситуации разрешено ли вам остановиться у края дороги перед знаком?\"",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
-        "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
         "Zatrzymanie prawa jazdy na okres 6 miesięcy": "Отзыв водительских прав на срок 6 месяцев.",
         "Zatrzymanie prawa jazdy na okres 3 miesięcy": "Отзыв водительских прав на срок 3 месяца.",
