@@ -730,7 +730,9 @@
             "Czy w tej sytuacji, zbliżając się do skrzyżowania, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, приближаясь к перекрестку, ты освобожден от обязанности проявлять особую осторожность?",
             "Czy w przedstawionej sytuacji znaki ostrzegają o nieoczekiwanej zmianie kierunku ruchu?": "В данной ситуации знаки предупреждают о неожиданном изменении направления движения?",
             "Kiedy, w tej sytuacji, wolno Ci powrócić na prawy pas ruchu, po wykonaniu manewru wyprzedzania?": "В какой ситуации тебе разрешается вернуться на правую полосу движения после выполнения маневра обгона?",
-            "Po upewnieniu się, że nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "После убеждения в том, что это не заставит водителя обгоняемого транспортного средства тормозить или менять направление движения."
+            "Po upewnieniu się, że nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "После убеждения в том, что это не заставит водителя обгоняемого транспортного средства тормозить или менять направление движения.",
+            "W przypadku krwotoku": "В случае кровоизлияния.",
+            "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu": "Документ подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства."
         }
     },
     "not_approved": {
@@ -1204,7 +1206,6 @@
         "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "W przypadku zmiażdżenia kończyny": "В случае раздавливания конечности.",
-        "W przypadku krwotoku": "В случае кровоизлияния.",
         "W przypadku wycieku krwistej wydzieliny z ucha": "В случае появления кровянистых выделений из уха.",
         "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи.",
         "Przez 15 minut": "На протяжении 15 минут.",
@@ -1731,7 +1732,6 @@
         "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu": "Документ подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства.",
         "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
         "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада.",
         "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
@@ -2329,6 +2329,7 @@
         "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
-        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале."
+        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
+        "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?"
     }
 }
