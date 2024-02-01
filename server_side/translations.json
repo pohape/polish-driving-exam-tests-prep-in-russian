@@ -23,7 +23,8 @@
         "Ile wynosi maksymalnie dopuszczalna długość zespołu pojazdów składającego się z samochodu ciężarowego o dopuszczalnej masie całkowitej do 3,5 tony i przyczepy kempingowej?": "Какова максимально допустимая длина автопоезда, состоящего из грузового автомобиля с разрешенной максимальной массой до 3,5 тонны и прицепа-дачи?",
         "Którą z wymienionych części ciała ma chronić zagłówek fotela pojazdu?": "Какую из перечисленных частей тела должна защищать подголовник сиденья транспортного средства?",
         "Włączenie świateł przeciwmgłowych tylnych": "Включение задних противотуманных фар.",
-        "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?"
+        "Jak powinien być ustawiony zagłówek?": "Как должно быть расположено изголовье?",
+        "Który z wymienionych czynników może powodować ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может вызывать ограничение поля зрения водителя легкового автомобиля?"
     },
     "approved": {
         "zatoka": {
@@ -777,7 +778,13 @@
             "Kręgosłup szyjny": "Шейный отдел позвоночника.",
             "Kość czołową": "Лобная кость",
             "Kość potyliczną": "Затылочная кость.",
-            "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?"
+            "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?",
+            "Tak, aby jego górna część znajdowała się na wysokości czubka głowy": "Так, чтобы его верхняя часть находилась на уровне макушки головы.",
+            "Tak, aby jego górna część znajdowała się powyżej czubka głowy": "Так, чтобы его верхняя часть находилась выше макушки головы.",
+            "Tak, aby jego górna część znajdowała się na wysokości szyi": "Да, чтобы его верхняя часть находилась на уровне шеи.",
+            "Zbyt nisko lub zbyt wysoko ustawiony fotel kierującego": "Слишком низко или слишком высоко установленное сиденье водителя.",
+            "Okulary przeciwsłoneczne używane w słoneczny dzień": "Солнцезащитные очки, используемые в солнечный день.",
+            "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки."
         }
     },
     "not_approved": {
@@ -1903,7 +1910,6 @@
         "Czy jako właściciel pojazdu masz obowiązek wskazać na żądanie uprawnionego organu, komu powierzyłeś pojazd do kierowania lub używania w określonym czasie?": "В качестве владельца транспортного средства, обязаны ли вы по требованию уполномоченного органа указать, кому вы доверили управление или использование транспортного средства в определенное время?",
         "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
         "Kierowanie pojazdem w stanie nietrzeźwości": "Управление транспортным средством в состоянии опьянения.",
-        "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Jaka pozycja za kierownicą umożliwi zmniejszenie efektu tzw. martwego pola w lusterkach, występującego w czasie obserwacji drogi?": "Какое положение за рулём позволит уменьшить эффект так называемого \"мёртвого поля\" в зеркалах, возникающего во время наблюдения за дорогой?",
@@ -2357,8 +2363,8 @@
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
-        "Tak, aby jego górna część znajdowała się na wysokości czubka głowy": "Так, чтобы его верхняя часть находилась на уровне макушки головы.",
-        "Tak, aby jego górna część znajdowała się na wysokości szyi": "Да, чтобы его верхняя часть находилась на уровне шеи.",
-        "Tak, aby jego górna część znajdowała się powyżej czubka głowy": "Так, чтобы его верхняя часть находилась выше макушки головы."
+        "Założyć opaskę uciskową powyżej rany": "Наложить жгут выше раны.",
+        "Unieść rękę powyżej wysokości serca bez opatrywania": "Поднять руку выше уровня сердца без наложения повязки.",
+        "Zrobić opatrunek uciskowy jałowy z gazy i unieruchomić": "Сделать стерильный давящий бинт из марли и иммобилизировать."
     }
 }
