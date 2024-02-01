@@ -752,7 +752,10 @@
             "Który z wymienionych czynników ma bezpośredni wpływ na drogę hamowania?": "Какой из перечисленных факторов имеет прямое влияние на тормозной путь?",
             "Czy w tej sytuacji, skręcając w prawo, masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu z przeciwka pojazdowi, który skręca w lewo?": "В этой ситуации, поворачивая направо, обязаны ли вы уступить дорогу приближающемуся встречному ТС, которое поворачивает налево?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi?": "В этой ситуации обязаны ли вы уступить дорогу трамваю?",
-            "Czy w tej sytuacji z pasa ruchu, który zajmujesz, dozwolone jest wykonanie skrętu w prawo?": "Разрешен ли в данной ситуации поворот направо с полосы движения, на которой вы находитесь?"
+            "Czy w tej sytuacji z pasa ruchu, który zajmujesz, dozwolone jest wykonanie skrętu w prawo?": "Разрешен ли в данной ситуации поворот направо с полосы движения, на которой вы находитесь?",
+            "Czy w tej sytuacji powinieneś zmienić pas ruchu na środkowy, jeśli chcesz jechać na wprost?": "В данной ситуации должен ли ты перестроиться на среднюю полосу, если хочешь ехать прямо?",
+            "Czy w tej sytuacji należy zachować szczególną ostrożność?": "Нужно ли быть особенно осторожным в этой ситуации?",
+            "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?"
         }
     },
     "not_approved": {
@@ -903,7 +906,6 @@
         "Czy za tym znakiem \"strefa zamieszkania\" urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли за этим знаком \"зона проживания\" устройства, заставляющие медленное вождение, не быть помечены предупреждающими знаками?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
-        "Czy w tej sytuacji należy zachować szczególną ostrożność?": "Нужно ли быть особенно осторожным в этой ситуации?",
         "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
         "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?",
@@ -1880,7 +1882,6 @@
         "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
         "50 km\/h w obszarze zabudowanym obowiązuje przez całą dobę": "50 км\/ч в населённом пункте действует круглосуточно.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
-        "Czy zamierzając jechać na wprost, możesz wjechać na to skrzyżowanie z dowolnego pasa ruchu?": "Собираясь ехать прямо, можно ли вам въехать на этот перекресток с любой полосы движения?",
         "W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia": "В случае перехода через проезжую часть особы с ограниченными возможностями, использующей специальный знак, или особы с видимыми ограничениями подвижности, водитель обязан остановить транспортное средство, чтобы позволить ей перейти.",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом.",
