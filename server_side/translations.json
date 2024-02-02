@@ -887,7 +887,12 @@
             "Kto ma obowiązek korzystania z pasów bezpieczeństwa?": "Кто обязан пользоваться ремнями безопасности?",
             "Kierujący i wszyscy pasażerowie": "Водитель и все пассажиры.",
             "Od prędkości, z jaką jedziesz": "От скорости, с которой ты едешь.",
-            "Od mocy silnika w pojeździe": "От мощности двигателя в транспортном средстве."
+            "Od mocy silnika w pojeździe": "От мощности двигателя в транспортном средстве.",
+            "Od szerokości jezdni": "От ширины проезжей части.",
+            "Od czego, w szczególności, zależy bezpieczny odstęp, który powinieneś zachować w tej sytuacji?": "От чего, в частности, зависит безопасное расстояние, которое ты должен соблюдать в этой ситуации?",
+            "Szybkie i mocne wciśnięcie pedału hamulca": "Быстрое и сильное нажатие на педаль тормоза.",
+            "Pulsacyjne wciskanie pedału hamulca": "Пульсирующее нажатие на педаль тормоза.",
+            "Wciśnięcie pedału sprzęgła, a następnie pedału hamulca": "Нажатие педали сцепления, а затем педали тормоза."
         }
     },
     "not_approved": {
@@ -2421,9 +2426,6 @@
         "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
         "Udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
-        "Wciśnięcie pedału sprzęgła, a następnie pedału hamulca": "Нажатие педали сцепления, а затем педали тормоза.",
-        "Szybkie i mocne wciśnięcie pedału hamulca": "Быстрое и сильное нажатие на педаль тормоза.",
-        "Pulsacyjne wciskanie pedału hamulca": "Пульсирующее нажатие на педаль тормоза.",
         "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла.",
         "Zwiększenie pojemności silnika": "Увеличение объема двигателя.",
         "Jakie mogą być skutki nieszczelności układu wydechowego w pojeździe samochodowym?": "Какими могут быть последствия неисправности выхлопной системы в автомобиле?",
@@ -2582,8 +2584,6 @@
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "Nie, ponieważ w nocy ruch na drodze jest mniejszy": "Нет, потому что ночью движение на дороге меньше.",
         "Kierujący i pasażer - na przednim siedzeniu zawsze, a na tylnym tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Водитель и пассажир - на переднем сиденье всегда, а на заднем только тогда, когда транспортное средство движется за пределами населенного пункта.",
-        "Tylko kierujący i pasażer siedzący na przednim siedzeniu": "Только водитель и пассажир, сидящий на переднем сиденье.",
-        "Od szerokości jezdni": "От ширины проезжей части.",
-        "Od czego, w szczególności, zależy bezpieczny odstęp, który powinieneś zachować w tej sytuacji?": "От чего, в частности, зависит безопасное расстояние, которое ты должен соблюдать в этой ситуации?"
+        "Tylko kierujący i pasażer siedzący na przednim siedzeniu": "Только водитель и пассажир, сидящий на переднем сиденье."
     }
 }
