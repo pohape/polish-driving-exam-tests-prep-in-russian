@@ -988,7 +988,10 @@
             "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo?": "В данной ситуации разрешено ли вам повернуть направо?",
             "Znak umieszczony po skręcie w drogę poprzeczną oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, установленный после поворота на поперечную дорогу, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения.",
             "Czy w przedstawionej sytuacji jesteś obowiązany do zatrzymania się przed znakiem?": "В данной ситуации ты обязан остановиться перед знаком?",
-            "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?"
+            "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?",
+            "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo": "Знак, видимый на фотографии, означает запрет на поворот налево.",
+            "Czy na widocznym skrzyżowaniu wolno Ci zawrócić?": "На видимом перекрестке вам разрешено развернуться?",
+            "Znak widoczny na zdjęciu uniemożliwia skręt w lewo, jak również zawracanie": "Знак, видимый на фотографии, предотвращает поворот влево, а также разворот."
         }
     },
     "not_approved": {
@@ -1339,7 +1342,6 @@
         "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
         "Czy kierujący właściwie zabezpieczył pojazd na czas postoju?": "Правильно ли водитель закрепил автомобиль на остановке?",
         "Czy na drodze za tym znakiem masz prawo zaparkować samochód w dowolnym miejscu na jezdni, jeśli nie utrudni to ruchu innych pojazdów i pieszych?": "На дороге за этим знаком имеете ли вы право припарковать машину в любом месте на проезжей части, если это не мешает движению других транспортных средств и пешеходов?",
-        "Czy na widocznym skrzyżowaniu wolno Ci zawrócić?": "На видимом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
@@ -1359,7 +1361,6 @@
         "Na odstęp od jadących z tyłu pojazdów": "На расстоянии от идущих сзади транспортных средств.",
         "Kluczyki w stacyjce": "Ключи в замке зажигания.",
         "Zabrania się postoju w strefie zamieszkania w innym miejscu niż wyznaczone w tym celu": "Запрещается находиться в зоне проживания в другом месте, чем указано для этой цели.",
-        "Znak widoczny na zdjęciu uniemożliwia skręt w lewo, jak również zawracanie": "Знак, видимый на фотографии, предотвращает поворот влево, а также разворот.",
         "Umieszczony przed przejazdem znak \"STOP\" B-20 zobowiązuje do zatrzymania": "Знак \"СТОП\" B-20, установленный перед проездом, обязывает к остановке.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
@@ -1497,7 +1498,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo": "Знак, видимый на фотографии, означает запрет на поворот налево.",
         "Czy ten znak zakazu umieszczony w obrębie skrzyżowania dotyczy tylko jezdni, przy której jest ustawiony?": "Знак запрета, установленный в пределах перекрестка, действует только на проезжую часть, у которой он расположен?",
         "Znak zakaz skrętu w lewo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот налево, расположенный в пределах перекрёстка, относится только к ближайшей проезжей части.",
         "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo w najbliższą jezdnię?": "Можешь ли ты в данной ситуации повернуть направо на ближайшую проезжую часть?",
