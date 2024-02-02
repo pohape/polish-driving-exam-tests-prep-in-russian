@@ -9,7 +9,8 @@
         "Czy w tej sytuacji, w warunkach znacznego zmniejszenia prędkości na jezdni, masz obowiązek umożliwić wjazd pojazdowi ciężarowemu z przyczepą?": "В этой ситуации, в условиях значительного снижения скорости на проезжей части, вы обязаны разрешить въезд грузовому транспортному средству с прицепом?",
         "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
         "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо.",
-        "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо."
+        "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо.",
+        "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки."
     },
     "approved": {
         "kontrolujący": {
@@ -916,7 +917,10 @@
             "Czy w widocznej sytuacji możesz wjechać na zwężony odcinek jezdni?": "В данной ситуации, можешь ли ты заехать на суженный участок проезжей части?",
             "Nic nie nadjeżdża z przeciwka": "Ничего не приближается с встречного направления.",
             "Czy widoczny w przedstawionej sytuacji znak zabrania skręcania w lewo na najbliższym skrzyżowaniu?": "Видимый на представленной ситуации знак запрещает поворот налево на ближайшем перекрестке?",
-            "Zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku": "Запрет остановки действует до места установки знака."
+            "Zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku": "Запрет остановки действует до места установки знака.",
+            "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "В представленной ситуации разрешено ли тебе остановиться у края тротуара перед знаком?",
+            "Czy w przedstawionej sytuacji wolno Ci się zatrzymać na chodniku przed znakiem?": "В представленной ситуации разрешено ли тебе остановиться на тротуаре перед знаком?",
+            "Czy w przedstawionej sytuacji za widocznym znakiem wolno Ci zatrzymać się kołami jednego boku na chodniku?": "Можешь ли ты в представленной ситуации остановиться колесами одной стороны на тротуаре за видимым знаком?"
         }
     },
     "not_approved": {
@@ -2612,6 +2616,8 @@
         "Kierujący pojazdem, zbliżając się do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnię": "Водитель транспортного средства при приближении к обозначенной остановке общественного транспорта на населенном пункте обязан снизить скорость и, в случае необходимости, остановиться, чтобы позволить водителю автобуса (троллейбуса) включиться в движение, если водитель такого транспортного средства сигнализацией поворотником выражает намерение изменить полосу движения или выехать с остановки общественного транспорта на проезжую часть.",
         "Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni": "Если пешеходный переход обозначен на дороге с двумя проезжими частями, переход на каждой проезжей части считается отдельным переходом. Это правило применяется соответственно к пешеходному переходу в месте, где движение транспортных средств разделено островком безопасности или с помощью других устройств на проезжей части.",
         "Pojazd jadący z przeciwnego kierunku jest dość daleko i nie porusza się szybko. Nie dojdzie do wymuszenia": "ТС, движущееся с противоположного направления, находится достаточно далеко и не двигается быстро. Не будет нарушения правил.",
-        "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "В представленной ситуации разрешено ли тебе остановиться у края тротуара перед знаком?"
+        "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych. Kierujący na lewym pasie powinni zjechać na lewo, a kierujący z pozostałych pasów na prawą stronę": "Создание коридора жизни заключается в обеспечении пространства на дороге для проезда транспортных средств аварийно-спасательных служб. Водители, движущиеся по левой полосе, должны уступить дорогу влево, а водители на остальных полосах - вправо.",
+        "W tej sytuacji należy zastosować zasadę ograniczonego zaufania": "В этой ситуации следует применять принцип ограниченного доверия.",
+        "Czy w przedstawionej sytuacji wolno Ci zatrzymać pojazd kołami jednego boku na drodze dla rowerów?": "В данной ситуации разрешается ли вам остановить автомобиль колёсами одной стороны на велосипедной дорожке?"
     }
 }
