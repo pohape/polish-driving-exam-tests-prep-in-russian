@@ -920,7 +920,12 @@
             "Zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku": "Запрет остановки действует до места установки знака.",
             "Czy w przedstawionej sytuacji wolno Ci się zatrzymać przy krawężniku przed znakiem?": "В представленной ситуации разрешено ли тебе остановиться у края тротуара перед знаком?",
             "Czy w przedstawionej sytuacji wolno Ci się zatrzymać na chodniku przed znakiem?": "В представленной ситуации разрешено ли тебе остановиться на тротуаре перед знаком?",
-            "Czy w przedstawionej sytuacji za widocznym znakiem wolno Ci zatrzymać się kołami jednego boku na chodniku?": "Можешь ли ты в представленной ситуации остановиться колесами одной стороны на тротуаре за видимым знаком?"
+            "Czy w przedstawionej sytuacji za widocznym znakiem wolno Ci zatrzymać się kołami jednego boku na chodniku?": "Можешь ли ты в представленной ситуации остановиться колесами одной стороны на тротуаре за видимым знаком?",
+            "Nie ma żadnych przeciwwskazań do wykonania wyprzedzania pojazdu szynowego": "Нет никаких противопоказаний к выполнению обгона железнодорожного транспорта.",
+            "Nie można wykorzystywać drogi dla rowerów do zatrzymania": "Нельзя использовать велосипедную дорожку для остановки.",
+            "Czy w przedstawionej sytuacji wolno Ci zatrzymać pojazd kołami jednego boku na drodze dla rowerów?": "Разрешено ли тебе в данной ситуации остановить транспортное средство колесами одной стороны на велосипедной дорожке?",
+            "Czy widoczny w przedstawionej sytuacji znak oznacza zakaz ruchu pojazdów, których wysokość (również z ładunkiem) jest większa od 3,1 metra?": "В представленной ситуации видимый знак означает ли запрет движения транспортных средств, высота которых (включая груз) больше 3,1 метра?",
+            "Znak zakazuje wjazdu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает въезд транспортных средств, высота которых вместе с грузом больше значения, указанного на знаке."
         }
     },
     "not_approved": {
@@ -2618,6 +2623,7 @@
         "Pojazd jadący z przeciwnego kierunku jest dość daleko i nie porusza się szybko. Nie dojdzie do wymuszenia": "ТС, движущееся с противоположного направления, находится достаточно далеко и не двигается быстро. Не будет нарушения правил.",
         "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych. Kierujący na lewym pasie powinni zjechać na lewo, a kierujący z pozostałych pasów na prawą stronę": "Создание коридора жизни заключается в обеспечении пространства на дороге для проезда транспортных средств аварийно-спасательных служб. Водители, движущиеся по левой полосе, должны уступить дорогу влево, а водители на остальных полосах - вправо.",
         "W tej sytuacji należy zastosować zasadę ograniczonego zaufania": "В этой ситуации следует применять принцип ограниченного доверия.",
-        "Czy w przedstawionej sytuacji wolno Ci zatrzymać pojazd kołami jednego boku na drodze dla rowerów?": "В данной ситуации разрешается ли вам остановить автомобиль колёсами одной стороны на велосипедной дорожке?"
+        "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
+        "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу."
     }
 }
