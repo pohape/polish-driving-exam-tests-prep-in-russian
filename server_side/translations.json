@@ -13,12 +13,11 @@
         "Zgodnie ze znakiem nakazu": "Согласно знаку приказания.",
         "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Снимает ли обязательное действие знак запрета на обгон на представленной дороге после окончания поворота?",
         "Zatrzymanie przed przejściem nie jest wymagane ze względu na brak pieszych. Ze względu na znak STOP zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка перед переходом не требуется из-за отсутствия пешеходов. Из-за знака СТОП остановка должна произойти перед линией останова или в месте с лучшей видимостью.",
-        "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где возможно изменение направления движения.",
-        "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязывает ли знак \"Обязательное движение прямо\" на ближайшем перекрестке или в месте, где возможно изменение направления движения?",
         "Takie zatrzymanie uniemożliwia znak \"Zakaz zatrzymywania\"": "Такую остановку запрещает знак \"Запрещено останавливаться\".",
         "Pod znakiem umieszczono tabliczkę wskazującą odległość znaku od miejsca w którym znak obowiązuje": "Под знаком установлена табличка, указывающая расстояние от знака до места, где знак действует.",
         "Czy ograniczenie prędkości określone tym znakiem obowiązuje tylko do najbliższego skrzyżowania?": "Обязывает ли ограничение скорости, указанное этим знаком, только до ближайшего перекрестка?",
-        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод на русский язык: \"Движение осуществляется в направлении, указанном стрелками на знаке C-12.\""
+        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод на русский язык: \"Движение осуществляется в направлении, указанном стрелками на знаке C-12.\"",
+        "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где есть возможность изменить направление движения."
     },
     "approved": {
         "kontrolujący": {
@@ -2666,6 +2665,7 @@
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч."
+        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
+        "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязует ли знак \"Проезд только прямо\" на ближайшем перекрестке или в месте, где есть возможность изменения направления движения?"
     }
 }
