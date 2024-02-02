@@ -954,7 +954,8 @@
             "Znaki drogowe ustawione przed skrzyżowaniem świadczą o tym, że pojazdy poruszające się wokół wyspy mają pierwszeństwo przejazdu": "Дорожные знаки, установленные перед перекрестком, свидетельствуют о том, что транспортные средства, движущиеся вокруг островка, имеют преимущество проезда.",
             "Czy widoczny znak informuje Cię, że wjeżdżasz na drogę jednokierunkową?": "Сообщает ли тебе видимый знак, что ты въезжаешь на дорогу с односторонним движением?",
             "Widoczny na nagraniu znak nakazuje jazdę z jego prawej strony": "Видимый на записи знак обязывает ехать с его правой стороны.",
-            "Czy na najbliższym skrzyżowaniu ruch odbywa się dookoła wyspy w obu kierunkach?": "На ближайшем перекрёстке движение осуществляется по кругу в обоих направлениях?"
+            "Czy na najbliższym skrzyżowaniu ruch odbywa się dookoła wyspy w obu kierunkach?": "На ближайшем перекрёстке движение осуществляется по кругу в обоих направлениях?",
+            "Czy zgodnie z wskazanym z prawej strony znakiem pionowym, masz obowiązek kontynuować jazdę prosto na najbliższym skrzyżowaniu?": "В соответствии с вертикальным знаком, указанным справа, вы обязаны продолжать движение прямо на ближайшем перекрестке?"
         }
     },
     "not_approved": {
@@ -1194,7 +1195,6 @@
         "AM": "АМ.",
         "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле.",
         "Minimalnie 1 m": "Минимум 1 м.",
-        "Czy zgodnie z wskazanym z prawej strony znakiem pionowym, masz obowiązek kontynuować jazdę prosto na najbliższym skrzyżowaniu?": "В соответствии с вертикальным знаком, указанным справа, вы обязаны продолжать движение прямо на ближайшем перекрестке?",
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
