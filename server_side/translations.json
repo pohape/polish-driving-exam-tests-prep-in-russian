@@ -16,7 +16,8 @@
         "Zatrzymanie przed przejściem nie jest wymagane ze względu na brak pieszych. Ze względu na znak STOP zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка перед переходом не требуется из-за отсутствия пешеходов. Из-за знака СТОП остановка должна произойти перед линией останова или в месте с лучшей видимостью.",
         "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где возможно изменение направления движения.",
         "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязывает ли знак \"Обязательное движение прямо\" на ближайшем перекрестке или в месте, где возможно изменение направления движения?",
-        "Takie zatrzymanie uniemożliwia znak \"Zakaz zatrzymywania\"": "Такую остановку запрещает знак \"Запрещено останавливаться\"."
+        "Takie zatrzymanie uniemożliwia znak \"Zakaz zatrzymywania\"": "Такую остановку запрещает знак \"Запрещено останавливаться\".",
+        "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek jezdni, jeżeli nie zmusisz tym nadjeżdżającego z przeciwka do zatrzymania się?": "Можете ли вы в этой ситуации заехать на суженный участок дороги, если это не заставит приближающееся встречное транспортное средство остановиться?"
     },
     "approved": {
         "kontrolujący": {
@@ -998,7 +999,9 @@
             "Znak zakaz skrętu w prawo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот направо, находящийся в пределах перекрестка, относится только к ближайшей проезжей части.",
             "Czy w przedstawionej sytuacji obowiązuje Cię zakaz zawracania od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie?": "В данной ситуации на вас распространяется ли запрет на разворот от места установки знака до ближайшего перекрестка включительно?",
             "Zakaz zawracania zabrania kierującym zawracania od miejsca ustawienia do najbliższego skrzyżowania włącznie": "Знак запрета разворота запрещает водителям производить разворот с места установки и до ближайшего перекрестка включительно.",
-            "Czy w tej sytuacji wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "В этой ситуации разрешено ли вам повернуть налево на ближайшем перекрестке?"
+            "Czy w tej sytuacji wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "В этой ситуации разрешено ли вам повернуть налево на ближайшем перекрестке?",
+            "Kierujesz samochodem ciężarowym o dopuszczalnej masie całkowitej nie przekraczającej 3,5 tony. Czy w przedstawionej sytuacji wolno Ci wyprzedzić samochód osobowy?": "Вы управляете грузовым автомобилем с допустимой полной массой не более 3,5 тонн. В представленной ситуации вам разрешено обгонять легковой автомобиль?",
+            "Znak drogowy B-26 \"zakaz wyprzedzania przez samochody ciężarowe\" zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t": "Дорожный знак B-26 \"запрещение обгона для грузовых автомобилей\" запрещает водителю грузового автомобиля с разрешенной максимальной массой свыше 3,5 тонн обгон многоколейных ТС."
         }
     },
     "not_approved": {
@@ -1225,7 +1228,6 @@
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
-        "Kierujesz samochodem ciężarowym o dopuszczalnej masie całkowitej nie przekraczającej 3,5 tony. Czy w przedstawionej sytuacji wolno Ci wyprzedzić samochód osobowy?": "Вы управляете грузовым автомобилем с допустимой полной массой не более 3,5 тонн. В представленной ситуации вам разрешено обгонять легковой автомобиль?",
         "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какой интервал следует соблюдать при обгоне мотоциклиста?",
         "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Получение водительского удостоверения в период, в течение которого оно дает право на вождение.",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
@@ -1505,8 +1507,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Znak drogowy B-26 \"zakaz wyprzedzania przez samochody ciężarowe\" zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t": "Дорожный знак B-26 \"запрещение обгона для грузовых автомобилей\" запрещает водителю грузового автомобиля с разрешенной максимальной массой свыше 3,5 тонн обгон многоколейных ТС.",
-        "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek jezdni, jeżeli nie zmusisz tym nadjeżdżającego z przeciwka do zatrzymania się?": "Можете ли вы в этой ситуации заехать на суженный участок дороги, если это не заставит приближающееся встречное транспортное средство остановиться?",
         "Znak widoczny na zdjęciu zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się lub zmiany toru jazdy": "Знак, видимый на фотографии, запрещает водителям въезжать или входить на суженный участок дороги, если это вынудило бы водителей, находящихся на этом участке или приближающихся к нему с противоположной стороны, остановиться или изменить направление движения.",
         "Czy w przedstawionej sytuacji umieszczona pod znakiem tabliczka wskazuje odległość znaku od miejsca, w którym masz obowiązek zatrzymania się?": "Указывает ли дополнительная табличка, установленная под знаком, расстояние от знака до места, где вы обязаны остановиться?",
         "Tabliczka wskazuje odległość znaku od miejsca, w którym należy się zatrzymać": "Табличка указывает расстояние от знака до места, где необходимо остановиться.",
