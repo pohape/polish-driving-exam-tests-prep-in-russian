@@ -958,7 +958,9 @@
             "Czy zgodnie z wskazanym z prawej strony znakiem pionowym, masz obowiązek kontynuować jazdę prosto na najbliższym skrzyżowaniu?": "В соответствии с вертикальным знаком, указанным справа, вы обязаны продолжать движение прямо на ближайшем перекрестке?",
             "Znak C-5 - nakaz jazdy prosto": "Знак C-5 - указание ехать прямо.",
             "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci kontynuować jazdę na wprost?": "В данной ситуации, управляя легковым автомобилем, разрешено ли тебе продолжить движение прямо?",
-            "Znak zakazu nie dotyczy samochodów osobowych": "Знак запрета не касается легковых автомобилей."
+            "Znak zakazu nie dotyczy samochodów osobowych": "Знак запрета не касается легковых автомобилей.",
+            "Kierujesz samochodem osobowym z przyczepą lekką. Czy wolno Ci wjechać na drogę za widocznym znakiem zakazu?": "Вы управляете легковым автомобилем с лёгким прицепом. Разрешено ли вам заехать на дорогу за видимым знаком запрета?",
+            "Znak nie dotyczy samochodów osobowych z przyczepą lekką": "Знак не касается легковых автомобилей с лёгким прицепом."
         }
     },
     "not_approved": {
@@ -2651,6 +2653,6 @@
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
         "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
-        "Kierujesz samochodem osobowym z przyczepą lekką. Czy wolno Ci wjechać na drogę za widocznym znakiem zakazu?": "Вы управляете легковым автомобилем с лёгким прицепом. Разрешено ли вам заехать на дорогу за видимым знаком запрета?"
+        "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении."
     }
 }
