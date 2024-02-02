@@ -1008,7 +1008,13 @@
             "Tabliczka wskazuje odległość znaku od miejsca, w którym należy się zatrzymać": "Табличка указывает расстояние от знака до места, где необходимо остановиться.",
             "Czy na widocznym skrzyżowaniu wolno Ci skręcić wyłącznie w lewo?": "На видимом перекрестке разрешен поворот только налево?",
             "Znak nakazu widoczny na zdjęciu zobowiązuje kierującego do jazdy w lewo za znakiem": "Знак обязательного движения, видимый на фотографии, обязывает водителя повернуть налево после знака.",
-            "Czy w tej sytuacji zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia?": "В данной ситуации действует ли запрет, указанный на знаке, начиная с места его установки?"
+            "Czy w tej sytuacji zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia?": "В данной ситуации действует ли запрет, указанный на знаке, начиная с места его установки?",
+            "Czy jadąc samochodem (bez przyczepy) o rzeczywistej masie całkowitej 3 t wolno Ci wjechać za ten znak?": "Разрешено ли Вам на автомобиле (без прицепа) с фактической полной массой 3 тонны въехать за этот знак?",
+            "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad 3 t": "Запрет въезда транспортных средств с фактическим общим весом более 3 тонн.",
+            "Czy wolno Ci zawrócić na najbliższym skrzyżowaniu?": "Разрешено ли Вам развернуться на ближайшем перекрестке?",
+            "Zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu. Zakaz skrętu w lewo uniemożliwia zawracanie": "Запрещено поворачивать налево на ближайшем перекрестке. Запрет на поворот налево не позволяет разворачиваться.",
+            "Czy w tej sytuacji wolno Ci skręcić w lewo za tym znakiem?": "В данной ситуации разрешено ли вам повернуть налево после этого знака?",
+            "Ten znak zobowiązuje do skrętu w prawo": "Этот знак обязывает повернуть направо."
         }
     },
     "not_approved": {
@@ -1544,12 +1550,6 @@
         "W związku z umieszczonym znakiem nakazu cała szerokość jezdni służy do skrętu w prawo": "В связи с установленным знаком обязательного направления вся ширина проезжей части используется для поворота направо.",
         "Czy wolno Ci wjechać na drogę za tym znakiem aby zawrócić?": "Вам разрешено въезжать на дорогу после этого знака, чтобы развернуться?",
         "Ten znak to \"Zakaz ruchu w obu kierunkach\"": "Этот знак - \"Движение запрещено в обоих направлениях\".",
-        "Czy jadąc samochodem (bez przyczepy) o rzeczywistej masie całkowitej 3 t wolno Ci wjechać za ten znak?": "Разрешено ли Вам на автомобиле (без прицепа) с фактической полной массой 3 тонны въехать за этот знак?",
-        "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad 3 t": "Запрет въезда транспортных средств с фактическим общим весом более 3 тонн.",
-        "Czy wolno Ci zawrócić na najbliższym skrzyżowaniu?": "Разрешено ли Вам развернуться на ближайшем перекрестке?",
-        "Zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu. Zakaz skrętu w lewo uniemożliwia zawracanie": "Запрещено поворачивать налево на ближайшем перекрестке. Запрет на поворот налево не позволяет разворачиваться.",
-        "Czy w tej sytuacji wolno Ci skręcić w lewo za tym znakiem?": "В данной ситуации разрешено ли вам повернуть налево после этого знака?",
-        "Ten znak zobowiązuje do skrętu w prawo": "Этот знак обязывает повернуть направо.",
         "Czy ograniczenie prędkości określone tym znakiem obowiązuje tylko do najbliższego skrzyżowania?": "Обязывает ли ограничение скорости, установленное этим знаком, только до ближайшего перекрестка?",
         "Znak widoczny na zdjęciu oznacza wjazd do strefy ograniczenia prędkości": "Знак, видимый на фотографии, означает въезд в зону ограничения скорости.",
         "Zakaz skrętu w lewo uniemożliwia zawracanie na najbliższym skrzyżowaniu": "Знак запрета поворота налево запрещает разворот на ближайшем перекрестке.",
