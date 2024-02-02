@@ -943,7 +943,9 @@
             "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можешь ли ты в представленной ситуации повернуть на видимом перекрестке налево?",
             "Znak zakazujący wyprzedzania obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania, znaku B-27 \"koniec zakazu wyprzedzania\" lub znaku B-42 \"koniec zakazów\"": "Знак запрещающий обгон действует с места его установки до ближайшего перекрестка, знака B-27 \"конец запрета на обгон\" или знака B-42 \"конец запретов\".",
             "Czy w przedstawionej sytuacji możesz skręcić w prawo?": "Можешь ли ты в данной ситуации повернуть направо?",
-            "Czy w tej sytuacji musisz zatrzymać się dokładnie przed znakiem pionowym \"Stop\"?": "В этой ситуации вы должны остановиться точно перед вертикальным знаком \"Стоп\"?"
+            "Czy w tej sytuacji musisz zatrzymać się dokładnie przed znakiem pionowym \"Stop\"?": "В этой ситуации вы должны остановиться точно перед вертикальным знаком \"Стоп\"?",
+            "Zatrzymanie powinno nastąpić w miejscu wyznaczonym linią": "Остановка должна произойти в месте, обозначенном линией.",
+            "Czy wolno Ci kontynuować jazdę w prawo bez zatrzymania?": "Можешь ли ты продолжить движение направо без остановки?"
         }
     },
     "not_approved": {
@@ -2633,6 +2635,8 @@
         "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych. Kierujący na lewym pasie powinni zjechać na lewo, a kierujący z pozostałych pasów na prawą stronę": "Создание коридора жизни заключается в обеспечении пространства на дороге для проезда транспортных средств аварийно-спасательных служб. Водители, движущиеся по левой полосе, должны уступить дорогу влево, а водители на остальных полосах - вправо.",
         "W tej sytuacji należy zastosować zasadę ograniczonego zaufania": "В этой ситуации следует применять принцип ограниченного доверия.",
         "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
-        "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу."
+        "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу.",
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время обгона в условиях недостаточной видимости должен соблюдать осторожность.",
+        "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте."
     }
 }
