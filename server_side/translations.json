@@ -7,7 +7,8 @@
         "Wyłącznie jałową gazę": "Только холостую передачу.",
         "Czy w widocznej sytuacji masz pierwszeństwo przed pojazdem poruszającym się jezdnią poprzeczną?": "В данной видимой ситуации у вас есть преимущество перед ТС, движущимся по поперечной проезжей части?",
         "Czy w tej sytuacji, w warunkach znacznego zmniejszenia prędkości na jezdni, masz obowiązek umożliwić wjazd pojazdowi ciężarowemu z przyczepą?": "В этой ситуации, в условиях значительного снижения скорости на проезжей части, вы обязаны разрешить въезд грузовому транспортному средству с прицепом?",
-        "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?"
+        "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
+        "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо."
     },
     "approved": {
         "kontrolujący": {
@@ -901,7 +902,10 @@
             "Zakaz zawracania obowiązuje od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie z tym skrzyżowaniem": "Запрет на разворот действует с места установки знака до ближайшего перекрестка включительно с этим перекрестком.",
             "Czy w widocznej sytuacji masz prawo zawrócić na skrzyżowaniu?": "Имеете ли вы право развернуться на перекрестке в видимой ситуации?",
             "Czy w widocznej sytuacji, w czasie nadawania tego sygnału świetlnego masz prawo skręcić w lewo na skrzyżowaniu?": "Имеешь ли ты право повернуть налево на перекрестке в данной ситуации, когда горит этот световой сигнал?",
-            "Nad sygnalizatorem umieszczono zakaz skrętu w lewo": "Над светофором установлен знак запрещающий поворот налево."
+            "Nad sygnalizatorem umieszczono zakaz skrętu w lewo": "Над светофором установлен знак запрещающий поворот налево.",
+            "Czy widoczny znak zakazu zabrania skręcania w lewo na skrzyżowaniu?": "Видимый знак запрета запрещает поворот налево на перекрестке?",
+            "Czy w tej sytuacji masz obowiązek każdorazowo zatrzymać swój pojazd przed wjazdem na skrzyżowanie?": "В этой ситуации вы обязаны каждый раз останавливать свой автомобиль перед въездом на перекресток?",
+            "Czy w tej sytuacji powinieneś kontynuować jazdę prosto przez skrzyżowanie?": "В этой ситуации ты должен продолжить движение прямо через перекресток?"
         }
     },
     "not_approved": {
@@ -1117,7 +1121,6 @@
         "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
         "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза.",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na:\n\n\nPolicjant zatrzyma": "Полицейский задержит водительские права по квитанции в случае раскрытия действия, заключающегося в:\n\n\nПолицейский остановит",
-        "Czy w tej sytuacji masz obowiązek każdorazowo zatrzymać swój pojazd przed wjazdem na skrzyżowanie?": "В этой ситуации вы обязаны каждый раз останавливать свой автомобиль перед въездом на перекресток?",
         "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
@@ -1883,7 +1886,6 @@
         "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "W razie unieruchomienia pojazdu na przejeździe kolejowym, kierujący jest obowiązany niezwłocznie usunąć go z przejazdu, a jeżeli nie jest to możliwe, ostrzec kierującego pojazdem szynowym o niebezpieczeństwie": "В случае остановки транспортного средства на железнодорожном переезде, водитель обязан немедленно убрать его с переезда, а если это невозможно, предупредить водителя железнодорожного транспорта о опасности.",
-        "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
         "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста.",
@@ -2598,6 +2600,7 @@
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr skrętu musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, водитель транспортного средства, выполняющий маневр поворота, должен уступить дорогу железнодорожному транспорту, движущемуся прямо.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na obszarze zabudowanym - w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione poprzez włączenie świateł awaryjnych": "Водитель транспортного средства обязан сигнализировать остановку моторного транспортного средства или прицепа из-за повреждения или аварии в населенном пункте - в случае остановки на проезжей части в месте, где остановка запрещена, путём включения аварийной сигнализации.",
         "Kierujący pojazdem, zbliżając się do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnię": "Водитель транспортного средства при приближении к обозначенной остановке общественного транспорта на населенном пункте обязан снизить скорость и, в случае необходимости, остановиться, чтобы позволить водителю автобуса (троллейбуса) включиться в движение, если водитель такого транспортного средства сигнализацией поворотником выражает намерение изменить полосу движения или выехать с остановки общественного транспорта на проезжую часть.",
-        "Czy widoczny znak zakazu zabrania skręcania w lewo na skrzyżowaniu?": "Видимый знак запрета запрещает поворот налево на перекрестке?"
+        "Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni": "Если пешеходный переход обозначен на дороге с двумя проезжими частями, переход на каждой проезжей части считается отдельным переходом. Это правило применяется соответственно к пешеходному переходу в месте, где движение транспортных средств разделено островком безопасности или с помощью других устройств на проезжей части.",
+        "Czy w tej sytuacji przed wykonaniem manewru skrętu w prawo, masz obowiązek zatrzymać się przed jezdnią poprzeczną?": "В данной ситуации перед выполнением маневра поворота направо, обязан ли ты остановиться перед поперечной проезжей частью?"
     }
 }
