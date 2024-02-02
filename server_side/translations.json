@@ -12,13 +12,13 @@
         "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
         "Zgodnie ze znakiem nakazu": "Согласно знаку приказания.",
         "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Снимает ли обязательное действие знак запрета на обгон на представленной дороге после окончания поворота?",
-        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод фрагмента: \"Осуществляется в направлении, указанном стрелками на знаке C-12.\"",
         "Zatrzymanie przed przejściem nie jest wymagane ze względu na brak pieszych. Ze względu na znak STOP zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка перед переходом не требуется из-за отсутствия пешеходов. Из-за знака СТОП остановка должна произойти перед линией останова или в месте с лучшей видимостью.",
         "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где возможно изменение направления движения.",
         "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязывает ли знак \"Обязательное движение прямо\" на ближайшем перекрестке или в месте, где возможно изменение направления движения?",
         "Takie zatrzymanie uniemożliwia znak \"Zakaz zatrzymywania\"": "Такую остановку запрещает знак \"Запрещено останавливаться\".",
         "Pod znakiem umieszczono tabliczkę wskazującą odległość znaku od miejsca w którym znak obowiązuje": "Под знаком установлена табличка, указывающая расстояние от знака до места, где знак действует.",
-        "Czy ograniczenie prędkości określone tym znakiem obowiązuje tylko do najbliższego skrzyżowania?": "Обязывает ли ограничение скорости, указанное этим знаком, только до ближайшего перекрестка?"
+        "Czy ograniczenie prędkości określone tym znakiem obowiązuje tylko do najbliższego skrzyżowania?": "Обязывает ли ограничение скорости, указанное этим знаком, только до ближайшего перекрестка?",
+        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод на русский язык: \"Движение осуществляется в направлении, указанном стрелками на знаке C-12.\""
     },
     "approved": {
         "kontrolujący": {
