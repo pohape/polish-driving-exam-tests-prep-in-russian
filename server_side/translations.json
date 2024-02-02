@@ -12,7 +12,8 @@
         "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
         "Zgodnie ze znakiem nakazu": "Согласно знаку приказания.",
         "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Снимает ли обязательное действие знак запрета на обгон на представленной дороге после окончания поворота?",
-        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод фрагмента: \"Осуществляется в направлении, указанном стрелками на знаке C-12.\""
+        "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод фрагмента: \"Осуществляется в направлении, указанном стрелками на знаке C-12.\"",
+        "Zatrzymanie przed przejściem nie jest wymagane ze względu na brak pieszych. Ze względu na znak STOP zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка перед переходом не требуется из-за отсутствия пешеходов. Из-за знака СТОП остановка должна произойти перед линией останова или в месте с лучшей видимостью."
     },
     "approved": {
         "kontrolujący": {
@@ -963,7 +964,8 @@
             "Znak nie dotyczy samochodów osobowych z przyczepą lekką": "Знак не касается легковых автомобилей с лёгким прицепом.",
             "Znak zakazuje ruchu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает движение транспортных средств, высота которых вместе с грузом больше значений, указанных на знаке.",
             "Widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę": "Видимый знак запрещает остановку, которая понимается как обездвиживание транспортного средства, не обусловленное дорожными условиями или правилами дорожного движения, длительностью более 1 минуты.",
-            "Czy za widocznym znakiem wolno Ci unieruchomić pojazd na dłużej niż 1 minutę?": "Разрешено ли тебе обездвижить транспортное средство на время дольше чем 1 минуту за видимым знаком?"
+            "Czy za widocznym znakiem wolno Ci unieruchomić pojazd na dłużej niż 1 minutę?": "Разрешено ли тебе обездвижить транспортное средство на время дольше чем 1 минуту за видимым знаком?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?"
         }
     },
     "not_approved": {
@@ -2566,7 +2568,6 @@
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
-        "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству.",
         "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
