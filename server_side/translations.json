@@ -994,7 +994,11 @@
             "Znak widoczny na zdjęciu uniemożliwia skręt w lewo, jak również zawracanie": "Знак, видимый на фотографии, предотвращает поворот влево, а также разворот.",
             "Czy ten znak zakazu umieszczony w obrębie skrzyżowania dotyczy tylko jezdni, przy której jest ustawiony?": "Знак запрета, установленный в пределах перекрестка, действует только на проезжую часть, у которой он расположен?",
             "Znak zakaz skrętu w lewo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот налево, расположенный в пределах перекрёстка, относится только к ближайшей проезжей части.",
-            "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo w najbliższą jezdnię?": "Можешь ли ты в данной ситуации повернуть направо на ближайшую проезжую часть?"
+            "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo w najbliższą jezdnię?": "Можешь ли ты в данной ситуации повернуть направо на ближайшую проезжую часть?",
+            "Znak zakaz skrętu w prawo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот направо, находящийся в пределах перекрестка, относится только к ближайшей проезжей части.",
+            "Czy w przedstawionej sytuacji obowiązuje Cię zakaz zawracania od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie?": "В данной ситуации на вас распространяется ли запрет на разворот от места установки знака до ближайшего перекрестка включительно?",
+            "Zakaz zawracania zabrania kierującym zawracania od miejsca ustawienia do najbliższego skrzyżowania włącznie": "Знак запрета разворота запрещает водителям производить разворот с места установки и до ближайшего перекрестка включительно.",
+            "Czy w tej sytuacji wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "В этой ситуации разрешено ли вам повернуть налево на ближайшем перекрестке?"
         }
     },
     "not_approved": {
@@ -1501,10 +1505,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Znak zakaz skrętu w prawo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот направо, находящийся в пределах перекрестка, относится только к ближайшей проезжей части.",
-        "Czy w przedstawionej sytuacji obowiązuje Cię zakaz zawracania od miejsca ustawienia znaku do najbliższego skrzyżowania włącznie?": "В данной ситуации на вас распространяется ли запрет на разворот от места установки знака до ближайшего перекрестка включительно?",
-        "Zakaz zawracania zabrania kierującym zawracania od miejsca ustawienia do najbliższego skrzyżowania włącznie": "Знак запрета разворота запрещает водителям производить разворот с места установки и до ближайшего перекрестка включительно.",
-        "Czy w tej sytuacji wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "В этой ситуации разрешено ли вам повернуть налево на ближайшем перекрестке?",
         "Znak drogowy B-26 \"zakaz wyprzedzania przez samochody ciężarowe\" zabrania wyprzedzania pojazdów silnikowych wielośladowych kierującemu samochodem ciężarowym o dopuszczalnej masie całkowitej przekraczającej 3,5 t": "Дорожный знак B-26 \"запрещение обгона для грузовых автомобилей\" запрещает водителю грузового автомобиля с разрешенной максимальной массой свыше 3,5 тонн обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek jezdni, jeżeli nie zmusisz tym nadjeżdżającego z przeciwka do zatrzymania się?": "Можете ли вы в этой ситуации заехать на суженный участок дороги, если это не заставит приближающееся встречное транспортное средство остановиться?",
         "Znak widoczny na zdjęciu zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się lub zmiany toru jazdy": "Знак, видимый на фотографии, запрещает водителям въезжать или входить на суженный участок дороги, если это вынудило бы водителей, находящихся на этом участке или приближающихся к нему с противоположной стороны, остановиться или изменить направление движения.",
