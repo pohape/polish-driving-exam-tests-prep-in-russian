@@ -987,7 +987,8 @@
             "Znak widoczny na zdjęciu oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, видимый на фотографии, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения.",
             "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo?": "В данной ситуации разрешено ли вам повернуть направо?",
             "Znak umieszczony po skręcie w drogę poprzeczną oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, установленный после поворота на поперечную дорогу, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения.",
-            "Czy w przedstawionej sytuacji jesteś obowiązany do zatrzymania się przed znakiem?": "В данной ситуации ты обязан остановиться перед знаком?"
+            "Czy w przedstawionej sytuacji jesteś obowiązany do zatrzymania się przed znakiem?": "В данной ситуации ты обязан остановиться перед знаком?",
+            "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?"
         }
     },
     "not_approved": {
@@ -1496,7 +1497,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?",
         "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo": "Знак, видимый на фотографии, означает запрет на поворот налево.",
         "Czy ten znak zakazu umieszczony w obrębie skrzyżowania dotyczy tylko jezdni, przy której jest ustawiony?": "Знак запрета, установленный в пределах перекрестка, действует только на проезжую часть, у которой он расположен?",
         "Znak zakaz skrętu w lewo znajdujący się w obrębie skrzyżowania dotyczy tylko najbliższej jezdni": "Знак запрета на поворот налево, расположенный в пределах перекрёстка, относится только к ближайшей проезжей части.",
