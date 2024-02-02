@@ -960,7 +960,8 @@
             "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci kontynuować jazdę na wprost?": "В данной ситуации, управляя легковым автомобилем, разрешено ли тебе продолжить движение прямо?",
             "Znak zakazu nie dotyczy samochodów osobowych": "Знак запрета не касается легковых автомобилей.",
             "Kierujesz samochodem osobowym z przyczepą lekką. Czy wolno Ci wjechać na drogę za widocznym znakiem zakazu?": "Вы управляете легковым автомобилем с лёгким прицепом. Разрешено ли вам заехать на дорогу за видимым знаком запрета?",
-            "Znak nie dotyczy samochodów osobowych z przyczepą lekką": "Знак не касается легковых автомобилей с лёгким прицепом."
+            "Znak nie dotyczy samochodów osobowych z przyczepą lekką": "Знак не касается легковых автомобилей с лёгким прицепом.",
+            "Znak zakazuje ruchu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает движение транспортных средств, высота которых вместе с грузом больше значений, указанных на знаке."
         }
     },
     "not_approved": {
@@ -2611,7 +2612,6 @@
         "Poruszamy się drogą podporządkowaną. (Znak \"STOP\")": "Мы движемся по второстепенной дороге. (Знак \"СТОП\")",
         "Przy wyprzedzaniu kolumny pieszych i pojazdów jednośladowych należy zachować odstęp nie mniejszy niż 1 metr": "При обгоне колонны пешеходов и одноколейных транспортных средств необходимо соблюдать интервал не менее 1 метра.",
         "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem": "Пешеход, переходя через проезжую часть или пути трамвайные, обязан проявлять особую осторожность и использовать пешеходный переход. Пешеход, находящийся на этом переходе, имеет преимущество перед транспортным средством.",
-        "Znak zakazuje ruchu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает движение транспортных средств, высота которых вместе с грузом больше значений, указанных на знаке.",
         "Nie ma żadnych przeciwwskazań do wykonania wyprzedzania": "Нет никаких противопоказаний для выполнения обгона.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
         "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania jest wymagane podczas kontroli drogowej": "Квитанция о задержании водительских прав в тот период, когда они дают право на управление, требуется во время дорожного контроля.",
@@ -2653,6 +2653,8 @@
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
         "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
-        "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении."
+        "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
+        "Czy za widocznym znakiem wolno Ci unieruchomić pojazd na dłużej niż 1 minutę?": "Разрешено ли тебе обездвижить транспортное средство на время дольше чем 1 минуту за видимым знаком?",
+        "Widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę": "Видимый знак запрещает остановку, которая понимается как обездвиживание транспортного средства, не обусловленное дорожными условиями или правилами дорожного движения, длительностью более 1 минуты."
     }
 }
