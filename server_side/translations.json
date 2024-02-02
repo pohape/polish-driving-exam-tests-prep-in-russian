@@ -11,7 +11,7 @@
         "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо.",
         "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
         "Zgodnie ze znakiem nakazu": "Согласно знаку приказания.",
-        "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Вопрос: \"На представленной дороге знак запрещающий обгон перестаёт действовать после окончания поворота?\""
+        "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Снимает ли обязательное действие знак запрета на обгон на представленной дороге после окончания поворота?"
     },
     "approved": {
         "kontrolujący": {
@@ -940,7 +940,10 @@
             "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
             "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?",
             "Widoczny znak to nakaz jazdy prosto": "Видимый знак - это знак обязательного движения прямо.",
-            "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можешь ли ты в представленной ситуации повернуть на видимом перекрестке налево?"
+            "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можешь ли ты в представленной ситуации повернуть на видимом перекрестке налево?",
+            "Znak zakazujący wyprzedzania obowiązuje od miejsca jego ustawienia do najbliższego skrzyżowania, znaku B-27 \"koniec zakazu wyprzedzania\" lub znaku B-42 \"koniec zakazów\"": "Знак запрещающий обгон действует с места его установки до ближайшего перекрестка, знака B-27 \"конец запрета на обгон\" или знака B-42 \"конец запретов\".",
+            "Czy w przedstawionej sytuacji możesz skręcić w prawo?": "Можешь ли ты в данной ситуации повернуть направо?",
+            "Czy w tej sytuacji musisz zatrzymać się dokładnie przed znakiem pionowym \"Stop\"?": "В этой ситуации вы должны остановиться точно перед вертикальным знаком \"Стоп\"?"
         }
     },
     "not_approved": {
