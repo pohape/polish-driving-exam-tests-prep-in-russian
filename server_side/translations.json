@@ -973,7 +973,8 @@
             "Czy w tej sytuacji ograniczenie prędkości 90 km\/h dotyczy tylko jednego skrajnego prawego pasa ruchu?": "В этой ситуации ограничение скорости 90 км\/ч относится только к крайней правой полосе движения?",
             "Dotyczy tych pasów nad którymi umieszczono znaki ograniczające prędkość": "Фрагмент относится к тем полосам, над которыми размещены знаки, ограничивающие скорость.",
             "Kierujesz samochodem osobowym. Czy w tej sytuacji za widocznym znakiem wolno Ci wyprzedzać?": "Вы управляете легковым автомобилем. Разрешено ли вам обгонять на участке после видимого знака?",
-            "Znak widoczny na nagraniu to zakaz wyprzedzania przez samochody ciężarowe": "Знак, видимый на записи, это запрет обгона для грузовых автомобилей."
+            "Znak widoczny na nagraniu to zakaz wyprzedzania przez samochody ciężarowe": "Знак, видимый на записи, это запрет обгона для грузовых автомобилей.",
+            "Przewozisz zespołem pojazdów o długości 10 metrów ładunek wystający z tyłu przyczepy na odległość 0,5 metra. Czy wolno Ci wjechać na drogę za tym znakiem?": "Ты перевозишь автопоездом длиной 10 метров груз, выступающий сзади прицепа на расстояние 0,5 метра. Разрешено ли тебе въехать на дорогу за этим знаком?"
         }
     },
     "not_approved": {
@@ -2665,7 +2666,6 @@
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
-        "Przewozisz zespołem pojazdów o długości 10 metrów ładunek wystający z tyłu przyczepy na odległość 0,5 metra. Czy wolno Ci wjechać na drogę za tym znakiem?": "Ты перевозишь автопоездом длиной 10 метров груз, выступающий сзади прицепа на расстояние 0,5 метра. Разрешено ли тебе въехать на дорогу за этим знаком?"
+        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч."
     }
 }
