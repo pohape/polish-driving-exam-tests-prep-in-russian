@@ -10,8 +10,7 @@
         "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
         "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо.",
         "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо.",
-        "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
-        "Czy widoczny w przedstawionej sytuacji zakaz zatrzymywania dotyczy także chodnika?": "Относится ли видимый в представленной ситуации запрет на остановку также к тротуару?"
+        "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки."
     },
     "approved": {
         "kontrolujący": {
@@ -927,7 +926,10 @@
             "Czy w przedstawionej sytuacji wolno Ci zatrzymać pojazd kołami jednego boku na drodze dla rowerów?": "Разрешено ли тебе в данной ситуации остановить транспортное средство колесами одной стороны на велосипедной дорожке?",
             "Czy widoczny w przedstawionej sytuacji znak oznacza zakaz ruchu pojazdów, których wysokość (również z ładunkiem) jest większa od 3,1 metra?": "В представленной ситуации видимый знак означает ли запрет движения транспортных средств, высота которых (включая груз) больше 3,1 метра?",
             "Znak zakazuje wjazdu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает въезд транспортных средств, высота которых вместе с грузом больше значения, указанного на знаке.",
-            "Ograniczenie prędkości pod znakiem obszar zabudowany oznacza, że zakaz obowiązuje na całym obszarze zabudowanym z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem": "Ограничение скорости под знаком \"населенный пункт\" означает, что запрет действует на всей территории населенного пункта за исключением участка дороги, на котором он был изменен или отменен другим знаком."
+            "Ograniczenie prędkości pod znakiem obszar zabudowany oznacza, że zakaz obowiązuje na całym obszarze zabudowanym z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem": "Ограничение скорости под знаком \"населенный пункт\" означает, что запрет действует на всей территории населенного пункта за исключением участка дороги, на котором он был изменен или отменен другим знаком.",
+            "Zakaz zatrzymywania dotyczy w tym przypadku prawej strony drogi": "Запрет остановки в данном случае относится к правой стороне дороги.",
+            "Czy widoczny w przedstawionej sytuacji zakaz zatrzymywania dotyczy także chodnika?": "Видимый на представленной ситуации запрет остановки также относится к тротуару?",
+            "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego": "Допустимая скорость выше 60 км\/ч в населенном пункте относится к легковому автомобилю."
         }
     },
     "not_approved": {
