@@ -19,6 +19,39 @@
         ]
     },
     "dictionary": {
+        "zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu: запрет поворота налево действует на ближайшем перекрестке": [
+            "obowiąz"
+        ],
+        "w strefie zamieszkania obowiązuje ograniczenie prędkości: в жилой зоне действует ограничение скорости": [
+            "obowiąz",
+            "zamieszkan",
+            "stref"
+        ],
+        "zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku: запрет остановки действует до места установки знака": [
+            "obowiąz"
+        ],
+        "zobowiązuje: обязывает": [
+            "zobowiąz"
+        ],
+        "zobowiązuje do zatrzymania: обязывает остановиться": [
+            "zobowiąz"
+        ],
+        "znak nakazu: предписывающий знак": [
+            "nakazu"
+        ],
+        "w związku z umieszczonym znakiem nakazu: в связи с установленным предписывающим знаком": [
+            "nakazu"
+        ],
+        "w kierunku przeciwnym do wskazanego na znaku nakazu: в направлении, противоположном указанному на предписывающем знаке": [
+            "nakazu"
+        ],
+        "znak zakazu: запрещающий знак": [
+            "zakazu"
+        ],
+        "widoczny znak zakazu dotyczy samochodów: видимый запрещающий знак касается автомобилей": [
+            "zakazu",
+            "doty"
+        ],
         "tylko na polecenie kontrolującego: только по команде должностного лица": [
             "kontroluj"
         ],
