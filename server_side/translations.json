@@ -10,7 +10,8 @@
         "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
         "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо.",
         "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо.",
-        "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки."
+        "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
+        "Zgodnie ze znakiem nakazu": "Согласно знаку приказания."
     },
     "approved": {
         "kontrolujący": {
@@ -929,7 +930,10 @@
             "Ograniczenie prędkości pod znakiem obszar zabudowany oznacza, że zakaz obowiązuje na całym obszarze zabudowanym z wyjątkiem odcinka drogi, na którym został on zmieniony lub odwołany innym znakiem": "Ограничение скорости под знаком \"населенный пункт\" означает, что запрет действует на всей территории населенного пункта за исключением участка дороги, на котором он был изменен или отменен другим знаком.",
             "Zakaz zatrzymywania dotyczy w tym przypadku prawej strony drogi": "Запрет остановки в данном случае относится к правой стороне дороги.",
             "Czy widoczny w przedstawionej sytuacji zakaz zatrzymywania dotyczy także chodnika?": "Видимый на представленной ситуации запрет остановки также относится к тротуару?",
-            "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego": "Допустимая скорость выше 60 км\/ч в населенном пункте относится к легковому автомобилю."
+            "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego": "Допустимая скорость выше 60 км\/ч в населенном пункте относится к легковому автомобилю.",
+            "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t": "Допустимая скорость свыше 60 км\/ч в населенном пункте относится к легковому автомобилю, мотоциклу и грузовому автомобилю с разрешенной максимальной массой не более 3,5 т.",
+            "Kierujesz pojazdem jadąc w obszarze zabudowanym. Czy widoczny znak zakazu dotyczy motocykli?": "Вы управляете транспортным средством, двигаясь в населенном пункте. Относится ли видимый знак запрета к мотоциклам?",
+            "Czy w przedstawionej sytuacji na najbliższym skrzyżowanie wolno Ci jechać na wprost?": "В представленной ситуации на ближайшем перекрестке вам разрешено ехать прямо?"
         }
     },
     "not_approved": {
@@ -1134,7 +1138,6 @@
         "Czy w tej sytuacji wolno Ci zachować 0,5 metra odstępu między Twoim pojazdem a wyprzedzanym rowerzystą?": "В этой ситуации разрешено ли вам сохранять зазор в 0,5 метра между вашим транспортным средством и обгоняемым велосипедистом?",
         "W przedstawionej sytuacji zamierzasz jechać na wprost. Czy musisz się zatrzymać przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь ехать прямо. Нужно ли останавливаться перед въездом на перекресток?",
         "Czego możesz spodziewać się na tak oznakowanej drodze?": "Что вы можете ожидать на такой обозначенной дороге?",
-        "Czy w przedstawionej sytuacji na najbliższym skrzyżowanie wolno Ci jechać na wprost?": "В представленной ситуации на ближайшем перекрестке вам разрешено ехать прямо?",
         "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
         "Czy osobę ranną, która odzyskała oddech, ale jest nieprzytomna, należy ułożyć w pozycji bocznej ustalonej?": "Следует ли поместить раненого, который восстановил дыхание, но без сознания, в фиксированное боковое положение?",
         "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Проезжая мимо видимой трамвайной остановки, вы освобождены от обязанности проявлять особую осторожность?",
@@ -2247,7 +2250,6 @@
         "Zamierzasz wjechać na lewy pas ruchu. Czy masz pierwszeństwo przed pojazdami, które się nim poruszają?": "Вы планируете въехать на левую полосу движения. Имеете ли вы преимущество перед транспортными средствами, которые движутся по ней?",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
-        "Kierujesz pojazdem jadąc w obszarze zabudowanym. Czy widoczny znak zakazu dotyczy motocykli?": "Вы управляете транспортным средством, двигаясь в населенном пункте. Знак запрета виден? Относится ли он к мотоциклам?",
         "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "В данной ситуации разрешает ли сигнал, подаваемый полицейским, въезд на перекресток?",
         "Czy zatrzymanie w tym miejscu jest dozwolone?": "Разрешена ли остановка в этом месте?",
         "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?",
@@ -2280,7 +2282,6 @@
         "Kiedy należy założyć opatrunek uciskowy?": "Когда следует наложить давящую повязку?",
         "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
-        "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t": "Допустимая скорость свыше 60 км\/ч в населенном пункте относится к легковому автомобилю, мотоциклу и грузовому автомобилю с разрешенной максимальной массой не более 3,5 т.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
