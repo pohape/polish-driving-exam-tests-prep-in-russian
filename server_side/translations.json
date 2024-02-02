@@ -945,7 +945,9 @@
             "Czy w przedstawionej sytuacji możesz skręcić w prawo?": "Можешь ли ты в данной ситуации повернуть направо?",
             "Czy w tej sytuacji musisz zatrzymać się dokładnie przed znakiem pionowym \"Stop\"?": "В этой ситуации вы должны остановиться точно перед вертикальным знаком \"Стоп\"?",
             "Zatrzymanie powinno nastąpić w miejscu wyznaczonym linią": "Остановка должна произойти в месте, обозначенном линией.",
-            "Czy wolno Ci kontynuować jazdę w prawo bez zatrzymania?": "Можешь ли ты продолжить движение направо без остановки?"
+            "Czy wolno Ci kontynuować jazdę w prawo bez zatrzymania?": "Можешь ли ты продолжить движение направо без остановки?",
+            "Znak STOP zobowiązuje do zatrzymania": "Знак STOP обязывает остановиться.",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo na najbliższym skrzyżowaniu?": "Разрешено ли вам в данной ситуации повернуть направо на ближайшем перекрестке?"
         }
     },
     "not_approved": {
@@ -1511,7 +1513,6 @@
         "Czy w przedstawionej sytuacji masz obowiązek skręcić wyłącznie w prawo na najbliższym skrzyżowaniu?": "Обязаны ли вы в данной ситуации повернуть исключительно направо на ближайшем перекрестке?",
         "Znak nakazu zobowiązuje do skrętu w lewo lub w prawo": "Знак обязательного направления подразумевает поворот налево или направо.",
         "Czy w tej sytuacji wolno Ci przejechać przez przejazd kolejowy bez zatrzymywania się, jeśli upewniłeś się wcześniej, że nie nadjeżdża pociąg?": "Можешь ли ты в этой ситуации проехать через железнодорожный переезд без остановки, если заранее убедился, что поезд не приближается?",
-        "Znak STOP zobowiązuje do zatrzymania": "Знак STOP обязывает остановиться.",
         "W związku z umieszczonym znakiem nakazu cała szerokość jezdni służy do skrętu w prawo": "В связи с установленным знаком обязательного направления вся ширина проезжей части используется для поворота направо.",
         "Czy wolno Ci wjechać na drogę za tym znakiem aby zawrócić?": "Вам разрешено въезжать на дорогу после этого знака, чтобы развернуться?",
         "Ten znak to \"Zakaz ruchu w obu kierunkach\"": "Этот знак - \"Движение запрещено в обоих направлениях\".",
@@ -1524,7 +1525,6 @@
         "Czy ograniczenie prędkości określone tym znakiem obowiązuje tylko do najbliższego skrzyżowania?": "Обязывает ли ограничение скорости, установленное этим знаком, только до ближайшего перекрестка?",
         "Znak widoczny na zdjęciu oznacza wjazd do strefy ograniczenia prędkości": "Знак, видимый на фотографии, означает въезд в зону ограничения скорости.",
         "Zakaz skrętu w lewo uniemożliwia zawracanie na najbliższym skrzyżowaniu": "Знак запрета поворота налево запрещает разворот на ближайшем перекрестке.",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo na najbliższym skrzyżowaniu?": "Разрешено ли вам в данной ситуации повернуть направо на ближайшем перекрестке?",
         "Przed najbliższym skrzyżowaniem ustawiono znak zobowiązujący do jazdy na wprost": "Перед ближайшим перекрестком установлен знак, обязывающий ехать прямо.",
         "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
         "Znak nakazu widoczny na zdjęciu zobowiązuje do jazdy na wprost": "Знак обязательства, видимый на фотографии, обязывает ехать прямо.",
@@ -2637,6 +2637,8 @@
         "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
         "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время обгона в условиях недостаточной видимости должен соблюдать осторожность.",
-        "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте."
+        "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте.",
+        "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy": "В случае превышения штрафных баллов в количестве 24 и не предоставления свидетельства в требуемый срок о завершении курса переобучения, староста выносит административное решение о изъятии водительского удостоверения.",
+        "Skręt w prawo na skrzyżowaniu jest uniemożliwiony przez znak B-22 (zakaz skrętu w prawo). Za skrętem w drogę poprzeczną widoczny jest znak B-2": "Поворот направо на перекрестке запрещен знаком B-22 (запрещение поворота направо). После поворота на поперечную дорогу виден знак B-2."
     }
 }
