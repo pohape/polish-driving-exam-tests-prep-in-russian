@@ -933,7 +933,12 @@
             "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego": "Допустимая скорость выше 60 км\/ч в населенном пункте относится к легковому автомобилю.",
             "Dopuszczalna prędkość większa niż 60 km\/h na obszarze zabudowanym dotyczy samochodu osobowego, motocykla i samochodu ciężarowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t": "Допустимая скорость свыше 60 км\/ч в населенном пункте относится к легковому автомобилю, мотоциклу и грузовому автомобилю с разрешенной максимальной массой не более 3,5 т.",
             "Kierujesz pojazdem jadąc w obszarze zabudowanym. Czy widoczny znak zakazu dotyczy motocykli?": "Вы управляете транспортным средством, двигаясь в населенном пункте. Относится ли видимый знак запрета к мотоциклам?",
-            "Czy w przedstawionej sytuacji na najbliższym skrzyżowanie wolno Ci jechać na wprost?": "В представленной ситуации на ближайшем перекрестке вам разрешено ехать прямо?"
+            "Czy w przedstawionej sytuacji na najbliższym skrzyżowanie wolno Ci jechać na wprost?": "В представленной ситуации на ближайшем перекрестке вам разрешено ехать прямо?",
+            "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?",
+            "Zakaz zatrzymywania obowiązuje do miejsca jego ustawienia (tabliczka pod znakiem)": "Запрет остановки действует до места его установления (табличка под знаком).",
+            "Czy w przedstawionej sytuacji dozwolone jest zawracanie?": "Разрешен ли разворот в представленной ситуации?",
+            "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
+            "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?"
         }
     },
     "not_approved": {
@@ -1042,7 +1047,6 @@
         "Znak informacyjny informuje o przejeździe dla rowerzystów": "Информационный знак сообщает о проезде для велосипедистов.",
         "Odblaskowe elementy barwy czerwonej wyznaczają prawą krawędź jezdni": "Светоотражающие элементы красного цвета обозначают правый край проезжей части.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
-        "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?",
         "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
         "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, при обходе, вы обязаны проявлять особую осторожность?",
@@ -2106,7 +2110,6 @@
         "Przetarcia, przewężenia i naderwania taśmy pasów": "Износ, сужение и разрывы ткани ремней безопасности.",
         "Trwałe zabrudzenia i plamy na taśmie pasów": "Устойчивые загрязнения и пятна на ленте ремней.",
         "Które z wymienionych uszkodzeń pasów bezpieczeństwa oznaczają bezwzględną konieczność wymiany pasów na nowe?": "Какие из перечисленных повреждений ремней безопасности означают абсолютную необходимость замены ремней на новые?",
-        "Czy w przedstawionej sytuacji dozwolone jest zawracanie?": "Разрешен ли разворот в представленной ситуации?",
         "Czy w tej sytuacji masz prawo wykonać manewr cofania?": "В этой ситуации у вас есть право выполнить маневр заднего хода?",
         "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
         "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
@@ -2140,7 +2143,6 @@
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "To nie jest strefa zamieszkania": "Это не является зоной проживания.",
-        "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
         "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
@@ -2482,7 +2484,6 @@
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
         "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?": "Обязаны ли вы в этой ситуации переключить дальний свет на ближний?",
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
-        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
         "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
         "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав.",
