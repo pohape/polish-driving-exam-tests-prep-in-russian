@@ -974,7 +974,9 @@
             "Dotyczy tych pasów nad którymi umieszczono znaki ograniczające prędkość": "Фрагмент относится к тем полосам, над которыми размещены знаки, ограничивающие скорость.",
             "Kierujesz samochodem osobowym. Czy w tej sytuacji za widocznym znakiem wolno Ci wyprzedzać?": "Вы управляете легковым автомобилем. Разрешено ли вам обгонять на участке после видимого знака?",
             "Znak widoczny na nagraniu to zakaz wyprzedzania przez samochody ciężarowe": "Знак, видимый на записи, это запрет обгона для грузовых автомобилей.",
-            "Przewozisz zespołem pojazdów o długości 10 metrów ładunek wystający z tyłu przyczepy na odległość 0,5 metra. Czy wolno Ci wjechać na drogę za tym znakiem?": "Ты перевозишь автопоездом длиной 10 метров груз, выступающий сзади прицепа на расстояние 0,5 метра. Разрешено ли тебе въехать на дорогу за этим знаком?"
+            "Przewozisz zespołem pojazdów o długości 10 metrów ładunek wystający z tyłu przyczepy na odległość 0,5 metra. Czy wolno Ci wjechać na drogę za tym znakiem?": "Ты перевозишь автопоездом длиной 10 метров груз, выступающий сзади прицепа на расстояние 0,5 метра. Разрешено ли тебе въехать на дорогу за этим знаком?",
+            "Czy w tym miejscu wolno Ci skręcić w lewo i wjechać na stację paliw?": "Вам разрешено здесь повернуть налево и заехать на заправочную станцию?",
+            "Znak nakazu zobowiązuje do jazdy na wprost": "Знак обязательного направления движения требует ехать прямо."
         }
     },
     "not_approved": {
@@ -1526,7 +1528,6 @@
         "Czy umieszczona pod widocznym znakiem zakazu tabliczka wskazuje odległość od miejsca, w którym ten zakaz obowiązuje?": "Указывает ли табличка, расположенная под видимым знаком запрета, на расстояние до места, где этот запрет действует?",
         "Umieszczona pod widocznym znakiem zakazu tabliczka wskazuje odległość od miejsca, w którym ten zakaz obowiązuje": "Установленная под видимым знаком запрета табличка указывает расстояние от места, где этот запрет действует.",
         "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
-        "Znak nakazu zobowiązuje do jazdy na wprost": "Знак обязательного направления движения требует ехать прямо.",
         "Czy znak zakazu umieszczony na prawej jezdni oznacza, że jest ona zamknięta dla ruchu?": "Знак запрета, установленный на правой полосе движения, означает, что она закрыта для проезда?",
         "Ten znak to zakaz ruchu w obu kierunkach": "Этот знак означает запрет движения в обоих направлениях.",
         "Zatrzymanie jest zabronione ze względu na bliskość przystanku. Ponad to przy jezdni jest ustawiony zakaz zatrzymywania": "Остановка запрещена из-за близости остановки. Кроме того, рядом с проезжей частью установлен знак запрета остановки.",
@@ -1748,7 +1749,6 @@
         "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
         "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
         "Znak umieszczony po prawej stronie jezdni informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady": "Знак, расположенный с правой стороны проезжей части, информирует о приближении к началу полосы, ведущей к выезду с автострады.",
-        "Czy w tym miejscu wolno Ci skręcić w lewo i wjechać na stację paliw?": "Вам разрешено здесь повернуть налево и заехать на заправочную станцию?",
         "Zakaz wyrażony znakiem obowiązuje od miejsca jego ustawienia": "Запрет, выраженный знаком, действует с места его установки.",
         "Czy w tej sytuacji masz prawo powoli kontynuować jazdę, uważając na pieszych?": "В данной ситуации имеешь ли ты право медленно продолжить движение, будучи внимательным к пешеходам?",
         "Czy w tej sytuacji masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "В этой ситуации имеете ли вы право остановить легковой автомобиль колесами одной стороны на тротуаре?",
