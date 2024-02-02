@@ -6,7 +6,8 @@
         "Czy w tej sytuacji nadawany sygnał świetlny zabrania Ci wjazdu za sygnalizator?": "В данной ситуации, излучаемый светофором световой сигнал запрещает тебе въезжать за светофор?",
         "Wyłącznie jałową gazę": "Только холостую передачу.",
         "Czy w widocznej sytuacji masz pierwszeństwo przed pojazdem poruszającym się jezdnią poprzeczną?": "В данной видимой ситуации у вас есть преимущество перед ТС, движущимся по поперечной проезжей части?",
-        "Czy w tej sytuacji, w warunkach znacznego zmniejszenia prędkości na jezdni, masz obowiązek umożliwić wjazd pojazdowi ciężarowemu z przyczepą?": "В этой ситуации, в условиях значительного снижения скорости на проезжей части, вы обязаны разрешить въезд грузовому транспортному средству с прицепом?"
+        "Czy w tej sytuacji, w warunkach znacznego zmniejszenia prędkości na jezdni, masz obowiązek umożliwić wjazd pojazdowi ciężarowemu z przyczepą?": "В этой ситуации, в условиях значительного снижения скорости на проезжей части, вы обязаны разрешить въезд грузовому транспортному средству с прицепом?",
+        "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?"
     },
     "approved": {
         "kontrolujący": {
@@ -1681,7 +1682,6 @@
         "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Nie, gdyż za ewentualnie popełnione błędy grozi odpowiedzialność karna": "Нет, поскольку за возможные совершенные ошибки грозит уголовная ответственность.",
         "Jeżeli kierowca otrzymał 24 punkty karne za naruszenie przepisów ruchu drogowego": "Если водитель получил 24 штрафных балла за нарушение правил дорожного движения.",
-        "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
         "Jeżeli kierowca otrzymał 20 punktów karnych w ciągu pierwszego roku od otrzymania po raz pierwszy prawa jazdy za naruszenie przepisów ruchu drogowego": "Если водитель получил 20 штрафных баллов в течение первого года с момента впервые получения водительских прав за нарушение правил дорожного движения.",
         "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
         "Czy holowany pojazd ma wpływ na pole widzenia kierowcy?": "Влияет ли буксируемое ТС на поле зрения водителя?",
@@ -2568,6 +2568,10 @@
         "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
         "Czy za tym znakiem masz obowiązek włączyć światła awaryjne, aby sygnalizować postój uszkodzonego pojazdu?": "Обязан ли ты после этого знака включить аварийные огни, чтобы сигнализировать остановку поврежденного транспортного средства?",
-        "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?"
+        "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?",
+        "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота.",
+        "Niskie napięcie akumulatora": "Низкое напряжение аккумулятора.",
+        "Zwarcie w obwodzie świateł kierunkowskazów": "Короткое замыкание в цепи указателей поворота.",
+        "Co może być przyczyną znacznie zwiększonej częstotliwości migania świateł kierunkowskazów?": "Какой может быть причиной значительно увеличенной частоты мигания указателей поворота?"
     }
 }
