@@ -984,7 +984,9 @@
             "Czy znak ustawiony na prawej jezdni oznacza zakaz ruchu w obu kierunkach?": "Знак, установленный на правой стороне дороги, означает запрет движения в обоих направлениях?",
             "B-1 - Zakaz ruchu w obu kierunkach": "B-1 - Запрет движения в обоих направлениях.",
             "Czy możesz skorzystać z tej drogi, chcąc wjechać do myjni?": "Можете ли вы воспользоваться этой дорогой, если хотите заехать в автомойку?",
-            "Znak widoczny na zdjęciu oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, видимый на фотографии, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения."
+            "Znak widoczny na zdjęciu oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, видимый на фотографии, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения.",
+            "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo?": "В данной ситуации разрешено ли вам повернуть направо?",
+            "Znak umieszczony po skręcie w drogę poprzeczną oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, установленный после поворота на поперечную дорогу, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения."
         }
     },
     "not_approved": {
@@ -1493,8 +1495,6 @@
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Czy w przedstawionej sytuacji wolno Ci skręcić w prawo?": "В данной ситуации разрешено ли вам повернуть направо?",
-        "Znak umieszczony po skręcie w drogę poprzeczną oznacza zakaz wjazdu pojazdów na drogę lub jezdnię od strony jego umieszczenia": "Знак, установленный после поворота на поперечную дорогу, означает запрет въезда транспортных средств на дорогу или проезжую часть со стороны его размещения.",
         "Czy w przedstawionej sytuacji jesteś obowiązany do zatrzymania się przed znakiem?": "Вы обязаны остановиться перед знаком в представленной ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci skręcić w lewo?": "В данной ситуации, разрешено ли вам повернуть налево?",
         "Znak widoczny na zdjęciu oznacza zakaz skręcania w lewo": "Знак, видимый на фотографии, означает запрет на поворот налево.",
