@@ -969,7 +969,11 @@
             "Widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę": "Видимый знак запрещает остановку, которая понимается как обездвиживание транспортного средства, не обусловленное дорожными условиями или правилами дорожного движения, длительностью более 1 минуты.",
             "Czy za widocznym znakiem wolno Ci unieruchomić pojazd na dłużej niż 1 minutę?": "Разрешено ли тебе обездвижить транспортное средство на время дольше чем 1 минуту за видимым знаком?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
-            "Czy w tej sytuacji wolno Ci zatrzymać samochód osobowy kołami jednego boku na chodniku po prawej stronie jezdni?": "В этой ситуации разрешается ли тебе остановить легковой автомобиль колесами одной стороны на тротуаре с правой стороны проезжей части?"
+            "Czy w tej sytuacji wolno Ci zatrzymać samochód osobowy kołami jednego boku na chodniku po prawej stronie jezdni?": "В этой ситуации разрешается ли тебе остановить легковой автомобиль колесами одной стороны на тротуаре с правой стороны проезжей части?",
+            "Czy w tej sytuacji ograniczenie prędkości 90 km\/h dotyczy tylko jednego skrajnego prawego pasa ruchu?": "В этой ситуации ограничение скорости 90 км\/ч относится только к крайней правой полосе движения?",
+            "Dotyczy tych pasów nad którymi umieszczono znaki ograniczające prędkość": "Фрагмент относится к тем полосам, над которыми размещены знаки, ограничивающие скорость.",
+            "Kierujesz samochodem osobowym. Czy w tej sytuacji za widocznym znakiem wolno Ci wyprzedzać?": "Вы управляете легковым автомобилем. Разрешено ли вам обгонять на участке после видимого знака?",
+            "Znak widoczny na nagraniu to zakaz wyprzedzania przez samochody ciężarowe": "Знак, видимый на записи, это запрет обгона для грузовых автомобилей."
         }
     },
     "not_approved": {
@@ -2662,6 +2666,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
-        "Czy w tej sytuacji ograniczenie prędkości 90 km\/h dotyczy tylko jednego skrajnego prawego pasa ruchu?": "В этой ситуации ограничение скорости 90 км\/ч относится только к крайней правой полосе движения?"
+        "Przewozisz zespołem pojazdów o długości 10 metrów ładunek wystający z tyłu przyczepy na odległość 0,5 metra. Czy wolno Ci wjechać na drogę za tym znakiem?": "Ты перевозишь автопоездом длиной 10 метров груз, выступающий сзади прицепа на расстояние 0,5 метра. Разрешено ли тебе въехать на дорогу за этим знаком?"
     }
 }
