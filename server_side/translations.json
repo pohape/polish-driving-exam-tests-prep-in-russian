@@ -8,10 +8,10 @@
         "Czy w widocznej sytuacji masz pierwszeństwo przed pojazdem poruszającym się jezdnią poprzeczną?": "В данной видимой ситуации у вас есть преимущество перед ТС, движущимся по поперечной проезжей части?",
         "Czy w tej sytuacji, w warunkach znacznego zmniejszenia prędkości na jezdni, masz obowiązek umożliwić wjazd pojazdowi ciężarowemu z przyczepą?": "В этой ситуации, в условиях значительного снижения скорости на проезжей части, вы обязаны разрешить въезд грузовому транспортному средству с прицепом?",
         "W jakim przypadku starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy?": "В каком случае староста выносит административное решение о заблокировании водительского удостоверения?",
-        "Widoczny znak to nakaz jazdy prosto": "Видимый знак это обязание двигаться прямо.",
         "Widoczny znak to zakaz skrętu w prawo": "Видимый знак - это запрет на поворот направо.",
         "Widoczny znak to zakaz zatrzymywania": "Видимый знак это запрет остановки.",
-        "Zgodnie ze znakiem nakazu": "Согласно знаку приказания."
+        "Zgodnie ze znakiem nakazu": "Согласно знаку приказания.",
+        "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Вопрос: \"На представленной дороге знак запрещающий обгон перестаёт действовать после окончания поворота?\""
     },
     "approved": {
         "kontrolujący": {
@@ -938,7 +938,9 @@
             "Zakaz zatrzymywania obowiązuje do miejsca jego ustawienia (tabliczka pod znakiem)": "Запрет остановки действует до места его установления (табличка под знаком).",
             "Czy w przedstawionej sytuacji dozwolone jest zawracanie?": "Разрешен ли разворот в представленной ситуации?",
             "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
-            "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?"
+            "Czy widoczny znak zakazu obowiązuje tylko do najbliższego skrzyżowania włącznie?": "Действует ли видимый запрещающий знак только до ближайшего перекрестка включительно?",
+            "Widoczny znak to nakaz jazdy prosto": "Видимый знак - это знак обязательного движения прямо.",
+            "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можешь ли ты в представленной ситуации повернуть на видимом перекрестке налево?"
         }
     },
     "not_approved": {
@@ -1257,7 +1259,6 @@
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
-        "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можете ли вы повернуть налево на видимом перекрестке в представленной ситуации?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "Вы обязаны воздерживаться от движения в этой ситуации?",
         "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
