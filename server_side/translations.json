@@ -947,7 +947,9 @@
             "Zatrzymanie powinno nastąpić w miejscu wyznaczonym linią": "Остановка должна произойти в месте, обозначенном линией.",
             "Czy wolno Ci kontynuować jazdę w prawo bez zatrzymania?": "Можешь ли ты продолжить движение направо без остановки?",
             "Znak STOP zobowiązuje do zatrzymania": "Знак STOP обязывает остановиться.",
-            "Czy w tej sytuacji wolno Ci skręcić w prawo na najbliższym skrzyżowaniu?": "Разрешено ли вам в данной ситуации повернуть направо на ближайшем перекрестке?"
+            "Czy w tej sytuacji wolno Ci skręcić w prawo na najbliższym skrzyżowaniu?": "Разрешено ли вам в данной ситуации повернуть направо на ближайшем перекрестке?",
+            "Skręt w prawo na skrzyżowaniu jest uniemożliwiony przez znak B-22 (zakaz skrętu w prawo). Za skrętem w drogę poprzeczną widoczny jest znak B-2": "Поворот направо на перекрестке запрещен знаком B-22 (запрещение поворота направо). После поворота на поперечную дорогу виден знак B-2.",
+            "Czy w tej sytuacji wolno Ci skręcić w lewo bez zatrzymania się?": "Разрешается ли тебе в этой ситуации повернуть налево без остановки?"
         }
     },
     "not_approved": {
@@ -2639,6 +2641,7 @@
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время обгона в условиях недостаточной видимости должен соблюдать осторожность.",
         "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте.",
         "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy": "В случае превышения штрафных баллов в количестве 24 и не предоставления свидетельства в требуемый срок о завершении курса переобучения, староста выносит административное решение о изъятии водительского удостоверения.",
-        "Skręt w prawo na skrzyżowaniu jest uniemożliwiony przez znak B-22 (zakaz skrętu w prawo). Za skrętem w drogę poprzeczną widoczny jest znak B-2": "Поворот направо на перекрестке запрещен знаком B-22 (запрещение поворота направо). После поворота на поперечную дорогу виден знак B-2."
+        "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
+        "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов."
     }
 }
