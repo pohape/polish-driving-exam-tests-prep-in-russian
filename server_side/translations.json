@@ -879,7 +879,8 @@
             "Tak, aby widzieć siedzącego z tyłu pasażera": "Так, чтобы видеть сидящего сзади пассажира.",
             "Jak prawidłowo powinieneś ustawić lusterko wsteczne (wewnętrzne)?": "Как правильно следует настроить зеркало заднего вида (внутреннее)?",
             "Czy ten znak poziomy wyznacza miejsce bezwzględnego zatrzymania się, nawet w sytuacji, gdy z żadnej ze stron nie nadjeżdża pojazd?": "Обозначает ли этот горизонтальный знак место абсолютной остановки, даже если ни с одной из сторон не приближается транспортное средство?",
-            "Czy w tej sytuacji masz prawo wyprzedzić tramwaj?": "Имеешь ли ты право обогнать трамвай в этой ситуации?"
+            "Czy w tej sytuacji masz prawo wyprzedzić tramwaj?": "Имеешь ли ты право обогнать трамвай в этой ситуации?",
+            "Zmienić światła mijania na drogowe": "Измените ближний свет на Дальний."
         }
     },
     "not_approved": {
@@ -1351,7 +1352,6 @@
         "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
         "Gwałtownie przyhamować": "Резко затормозить.",
-        "Zmienić światła mijania na drogowe": "Измените ближний свет на Дальний.",
         "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Ты водишь машину. Как вы должны вести себя во время уклонения автомобиля ночью?",
         "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии.",
         "Wezwać pomoc drogową": "Вызовите дорожную помощь.",
