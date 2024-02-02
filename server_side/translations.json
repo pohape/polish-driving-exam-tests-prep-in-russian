@@ -14,7 +14,9 @@
         "Czy na przedstawionej drodze znak zakazujący wyprzedzania przestaje obowiązywać po zakończeniu zakrętu?": "Снимает ли обязательное действие знак запрета на обгон на представленной дороге после окончания поворота?",
         "Odbywa się w kierunku wskazanym strzałkami na znaku C-12": "Перевод фрагмента: \"Осуществляется в направлении, указанном стрелками на знаке C-12.\"",
         "Zatrzymanie przed przejściem nie jest wymagane ze względu na brak pieszych. Ze względu na znak STOP zatrzymanie powinno nastąpić przed linią zatrzymania lub w miejscu o najlepszej widoczności": "Остановка перед переходом не требуется из-за отсутствия пешеходов. Из-за знака СТОП остановка должна произойти перед линией останова или в месте с лучшей видимостью.",
-        "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где возможно изменение направления движения."
+        "Znak C-5 obowiązuje na najbliższym skrzyżowaniu lub w miejscu gdzie występuje możliwość zmiany kierunku jazdy": "Знак C-5 обязателен на ближайшем перекрестке или в месте, где возможно изменение направления движения.",
+        "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязывает ли знак \"Обязательное движение прямо\" на ближайшем перекрестке или в месте, где возможно изменение направления движения?",
+        "Takie zatrzymanie uniemożliwia znak \"Zakaz zatrzymywania\"": "Такую остановку запрещает знак \"Запрещено останавливаться\"."
     },
     "approved": {
         "kontrolujący": {
@@ -966,7 +968,8 @@
             "Znak zakazuje ruchu pojazdów, których wysokość wraz z ładunkiem jest większa od wartości podanej na znaku": "Знак запрещает движение транспортных средств, высота которых вместе с грузом больше значений, указанных на знаке.",
             "Widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu niewynikające z warunków lub przepisów ruchu drogowego, trwające dłużej niż 1 minutę": "Видимый знак запрещает остановку, которая понимается как обездвиживание транспортного средства, не обусловленное дорожными условиями или правилами дорожного движения, длительностью более 1 минуты.",
             "Czy za widocznym znakiem wolno Ci unieruchomić pojazd na dłużej niż 1 minutę?": "Разрешено ли тебе обездвижить транспортное средство на время дольше чем 1 минуту за видимым знаком?",
-            "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
+            "Czy w tej sytuacji wolno Ci zatrzymać samochód osobowy kołami jednego boku na chodniku po prawej stronie jezdni?": "В этой ситуации разрешается ли тебе остановить легковой автомобиль колесами одной стороны на тротуаре с правой стороны проезжей части?"
         }
     },
     "not_approved": {
@@ -2474,7 +2477,6 @@
         "Czy osoba wykonująca na zlecenie lub za zgodą zarządcy drogi roboty na drodze może dawać uczestnikowi drogi polecenia lub sygnały?": "Может ли лицо, выполняющее по заказу или с согласия управляющего дорогой работы на дороге, давать участнику дороги указания или сигналы?",
         "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
-        "Czy w tej sytuacji wolno Ci zatrzymać samochód osobowy kołami jednego boku na chodniku po prawej stronie jezdni?": "Разрешается ли в данной ситуации остановить легковой автомобиль колесами одного бока на тротуаре справа от проезжей части?",
         "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "2 miesięcy": "2 месяца.",
@@ -2660,6 +2662,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
-        "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Обязывает ли знак \"Обязательное движение прямо\" на ближайшем перекрестке или в месте, где возможно изменение направления движения?"
+        "Czy w tej sytuacji ograniczenie prędkości 90 km\/h dotyczy tylko jednego skrajnego prawego pasa ruchu?": "В этой ситуации ограничение скорости 90 км\/ч относится только к крайней правой полосе движения?"
     }
 }
