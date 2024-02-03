@@ -1,6 +1,5 @@
 {
     "incorrect": {
-        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
         "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
         "Obsługiwanie radia": "Управление радио."
     },
@@ -1367,7 +1366,8 @@
             "Sygnalizator S-3 zapewnia bezkolizyjny przejazd przez skrzyżowanie w kierunku wskazanym strzałką": "Светофор S-3 обеспечивает бесконфликтный проезд через перекресток в направлении, указанном стрелкой.",
             "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении.",
             "Świadczy o tym znak informacyjny widoczny na zdjęciu": "Это свидетельствует информационный знак, видимый на фото.",
-            "Zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim z wyjątkiem przejścia, na którym ruch jest kierowany": "Запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним за исключением перехода, на котором движение регулируется."
+            "Zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim z wyjątkiem przejścia, na którym ruch jest kierowany": "Запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним за исключением перехода, на котором движение регулируется.",
+            "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?"
         }
     },
     "not_approved": {
@@ -1764,7 +1764,6 @@
         "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
         "Zdecydowane przyspieszanie": "Решительное ускорение.",
         "Stosowanie opon zimowych": "Использование зимних шин.",
-        "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?",
         "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
         "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
         "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
@@ -2801,6 +2800,8 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
+        "Żeby uniknąć zerwania przyczepności lub unieruchomienia silnika podczas ruszania należy stopniowo zwalniać pedał sprzęgła": "Чтобы избежать потери сцепления или остановки двигателя во время начала движения, необходимо плавно отпускать педаль сцепления.",
+        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода."
     }
 }
