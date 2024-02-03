@@ -1328,7 +1328,10 @@
             "Która z wymienionych czynności jest zabroniona podczas kierowania pojazdem?": "Какое из перечисленных действий запрещено во время управления транспортным средством?",
             "Używanie nawigacji GPS": "Использование навигации GPS.",
             "Rozmawianie przez telefon, który wymaga trzymania słuchawki lub mikrofonu w ręku": "Разговор по телефону, который требует держать трубку или микрофон в руке.",
-            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует ли быть осторожным и соблюдать безопасное расстояние во время проезда мимо ТС?"
+            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует ли быть осторожным и соблюдать безопасное расстояние во время проезда мимо ТС?",
+            "Na co, przede wszystkim, może mieć wpływ nieprawidłowe ustawienie lusterek zewnętrznych w pojeździe samochodowym?": "На что, прежде всего, может повлиять неправильная регулировка наружных зеркал в автомобиле?",
+            "Na bezpieczeństwo podczas wymijania": "На безопасность во время проезда мимо ТС.",
+            "Na bezpieczeństwo w czasie zwiększania prędkości": "На безопасность во время увеличения скорости."
         }
     },
     "not_approved": {
@@ -2776,9 +2779,6 @@
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность.",
-        "Na bezpieczeństwo podczas wymijania": "На безопасность во время проезда мимо ТС.",
-        "Na bezpieczeństwo w czasie zwiększania prędkości": "Для безопасности при увеличении скорости.",
-        "Na co, przede wszystkim, może mieć wpływ nieprawidłowe ustawienie lusterek zewnętrznych w pojeździe samochodowym?": "На что, прежде всего, может повлиять неправильная регулировка наружных зеркал в автомобиле?",
-        "Na bezpieczeństwo podczas zmiany pasa ruchu": "В интересах безопасности во время смены полосы движения."
+        "Na bezpieczeństwo podczas zmiany pasa ruchu": "Для безопасности во время смены полосы движения."
     }
 }
