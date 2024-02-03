@@ -1147,7 +1147,10 @@
             "O wysokim poziomie płynu hamulcowego w zbiorniku wyrównawczym": "О высоком уровне тормозной жидкости в расширительном бачке.",
             "O działaniu układu przeciwblokującego (ABS)": "О работе антиблокировочной системы (ABS).",
             "Jaka pozycja za kierownicą umożliwi zmniejszenie efektu tzw. martwego pola w lusterkach, występującego w czasie obserwacji drogi?": "Какое положение за рулем позволит уменьшить эффект так называемой \"слепой зоны\" в зеркалах, возникающей во время наблюдения за дорогой?",
-            "Statyczna - sztywne siedzenie na fotelu, bez ruchów tułowia i głowy": "Статическая - неподвижное сидение в кресле, без движений туловища и головы."
+            "Statyczna - sztywne siedzenie na fotelu, bez ruchów tułowia i głowy": "Статическая - неподвижное сидение в кресле, без движений туловища и головы.",
+            "Zamierzasz holować motocyklem inny motocykl. W jaki sposób oba pojazdy powinny być ze sobą połączone?": "Вы собираетесь буксировать мотоциклом другой мотоцикл. Каким образом оба транспортных средства должны быть соединены между собой?",
+            "Połączeniem giętkim, w sposób umożliwiający łatwe odczepienie": "Гибкой сцепкой, обеспечивающей простое отсоединение.",
+            "Połączeniem giętkim, w sposób wykluczający możliwość odczepienia": "Гибкой сцепкой, способом исключающим возможность отцепления."
         }
     },
     "not_approved": {
@@ -2706,6 +2709,7 @@
         "Jak należy prawidłowo rozpocząć resuscytację krążeniowo-oddechową małego dziecka (przedszkolaka), u którego doszło do nagłego zatrzymania krążenia, prowadzoną przez jednego ratownika?": "Как правильно начать сердечно-легочную реанимацию маленького ребенка (дошкольника), у которого произошла внезапная остановка кровообращения, осуществляемую одним спасателем?",
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха.",
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
-        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы."
+        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
+        "Połączeniem sztywnym": "Жёсткой сцепкой."
     }
 }
