@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В данной ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет того, что вы будете осторожны?"
+        "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В данной ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет того, что вы будете осторожны?",
+        "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?"
     },
     "approved": {
         "otoczenie": {
@@ -1281,7 +1282,11 @@
             "Zamierzasz wjechać na lewy pas ruchu. Czy masz pierwszeństwo przed pojazdami, które się nim poruszają?": "Вы планируете въехать на левую полосу движения. Имеете ли вы преимущество перед транспортными средствами, которые движутся по ней?",
             "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли подаваемый сигнал, что через мгновение загорится красный сигнал?",
             "Czy w tej sytuacji wolno Ci zaparkować pojazd na poboczu?": "В этой ситуации разрешается ли вам припарковать транспортное средство на обочине?",
-            "Czy w tej sytuacji postąpiłeś właściwie, zmieniając pas ruchu?": "В этой ситуации поступили ли вы правильно, меняя полосу движения?"
+            "Czy w tej sytuacji postąpiłeś właściwie, zmieniając pas ruchu?": "В этой ситуации поступили ли вы правильно, меняя полосу движения?",
+            "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли мигающий жёлтый сигнал, что через мгновение загорится зелёный сигнал?",
+            "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdem, który jest napędzany gazem ziemnym?": "Разрешает ли этот знак въезд в зону чистого транспорта транспортным средством, которое приводится в движение сжиженным газом?",
+            "Czy w tej sytuacji należy zatrzymać się przed sygnalizatorem?": "В этой ситуации следует остановиться перед светофором?",
+            "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?"
         }
     },
     "not_approved": {
@@ -1300,7 +1305,6 @@
         "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
-        "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
         "Czy ten znak poziomy wyznacza pas postojowy?": "Обозначает ли этот горизонтальный знак парковочную полосу?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
@@ -1409,7 +1413,6 @@
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
-        "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?",
         "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": "Достаточно ли в этой ситуации проявлять особую осторожность?",
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
         "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?": "Разрешается ли вам проехать через видимый переезд после трогания автомобиля, находящегося перед вами, без повторной остановки?",
@@ -2446,7 +2449,6 @@
         "Czy ten znak zezwala na wjazd do strefy czystego transportu tylko pojazdom elektrycznym?": "Разрешает ли этот знак въезд в зону чистого транспорта только электрическим транспортным средствам?",
         "Mogą również wjeżdżać pojazdy zasilane między innymi CNG, wodorem i LNG": "Также могут въезжать транспортные средства, заправляемые, в том числе, сжатым природным газом (CNG), водородом и сжиженным природным газом (LNG).",
         "Pojazdy napędzane wodorem nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства на водородном топливе не загрязняют окружающую среду в значительной степени.",
-        "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdem, który jest napędzany gazem ziemnym?": "Разрешает ли этот знак въезд в зону чистого транспорта транспортным средством, которое приводится в движение сжиженным газом?",
         "Pojazdy napędzane CNG i LNG nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства, работающие на CNG и LNG, не загрязняют окружающую среду в значительной степени.",
         "Czy najbliższy znak informuje kierującego pojazdem, że wjazd na drogę znajdującą się po prawej stronie jest zabroniony dla niektórych pojazdów?": "Информирует ли ближайший знак водителя транспортного средства о том, что въезд на дорогу, находящуюся справа, запрещен для некоторых транспортных средств?",
         "Na filmie jest widoczny znak F-6: znak uprzedzający o zakazie, umieszczany przed skrzyżowaniem": "На видео виден знак F-6: предупреждающий знак о запрете, устанавливаемый перед перекрестком.",
@@ -2767,7 +2769,6 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
-        "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли мигающий жёлтый сигнал, что через мгновение загорится зелёный сигнал?"
+        "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч."
     }
 }
