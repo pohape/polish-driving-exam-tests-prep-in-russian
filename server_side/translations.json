@@ -1216,7 +1216,11 @@
             "Czy w tej sytuacji masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации у тебя есть обязанность сигнализировать о намерении смены полосы движения?",
             "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?",
             "Czy w tej sytuacji masz prawo zrezygnować z użycia kierunkowskazu przy zmianie pasa?": "В этой ситуации вы имеете право отказаться от использования указателя поворота при смене полосы движения?",
-            "Czy w tej sytuacji przejeżdżając obok przystanku autobusowego musisz zachować szczególną ostrożność?": "В этой ситуации проезжая мимо автобусной остановки, должен ли ты соблюдать особую осторожность?"
+            "Czy w tej sytuacji przejeżdżając obok przystanku autobusowego musisz zachować szczególną ostrożność?": "В этой ситуации проезжая мимо автобусной остановки, должен ли ты соблюдать особую осторожность?",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu bez zatrzymania się przed sygnalizatorem?": "Можешь ли ты в этой ситуации повернуть направо на перекрестке без остановки перед светофором?",
+            "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
+            "Czy w tej sytuacji wolno Ci zawrócić na najbliższym skrzyżowaniu?": "В данной ситуации разрешено ли вам развернуться на ближайшем перекрестке?",
+            "Czy za tym znakiem masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "Имеете ли вы право остановить легковой автомобиль за этим знаком колесами одной стороны на тротуаре?"
         }
     },
     "not_approved": {
@@ -1689,7 +1693,6 @@
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
         "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
         "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
-        "Czy za tym znakiem masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "Имеете ли вы право остановить легковой автомобиль за этим знаком колесами одной стороны на тротуаре?",
         "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части.",
         "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
         "Znak widoczny na zdjęciu to zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych": "Знак, видимый на фотографии, это запрет въезда многоколейных транспортных средств за исключением одноколейных мотоциклов.",
@@ -1711,7 +1714,6 @@
         "Zakaz skrętu w lewo uniemożliwia zawracanie na najbliższym skrzyżowaniu": "Знак запрета поворота налево запрещает разворот на ближайшем перекрестке.",
         "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
         "Znak widoczny na zdjęciu oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku": "Знак, видимый на фотографии, означает, что на перекрестке движение осуществляется вокруг островка или площади в направлении, указанном на знаке.",
-        "Czy w tej sytuacji wolno Ci zawrócić na najbliższym skrzyżowaniu?": "В данной ситуации разрешено ли вам развернуться на ближайшем перекрестке?",
         "Na najbliższym skrzyżowaniu nie można skręcić w lewo i zawrócić": "На ближайшем перекрестке нельзя повернуть налево и развернуться.",
         "Widoczny na zdjęciu znak to zakaz zawracania": "Знак, видимый на фотографии, означает запрет на разворот.",
         "Ten znak to zakaz skręcania w prawo": "Этот знак означает запрет на поворот направо.",
@@ -2205,7 +2207,6 @@
         "drogowych": "дальнего света.",
         "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
         "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?": "В этой ситуации, приближаясь к железнодорожному переезду, обязаны ли вы остановить транспортное средство перед знаком STOP?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu bez zatrzymania się przed sygnalizatorem?": "Можешь ли ты в этой ситуации повернуть направо на перекрестке без остановки перед светофором?",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
         "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
@@ -2540,7 +2541,6 @@
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy bez zatrzymania po upewnieniu się, że nie nadjeżdża pojazd szynowy?": "Имеете ли вы право в данной ситуации въехать на железнодорожный переезд без остановки после убеждения, что не приближается железнодорожный транспорт?",
-        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
