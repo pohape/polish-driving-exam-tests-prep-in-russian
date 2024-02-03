@@ -1256,7 +1256,11 @@
             "Znak widoczny na zdjęciu to zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych": "Знак, видимый на фотографии, это запрет въезда многоколейных транспортных средств за исключением одноколейных мотоциклов.",
             "Zabrania się wyprzedzania na przejeździe kolejowym": "Запрещается обгон на железнодорожном переезде.",
             "Linia oddzielająca pobocze uniemożliwia zatrzymanie przy prawej krawędzi": "Линия, разделяющая обочину, не позволяет остановиться у правого края.",
-            "Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni": "Водитель транспортного средства обязан ехать как можно ближе к правому краю проезжей части."
+            "Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni": "Водитель транспортного средства обязан ехать как можно ближе к правому краю проезжей части.",
+            "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu": "Водитель обязан заблаговременно и четко подавать сигнал о намерении изменить направление движения или сменить полосу движения.",
+            "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
+            "Znak wraz z tabliczką o tym świadczą": "Знак вместе с табличкой об этом свидетельствует.",
+            "Zamierzając zmienić pas ruchu należy to zawczasu i wyraźnie zasygnalizować": "Намереваясь сменить полосу движения, необходимо заблаговременно и четко это указать сигналом."
         }
     },
     "not_approved": {
@@ -1848,7 +1852,6 @@
         "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных ТС?",
         "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
         "Świadczy o tym tabliczka umieszczona pod znakiem": "Это указывает табличка, расположенная под знаком.",
-        "Znak wraz z tabliczką o tym świadczą": "Знак вместе с табличкой об этом свидетельствует.",
         "Czy jadąc samochodem osobowym wolno Ci skręcić w prawo za tym znakiem?": "Вы разрешено поворачивать направо за этим знаком, когда вы едете на легковом автомобиле?",
         "Uprzedzenie o zakazie nie dotyczy samochodów osobowych": "Предупреждение о запрете не относится к легковым автомобилям.",
         "Czy w tej sytuacji bezpośrednio za widocznym znakiem kończy się droga ekspresowa?": "В этой ситуации непосредственно за видимым знаком заканчивается \"droga ekspresowa\"?",
@@ -2496,7 +2499,6 @@
         "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
-        "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
         "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
         "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?",
