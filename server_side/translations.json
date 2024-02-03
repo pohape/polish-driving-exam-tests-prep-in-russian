@@ -1515,7 +1515,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
         "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
         "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": "В этой ситуации видимый знак справа сообщает вам, что вы приближаетесь к трамвайной остановке?",
-        "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли листья, лежащие на проезжей части, повлиять на длину пути остановки транспортного средства?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Gdy wyprzedzany pojazd jest 100 metrów za mną": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
@@ -2808,7 +2807,6 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общее расстояние остановки оказывает время реакции водителя."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
     }
 }
