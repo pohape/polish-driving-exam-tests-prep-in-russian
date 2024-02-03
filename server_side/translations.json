@@ -1254,7 +1254,9 @@
             "Zabrania się wjazdu gdy zapory nie są podniesione całkowicie": "Запрещается въезд, когда шлагбаумы не подняты полностью.",
             "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
             "Znak widoczny na zdjęciu to zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych": "Знак, видимый на фотографии, это запрет въезда многоколейных транспортных средств за исключением одноколейных мотоциклов.",
-            "Zabrania się wyprzedzania na przejeździe kolejowym": "Запрещается обгон на железнодорожном переезде."
+            "Zabrania się wyprzedzania na przejeździe kolejowym": "Запрещается обгон на железнодорожном переезде.",
+            "Linia oddzielająca pobocze uniemożliwia zatrzymanie przy prawej krawędzi": "Линия, разделяющая обочину, не позволяет остановиться у правого края.",
+            "Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni": "Водитель транспортного средства обязан ехать как можно ближе к правому краю проезжей части."
         }
     },
     "not_approved": {
@@ -2087,7 +2089,6 @@
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м.",
         "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
-        "Kierujący pojazdem jest obowiązany jechać możliwie blisko prawej krawędzi jezdni": "Водитель транспортного средства обязан ехать как можно ближе к правому краю проезжей части.",
         "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
         "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
@@ -2760,6 +2761,6 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
-        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Необезопасенный транспортное средство может привести к дополнительному ущербу."
+        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям."
     }
 }
