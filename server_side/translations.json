@@ -1351,7 +1351,10 @@
             "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej": "За обгон с нарушением одиночной сплошной линии.",
             "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное в регистрационном свидетельстве легкового автомобиля.",
             "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС.",
-            "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя при прохождении мимо встречного ТС ночью на легковом автомобиле?"
+            "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя при прохождении мимо встречного ТС ночью на легковом автомобиле?",
+            "Bezpieczny, ale nie mniejszy niż 1,5 metra": "Безопасный, но не менее 1,5 метра.",
+            "Bezpieczny, czyli zawsze taki sam": "Безопасный, то есть всегда один и тот же.",
+            "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?": "Какое расстояние следует соблюдать при проезде легковым автомобилем мимо другого встречного ТС?"
         }
     },
     "not_approved": {
@@ -1394,7 +1397,6 @@
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
         "Czy za tym znakiem wolno Ci zwiększyć prędkość do 130 km\/h?": "За этим знаком вам разрешено увеличивать скорость до 130 км\/ч?",
-        "Bezpieczny, czyli zawsze taki sam": "Безопасный, то есть всегда один и тот же.",
         "Pod który z podanych numerów powinieneś zadzwonić, aby wezwać karetkę pogotowia ratunkowego na miejsce wypadku drogowego?": "По какому из указанных номеров следует позвонить, чтобы вызвать скорую помощь на место ДТП?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?",
@@ -1411,7 +1413,6 @@
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
-        "Bezpieczny, ale nie mniejszy niż 1,5 metra": "Безопасный, но не менее 1,5 метра.",
         "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
         "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS-система, используемая в автотранспортных средствах для предотвращения блокировки колес при торможении.",
