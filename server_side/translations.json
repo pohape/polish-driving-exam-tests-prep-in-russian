@@ -1142,7 +1142,9 @@
             "Obszar za pojazdem i boki pojazdu": "Область сзади транспортного средства и бока транспортного средства.",
             "Tylko sąsiedni pas ruchu": "Только соседняя полоса движения.",
             "Dynamiczna - w zależności od sytuacji odchylanie tułowia i głowy od fotela": "Динамическая - в зависимости от ситуации отклонение туловища и головы от спинки сиденья.",
-            "Dowolna - przede wszystkim dająca wygodę kierowania": "Произвольная - прежде всего обеспечивающая удобство управления."
+            "Dowolna - przede wszystkim dająca wygodę kierowania": "Произвольная - прежде всего обеспечивающая удобство управления.",
+            "15 uciśnięć i następnie 2 wdechy": "15 нажатий и затем 2 вдоха.",
+            "30 uciśnięć i następnie 2 wdechy": "30 нажатий и затем 2 вдоха."
         }
     },
     "not_approved": {
@@ -2703,8 +2705,6 @@
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
         "Jak należy prawidłowo rozpocząć resuscytację krążeniowo-oddechową małego dziecka (przedszkolaka), u którego doszło do nagłego zatrzymania krążenia, prowadzoną przez jednego ratownika?": "Как правильно начать сердечно-легочную реанимацию маленького ребенка (дошкольника), у которого произошла внезапная остановка кровообращения, осуществляемую одним спасателем?",
-        "15 uciśnięć i następnie 2 wdechy": "15 нажатий и затем 2 вдоха.",
-        "30 uciśnięć i następnie 2 wdechy": "30 нажатий и затем 2 вдоха.",
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха."
     }
 }
