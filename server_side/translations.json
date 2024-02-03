@@ -1262,7 +1262,11 @@
             "Sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom": "Сигнал красный вместе с сигналом в форме зеленой стрелки означает, что разрешен поворот в направлении, указанном стрелкой, на ближайшую проезжую часть на перекрестке, при условии, что водитель остановится перед светофором и не вызовет затруднения движения для других его участников.",
             "Nie ma żadnego elementu (znaki drogowe, sygnalizacja), który uniemożliwiałby zawracanie": "Нет ни одного элемента (дорожные знаки, светофор), который бы запрещал разворот.",
             "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части.",
-            "Pulsacyjne wciskanie pedału hamulca": "Прерывистое нажатие на педаль тормоза."
+            "Pulsacyjne wciskanie pedału hamulca": "Прерывистое нажатие на педаль тормоза.",
+            "Który ze sposobów hamowania samochodu osobowego wyposażonego w system ABS jest najbardziej efektywny?": "Какой из способов торможения легкового автомобиля, оснащенного системой ABS, является наиболее эффективным?",
+            "Hamowania pulsacyjnego": "Прерывистого торможения.",
+            "Hamowanie pulsacyjne imituje działanie systemu ABS": "Прерывистое торможение имитирует действие системы ABS.",
+            "Prawidłowe ustawienie zbieżności zapewnia możliwość zachowania prostego toru jazdy": "Правильная настройка схождения обеспечивает возможность сохранения прямого направления движения."
         }
     },
     "not_approved": {
@@ -1579,7 +1583,6 @@
         "Do 50 km\/h": "До 50 км \/ ч.",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
-        "Który ze sposobów hamowania samochodu osobowego wyposażonego w system ABS jest najbardziej efektywny?": "Какой из способов торможения легкового автомобиля, оснащенного системой ABS, является наиболее эффективным?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
@@ -2195,7 +2198,6 @@
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
         "112 lub 999": "112 или 999",
-        "Prawidłowe ustawienie zbieżności zapewnia możliwość zachowania prostego toru jazdy": "Правильная настройка схождения обеспечивает возможность сохранения прямого направления движения.",
         "Czy w tej sytuacji wolno Ci wykonać manewr wyprzedzania?": "В данной ситуации разрешается ли вам выполнить маневр обгона?",
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
@@ -2763,6 +2765,7 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
-        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям."
+        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
+        "Ogrzewanie tylnej szyby sygnalizuje kontrolka \"B\"": "Контрольная лампа \"B\" сигнализирует об обогреве заднего стекла."
     }
 }
