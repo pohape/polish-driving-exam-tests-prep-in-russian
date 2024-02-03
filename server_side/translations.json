@@ -1286,7 +1286,9 @@
             "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли мигающий жёлтый сигнал, что через мгновение загорится зелёный сигнал?",
             "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdem, który jest napędzany gazem ziemnym?": "Разрешает ли этот знак въезд в зону чистого транспорта транспортным средством, которое приводится в движение сжиженным газом?",
             "Czy w tej sytuacji należy zatrzymać się przed sygnalizatorem?": "В этой ситуации следует остановиться перед светофором?",
-            "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?"
+            "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?",
+            "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
+            "Czy w tej sytuacji możesz rozpocząć wyprzedzanie?": "В этой ситуации вы можете начать обгон?"
         }
     },
     "not_approved": {
@@ -1854,7 +1856,6 @@
         "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
         "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
-        "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
         "Świadczy o tym znak informacyjny widoczny na zdjęciu": "Это свидетельствует информационный знак, видимый на фото.",
         "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
         "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
