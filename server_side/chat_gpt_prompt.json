@@ -19,6 +19,21 @@
         ]
     },
     "dictionary": {
+        "jałowa gaza: стерильная повязка": [
+            "jałow"
+        ],
+        "zatrzymanie prawa jazdy: временное изъятие водительского удостоверения": [
+            "zatrzyma"
+        ],
+        "linia zatrzymania: стоп-линия": [
+            "zatrzyma"
+        ],
+        "zatrzymanie powinno nastąpić przed linią zatrzymania: остановка должна произойти перед стоп-линией": [
+            "zatrzyma"
+        ],
+        "znak \"Zakaz zatrzymywania\": знак \"Остановка запрещена\"": [
+            "zatrzyma"
+        ],
         "włączić się do ruchu: включиться в движение": [
             "do ruchu"
         ],
