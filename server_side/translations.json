@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "Obsługiwanie radia": "Управление радио.",
-        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "Можешь ли ты в каждом фаре легкового автомобиля использовать ксеноновую лампу вместо галогеновой?"
+        "Obsługiwanie radia": "Управление радио."
     },
     "approved": {
         "otoczenie": {
@@ -2803,6 +2802,12 @@
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода."
+        "Ładunek na pojeździe umieszcza się w taki sposób, aby nie ograniczał widoczności drogi": "Груз на транспортном средстве располагают таким образом, чтобы не ограничивать видимость дороги.",
+        "Tak, aby w lusterku nie był widoczny bok pojazdu": "Так, чтобы в зеркале не была видна боковая часть транспортного средства.",
+        "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km\/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres 3 miesięcy": "В случае, когда водитель превысил разрешенную скорость более чем на 50 км\/ч в населенном пункте, староста выносит административное решение о временном изъятии водительского удостоверения на срок 3 месяца.",
+        "Kierujący pojazdem może używać świateł drogowych, o ile między innymi nie oślepi innych kierujących": "Водитель транспортного средства может использовать дальний свет фар, при условии, что он не ослепляет других водителей.",
+        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов трансмиссии.",
+        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "Разрешается ли вам в каждом фаре легкового автомобиля использовать ксеноновую лампу вместо галогенной?",
+        "W prawidłowo ustawionych lusterkach powinno się widzieć obszar za pojazdem i boki pojazdu": "В правильно настроенных зеркалах следует видеть область сзади транспортного средства и бока транспортного средства."
     }
 }
