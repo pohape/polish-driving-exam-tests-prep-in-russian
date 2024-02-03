@@ -126,7 +126,7 @@
             "50 km\/h w obszarze zabudowanym obowiązuje przez całą dobę": "50 км\/ч в населённом пункте действует круглосуточно.",
             "Czy prędkość dopuszczalna 50 km\/h obowiązuje na obszarze zabudowanym przez całą dobę?": "Действует ли ограничение скорости 50 км\/ч в населенном пункте круглосуточно?",
             "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?": "На какой дороге для водителя установлено правило строгого поддержания минимального интервала от впереди идущего ТС?",
-            "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Действует ли знак \"Проезд только прямо\" на ближайшем перекрестке или в месте, где существует возможность изменения направления движения?"
+            "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Действует ли знак \"Движение прямо\" на ближайшем перекрестке или в месте, где существует возможность изменения направления движения?"
         },
         "kontrolujący": {
             "Czy po zatrzymaniu pojazdu do kontroli, kierujący pojazdem może z niego wysiąść bez pozwolenia kontrolującego?": "После остановки транспортного средства для досмотра, может ли водитель автомобиля выйти из него без разрешения должностного лица?",
@@ -860,7 +860,7 @@
             "Czy w tej sytuacji dozwolone jest zawracanie na skrzyżowaniu?": "В данной ситуации разрешено ли разворачиваться на перекрестке?",
             "Zakaz skrętu w lewo uniemożliwia również zawracanie": "Запрет на поворот налево также не разрешает разворот.",
             "Czy w tej sytuacji jesteś informowany, że poruszasz się drogą jednokierunkową?": "В данной ситуации вас информируют о том, что вы движетесь по односторонней дороге?",
-            "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак обязательного направления движения прямо.",
+            "Znak widoczny na zdjęciu to nakaz jazdy prosto": "Знак, видимый на фотографии, это знак \"Движение прямо\".",
             "Czy w tej sytuacji masz prawo wjechać na drogę za tym znakiem pionowym, jeżeli nie utrudnisz ruchu innym pojazdom?": "Имеете ли вы право въехать на дорогу за этим вертикальным знаком, если вы не будете мешать движению других ТС?",
             "Widoczny znak to zakaz wjazdu": "Видимый знак - это знак запрещения въезда.",
             "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się?": "В этой ситуации вы имеете право въехать на перекресток без остановки?",
@@ -1041,7 +1041,7 @@
             "Czy w przedstawionej sytuacji możesz zatrzymać pojazd przed znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство перед знаком на обочине?",
             "Czy w przedstawionej sytuacji dozwolone jest zawracanie?": "Разрешен ли разворот в представленной ситуации?",
             "Widoczny znak to zakaz zawracania": "Видимый знак - это запрет разворота.",
-            "Widoczny znak to nakaz jazdy prosto": "Видимый знак - это знак обязательного движения прямо.",
+            "Widoczny znak to nakaz jazdy prosto": "Видимый знак - это знак \"Движение прямо\".",
             "Czy w przedstawionej sytuacji możesz skręcić na widocznym skrzyżowaniu w lewo?": "Можешь ли ты в представленной ситуации повернуть на видимом перекрестке налево?",
             "Czy w przedstawionej sytuacji możesz skręcić w prawo?": "Можешь ли ты в данной ситуации повернуть направо?",
             "Czy w tej sytuacji musisz zatrzymać się dokładnie przed znakiem pionowym \"Stop\"?": "В этой ситуации вы должны остановиться точно перед вертикальным знаком \"Стоп\"?",
@@ -1055,7 +1055,7 @@
             "Widoczny na nagraniu znak nakazuje jazdę z jego prawej strony": "Видимый на записи знак обязывает ехать с его правой стороны.",
             "Czy na najbliższym skrzyżowaniu ruch odbywa się dookoła wyspy w obu kierunkach?": "На ближайшем перекрёстке движение осуществляется по кругу в обоих направлениях?",
             "Czy zgodnie z wskazanym z prawej strony znakiem pionowym, masz obowiązek kontynuować jazdę prosto na najbliższym skrzyżowaniu?": "В соответствии с вертикальным знаком, указанным справа, вы обязаны продолжать движение прямо на ближайшем перекрестке?",
-            "Znak C-5 - nakaz jazdy prosto": "Знак C-5 - указание ехать прямо.",
+            "Znak C-5 - nakaz jazdy prosto": "Знак C-5 - \"Движение прямо\".",
             "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci kontynuować jazdę na wprost?": "В данной ситуации, управляя легковым автомобилем, разрешено ли тебе продолжить движение прямо?",
             "Znak nie dotyczy samochodów osobowych z przyczepą lekką": "Знак не касается легковых автомобилей с лёгким прицепом.",
             "Czy w tej sytuacji masz obowiązek zatrzymać się dokładnie przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановиться точно перед пешеходным переходом?",
