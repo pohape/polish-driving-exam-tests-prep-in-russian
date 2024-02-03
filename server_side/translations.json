@@ -5,7 +5,8 @@
         "Ostrzegawczy trójkąt odblaskowy": "Отражающий предупредительный треугольник.",
         "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это вызывает неудобства, связанные с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:",
         "Czy apteczka doraźnej pomocy jest obowiązkowym wyposażeniem każdego pojazdu samochodowego?": "Является ли аптечка первой помощи обязательным оборудованием каждого автомобиля?",
-        "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?"
+        "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?",
+        "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии."
     },
     "approved": {
         "strefa zamieszkania": {
@@ -1184,7 +1185,12 @@
             "Który z wymienionych czynników ma wpływ na ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов влияет на ограничение поля зрения водителя легкового автомобиля?",
             "Kierowanie pojazdem w stanie nietrzeźwości": "Управление транспортным средством в состоянии опьянения.",
             "Nie, ale warto ją mieć": "Не, но стоит её иметь.",
-            "Tak, jeżeli jest wyposażony w instalację gazową": "Да, если он оборудован газовой установкой."
+            "Tak, jeżeli jest wyposażony w instalację gazową": "Да, если он оборудован газовой установкой.",
+            "Wezwać pomoc drogową": "Вызовите дорожную помощь.",
+            "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать при объезде легковым автомобилем препятствия на дороге?",
+            "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu": "Безопасный, зависит от ширины проезжей части и условий движения.",
+            "Bezpieczny, czyli zawsze jednakowy": "Безопасно, то есть всегда одинаково.",
+            "Bezpieczny, ale nie mniejszy niż 0,8 metra": "Безопасный, но не меньше чем 0,8 метра."
         }
     },
     "not_approved": {
@@ -1280,7 +1286,6 @@
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
         "Jaki odstęp należy zachować podczas wyprzedzania motocykla?": "Какой интервал следует соблюдать при обгоне мотоцикла?",
         "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
-        "Bezpieczny, czyli zawsze jednakowy": "Безопасно, то есть всегда одинаково.",
         "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств.",
         "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
@@ -1499,7 +1504,6 @@
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
-        "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu": "Безопасный, зависит от ширины проезжей части и условий движения.",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
         "Pojazd holowany, z wyjątkiem motocykla, powinien być oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym": "Буксируемое транспортное средство, за исключением мотоцикла, должно быть обозначено сзади слева предупреждающим отражающим треугольником.",
@@ -1626,8 +1630,6 @@
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
         "Gwałtownie przyhamować": "Резко затормозить.",
         "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Ты водишь машину. Как вы должны вести себя во время уклонения автомобиля ночью?",
-        "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии.",
-        "Wezwać pomoc drogową": "Вызовите дорожную помощь.",
         "Z jaką dopuszczalną maksymalną prędkością wolno Ci kierować samochodem osobowym z przyczepą po drodze za tym znakiem?": "На какой допустимой максимальной скорости вам разрешено управлять легковым автомобилем с прицепом по дороге за этим знаком?",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
@@ -2058,8 +2060,6 @@
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического контроля транспортных средств.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyku wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze?": "Влияет ли прием водителем небольшого количества наркотического средства на улучшение способности правильно оценить риск на дороге?",
-        "Bezpieczny, ale nie mniejszy niż 0,8 metra": "Безопасный, но не меньше чем 0,8 метра.",
-        "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать при объезде легковым автомобилем препятствия на дороге?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
