@@ -1367,7 +1367,9 @@
             "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении.",
             "Świadczy o tym znak informacyjny widoczny na zdjęciu": "Это свидетельствует информационный знак, видимый на фото.",
             "Zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim z wyjątkiem przejścia, na którym ruch jest kierowany": "Запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним за исключением перехода, на котором движение регулируется.",
-            "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?"
+            "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?",
+            "Kontynuowanie jazdy przy niskim ciśnieniu oleju w silniku doprowadzi do poważnego i trwałego uszkodzenia jednostki napędowej": "Продолжение движения при низком давлении масла в двигателе приведет к серьезному и необратимому повреждению силового агрегата.",
+            "Żeby uniknąć zerwania przyczepności lub unieruchomienia silnika podczas ruszania należy stopniowo zwalniać pedał sprzęgła": "Чтобы избежать потери сцепления или остановки двигателя во время начала движения, необходимо плавно отпускать педаль сцепления."
         }
     },
     "not_approved": {
@@ -2801,7 +2803,6 @@
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Żeby uniknąć zerwania przyczepności lub unieruchomienia silnika podczas ruszania należy stopniowo zwalniać pedał sprzęgła": "Чтобы избежать потери сцепления или остановки двигателя во время начала движения, необходимо плавно отпускать педаль сцепления.",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода."
     }
 }
