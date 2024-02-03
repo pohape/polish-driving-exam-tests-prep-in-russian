@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Obsługiwanie radia": "Управление радио."
+        "Obsługiwanie radia": "Управление радио.",
+        "Zabrania się stosowania w pojeździe przedmiotów wyposażenia i części nieodpowiadających warunkom określonym w przepisach szczegółowych": "Запрещается использовать в транспортном средстве предметы оборудования и части, которые не соответствуют условиям, определенным в детальных правилах."
     },
     "approved": {
         "otoczenie": {
@@ -1368,7 +1369,10 @@
             "Zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim z wyjątkiem przejścia, na którym ruch jest kierowany": "Запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним за исключением перехода, на котором движение регулируется.",
             "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?",
             "Kontynuowanie jazdy przy niskim ciśnieniu oleju w silniku doprowadzi do poważnego i trwałego uszkodzenia jednostki napędowej": "Продолжение движения при низком давлении масла в двигателе приведет к серьезному и необратимому повреждению силового агрегата.",
-            "Żeby uniknąć zerwania przyczepności lub unieruchomienia silnika podczas ruszania należy stopniowo zwalniać pedał sprzęgła": "Чтобы избежать потери сцепления или остановки двигателя во время начала движения, необходимо плавно отпускать педаль сцепления."
+            "Żeby uniknąć zerwania przyczepności lub unieruchomienia silnika podczas ruszania należy stopniowo zwalniać pedał sprzęgła": "Чтобы избежать потери сцепления или остановки двигателя во время начала движения, необходимо плавно отпускать педаль сцепления.",
+            "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов трансмиссии.",
+            "W prawidłowo ustawionych lusterkach powinno się widzieć obszar za pojazdem i boki pojazdu": "В правильно настроенных зеркалах следует видеть область сзади транспортного средства и бока транспортного средства.",
+            "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "Разрешается ли вам в каждом фаре легкового автомобиля использовать ксеноновую лампу вместо галогенной?"
         }
     },
     "not_approved": {
@@ -2754,7 +2758,6 @@
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
         "Rodzaj nawierzchni oraz warunki panujące na drodze powinny mieć wpływ na dobór bezpiecznej prędkości": "Тип дорожного покрытия, а также условия, царящие на дороге, должны влиять на выбор безопасной скорости.",
-        "Zabrania się stosowania w pojeździe przedmiotów wyposażenia i części nieodpowiadających warunkom określonym w przepisach szczegółowych": "Запрещается использовать в транспортном средстве предметы оборудования и части, которые не соответствуют условиям, определенным в детальных правилах.",
         "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, обязан ли ты остановиться в случае необходимости?",
         "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
@@ -2805,9 +2808,6 @@
         "Ładunek na pojeździe umieszcza się w taki sposób, aby nie ograniczał widoczności drogi": "Груз на транспортном средстве располагают таким образом, чтобы не ограничивать видимость дороги.",
         "Tak, aby w lusterku nie był widoczny bok pojazdu": "Так, чтобы в зеркале не была видна боковая часть транспортного средства.",
         "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km\/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres 3 miesięcy": "В случае, когда водитель превысил разрешенную скорость более чем на 50 км\/ч в населенном пункте, староста выносит административное решение о временном изъятии водительского удостоверения на срок 3 месяца.",
-        "Kierujący pojazdem może używać świateł drogowych, o ile między innymi nie oślepi innych kierujących": "Водитель транспортного средства может использовать дальний свет фар, при условии, что он не ослепляет других водителей.",
-        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов трансмиссии.",
-        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "Разрешается ли вам в каждом фаре легкового автомобиля использовать ксеноновую лампу вместо галогенной?",
-        "W prawidłowo ustawionych lusterkach powinno się widzieć obszar za pojazdem i boki pojazdu": "В правильно настроенных зеркалах следует видеть область сзади транспортного средства и бока транспортного средства."
+        "Kierujący pojazdem może używać świateł drogowych, o ile między innymi nie oślepi innych kierujących": "Водитель транспортного средства может использовать дальний свет фар, при условии, что он не ослепляет других водителей."
     }
 }
