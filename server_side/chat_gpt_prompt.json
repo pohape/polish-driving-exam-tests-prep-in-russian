@@ -3,6 +3,15 @@
     "short_notice": "Даже если фрагмент очень короткий, содержит всего одно или два слова, или не имеет отношения к ПДД, всё равно переведи без добавления какой-либо дополнительной информации.",
     "dictionary_intro": "Так переводятся некоторые слова и выражения, учитывай их:",
     "comments": {
+        "Wymijanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku.": [
+            "wymijan"
+        ],
+        "Omijanie – przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody.": [
+            "omijan"
+        ],
+        "Wyprzedzanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w tym samym kierunku.": [
+            "wyprzedzan"
+        ],
         "Не переводи выражение \"droga ekspresowa\" и его производные, оставляй их в польском варианте, но в кавычках, пример правильного перевода: «na drodze, która nie jest drogą ekspresową: на дороге, которая не является \"drogą ekspresową\"».": [
             "ekspresow"
         ],
