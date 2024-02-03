@@ -1387,7 +1387,9 @@
             "Czy w tej sytuacji masz obowiązek zachować ostrożność?": "В этой ситуации ты обязан соблюдать осторожность?",
             "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
             "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?",
-            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "В данной ситуации вы обязаны уступить дорогу транспортному средству, видимому в зеркале?"
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "В данной ситуации вы обязаны уступить дорогу транспортному средству, видимому в зеркале?",
+            "zgodnie z zaleceniami producenta urządzenia": "согласно рекомендациям производителя устройства.",
+            "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку."
         }
     },
     "not_approved": {
@@ -2382,8 +2384,6 @@
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
         "w sposób bezpieczny i estetyczny": "безопасным и эстетическим образом.",
-        "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку.",
-        "zgodnie z zaleceniami producenta urządzenia": "согласно рекомендациям производителя устройства.",
         "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:": "Детские автокресла и другие удерживающие устройства для детей следует устанавливать в транспортном средстве:",
         "Na kolanach pasażera": "На коленях у пассажира.",
         "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm na przednim siedzeniu samochodu osobowego, który ma pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом меньше 150 см на переднем сиденье легкового автомобиля, имеющего пять посадочных мест?",
