@@ -3,7 +3,8 @@
         "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
         "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
-        "Obsługiwanie radia": "Управление радио."
+        "Obsługiwanie radia": "Управление радио.",
+        "Wymijania samochodu osobowego": "Минуя легковой автомобиль."
     },
     "approved": {
         "otoczenie": {
@@ -1334,7 +1335,9 @@
             "Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 1 metr od pojazdu?": "Во время выполнения какого из перечисленных маневров ты обязан сохранять дистанцию не меньше чем 1 метр от транспортного средства?",
             "Czy podczas wymijania w nocy innego pojazdu oświetlającego drogę swoimi światłami możesz nie dostrzegać przeszkód na jezdni?": "Можете ли вы во время проезда мимо встречного ТС ночью, которое освещает дорогу своими фарами, не заметить препятствия на проезжей части?",
             "Tak, ze względu na możliwość chwilowego oślepienia światłami": "Да, из-за возможности временного ослепления фарами.",
-            "Nie, światła pojazdu z przeciwka zawsze poprawiają widoczność na jezdni": "Нет, фары встречного ТС всегда улучшают видимость на проезжей части."
+            "Nie, światła pojazdu z przeciwka zawsze poprawiają widoczność na jezdni": "Нет, фары встречного ТС всегда улучшают видимость на проезжей части.",
+            "Nie, nie wpływa to na widoczność na drodze": "Нет, это не влияет на видимость на дороге.",
+            "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Вы управляете автомобилем. Как вы должны себя вести во время проезда мимо встречного ТС ночью?"
         }
     },
     "not_approved": {
@@ -2313,7 +2316,6 @@
         "Oznaczanie niesprawnych tylnych świateł pozycyjnych poruszającego się pojazdu": "Обозначение неисправных задних габаритных огней движущегося транспортного средства.",
         "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
         "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что эта особа пользуется ремнями безопасности.",
-        "Nie, nie wpływa to na widoczność na drodze": "Нет, это не влияет на видимость на дороге.",
         "Który z wymienionych sposobów przewożenia gaśnicy w samochodzie osobowym jest właściwy?": "Какой из перечисленных способов перевозки огнетушителя в легковом автомобиле является правильным?",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
