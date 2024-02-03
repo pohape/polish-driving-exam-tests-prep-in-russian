@@ -1390,7 +1390,8 @@
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "В данной ситуации вы обязаны уступить дорогу транспортному средству, видимому в зеркале?",
             "zgodnie z zaleceniami producenta urządzenia": "согласно рекомендациям производителя устройства.",
             "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку.",
-            "Omijania dowolnego pojazdu": "Объезд любого транспортного средства."
+            "Omijania dowolnego pojazdu": "Объезд любого транспортного средства.",
+            "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, во время объезда, обязан ли ты соблюдать особую осторожность?"
         }
     },
     "not_approved": {
@@ -2815,6 +2816,10 @@
         "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии.",
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
-        "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления."
+        "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
+        "Potwierdzenie opłaty ubezpieczenia AC": "Подтверждение оплаты страховки КАСКО.",
+        "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, если транспортное средство использует газовое топливо.",
+        "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "Возможен ли в представленной ситуации во время объезда ТС необходимость быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?"
     }
 }
