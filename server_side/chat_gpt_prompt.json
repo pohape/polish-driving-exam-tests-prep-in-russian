@@ -3,9 +3,6 @@
     "short_notice": "Даже если фрагмент очень короткий, содержит всего одно или два слова, или не имеет отношения к ПДД, всё равно переведи без добавления какой-либо дополнительной информации.",
     "dictionary_intro": "Так переводятся некоторые слова и выражения, учитывай их:",
     "comments": {
-        "Omijanie – przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody.": [
-            "omijan"
-        ],
         "Wyprzedzanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w tym samym kierunku.": [
             "wyprzedzan"
         ],
@@ -24,95 +21,16 @@
             "zabudowan"
         ]
     },
-    "dictionary": {
+    "dictionary_by_phrase": {
         "droga zatrzymania: тормозной путь": [
             "drogi zatrzymania",
             "droga zatrzymania",
             "drogę zatrzymania",
             "drogą zatrzymania"
         ],
-        "przeniesienie napędu: трансмиссия": [
-            "napęd"
-        ],
         "na bezpieczeństwo podczas wymijania: на безопасность во время проезда мимо встречного ТС": [
             "wymijan",
-            "bezpiecze",
-            "podczas"
-        ],
-        "podczas wymijania samochodem osobowym innego pojazdu: во время проезда легковым автомобилем мимо другого встречного ТС": [
-            "wymijan"
-        ],
-        "podczas wymijania pojazdu: во время проезда мимо встречного ТС": [
-            "wymijan"
-        ],
-        "podczas wymijania pojazdu: минуя встречное ТС": [
-            "wymijan"
-        ],
-        "podczas wymijania pojazdu: при прохождении мимо встречного ТС": [
-            "wymijan"
-        ],
-        "wymijania samochodu osobowego: во время проезда мимо встречного ТС": [
-            "wymijan"
-        ],
-        "wymijania samochodu osobowego: минуя встречное ТС": [
-            "wymijan"
-        ],
-        "wymijania samochodu osobowego: при прохождении мимо встречного ТС": [
-            "wymijan"
-        ],
-        "hamowanie pulsacyjne: прерывистое торможение": [
-            "pulsacyj"
-        ],
-        "pulsacyjne wciskanie pedału hamulca: прерывистое нажатие на педаль тормоза": [
-            "pulsacyj"
-        ],
-        "obowiązkowe wyposażenie pojazdu: обязательная часть комплектации ТС": [
-            "wyposaże"
-        ],
-        "należy obserwować otoczenie podczas jazdy po autostradzie: наблюдать за обстановкой во время езды по автостраде": [
-            "otocze"
-        ],
-        "obserwować otoczenie przejścia dla pieszych: наблюдать за обстановкой пешеходного перехода": [
-            "otocze"
-        ],
-        "wjechać na drogę twardą: выехать на дорогу с твёрдым покрытием": [
-            "tward"
-        ],
-        "ostrzegawczy trójkąt odblaskowy: знак аварийной остановки": [
-            "trójkąt"
-        ],
-        "trójkąt ostrzegawczy: знак аварийной остановки": [
-            "trójkąt"
-        ],
-        "sztywne siedzenie na fotelu: неподвижное сидение в кресле": [
-            "sztywn"
-        ],
-        "połączenie sztywne: жёсткая сцепка": [
-            "sztywn"
-        ],
-        "połączenie giętkie: гибкая сцепка": [
-            "giętk"
-        ],
-        "efekt tzw. martwego pola w lusterkach: эфект так называемой \"слепой зоны\" в зеркалах": [
-            "martw"
-        ],
-        "jałowa gaza: стерильная повязка": [
-            "jałow"
-        ],
-        "zatrzymanie prawa jazdy: временное изъятие водительского удостоверения": [
-            "zatrzym"
-        ],
-        "linia zatrzymania: стоп-линия": [
-            "zatrzym"
-        ],
-        "zatrzymanie powinno nastąpić przed linią zatrzymania: остановка должна произойти перед стоп-линией": [
-            "zatrzym"
-        ],
-        "znak \"Zakaz zatrzymywania\": знак \"Остановка запрещена\"": [
-            "zatrzym"
-        ],
-        "włączić się do ruchu: включиться в движение": [
-            "do ruchu"
+            "bezpiecze"
         ],
         "masz obowiązek używać świateł pozycyjnych lub postojowych: Вы обязаны использовать габаритные огни": [
             "pozycyjn",
@@ -120,12 +38,6 @@
         ],
         "masz obowiązek włączyć światła pozycyjne lub postojowe: Вы обязаны включить габаритные огни": [
             "pozycyjn",
-            "postojow"
-        ],
-        "światła pozycyjne: габаритные огни": [
-            "pozycyjn"
-        ],
-        "światła postojowe: габаритные огни": [
             "postojow"
         ],
         "postój pojazdu: стоянка ТС": [
@@ -137,68 +49,14 @@
             "postój",
             "unieruch"
         ],
-        "w razie unieruchomienia pojazdu na przejeździe kolejowym: в случае остановки ТС на железнодорожном переезде" : [
-            "unieruch"
-        ],
-        "zatrzymanie pojazdu to każde unieruchomienie pojazdu wynikające z przepisów ruchu drogowego: остановка ТС - это любая остановка ТС обусловленная правилами дорожного движения": [
-            "unieruch"
-        ],
-        "unieruchomienie silnika: остановка двигателя" : [
-            "unieruch"
-        ],
-        "należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: необходимо наложить стерильный давящий бинт из марли и обездвижить": [
-            "unieruch"
-        ],
-        "unieruchomić dwa sąsiadujące stawy: обездвижить два соседних сустава": [
-            "unieruch"
-        ],
-        "zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu: запрет поворота налево действует на ближайшем перекрестке": [
-            "obowiąz"
-        ],
         "w strefie zamieszkania obowiązuje ograniczenie prędkości: в жилой зоне действует ограничение скорости": [
             "obowiąz",
             "zamieszkan",
             "stref"
         ],
-        "znak \"Strefa zamieszkania\": знак \"Жилая зона\"": [
-            "zamieszkan"
-        ],
-        "zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku: запрет остановки действует до места установки знака": [
-            "obowiąz"
-        ],
-        "zobowiązuje: обязывает": [
-            "zobowiąz"
-        ],
-        "zobowiązuje do zatrzymania: обязывает остановиться": [
-            "zobowiąz"
-        ],
-        "Znak - nakaz jazdy prosto: Знак - \"Движение прямо\"": [
-            "nakaz"
-        ],
-        "Znak \"Nakaz jazdy prosto\": Знак \"Движение прямо\"": [
-            "nakaz"
-        ],
-        "znak nakazu: предписывающий знак": [
-            "nakazu"
-        ],
-        "w związku z umieszczonym znakiem nakazu: в связи с установленным предписывающим знаком": [
-            "nakazu"
-        ],
-        "w kierunku przeciwnym do wskazanego na znaku nakazu: в направлении, противоположном указанному на предписывающем знаке": [
-            "nakazu"
-        ],
-        "znak zakazu: запрещающий знак": [
-            "zakazu"
-        ],
         "widoczny znak zakazu dotyczy samochodów: видимый запрещающий знак касается автомобилей": [
             "zakazu",
             "doty"
-        ],
-        "tylko na polecenie kontrolującego: только по команде должностного лица": [
-            "kontroluj"
-        ],
-        "kontrolujący: должностное лицо": [
-            "kontroluj"
         ],
         "zatoka przystankowa: остановка общественного транспорта": [
             "zatok",
@@ -221,33 +79,9 @@
             "koniecznoś",
             "wjeżdża"
         ],
-        "skrzyżowanie równorzędne: равнозначный перекресток": [
-            "równorzędn"
-        ],
-        "linia krawędziowa: линия края проезжей части": [
-            "krawędz"
-        ],
-        "pobocze jest oddzielone ciągłą linią krawędziową: обочина отделена сплошной линией края проезжей части": [
-            "krawędz"
-        ],
-        "ta linia ciągła wyznacza miejsce zatrzymania: эта сплошная линия указывает место остановки": [
-            "ciągł"
-        ],
-        "linia przekraczalna: линия, которую можно пересекать": [
-            "przekraczaln"
-        ],
-        "linia przerywana jest linią przekraczalną: пунктирная линия - это линия которую можно пересекать": [
-            "przekraczaln"
-        ],
-        "miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети": [
-            "przez dzieci"
-        ],
-        "ostrzega o prowadzonych na drodze robotach: предупреждает о проводимых на дороге работах" : [
+        "ostrzega o prowadzonych na drodze robotach: предупреждает о проводимых на дороге работах": [
             "ostrzega",
             "robota"
-        ],
-        "silnik jest w ruchu: двигатель запущен и работает": [
-            "silnik jest w ruchu"
         ],
         "ostrzega o znacznym spadku podłużnym drogi: предупреждает о крутом спуске": [
             "ostrzega",
@@ -263,12 +97,6 @@
             "przecięcie",
             "tory"
         ],
-        "znak \"uwaga tramwaj\": знак \"Внимание трамвай\"": [
-            "uwaga"
-        ],
-        "prog zwalniający: искуственная дорожная неровность (лежачий полицейский)": [
-            "zwalniaj"
-        ],
         "ostrzega o poprzecznej nierówności jezdni: предупреждает о неровности проезжей части": [
             "ostrzega",
             "jezdn"
@@ -282,15 +110,6 @@
             "nawierzch",
             "ubyt"
         ],
-        "zapory lub półzapory: шлагбаумы": [
-            "zapor"
-        ],
-        "zapory: шлагбаумы": [
-            "zapor"
-        ],
-        "półzapory: шлагбаумы": [
-            "półzapor"
-        ],
         "z wlotem drogi jednokierunkowej występującej z lewej strony: с примыканием слева односторонней дороги": [
             "wlot",
             "występuj"
@@ -299,15 +118,6 @@
             "skrzyżowa",
             "występuj",
             "podporządkowan"
-        ],
-        "droga podporządkowana: второстепенная дорога": [
-            "podporządkowan"
-        ],
-        "sygnalizator: светофор": [
-            "sygnaliza"
-        ],
-        "Sygnalizacja świetlna: светофор": [
-            "sygnaliza"
         ],
         "ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony: уступить дорогу ТС, приближающемуся справа": [
             "pierwszeństw",
@@ -323,71 +133,14 @@
             "pierwszeństw",
             "rzeczywist"
         ],
-        "masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС": [
-            "pierwszeństw"
-        ],
-        "ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу": [
-            "pierwszeństw"
-        ],
         "pierwszeństwo dla nadjeżdżających z przeciwka: преимущество встречного движения": [
             "pierwszeństw",
             "nadjeżdżaj",
             "przeciw"
         ],
-        "masz pierwszeństwo przed rowerzystą?: есть ли у вас приоритет перед велосипедистом?": [
-            "pierwszeństw"
-        ],
-        "znajdujesz się na drodze z pierwszeństwem?: вы находитесь на главной дороге?": [
-            "pierwszeństw"
-        ],
-        "skrzyżowanie jest skrzyżowaniem równorzędnym: перекресток является равнозначным": [
-            "równorzędn"
-        ],
-        "znak \"Koniec drogi z pierwszeństwem\": знак \"Конец главной дороги\"": [
-            "pierwszeństw"
-        ],
-        "znak \"Droga z pierwszeństwem\": знак \"Главная дорога\"": [
-            "pierwszeństw"
-        ],
         "czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: у вас есть преимущество перед встречным ТС?": [
             "przeciw",
             "pierwszeństw"
-        ],
-        "pojazd silnikowy wielośladowy: многоколейное ТС": [
-            "śladow"
-        ],
-        "pojazd jednośladowy: одноколейное ТС": [
-            "śladow"
-        ],
-        "motocykle jednośladowe: одноколейные мотоциклы": [
-            "śladow"
-        ],
-        "z wyjątkiem: за исключением": [
-            "wyjąt"
-        ],
-        "pojazd szynowy: железнодорожный транспорт": [
-            "szyn"
-        ],
-        "jezdnia: проезжая часть": [
-            "jezdn"
-        ],
-        "droga jednojezdniowa: дорога с одной проезжей частью": [
-            "jezdn"
-        ],
-        "droga dwujezdniowa: дорога с двумя проезжими частями": [
-            "jezdn"
-        ],
-        "lekki: лёгкий": [
-            "lekk"
-        ],
-        "na regularnych liniach: на регулярных маршрутах": [
-            "regularn"
-        ],
-        "zespół pojazdów: автопоезд": [
-            "zesp"
-        ],
-        "droga bez przejazdu: тупик": [
-            "bez przejazd"
         ],
         "pas włączania: полоса разгона": [
             "pasa włączan",
@@ -400,33 +153,150 @@
             "pas wyłączan",
             "pasu wyłączan",
             "pasów wyłączan"
-        ],
-        "autostrada: автострада": [
-            "autostrad"
-        ],
-        "od poprzedzającego pojazdu: от впереди идущего ТС": [
-            "poprzedzaj"
-        ],
-        "ruch dwukierunkowy: двустороннее движение": [
-            "dwukierunk"
-        ],
-        "droga dwukierunkowa: дорога с двусторонним движением": [
-            "dwukierunk"
-        ],
-        "ruch jednokierunkowy: одностороннее движение": [
-            "jednokierunk"
-        ],
-        "droga jednokierunkowa: дорога с односторонним движением": [
-            "jednokierunk"
-        ],
-        "dmc: разрешенная максимальная масса": [
-            "dmc"
-        ],
-        "CNG: сжатый природный газ": [
-            "CNG"
-        ],
-        "LNG: сжиженный природный газ": [
-            "LNG"
         ]
+    },
+    "dictionary_by_search_word": {
+        "wymijan": [
+            "podczas wymijania samochodem osobowym innego pojazdu: во время проезда на автомобиле мимо другого встречного ТС",
+            "podczas wymijania pojazdu: во время проезда мимо встречного ТС",
+            "podczas wymijania pojazdu: минуя встречное ТС",
+            "podczas wymijania pojazdu: при прохождении мимо встречного ТС",
+            "wymijania samochodu osobowego: во время проезда мимо встречного автомобиля",
+            "wymijania samochodu osobowego: минуя встречный автомобиль",
+            "wymijania samochodu osobowego: при прохождении мимо встречного автомобиля"
+        ],
+        "omijan": [
+            "podczas omijania pojazdu: во время объезда ТС",
+            "podczas omijania samochodu osobowego: во время объезда автомобиля",
+            "omijanie przeszkody na drodze: объезд препятствия на дороге"
+        ],
+        "pulsacyj": [
+            "hamowanie pulsacyjne: прерывистое торможение",
+            "pulsacyjne wciskanie pedału hamulca: прерывистое нажатие на педаль тормоза"
+        ],
+        "otocze": [
+            "należy obserwować otoczenie podczas jazdy po autostradzie: наблюдать за обстановкой во время езды по автостраде",
+            "obserwować otoczenie przejścia dla pieszych: наблюдать за обстановкой пешеходного перехода"
+        ],
+        "trójkąt": [
+            "ostrzegawczy trójkąt odblaskowy: знак аварийной остановки",
+            "trójkąt ostrzegawczy: знак аварийной остановки"
+        ],
+        "sztywn": [
+            "sztywne siedzenie na fotelu: неподвижное сидение в кресле",
+            "połączenie sztywne: жёсткая сцепка"
+        ],
+        "zatrzym": [
+            "zatrzymanie prawa jazdy: временное изъятие водительского удостоверения",
+            "linia zatrzymania: стоп-линия",
+            "zatrzymanie powinno nastąpić przed linią zatrzymania: остановка должна произойти перед стоп-линией",
+            "znak \"Zakaz zatrzymywania\": знак \"Остановка запрещена\""
+        ],
+        "unieruch": [
+            "w razie unieruchomienia pojazdu na przejeździe kolejowym: в случае остановки ТС на железнодорожном переезде",
+            "zatrzymanie pojazdu to każde unieruchomienie pojazdu wynikające z przepisów ruchu drogowego: остановка ТС - это любая остановка ТС обусловленная правилами дорожного движения",
+            "unieruchomienie silnika: остановка двигателя",
+            "należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: необходимо наложить стерильный давящий бинт из марли и обездвижить",
+            "unieruchomić dwa sąsiadujące stawy: обездвижить два соседних сустава"
+        ],
+        "obowiąz": [
+            "zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu: запрет поворота налево действует на ближайшем перекрестке",
+            "zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku: запрет остановки действует до места установки знака"
+        ],
+        "zobowiąz": [
+            "zobowiązuje: обязывает",
+            "zobowiązuje do zatrzymania: обязывает остановиться"
+        ],
+        "nakaz": [
+            "Znak - nakaz jazdy prosto: Знак - \"Движение прямо\"",
+            "Znak \"Nakaz jazdy prosto\": Знак \"Движение прямо\""
+        ],
+        "nakazu": [
+            "znak nakazu: предписывающий знак",
+            "w związku z umieszczonym znakiem nakazu: в связи с установленным предписывающим знаком",
+            "w kierunku przeciwnym do wskazanego na znaku nakazu: в направлении, противоположном указанному на предписывающем знаке"
+        ],
+        "kontroluj": [
+            "tylko na polecenie kontrolującego: только по команде должностного лица",
+            "kontrolujący: должностное лицо"
+        ],
+        "równorzędn": [
+            "skrzyżowanie równorzędne: равнозначный перекресток",
+            "skrzyżowanie jest skrzyżowaniem równorzędnym: перекресток является равнозначным"
+        ],
+        "krawędz": [
+            "linia krawędziowa: линия края проезжей части",
+            "pobocze jest oddzielone ciągłą linią krawędziową: обочина отделена сплошной линией края проезжей части"
+        ],
+        "przekraczaln": [
+            "linia przekraczalna: линия, которую можно пересекать",
+            "linia przerywana jest linią przekraczalną: пунктирная линия - это линия которую можно пересекать"
+        ],
+        "zapor": [
+            "zapory lub półzapory: шлагбаумы",
+            "zapory: шлагбаумы"
+        ],
+        "sygnaliza": [
+            "sygnalizator: светофор",
+            "Sygnalizacja świetlna: светофор"
+        ],
+        "pierwszeństw": [
+            "masz pierwszeństwo przed pojazdem: имеете преимущество перед ТС",
+            "ustąpić pierwszeństwa pieszemu: уступить дорогу пешеходу",
+            "masz pierwszeństwo przed rowerzystą?: есть ли у вас приоритет перед велосипедистом?",
+            "znajdujesz się na drodze z pierwszeństwem?: вы находитесь на главной дороге?",
+            "znak \"Koniec drogi z pierwszeństwem\": знак \"Конец главной дороги\"",
+            "znak \"Droga z pierwszeństwem\": знак \"Главная дорога\""
+        ],
+        "śladow": [
+            "pojazd silnikowy wielośladowy: многоколейное ТС",
+            "pojazd jednośladowy: одноколейное ТС",
+            "motocykle jednośladowe: одноколейные мотоциклы"
+        ],
+        "jezdn": [
+            "jezdnia: проезжая часть",
+            "droga jednojezdniowa: дорога с одной проезжей частью",
+            "droga dwujezdniowa: дорога с двумя проезжими частями"
+        ],
+        "dwukierunk": [
+            "ruch dwukierunkowy: двустороннее движение",
+            "droga dwukierunkowa: дорога с двусторонним движением"
+        ],
+        "jednokierunk": [
+            "ruch jednokierunkowy: одностороннее движение",
+            "droga jednokierunkowa: дорога с односторонним движением"
+        ]
+    },
+    "dictionary_others": {
+        "osobow": "samochod osobowy: автомобиль",
+        "napęd": "przeniesienie napędu: трансмиссия",
+        "wyposaże": "obowiązkowe wyposażenie pojazdu: обязательная часть комплектации ТС",
+        "tward": "wjechać na drogę twardą: выехать на дорогу с твёрдым покрытием",
+        "giętk": "połączenie giętkie: гибкая сцепка",
+        "martw": "efekt tzw. martwego pola w lusterkach: эфект так называемой \"слепой зоны\" в зеркалах",
+        "jałow": "jałowa gaza: стерильная повязка",
+        "do ruchu": "włączić się do ruchu: включиться в движение",
+        "pozycyjn": "światła pozycyjne: габаритные огни",
+        "postojow": "światła postojowe: габаритные огни",
+        "zamieszkan": "znak \"Strefa zamieszkania\": знак \"Жилая зона\"",
+        "zakazu": "znak zakazu: запрещающий знак",
+        "ciągł": "ta linia ciągła wyznacza miejsce zatrzymania: эта сплошная линия указывает место остановки",
+        "przez dzieci": "miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети",
+        "silnik jest w ruchu": "silnik jest w ruchu: двигатель запущен и работает",
+        "uwaga": "znak \"uwaga tramwaj\": знак \"Внимание трамвай\"",
+        "zwalniaj": "prog zwalniający: искуственная дорожная неровность (лежачий полицейский)",
+        "półzapor": "półzapory: шлагбаумы",
+        "podporządkowan": "droga podporządkowana: второстепенная дорога",
+        "wyjąt": "z wyjątkiem: за исключением",
+        "szyn": "pojazd szynowy: железнодорожный транспорт",
+        "lekk": "lekki: лёгкий",
+        "regularn": "na regularnych liniach: на регулярных маршрутах",
+        "zesp": "zespół pojazdów: автопоезд",
+        "bez przejazd": "droga bez przejazdu: тупик",
+        "autostrad": "autostrada: автострада",
+        "poprzedzaj": "od poprzedzającego pojazdu: от впереди идущего ТС",
+        "dmc": "dmc: разрешенная максимальная масса",
+        "CNG": "CNG: сжатый природный газ",
+        "LNG": "LNG: сжиженный природный газ"
     }
 }

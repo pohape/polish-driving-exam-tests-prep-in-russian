@@ -216,15 +216,30 @@ class Translate
     {
         $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
         $dictionaryIntro = '';
+        $dictionaryFull = [];
         $dictionary = [];
         $comments = [];
 
-        foreach ($promptData['dictionary'] as $line => $searchList) {
-            foreach ($searchList as $search) {
-                if (stripos($text, $search) !== false) {
-                    $dictionary[$line] = null;
-                    $dictionaryIntro = PHP_EOL . $promptData['dictionary_intro'] . PHP_EOL;
-                }
+        foreach ($promptData['dictionary_by_phrase'] as $phrase => $searchList) {
+            foreach ($searchList as $searchWord) {
+                $dictionaryFull[] = [$phrase, $searchWord];
+            }
+        }
+
+        foreach ($promptData['dictionary_by_search_word'] as $searchWord => $phrases) {
+            foreach ($phrases as $phrase) {
+                $dictionaryFull[] = [$phrase, $searchWord];
+            }
+        }
+
+        foreach ($promptData['dictionary_others'] as $searchWord => $phrase) {
+            $dictionaryFull[] = [$phrase, $searchWord];
+        }
+
+        foreach ($dictionaryFull as $phraseAndSearchWord) {
+            if (stripos($text, $phraseAndSearchWord[1]) !== false) {
+                $dictionary[$phraseAndSearchWord[0]] = null;
+                $dictionaryIntro = PHP_EOL . $promptData['dictionary_intro'] . PHP_EOL;
             }
         }
 
