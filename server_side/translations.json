@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?"
+    },
     "approved": {
         "otoczenie": {
             "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за обстановкой во время езды по автостраде?",
@@ -1205,7 +1207,9 @@
             "Musisz zablokować tylne drzwi, uniemożliwiając ich otwarcie od zewnątrz": "Вы должны заблокировать задние двери, чтобы нельзя было их открыть снаружи.",
             "zabronione w obszarze zabudowanym": "запрещено в населенном пункте.",
             "zabronione": "запрещено.",
-            "zabronione tylko w strefie zamieszkania": "запрещено только в жилой зоне."
+            "zabronione tylko w strefie zamieszkania": "запрещено только в жилой зоне.",
+            "Czy w tej sytuacji masz pierwszeństwo przed pieszymi?": "В данной ситуации у тебя есть преимущество перед пешеходами?",
+            "Czy masz prawo wjechać na przejazd kolejowy, w czasie podnoszenia zapór przez pracownika kolejowego?": "Имеете ли вы право въехать на железнодорожный переезд во время подъема шлагбаумов работником железной дороги?"
         }
     },
     "not_approved": {
@@ -1293,7 +1297,6 @@
         "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
-        "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?",
         "Czy kierujący pojazdem po spożyciu alkoholu, może mieć trudności w jednoczesnym wykonywaniu dwóch i więcej czynności?": "Может ли водитель автомобиля после употребления алкоголя испытывать трудности при одновременном выполнении двух и более действий?",
         "Wezwanie policji": "Вызов полиции.",
@@ -2123,7 +2126,6 @@
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
-        "Czy w tej sytuacji masz pierwszeństwo przed pieszymi?": "В данной ситуации у тебя есть преимущество перед пешеходами?",
         "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
         "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej": "Да, за исключением случаев, когда это транспортное средство используется для ведения хозяйственной деятельности.",
         "Nie mam takiego obowiązku": "У меня нет такой обязанности.",
