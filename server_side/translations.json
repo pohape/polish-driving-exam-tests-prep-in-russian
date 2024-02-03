@@ -1,9 +1,9 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В данной ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет того, что вы будете осторожны?",
         "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
-        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?"
+        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
+        "Obsługiwanie radia": "Управление радио."
     },
     "approved": {
         "otoczenie": {
@@ -1325,7 +1325,9 @@
             "W całym okresie używania pojazdu": "На протяжении всего периода использования транспортного средства.",
             "Wyłącznie po upływie okresu gwarancji pojazdu": "Исключительно по истечении гарантийного срока ТС.",
             "Tylko w okresie gwarancji pojazdu": "Только в период гарантии автомобиля.",
-            "Która z wymienionych czynności jest zabroniona podczas kierowania pojazdem?": "Какое из перечисленных действий запрещено во время управления транспортным средством?"
+            "Która z wymienionych czynności jest zabroniona podczas kierowania pojazdem?": "Какое из перечисленных действий запрещено во время управления транспортным средством?",
+            "Używanie nawigacji GPS": "Использование навигации GPS.",
+            "Rozmawianie przez telefon, który wymaga trzymania słuchawki lub mikrofonu w ręku": "Разговор по телефону, который требует держать трубку или микрофон в руке."
         }
     },
     "not_approved": {
@@ -2784,8 +2786,7 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Obsługiwanie radia": "Управление радио.",
-        "Używanie nawigacji GPS": "Использование навигации GPS.",
-        "Rozmawianie przez telefon, który wymaga trzymania słuchawki lub mikrofonu w ręku": "Разговор по телефону, который требует держать трубку или микрофон в руке."
+        "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В этой ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет, если ты будешь осторожен?",
+        "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность."
     }
 }
