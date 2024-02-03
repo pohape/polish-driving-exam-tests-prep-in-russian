@@ -1099,7 +1099,9 @@
             "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność?": "В данной ситуации обязаны ли вы проявлять особую осторожность?",
             "Czy w tej sytuacji, po zakończeniu wyprzedzania, masz obowiązek powrócić na prawy pas ruchu?": "В этой ситуации, после завершения обгона, ты обязан вернуться на правую полосу движения?",
             "Czy bezpośrednio za widocznym znakiem wolno Ci zatrzymać pojazd, jeśli nie spowoduje to utrudnienia ruchu?": "Сразу после видимого знака разрешается ли тебе остановить транспортное средство, если это не приведет к затруднению движения?",
-            "Czy wolno Ci zatrzymać pojazd na jezdni bezpośrednio za widocznym skrzyżowaniem?": "Разрешено ли тебе остановить транспортное средство на проезжей части сразу за видимым перекрестком?"
+            "Czy wolno Ci zatrzymać pojazd na jezdni bezpośrednio za widocznym skrzyżowaniem?": "Разрешено ли тебе остановить транспортное средство на проезжей части сразу за видимым перекрестком?",
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu na prawy?": "В этой ситуации вам разрешено менять полосу движения на правую?",
+            "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?"
         }
     },
     "not_approved": {
@@ -1145,7 +1147,6 @@
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
-        "Czy w tej sytuacji wolno Ci zmienić pas ruchu na prawy?": "В этой ситуации вам разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd?": "Вы обязаны остановить автомобиль в этой ситуации?",
         "Czy za tym znakiem wolno Ci zwiększyć prędkość do 130 km\/h?": "За этим знаком вам разрешено увеличивать скорость до 130 км\/ч?",
         "Bezpieczny, czyli zawsze taki sam": "Безопасный, то есть всегда один и тот же.",
@@ -2405,7 +2406,6 @@
         "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
         "Czy z zajmowanego pasa ruchu wolno Ci skręcić w prawo na tym skrzyżowaniu?": "Можешь ли ты повернуть направо с занятой полосы движения на этом перекрестке?",
         "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
         "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
@@ -2682,6 +2682,7 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения."
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
+        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?"
     }
 }
