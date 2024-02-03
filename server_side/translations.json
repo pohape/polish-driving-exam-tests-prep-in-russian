@@ -1304,7 +1304,15 @@
             "1 miesiąca": "1 месяца.",
             "2 miesięcy": "2 месяца.",
             "3 miesięcy": "3 месяца.",
-            "W jaki sposób powinien być umieszczony ładunek na samochodzie osobowym?": "Как должен быть размещён груз на легковом автомобиле?"
+            "W jaki sposób powinien być umieszczony ładunek na samochodzie osobowym?": "Как должен быть размещён груз на легковом автомобиле?",
+            "Może nieznacznie zasłaniać tablice rejestracyjne": "Может слегка закрывать регистрационные номера.",
+            "Może zasłaniać tylne światło przeciwmgłowe": "Он может закрывать задний противотуманный фонарь.",
+            "Nie może ograniczać widoczności drogi": "Он не должен ограничивать видимость дороги.",
+            "Kiedy masz obowiązek przełączyć światła drogowe na światła mijania?": "Когда вы обязаны переключить дальний свет на ближний?",
+            "Zawsze, gdy istnieje możliwość oślepienia kierującego pojazdem poprzedzającym": "Всегда, когда существует возможность ослепления водителя впереди идущего транспортного средства.",
+            "Zawsze, gdy widzisz pojazd poprzedzający": "Всегда, когда видишь впереди идущее ТС.",
+            "Zawsze, gdy widzisz pojedynczego pieszego na jezdni": "Всегда, когда видишь одиночного пешехода на проезжей части.",
+            "W jaki sposób powinno być ustawione lusterko zewnętrzne w samochodzie osobowym?": "Как должно быть настроено наружное зеркало в легковом автомобиле?"
         }
     },
     "not_approved": {
@@ -1673,8 +1681,6 @@
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
-        "Może zasłaniać tylne światło przeciwmgłowe": "Он может закрывать задний противотуманный фонарь.",
-        "Nie może ograniczać widoczności drogi": "Он не должен ограничивать видимость дороги.",
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
         "W dowolny sposób": "Любым способом.",
@@ -2611,7 +2617,6 @@
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 6 miesięcy,": "Староста вынесет административное решение о продлении периода, на который было приостановлено водительское удостоверение, до 6 месяцев.",
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 1 roku": "Староста выдаст административное решение о продлении периода, на который было приостановлено право управления транспортным средством, до 1 года.",
         "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
-        "Kiedy masz obowiązek przełączyć światła drogowe na światła mijania?": "Когда вы обязаны переключить дальний свет на ближний?",
         "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
         "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
         "Tak, ale tylko po zmroku": "Да, но только после наступления темноты.",
@@ -2776,6 +2781,6 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Może nieznacznie zasłaniać tablice rejestracyjne": "Может слегка закрывать регистрационные номера."
+        "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Да, чтобы в зеркале была видна часть боковой стороны автомобиля, а также дорога позади автомобиля."
     }
 }
