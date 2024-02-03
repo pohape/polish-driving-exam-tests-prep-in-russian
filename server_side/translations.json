@@ -1,9 +1,5 @@
 {
-    "incorrect": {
-        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказать первую помощь пострадавшим в дорожно-транспортном происшествии?",
-        "Tylko boki pojazdu": "Перевод фрагмента: \"Только боковые стороны транспортного средства.\"",
-        "Jaka pozycja za kierownicą umożliwi zmniejszenie efektu tzw. martwego pola w lusterkach, występującego w czasie obserwacji drogi?": "Какое положение за рулём позволит уменьшить эффект так называемого \"мёртвого поля\" в зеркалах, возникающего во время наблюдения за дорогой?"
-    },
+    "incorrect": [],
     "approved": {
         "strefa zamieszkania": {
             "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
@@ -2571,7 +2567,7 @@
         "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч.",
         "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
-        "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует удар педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
+        "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
         "Środkowej": "Центральной.",
         "W której fazie intensywnego deszczu jezdnia asfaltowa jest najbardziej śliska?": "В какой фазе интенсивного дождя асфальтовая проезжая часть самая скользкая?",
         "Gdy widoczność wzrośnie do 30 m": "Когда видимость увеличится до 30 метров.",
