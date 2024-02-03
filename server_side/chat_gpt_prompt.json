@@ -19,11 +19,32 @@
         ]
     },
     "dictionary": {
+        "masz obowiązek używać świateł pozycyjnych lub postojowych: Вы обязаны использовать габаритные огни": [
+            "pozycyjn",
+            "postojow"
+        ],
+        "masz obowiązek włączyć światła pozycyjne lub postojowe: Вы обязаны включить габаритные огни": [
+            "pozycyjn",
+            "postojow"
+        ],
+        "światła pozycyjne: габаритные огни": [
+            "pozycyjn"
+        ],
+        "światła postojowe: габаритные огни": [
+            "postojow"
+        ],
         "unieruchomienie silnika: остановка двигателя" : [
             "unieruch"
         ],
         "w razie unieruchomienia pojazdu na przejeździe kolejowym: в случае остановки ТС на железнодорожном переезде" : [
             "unieruch"
+        ],
+        "zatrzymanie pojazdu to każde unieruchomienie pojazdu wynikające z przepisów ruchu drogowego: остановка ТС - это любая остановка ТС обусловленная правилами дорожного движения": [
+            "unieruch"
+        ],
+        "postój pojazdu: стоянка ТС": [
+            "postoj",
+            "postój"
         ],
         "widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu: видимый знак запрещает стоянку, которая понимается как остановка транспортного средства": [
             "postoj",
