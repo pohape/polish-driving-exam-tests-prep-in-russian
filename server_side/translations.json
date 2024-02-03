@@ -1336,7 +1336,8 @@
             "Tak, ze względu na możliwość chwilowego oślepienia światłami": "Да, из-за возможности временного ослепления фарами.",
             "Nie, światła pojazdu z przeciwka zawsze poprawiają widoczność na jezdni": "Нет, фары встречного ТС всегда улучшают видимость на проезжей части.",
             "Nie, nie wpływa to na widoczność na drodze": "Нет, это не влияет на видимость на дороге.",
-            "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Вы управляете автомобилем. Как вы должны себя вести во время проезда мимо встречного ТС ночью?"
+            "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Вы управляете автомобилем. Как вы должны себя вести во время проезда мимо встречного ТС ночью?",
+            "Wymijania samochodu osobowego": "Минуя встречное ТС."
         }
     },
     "not_approved": {
