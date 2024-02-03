@@ -3,8 +3,7 @@
         "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
         "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
-        "Obsługiwanie radia": "Управление радио.",
-        "Za wymijanie na przejeździe kolejowym": "За проезд мимо встречного ТС на железнодорожном переезде."
+        "Obsługiwanie radia": "Управление радио."
     },
     "approved": {
         "otoczenie": {
@@ -578,6 +577,9 @@
             "Masz zamiar przejechać na wprost przez widoczne skrzyżowanie. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które nadjeżdżają z lewej strony?": "Вы собираетесь проехать прямо через видимый перекресток. В этой ситуации вы обязаны уступить дорогу транспортным средствам, которые едут слева?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o dwóch niebezpiecznych zakrętach, z których pierwszy jest w prawo?": "В представленной ситуации вас предупреждают о двух опасных поворотах, первый из которых вправо?",
             "Znak ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo": "Знак предупреждает о двух опасных поворотах, первый из которых находится в направлении, указанном на знаке, а второй может быть как влево, так и вправо."
+        },
+        "exceptions": {
+            "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
             "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это приводит к избыточным выбросам выхлопных газов в окружающую среду или избыточным шумом:",
