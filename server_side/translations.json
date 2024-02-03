@@ -1382,7 +1382,8 @@
             "Czy na najbliższym zakręcie wolno Ci wyprzedzić ten pojazd z prawej strony?": "Можешь ли ты обогнать этот транспортное средство с правой стороны на ближайшем повороте?",
             "Czy w tej sytuacji wolno Ci wyprzedzić rowerzystę?": "В этой ситуации разрешено ли тебе обогнать велосипедиста?",
             "Czy w tej sytuacji masz obowiązek zachować ostrożność?": "В этой ситуации ты обязан соблюдать осторожность?",
-            "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?"
+            "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
+            "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?"
         }
     },
     "not_approved": {
@@ -1554,7 +1555,6 @@
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
         "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В этой ситуации вы обязаны изменить полосу движения, которая в настоящее время занята?",
-        "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?",
         "Czy w tej sytuacji wolno Ci zachować 0,5 metra odstępu między Twoim pojazdem a wyprzedzanym rowerzystą?": "В этой ситуации разрешено ли вам сохранять зазор в 0,5 метра между вашим транспортным средством и обгоняемым велосипедистом?",
         "W przedstawionej sytuacji zamierzasz jechać na wprost. Czy musisz się zatrzymać przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь ехать прямо. Нужно ли останавливаться перед въездом на перекресток?",
         "Czego możesz spodziewać się na tak oznakowanej drodze?": "Что вы можете ожидать на такой обозначенной дороге?",
@@ -2802,6 +2802,7 @@
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
         "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
-        "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?"
+        "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
+        "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?"
     }
 }
