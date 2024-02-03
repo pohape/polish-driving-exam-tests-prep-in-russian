@@ -1212,7 +1212,9 @@
             "Czy masz prawo wjechać na przejazd kolejowy, w czasie podnoszenia zapór przez pracownika kolejowego?": "Имеете ли вы право въехать на железнодорожный переезд во время подъема шлагбаумов работником железной дороги?",
             "Czy w tej sytuacji możesz wyprzedzić rowerzystę?": "Можете ли вы обогнать велосипедиста в этой ситуации?",
             "Czy w tej sytuacji wolno Ci się zatrzymać przy prawej krawędzi jezdni?": "Разрешено ли тебе в этой ситуации остановиться у правого края проезжей части?",
-            "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?"
+            "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?",
+            "Czy w tej sytuacji masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации у тебя есть обязанность сигнализировать о намерении смены полосы движения?",
+            "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?"
         }
     },
     "not_approved": {
@@ -1514,7 +1516,6 @@
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
-        "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?",
         "Czy w tej sytuacji możesz wyprzedzać?": "Можете ли вы опережать в этой ситуации?",
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
         "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
