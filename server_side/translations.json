@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Obsługiwanie radia": "Управление радио."
+        "Obsługiwanie radia": "Управление радио.",
+        "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общий путь остановки имеет время реакции водителя."
     },
     "approved": {
         "otoczenie": {
@@ -1377,7 +1378,9 @@
             "Ładunek na pojeździe umieszcza się w taki sposób, aby nie ograniczał widoczności drogi": "Груз на транспортном средстве располагают таким образом, чтобы не ограничивать видимость дороги.",
             "Kierujący pojazdem może używać świateł drogowych, o ile między innymi nie oślepi innych kierujących": "Водитель транспортного средства может использовать дальний свет фар, при условии, что он не ослепляет других водителей.",
             "Tak, aby w lusterku nie był widoczny bok pojazdu": "Так, чтобы в зеркале не была видна боковая часть транспортного средства.",
-            "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м."
+            "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м.",
+            "Pod warunkiem, że nie ciągnie się przyczepy ;-)": "При условии, что не тянете прицеп ;-)",
+            "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста."
         }
     },
     "not_approved": {
@@ -2174,7 +2177,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
-        "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста.",
         "W takich okolicznościach najlepszym punktem odniesienia przy zajmowaniu właściwej pozycji na drodze są znaki poziome": "В таких обстоятельствах лучшей точкой ориентации для занятия правильного положения на дороге служат горизонтальные дорожные знаки.",
         "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
         "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
@@ -2259,7 +2261,6 @@
         "Dynamiczna pozycja za kierownicą umożliwia zróżnicowane obserwowanie drogi w zależności od panujących warunków": "Динамичное положение за рулём позволяет разнообразно наблюдать за дорогой в зависимости от господствующих условий.",
         "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
         "Skrajne prawe pasy kończą się": "Крайние правые полосы заканчиваются.",
-        "Pod warunkiem, że nie ciągnie się przyczepy ;-)": "При условии, что не тянете прицеп ;-)",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy": "Если с момента изъятия водительских прав прошло более 1 года, необходимо успешно пройти контрольную проверку квалификации, чтобы получить обратно изъятые водительские права.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik jest w ruchu": "Категорически запрещено водителю отходить от транспортного средства, когда двигатель запущен и работает.",
