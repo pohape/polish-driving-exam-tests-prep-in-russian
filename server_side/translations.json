@@ -1380,7 +1380,9 @@
             "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общий тормозной путь оказывает время реакции водителя.",
             "Obsługiwanie radia": "Управление радио.",
             "Czy na najbliższym zakręcie wolno Ci wyprzedzić ten pojazd z prawej strony?": "Можешь ли ты обогнать этот транспортное средство с правой стороны на ближайшем повороте?",
-            "Czy w tej sytuacji wolno Ci wyprzedzić rowerzystę?": "В этой ситуации разрешено ли тебе обогнать велосипедиста?"
+            "Czy w tej sytuacji wolno Ci wyprzedzić rowerzystę?": "В этой ситуации разрешено ли тебе обогнать велосипедиста?",
+            "Czy w tej sytuacji masz obowiązek zachować ostrożność?": "В этой ситуации ты обязан соблюдать осторожность?",
+            "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?"
         }
     },
     "not_approved": {
@@ -2756,7 +2758,6 @@
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
         "Rodzaj nawierzchni oraz warunki panujące na drodze powinny mieć wpływ na dobór bezpiecznej prędkości": "Тип дорожного покрытия, а также условия, царящие на дороге, должны влиять на выбор безопасной скорости.",
-        "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
         "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?",
         "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота.",
@@ -2800,6 +2801,7 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?"
+        "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
+        "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?"
     }
 }
