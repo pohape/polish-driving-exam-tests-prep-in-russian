@@ -19,6 +19,24 @@
         ]
     },
     "dictionary": {
+        "obowiązkowe wyposażenie pojazdu: обязательная часть комплектации ТС": [
+            "wyposaże"
+        ],
+        "należy obserwować otoczenie podczas jazdy po autostradzie: наблюдать за обстановкой во время езды по автостраде": [
+            "otocze"
+        ],
+        "obserwować otoczenie przejścia dla pieszych: наблюдать за обстановкой пешеходного перехода": [
+            "otocze"
+        ],
+        "wjechać na drogę twardą: выехать на дорогу с твёрдым покрытием": [
+            "tward"
+        ],
+        "ostrzegawczy trójkąt odblaskowy: знак аварийной остановки": [
+            "trójkąt"
+        ],
+        "trójkąt ostrzegawczy: знак аварийной остановки": [
+            "trójkąt"
+        ],
         "sztywne siedzenie na fotelu: неподвижное сидение в кресле": [
             "sztywn"
         ],

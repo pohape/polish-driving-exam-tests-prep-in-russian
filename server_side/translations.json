@@ -1,14 +1,18 @@
 {
-    "incorrect": {
-        "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на твердое покрытие, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?",
-        "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Вопрос для перевода: \"Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его окружением?\"",
-        "Ostrzegawczy trójkąt odblaskowy": "Отражающий предупредительный треугольник.",
-        "Czy apteczka doraźnej pomocy jest obowiązkowym wyposażeniem każdego pojazdu samochodowego?": "Является ли аптечка первой помощи обязательным оборудованием каждого автомобиля?",
-        "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?",
-        "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии.",
-        "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это приводит к неудобствам, связанным с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:"
-    },
+    "incorrect": [],
     "approved": {
+        "otoczenie": {
+            "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за обстановкой во время езды по автостраде?",
+            "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его обстановкой?"
+        },
+        "trójkąt ostrzegawczy": {
+            "Trójkąt ostrzegawczy": "Знак аварийной остановки.",
+            "Ostrzegawczy trójkąt odblaskowy": "Знак аварийной остановки.",
+            "Postój uszkodzonego na autostradzie pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на автостраде транспортного средства следует сигнализировать, среди прочего, путем размещения знака аварийной остановки на расстоянии 100 м позади транспортного средства.",
+            "Czy w przypadku unieruchomienia na autostradzie kierowanego przez siebie pojazdu, masz obowiązek to sygnalizować, umieszczając 100 m za nim ostrzegawczy trójkąt odblaskowy?": "В случае если автмобиль, которым вы управляете, заглох на автостраде вы обязаны сигнализировать об этом, поставив знак аварийной остановки на 100 м позади него?",
+            "Pojazd holowany, z wyjątkiem motocykla, powinien być oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym": "Буксируемое транспортное средство, за исключением мотоцикла, должно быть обозначено сзади слева знаком аварийной остановки.",
+            "W jakiej odległości za stojącym na autostradzie, uszkodzonym samochodem osobowym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy?": "На каком расстоянии за стоящим на автостраде поврежденным легковым автомобилем обязаны разместить знак аварийной остановки?"
+        },
         "strefa zamieszkania": {
             "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
             "Czy za tym znakiem \"strefa zamieszkania\" kierujący może spodziewać się pieszych, korzystających z całej szerokości drogi?": "Может ли водитель ожидать пешеходов, использующих всю ширину дороги, за этим знаком \"Жилая зона\"?",
@@ -50,7 +54,6 @@
             "Czy zbliżając się do miejsca postoju tak oznakowanego pojazdu, masz obowiązek zachować szczególną ostrożność?": "При приближении к месту стоянки транспортного средства с такой маркировкой вы обязаны проявлять особую осторожность?",
             "Czy w czasie postoju pojazdu w nocy na nieoświetlonej jezdni masz obowiązek używać świateł pozycyjnych lub postojowych?": "Вы обязаны использовать габаритные огни при остановке автомобиля ночью на неосвещенной дороге?",
             "Czy kierujący właściwie zabezpieczył pojazd na czas postoju?": "Правильно ли водитель обеспечил безопасность транспортного средства на время стоянки?",
-            "Postój uszkodzonego na autostradzie pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на автостраде транспортного средства следует сигнализировать, среди прочего, путем размещения предупреждающего отражающего треугольника на расстоянии 100 м позади транспортного средства.",
             "Czy na obszarze zabudowanym masz obowiązek włączyć światła awaryjne, aby sygnalizować postój uszkodzonego pojazdu, który znajduje się poza jezdnią?": "Обязаны ли вы включить аварийные огни в населенном пункте, чтобы сигнализировать стоянку поврежденного транспортного средства, находящегося вне проезжей части?",
             "Czy na tym poboczu dozwolony jest postój pojazdu?": "Разрешена ли стоянка транспортного средства на этой обочине?",
             "Czy postój w tym miejscu jest dozwolony?": "Разрешена ли стоянка в этом месте?",
@@ -214,7 +217,6 @@
             "Czy wolno Ci wyprzedzić pojazd poruszający się obok, zanim zmienisz pas ruchu i zjedziesz z autostrady na najbliższym wyjeździe?": "Разрешено ли вам обогнать проезжающий сбоку автомобиль, прежде чем перестроиться вправо и съехать с автострады на ближайшем выезде?",
             "Co powinien zrobić kierujący na autostradzie, gdy podczas jazdy zrobi mu się duszno, wystąpią dreszcze, zdrętwieją ręce i poczuje ból w okolicy żołądka oraz szum w uszach?": "Что делать водителю на автостраде, если он задыхается во время вождения, испытывает озноб, онемение рук и ощущает боль в области желудка и шум в ушах?",
             "Czy w tej sytuacji wjeżdżasz na autostradę?": "Вы въезжаете на автостраду в этой ситуации?",
-            "Czy w przypadku unieruchomienia na autostradzie kierowanego przez siebie pojazdu, masz obowiązek to sygnalizować, umieszczając 100 m za nim ostrzegawczy trójkąt odblaskowy?": "В случае если автмобиль, которым вы управляете, заглох на автостраде вы обязаны сигнализировать об этом, поставив предупреждающий светоотражающий треугольник на 100 м позади него?",
             "Czy ten znak informuje o zbliżaniu się do miejsca zjazdu z autostrady?": "Этот знак информирует о приближении к месту съезда с автострады?",
             "Czy ten znak informuje Cię, że zbliżasz się do końca autostrady?": "Знак этот информирует тебя о том, что ты приближаешься к концу автострады?",
             "Widoczny znak to D-10 - Koniec autostrady": "Видимый знак это D-10 - \"Конец автострады\".",
@@ -572,6 +574,11 @@
             "Znak ostrzega o dwóch niebezpiecznych zakrętach, z których pierwszy jest w kierunku wskazanym na znaku, a drugi może być zarówno w lewo, jak i w prawo": "Знак предупреждает о двух опасных поворотах, первый из которых находится в направлении, указанном на знаке, а второй может быть как влево, так и вправо."
         },
         "others": {
+            "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это приводит к избыточным выбросам выхлопных газов в окружающую среду или избыточным шумом:",
+            "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, поскольку помощь должен оказать виновник аварии.",
+            "Czy apteczka doraźnej pomocy jest obowiązkowym wyposażeniem każdego pojazdu samochodowego?": "Является ли аптечка первой помощи обязательной частью комплектации каждого автомобиля?",
+            "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем сбития пешехода. Как вы должны вести себя?",
+            "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на дорогу с твердым покрытием, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?",
             "W której z wymienionych sytuacji potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni?": "В какой из перечисленных ситуаций справка об изъятии водительского удостоверения разрешает управление транспортным средством в течение 7 дней?",
             "Rodzaj nawierzchni oraz warunki panujące na drodze": "Тип покрытия проезжей части и дорожные условия.",
             "Czy widoczny na skrzyżowaniu sygnał zielony oznacza bezkolizyjny skręt w lewo?": "Значит ли зеленый свет на перекрестке, что можно сразу безопасно повернуть налево?",
@@ -1514,7 +1521,6 @@
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
-        "Pojazd holowany, z wyjątkiem motocykla, powinien być oznaczony z tyłu po lewej stronie ostrzegawczym trójkątem odblaskowym": "Буксируемое транспортное средство, за исключением мотоцикла, должно быть обозначено сзади слева предупреждающим отражающим треугольником.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?",
@@ -1905,7 +1911,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu?": "Разрешено ли тебе в этой ситуации повернуть направо на перекрестке?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego przez Ciebie pasa ruchu?": "В данной ситуации, разрешено ли Вам повернуть налево с занимаемой Вами полосы движения?",
         "Koło zapasowe": "Запасное колесо.",
-        "Trójkąt ostrzegawczy": "Треугольник предупреждения.",
         "Który z wymienionych elementów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из перечисленных элементов является обязательной комплектацией каждого легкового автомобиля?",
         "Apteczka": "Аптечка.",
         "Tak, wolno": "Да, разрешается.",
@@ -2112,7 +2117,6 @@
         "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
         "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
-        "W jakiej odległości za stojącym na autostradzie, uszkodzonym samochodem osobowym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy?": "На каком расстоянии за стоящим на автостраде поврежденным легковым автомобилем обязаны разместить предупредительный отражающий треугольник?",
         "Jaki odstęp musisz zachować wyprzedzając rower lub motorower?": "Какое расстояние вы должны соблюдать, обгоняя велосипед или мотороллер?",
         "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
         "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?",
@@ -2382,7 +2386,6 @@
         "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
         "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
-        "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за окружением во время вождения по автостраде?",
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой впереди и позади транспортного средства.",
         "Przestawiać pojazdu na pobocze drogi": "Перестроиться на обочину дороги.",
         "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
