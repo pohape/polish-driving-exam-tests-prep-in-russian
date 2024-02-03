@@ -212,36 +212,40 @@ class Translate
         return preg_replace_callback('/\b([А-ЯA-Z]-\d+[A-Za-zА-Яа-я]?)/u', $replacement, $text);
     }
 
-    private static function generatePrompt($text)
+    private static function generateDictionary(array $promptData, string $text)
     {
-        $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
-        $dictionaryIntro = '';
-        $dictionaryFull = [];
         $dictionary = [];
-        $comments = [];
+        $searchAndUpdate = function ($searchWord, $phrase) use (&$dictionary, $text) {
+            if (stripos($text, $searchWord) !== false) {
+                $dictionary[$phrase] = null;
+            }
+        };
 
         foreach ($promptData['dictionary_by_phrase'] as $phrase => $searchList) {
             foreach ($searchList as $searchWord) {
-                $dictionaryFull[] = [$phrase, $searchWord];
+                $searchAndUpdate($searchWord, $phrase);
             }
         }
 
         foreach ($promptData['dictionary_by_search_word'] as $searchWord => $phrases) {
             foreach ($phrases as $phrase) {
-                $dictionaryFull[] = [$phrase, $searchWord];
+                $searchAndUpdate($searchWord, $phrase);
             }
         }
 
         foreach ($promptData['dictionary_others'] as $searchWord => $phrase) {
-            $dictionaryFull[] = [$phrase, $searchWord];
+            $searchAndUpdate($searchWord, $phrase);
         }
 
-        foreach ($dictionaryFull as $phraseAndSearchWord) {
-            if (stripos($text, $phraseAndSearchWord[1]) !== false) {
-                $dictionary[$phraseAndSearchWord[0]] = null;
-                $dictionaryIntro = PHP_EOL . $promptData['dictionary_intro'] . PHP_EOL;
-            }
-        }
+        return $dictionary;
+    }
+
+    private static function generatePrompt($text)
+    {
+        $promptData = json_decode(file_get_contents(__DIR__ . '/' . self::CHAT_GPT_PROMPT_FILE), true);
+        $comments = [];
+        $dictionary = self::generateDictionary($promptData, $text);
+        $dictionaryIntro = count($dictionary) ? $promptData['dictionary_intro'] : '';
 
         foreach ($promptData['comments'] as $line => $searchList) {
             foreach ($searchList as $search) {
