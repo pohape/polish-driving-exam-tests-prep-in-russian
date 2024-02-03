@@ -1,7 +1,9 @@
 {
     "incorrect": {
         "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на твердое покрытие, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?",
-        "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Вопрос для перевода: \"Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его окружением?\""
+        "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Вопрос для перевода: \"Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его окружением?\"",
+        "Ostrzegawczy trójkąt odblaskowy": "Отражающий предупредительный треугольник.",
+        "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это вызывает неудобства, связанные с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:"
     },
     "approved": {
         "strefa zamieszkania": {
@@ -1168,7 +1170,9 @@
             "Trzykrotnie": "Трижды.",
             "Dwukrotnie": "Дважды.",
             "Założyć opatrunek z waty": "Наложить повязку из ваты.",
-            "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность."
+            "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность.",
+            "Komplet zapasowych żarówek": "Комплект запасных лампочек.",
+            "Urządzenie głośnomówiące do telefonu": "Громкая связь для телефона."
         }
     },
     "not_approved": {
@@ -2183,7 +2187,6 @@
         "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
         "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu": "Размещенные в держателях сзади транспортного средства, закрывающем один фонарь транспортного средства.",
         "Kamizelka odblaskowa": "Светоотражающий жилет.",
-        "Ostrzegawczy trójkąt odblaskowy": "Отражающий предупредительный треугольник.",
         "Podnośnik": "Подъемник.",
         "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
         "Widoczność na drodze": "Видимость на дороге.",
@@ -2723,7 +2726,7 @@
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха.",
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
-        "Komplet zapasowych żarówek": "Комплект запасных лампочек.",
-        "Urządzenie głośnomówiące do telefonu": "Громкая связь для телефона."
+        "zabronione tylko w strefie zamieszkania": "запрещено только в жилой зоне.",
+        "zabronione w obszarze zabudowanym": "запрещено в населенном пункте."
     }
 }
