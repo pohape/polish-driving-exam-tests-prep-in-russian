@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказать первую помощь пострадавшим в дорожно-транспортном происшествии?"
+    },
     "approved": {
         "strefa zamieszkania": {
             "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
@@ -1110,7 +1112,14 @@
             "Niedziałające światła hamowania \"stop\"": "Неисправные стоп-сигналы.",
             "Niedziałająca klimatyzacja": "Неработающий кондиционер.",
             "Niedziałające czujniki parkowania": "Неисправные датчики парковки.",
-            "O czym ostrzega świecąca się na czerwono w czasie jazdy samochodem osobowym lampka kontrolna układu chłodzenia?": "О чем предупреждает загоревшаяся красным во время езды на легковом автомобиле контрольная лампа системы охлаждения?"
+            "O czym ostrzega świecąca się na czerwono w czasie jazdy samochodem osobowym lampka kontrolna układu chłodzenia?": "О чем предупреждает загоревшаяся красным во время езды на легковом автомобиле контрольная лампа системы охлаждения?",
+            "O zbyt wysokiej temperaturze płynu chłodniczego": "О слишком высокой температуре охлаждающей жидкости.",
+            "O zbyt niskiej temperaturze płynu chłodniczego": "О слишком низкой температуре охлаждающей жидкости.",
+            "O zbyt niskim poziomie płynu do spryskiwania szyby": "О слишком низком уровне жидкости для омывания стекла.",
+            "Tak, gdyż można samodzielnie wykonać część działań ratunkowych": "Да, поскольку можно самостоятельно выполнить часть действий по оказанию первой помощи.",
+            "Nie, gdyż za ewentualnie popełnione błędy grozi odpowiedzialność karna": "Нет, поскольку за возможные совершенные ошибки грозит уголовная ответственность.",
+            "Nie, gdyż udzielać pomocy mogą jedynie osoby z wykształceniem medycznym": "Нет, поскольку оказывать помощь могут только лица с медицинским образованием.",
+            "Jak dwukrotne zwiększenie prędkości samochodu osobowego wpływa na długość jego drogi hamowania?": "Как двукратное увеличение скорости легкового автомобиля влияет на длину его тормозного пути?"
         }
     },
     "not_approved": {
@@ -1807,11 +1816,7 @@
         "Zmniejszyć prędkość": "Снизить скорость.",
         "Zamierzasz zawrócić na tym skrzyżowaniu. Czy zajmujesz właściwy pas ruchu?": "Вы собираетесь развернуться на этом перекрестке. Вы занимаете правильную полосу движения?",
         "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости.",
-        "Nie, gdyż udzielać pomocy mogą jedynie osoby z wykształceniem medycznym": "Нет, поскольку оказывать помощь могут только лица с медицинским образованием.",
-        "Tak, gdyż można samodzielnie wykonać część działań ratunkowych": "Да, поскольку можно самостоятельно выполнить часть действий по оказанию первой помощи.",
-        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказать первую помощь пострадавшим в дорожно-транспортном происшествии?",
         "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Nie, gdyż za ewentualnie popełnione błędy grozi odpowiedzialność karna": "Нет, поскольку за возможные совершенные ошибки грозит уголовная ответственность.",
         "Jeżeli kierowca otrzymał 24 punkty karne za naruszenie przepisów ruchu drogowego": "Если водитель получил 24 штрафных балла за нарушение правил дорожного движения.",
         "Jeżeli kierowca otrzymał 20 punktów karnych w ciągu pierwszego roku od otrzymania po raz pierwszy prawa jazdy za naruszenie przepisów ruchu drogowego": "Если водитель получил 20 штрафных баллов в течение первого года с момента впервые получения водительских прав за нарушение правил дорожного движения.",
         "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
@@ -2130,9 +2135,6 @@
         "mijania": "ближнего света.",
         "pozycyjnych": "габаритов.",
         "drogowych": "дальнего света.",
-        "O zbyt niskiej temperaturze płynu chłodniczego": "О слишком низкой температуре охлаждающей жидкости.",
-        "O zbyt niskim poziomie płynu do spryskiwania szyby": "О слишком низком уровне жидкости для омывания стекла.",
-        "O zbyt wysokiej temperaturze płynu chłodniczego": "О слишком высокой температуре охлаждающей жидкости.",
         "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
         "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?": "В этой ситуации, приближаясь к железнодорожному переезду, обязаны ли вы остановить транспортное средство перед знаком STOP?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu bez zatrzymania się przed sygnalizatorem?": "Можешь ли ты в этой ситуации повернуть направо на перекрестке без остановки перед светофором?",
@@ -2689,6 +2691,8 @@
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
-        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?"
+        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
+        "Zwiększa czterokrotnie długość drogi hamowania": "Увеличивает в четыре раза длину тормозного пути.",
+        "Nie powoduje zmiany długości drogi hamowania": "Не вызывает изменение длины тормозного пути."
     }
 }
