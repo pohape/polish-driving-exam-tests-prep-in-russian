@@ -20,8 +20,8 @@
             "W strefie zamieszkania urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi": "В зоне проживания приспособления, принуждающие Вас медленно ехать, могут быть не обозначены предупредительными знаками.",
             "Nie ma obowiązku zatrzymywania się przy wyjeżdżaniu ze strefy zamieszkania": "Нет требования останавливаться при выезде из жилой зоны.",
             "To nie jest strefa zamieszkania": "Это не является жилой зоной.",
-            "Czy prowadząc pojazd silnikowy z przyczepą w strefie zamieszkania masz prawo jechać z prędkością 30 km\/h?": "Имеете ли вы право двигаться со скоростью 30 км/ч, управляя ТС с прицепом в жилой зоне?",
-            "Z jaką prędkością nie możesz poruszać się w strefie zamieszkania?": "С какой скоростью ты не можешь двигаться в жилой зоне?"    
+            "Czy prowadząc pojazd silnikowy z przyczepą w strefie zamieszkania masz prawo jechać z prędkością 30 km\/h?": "Имеете ли вы право двигаться со скоростью 30 км\/ч, управляя ТС с прицепом в жилой зоне?",
+            "Z jaką prędkością nie możesz poruszać się w strefie zamieszkania?": "С какой скоростью ты не можешь двигаться в жилой зоне?"
         },
         "unieruchomienie": {
             "Unieruchomić dwa sąsiadujące stawy": "Обездвижить два соседних сустава.",
@@ -2339,7 +2339,6 @@
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
         "Wyprzedzanie": "Обгон",
         "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
         "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения.",
@@ -2678,6 +2677,7 @@
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч."
+        "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения."
     }
 }
