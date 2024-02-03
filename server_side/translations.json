@@ -1214,7 +1214,9 @@
             "Czy w tej sytuacji wolno Ci się zatrzymać przy prawej krawędzi jezdni?": "Разрешено ли тебе в этой ситуации остановиться у правого края проезжей части?",
             "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?",
             "Czy w tej sytuacji masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации у тебя есть обязанность сигнализировать о намерении смены полосы движения?",
-            "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?"
+            "Czy sygnał żółty migający oznacza, że za chwilę zapali się sygnał czerwony?": "Означает ли желтый мигающий сигнал, что красный сигнал загорится через мгновение?",
+            "Czy w tej sytuacji masz prawo zrezygnować z użycia kierunkowskazu przy zmianie pasa?": "В этой ситуации вы имеете право отказаться от использования указателя поворота при смене полосы движения?",
+            "Czy w tej sytuacji przejeżdżając obok przystanku autobusowego musisz zachować szczególną ostrożność?": "В этой ситуации проезжая мимо автобусной остановки, должен ли ты соблюдать особую осторожность?"
         }
     },
     "not_approved": {
@@ -1666,7 +1668,6 @@
         "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?": "В этой ситуации имеете ли вы право припарковать автомобиль справа на тротуаре непосредственно перед железнодорожным переездом?",
         "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
-        "Czy w tej sytuacji masz prawo zrezygnować z użycia kierunkowskazu przy zmianie pasa?": "В этой ситуации вы имеете право отказаться от использования указателя поворота при смене полосы движения?",
         "Prawo jazdy": "Водительское удостоверение.",
         "Pozwolenie do kierowania tramwajem": "Разрешение на управление трамваем",
         "Zaloguj się": "Войти",
