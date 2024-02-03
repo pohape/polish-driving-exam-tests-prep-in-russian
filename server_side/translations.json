@@ -3,7 +3,8 @@
         "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
         "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
-        "Obsługiwanie radia": "Управление радио."
+        "Obsługiwanie radia": "Управление радио.",
+        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на двоих число мест, указанных в регистрационных документах легкового автомобиля."
     },
     "approved": {
         "otoczenie": {
@@ -1343,7 +1344,9 @@
             "Na co, przede wszystkim, powinieneś zwrócić uwagę podczas wymijania innego pojazdu?": "На что, прежде всего, следует обратить внимание во время проезда мимо встречного ТС?",
             "Na zachowanie bezpiecznego odstępu": "На сохранение безопасной дистанции.",
             "Na pojazdy jadące za tobą": "На транспортные средства, следующие за тобой.",
-            "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле."
+            "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле.",
+            "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?": "За какое нарушение правил дорожного движения полицейский временно изъмет водительское удостоверение?",
+            "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej": "За обгон с нарушением одиночной сплошной линии."
         }
     },
     "not_approved": {
@@ -1549,7 +1552,6 @@
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
         "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности.",
-        "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?": "За какие нарушения ПДД полицейский лишит водительских прав?",
         "O kolejne trzy miesiące": "Еще на три месяца.",
         "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
         "Minimalnie 1 m": "Минимум 1 м.",
@@ -2694,8 +2696,6 @@
         "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
         "Na autostradzie": "На автостраде.",
         "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
-        "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej": "За обгон с нарушением одиночной сплошной линии.",
-        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на двоих число мест, указанных в регистрационных документах легкового автомобиля.",
         "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?",
         "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
         "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
@@ -2786,6 +2786,7 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
-        "Omijania dowolnego pojazdu": "Обгона любого транспортного средства."
+        "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
+        "Za wymijanie na przejeździe kolejowym": "За проезд мимо встречного ТС на железнодорожном переезде."
     }
 }
