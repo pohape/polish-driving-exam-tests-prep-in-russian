@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
-        "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?"
+        "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
+        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части."
     },
     "approved": {
         "otoczenie": {
@@ -1392,7 +1393,10 @@
             "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку.",
             "Omijania dowolnego pojazdu": "Объезд любого транспортного средства.",
             "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, во время объезда, обязан ли ты соблюдать особую осторожность?",
-            "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "В представленной ситуации во время объезда ТС нужно ли быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?"
+            "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "В представленной ситуации во время объезда ТС нужно ли быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?",
+            "Jedziesz z prędkością 80 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы движетесь со скоростью 80 км\/ч. Какое начальное положение обеспечит вам оптимальную траекторию движения на повороте?",
+            "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
+            "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии."
         }
     },
     "not_approved": {
@@ -2811,10 +2815,6 @@
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
         "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
-        "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
-        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Jedziesz z prędkością 80 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы движетесь со скоростью 80 км\/ч. Какое начальное положение обеспечит вам оптимальную траекторию движения на повороте?",
-        "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии.",
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
