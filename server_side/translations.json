@@ -1312,7 +1312,14 @@
             "Zawsze, gdy istnieje możliwość oślepienia kierującego pojazdem poprzedzającym": "Всегда, когда существует возможность ослепления водителя впереди идущего транспортного средства.",
             "Zawsze, gdy widzisz pojazd poprzedzający": "Всегда, когда видишь впереди идущее ТС.",
             "Zawsze, gdy widzisz pojedynczego pieszego na jezdni": "Всегда, когда видишь одиночного пешехода на проезжей части.",
-            "W jaki sposób powinno być ustawione lusterko zewnętrzne w samochodzie osobowym?": "Как должно быть настроено наружное зеркало в легковом автомобиле?"
+            "W jaki sposób powinno być ustawione lusterko zewnętrzne w samochodzie osobowym?": "Как должно быть настроено наружное зеркало в легковом автомобиле?",
+            "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Да, чтобы в зеркале была видна часть боковой стороны автомобиля, а также дорога позади автомобиля.",
+            "Tak, aby w połowie lusterka była widoczna boczna szyba przednich drzwi": "Так, чтобы боковое стекло передних дверей было видно в середине зеркала.",
+            "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какой интервал следует соблюдать при обгоне мотоциклиста?",
+            "Bezpieczny, mniejszy niż 1 metr": "Безопасное расстояние, меньше чем 1 метр.",
+            "Każdy odstęp, ale bezpieczny": "Любой интервал, но безопасный.",
+            "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
+            "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?"
         }
     },
     "not_approved": {
@@ -1516,7 +1523,6 @@
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
-        "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какой интервал следует соблюдать при обгоне мотоциклиста?",
         "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Получение водительского удостоверения в период, в течение которого оно дает право на вождение.",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
@@ -1534,7 +1540,6 @@
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
         "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego": "В случае превышения штрафных баллов в количестве 24 и не предъявления справки в требуемый срок об окончании курса перевоспитания.",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
-        "Każdy odstęp, ale bezpieczny": "Любой интервал, но безопасный.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
         "W jakim przypadku należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy?": "В каком случае вы должны получить положительный результат от проверки квалификации, чтобы получить возвращенные водительские права?",
         "Tak, aby ręce trzymające kierownicę były całkowicie wyprostowane w łokciach": "Так, чтобы руки, удерживающие руль, были полностью выпрямлены в локтях.",
@@ -1972,7 +1977,6 @@
         "Ostrożnie zjechać na pas awaryjny, wezwać Ratownictwo Medyczne i rozpiąć pasy": "Аккуратно перестроиться на аварийную полосу, вызвать медицинскую помощь и расстегнуть ремни.",
         "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
         "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?": "Какова цель использования системы ABS в легковом автомобиле?",
-        "Tak, aby w połowie lusterka była widoczna boczna szyba przednich drzwi": "Так, чтобы боковое стекло передних дверей было видно в середине зеркала.",
         "Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3": "Стрелка-указатель, разрешающая поворот налево, расположенная на крайней левой полосе, также разрешает разворот, если это не запрещено вертикальным знаком B-23 или если движение не регулируется светофором S-3.",
         "Kierujący pojazdem jest obowiązany jechać z prędkością zapewniającą panowanie nad pojazdem, z uwzględnieniem warunków, w jakich ruch się odbywa": "Водитель транспортного средства обязан двигаться со скоростью, обеспечивающей контроль над транспортным средством, с учетом условий, в которых происходит движение.",
         "Odpowiedzi inne niż nr 3 są bez sensu": "Ответы, отличные от номера 3, бессмысленны.",
@@ -2177,9 +2181,7 @@
         "Długość pojazdu": "Длина транспортного средства.",
         "W każdym przypadku po zatrzymaniu prawa jazdy": "В каждом случае после остановки водительского удостоверения.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
-        "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
-        "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
         "Jaki odstęp musisz zachować wyprzedzając rower lub motorower?": "Какое расстояние вы должны соблюдать, обгоняя велосипед или мотороллер?",
         "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
         "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?",
@@ -2553,7 +2555,6 @@
         "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?": "С какой скоростью разрешено передвигаться по автостраде, управляя легковым автомобилем?",
         "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством.",
         "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa \/ śnieżyca, ulewa itp.\/, nie mniejszą niż 40 km\/h": "Учитывая атмосферные условия, при которых происходит движение \/снегопад, ливень и т.п.\/, не менее 40 км\/ч.",
-        "Bezpieczny, mniejszy niż 1 metr": "Безопасное расстояние, меньше чем 1 метр.",
         "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
         "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
         "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
@@ -2781,6 +2782,6 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Да, чтобы в зеркале была видна часть боковой стороны автомобиля, а также дорога позади автомобиля."
+        "Tak, ponieważ opuszczasz obszar zabudowany": "Да, потому что ты покидаешь населенный пункт."
     }
 }
