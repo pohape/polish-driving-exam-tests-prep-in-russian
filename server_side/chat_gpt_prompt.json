@@ -33,7 +33,13 @@
         "światła postojowe: габаритные огни": [
             "postojow"
         ],
-        "unieruchomienie silnika: остановка двигателя" : [
+        "postój pojazdu: стоянка ТС": [
+            "postoj",
+            "postój"
+        ],
+        "widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu: видимый знак запрещает стоянку, которая понимается как остановка транспортного средства": [
+            "postoj",
+            "postój",
             "unieruch"
         ],
         "w razie unieruchomienia pojazdu na przejeździe kolejowym: в случае остановки ТС на железнодорожном переезде" : [
@@ -42,13 +48,7 @@
         "zatrzymanie pojazdu to każde unieruchomienie pojazdu wynikające z przepisów ruchu drogowego: остановка ТС - это любая остановка ТС обусловленная правилами дорожного движения": [
             "unieruch"
         ],
-        "postój pojazdu: стоянка ТС": [
-            "postoj",
-            "postój"
-        ],
-        "widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu: видимый знак запрещает стоянку, которая понимается как остановка транспортного средства": [
-            "postoj",
-            "postój",
+        "unieruchomienie silnika: остановка двигателя" : [
             "unieruch"
         ],
         "należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: необходимо наложить стерильный давящий бинт из марли и обездвижить": [
@@ -95,9 +95,6 @@
         ],
         "kontrolujący: должностное лицо": [
             "kontroluj"
-        ],
-        "zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: сделать стерильный давящий бинт из марли и обездвижить" : [
-            "unieruch"
         ],
         "zatoka przystankowa: остановка общественного транспорта": [
             "zatok",
