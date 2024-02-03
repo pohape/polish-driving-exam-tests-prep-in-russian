@@ -1389,7 +1389,8 @@
             "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "В данной ситуации вы обязаны уступить дорогу транспортному средству, видимому в зеркале?",
             "zgodnie z zaleceniami producenta urządzenia": "согласно рекомендациям производителя устройства.",
-            "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку."
+            "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку.",
+            "Omijania dowolnego pojazdu": "Объезд любого транспортного средства."
         }
     },
     "not_approved": {
@@ -2811,6 +2812,9 @@
         "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Jedziesz z prędkością 80 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы движетесь со скоростью 80 км\/ч. Какое начальное положение обеспечит вам оптимальную траекторию движения на повороте?",
-        "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии."
+        "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии.",
+        "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
+        "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
+        "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления."
     }
 }
