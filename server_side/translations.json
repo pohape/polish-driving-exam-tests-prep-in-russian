@@ -2,7 +2,8 @@
     "incorrect": {
         "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В данной ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет того, что вы будете осторожны?",
         "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
-        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода."
+        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
+        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?"
     },
     "approved": {
         "otoczenie": {
@@ -1295,7 +1296,15 @@
             "Najpierw znacznie zwiększyć obroty silnika, następnie szybko zwolnić pedał sprzęgła": "Сначала значительно увеличьте обороты двигателя, затем быстро отпустите педаль сцепления.",
             "Poważne uszkodzenie silnika": "Серьезное повреждение двигателя.",
             "Który z wymienionych skutków może zostać wywołany przez kontynuowanie jazdy przy świecącej się na czerwono lampce kontrolnej ciśnienia oleju silnikowego?": "Какой из перечисленных эффектов может быть вызван продолжением движения при горящей красной лампе контроля давления моторного масла?",
-            "Uszkodzenie hamulców": "Повреждение тормозов."
+            "Uszkodzenie hamulców": "Повреждение тормозов.",
+            "Tak, w sytuacjach awaryjnych": "Да, в чрезвычайных ситуациях.",
+            "Nie, ponieważ może to doprowadzić do oślepienia innych kierujących": "Нет, потому что это может привести к ослеплению других водителей.",
+            "Tak, jeżeli trzonek źródła światła pasuje do oprawki w reflektorze": "Да, если цоколь источника света подходит к патрону в фаре.",
+            "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km\/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres:": "В случае, когда водитель превысил допустимую скорость более чем на 50 км\/ч в населенном пункте, староста выносит административное решение о лишении права управления на срок:",
+            "1 miesiąca": "1 месяца.",
+            "2 miesięcy": "2 месяца.",
+            "3 miesięcy": "3 месяца.",
+            "W jaki sposób powinien być umieszczony ładunek na samochodzie osobowym?": "Как должен быть размещён груз на легковом автомобиле?"
         }
     },
     "not_approved": {
@@ -1320,7 +1329,6 @@
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
         "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
         "Wraz ze wzrostem prędkości rozszerza się pole widzenia": "С увеличением скорости поле зрения расширяется.",
-        "Tak, w sytuacjach awaryjnych": "Да, в чрезвычайных ситуациях.",
         "Ułatwianie pokonywania zakrętów": "Упрощение прохождения поворотов.",
         "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
         "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
@@ -2016,9 +2024,6 @@
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит срок задержания водительского удостоверения, если вы были остановлены для проверки, когда управляли транспортным средством, несмотря на то, что ранее ваше водительское удостоверение было задержано на три месяца за перевозку людей в количестве, превышающем на два количество мест, указанное в свидетельстве о регистрации легкового автомобиля?",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
-        "Tak, jeżeli trzonek źródła światła pasuje do oprawki w reflektorze": "Да, если цоколь источника света подходит к патрону в фаре.",
-        "Nie, ponieważ może to doprowadzić do oślepienia innych kierujących": "Нет, потому что это может привести к ослеплению других водителей.",
-        "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
         "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения.",
         "Przez okres 24 godzin od chwili zatrzymania": "На протяжении 24 часов с момента остановки.",
         "Przez okres 7 dni od chwili zatrzymania": "На протяжении 7 дней с момента остановки.",
@@ -2594,10 +2599,6 @@
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "2 miesięcy": "2 месяца.",
-        "3 miesięcy": "3 месяца.",
-        "1 miesiąca": "1 месяца.",
-        "W przypadku gdy kierujący przekroczył dopuszczalną prędkość o więcej niż 50 km\/h na obszarze zabudowanym, starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy na okres:": "В случае, когда водитель превысил допустимую скорость более чем на 50 км\/ч в населенном пункте, староста выносит административное решение о лишении права управления на срок:",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
         "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
@@ -2774,6 +2775,7 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
-        "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч."
+        "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
+        "Może nieznacznie zasłaniać tablice rejestracyjne": "Может слегка закрывать регистрационные номера."
     }
 }
