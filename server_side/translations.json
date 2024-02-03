@@ -1363,7 +1363,9 @@
             "Zatrzymanie uniemożliwia ciągła linia krawędziowa": "Остановку делает невозможной сплошная линия края проезжей части.",
             "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В данной ситуации разрешается ли тебе въехать на железнодорожный переезд?",
             "Zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Запрещается объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если началось их опускание или поднятие не было завершено.",
-            "Pojazdy napędzane CNG i LNG nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства, работающие на сжатом и сжиженном природном газе, не загрязняют окружающую среду в значительной степени."
+            "Pojazdy napędzane CNG i LNG nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства, работающие на сжатом и сжиженном природном газе, не загрязняют окружающую среду в значительной степени.",
+            "Sygnalizator S-3 zapewnia bezkolizyjny przejazd przez skrzyżowanie w kierunku wskazanym strzałką": "Светофор S-3 обеспечивает бесконфликтный проезд через перекресток в направлении, указанном стрелкой.",
+            "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении."
         }
     },
     "not_approved": {
@@ -1887,7 +1889,6 @@
         "Czy mając zamiar zawrócić na tym skrzyżowaniu jesteś na właściwym pasie ruchu?": "Собираясь развернуться на этом перекрестке, вы находитесь в правильной полосе движения?",
         "Do zawrócenia trzeba zająć skrajny lewy pas": "Для разворота необходимо занять крайнюю левую полосу.",
         "Czy przed tą linią (złożoną z trójkątów) należy bezwzględnie się zatrzymać?": "Нужно ли обязательно остановиться перед этой линией (состоящей из треугольников)?",
-        "Linia pojedyncza ciągła rozdziela pasy na których ruch odbywa się w tym samym kierunku": "Обе полосы, которые разделены непрерывной одиночной линией, предназначены для движения в одном направлении.",
         "Czy w przedstawionej sytuacji dojechałeś do przejścia dla pieszych?": "Вы прибыли к пешеходному переходу в данной ситуации?",
         "W tej sytuacji dojechałeś\/aś do progu zwalniającego": "В этой ситуации вы подъезжаете к искусственной дорожной неровности (лежачему полицейскому).",
         "Czy w tej sytuacji podczas wyprzedzania masz prawo przejechać przez linię na środku jezdni?": "В данной ситуации во время обгона разрешается ли вам пересекать линию на середине проезжей части?",
@@ -2799,7 +2800,6 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Sygnalizator S-3 zapewnia bezkolizyjny przejazd przez skrzyżowanie w kierunku wskazanym strzałką": "Светофор S-3 обеспечивает бесконфликтный проезд через перекресток в направлении, указанном стрелкой."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
     }
 }
