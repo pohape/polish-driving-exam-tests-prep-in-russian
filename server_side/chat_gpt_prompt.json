@@ -3,9 +3,6 @@
     "short_notice": "Даже если фрагмент очень короткий, содержит всего одно или два слова, или не имеет отношения к ПДД, всё равно переведи без добавления какой-либо дополнительной информации.",
     "dictionary_intro": "Так переводятся некоторые слова и выражения, учитывай их:",
     "comments": {
-        "Wymijanie – przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku.": [
-            "wymijan"
-        ],
         "Omijanie – przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody.": [
             "omijan"
         ],
@@ -28,6 +25,15 @@
         ]
     },
     "dictionary": {
+        "podczas wymijania pojazdu: во время проезда около ТС": [
+            "wymijan"
+        ],
+        "podczas wymijania pojazdu: во время проезда рядом другого ТС": [
+            "wymijan"
+        ],
+        "podczas wymijania pojazdu: во время проезда мимо ТС": [
+            "wymijan"
+        ],
         "hamowanie pulsacyjne: прерывистое торможение": [
             "pulsacyj"
         ],
