@@ -1331,7 +1331,10 @@
             "Na co, przede wszystkim, może mieć wpływ nieprawidłowe ustawienie lusterek zewnętrznych w pojeździe samochodowym?": "На что, прежде всего, может повлиять неправильная регулировка наружных зеркал в автомобиле?",
             "Na bezpieczeństwo w czasie zwiększania prędkości": "На безопасность во время увеличения скорости.",
             "Na bezpieczeństwo podczas zmiany pasa ruchu": "На безопасность во время изменения полосы движения.",
-            "Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 1 metr od pojazdu?": "Во время выполнения какого из перечисленных маневров ты обязан сохранять дистанцию не меньше чем 1 метр от транспортного средства?"
+            "Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 1 metr od pojazdu?": "Во время выполнения какого из перечисленных маневров ты обязан сохранять дистанцию не меньше чем 1 метр от транспортного средства?",
+            "Czy podczas wymijania w nocy innego pojazdu oświetlającego drogę swoimi światłami możesz nie dostrzegać przeszkód na jezdni?": "Можете ли вы во время проезда мимо встречного ТС ночью, которое освещает дорогу своими фарами, не заметить препятствия на проезжей части?",
+            "Tak, ze względu na możliwość chwilowego oślepienia światłami": "Да, из-за возможности временного ослепления фарами.",
+            "Nie, światła pojazdu z przeciwka zawsze poprawiają widoczność na jezdni": "Нет, фары встречного ТС всегда улучшают видимость на проезжей части."
         }
     },
     "not_approved": {
@@ -2311,8 +2314,6 @@
         "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
         "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что эта особа пользуется ремнями безопасности.",
         "Nie, nie wpływa to na widoczność na drodze": "Нет, это не влияет на видимость на дороге.",
-        "Tak, ze względu na możliwość chwilowego oślepienia światłami": "Да, из-за возможности временного ослепления фарами.",
-        "Nie, światła pojazdu z przeciwka zawsze poprawiają widoczność na jezdni": "Нет, фары встречного ТС всегда улучшают видимость на проезжей части.",
         "Który z wymienionych sposobów przewożenia gaśnicy w samochodzie osobowym jest właściwy?": "Какой из перечисленных способов перевозки огнетушителя в легковом автомобиле является правильным?",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
