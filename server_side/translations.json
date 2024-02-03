@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказать первую помощь пострадавшим в дорожно-транспортном происшествии?"
+        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказать первую помощь пострадавшим в дорожно-транспортном происшествии?",
+        "Tylko boki pojazdu": "Перевод фрагмента: \"Только боковые стороны транспортного средства.\""
     },
     "approved": {
         "strefa zamieszkania": {
@@ -1131,7 +1132,14 @@
             "Niewielki lub brak oporu pedału hamulca przy jego wciskaniu": "Незначительное или отсутствующее сопротивление педали тормоза при её нажатии.",
             "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
             "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза.",
-            "Przez wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy i wydaniu kierującemu pokwitowania zatrzymania": "Путем внесения в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения и выдаче водителю квитанции о временном изъятии."
+            "Przez wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy i wydaniu kierującemu pokwitowania zatrzymania": "Путем внесения в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения и выдаче водителю квитанции о временном изъятии.",
+            "Czy wolno Ci nakleić na pojeździe znak określający inne państwo niż to, w którym pojazd został zarejestrowany?": "Разрешено ли вам наклеить на транспортное средство знак, обозначающий другую страну, чем та, в которой транспортное средство было зарегистрировано?",
+            "Tak, bez żadnych ograniczeń": "Да, без каких-либо ограничений.",
+            "Tak, ale pod warunkiem, że pojazd posiada tablicę rejestracyjną z oznaczeniem „PL”": "Да, но при условии, что транспортное средство имеет регистрационный номер с обозначением «PL».",
+            "Nie, jest to zabronione": "Нет, это запрещено.",
+            "Co powinieneś widzieć w dobrze ustawionych lusterkach zewnętrznych, gdy kierujesz samochodem osobowym?": "Что ты должен видеть в хорошо настроенных наружных зеркалах, когда управляешь легковым автомобилем?",
+            "Obszar za pojazdem i boki pojazdu": "Область сзади транспортного средства и бока транспортного средства.",
+            "Tylko sąsiedni pas ruchu": "Только соседняя полоса движения."
         }
     },
     "not_approved": {
@@ -2337,10 +2345,6 @@
         "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
         "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
-        "Nie, jest to zabronione": "Нет, это запрещено.",
-        "Tak, bez żadnych ograniczeń": "Да, без каких-либо ограничений.",
-        "Tak, ale pod warunkiem, że pojazd posiada tablicę rejestracyjną z oznaczeniem „PL”": "Да, но при условии, что транспортное средство имеет регистрационный номер с обозначением «PL».",
-        "Czy wolno Ci nakleić na pojeździe znak określający inne państwo niż to, w którym pojazd został zarejestrowany?": "Разрешено ли вам наклеить на транспортное средство знак, обозначающий другую страну, чем та, в которой транспортное средство было зарегистрировано?",
         "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за окружением во время вождения по автостраде?",
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой впереди и позади транспортного средства.",
         "Przestawiać pojazdu na pobocze drogi": "Перестроиться на обочину дороги.",
