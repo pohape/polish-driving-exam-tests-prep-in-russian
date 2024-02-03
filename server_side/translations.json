@@ -1391,7 +1391,8 @@
             "zgodnie z zaleceniami producenta urządzenia": "согласно рекомендациям производителя устройства.",
             "w sposób umożliwiający łatwy dostęp do dziecka": "таким образом, чтобы обеспечить легкий доступ к ребенку.",
             "Omijania dowolnego pojazdu": "Объезд любого транспортного средства.",
-            "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, во время объезда, обязан ли ты соблюдать особую осторожность?"
+            "Czy w tej sytuacji, podczas omijania, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, во время объезда, обязан ли ты соблюдать особую осторожность?",
+            "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "В представленной ситуации во время объезда ТС нужно ли быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?"
         }
     },
     "not_approved": {
@@ -2820,6 +2821,7 @@
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
         "Potwierdzenie opłaty ubezpieczenia AC": "Подтверждение оплаты страховки КАСКО.",
         "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, если транспортное средство использует газовое топливо.",
-        "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "Возможен ли в представленной ситуации во время объезда ТС необходимость быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?"
+        "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
+        "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса."
     }
 }
