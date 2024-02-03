@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Hamowania pulsacyjnego": "Пульсирующего торможения."
-    },
+    "incorrect": [],
     "approved": {
         "otoczenie": {
             "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за обстановкой во время езды по автостраде?",
@@ -1261,7 +1259,10 @@
             "Pojazd z przeciwka porusza się drogą podporządkowaną": "Встречное ТС движется по второстепенной дороге.",
             "Znak wraz z tabliczką o tym świadczą": "Знак вместе с табличкой об этом свидетельствует.",
             "Zamierzając zmienić pas ruchu należy to zawczasu i wyraźnie zasygnalizować": "Намереваясь сменить полосу движения, необходимо заблаговременно и четко это указать сигналом.",
-            "Wkrótce*": "В ближайшее время*"
+            "Wkrótce*": "В ближайшее время*",
+            "Sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom": "Сигнал красный вместе с сигналом в форме зеленой стрелки означает, что разрешен поворот в направлении, указанном стрелкой, на ближайшую проезжую часть на перекрестке, при условии, что водитель остановится перед светофором и не вызовет затруднения движения для других его участников.",
+            "Nie ma żadnego elementu (znaki drogowe, sygnalizacja), który uniemożliwiałby zawracanie": "Нет ни одного элемента (дорожные знаки, светофор), который бы запрещал разворот.",
+            "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части."
         }
     },
     "not_approved": {
@@ -1727,7 +1728,6 @@
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
         "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
         "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
-        "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части.",
         "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
         "Czy ten znak zabrania Ci wyprzedzać motocykle jednośladowe?": "Запрещает ли этот знак вам обгонять одноколейные мотоциклы?",
         "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
@@ -2764,6 +2764,7 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
-        "Sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom": "Сигнал красный вместе с сигналом в форме зеленой стрелки означает, что разрешен поворот в направлении, указанном стрелкой, на ближайшую проезжую часть на перекрестке, при условии, что водитель остановится перед светофором и не вызовет затруднения движения для других его участников."
+        "Hamowania pulsacyjnego": "Пульсирующего торможения.",
+        "Hamowanie pulsacyjne imituje działanie systemu ABS": "Пульсирующее торможение имитирует работу системы ABS."
     }
 }
