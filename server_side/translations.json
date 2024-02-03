@@ -1,8 +1,6 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
-        "Hamowania pulsacyjnego": "Пульсирующего торможения.",
-        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищенное транспортное средство может привести к дальнейшему повреждению."
+        "Hamowania pulsacyjnego": "Пульсирующего торможения."
     },
     "approved": {
         "otoczenie": {
@@ -1251,7 +1249,12 @@
             "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?",
             "Migający żółty sygnał ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu oraz nakazują zachowanie szczególnej ostrożności": "Мигающий желтый сигнал предупреждает о наличии опасности или затруднении движения и приказывает соблюдать особую осторожность.",
             "Gdy widoczność podczas opadów śniegu jest mniejsza niż 50 m": "Когда видимость во время снегопада составляет менее 50 м.",
-            "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель транспортного средства может использовать задние противотуманные фары, если уменьшенная прозрачность воздуха сокращает видимость на расстояние меньше 50 метров."
+            "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель транспортного средства может использовать задние противотуманные фары, если уменьшенная прозрачность воздуха сокращает видимость на расстояние меньше 50 метров.",
+            "Kierujący pojazdem, przejeżdżając przez chodnik lub drogę dla pieszych, jest obowiązany jechać powoli i ustąpić pierwszeństwa pieszemu": "Водитель транспортного средства, пересекая тротуар или пешеходную дорожку, обязан двигаться медленно и уступить дорогу пешеходу.",
+            "Zabrania się wjazdu gdy zapory nie są podniesione całkowicie": "Запрещается въезд, когда шлагбаумы не подняты полностью.",
+            "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
+            "Znak widoczny na zdjęciu to zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych": "Знак, видимый на фотографии, это запрет въезда многоколейных транспортных средств за исключением одноколейных мотоциклов.",
+            "Zabrania się wyprzedzania na przejeździe kolejowym": "Запрещается обгон на железнодорожном переезде."
         }
     },
     "not_approved": {
@@ -1719,7 +1722,6 @@
         "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
         "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части.",
         "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
-        "Znak widoczny na zdjęciu to zakaz wjazdu pojazdów silnikowych z wyjątkiem motocykli jednośladowych": "Знак, видимый на фотографии, это запрет въезда многоколейных транспортных средств за исключением одноколейных мотоциклов.",
         "Czy ten znak zabrania Ci wyprzedzać motocykle jednośladowe?": "Запрещает ли этот знак вам обгонять одноколейные мотоциклы?",
         "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
@@ -2757,6 +2759,7 @@
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
-        "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?"
+        "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
+        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Необезопасенный транспортное средство может привести к дополнительному ущербу."
     }
 }
