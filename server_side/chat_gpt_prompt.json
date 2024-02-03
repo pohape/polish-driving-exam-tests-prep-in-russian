@@ -19,6 +19,23 @@
         ]
     },
     "dictionary": {
+        "unieruchomienie silnika: остановка двигателя" : [
+            "unieruch"
+        ],
+        "w razie unieruchomienia pojazdu na przejeździe kolejowym: в случае остановки ТС на железнодорожном переезде" : [
+            "unieruch"
+        ],
+        "widoczny znak zakazuje postoju, który jest rozumiany jako unieruchomienie pojazdu: видимый знак запрещает стоянку, которая понимается как остановка транспортного средства": [
+            "postoj",
+            "postój",
+            "unieruch"
+        ],
+        "należy zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: необходимо наложить стерильный давящий бинт из марли и обездвижить": [
+            "unieruch"
+        ],
+        "unieruchomić dwa sąsiadujące stawy: обездвижить два соседних сустава": [
+            "unieruch"
+        ],
         "zakaz skrętu w lewo obowiązuje na najbliższym skrzyżowaniu: запрет поворота налево действует на ближайшем перекрестке": [
             "obowiąz"
         ],
@@ -59,9 +76,6 @@
             "kontroluj"
         ],
         "zrobić opatrunek uciskowy jałowy z gazy i unieruchomić: сделать стерильный давящий бинт из марли и обездвижить" : [
-            "unieruch"
-        ],
-        "unieruchomić: обездвижить" : [
             "unieruch"
         ],
         "zatoka przystankowa: остановка общественного транспорта": [
