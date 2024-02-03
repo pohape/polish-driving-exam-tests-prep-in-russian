@@ -1236,7 +1236,13 @@
             "Bezpieczny odstęp": "Безопасная дистанция.",
             "Minimalnie 0.5 m": "Минимально 0,5 м.",
             "Maksymalnie 3 m, minimalnie 1m": "Максимально 3 метра, минимально 1 метр.",
-            "W jakich warunkach masz prawo włączyć tylne światła przeciwmgłowe?": "В каких условиях у вас есть право включить задние противотуманные фонари?"
+            "W jakich warunkach masz prawo włączyć tylne światła przeciwmgłowe?": "В каких условиях у вас есть право включить задние противотуманные фонари?",
+            "Gdy widoczność w gęstej mgle jest ograniczona do 100 m": "Когда видимость в плотном тумане ограничена до 100 м.",
+            "Gdy widoczność w obfitym deszczu jest ograniczona do 60 m": "Когда видимость в сильном дожде ограничена до 60 метров.",
+            "W jakich warunkach drogowych dozwolone jest używanie łańcuchów przeciwślizgowych?": "В каких дорожных условиях разрешено использование противоскользящих цепей?",
+            "Gdy kierujesz pojazdem w okresie od początku grudnia do końca lutego, niezależnie od tego, czy droga jest pokryta śniegiem": "Когда вы управляете транспортным средством в период с начала декабря до конца февраля, независимо от того, покрыта ли дорога снегом.",
+            "Gdy temperatura powietrza jest mniejsza niż 0 stopni Celsjusza, niezależnie od tego, czy droga jest pokryta śniegiem": "Когда температура воздуха ниже 0 градусов по Цельсию, независимо от того, покрыта ли дорога снегом.",
+            "Gdy droga jest pokryta śniegiem": "Когда дорога покрыта снегом."
         }
     },
     "not_approved": {
@@ -1252,7 +1258,6 @@
         "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
-        "Gdy droga jest pokryta śniegiem": "Когда дорога покрыта снегом.",
         "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
@@ -1354,7 +1359,6 @@
         "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
         "Do 30 km\/h": "До 30 км \/ ч.",
         "Masa pojazdu": "Масса автомобиля.",
-        "Gdy temperatura powietrza jest mniejsza niż 0 stopni Celsjusza, niezależnie od tego, czy droga jest pokryta śniegiem": "Когда температура воздуха ниже 0 градусов по Цельсию, независимо от того, покрыта ли дорога снегом.",
         "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
         "Dlaczego nie?": "Почему бы и нет?",
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
@@ -2751,8 +2755,6 @@
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
-        "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?",
-        "Gdy widoczność w obfitym deszczu jest ograniczona do 60 m": "Когда видимость в сильном дожде ограничена до 60 метров.",
-        "Gdy widoczność w gęstej mgle jest ograniczona do 100 m": "Когда видимость в плотном тумане ограничена до 100 м."
+        "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?"
     }
 }
