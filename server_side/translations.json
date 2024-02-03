@@ -1362,7 +1362,8 @@
             "Po sygnałach czerwonym z żółtym włącza się sygnał zielony": "После красных сигналов с желтым включается зеленый сигнал.",
             "Zatrzymanie uniemożliwia ciągła linia krawędziowa": "Остановку делает невозможной сплошная линия края проезжей части.",
             "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В данной ситуации разрешается ли тебе въехать на железнодорожный переезд?",
-            "Zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Запрещается объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если началось их опускание или поднятие не было завершено."
+            "Zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Запрещается объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если началось их опускание или поднятие не было завершено.",
+            "Pojazdy napędzane CNG i LNG nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства, работающие на сжатом и сжиженном природном газе, не загрязняют окружающую среду в значительной степени."
         }
     },
     "not_approved": {
@@ -2489,7 +2490,6 @@
         "Czy ten znak zezwala na wjazd do strefy czystego transportu tylko pojazdom elektrycznym?": "Разрешает ли этот знак въезд в зону чистого транспорта только электрическим транспортным средствам?",
         "Mogą również wjeżdżać pojazdy zasilane między innymi CNG, wodorem i LNG": "Также могут въезжать транспортные средства, заправляемые, в том числе, сжатым природным газом (CNG), водородом и сжиженным природным газом (LNG).",
         "Pojazdy napędzane wodorem nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства на водородном топливе не загрязняют окружающую среду в значительной степени.",
-        "Pojazdy napędzane CNG i LNG nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства, работающие на CNG и LNG, не загрязняют окружающую среду в значительной степени.",
         "Czy najbliższy znak informuje kierującego pojazdem, że wjazd na drogę znajdującą się po prawej stronie jest zabroniony dla niektórych pojazdów?": "Информирует ли ближайший знак водителя транспортного средства о том, что въезд на дорогу, находящуюся справа, запрещен для некоторых транспортных средств?",
         "Na filmie jest widoczny znak F-6: znak uprzedzający o zakazie, umieszczany przed skrzyżowaniem": "На видео виден знак F-6: предупреждающий знак о запрете, устанавливаемый перед перекрестком.",
         "Znak D-5: pierwszeństwo na zwężonym odcinku drogi": "Знак D-5: преимущество на суженном участке дороги.",
@@ -2799,6 +2799,7 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
+        "Sygnalizator S-3 zapewnia bezkolizyjny przejazd przez skrzyżowanie w kierunku wskazanym strzałką": "Светофор S-3 обеспечивает бесконфликтный проезд через перекресток в направлении, указанном стрелкой."
     }
 }
