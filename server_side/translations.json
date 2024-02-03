@@ -1127,7 +1127,10 @@
             "Większe uszkodzenia pojazdu podczas kolizji": "Больше повреждений автомобиля при столкновении.",
             "Większe obrażenia ciała kierowcy podczas wypadku": "Больше травм водителю во время аварии.",
             "Uszkodzenie poduszki powietrznej": "Повреждение подушки безопасности.",
-            "Jaki może być objaw pęknięcia przewodu hamulcowego w samochodzie osobowym?": "Каким может быть признак прорыва тормозного шланга в легковом автомобиле?"
+            "Jaki może być objaw pęknięcia przewodu hamulcowego w samochodzie osobowym?": "Каким может быть признак прорыва тормозного шланга в легковом автомобиле?",
+            "Niewielki lub brak oporu pedału hamulca przy jego wciskaniu": "Незначительное или отсутствующее сопротивление педали тормоза при её нажатии.",
+            "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
+            "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза."
         }
     },
     "not_approved": {
@@ -1329,7 +1332,6 @@
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
-        "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза.",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na:\n\n\nPolicjant zatrzyma": "Полицейский задержит водительские права по квитанции в случае раскрытия действия, заключающегося в:\n\n\nПолицейский остановит",
         "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
@@ -2049,7 +2051,6 @@
         "W każdym przypadku po zatrzymaniu prawa jazdy": "В каждом случае после остановки водительского удостоверения.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
         "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?",
-        "Niewielki lub brak oporu pedału hamulca przy jego wciskaniu": "Незначительное или отсутствующее сопротивление педали тормоза при её нажатии.",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
         "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
         "W jakiej odległości za stojącym na autostradzie, uszkodzonym samochodem osobowym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy?": "На каком расстоянии за стоящим на автостраде поврежденным легковым автомобилем обязаны разместить предупредительный отражающий треугольник?",
@@ -2300,7 +2301,6 @@
         "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
-        "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
         "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
         "Stan opon": "Состояние шин.",
         "Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?": "Какие факторы влияют на общее время восприятия и реакции водителя транспортного средства?",
