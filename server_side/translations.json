@@ -1093,7 +1093,10 @@
             "Zakaz wjazdu pojazdów o rzeczywistej masie całkowitej ponad 3 t": "Запрет въезда транспортных средств с фактическим общим весом более 3 тонн.",
             "Czy wolno Ci zawrócić na najbliższym skrzyżowaniu?": "Разрешено ли Вам развернуться на ближайшем перекрестке?",
             "Czy w tej sytuacji wolno Ci skręcić w lewo za tym znakiem?": "В данной ситуации разрешено ли вам повернуть налево после этого знака?",
-            "Znak widoczny na zdjęciu oznacza wjazd do strefy ograniczenia prędkości": "Знак, видимый на фотографии, означает въезд в зону ограничения скорости."
+            "Znak widoczny na zdjęciu oznacza wjazd do strefy ograniczenia prędkości": "Знак, видимый на фотографии, означает въезд в зону ограничения скорости.",
+            "Czy masz obowiązek zatrzymać się w wyznaczonym miejscu?": "Вы обязаны остановиться в назначенном месте?",
+            "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa rowerzyście?": "При движении прямо, обязаны ли вы уступить дорогу велосипедисту?",
+            "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność?": "В данной ситуации обязаны ли вы проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -1308,7 +1311,6 @@
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
-        "Czy masz obowiązek zatrzymać się w wyznaczonym miejscu?": "Вы обязаны остановиться в назначенном месте?",
         "Czy w tej sytuacji wolno Ci zaparkować pojazd po lewej stronie drogi?": "В этой ситуации вам разрешено парковать автомобиль на левой стороне дороги?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
@@ -1790,7 +1792,6 @@
         "Czy w przedstawionej sytuacji kierujący jest obowiązany zatrzymać pojazd przed jezdnią przy linii złożonej z trójkątów?": "Обязан ли в данной ситуации водитель остановить транспортное средство перед проезжей частью у линии, состоящей из треугольников?",
         "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
         "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?",
-        "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność?": "В данной ситуации обязаны ли вы проявлять особую осторожность?",
         "Zmniejszyć prędkość": "Снизить скорость.",
         "Zamierzasz zawrócić na tym skrzyżowaniu. Czy zajmujesz właściwy pas ruchu?": "Вы собираетесь развернуться на этом перекрестке. Вы занимаете правильную полосу движения?",
         "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости.",
