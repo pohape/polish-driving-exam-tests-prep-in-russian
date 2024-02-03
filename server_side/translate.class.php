@@ -283,7 +283,14 @@ class Translate
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
         $original = trim(preg_replace('/\s{1,}/', ' ', $original));
 
-        if (is_numeric($original) || preg_match('/^[0-9].{1,9}$/', $original)) {
+        if (strlen($original) <= 3) {
+            $result = array(
+                'translate' => $original,
+                'approved' => true,
+                'info' => 'A short string: only ' . strlen($original) . ' symbol(s)',
+                'error' => null
+            );
+        } elseif (is_numeric($original) || preg_match('/^[0-9].{1,9}$/', $original)) {
             $result = array(
                 'translate' => $original,
                 'approved' => true,
