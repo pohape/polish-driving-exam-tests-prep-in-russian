@@ -1332,7 +1332,9 @@
             "Na co, przede wszystkim, może mieć wpływ nieprawidłowe ustawienie lusterek zewnętrznych w pojeździe samochodowym?": "На что, прежде всего, может повлиять неправильная регулировка наружных зеркал в автомобиле?",
             "Na bezpieczeństwo podczas wymijania": "На безопасность во время проезда мимо ТС.",
             "Na bezpieczeństwo w czasie zwiększania prędkości": "На безопасность во время увеличения скорости.",
-            "Na bezpieczeństwo podczas zmiany pasa ruchu": "На безопасность во время изменения полосы движения."
+            "Na bezpieczeństwo podczas zmiany pasa ruchu": "На безопасность во время изменения полосы движения.",
+            "Podczas wykonywania którego z wymienionych manewrów masz obowiązek zachować odstęp nie mniejszy niż 1 metr od pojazdu?": "Во время выполнения какого из перечисленных маневров ты обязан сохранять дистанцию не меньше чем 1 метр от транспортного средства?",
+            "Wymijania samochodu osobowego": "Проезд мимо легкового автомобиля."
         }
     },
     "not_approved": {
@@ -2779,6 +2781,8 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность."
+        "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность.",
+        "Wyprzedzania roweru": "Обгон велосипеда.",
+        "Omijania dowolnego pojazdu": "Обгона любого транспортного средства."
     }
 }
