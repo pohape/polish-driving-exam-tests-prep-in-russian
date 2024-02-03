@@ -1105,7 +1105,12 @@
             "Czy w tej sytuacji, skręcając w lewo, masz obowiązek ustąpić pierwszeństwa rowerzyście jadącemu na wprost?": "В данной ситуации, поворачивая налево, обязаны ли вы уступить дорогу велосипедисту, едущему прямо?",
             "Czy w tej sytuacji, zjeżdżając z drogi do posesji, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, съезжая с дороги на территорию участка, обязан ли ты проявлять особую осторожность?",
             "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?": "Обязаны ли вы в этой ситуации переключить дальний свет на ближний?",
-            "Czy na tym skrzyżowaniu dozwolone jest wyprzedzanie innych pojazdów?": "Разрешено ли на этом перекрестке обгонять другие транспортные средства?"
+            "Czy na tym skrzyżowaniu dozwolone jest wyprzedzanie innych pojazdów?": "Разрешено ли на этом перекрестке обгонять другие транспортные средства?",
+            "Która z wymienionych awarii, uniemożliwia używanie samochodu osobowego w ruchu drogowym?": "Какая из перечисленных неисправностей делает невозможным использование легкового автомобиля в дорожном движении?",
+            "Niedziałające światła hamowania \"stop\"": "Неисправные стоп-сигналы.",
+            "Niedziałająca klimatyzacja": "Неработающий кондиционер.",
+            "Niedziałające czujniki parkowania": "Неисправные датчики парковки.",
+            "O czym ostrzega świecąca się na czerwono w czasie jazdy samochodem osobowym lampka kontrolna układu chłodzenia?": "О чем предупреждает загоревшаяся красным во время езды на легковом автомобиле контрольная лампа системы охлаждения?"
         }
     },
     "not_approved": {
@@ -1456,7 +1461,6 @@
         "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
-        "Niedziałająca klimatyzacja": "Неработающий кондиционер.",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "С таким, чтобы поддерживать, не менее 50 м интервала.",
         "Na odstęp od jadących z tyłu pojazdów": "На расстоянии от идущих сзади транспортных средств.",
@@ -2128,7 +2132,6 @@
         "drogowych": "дальнего света.",
         "O zbyt niskiej temperaturze płynu chłodniczego": "О слишком низкой температуре охлаждающей жидкости.",
         "O zbyt niskim poziomie płynu do spryskiwania szyby": "О слишком низком уровне жидкости для омывания стекла.",
-        "O czym ostrzega świecąca się na czerwono w czasie jazdy samochodem osobowym lampka kontrolna układu chłodzenia?": "О чем предупреждает загоревшаяся красным во время езды на легковом автомобиле контрольная лампа системы охлаждения?",
         "O zbyt wysokiej temperaturze płynu chłodniczego": "О слишком высокой температуре охлаждающей жидкости.",
         "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
         "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?": "В этой ситуации, приближаясь к железнодорожному переезду, обязаны ли вы остановить транспортное средство перед знаком STOP?",
