@@ -1145,7 +1145,8 @@
             "Dowolna - przede wszystkim dająca wygodę kierowania": "Произвольная - прежде всего обеспечивающая удобство управления.",
             "15 uciśnięć i następnie 2 wdechy": "15 нажатий и затем 2 вдоха.",
             "30 uciśnięć i następnie 2 wdechy": "30 нажатий и затем 2 вдоха.",
-            "Żaden z przepisów ograniczających zatrzymywanie nie zabrania zatrzymania za znakiem drogowym lub słupkiem wskaźnikowym z trzema kreskami": "Ни одно из правил, ограничивающих остановку, не запрещает остановку за дорожным знаком или указательным столбиком с тремя полосами."
+            "Żaden z przepisów ograniczających zatrzymywanie nie zabrania zatrzymania za znakiem drogowym lub słupkiem wskaźnikowym z trzema kreskami": "Ни одно из правил, ограничивающих остановку, не запрещает остановку за дорожным знаком или указательным столбиком с тремя полосами.",
+            "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone": "Обгон на перекрестках со светофором разрешён."
         }
     },
     "not_approved": {
@@ -2708,6 +2709,6 @@
         "Jak należy prawidłowo rozpocząć resuscytację krążeniowo-oddechową małego dziecka (przedszkolaka), u którego doszło do nagłego zatrzymania krążenia, prowadzoną przez jednego ratownika?": "Как правильно начать сердечно-легочную реанимацию маленького ребенка (дошкольника), у которого произошла внезапная остановка кровообращения, осуществляемую одним спасателем?",
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха.",
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
-        "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone": "Обгон на перекрестках со светофором разрешён."
+        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы."
     }
 }
