@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
-        "Hamowania pulsacyjnego": "Пульсирующего торможения."
+        "Hamowania pulsacyjnego": "Пульсирующего торможения.",
+        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищенное транспортное средство может привести к дальнейшему повреждению."
     },
     "approved": {
         "otoczenie": {
@@ -1246,7 +1247,9 @@
             "Z jaką dopuszczalną maksymalną prędkością wolno Ci kierować samochodem osobowym z przyczepą po drodze za tym znakiem?": "На какой допустимой максимальной скорости вам разрешено управлять легковым автомобилем с прицепом по дороге за этим знаком?",
             "Świateł przeciwmgłowych przednich": "Передние противотуманные фары.",
             "Świateł do jazdy dziennej": "Дневные ходовые огни.",
-            "Wyłącznie świateł drogowych": "Только дальнего света фар."
+            "Wyłącznie świateł drogowych": "Только дальнего света фар.",
+            "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?",
+            "Migający żółty sygnał ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu oraz nakazują zachowanie szczególnej ostrożności": "Мигающий желтый сигнал предупреждает о наличии опасности или затруднении движения и приказывает соблюдать особую осторожность."
         }
     },
     "not_approved": {
@@ -1566,7 +1569,6 @@
         "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
         "Który ze sposobów hamowania samochodu osobowego wyposażonego w system ABS jest najbardziej efektywny?": "Какой из способов торможения легкового автомобиля, оснащенного системой ABS, является наиболее эффективным?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
-        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищенное транспортное средство может привести к дальнейшему повреждению.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
         "Czy na drodze za tym znakiem masz prawo zaparkować samochód w dowolnym miejscu na jezdni, jeśli nie utrudni to ruchu innych pojazdów i pieszych?": "На дороге за этим знаком имеете ли вы право припарковать машину в любом месте на проезжей части, если это не мешает движению других транспортных средств и пешеходов?",
@@ -2755,7 +2757,6 @@
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
-        "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?",
         "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?"
     }
 }
