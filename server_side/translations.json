@@ -2807,6 +2807,10 @@
         "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
-        "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?"
+        "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
+        "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
+        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
+        "Jedziesz z prędkością 80 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы движетесь со скоростью 80 км\/ч. Какое начальное положение обеспечит вам оптимальную траекторию движения на повороте?",
+        "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии."
     }
 }
