@@ -1209,7 +1209,10 @@
             "zabronione": "запрещено.",
             "zabronione tylko w strefie zamieszkania": "запрещено только в жилой зоне.",
             "Czy w tej sytuacji masz pierwszeństwo przed pieszymi?": "В данной ситуации у тебя есть преимущество перед пешеходами?",
-            "Czy masz prawo wjechać na przejazd kolejowy, w czasie podnoszenia zapór przez pracownika kolejowego?": "Имеете ли вы право въехать на железнодорожный переезд во время подъема шлагбаумов работником железной дороги?"
+            "Czy masz prawo wjechać na przejazd kolejowy, w czasie podnoszenia zapór przez pracownika kolejowego?": "Имеете ли вы право въехать на железнодорожный переезд во время подъема шлагбаумов работником железной дороги?",
+            "Czy w tej sytuacji możesz wyprzedzić rowerzystę?": "Можете ли вы обогнать велосипедиста в этой ситуации?",
+            "Czy w tej sytuacji wolno Ci się zatrzymać przy prawej krawędzi jezdni?": "Разрешено ли тебе в этой ситуации остановиться у правого края проезжей части?",
+            "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?"
         }
     },
     "not_approved": {
@@ -1297,7 +1300,6 @@
         "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
-        "Czy w tej sytuacji masz prawo zaparkować pojazd za tym znakiem, jeżeli pozostawisz odpowiednią ilość miejsca dla pieszych i pojazdów?": "В этой ситуации вы имеете право припарковать автомобиль за этим знаком, если вы оставите достаточное количество места для пешеходов и транспортных средств?",
         "Czy kierujący pojazdem po spożyciu alkoholu, może mieć trudności w jednoczesnym wykonywaniu dwóch i więcej czynności?": "Может ли водитель автомобиля после употребления алкоголя испытывать трудности при одновременном выполнении двух и более действий?",
         "Wezwanie policji": "Вызов полиции.",
         "Tylko lekarz": "Только врач.",
@@ -1487,7 +1489,6 @@
         "Wymijania samochodu osobowego": "Уклонение от легкового автомобиля.",
         "Czy z tego pasa ruchu masz prawo jechać prosto przez skrzyżowanie?": "С этой полосы Вы имеете право ехать прямо через перекресток?",
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
-        "Czy w tej sytuacji możesz wyprzedzić rowerzystę?": "Можете ли вы обогнать велосипедиста в этой ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
@@ -2742,6 +2743,7 @@
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
         "Jodynę i gencjanę": "Йод и генциану.",
-        "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта."
+        "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
+        "Czy w tej sytuacji uzasadnione jest sprawdzenie, czy sprawca wypadku zaciągnął hamulec awaryjny i wyłączył silnik?": "В этой ситуации обоснована ли проверка, затянул ли виновник аварии аварийный тормоз и выключил ли двигатель?"
     }
 }
