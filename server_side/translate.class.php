@@ -24,12 +24,12 @@ class Translate
         }
 
         $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
-
+        $prompt = 'Фрагмент для перевода: "' . $userData . '"';
         $data = [
             'model' => 'gpt-4-1106-preview',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
-                ['role' => 'user', 'content' => 'Фрагмент для перевода: "' . $userData . '"']
+                ['role' => 'user', 'content' => $prompt]
             ]
         ];
 
@@ -56,10 +56,13 @@ class Translate
         $translation = $decodedResponse['choices'][0]['message']['content'] ?? null;
 
         return array(
-            'translate' => $translation,
+            'error' => $decodedResponse['error']['message'] ?? null,
             'approved' => false,
-            'info' => empty($decodedResponse['error']['message']) ? [$decodedResponse['model'], $decodedResponse['usage']] : null,
-            'error' => $decodedResponse['error']['message'] ?? null
+            'info' => empty($decodedResponse['error']['message'])
+                ? [$decodedResponse['model'], $decodedResponse['usage']]
+                : null,
+            'prompt' => [$systemMessage, $prompt],
+            'translate' => $translation,
         );
     }
 
@@ -237,7 +240,7 @@ class Translate
             $searchAndUpdate($searchWord, $phrase);
         }
 
-        return $dictionary;
+        return array_keys($dictionary);
     }
 
     private static function generatePrompt($text)
@@ -256,8 +259,8 @@ class Translate
         }
 
         $prompt = str_ireplace('%comments%', trim(join(' ', array_keys($comments))), $promptData['prompt']);
-        $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro, $prompt);
-        $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, array_keys($dictionary))), $prompt);
+        $prompt = str_ireplace('%dictionary_intro%', $dictionaryIntro . PHP_EOL, $prompt);
+        $prompt = str_ireplace('%dictionary%', trim(join(PHP_EOL, $dictionary)), $prompt);
         $prompt = str_ireplace(
             '%short_notice%',
             strlen($text) < 30 ? $promptData['short_notice'] : '',
