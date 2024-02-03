@@ -19,6 +19,9 @@
         ]
     },
     "dictionary": {
+        "włączić się do ruchu: включиться в движение": [
+            "do ruchu"
+        ],
         "masz obowiązek używać świateł pozycyjnych lub postojowych: Вы обязаны использовать габаритные огни": [
             "pozycyjn",
             "postojow"
@@ -64,6 +67,9 @@
             "obowiąz",
             "zamieszkan",
             "stref"
+        ],
+        "znak \"Strefa zamieszkania\": знак \"Жилая зона\"": [
+            "zamieszkan"
         ],
         "zakaz zatrzymywania obowiązuje do miejsca ustawienia znaku: запрет остановки действует до места установки знака": [
             "obowiąz"
@@ -160,7 +166,6 @@
             "tory"
         ],
         "znak \"uwaga tramwaj\": знак \"Внимание трамвай\"": [
-            "znak",
             "uwaga"
         ],
         "prog zwalniający: искуственная дорожная неровность (лежачий полицейский)": [
@@ -241,11 +246,9 @@
             "równorzędn"
         ],
         "znak \"Koniec drogi z pierwszeństwem\": знак \"Конец главной дороги\"": [
-            "znak",
             "pierwszeństw"
         ],
         "znak \"Droga z pierwszeństwem\": знак \"Главная дорога\"": [
-            "znak",
             "pierwszeństw"
         ],
         "czy masz pierwszeństwo przed pojazdem jadącym z przeciwka?: у вас есть преимущество перед встречным ТС?": [
