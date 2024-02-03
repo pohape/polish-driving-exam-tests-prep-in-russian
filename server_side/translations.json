@@ -1019,7 +1019,6 @@
             "Od szerokości jezdni": "От ширины проезжей части.",
             "Od czego, w szczególności, zależy bezpieczny odstęp, który powinieneś zachować w tej sytuacji?": "От чего, в частности, зависит безопасное расстояние, которое ты должен соблюдать в этой ситуации?",
             "Szybkie i mocne wciśnięcie pedału hamulca": "Быстрое и сильное нажатие на педаль тормоза.",
-            "Pulsacyjne wciskanie pedału hamulca": "Пульсирующее нажатие на педаль тормоза.",
             "Wciśnięcie pedału sprzęgła, a następnie pedału hamulca": "Нажатие педали сцепления, а затем педали тормоза.",
             "Nie mniejszy niż 3 metry": "Не меньше чем 3 метра.",
             "Nie mniejszy niż 5 metrów": "Не меньше чем 5 метров.",
@@ -2763,8 +2762,6 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
-        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
-        "Hamowania pulsacyjnego": "Пульсирующего торможения.",
-        "Hamowanie pulsacyjne imituje działanie systemu ABS": "Пульсирующее торможение имитирует работу системы ABS."
+        "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям."
     }
 }
