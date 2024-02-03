@@ -1158,7 +1158,8 @@
             "Czy w przedstawionej sytuacji sygnał zielony zwalnia Cię z konieczności zachowania szczególnej ostrożności na przejściu dla pieszych?": "В представленной ситуации освобождает ли вас зеленый сигнал от необходимости проявлять особую осторожность на пешеходном переходе?",
             "Czy kierując pojazdem masz obowiązek stale zachowywać szczególną ostrożność?": "Водя транспортное средство, обязаны ли вы постоянно проявлять особую осторожность?",
             "Czy w tej sytuacji masz prawo przejechać przez skrzyżowanie na wprost?": "Имеешь ли ты в этой ситуации право проехать перекресток прямо?",
-            "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego obecnie pasa ruchu?": "В этой ситуации разрешается ли тебе повернуть налево с текущей полосы движения?"
+            "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego obecnie pasa ruchu?": "В этой ситуации разрешается ли тебе повернуть налево с текущей полосы движения?",
+            "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?"
         }
     },
     "not_approved": {
@@ -2212,7 +2213,6 @@
         "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pieszymi?": "Вы планируете повернуть направо. У вас есть преимущество перед пешеходами?",
-        "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?",
         "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?": "Будучи участником дорожно-транспортного происшествия, обязаны ли вы оказать помощь пострадавшим, даже если у вас нет медицинских квалификаций?",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego na wprost?": "В данной ситуации, поворачивая налево на перекрестке, обязаны ли вы уступить дорогу ТС, движущемуся прямо из противоположного направления?",
         "Czy w przedstawionej sytuacji możesz wykonać manewr wyprzedzania?": "Вы можете выполнить маневр обгона в данной ситуации?",
