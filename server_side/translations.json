@@ -1159,7 +1159,10 @@
             "Czy kierując pojazdem masz obowiązek stale zachowywać szczególną ostrożność?": "Водя транспортное средство, обязаны ли вы постоянно проявлять особую осторожность?",
             "Czy w tej sytuacji masz prawo przejechać przez skrzyżowanie na wprost?": "Имеешь ли ты в этой ситуации право проехать перекресток прямо?",
             "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego obecnie pasa ruchu?": "В этой ситуации разрешается ли тебе повернуть налево с текущей полосы движения?",
-            "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?"
+            "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?",
+            "Czy w tej sytuacji wolno Ci się zatrzymać przy żółtej linii po prawej?": "В этой ситуации разрешается ли тебе остановиться у желтой линии справа?",
+            "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
+            "Czy w tej sytuacji przejeżdżając na wprost przez skrzyżowanie, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы в этой ситуации, проезжая прямо через перекресток, отказаться от соблюдения особой осторожности?"
         }
     },
     "not_approved": {
@@ -1195,7 +1198,6 @@
         "Sygnał ten oznacza, że za chwilę zapali się sygnał czerwony": "Этот сигнал означает, что через некоторое время загорится красный сигнал.",
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
-        "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
