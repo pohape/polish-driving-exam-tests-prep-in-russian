@@ -1,7 +1,8 @@
 {
     "incorrect": {
         "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В данной ситуации, при обгоне транспортного средства для обучения вождению, достаточно ли будет того, что вы будете осторожны?",
-        "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?"
+        "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
+        "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода."
     },
     "approved": {
         "otoczenie": {
@@ -1288,7 +1289,13 @@
             "Czy w tej sytuacji należy zatrzymać się przed sygnalizatorem?": "В этой ситуации следует остановиться перед светофором?",
             "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?",
             "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
-            "Czy w tej sytuacji możesz rozpocząć wyprzedzanie?": "В этой ситуации вы можете начать обгон?"
+            "Czy w tej sytuacji możesz rozpocząć wyprzedzanie?": "В этой ситуации вы можете начать обгон?",
+            "Stopniowo zwalniać pedał sprzęgła": "Постепенно отпускайте педаль сцепления.",
+            "Gwałtownie zwolnić pedał sprzęgła": "Резко отпустите педаль сцепления.",
+            "Najpierw znacznie zwiększyć obroty silnika, następnie szybko zwolnić pedał sprzęgła": "Сначала значительно увеличьте обороты двигателя, затем быстро отпустите педаль сцепления.",
+            "Poważne uszkodzenie silnika": "Серьезное повреждение двигателя.",
+            "Który z wymienionych skutków może zostać wywołany przez kontynuowanie jazdy przy świecącej się na czerwono lampce kontrolnej ciśnienia oleju silnikowego?": "Какой из перечисленных эффектов может быть вызван продолжением движения при горящей красной лампе контроля давления моторного масла?",
+            "Uszkodzenie hamulców": "Повреждение тормозов."
         }
     },
     "not_approved": {
@@ -1697,9 +1704,6 @@
         "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
         "Zdecydowane przyspieszanie": "Решительное ускорение.",
         "Stosowanie opon zimowych": "Использование зимних шин.",
-        "Gwałtownie zwolnić pedał sprzęgła": "Резко отпустите педаль сцепления.",
-        "Stopniowo zwalniać pedał sprzęgła": "Постепенно отпускайте педаль сцепления.",
-        "Najpierw znacznie zwiększyć obroty silnika, następnie szybko zwolnić pedał sprzęgła": "Сначала значительно увеличьте обороты двигателя, затем быстро отпустите педаль сцепления.",
         "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": "Какое из перечисленных действий вы должны выполнить, чтобы плавно сдвинуться с места?",
         "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
         "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
