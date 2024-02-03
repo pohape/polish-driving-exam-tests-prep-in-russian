@@ -1261,7 +1261,8 @@
             "Wkrótce*": "В ближайшее время*",
             "Sygnał czerwony wraz z sygnałem w kształcie zielonej strzałki oznacza, że dozwolone jest skręcanie w kierunku wskazanym strzałką w najbliższą jezdnię na skrzyżowaniu, pod warunkiem, że kierujący zatrzyma się przed sygnalizatorem i nie spowoduje utrudnienia ruchu innym jego uczestnikom": "Сигнал красный вместе с сигналом в форме зеленой стрелки означает, что разрешен поворот в направлении, указанном стрелкой, на ближайшую проезжую часть на перекрестке, при условии, что водитель остановится перед светофором и не вызовет затруднения движения для других его участников.",
             "Nie ma żadnego elementu (znaki drogowe, sygnalizacja), który uniemożliwiałby zawracanie": "Нет ни одного элемента (дорожные знаки, светофор), который бы запрещал разворот.",
-            "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части."
+            "W tym przypadku (znak z tabliczką) dopuszcza się zatrzymanie w całości poza jezdnią": "В этом случае (знак с табличкой) разрешается остановка полностью вне проезжей части.",
+            "Pulsacyjne wciskanie pedału hamulca": "Прерывистое нажатие на педаль тормоза."
         }
     },
     "not_approved": {
