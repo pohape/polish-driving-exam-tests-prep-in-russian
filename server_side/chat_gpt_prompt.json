@@ -32,10 +32,19 @@
         "podczas wymijania pojazdu: во время проезда мимо встречного ТС": [
             "wymijan"
         ],
-        "podczas wymijania pojazdu: минуя встречный ТС": [
+        "podczas wymijania pojazdu: минуя встречное ТС": [
             "wymijan"
         ],
         "podczas wymijania pojazdu: при прохождении мимо встречного ТС": [
+            "wymijan"
+        ],
+        "wymijania samochodu osobowego: во время проезда мимо встречного ТС": [
+            "wymijan"
+        ],
+        "wymijania samochodu osobowego: минуя встречное ТС": [
+            "wymijan"
+        ],
+        "wymijania samochodu osobowego: при прохождении мимо встречного ТС": [
             "wymijan"
         ],
         "hamowanie pulsacyjne: прерывистое торможение": [
