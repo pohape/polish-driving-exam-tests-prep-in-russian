@@ -1172,7 +1172,13 @@
             "Założyć opatrunek z waty": "Наложить повязку из ваты.",
             "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность.",
             "Komplet zapasowych żarówek": "Комплект запасных лампочек.",
-            "Urządzenie głośnomówiące do telefonu": "Громкая связь для телефона."
+            "Urządzenie głośnomówiące do telefonu": "Громкая связь для телефона.",
+            "Na drodze ekspresowej": "На \"drodze ekspresowej\".",
+            "Na drodze jednojezdniowej poza obszarem zabudowanym": "На дороге с одной проезжей частью вне населённого пункта.",
+            "Sprawdzić poziom oleju i ewentualnie uzupełnić braki": "Проверить уровень масла и при необходимости долить его.",
+            "Zawsze włączyć światła awaryjne": "Всегда включать аварийные огни.",
+            "Uzupełnić braki dowolnym olejem": "Заполнить недостаток любым маслом.",
+            "Co należy zrobić po stwierdzeniu niewłaściwego ciśnienia oleju silnikowego?": "Что следует сделать после обнаружения неправильного давления масла в двигателе?"
         }
     },
     "not_approved": {
@@ -2606,8 +2612,6 @@
         "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
         "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?",
-        "Na drodze ekspresowej": "На \"drodze ekspresowej\".",
-        "Na drodze jednojezdniowej poza obszarem zabudowanym": "На дороге с одной проезжей частью вне населённого пункта.",
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
         "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
         "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
