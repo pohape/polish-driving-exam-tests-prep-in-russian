@@ -28,6 +28,7 @@
         "droga zatrzymania: тормозной путь": [
             "drogi zatrzymania",
             "droga zatrzymania",
+            "drogę zatrzymania",
             "drogą zatrzymania"
         ],
         "przeniesienie napędu: трансмиссия": [
@@ -99,16 +100,16 @@
             "jałow"
         ],
         "zatrzymanie prawa jazdy: временное изъятие водительского удостоверения": [
-            "zatrzyma"
+            "zatrzym"
         ],
         "linia zatrzymania: стоп-линия": [
-            "zatrzyma"
+            "zatrzym"
         ],
         "zatrzymanie powinno nastąpić przed linią zatrzymania: остановка должна произойти перед стоп-линией": [
-            "zatrzyma"
+            "zatrzym"
         ],
         "znak \"Zakaz zatrzymywania\": знак \"Остановка запрещена\"": [
-            "zatrzyma"
+            "zatrzym"
         ],
         "włączić się do ruchu: включиться в движение": [
             "do ruchu"
