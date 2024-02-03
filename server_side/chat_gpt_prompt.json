@@ -19,6 +19,15 @@
         ]
     },
     "dictionary": {
+        "sztywne siedzenie na fotelu: неподвижное сидение в кресле": [
+            "sztywn"
+        ],
+        "połączenie sztywne: жёсткая сцепка": [
+            "sztywn"
+        ],
+        "połączenie giętkie: гибкая сцепка": [
+            "giętk"
+        ],
         "efekt tzw. martwego pola w lusterkach: эфект так называемой \"слепой зоны\" в зеркалах": [
             "martw"
         ],
