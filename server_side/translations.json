@@ -1162,7 +1162,13 @@
             "Czy cofając masz obowiązek zachować szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при движении задним ходом?",
             "Czy w tej sytuacji wolno Ci się zatrzymać przy żółtej linii po prawej?": "В этой ситуации разрешается ли тебе остановиться у желтой линии справа?",
             "Czy w tej sytuacji wolno Ci wyprzedzić pojazd?": "В этой ситуации вам разрешено обгонять автомобиль?",
-            "Czy w tej sytuacji przejeżdżając na wprost przez skrzyżowanie, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы в этой ситуации, проезжая прямо через перекресток, отказаться от соблюдения особой осторожности?"
+            "Czy w tej sytuacji przejeżdżając na wprost przez skrzyżowanie, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы в этой ситуации, проезжая прямо через перекресток, отказаться от соблюдения особой осторожности?",
+            "Jak, w przybliżeniu, wzrasta długość drogi hamowania pojazdu przy dwukrotnie większej prędkości?": "Как, примерно, увеличивается длина тормозного пути транспортного средства при двукратном увеличении скорости?",
+            "Czterokrotnie": "Четырежды.",
+            "Trzykrotnie": "Трижды.",
+            "Dwukrotnie": "Дважды.",
+            "Założyć opatrunek z waty": "Наложить повязку из ваты.",
+            "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность."
         }
     },
     "not_approved": {
@@ -2654,7 +2660,6 @@
         "Orzeczenie lekarskie": "Медицинское заключение.",
         "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób": "Психологическое заключение, если выполняешь коммерческие перевозки людей.",
         "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
-        "Natychmiast mocno naciągnąć kończynę": "Немедленно сильно потянуть за конечность.",
         "Zmniejszona prędkość": "Уменьшенная скорость.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Uszkodzony system ABS": "Поврежденная система ABS.",
@@ -2717,6 +2722,8 @@
         "Jak należy prawidłowo rozpocząć resuscytację krążeniowo-oddechową małego dziecka (przedszkolaka), u którego doszło do nagłego zatrzymania krążenia, prowadzoną przez jednego ratownika?": "Как правильно начать сердечно-легочную реанимацию маленького ребенка (дошкольника), у которого произошла внезапная остановка кровообращения, осуществляемую одним спасателем?",
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха.",
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
-        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы."
+        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
+        "Komplet zapasowych żarówek": "Комплект запасных лампочек.",
+        "Urządzenie głośnomówiące do telefonu": "Громкая связь для телефона."
     }
 }
