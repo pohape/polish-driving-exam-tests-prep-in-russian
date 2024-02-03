@@ -1396,7 +1396,9 @@
             "Czy w przedstawionej sytuacji podczas omijania pojazdu musisz zachować ostrożność i liczyć się, że ktoś zza autobusu wybiegnie na jezdnie?": "В представленной ситуации во время объезда ТС нужно ли быть осторожным и учитывать, что кто-то может выбежать на проезжую часть из-за автобуса?",
             "Jedziesz z prędkością 80 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы движетесь со скоростью 80 км\/ч. Какое начальное положение обеспечит вам оптимальную траекторию движения на повороте?",
             "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
-            "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии."
+            "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии.",
+            "Czy kierujący pojazdem ciężarowym, zatrzymując się w tym miejscu postąpił zgodnie z obowiązującymi przepisami ?": "Поступил ли водитель грузового автомобиля, останавливаясь в этом месте, в соответствии с действующими правилами?",
+            "Czy w tej sytuacji możesz wyprzedzić rowerzystę z zachowaniem odstępu 0,5 m?": "Можешь ли ты в этой ситуации обогнать велосипедиста, соблюдая дистанцию 0,5 метра?"
         }
     },
     "not_approved": {
