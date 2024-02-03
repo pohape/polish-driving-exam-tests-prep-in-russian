@@ -1130,7 +1130,8 @@
             "Jaki może być objaw pęknięcia przewodu hamulcowego w samochodzie osobowym?": "Каким может быть признак прорыва тормозного шланга в легковом автомобиле?",
             "Niewielki lub brak oporu pedału hamulca przy jego wciskaniu": "Незначительное или отсутствующее сопротивление педали тормоза при её нажатии.",
             "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
-            "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза."
+            "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза.",
+            "Przez wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy i wydaniu kierującemu pokwitowania zatrzymania": "Путем внесения в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения и выдаче водителю квитанции о временном изъятии."
         }
     },
     "not_approved": {
@@ -2693,6 +2694,9 @@
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
-        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?"
+        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
+        "W jaki sposób, podczas kontroli drogowej przez upoważniony organ, następuje zatrzymanie prawa jazdy wydanego w kraju?": "Каким образом, во время дорожного контроля уполномоченным органом, происходит временное изъятие водительского удостоверения, выданного в стране?",
+        "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
+        "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения."
     }
 }
