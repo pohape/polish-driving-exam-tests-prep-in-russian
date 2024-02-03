@@ -1,7 +1,5 @@
 {
-    "incorrect": {
-        "Obsługiwanie radia": "Управление радио."
-    },
+    "incorrect": [],
     "approved": {
         "otoczenie": {
             "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за обстановкой во время езды по автостраде?",
@@ -1379,7 +1377,8 @@
             "Tak, aby w lusterku nie był widoczny bok pojazdu": "Так, чтобы в зеркале не была видна боковая часть транспортного средства.",
             "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м.",
             "Pod warunkiem, że nie ciągnie się przyczepy ;-)": "При условии, что не тянете прицеп ;-)",
-            "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста."
+            "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста.",
+            "Kierującemu pojazdem zabrania się: korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku": "Водителю запрещается: пользоваться во время движения телефоном, требующим держать трубку или микрофон в руке."
         }
     },
     "not_approved": {
@@ -2807,6 +2806,8 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
+        "Obsługiwanie radia": "Управление радио.",
+        "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общее расстояние остановки имеет время реакции водителя."
     }
 }
