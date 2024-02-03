@@ -1349,7 +1349,9 @@
             "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле.",
             "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?": "За какое нарушение правил дорожного движения полицейский временно изъмет водительское удостоверение?",
             "Za wyprzedzanie z naruszeniem pojedynczej linii ciągłej": "За обгон с нарушением одиночной сплошной линии.",
-            "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное в регистрационном свидетельстве легкового автомобиля."
+            "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное в регистрационном свидетельстве легкового автомобиля.",
+            "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС.",
+            "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя при прохождении мимо встречного ТС ночью на легковом автомобиле?"
         }
     },
     "not_approved": {
@@ -2703,7 +2705,6 @@
         "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
         "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
         "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
-        "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС.",
         "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
         "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
