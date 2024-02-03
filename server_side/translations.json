@@ -1119,7 +1119,15 @@
             "Tak, gdyż można samodzielnie wykonać część działań ratunkowych": "Да, поскольку можно самостоятельно выполнить часть действий по оказанию первой помощи.",
             "Nie, gdyż za ewentualnie popełnione błędy grozi odpowiedzialność karna": "Нет, поскольку за возможные совершенные ошибки грозит уголовная ответственность.",
             "Nie, gdyż udzielać pomocy mogą jedynie osoby z wykształceniem medycznym": "Нет, поскольку оказывать помощь могут только лица с медицинским образованием.",
-            "Jak dwukrotne zwiększenie prędkości samochodu osobowego wpływa na długość jego drogi hamowania?": "Как двукратное увеличение скорости легкового автомобиля влияет на длину его тормозного пути?"
+            "Jak dwukrotne zwiększenie prędkości samochodu osobowego wpływa na długość jego drogi hamowania?": "Как двукратное увеличение скорости легкового автомобиля влияет на длину его тормозного пути?",
+            "Nie powoduje zmiany długości drogi hamowania": "Не вызывает изменение длины тормозного пути.",
+            "Zwiększa czterokrotnie długość drogi hamowania": "Увеличивает в четыре раза длину тормозного пути.",
+            "Zwiększa dwukrotnie długość drogi hamowania": "Удваивает длину тормозного пути.",
+            "Jakie mogą być skutki niezapięcia pasów bezpieczeństwa przez kierowcę?": "Каковы могут быть последствия того, что водитель не пристегнет ремень безопасности?",
+            "Większe uszkodzenia pojazdu podczas kolizji": "Больше повреждений автомобиля при столкновении.",
+            "Większe obrażenia ciała kierowcy podczas wypadku": "Больше травм водителю во время аварии.",
+            "Uszkodzenie poduszki powietrznej": "Повреждение подушки безопасности.",
+            "Jaki może być objaw pęknięcia przewodu hamulcowego w samochodzie osobowym?": "Каким может быть признак прорыва тормозного шланга в легковом автомобиле?"
         }
     },
     "not_approved": {
@@ -1268,7 +1276,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
         "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
         "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": "В этой ситуации видимый знак справа сообщает вам, что вы приближаетесь к трамвайной остановке?",
-        "Jakie mogą być skutki niezapięcia pasów bezpieczeństwa przez kierowcę?": "Каковы могут быть последствия того, что водитель не пристегнет ремень безопасности?",
         "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли листья, лежащие на проезжей части, повлиять на длину пути остановки транспортного средства?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
@@ -1503,9 +1510,6 @@
         "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
         "W podstawowej lub okręgowej stacji kontroli pojazdów": "На первичной или районной станции управления транспортными средствами.",
         "W każdym dobrze wyposażonym warsztacie samochodowym": "В любом хорошо оборудованном автосервисе.",
-        "Większe obrażenia ciała kierowcy podczas wypadku": "Больше травм водителю во время аварии.",
-        "Uszkodzenie poduszki powietrznej": "Повреждение подушки безопасности.",
-        "Większe uszkodzenia pojazdu podczas kolizji": "Больше повреждений автомобиля при столкновении.",
         "B1": "В1.",
         "Zawarcie umowy ubezpieczenia Autocasco": "Заключение договора страхования Autocasco.",
         "Zawarcie umowy ubezpieczenia NW": "Заключение договора страхования NW.",
@@ -1826,7 +1830,6 @@
         "Ostrożnie zjechać na pas awaryjny, wezwać Ratownictwo Medyczne i rozpiąć pasy": "Аккуратно перестроиться на аварийную полосу, вызвать медицинскую помощь и расстегнуть ремни.",
         "Bezpieczny odstęp": "Безопасная дистанция.",
         "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
-        "Zwiększa dwukrotnie długość drogi hamowania": "Удваивает длину тормозного пути.",
         "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?": "Какова цель использования системы ABS в легковом автомобиле?",
         "Tak, aby w połowie lusterka była widoczna boczna szyba przednich drzwi": "Так, чтобы боковое стекло передних дверей было видно в середине зеркала.",
         "Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3": "Стрелка-указатель, разрешающая поворот налево, расположенная на крайней левой полосе, также разрешает разворот, если это не запрещено вертикальным знаком B-23 или если движение не регулируется светофором S-3.",
@@ -2297,7 +2300,6 @@
         "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
-        "Jaki może być objaw pęknięcia przewodu hamulcowego w samochodzie osobowym?": "Каким может быть признак прорыва тормозного шланга в легковом автомобиле?",
         "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
         "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
         "Stan opon": "Состояние шин.",
@@ -2691,8 +2693,6 @@
         "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Вне населённого пункта во время тумана водитель должен подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
-        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
-        "Zwiększa czterokrotnie długość drogi hamowania": "Увеличивает в четыре раза длину тормозного пути.",
-        "Nie powoduje zmiany długości drogi hamowania": "Не вызывает изменение длины тормозного пути."
+        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?"
     }
 }
