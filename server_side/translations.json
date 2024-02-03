@@ -1358,7 +1358,10 @@
             "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В этой ситуации, во время проезда мимо встречного ТС для обучения вождению, достаточно ли просто быть осторожным?",
             "Czy w tej sytuacji masz prawo zachować dowolny odstęp od wymijanego samochodu ciężarowego?": "Имеете ли вы право в данной ситуации сохранять любое расстояние при прохождении мимо встречного грузового автомобиля?",
             "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность.",
-            "Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Если остановка не оборудована островком для пассажиров и на остановку заезжает трамвай или стоит на ней, водитель обязан остановить транспортное средство в таком месте и на такой срок, чтобы обеспечить пешеходу свободный доступ к трамваю или на тротуар."
+            "Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Если остановка не оборудована островком для пассажиров и на остановку заезжает трамвай или стоит на ней, водитель обязан остановить транспортное средство в таком месте и на такой срок, чтобы обеспечить пешеходу свободный доступ к трамваю или на тротуар.",
+            "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać": "Водитель транспортного средства, меняя занимаемую полосу движения, обязан уступить дорогу транспортному средству, движущемуся по полосе движения, на которую он намеревается выехать.",
+            "Po sygnałach czerwonym z żółtym włącza się sygnał zielony": "После красных сигналов с желтым включается зеленый сигнал.",
+            "Zatrzymanie uniemożliwia ciągła linia krawędziowa": "Остановку делает невозможной сплошная линия края проезжей части."
         }
     },
     "not_approved": {
@@ -2795,7 +2798,6 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
-        "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać": "Водитель транспортного средства, меняя занимаемую полосу движения, обязан уступить дорогу транспортному средству, движущемуся по полосе движения, на которую он намеревается выехать."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
     }
 }
