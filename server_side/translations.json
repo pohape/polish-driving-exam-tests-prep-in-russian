@@ -6,7 +6,8 @@
         "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это вызывает неудобства, связанные с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:",
         "Czy apteczka doraźnej pomocy jest obowiązkowym wyposażeniem każdego pojazdu samochodowego?": "Является ли аптечка первой помощи обязательным оборудованием каждого автомобиля?",
         "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?",
-        "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии."
+        "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии.",
+        "Jodynę i gencjanę": "Йодин и генциану."
     },
     "approved": {
         "strefa zamieszkania": {
@@ -1190,7 +1191,12 @@
             "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать при объезде легковым автомобилем препятствия на дороге?",
             "Bezpieczny, uzależniony od szerokości jezdni i warunków ruchu": "Безопасный, зависит от ширины проезжей части и условий движения.",
             "Bezpieczny, czyli zawsze jednakowy": "Безопасно, то есть всегда одинаково.",
-            "Bezpieczny, ale nie mniejszy niż 0,8 metra": "Безопасный, но не меньше чем 0,8 метра."
+            "Bezpieczny, ale nie mniejszy niż 0,8 metra": "Безопасный, но не меньше чем 0,8 метра.",
+            "Opatrunek uciskowy z gazy lub bandaża": "Компрессионная повязка из марли или бинта.",
+            "Co musisz zrobić, żeby przewieźć trzyletnie dziecko na tylnym siedzeniu samochodu osobowego, na którym w fotelikach już siedzi dwoje dzieci i nie ma możliwości zainstalowania trzeciego fotelika?": "Что вы должны сделать, чтобы перевезти трехлетнего ребенка на заднем сиденье легкового автомобиля, на котором в детских автокреслах уже сидят двое детей и нет возможности установить третье автокресло?",
+            "Musisz zabezpieczyć dziecko pasami bezpieczeństwa": "Вы должны пристегнуть ребёнка ремнями безопасности.",
+            "Powinieneś posadzić dziecko na kolanach osoby dorosłej": "Вы должны посадить ребенка на колени взрослого человека.",
+            "Musisz zablokować tylne drzwi, uniemożliwiając ich otwarcie od zewnątrz": "Вы должны заблокировать задние двери, чтобы нельзя было их открыть снаружи."
         }
     },
     "not_approved": {
@@ -2298,10 +2304,6 @@
         "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевезенный ребенок имеет минимум 125 см роста, он пристегнут только ремнями безопасности, так как масса и рост не позволяют перевозить его в детском кресле.",
         "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?": "Какие условия должны быть соблюдены при перевозке ребенка на заднем сиденье легкового автомобиля?",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku lub innym urządzeniu przytrzymującym dziecko": "Перевезенный ребенок имеет рост не менее 135 см, пристегнут только ремнями безопасности, поскольку масса и рост не позволяют перевозить в детском кресле или другом устройстве для удержания ребенка.",
-        "Musisz zabezpieczyć dziecko pasami bezpieczeństwa": "Вы должны пристегнуть ребёнка ремнями безопасности.",
-        "Powinieneś posadzić dziecko na kolanach osoby dorosłej": "Вы должны посадить ребенка на колени взрослого человека.",
-        "Musisz zablokować tylne drzwi, uniemożliwiając ich otwarcie od zewnątrz": "Вы должны заблокировать задние двери, чтобы нельзя было их открыть снаружи.",
-        "Co musisz zrobić, żeby przewieźć trzyletnie dziecko na tylnym siedzeniu samochodu osobowego, na którym w fotelikach już siedzi dwoje dzieci i nie ma możliwości zainstalowania trzeciego fotelika?": "Что вы должны сделать, чтобы перевезти трехлетнего ребенка на заднем сиденье легкового автомобиля, на котором в детских автокреслах уже сидят двое детей и нет возможности установить третье автокресло?",
         "Dziecko posiada zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku lub innym urządzeniu": "Ребенок имеет медицинское свидетельство о противопоказании к перевозке в детском кресле или другом устройстве.",
         "Prędkość pojazdu nie przekroczy 40 km\/h": "Скорость транспортного средства не превысит 40 км\/ч.",
         "Po spełnieniu, którego z wymienionych warunków można przewozić samochodem osobowym, poza fotelikiem bezpieczeństwa lub innym urządzeniem przytrzymującym, dziecko mające mniej niż 150 cm wzrostu?": "После выполнения какого из перечисленных условий можно перевозить в легковом автомобиле ребенка ростом менее 150 см без использования детского автокресла или другого придерживающего устройства?",
@@ -2653,8 +2655,6 @@
         "Patrzeć prosto w światła pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного ТС.",
         "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя во время обгона автомобилем легковым ночью другого транспортного средства?",
         "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?": "Какое расстояние необходимо сохранять при обгоне легковым автомобилем другого транспортного средства?",
-        "Jodynę i gencjanę": "Йодин и генциану.",
-        "Opatrunek uciskowy z gazy lub bandaża": "Компрессионная повязка из марли или бинта.",
         "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
         "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
@@ -2734,6 +2734,7 @@
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
         "zabronione tylko w strefie zamieszkania": "запрещено только в жилой зоне.",
-        "zabronione w obszarze zabudowanym": "запрещено в населенном пункте."
+        "zabronione w obszarze zabudowanym": "запрещено в населенном пункте.",
+        "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза."
     }
 }
