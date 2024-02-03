@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "Obsługiwanie radia": "Управление радио.",
-        "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общий путь остановки имеет время реакции водителя."
+        "Obsługiwanie radia": "Управление радио."
     },
     "approved": {
         "otoczenie": {
@@ -2809,6 +2808,7 @@
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Wyprzedzania roweru": "Обгон велосипеда.",
         "Omijania dowolnego pojazdu": "Обгона любого транспортного средства.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
+        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
+        "Bezpośredni wpływ na całkowitą drogę zatrzymania ma czas reakcji kierującego": "Непосредственное влияние на общее расстояние остановки оказывает время реакции водителя."
     }
 }
