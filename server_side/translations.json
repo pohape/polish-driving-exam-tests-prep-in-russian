@@ -1101,7 +1101,11 @@
             "Czy bezpośrednio za widocznym znakiem wolno Ci zatrzymać pojazd, jeśli nie spowoduje to utrudnienia ruchu?": "Сразу после видимого знака разрешается ли тебе остановить транспортное средство, если это не приведет к затруднению движения?",
             "Czy wolno Ci zatrzymać pojazd na jezdni bezpośrednio za widocznym skrzyżowaniem?": "Разрешено ли тебе остановить транспортное средство на проезжей части сразу за видимым перекрестком?",
             "Czy w tej sytuacji wolno Ci zmienić pas ruchu na prawy?": "В этой ситуации вам разрешено менять полосу движения на правую?",
-            "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?"
+            "Czy w tej sytuacji wolno Ci zatrzymać pojazd przy prawym krawężniku?": "В этой ситуации разрешено ли тебе остановиться у правого бордюра?",
+            "Czy w tej sytuacji, skręcając w lewo, masz obowiązek ustąpić pierwszeństwa rowerzyście jadącemu na wprost?": "В данной ситуации, поворачивая налево, обязаны ли вы уступить дорогу велосипедисту, едущему прямо?",
+            "Czy w tej sytuacji, zjeżdżając z drogi do posesji, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, съезжая с дороги на территорию участка, обязан ли ты проявлять особую осторожность?",
+            "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?": "Обязаны ли вы в этой ситуации переключить дальний свет на ближний?",
+            "Czy na tym skrzyżowaniu dozwolone jest wyprzedzanie innych pojazdów?": "Разрешено ли на этом перекрестке обгонять другие транспортные средства?"
         }
     },
     "not_approved": {
@@ -2533,7 +2537,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
         "Czy w tej sytuacji masz obowiązek zabezpieczyć miejsce zdarzenia?": "В этой ситуации у тебя есть обязанность обезопасить место происшествия?",
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
-        "Czy w tej sytuacji masz obowiązek zmienić światła drogowe na światła mijania?": "Обязаны ли вы в этой ситуации переключить дальний свет на ближний?",
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
         "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
