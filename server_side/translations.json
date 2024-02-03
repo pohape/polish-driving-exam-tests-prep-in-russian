@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Statyczna - sztywne siedzenie na fotelu, bez ruchów tułowia i głowy": "Статическая - жесткое сидение на сиденье, без движений туловища и головы."
+    },
     "approved": {
         "strefa zamieszkania": {
             "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
@@ -1145,7 +1147,8 @@
             "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone": "Обгон на перекрестках со светофором разрешён.",
             "O działaniu wspomagania układu hamulcowego": "О действии усилителя тормозной системы.",
             "O wysokim poziomie płynu hamulcowego w zbiorniku wyrównawczym": "О высоком уровне тормозной жидкости в расширительном бачке.",
-            "O działaniu układu przeciwblokującego (ABS)": "О работе антиблокировочной системы (ABS)."
+            "O działaniu układu przeciwblokującego (ABS)": "О работе антиблокировочной системы (ABS).",
+            "Jaka pozycja za kierownicą umożliwi zmniejszenie efektu tzw. martwego pola w lusterkach, występującego w czasie obserwacji drogi?": "Какое положение за рулем позволит уменьшить эффект так называемой \"слепой зоны\" в зеркалах, возникающей во время наблюдения за дорогой?"
         }
     },
     "not_approved": {
@@ -2479,7 +2482,6 @@
         "Na zajmowaniu środka jezdni": "На занятии центра проезжей части.",
         "Na dobraniu odpowiedniej prędkości jazdy": "На выборе подходящей скорости движения.",
         "Na czym powinna polegać prawidłowa technika jazdy w tej sytuacji drogowej?": "На чем должна основываться правильная техника вождения в этой дорожной ситуации?",
-        "Statyczna - sztywne siedzenie na fotelu, bez ruchów tułowia i głowy": "Статическая - жесткое сидение на сиденье, без движений туловища и головы.",
         "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги.",
         "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
         "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
