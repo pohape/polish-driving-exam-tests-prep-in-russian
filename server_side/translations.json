@@ -1402,7 +1402,9 @@
             "Czy w widocznej sytuacji kierujący może włączyć światła drogowe?": "Может ли в данной ситуации водитель включить дальний свет фар?",
             "Czy wolno Ci się zatrzymać w tym miejscu na jezdni?": "Разрешено ли тебе остановиться в этом месте на проезжей части?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do wyznaczonego na drodze przejścia dla pieszych?": "Предупреждены ли вы о приближении к пешеходному переходу, обозначенному на дороге?",
-            "Na jakim biegu powinieneś rozpocząć jazdę na suchej nawierzchni?": "На какой передаче ты должен начать движение по сухому дорожному покрытию?"
+            "Na jakim biegu powinieneś rozpocząć jazdę na suchej nawierzchni?": "На какой передаче ты должен начать движение по сухому дорожному покрытию?",
+            "Za omijanie pojazdu z naruszeniem podwójnej linii ciągłej": "За объезд ТС с нарушением двойной сплошной линии",
+            "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта."
         }
     },
     "not_approved": {
@@ -2703,7 +2705,6 @@
         "Czy zabrania się cofania pojazdem w tunelu, na moście i wiadukcie?": "Запрещается ли движение задним ходом транспортным средством в туннеле, на мосту и на эстакаде?",
         "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?": "Во время буксировки транспортного средства разрешено ли тебе использовать аварийные огни?",
         "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?",
-        "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
         "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?",
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
@@ -2845,7 +2846,6 @@
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
-        "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
-        "Za omijanie pojazdu z naruszeniem podwójnej linii ciągłej": "За объезд ТС с нарушением двойной сплошной линии"
+        "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида."
     }
 }
