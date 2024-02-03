@@ -1,5 +1,8 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на твердое покрытие, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?",
+        "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Вопрос для перевода: \"Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его окружением?\""
+    },
     "approved": {
         "strefa zamieszkania": {
             "Ze względu na ograniczenie prędkości w strefie zamieszkania, progi zwalniające mogą nie być poprzedzone znakami ostrzegawczymi": "В связи с ограничением скорости в жилой зоне, искусственные дорожные неровности (лежачие полицейские) могут не быть предварительно обозначены предупреждающими знаками.",
@@ -1152,7 +1155,10 @@
             "Połączeniem giętkim, w sposób umożliwiający łatwe odczepienie": "Гибкой сцепкой, обеспечивающей простое отсоединение.",
             "Połączeniem giętkim, w sposób wykluczający możliwość odczepienia": "Гибкой сцепкой, способом исключающим возможность отцепления.",
             "Połączeniem sztywnym": "Жёсткой сцепкой.",
-            "Czy w przedstawionej sytuacji sygnał zielony zwalnia Cię z konieczności zachowania szczególnej ostrożności na przejściu dla pieszych?": "В представленной ситуации освобождает ли вас зеленый сигнал от необходимости проявлять особую осторожность на пешеходном переходе?"
+            "Czy w przedstawionej sytuacji sygnał zielony zwalnia Cię z konieczności zachowania szczególnej ostrożności na przejściu dla pieszych?": "В представленной ситуации освобождает ли вас зеленый сигнал от необходимости проявлять особую осторожность на пешеходном переходе?",
+            "Czy kierując pojazdem masz obowiązek stale zachowywać szczególną ostrożność?": "Водя транспортное средство, обязаны ли вы постоянно проявлять особую осторожность?",
+            "Czy w tej sytuacji masz prawo przejechać przez skrzyżowanie na wprost?": "Имеешь ли ты в этой ситуации право проехать перекресток прямо?",
+            "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego obecnie pasa ruchu?": "В этой ситуации разрешается ли тебе повернуть налево с текущей полосы движения?"
         }
     },
     "not_approved": {
@@ -2162,7 +2168,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu bez zatrzymania się przed sygnalizatorem?": "Можешь ли ты в этой ситуации повернуть направо на перекрестке без остановки перед светофором?",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
-        "Czy w tej sytuacji masz prawo przejechać przez skrzyżowanie na wprost?": "Имеешь ли ты в этой ситуации право проехать перекресток прямо?",
         "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?": "Вы управляете транспортным средством в населенном пункте. Запрещено ли в этой ситуации использование звукового сигнала?",
@@ -2710,7 +2715,6 @@
         "Jak należy prawidłowo rozpocząć resuscytację krążeniowo-oddechową małego dziecka (przedszkolaka), u którego doszło do nagłego zatrzymania krążenia, prowadzoną przez jednego ratownika?": "Как правильно начать сердечно-легочную реанимацию маленького ребенка (дошкольника), у которого произошла внезапная остановка кровообращения, осуществляемую одним спасателем?",
         "5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy": "5 первоначальных вдохов, затем 30 надавливаний и 2 вдоха.",
         "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
-        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
-        "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на твердое покрытие, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?"
+        "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы."
     }
 }
