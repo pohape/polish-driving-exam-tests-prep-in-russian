@@ -1,6 +1,7 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?"
+        "Czy w tej sytuacji, kierując samochodem osobowym, możesz wjechać na most?": "В этой ситуации, управляя легковым автомобилем, можно ли въехать на мост?",
+        "Hamowania pulsacyjnego": "Пульсирующего торможения."
     },
     "approved": {
         "otoczenie": {
@@ -1220,7 +1221,14 @@
             "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu bez zatrzymania się przed sygnalizatorem?": "Можешь ли ты в этой ситуации повернуть направо на перекрестке без остановки перед светофором?",
             "Czy w przedstawionej sytuacji możesz zatrzymać pojazd za znakiem na poboczu?": "Можешь ли ты в данной ситуации остановить транспортное средство за знаком на обочине?",
             "Czy w tej sytuacji wolno Ci zawrócić na najbliższym skrzyżowaniu?": "В данной ситуации разрешено ли вам развернуться на ближайшем перекрестке?",
-            "Czy za tym znakiem masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "Имеете ли вы право остановить легковой автомобиль за этим знаком колесами одной стороны на тротуаре?"
+            "Czy za tym znakiem masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "Имеете ли вы право остановить легковой автомобиль за этим знаком колесами одной стороны на тротуаре?",
+            "Jakiej metody hamowania użyjesz, w przypadku awarii ABS-u na śliskiej nawierzchni?": "Какой метод торможения ты будешь использовать в случае отказа ABS на скользкой дороге?",
+            "Wciśnięcia pedału hamulca do oporu": "Нажатие педали тормоза до упора.",
+            "Zaciągnięcia hamulca ręcznego": "Натяжение ручного тормоза.",
+            "Co może być przyczyną \"ściągania\" w lewo pojazdu w czasie jazdy na wprost?": "Что может быть причиной того что транспортое средство \"тянет\" влево во время движения прямо?",
+            "Nieprawidłowe ustawienie zbieżności kół": "Неправильная установка схождения колёс.",
+            "Działanie wspomagania układu kierowniczego": "Действие усилителя рулевого управления.",
+            "Zbyt niskie ciśnienie w prawej przedniej oponie": "Слишком низкое давление в правой передней шине."
         }
     },
     "not_approved": {
@@ -1568,7 +1576,6 @@
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческих жизней, полицейский не остановит водительские права.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
-        "Co może być przyczyną \"ściągania\" w lewo pojazdu w czasie jazdy na wprost?": "Что может быть причиной того что транспортое средство \"тянет\" влево во время движения прямо?",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
         "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
         "Czy w tej sytuacji masz prawo przejechać na wprost przez skrzyżowanie?": "В этой ситуации вы имеете право проехать прямо через перекресток?",
@@ -2000,9 +2007,6 @@
         "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Вопрос: \"Дает ли водительское удостоверение категории B право управления мопедом или лёгким так называемым \"czterokołowcem\"?",
         "Odstąpi od zatrzymania prawa jazdy": "Откажется от изъятия водительских прав.",
         "Jaka jest maksymalna dopuszczalna prędkość samochodu osobowego poruszającego się po tej drodze?": "Какова максимальная разрешенная скорость легкового автомобиля, движущегося по этой дороге?",
-        "Działanie wspomagania układu kierowniczego": "Действие усилителя рулевого управления.",
-        "Nieprawidłowe ustawienie zbieżności kół": "Неправильная установка схождения колёс.",
-        "Zbyt niskie ciśnienie w prawej przedniej oponie": "Слишком низкое давление в правой передней шине.",
         "Nie wolno": "Не разрешается.",
         "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
