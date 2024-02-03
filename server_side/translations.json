@@ -1339,7 +1339,11 @@
             "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Вы управляете автомобилем. Как вы должны себя вести во время проезда мимо встречного ТС ночью?",
             "Wymijania samochodu osobowego": "Минуя встречное ТС.",
             "Na bezpieczeństwo podczas wymijania": "На безопасность во время проезда мимо встречного ТС.",
-            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует соблюдать осторожность и безопасное расстояние от минуемого встречного ТС?"
+            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует соблюдать осторожность и безопасное расстояние от минуемого встречного ТС?",
+            "Na co, przede wszystkim, powinieneś zwrócić uwagę podczas wymijania innego pojazdu?": "На что, прежде всего, следует обратить внимание во время проезда мимо встречного ТС?",
+            "Na zachowanie bezpiecznego odstępu": "На сохранение безопасной дистанции.",
+            "Na pojazdy jadące za tobą": "На транспортные средства, следующие за тобой.",
+            "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле."
         }
     },
     "not_approved": {
@@ -1548,7 +1552,6 @@
         "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?": "За какие нарушения ПДД полицейский лишит водительских прав?",
         "O kolejne trzy miesiące": "Еще на три месяца.",
         "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
-        "Na prawidłowe ułożenie rąk na kierownicy": "Правильно расположить руки на руле.",
         "Minimalnie 1 m": "Минимум 1 м.",
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
@@ -2415,8 +2418,6 @@
         "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
         "Stan opon": "Состояние шин.",
         "Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?": "Какие факторы влияют на общее время восприятия и реакции водителя транспортного средства?",
-        "Na pojazdy jadące za tobą": "На транспортные средства, следующие за тобой.",
-        "Na zachowanie bezpiecznego odstępu": "На сохранение безопасной дистанции.",
         "Dawać krótkotrwałe sygnały dźwiękowe": "Подавать кратковременные звуковые сигналы.",
         "Włączyć tylne światła przeciwmgłowe, niezależnie od stopnia ograniczenia widoczności": "Включить задние противотуманные фонари, независимо от степени ограничения видимости.",
         "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
