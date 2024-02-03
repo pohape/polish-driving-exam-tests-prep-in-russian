@@ -1,6 +1,5 @@
 {
     "incorrect": {
-        "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В этой ситуации вам разрешено въезжать на железнодорожный переезд?",
         "Uszkodzenie mechanizmów przeniesienia napędu": "Повреждение механизмов передачи привода.",
         "Czy w każdym reflektorze samochodu osobowego wolno Ci zamiast żarówki halogenowej wykorzystywać lampę ksenonową?": "В каждом ли фаре легкового автомобиля разрешается использовать ксеноновую лампу вместо галогенной?",
         "Obsługiwanie radia": "Управление радио."
@@ -1361,7 +1360,9 @@
             "Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Если остановка не оборудована островком для пассажиров и на остановку заезжает трамвай или стоит на ней, водитель обязан остановить транспортное средство в таком месте и на такой срок, чтобы обеспечить пешеходу свободный доступ к трамваю или на тротуар.",
             "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać": "Водитель транспортного средства, меняя занимаемую полосу движения, обязан уступить дорогу транспортному средству, движущемуся по полосе движения, на которую он намеревается выехать.",
             "Po sygnałach czerwonym z żółtym włącza się sygnał zielony": "После красных сигналов с желтым включается зеленый сигнал.",
-            "Zatrzymanie uniemożliwia ciągła linia krawędziowa": "Остановку делает невозможной сплошная линия края проезжей части."
+            "Zatrzymanie uniemożliwia ciągła linia krawędziowa": "Остановку делает невозможной сплошная линия края проезжей части.",
+            "Czy w tej sytuacji wolno Ci wjechać na przejazd kolejowy?": "В данной ситуации разрешается ли тебе въехать на железнодорожный переезд?",
+            "Zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Запрещается объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если началось их опускание или поднятие не было завершено."
         }
     },
     "not_approved": {
