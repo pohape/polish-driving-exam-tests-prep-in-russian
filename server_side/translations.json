@@ -3,7 +3,9 @@
         "Zamierzasz wjechać na drogę twardą skręcając w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы собираетесь въехать на твердое покрытие, поворачивая направо. У вас есть преимущество перед ТС, приближающимся слева?",
         "Czy zbliżając się do przejścia dla pieszych, masz obowiązek obserwować jego otoczenie?": "Вопрос для перевода: \"Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его окружением?\"",
         "Ostrzegawczy trójkąt odblaskowy": "Отражающий предупредительный треугольник.",
-        "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это вызывает неудобства, связанные с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:"
+        "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это вызывает неудобства, связанные с избыточным выбросом выхлопных газов в окружающую среду или избыточным шумом, является:",
+        "Czy apteczka doraźnej pomocy jest obowiązkowym wyposażeniem każdego pojazdu samochodowego?": "Является ли аптечка первой помощи обязательным оборудованием каждого автомобиля?",
+        "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?"
     },
     "approved": {
         "strefa zamieszkania": {
@@ -1178,7 +1180,11 @@
             "Sprawdzić poziom oleju i ewentualnie uzupełnić braki": "Проверить уровень масла и при необходимости долить его.",
             "Zawsze włączyć światła awaryjne": "Всегда включать аварийные огни.",
             "Uzupełnić braki dowolnym olejem": "Заполнить недостаток любым маслом.",
-            "Co należy zrobić po stwierdzeniu niewłaściwego ciśnienia oleju silnikowego?": "Что следует сделать после обнаружения неправильного давления масла в двигателе?"
+            "Co należy zrobić po stwierdzeniu niewłaściwego ciśnienia oleju silnikowego?": "Что следует сделать после обнаружения неправильного давления масла в двигателе?",
+            "Który z wymienionych czynników ma wpływ na ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов влияет на ограничение поля зрения водителя легкового автомобиля?",
+            "Kierowanie pojazdem w stanie nietrzeźwości": "Управление транспортным средством в состоянии опьянения.",
+            "Nie, ale warto ją mieć": "Не, но стоит её иметь.",
+            "Tak, jeżeli jest wyposażony w instalację gazową": "Да, если он оборудован газовой установкой."
         }
     },
     "not_approved": {
@@ -1622,7 +1628,6 @@
         "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Ты водишь машину. Как вы должны вести себя во время уклонения автомобиля ночью?",
         "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, так как помощь должна быть оказана виновнику аварии.",
         "Wezwać pomoc drogową": "Вызовите дорожную помощь.",
-        "Jesteś świadkiem potrącenia pieszego. Jak powinieneś się zachować?": "Вы стали свидетелем того, как вас сбил пешеход. Как вы должны вести себя?",
         "Z jaką dopuszczalną maksymalną prędkością wolno Ci kierować samochodem osobowym z przyczepą po drodze za tym znakiem?": "На какой допустимой максимальной скорости вам разрешено управлять легковым автомобилем с прицепом по дороге за этим знаком?",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
@@ -2133,7 +2138,6 @@
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Czy jako właściciel pojazdu masz obowiązek wskazać na żądanie uprawnionego organu, komu powierzyłeś pojazd do kierowania lub używania w określonym czasie?": "В качестве владельца транспортного средства, обязаны ли вы по требованию уполномоченного органа указать, кому вы доверили управление или использование транспортного средства в определенное время?",
         "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
-        "Kierowanie pojazdem w stanie nietrzeźwości": "Управление транспортным средством в состоянии опьянения.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Wyłącznie świateł drogowych": "Только дальнего света фар.",
@@ -2249,7 +2253,6 @@
         "Tak, tylko na tylnym siedzeniu": "Да, только на заднем сиденье.",
         "Tak, jeżeli korzysta się z pasów bezpieczeństwa": "Да, если используются ремни безопасности.",
         "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в езде.",
-        "Który z wymienionych czynników ma wpływ na ograniczenie pola widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов влияет на ограничение поля зрения водителя легкового автомобиля?",
         "dozwolone bez ograniczeń": "разрешено без ограничений.",
         "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки.",
         "zabronione": "запрещено.",
