@@ -1096,7 +1096,10 @@
             "Znak widoczny na zdjęciu oznacza wjazd do strefy ograniczenia prędkości": "Знак, видимый на фотографии, означает въезд в зону ограничения скорости.",
             "Czy masz obowiązek zatrzymać się w wyznaczonym miejscu?": "Вы обязаны остановиться в назначенном месте?",
             "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa rowerzyście?": "При движении прямо, обязаны ли вы уступить дорогу велосипедисту?",
-            "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność?": "В данной ситуации обязаны ли вы проявлять особую осторожность?"
+            "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność?": "В данной ситуации обязаны ли вы проявлять особую осторожность?",
+            "Czy w tej sytuacji, po zakończeniu wyprzedzania, masz obowiązek powrócić na prawy pas ruchu?": "В этой ситуации, после завершения обгона, ты обязан вернуться на правую полосу движения?",
+            "Czy bezpośrednio za widocznym znakiem wolno Ci zatrzymać pojazd, jeśli nie spowoduje to utrudnienia ruchu?": "Сразу после видимого знака разрешается ли тебе остановить транспортное средство, если это не приведет к затруднению движения?",
+            "Czy wolno Ci zatrzymać pojazd na jezdni bezpośrednio za widocznym skrzyżowaniem?": "Разрешено ли тебе остановить транспортное средство на проезжей части сразу за видимым перекрестком?"
         }
     },
     "not_approved": {
