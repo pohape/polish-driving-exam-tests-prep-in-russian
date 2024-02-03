@@ -1398,7 +1398,9 @@
             "Przy prawej krawędzi jezdni": "При правом крае проезжей части.",
             "Na środku drogi, z częściowym przekroczeniem widocznej linii": "На середине дороги с частичным пересечением видимой линии.",
             "Czy kierujący pojazdem ciężarowym, zatrzymując się w tym miejscu postąpił zgodnie z obowiązującymi przepisami ?": "Поступил ли водитель грузового автомобиля, останавливаясь в этом месте, в соответствии с действующими правилами?",
-            "Czy w tej sytuacji możesz wyprzedzić rowerzystę z zachowaniem odstępu 0,5 m?": "Можешь ли ты в этой ситуации обогнать велосипедиста, соблюдая дистанцию 0,5 метра?"
+            "Czy w tej sytuacji możesz wyprzedzić rowerzystę z zachowaniem odstępu 0,5 m?": "Можешь ли ты в этой ситуации обогнать велосипедиста, соблюдая дистанцию 0,5 метра?",
+            "Czy w widocznej sytuacji kierujący może włączyć światła drogowe?": "Может ли в данной ситуации водитель включить дальний свет фар?",
+            "Czy wolno Ci się zatrzymać w tym miejscu na jezdni?": "Разрешено ли тебе остановиться в этом месте на проезжей части?"
         }
     },
     "not_approved": {
@@ -2826,6 +2828,7 @@
         "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
         "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
-        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?"
+        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
+        "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?"
     }
 }
