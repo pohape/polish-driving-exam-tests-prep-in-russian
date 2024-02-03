@@ -1319,7 +1319,13 @@
             "Bezpieczny, mniejszy niż 1 metr": "Безопасное расстояние, меньше чем 1 метр.",
             "Każdy odstęp, ale bezpieczny": "Любой интервал, но безопасный.",
             "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
-            "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?"
+            "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?",
+            "Tak, ponieważ opuszczasz obszar zabudowany": "Да, потому что ты покидаешь населенный пункт.",
+            "W którym z wymienionych przypadków regularne wykonywanie badania technicznego pojazdu ma wpływ na jego bezpieczne używanie w ruchu drogowym?": "В каком из перечисленных случаев регулярное проведение технического осмотра транспортного средства влияет на его безопасное использование в дорожном движении?",
+            "W całym okresie używania pojazdu": "На протяжении всего периода использования транспортного средства.",
+            "Wyłącznie po upływie okresu gwarancji pojazdu": "Исключительно по истечении гарантийного срока ТС.",
+            "Tylko w okresie gwarancji pojazdu": "Только в период гарантии автомобиля.",
+            "Która z wymienionych czynności jest zabroniona podczas kierowania pojazdem?": "Какое из перечисленных действий запрещено во время управления транспортным средством?"
         }
     },
     "not_approved": {
@@ -2107,10 +2113,6 @@
         "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
         "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
         "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
-        "Tylko w okresie gwarancji pojazdu": "Только в период гарантии автомобиля.",
-        "W całym okresie używania pojazdu": "На протяжении всего периода использования транспортного средства.",
-        "Wyłącznie po upływie okresu gwarancji pojazdu": "Исключительно по истечении гарантийного срока ТС.",
-        "W którym z wymienionych przypadków regularne wykonywanie badania technicznego pojazdu ma wpływ na jego bezpieczne używanie w ruchu drogowym?": "В каком из перечисленных случаев регулярное проведение технического осмотра транспортного средства влияет на его безопасное использование в дорожном движении?",
         "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
         "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
         "Nierównomierne zużycie bieżnika opony": "Неравномерный износ протектора шины.",
@@ -2782,6 +2784,8 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Tak, ponieważ opuszczasz obszar zabudowany": "Да, потому что ты покидаешь населенный пункт."
+        "Obsługiwanie radia": "Управление радио.",
+        "Używanie nawigacji GPS": "Использование навигации GPS.",
+        "Rozmawianie przez telefon, który wymaga trzymania słuchawki lub mikrofonu w ręku": "Разговор по телефону, который требует держать трубку или микрофон в руке."
     }
 }
