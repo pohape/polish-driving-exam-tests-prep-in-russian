@@ -1,5 +1,7 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?"
+    },
     "approved": {
         "otoczenie": {
             "W jaki sposób należy obserwować otoczenie podczas jazdy po autostradzie?": "Как следует наблюдать за обстановкой во время езды по автостраде?",
@@ -1383,7 +1385,8 @@
             "Czy w tej sytuacji wolno Ci wyprzedzić rowerzystę?": "В этой ситуации разрешено ли тебе обогнать велосипедиста?",
             "Czy w tej sytuacji masz obowiązek zachować ostrożność?": "В этой ситуации ты обязан соблюдать осторожность?",
             "Czy w tej sytuacji należy rozpocząć hamowanie?": "В этой ситуации нужно начать торможение?",
-            "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?"
+            "Zamierzasz skręcić w prawo. Czy masz obowiązek włączyć kierunkowskaz?": "Вы собираетесь повернуть направо. Вы обязаны включить указатель поворота?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "В данной ситуации вы обязаны уступить дорогу транспортному средству, видимому в зеркале?"
         }
     },
     "not_approved": {
@@ -2785,7 +2788,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
-        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "W jaki sposób, podczas kontroli drogowej przez upoważniony organ, następuje zatrzymanie prawa jazdy wydanego w kraju?": "Каким образом, во время дорожного контроля уполномоченным органом, происходит временное изъятие водительского удостоверения, выданного в стране?",
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
