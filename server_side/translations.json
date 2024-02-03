@@ -1400,7 +1400,9 @@
             "Czy kierujący pojazdem ciężarowym, zatrzymując się w tym miejscu postąpił zgodnie z obowiązującymi przepisami ?": "Поступил ли водитель грузового автомобиля, останавливаясь в этом месте, в соответствии с действующими правилами?",
             "Czy w tej sytuacji możesz wyprzedzić rowerzystę z zachowaniem odstępu 0,5 m?": "Можешь ли ты в этой ситуации обогнать велосипедиста, соблюдая дистанцию 0,5 метра?",
             "Czy w widocznej sytuacji kierujący może włączyć światła drogowe?": "Может ли в данной ситуации водитель включить дальний свет фар?",
-            "Czy wolno Ci się zatrzymać w tym miejscu na jezdni?": "Разрешено ли тебе остановиться в этом месте на проезжей части?"
+            "Czy wolno Ci się zatrzymać w tym miejscu na jezdni?": "Разрешено ли тебе остановиться в этом месте на проезжей части?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do wyznaczonego na drodze przejścia dla pieszych?": "Предупреждены ли вы о приближении к пешеходному переходу, обозначенному на дороге?",
+            "Na jakim biegu powinieneś rozpocząć jazdę na suchej nawierzchni?": "На какой передаче ты должен начать движение по сухому дорожному покрытию?"
         }
     },
     "not_approved": {
@@ -1824,7 +1826,6 @@
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
         "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o zbliżaniu się do wyznaczonego na drodze przejścia dla pieszych?": "Предупреждены ли вы о приближении к пешеходному переходу, обозначенному на дороге?",
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
@@ -2831,6 +2832,13 @@
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
         "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?": "Вы собираетесь ехать прямо. У вас есть преимущество перед железнодорожным транспортом поворачивающим направо в депо?",
-        "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?"
+        "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?",
+        "Drugim": "Вторым.",
+        "Dowolnym": "Случайным.",
+        "Najniższym": "Самым низким.",
+        "Hamowanie silnikiem": "Торможение двигателем.",
+        "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
+        "Jakie zachowanie zwiększa ryzyko wpadnięcia w poślizg na oblodzonej nawierzchni jezdni?": "Какое поведение увеличивает риск заноса на обледенелой дорожной поверхности проезжей части?",
+        "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?"
     }
 }
