@@ -1484,7 +1484,10 @@
             "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
             "Szerokie pole widzenia pozytywnie wpływa na właściwą obserwację drogi": "Широкое поле зрения положительно влияет на правильное наблюдение за дорогой.",
             "Światła hamowania są jednymi z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Стоп-сигналы являются одними из обязательных внешних световых приборов, которыми должен быть оснащен автомобиль.",
-            "Ta sytuacja nie przedstawia tunelu, drogi ekspresowej ani autostrady": "Эта ситуация не представляет тоннеля, \"drogi ekspresowej\" или автострады."
+            "Ta sytuacja nie przedstawia tunelu, drogi ekspresowej ani autostrady": "Эта ситуация не представляет тоннеля, \"drogi ekspresowej\" или автострады.",
+            "Czy widoczna linia złożona z trójkątów wskazuje Ci miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa?": "Видимая линия, состоящая из треугольников, указывает вам место остановки ТС для того, чтобы уступить дорогу?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu?": "В представленной ситуации тебя предупреждают о выпуклости на проезжей части, примененной в целях замедления движения?",
+            "Czy w przedstawionej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -1876,7 +1879,6 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
-        "Czy w przedstawionej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в представленной ситуации?",
         "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
         "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
         "Czy masz prawo zatrzymać pojazd w tunelu?": "Вы имеете право остановить автомобиль в туннеле?",
@@ -2578,7 +2580,6 @@
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
         "Linia dzieląca pasy ruchu umożliwia jej przekraczanie w kierunku prawej krawędzi": "Линия, разделяющая полосы движения, позволяет её пересекать в направлении правого края.",
-        "Czy widoczna linia złożona z trójkątów wskazuje Ci miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa?": "Видимая линия, состоящая из треугольников, указывает вам место остановки ТС для того, чтобы уступить дорогу?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Czy w tym miejscu wolno Ci wjechać na pas ruchu przeznaczony dla pojazdów jadących w przeciwnym kierunku?": "Разрешено ли вам в этом месте въезжать на полосу движения, предназначенную для ТС, движущихся в противоположном направлении?",
