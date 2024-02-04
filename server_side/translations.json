@@ -150,7 +150,7 @@
             "Poza obszarem zabudowanym limity prędkości również obowiązują": "Вне населенного пункта также действуют ограничения скорости.",
             "50 km\/h w obszarze zabudowanym obowiązuje przez całą dobę": "50 км\/ч в населённом пункте действует круглосуточно.",
             "Czy prędkość dopuszczalna 50 km\/h obowiązuje na obszarze zabudowanym przez całą dobę?": "Действует ли ограничение скорости 50 км\/ч в населенном пункте круглосуточно?",
-            "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?": "На какой дороге для водителя установлено правило строгого поддержания минимального интервала от впереди идущего ТС?",
+            "Na jakiej drodze obowiązuje kierującego zachowanie ściśle określonego minimalnego odstępu od pojazdu poprzedzającego?": "На какой дороге обязан водитель соблюдать строго определенную минимальную дистанцию от впереди идущего ТС?",
             "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": "Действует ли знак \"Движение прямо\" на ближайшем перекрестке или в месте, где существует возможность изменения направления движения?"
         },
         "kontrolujący": {
@@ -202,10 +202,10 @@
             "Czy umieszczony na tablicy znak ostrzega Cię o miejscu na drodze, w którym występuje lub może występować niebezpieczeństwo?": "Предупреждает ли вас знак на табличке о месте на дороге, где есть или может быть опасность?"
         },
         "poprzedzające": {
-            "Jaki odstęp od poprzedzającego pojazdu musisz utrzymać stojąc przed skrzyżowaniem i czekając na sygnał zielony?": "Какое расстояние до впереди идущего транспортного средства вы должны сохранять, стоя на перекрестке и ожидая зеленый сигнал светофора?",
+            "Jaki odstęp od poprzedzającego pojazdu musisz utrzymać stojąc przed skrzyżowaniem i czekając na sygnał zielony?": "Какую дистанцию до впереди идущего транспортного средства вы должны сохранять, стоя на перекрестке и ожидая зеленый сигнал светофора?",
             "Jechać bardzo blisko poprzedzającego pojazdu, aby widzieć jego światła pozycyjne": "Ехать очень близко к впереди идущему транспортному средству, чтобы видеть его габаритные огни.",
-            "Jaki odstęp od poprzedzającego pojazdu należy zachować kierując samochodem osobowym tą drogą?": "Какой интервал от впереди идущего транспортного средства следует соблюдать, управляя легковым автомобилем по этой дороге?",
-            "Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5 m": "Водитель транспортного средства в туннеле, при остановке, вызванной условиями или правилами дорожного движения, обязан сохранить расстояние до впереди идущего транспортного средства не меньше 5 метров."
+            "Jaki odstęp od poprzedzającego pojazdu należy zachować kierując samochodem osobowym tą drogą?": "Какую дистанцию от впереди идущего транспортного средства следует соблюдать, управляя легковым автомобилем по этой дороге?",
+            "Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5 m": "Водитель транспортного средства в туннеле, при остановке, вызванной дорожными условиями или правилами дорожного движения, обязан сохранять дистанцию от впереди идущего ТС не меньше чем 5 метров."
         },
         "ładunek": {
             "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка LPG не является грузом на транспортном средстве.",
@@ -269,8 +269,8 @@
             "Czy w tej sytuacji możesz wjechać na stację paliw, jeśli kierujesz zespołem pojazdów o łącznej długości 11m?": "В этой ситуации вы можете заехать на заправочную станцию, если управляете автопоездом общей длиной 11 метров?"
         },
         "zator": {
-            "Czy za tym znakiem, w razie zatrzymania pojazdu wskutek zatoru drogowego, masz obowiązek zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5m?": "За этим знаком, в случае остановки транспортного средства из-за затора, вы обязаны соблюдать расстояние от впереди идущего транспортного средства не менее 5 м?",
-            "Jaki odstęp od poprzedzającego pojazdu masz obowiązek zachować podczas zatrzymania w zatorze drogowym w tunelu?": "Какое расстояние от впереди идущего транспортного средства вы обязаны соблюдать при остановке в заторе в туннеле?"
+            "Czy za tym znakiem, w razie zatrzymania pojazdu wskutek zatoru drogowego, masz obowiązek zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5m?": "Следует ли за этим знаком, в случае остановки транспортного средства в результате дорожного затора, обязательно сохранять дистанцию от впереди идущего ТС не менее 5 метров?",
+            "Jaki odstęp od poprzedzającego pojazdu masz obowiązek zachować podczas zatrzymania w zatorze drogowym w tunelu?": "Какую дистанцию от впереди идущего транспортного средства ты обязан соблюдать во время остановки в дорожной пробке в туннеле?"
         },
         "droga ekspresowa": {
             "Nie, ponieważ tabliczka wskazuje, że na drogę ekspresową wjeżdżasz dopiero za 450 metrów": "Нет, потому что табличка указывает, что вы въезжаете на \"drogę ekspresową\" только через 450 метров.",
@@ -621,7 +621,7 @@
             "Niepogorszonej przyczepności, jeżeli jedziesz z dopuszczalną prędkością": "Стабильного сцепления с дорогой, когда движение осуществляется с допустимой скоростью.",
             "Niepogorszonej przyczepności, jeśli pojazd wyposażony jest w system przeciwblokujący (ABS)": "Стабильного сцепления, если транспортное средство оборудовано антиблокировочной системой (ABS).",
             "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от обязанности использования ремней безопасности при вождении легкового автомобиля?",
-            "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какое минимальное расстояние до впереди идущего транспортного средства вы должны сохранять, стоя в туннеле в заторе (пробке)?",
+            "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какую минимальную дистанцию от впереди идущего ТС должен ты сохранять, стоя в туннеле, в дорожной пробке так называемом корке?",
             "Czy w przedstawionej sytuacji pojazd jadący z przeciwka ma pierwszeństwo?": "Имеет ли ТС, едущий с встречного направления, преимущество в представленной ситуации?",
             "Czy widoczny na jezdni napis \"STOP\" potwierdza oznakowanie wlotu na skrzyżowanie znakiem pionowym \"stop\"?": "Является ли надпись «STOP» на дороге подтверждением установки знака «STOP» на подъезде к перекрёстку?",
             "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь поехать прямо?",
@@ -804,7 +804,7 @@
             "Odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Дистанция, необходимая для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
             "Nie mniejszy niż 10 metrów": "Не меньше чем 10 метров.",
             "Nie większy niż 10 metrów": "Не более чем 10 метров.",
-            "Jaki odstęp należy utrzymać od poprzedzającego pojazdu w tej sytuacji?": "Какое расстояние следует сохранять от впереди идущего транспортного средства в данной ситуации?",
+            "Jaki odstęp należy utrzymać od poprzedzającego pojazdu w tej sytuacji?": "Какую дистанцию необходимо поддерживать от впереди идущего ТС в этой ситуации?",
             "Odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów na drogach, na których dopuszczalna prędkość przekracza 60 km\/h, oraz do 100 metrów na pozostałych drogach": "Расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров на дорогах, где допустимая скорость превышает 60 км\/ч, и до 100 метров на остальных дорогах.",
             "W każdej sytuacji poprzedzonej znakiem ostrzegawczym należy zachować szczególną ostrożność": "В любой ситуации, которой предшествует предупреждающий знак, следует проявлять особую осторожность.",
             "Czy w przedstawionej sytuacji odległość znaku ostrzegawczego od miejsca niebezpiecznego wynosi od 150 do 300 metrów?": "В представленной ситуации расстояние предупреждающего знака от опасного места составляет от 150 до 300 метров?",
@@ -987,7 +987,7 @@
             "Prędkość pojazdów": "Скорость транспортных средств.",
             "Długość pojazdów": "Длина транспортных средств.",
             "Szerokość pojazdów": "Ширина транспортных средств.",
-            "Którą z podanych wielkości należy uwzględnić, ustalając odstęp od poprzedzającego pojazdu?": "Какой из указанных параметров необходимо учитывать, определяя расстояние от впереди идущего транспортного средства?",
+            "Którą z podanych wielkości należy uwzględnić, ustalając odstęp od poprzedzającego pojazdu?": "Какую из предложенных величин следует учитывать, устанавливая дистанцию от впереди идущего ТС?",
             "Jaki może być skutek zbyt słabego nacisku na pedał hamulca w samochodzie osobowym?": "Каким может быть эффект слишком слабого давления на педаль тормоза в легковом автомобиле?",
             "Wydłużenie drogi hamowania": "Увеличение тормозного пути.",
             "Utrata sterowności": "Потеря управляемости.",
@@ -1030,7 +1030,7 @@
             "Od prędkości, z jaką jedziesz": "От скорости, с которой ты едешь.",
             "Od mocy silnika w pojeździe": "От мощности двигателя в транспортном средстве.",
             "Od szerokości jezdni": "От ширины проезжей части.",
-            "Od czego, w szczególności, zależy bezpieczny odstęp, który powinieneś zachować w tej sytuacji?": "От чего, в частности, зависит безопасное расстояние, которое ты должен соблюдать в этой ситуации?",
+            "Od czego, w szczególności, zależy bezpieczny odstęp, który powinieneś zachować w tej sytuacji?": "От чего, в частности, зависит безопасная дистанция, которую ты должен сохранить в этой ситуации?",
             "Szybkie i mocne wciśnięcie pedału hamulca": "Быстрое и сильное нажатие на педаль тормоза.",
             "Wciśnięcie pedału sprzęgła, a następnie pedału hamulca": "Нажатие педали сцепления, а затем педали тормоза.",
             "Nie mniejszy niż 3 metry": "Не меньше чем 3 метра.",
@@ -1284,8 +1284,8 @@
             "Odstęp w takich okolicznościach musi pozostać bezpieczny": "Дистанция в этих обстоятельствах должна оставаться безопасной.",
             "Korzystanie z nawigacji nie jest zabronione podczas kierowania pojazdem": "Использование навигации не запрещено во время управления транспортным средством.",
             "Używanie łańcuchów przeciwślizgowych na oponach jest dozwolone tylko na drodze pokrytej śniegiem": "Использование противоскользящих цепей на шинах разрешено только на дороге, покрытой снегом.",
-            "Jaki minimalny odstęp masz obowiązek zachować od jadącego przed Tobą pojazdu, jeżeli poruszasz się samochodem osobowym tą drogą z maksymalną dozwoloną prędkością?": "Какой минимальный интервал вы обязаны соблюдать от движущегося впереди транспортного средства, если вы двигаетесь на легковом автомобиле по этой дороге с максимально разрешенной скоростью?",
-            "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между автомобилями, выраженная в метрах, должна быть не меньше половины числа, определяющего скорость автомобиля, выраженного в километрах в час.",
+            "Jaki minimalny odstęp masz obowiązek zachować od jadącego przed Tobą pojazdu, jeżeli poruszasz się samochodem osobowym tą drogą z maksymalną dozwoloną prędkością?": "Какую минимальную дистанцию ты обязан сохранять от едущего впереди тебя транспортного средства, если ты движешься автомобилем по этой дороге с максимально разрешённой скоростью?",
+            "Limit prędkości na autostradzie wynosi 140 km\/h. Odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "Лимит скорости на автостраде составляет 140 км\/ч. Дистанция между транспортными средствами, выраженная в метрах, должна быть не меньше, чем половина числа, определяющего скорость транспортного средства, выраженной в километрах в час.",
             "Którego z wymienionych świateł wolno Ci używać, gdy kierujesz samochodem osobowym podczas mgły?": "Какие из перечисленных световых сигналов ты можешь использовать, когда управляешь легковым автомобилем во время тумана?",
             "Wwarunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie": "При сниженной видимости, вызванной туманом, атмосферными осадками или другими причинами, водитель моторного ТС обязан включить ближний свет фар или передние противотуманные фары, или обе эти системы одновременно.",
             "Przyczyną niskiego ciśnienia oleju może być jego niski stan. Płyny eksploatacyjne uzupełniamy zgodnie z zaleceniami producenta pojazdu": "Причиной низкого давления масла может быть его низкий уровень. Эксплуатационные жидкости следует доливать в соответствии с рекомендациями производителя транспортного средства.",
@@ -1325,9 +1325,9 @@
             "W jaki sposób powinno być ustawione lusterko zewnętrzne w samochodzie osobowym?": "Как должно быть настроено наружное зеркало в легковом автомобиле?",
             "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Да, чтобы в зеркале была видна часть боковой стороны автомобиля, а также дорога позади автомобиля.",
             "Tak, aby w połowie lusterka była widoczna boczna szyba przednich drzwi": "Так, чтобы боковое стекло передних дверей было видно в середине зеркала.",
-            "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какой интервал следует соблюдать при обгоне мотоциклиста?",
+            "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какую дистанцию необходимо соблюдать, обгоняя мотоциклиста?",
             "Bezpieczny, mniejszy niż 1 metr": "Безопасное расстояние, меньше чем 1 метр.",
-            "Każdy odstęp, ale bezpieczny": "Любой интервал, но безопасный.",
+            "Każdy odstęp, ale bezpieczny": "Любая дистанция, но безопасная",
             "Nie mniejszy niż 1 metr": "Не меньше чем 1 метр.",
             "Czy za widocznymi znakami wolno zwiększyć prędkość do 90 km\/h?": "Можно ли после видимых знаков увеличить скорость до 90 км\/ч?",
             "Tak, ponieważ opuszczasz obszar zabudowany": "Да, потому что ты покидаешь населенный пункт.",
@@ -1349,7 +1349,7 @@
             "Kierujesz samochodem. Jak powinieneś się zachować w czasie wymijania pojazdu nocą?": "Вы управляете автомобилем. Как вы должны себя вести во время проезда мимо встречного ТС ночью?",
             "Wymijania samochodu osobowego": "Минуя встречное ТС.",
             "Na bezpieczeństwo podczas wymijania": "На безопасность во время проезда мимо встречного ТС.",
-            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует соблюдать осторожность и безопасное расстояние от минуемого встречного ТС?",
+            "Czy w tej sytuacji należy zachować ostrożność i bezpieczny odstęp od wymijanego pojazdu?": "В этой ситуации следует соблюдать осторожность и безопасную дистанцию от проходящего мимо встречного ТС?",
             "Na co, przede wszystkim, powinieneś zwrócić uwagę podczas wymijania innego pojazdu?": "На что, прежде всего, следует обратить внимание во время проезда мимо встречного ТС?",
             "Na zachowanie bezpiecznego odstępu": "На сохранение безопасной дистанции.",
             "Na pojazdy jadące za tobą": "На транспортные средства, следующие за тобой.",
@@ -1361,9 +1361,9 @@
             "Jak należy zachować się podczas wymijania samochodem osobowym w nocy innego pojazdu?": "Как следует вести себя при прохождении мимо встречного ТС ночью на легковом автомобиле?",
             "Bezpieczny, ale nie mniejszy niż 1,5 metra": "Безопасный, но не менее 1,5 метра.",
             "Bezpieczny, czyli zawsze taki sam": "Безопасный, то есть всегда один и тот же.",
-            "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?": "Какое расстояние следует соблюдать при проезде легковым автомобилем мимо другого встречного ТС?",
+            "Jaki odstęp należy zachować podczas wymijania samochodem osobowym innego pojazdu?": "Какую дистанцию необходимо соблюдать во время проезда на автомобиле мимо другого встречного ТС?",
             "Czy w tej sytuacji, podczas wymijania pojazdu do nauki jazdy, wystarczy że zachowasz ostrożność?": "В этой ситуации, во время проезда мимо встречного ТС для обучения вождению, достаточно ли просто быть осторожным?",
-            "Czy w tej sytuacji masz prawo zachować dowolny odstęp od wymijanego samochodu ciężarowego?": "Имеете ли вы право в данной ситуации сохранять любое расстояние при прохождении мимо встречного грузового автомобиля?",
+            "Czy w tej sytuacji masz prawo zachować dowolny odstęp od wymijanego samochodu ciężarowego?": "Вы имеете право сохранять любую дистанцию от минуемого грузовика?",
             "Kierujący pojazdem, przejeżdżając obok pojazdu, przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов в водители, обязан проявлять особую осторожность.",
             "Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Если остановка не оборудована островком для пассажиров и на остановку заезжает трамвай или стоит на ней, водитель обязан остановить транспортное средство в таком месте и на такой срок, чтобы обеспечить пешеходу свободный доступ к трамваю или на тротуар.",
             "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać": "Водитель транспортного средства, меняя занимаемую полосу движения, обязан уступить дорогу транспортному средству, движущемуся по полосе движения, на которую он намеревается выехать.",
@@ -1387,7 +1387,7 @@
             "Ładunek na pojeździe umieszcza się w taki sposób, aby nie ograniczał widoczności drogi": "Груз на транспортном средстве располагают таким образом, чтобы не ограничивать видимость дороги.",
             "Kierujący pojazdem może używać świateł drogowych, o ile między innymi nie oślepi innych kierujących": "Водитель транспортного средства может использовать дальний свет фар, при условии, что он не ослепляет других водителей.",
             "Tak, aby w lusterku nie był widoczny bok pojazdu": "Так, чтобы в зеркале не была видна боковая часть транспортного средства.",
-            "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности, безопасное расстояние от обгоняемого транспортного средства или участника движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов это расстояние не может быть меньше 1 м.",
+            "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność, a zwłaszcza bezpieczny odstęp od wyprzedzanego pojazdu lub uczestnika ruchu. W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp ten nie może być mniejszy niż 1 m": "Водитель транспортного средства обязан при обгоне соблюдать особую осторожность, и в частности безопасное расстояние от обгоняемого транспортного средства или участника дорожного движения. В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или группы пешеходов это расстояние не может быть меньше 1 метра.",
             "Pod warunkiem, że nie ciągnie się przyczepy ;-)": "При условии, что не тянете прицеп ;-)",
             "Regularne wykonywanie badań technicznych ma wpływ na bezpieczne używanie pojazdu bez względu na jego wiek": "Регулярное проведение технических осмотров влияет на безопасное использование транспортного средства, независимо от его возраста.",
             "Kierującemu pojazdem zabrania się: korzystania podczas jazdy z telefonu wymagającego trzymania słuchawki lub mikrofonu w ręku": "Водителю запрещается: пользоваться во время движения телефоном, требующим держать трубку или микрофон в руке.",
@@ -1417,7 +1417,7 @@
             "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
             "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, ты обязан остановиться в случае необходимости?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka, zanim wykonasz manewr omijania?": "В этой ситуации вы обязаны уступить дорогу приближающемуся встречному ТС, прежде чем выполнить маневр объезда?",
-            "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать во время объезда автомобилем препятствия на дороге?",
+            "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какую дистанцию следует сохранять во время объезда автомобилем препятствия на дороге?",
             "Wyprzedzania roweru": "Обгон велосипеда.",
             "Czy włączenie świateł awaryjnych i umieszczenie trójkąta ostrzegawczego w odległości 50–70 metrów za pojazdem jest prawidłowym sygnalizowaniem jego awarii na autostradzie?": "Включение аварийной сигнализации и установка знака аварийной остановки на расстоянии 50–70 метров позади транспортного средства является правильным способом сигнализации о его неисправности на автостраде?",
             "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
@@ -1450,7 +1450,17 @@
             "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Имеешь ли ты обязанность ждать, пока трамвай тронется, если хочешь продолжить движение в данной ситуации?",
             "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
             "Razem z nim znajdujemy się na skrzyżowaniu równorzędnym. Jesteśmy po jego prawej stronie": "Вместе с ним мы находимся на равнозначном перекрестке. Мы находимся с его правой стороны.",
-            "Nie ma obowiązku posiadania przy sobie dowodu rejestracyjnego, potwierdzenia zawarcia przez właściciela pojazdu umowy obowiązkowego ubezpieczenia OC lub dowodu opłaty składki za ubezpieczenie oraz prawa jazdy": "Нет обязательства иметь при себе свидетельство о регистрации, подтверждение заключения владельцем транспортного средства договора обязательного страхования ОС или свидетельство уплаты взноса за страхование, а также водительское удостоверение."
+            "Nie ma obowiązku posiadania przy sobie dowodu rejestracyjnego, potwierdzenia zawarcia przez właściciela pojazdu umowy obowiązkowego ubezpieczenia OC lub dowodu opłaty składki za ubezpieczenie oraz prawa jazdy": "Нет обязательства иметь при себе свидетельство о регистрации, подтверждение заключения владельцем транспортного средства договора обязательного страхования ОС или свидетельство уплаты взноса за страхование, а также водительское удостоверение.",
+            "Czy w przedstawionej sytuacji masz obowiązek zachować odstęp nie mniejszy niż 1 metr od wyprzedzanego rowerzysty?": "Имеется ли у тебя обязанность сохранять дистанцию не менее 1 метра от обгоняемого велосипедиста в представленной ситуации?",
+            "Jaki odstęp należy zachować podczas wyprzedzania motocykla?": "Какую дистанцию необходимо сохранять во время обгона мотоцикла?",
+            "Czy w tej sytuacji wolno Ci zachować 0,5 metra odstępu między Twoim pojazdem a wyprzedzanym rowerzystą?": "Разрешается ли тебе в этой ситуации сохранять 0,5 метра дистанции между твоим транспортным средством и обгоняемым велосипедистом?",
+            "Na odstęp od jadących z tyłu pojazdów": "На дистанцию от движущихся сзади транспортных средств",
+            "Zmniejszenie odstępu od poprzedzającego pojazdu": "Уменьшение дистанции от впереди идущего ТС",
+            "Jaki odstęp musisz zachować wyprzedzając rower lub motorower?": "Какую дистанцию ты должен сохранять, обгоняя велосипед или мопед?",
+            "Na autostradach oraz drogach ekspresowych odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "На автострадах и \"drogach ekspresowych\" дистанция между транспортными средствами, выраженная в метрах, должна быть не меньше, чем половина числа, определяющего скорость транспортного средства, выраженной в километрах в час.",
+            "Przy wyprzedzaniu kolumny pieszych i pojazdów jednośladowych należy zachować odstęp nie mniejszy niż 1 metr": "При обгоне колонны пешеходов и одноколейных ТС следует сохранять дистанцию не меньше 1 метра.",
+            "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасная дистанция от впереди идущего ТС зависит от скорости, с которой мы движемся.",
+            "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель ТС обязан во время объезда препятствия на дороге сохранять безопасную дистанцию от объезжаемого препятствия."
         }
     },
     "not_approved": {

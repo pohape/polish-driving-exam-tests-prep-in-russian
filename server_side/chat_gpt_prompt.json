@@ -270,6 +270,10 @@
         "jednokierunk": [
             "ruch jednokierunkowy: одностороннее движение",
             "droga jednokierunkowa: дорога с односторонним движением"
+        ],
+        "odstęp": [
+            "każdy odstęp: любая дистанция",
+            "odstęp: дистанция"
         ]
     },
     "dictionary_others": {
