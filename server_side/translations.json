@@ -1467,7 +1467,10 @@
             "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля.",
             "Odległość powinna wynosić 100 m": "Расстояние должно составлять 100 м.",
             "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
-            "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
+            "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
+            "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
+            "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na obszarze zabudowanym - w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione": "Водитель транспортного средства обязан сигнализировать о стоянке автомобиля или прицепа из-за повреждения или аварии в населенном пункте - в случае стоянки на проезжей части в местности, где остановка запрещена.",
+            "Jak to zrobić żeby nikomu nie przeszkadzać?!": "Как это сделать, чтобы никому не мешать?!"
         }
     },
     "not_approved": {
@@ -2242,7 +2245,6 @@
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
         "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
-        "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
