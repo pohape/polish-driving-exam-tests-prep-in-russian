@@ -1448,7 +1448,9 @@
             "Widoczność na drodze": "Видимость на дороге.",
             "Skupiając się na wąskiej przestrzeni bezpośrednio przed pojazdem": "Сосредоточиваясь на узком пространстве непосредственно перед транспортным средством.",
             "Nie zwracając uwagi na sytuację za pojazdem": "Не обращая внимания на ситуацию за транспортным средством.",
-            "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Имеешь ли ты обязанность ждать, пока трамвай тронется, если хочешь продолжить движение в данной ситуации?"
+            "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Имеешь ли ты обязанность ждать, пока трамвай тронется, если хочешь продолжить движение в данной ситуации?",
+            "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
+            "Razem z nim znajdujemy się na skrzyżowaniu równorzędnym. Jesteśmy po jego prawej stronie": "Вместе с ним мы находимся на равнозначном перекрестке. Мы находимся с его правой стороны."
         }
     },
     "not_approved": {
@@ -1505,7 +1507,6 @@
         "Lewy pas służy do skrętu w lewo, jazdy na wprost i zawracania": "Левая полоса используется для поворота влево, прямого движения и разворота.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
-        "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
         "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
@@ -2874,6 +2875,7 @@
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
         "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы сохранять расстояние не менее 80 метров.",
-        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
+        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
+        "Nie ma obowiązku posiadania przy sobie dowodu rejestracyjnego, potwierdzenia zawarcia przez właściciela pojazdu umowy obowiązkowego ubezpieczenia OC lub dowodu opłaty składki za ubezpieczenie oraz prawa jazdy": "Нет обязательства иметь при себе свидетельство о регистрации, подтверждение заключения владельцем транспортного средства договора обязательного страхования ОС или свидетельство уплаты взноса за страхование, а также водительское удостоверение."
     }
 }
