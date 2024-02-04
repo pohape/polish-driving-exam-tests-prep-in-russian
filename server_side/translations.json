@@ -4,7 +4,8 @@
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?",
-        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке."
+        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
+        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1434,7 +1435,13 @@
             "Użyję sygnału dźwiękowego, żeby zmusić kierującego poprzedzającym pojazdem do zjechania na pobocze lub pas awaryjny": "Я воспользуюсь звуковым сигналом, чтобы заставить водителя, идущего впереди, съехать на обочину или аварийную полосу.",
             "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
             "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
-            "Z jaką prędkością, kierując samochodem osobowym, należy poruszać się za tym pojazdem, jeżeli tunel znajduje się poza obszarem zabudowanym, a jego długość wynosi 600 m?": "С какой скоростью, управляя автомобилем, следует двигаться за этим транспортным средством, если туннель находится за пределами населенного пункта, а его длина составляет 600 метров?"
+            "Z jaką prędkością, kierując samochodem osobowym, należy poruszać się za tym pojazdem, jeżeli tunel znajduje się poza obszarem zabudowanym, a jego długość wynosi 600 m?": "С какой скоростью, управляя автомобилем, следует двигаться за этим транспортным средством, если туннель находится за пределами населенного пункта, а его длина составляет 600 метров?",
+            "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С таким расчётом, чтобы поддерживать, как минимум 5 метров дистанции.",
+            "Nie": "Нет.",
+            "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni": "Да, если с того времени прошло не более 7 дней.",
+            "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
+            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия регистрационного документа на период, когда он уполномочивает на использование транспортного средства.",
+            "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям."
         }
     },
     "not_approved": {
@@ -1622,7 +1629,6 @@
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
-        "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям.",
         "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
@@ -2229,7 +2235,6 @@
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
-        "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
         "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о задержании временного разрешения в период, когда оно дает право на использование транспортного средства.",
         "Masa pasażerów": "Масса пассажиров.",
         "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?",
@@ -2276,8 +2281,6 @@
         "Nie mam takiego obowiązku": "У меня нет такой обязанности.",
         "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать.",
         "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
-        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней.",
-        "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni": "Да, если с того времени прошло не более 7 дней.",
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
@@ -2866,7 +2869,6 @@
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы сохранять расстояние не менее 80 метров.",
-        "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С таким расчётом, чтобы поддерживать, как минимум 5 метров дистанции."
+        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы сохранять расстояние не менее 80 метров."
     }
 }
