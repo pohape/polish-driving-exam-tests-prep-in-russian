@@ -3,7 +3,8 @@
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?"
+        "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
+        "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1495,7 +1496,8 @@
             "Czy w tej sytuacji masz prawo kontynuować jazdę bez żadnej reakcji na zachowanie pieszego?": "Имеешь ли ты право продолжить движение в этой ситуации без какой-либо реакции на поведение пешехода?",
             "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
             "Czy w tej sytuacji znaki informują Cię o końcu drogi ekspresowej?": "В данной ситуации знаки информируют вас о конце \"drogi ekspresowej\"?",
-            "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?"
+            "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?",
+            "W jaki sposób ustawisz fotel kierowcy przed jazdą?": "Как вы отрегулируете водительское сиденье перед поездкой?"
         }
     },
     "not_approved": {
@@ -1532,7 +1534,6 @@
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
-        "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?",
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
@@ -2904,6 +2905,7 @@
         "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья."
     }
 }
