@@ -7,7 +7,8 @@
         "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
-        "Zdecydowanie przyspieszyć": "Определенно ускорить."
+        "Zdecydowanie przyspieszyć": "Определенно ускорить.",
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1514,7 +1515,13 @@
             "Gwałtownie przyhamować": "Резко затормозить.",
             "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
             "Co w pierwszej kolejności należy zrobić, gdy dziecko znajdujące się w foteliku zachłysnęło się jedzeniem?": "Что в первую очередь нужно сделать, когда ребёнок, находящийся в детском кресле, подавился едой?",
-            "Możliwie szybko jechać do szpitala": "По возможности быстро ехать в больницу."
+            "Możliwie szybko jechać do szpitala": "По возможности быстро ехать в больницу.",
+            "Bezpiecznie zatrzymać samochód, wyjąć dziecko i trzymając je głową w dół uderzać między łopatkami": "Безопасно остановить автомобиль, вынуть ребенка и, держа его головой вниз, постукивать между лопаток.",
+            "Telefonicznie wezwać zespół ratownictwa medycznego bez samodzielnego udzielania pomocy dziecku": "Телефонно вызвать медицинскую скорую помощь, не оказывая ребенку помощи самостоятельно.",
+            "Jakie zachowanie zwiększa ryzyko wpadnięcia w poślizg na oblodzonej nawierzchni jezdni?": "Какое поведение увеличивает риск заноса на обледенелой дорожной поверхности проезжей части?",
+            "Jazda na trzecim biegu": "Езда на третьей передаче.",
+            "Nagłe zwiększenie prędkości": "Внезапное увеличение скорости.",
+            "Zmiana biegu na niższy": "Переключение на более низкую передачу."
         }
     },
     "not_approved": {
@@ -2420,8 +2427,6 @@
         "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
         "W odpowiednim dla noworodka foteliku ochronnym": "В соответствующем для новорожденного защитном кресле.",
         "W dowolnym nosidełku, jeśli jest przypięte pasami bezpieczeństwa": "В любом детском удерживающем устройстве, если оно пристегнуто ремнями безопасности.",
-        "Telefonicznie wezwać zespół ratownictwa medycznego bez samodzielnego udzielania pomocy dziecku": "Телефонно вызвать медицинскую скорую помощь, не оказывая ребенку помощи самостоятельно.",
-        "Bezpiecznie zatrzymać samochód, wyjąć dziecko i trzymając je głową w dół uderzać między łopatkami": "Безопасно остановить автомобиль, вынуть ребенка и, держа его головой вниз, постукивать между лопаток.",
         "Czy wolno Ci przewozić dziecko powyżej 150 cm wzrostu na przednim siedzeniu w kabinie samochodu ciężarowego?": "Разрешено ли Вам перевозить ребенка выше 150 см роста на переднем сидении в кабине грузового автомобиля?",
         "Tak, pod warunkiem że dziecko będzie siedziało na kolanach innej osoby dorosłej": "Да, при условии, что ребёнок будет сидеть на коленях у другого взрослого.",
         "Tak, wyłącznie w specjalnym foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dla dzieci, odpowiednim do masy i wagi ciała oraz spełniającym dodatowe warunki techniczne": "Да, исключительно в специальном детском автокресле или другом удерживающем устройстве для детей, подходящем по массе и весу тела, а также соответствующем дополнительным техническим условиям.",
@@ -2716,7 +2721,6 @@
         "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
-        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
         "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
@@ -2895,7 +2899,6 @@
         "Najniższym": "Самым низким.",
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
-        "Jakie zachowanie zwiększa ryzyko wpadnięcia w poślizg na oblodzonej nawierzchni jezdni?": "Какое поведение увеличивает риск заноса на обледенелой дорожной поверхности проезжей части?",
         "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
         "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
         "Tak, ale tylko w obszarze niezabudowanym": "Да, но только вне населённого пункта.",
