@@ -1413,7 +1413,8 @@
             "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
             "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, ты обязан остановиться в случае необходимости?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka, zanim wykonasz manewr omijania?": "В этой ситуации вы обязаны уступить дорогу приближающемуся встречному ТС, прежде чем выполнить маневр объезда?",
-            "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать во время объезда автомобилем препятствия на дороге?"
+            "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать во время объезда автомобилем препятствия на дороге?",
+            "Wyprzedzania roweru": "Обгон велосипеда."
         }
     },
     "not_approved": {
@@ -2820,7 +2821,6 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Wyprzedzania roweru": "Обгон велосипеда.",
         "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
         "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
