@@ -1530,7 +1530,10 @@
             "W foteliku bezpieczeństwa tyłem do kierunku jazdy": "В детском автокресле спиной в направлении движения.",
             "W foteliku bezpieczeństwa przodem do kierunku jazdy": "В детском автокресле лицом в направлении движения.",
             "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy": "В другом устройстве, удерживающем ребенка спиной в направлении движения.",
-            "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?"
+            "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
+            "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
+            "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
+            "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада."
         }
     },
     "not_approved": {
@@ -1615,7 +1618,6 @@
         "Tylko lekarz": "Только врач.",
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
         "Jaki odstęp należy zachować podczas wyprzedzania motocykla?": "Какой интервал следует соблюдать при обгоне мотоцикла?",
-        "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
         "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств.",
         "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
@@ -2267,8 +2269,6 @@
         "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
-        "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада.",
         "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения.",
         "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
