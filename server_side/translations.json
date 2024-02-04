@@ -3,8 +3,6 @@
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
-        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней.",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В какой способ ты должен наблюдать за дорогой во время вождения в городском движении?",
         "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле обзора."
     },
@@ -1479,7 +1477,12 @@
             "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
             "Nie jest to ani autostrada, ani droga ekspresowa. Odstęp powinien być bezpieczny": "Это не автострада и не \"droga ekspresowa\". Дистанция должна быть безопасной.",
             "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-            "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства."
+            "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
+            "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
+            "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania": "Водитель транспортного средства обязан перед обгоном убедиться, что имеется соответствующая видимость и достаточно места для обгона.",
+            "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени прошло не более 14 дней.",
+            "Postój na wyznaczonych miejscach dla osób niepełnosprawnych jest dozwolony pod warunkiem posiadania ważnej karty": "Стоянка на отведенных местах для инвалидов разрешена при условии наличия действительной карточки.",
+            "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Использовать телефон, требующий держания микрофона в руке."
         }
     },
     "not_approved": {
@@ -2891,7 +2894,6 @@
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
-        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч."
+        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда."
     }
 }
