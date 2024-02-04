@@ -2,7 +2,8 @@
     "incorrect": {
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
-        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части."
+        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
+        "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1416,7 +1417,8 @@
             "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать во время объезда автомобилем препятствия на дороге?",
             "Wyprzedzania roweru": "Обгон велосипеда.",
             "Czy włączenie świateł awaryjnych i umieszczenie trójkąta ostrzegawczego w odległości 50–70 metrów za pojazdem jest prawidłowym sygnalizowaniem jego awarii na autostradzie?": "Включение аварийной сигнализации и установка знака аварийной остановки на расстоянии 50–70 метров позади транспортного средства является правильным способом сигнализации о его неисправности на автостраде?",
-            "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?"
+            "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
+            "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?": "Обязан ли ты сигнализировать стоянку моторного транспортного средства на проезжей части в населенном пункте, если ты участвуешь в дорожно-транспортном происшествии?"
         }
     },
     "not_approved": {
@@ -2443,7 +2445,6 @@
         "Po osiągnięciu wzrostu co najmniej 150 cm": "После достижения роста не менее 150 см.",
         "Po osiągnięciu wzrostu co najmniej 135 cm": "После достижения роста не менее 135 см.",
         "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
-        "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "В этой ситуации передаваемый световой сигнал означает, что во время поворота налево не возникает конфликта с другими участниками движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
