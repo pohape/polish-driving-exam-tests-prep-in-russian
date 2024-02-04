@@ -1437,7 +1437,6 @@
             "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
             "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
             "Z jaką prędkością, kierując samochodem osobowym, należy poruszać się za tym pojazdem, jeżeli tunel znajduje się poza obszarem zabudowanym, a jego długość wynosi 600 m?": "С какой скоростью, управляя автомобилем, следует двигаться за этим транспортным средством, если туннель находится за пределами населенного пункта, а его длина составляет 600 метров?",
-            "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С таким расчётом, чтобы поддерживать, как минимум 5 метров дистанции.",
             "Nie": "Нет.",
             "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni": "Да, если с того времени прошло не более 7 дней.",
             "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
@@ -2874,8 +2873,6 @@
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
-        "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "Так, чтобы поддерживать, как минимум 50 метров расстояния.",
-        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы поддерживать минимум 80 метров дистанции."
+        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
     }
 }
