@@ -4,7 +4,9 @@
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
-        "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?"
+        "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
+        "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
+        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1497,7 +1499,12 @@
             "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
             "Czy w tej sytuacji znaki informują Cię o końcu drogi ekspresowej?": "В данной ситуации знаки информируют вас о конце \"drogi ekspresowej\"?",
             "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?",
-            "W jaki sposób ustawisz fotel kierowcy przed jazdą?": "Как вы отрегулируете водительское сиденье перед поездкой?"
+            "W jaki sposób ustawisz fotel kierowcy przed jazdą?": "Как вы отрегулируете водительское сиденье перед поездкой?",
+            "Tak, aby umożliwiał swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Таким образом, чтобы обеспечить свободный доступ к устройствам транспортного средства, используемым для управления и управления им.",
+            "Tak, aby ręce trzymające kierownicę były całkowicie wyprostowane w łokciach": "Так, чтобы руки, удерживающие руль, были полностью выпрямлены в локтях.",
+            "W jakim przypadku możesz przewozić trzecie dziecko, o wzroście poniżej 135 cm, na tylnym siedzeniu samochodu osobowego lub ciężarowego, przytrzymywane jedynie pasami bezpieczeństwa?": "В каком случае вы можете перевозить третьего ребенка ростом ниже 135 см на заднем сиденье легкового или грузового автомобиля, удерживаемого только ремнями безопасности?",
+            "Tylko, jeżeli trzecie dziecko ma wzrost co najmniej 100 cm wzrostu": "Только если третий ребенок имеет рост не менее 100 см.",
+            "Tylko, jeżeli trzecie dziecko ukończyło 15 lat": "Только если третий ребенок достиг 15 лет."
         }
     },
     "not_approved": {
@@ -1706,8 +1713,6 @@
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
         "W jakim przypadku należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy?": "В каком случае вы должны получить положительный результат от проверки квалификации, чтобы получить возвращенные водительские права?",
-        "Tak, aby ręce trzymające kierownicę były całkowicie wyprostowane w łokciach": "Так, чтобы руки, удерживающие руль, были полностью выпрямлены в локтях.",
-        "Tak, aby umożliwiał swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Таким образом, чтобы обеспечить свободный доступ к устройствам транспортного средства, используемым для управления и управления им.",
         "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
@@ -2454,10 +2459,6 @@
         "Wiekiem dziecka": "Возрастом ребёнка.",
         "Dziecko mające mniej niż 150 cm wzrostu, przewożone samochodem osobowym wyposażonym w pasy bezpieczeństwa, powinno znajdować się w foteliku bezpieczeństwa dla dziecka, zgodnym z:": "Ребенок ростом менее 150 см, перевозимый в легковом автомобиле, оборудованном ремнями безопасности, должен находиться в детском автокресле, соответствующем:",
         "Masą i wzrostem dziecka oraz właściwymi warunkami technicznymi określonymi w przepisach Unii Europejskiej": "Размерами и весом ребенка, а также соответствующими техническими условиями, установленными в правилах Европейского Союза.",
-        "Tylko, jeżeli trzecie dziecko ukończyło 15 lat": "Только если третий ребенок достиг 15 лет.",
-        "Tylko, jeżeli trzecie dziecko ma wzrost co najmniej 100 cm wzrostu": "Только если третий ребенок имеет рост не менее 100 см.",
-        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
-        "W jakim przypadku możesz przewozić trzecie dziecko, o wzroście poniżej 135 cm, na tylnym siedzeniu samochodu osobowego lub ciężarowego, przytrzymywane jedynie pasami bezpieczeństwa?": "В каком случае вы можете перевозить третьего ребенка ростом ниже 135 см на заднем сиденье легкового или грузового автомобиля, удерживаемого только ремнями безопасности?",
         "Dozwolone, jeżeli dziecko ma co najmniej 125 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешено, если ребенок имеет рост не менее 125 см и не представляется возможным обеспечить ему автокресло из-за его роста и веса.",
         "Dozwolone, jeżeli dziecko ma co najmniej 135 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешается, если ребенок имеет хотя бы 135 см роста и невозможно обеспечить ему автокресло из-за его роста и веса.",
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
@@ -2905,7 +2906,6 @@
         "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья."
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
     }
 }
