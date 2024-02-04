@@ -1525,7 +1525,12 @@
             "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
             "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
             "Gdy wyprzedzany pojazd jest 100 metrów za mną": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
-            "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству."
+            "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству.",
+            "Chcesz przewieźć dziecko na przednim siedzeniu pojazdu samochodowego wyposażonego w przednią poduszkę dla pasażera, która jest aktywna. W jaki sposób możesz to zrobić?": "Вы хотите перевезти ребёнка на переднем сиденье автомобиля, оснащенного активной передней подушкой безопасности для пассажира. Как вы можете это сделать?",
+            "W foteliku bezpieczeństwa tyłem do kierunku jazdy": "В детском автокресле, установленном спиной в сторону, противоположную направлению движения.",
+            "W foteliku bezpieczeństwa przodem do kierunku jazdy": "В детском автокресле лицом в направлении движения.",
+            "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy": "В другом устройстве, удерживающем ребенка спиной в направлении движения.",
+            "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?"
         }
     },
     "not_approved": {
@@ -2264,7 +2269,6 @@
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
         "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
         "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада.",
-        "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
         "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения.",
         "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
@@ -2328,10 +2332,6 @@
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
-        "W foteliku bezpieczeństwa przodem do kierunku jazdy": "В детском автокресле лицом в направлении движения.",
-        "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy": "В другом устройстве, удерживающем ребенка спиной в направлении движения.",
-        "Chcesz przewieźć dziecko na przednim siedzeniu pojazdu samochodowego wyposażonego w przednią poduszkę dla pasażera, która jest aktywna. W jaki sposób możesz to zrobić?": "Вы хотите перевезти ребёнка на переднем сиденье автомобиля, оснащенного активной передней подушкой безопасности для пассажира. Как вы можете это сделать?",
-        "W foteliku bezpieczeństwa tyłem do kierunku jazdy": "В детском автокресле, установленном спиной в сторону, противоположную направлению движения.",
         "Długość pojazdu": "Длина транспортного средства.",
         "W każdym przypadku po zatrzymaniu prawa jazdy": "В каждом случае после остановки водительского удостоверения.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
