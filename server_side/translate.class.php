@@ -359,6 +359,7 @@ class Translate
             }
 
             if ($additional) {
+                $result['approved'] = true;
                 $result['translate'] .= ' (' . $additional . ')';
             }
         }
