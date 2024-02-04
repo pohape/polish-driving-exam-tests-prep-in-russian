@@ -590,6 +590,9 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С такой, чтобы поддерживать, как минимум 5 метров дистанции.",
+            "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "С такой, чтобы поддерживать, как минимум 80 метров дистанции.",
+            "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "С такой, чтобы поддерживать, как минимум 50 метров дистанции.",
             "Czy w tej sytuacji możesz wyprzedzać?": "Можешь ли ты в этой ситуации обгонять?",
             "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это приводит к избыточным выбросам выхлопных газов в окружающую среду или избыточным шумом:",
             "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, поскольку помощь должен оказать виновник аварии.",
@@ -2883,6 +2886,7 @@
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
+        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
+        "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля."
     }
 }
