@@ -1421,7 +1421,8 @@
             "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?": "Обязан ли ты сигнализировать стоянку моторного транспортного средства на проезжей части в населенном пункте, если ты участвуешь в дорожно-транспортном происшествии?",
             "Czy w tej sytuacji wolno Ci wjechać za sygnalizator?": "Разрешается ли тебе въехать за светофор в этой ситуации?",
             "Czy w tej sytuacji, jadąc środkowym pasem ruchu, masz pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "У вас есть преимущество перед ТС, въезжающим на эту полосу справа, если вы едете по центральной полосе движения?",
-            "Czy opuszczając ten pas ruchu, masz obowiązek zachować szczególną ostrożność?": "При покидании этой полосы движения, обязан ли ты проявлять особую осторожность?"
+            "Czy opuszczając ten pas ruchu, masz obowiązek zachować szczególną ostrożność?": "При покидании этой полосы движения, обязан ли ты проявлять особую осторожность?",
+            "Czy w tej sytuacji masz prawo wykonać manewr cofania?": "В этой ситуации у вас есть право выполнить маневр заднего хода?"
         }
     },
     "not_approved": {
@@ -2369,7 +2370,6 @@
         "Przetarcia, przewężenia i naderwania taśmy pasów": "Износ, сужение и разрывы ткани ремней безопасности.",
         "Trwałe zabrudzenia i plamy na taśmie pasów": "Устойчивые загрязнения и пятна на ленте ремней.",
         "Które z wymienionych uszkodzeń pasów bezpieczeństwa oznaczają bezwzględną konieczność wymiany pasów na nowe?": "Какие из перечисленных повреждений ремней безопасности означают абсолютную необходимость замены ремней на новые?",
-        "Czy w tej sytuacji masz prawo wykonać manewr cofania?": "В этой ситуации у вас есть право выполнить маневр заднего хода?",
         "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
         "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
@@ -2858,6 +2858,12 @@
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?"
+        "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
+        "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
+        "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
+        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
+        "Jeśli kierujący ma uprawnienia do kierowania ograniczone do pojazdu wyposażonego w blokadę alkoholową - zaświadczenie o pozytywnym wyniku badania technicznego w tym zakresie": "Если водителю разрешено управление только транспортным средством, оборудованным алкогольной блокировкой, - справка о положительном результате технического осмотра в этом плане.",
+        "Potwierdzenie opłacenia obowiązkowego ubezpieczenia odpowiedzialności cywilnej właściciela pojazdu": "Подтверждение оплаты обязательного страхования гражданской ответственности владельца транспортного средства.",
+        "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP musi mieć przy sobie i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Республики Польша, должен иметь при себе и предъявлять по требованию уполномоченного органа?"
     }
 }
