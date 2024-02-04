@@ -3,7 +3,8 @@
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?"
+        "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?",
+        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1429,7 +1430,11 @@
             "Potwierdzenie opłacenia obowiązkowego ubezpieczenia odpowiedzialności cywilnej właściciela pojazdu": "Подтверждение оплаты обязательного страхования гражданской ответственности владельца транспортного средства.",
             "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?",
             "Będę utrzymywać odstęp od pojazdu poprzedzającego, wystarczający do obserwacji drogi przed tym pojazdem": "Я буду поддерживать дистанцию от впереди идущего ТС, достаточную для наблюдения за дорогой перед этим ТС.",
-            "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня."
+            "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня.",
+            "Użyję sygnału dźwiękowego, żeby zmusić kierującego poprzedzającym pojazdem do zjechania na pobocze lub pas awaryjny": "Я воспользуюсь звуковым сигналом, чтобы заставить водителя, идущего впереди, съехать на обочину или аварийную полосу.",
+            "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
+            "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
+            "Z jaką prędkością, kierując samochodem osobowym, należy poruszać się za tym pojazdem, jeżeli tunel znajduje się poza obszarem zabudowanym, a jego długość wynosi 600 m?": "С какой скоростью, управляя автомобилем, следует двигаться за этим транспортным средством, если туннель находится за пределами населенного пункта, а его длина составляет 600 метров?"
         }
     },
     "not_approved": {
@@ -1652,7 +1657,6 @@
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Niesprawny rozrusznik": "Неисправный стартер.",
-        "Użyję sygnału dźwiękowego, żeby zmusić kierującego poprzedzającym pojazdem do zjechania na pobocze lub pas awaryjny": "Я воспользуюсь звуковым сигналом, чтобы заставить водителя, идущего впереди, съехать на обочину или аварийную полосу.",
         "Czy w tej sytuacji możesz spodziewać się wtargnięcia pieszego na jezdnię?": "Можете ли вы ожидать, что в этой ситуации вы столкнетесь с пешеходным вторжением на проезжую часть?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено выезжать на полосу движения у правого края проезжей части?",
         "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
@@ -1723,7 +1727,6 @@
         "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?",
         "Do 50 km\/h": "До 50 км \/ ч.",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
-        "Czego nie masz prawa robić, gdy kierujesz samochodem osobowym?": "Что вы не имеете права делать, когда управляете автомобилем?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
@@ -1822,8 +1825,6 @@
         "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
         "Zdecydowane przyspieszanie": "Решительное ускорение.",
         "Stosowanie opon zimowych": "Использование зимних шин.",
-        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
-        "Przewozić osób w stanie nietrzeźwości": "Перевозить людей в состоянии алкогольного опьянения.",
         "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
         "Gwałtownie przyhamować": "Резко затормозить.",
@@ -2864,6 +2865,8 @@
         "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
-        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью."
+        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
+        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы сохранять расстояние не менее 80 метров.",
+        "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С таким расчётом, чтобы поддерживать, как минимум 5 метров дистанции."
     }
 }
