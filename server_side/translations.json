@@ -1470,7 +1470,11 @@
             "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
             "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
             "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na obszarze zabudowanym - w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione": "Водитель транспортного средства обязан сигнализировать о стоянке автомобиля или прицепа из-за повреждения или аварии в населенном пункте - в случае стоянки на проезжей части в местности, где остановка запрещена.",
-            "Jak to zrobić żeby nikomu nie przeszkadzać?!": "Как это сделать, чтобы никому не мешать?!"
+            "Jak to zrobić żeby nikomu nie przeszkadzać?!": "Как это сделать, чтобы никому не мешать?!",
+            "Czy zamknięte powieki utrudniają ocenę sytuacji na drodze?": "Закрытые веки затрудняют оценку дорожной ситуации?",
+            "Polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi": "Команды и сигналы, даваемые лицами, регулирующими движение, имеют преимущество перед дорожными знаками.",
+            "Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności": "Водитель может изменить направление движения или занимаемую полосу движения только с соблюдением особой осторожности.",
+            "Kluczyki w stacyjce": "Ключи в замке зажигания."
         }
     },
     "not_approved": {
@@ -1780,7 +1784,6 @@
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Na odstęp od jadących z tyłu pojazdów": "На расстоянии от идущих сзади транспортных средств.",
-        "Kluczyki w stacyjce": "Ключи в замке зажигания.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческих жизней, полицейский не остановит водительские права.",
@@ -1803,7 +1806,6 @@
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
         "Zajmowany pas ruchu służy do skrętu w lewo": "Занятая полоса используется для поворота налево.",
-        "Czy zamknięte powieki utrudniają ocenę sytuacji na drodze?": "Закрытые веки затрудняют оценку дорожной ситуации?",
         "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
         "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
@@ -2714,7 +2716,6 @@
         "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
         "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
         "Tak, ale tylko po zmroku": "Да, но только после наступления темноты.",
-        "Polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi": "Команды и сигналы, даваемые лицами, регулирующими движение, имеют преимущество перед дорожными знаками.",
         "Jedną z zasad ogólnych jest obowiązek poruszania się możliwie blisko prawej krawędzi": "Одним из общих правил является обязанность двигаться как можно ближе к правой кромке.",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Jeżeli pomimo decyzji o zatrzymaniu prawa jazdy na 3 miesiące osoba nadal kierowała pojazdem, starosta przedłuża okres, na który zatrzymano prawo jazdy do 6 miesięcy": "Если, несмотря на решение о приостановлении водительских прав на 3 месяца, человек продолжал управлять транспортным средством, староста продлевает период, на который приостановлено водительское удостоверение, до 6 месяцев.",
