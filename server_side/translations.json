@@ -1450,7 +1450,8 @@
             "Nie zwracając uwagi na sytuację za pojazdem": "Не обращая внимания на ситуацию за транспортным средством.",
             "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Имеешь ли ты обязанность ждать, пока трамвай тронется, если хочешь продолжить движение в данной ситуации?",
             "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku. Jeżeli przystanek nie jest wyposażony w wysepkę dla pasażerów, a na przystanek wjeżdża tramwaj lub stoi na nim, kierujący jest obowiązany zatrzymać pojazd w takim miejscu i na taki czas, aby zapewnić pieszemu swobodne dojście do tramwaju lub na chodnik": "Водитель транспортного средства обязан проявлять особую осторожность при проезде мимо обозначенной трамвайной остановки, незнакомой у тротуара. Если остановка не оборудована островком для пассажиров, а на остановку въезжает трамвай или стоит на нем, водитель обязан остановить транспортное средство в таком месте и на такое время, чтобы обеспечить пешеходу свободный доступ к трамваю или тротуару.",
-            "Razem z nim znajdujemy się na skrzyżowaniu równorzędnym. Jesteśmy po jego prawej stronie": "Вместе с ним мы находимся на равнозначном перекрестке. Мы находимся с его правой стороны."
+            "Razem z nim znajdujemy się na skrzyżowaniu równorzędnym. Jesteśmy po jego prawej stronie": "Вместе с ним мы находимся на равнозначном перекрестке. Мы находимся с его правой стороны.",
+            "Nie ma obowiązku posiadania przy sobie dowodu rejestracyjnego, potwierdzenia zawarcia przez właściciela pojazdu umowy obowiązkowego ubezpieczenia OC lub dowodu opłaty składki za ubezpieczenie oraz prawa jazdy": "Нет обязательства иметь при себе свидетельство о регистрации, подтверждение заключения владельцем транспортного средства договора обязательного страхования ОС или свидетельство уплаты взноса за страхование, а также водительское удостоверение."
         }
     },
     "not_approved": {
@@ -1759,7 +1760,6 @@
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
-        "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "С таким, чтобы поддерживать, не менее 50 м интервала.",
         "Na odstęp od jadących z tyłu pojazdów": "На расстоянии от идущих сзади транспортных средств.",
         "Kluczyki w stacyjce": "Ключи в замке зажигания.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
@@ -2874,8 +2874,8 @@
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы сохранять расстояние не менее 80 метров.",
         "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
-        "Nie ma obowiązku posiadania przy sobie dowodu rejestracyjnego, potwierdzenia zawarcia przez właściciela pojazdu umowy obowiązkowego ubezpieczenia OC lub dowodu opłaty składki za ubezpieczenie oraz prawa jazdy": "Нет обязательства иметь при себе свидетельство о регистрации, подтверждение заключения владельцем транспортного средства договора обязательного страхования ОС или свидетельство уплаты взноса за страхование, а также водительское удостоверение."
+        "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "Так, чтобы поддерживать, как минимум 50 метров расстояния.",
+        "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "Таким образом, чтобы поддерживать минимум 80 метров дистанции."
     }
 }
