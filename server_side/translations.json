@@ -1463,7 +1463,8 @@
             "Na autostradach oraz drogach ekspresowych odstęp pomiędzy pojazdami wyrażony w metrach powinien być nie mniejszy niż połowa liczby określającej prędkość pojazdu, wyrażonej w kilometrach na godzinę": "На автострадах и \"drogach ekspresowych\" дистанция между транспортными средствами, выраженная в метрах, должна быть не меньше, чем половина числа, определяющего скорость транспортного средства, выраженной в километрах в час.",
             "Przy wyprzedzaniu kolumny pieszych i pojazdów jednośladowych należy zachować odstęp nie mniejszy niż 1 metr": "При обгоне колонны пешеходов и одноколейных ТС следует сохранять дистанцию не меньше 1 метра.",
             "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасная дистанция от впереди идущего ТС зависит от скорости, с которой мы движемся.",
-            "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель ТС обязан во время объезда препятствия на дороге сохранять безопасную дистанцию от объезжаемого препятствия."
+            "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель ТС обязан во время объезда препятствия на дороге сохранять безопасную дистанцию от объезжаемого препятствия.",
+            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля."
         }
     },
     "not_approved": {
@@ -2886,7 +2887,6 @@
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
         "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
-        "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля."
+        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
     }
 }
