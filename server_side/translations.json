@@ -6,7 +6,8 @@
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
         "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
-        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет."
+        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
+        "Zdecydowanie przyspieszyć": "Определенно ускорить."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1504,7 +1505,16 @@
             "Tak, aby ręce trzymające kierownicę były całkowicie wyprostowane w łokciach": "Так, чтобы руки, удерживающие руль, были полностью выпрямлены в локтях.",
             "W jakim przypadku możesz przewozić trzecie dziecko, o wzroście poniżej 135 cm, na tylnym siedzeniu samochodu osobowego lub ciężarowego, przytrzymywane jedynie pasami bezpieczeństwa?": "В каком случае вы можете перевозить третьего ребенка ростом ниже 135 см на заднем сиденье легкового или грузового автомобиля, удерживаемого только ремнями безопасности?",
             "Tylko, jeżeli trzecie dziecko ma wzrost co najmniej 100 cm wzrostu": "Только если третий ребенок имеет рост не менее 100 см.",
-            "Tylko, jeżeli trzecie dziecko ukończyło 15 lat": "Только если третий ребенок достиг 15 лет."
+            "Tylko, jeżeli trzecie dziecko ukończyło 15 lat": "Только если третий ребенок достиг 15 лет.",
+            "Czy jako właściciel pojazdu masz obowiązek wskazać na żądanie uprawnionego organu, komu powierzyłeś pojazd do kierowania lub używania w określonym czasie?": "В качестве владельца транспортного средства, обязаны ли вы по требованию уполномоченного органа указать, кому вы доверили управление или использование транспортного средства в определенное время?",
+            "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej": "Да, за исключением случаев, когда это транспортное средство используется для ведения хозяйственной деятельности.",
+            "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать.",
+            "Nie mam takiego obowiązku": "У меня нет такой обязанности.",
+            "Kierujesz samochodem osobowym. Jak powinieneś postąpić w czasie przejazdu przez rozległą kałużę?": "Вы управляете автомобилем. Как вы должны поступить во время проезда через обширную лужу?",
+            "Gwałtownie przyhamować": "Резко затормозить.",
+            "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
+            "Co w pierwszej kolejności należy zrobić, gdy dziecko znajdujące się w foteliku zachłysnęło się jedzeniem?": "Что в первую очередь нужно сделать, когда ребёнок, находящийся в детском кресле, подавился едой?",
+            "Możliwie szybko jechać do szpitala": "По возможности быстро ехать в больницу."
         }
     },
     "not_approved": {
@@ -1880,14 +1890,11 @@
         "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
-        "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "Hamowanie wyłącznie przy użyciu hamulca ręcznego": "Торможение только ручным тормозом.",
         "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
         "Zdecydowane przyspieszanie": "Решительное ускорение.",
         "Stosowanie opon zimowych": "Использование зимних шин.",
-        "Płynnie zmniejszyć prędkość jazdy": "Плавно уменьшить скорость движения.",
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
-        "Gwałtownie przyhamować": "Резко затормозить.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
@@ -2326,9 +2333,6 @@
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
         "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
-        "Tak, chyba że jest to pojazd wykorzystywany do prowadzenia działalności gospodarczej": "Да, за исключением случаев, когда это транспортное средство используется для ведения хозяйственной деятельности.",
-        "Nie mam takiego obowiązku": "У меня нет такой обязанности.",
-        "Tak, chyba że pojazd został użyty wbrew Twojej woli i wiedzy przez nieznaną osobę, czemu nie mogłeś zapobiec": "Да, если только транспортное средство было использовано против вашей воли и без вашего ведома неизвестным лицом, чему вы не могли помешать.",
         "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
@@ -2346,7 +2350,6 @@
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
         "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
-        "Czy jako właściciel pojazdu masz obowiązek wskazać na żądanie uprawnionego organu, komu powierzyłeś pojazd do kierowania lub używania w określonym czasie?": "В качестве владельца транспортного средства, обязаны ли вы по требованию уполномоченного органа указать, кому вы доверили управление или использование транспортного средства в определенное время?",
         "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
@@ -2417,10 +2420,8 @@
         "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
         "W odpowiednim dla noworodka foteliku ochronnym": "В соответствующем для новорожденного защитном кресле.",
         "W dowolnym nosidełku, jeśli jest przypięte pasami bezpieczeństwa": "В любом детском удерживающем устройстве, если оно пристегнуто ремнями безопасности.",
-        "Możliwie szybko jechać do szpitala": "По возможности быстро ехать в больницу.",
         "Telefonicznie wezwać zespół ratownictwa medycznego bez samodzielnego udzielania pomocy dziecku": "Телефонно вызвать медицинскую скорую помощь, не оказывая ребенку помощи самостоятельно.",
         "Bezpiecznie zatrzymać samochód, wyjąć dziecko i trzymając je głową w dół uderzać między łopatkami": "Безопасно остановить автомобиль, вынуть ребенка и, держа его головой вниз, постукивать между лопаток.",
-        "Co w pierwszej kolejności należy zrobić, gdy dziecko znajdujące się w foteliku zachłysnęło się jedzeniem?": "Что в первую очередь нужно сделать, когда ребёнок, находящийся в детском кресле, подавился едой?",
         "Czy wolno Ci przewozić dziecko powyżej 150 cm wzrostu na przednim siedzeniu w kabinie samochodu ciężarowego?": "Разрешено ли Вам перевозить ребенка выше 150 см роста на переднем сидении в кабине грузового автомобиля?",
         "Tak, pod warunkiem że dziecko będzie siedziało na kolanach innej osoby dorosłej": "Да, при условии, что ребёнок будет сидеть на коленях у другого взрослого.",
         "Tak, wyłącznie w specjalnym foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dla dzieci, odpowiednim do masy i wagi ciała oraz spełniającym dodatowe warunki techniczne": "Да, исключительно в специальном детском автокресле или другом удерживающем устройстве для детей, подходящем по массе и весу тела, а также соответствующем дополнительным техническим условиям.",
