@@ -3,7 +3,6 @@
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?",
         "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
         "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней.",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В какой способ ты должен наблюдать за дорогой во время вождения в городском движении?",
@@ -1448,7 +1447,8 @@
             "Oznakowanie poziome": "Горизонтальная дорожная разметка.",
             "Widoczność na drodze": "Видимость на дороге.",
             "Skupiając się na wąskiej przestrzeni bezpośrednio przed pojazdem": "Сосредоточиваясь на узком пространстве непосредственно перед транспортным средством.",
-            "Nie zwracając uwagi na sytuację za pojazdem": "Не обращая внимания на ситуацию за транспортным средством."
+            "Nie zwracając uwagi na sytuację za pojazdem": "Не обращая внимания на ситуацию за транспортным средством.",
+            "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Имеешь ли ты обязанность ждать, пока трамвай тронется, если хочешь продолжить движение в данной ситуации?"
         }
     },
     "not_approved": {
