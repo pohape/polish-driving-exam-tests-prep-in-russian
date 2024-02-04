@@ -2,11 +2,7 @@
     "incorrect": {
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
-        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
-        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней.",
-        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В какой способ ты должен наблюдать за дорогой во время вождения в городском движении?",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле обзора."
+        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1465,7 +1461,29 @@
             "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасная дистанция от впереди идущего ТС зависит от скорости, с которой мы движемся.",
             "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель ТС обязан во время объезда препятствия на дороге сохранять безопасную дистанцию от объезжаемого препятствия.",
             "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля.",
-            "Odległość powinna wynosić 100 m": "Расстояние должно составлять 100 м."
+            "Odległość powinna wynosić 100 m": "Расстояние должно составлять 100 м.",
+            "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
+            "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
+            "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
+            "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na obszarze zabudowanym - w razie postoju na jezdni w miejscu, w którym zatrzymanie jest zabronione": "Водитель транспортного средства обязан сигнализировать о стоянке автомобиля или прицепа из-за повреждения или аварии в населенном пункте - в случае стоянки на проезжей части в местности, где остановка запрещена.",
+            "Jak to zrobić żeby nikomu nie przeszkadzać?!": "Как это сделать, чтобы никому не мешать?!",
+            "Czy zamknięte powieki utrudniają ocenę sytuacji na drodze?": "Закрытые веки затрудняют оценку дорожной ситуации?",
+            "Polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi": "Команды и сигналы, даваемые лицами, регулирующими движение, имеют преимущество перед дорожными знаками.",
+            "Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności": "Водитель может изменить направление движения или занимаемую полосу движения только с соблюдением особой осторожности.",
+            "Kluczyki w stacyjce": "Ключи в замке зажигания.",
+            "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
+            "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
+            "Nie jest to ani autostrada, ani droga ekspresowa. Odstęp powinien być bezpieczny": "Это не автострада и не \"droga ekspresowa\". Дистанция должна быть безопасной.",
+            "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
+            "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
+            "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
+            "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania": "Водитель транспортного средства обязан перед обгоном убедиться, что имеется соответствующая видимость и достаточно места для обгона.",
+            "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени прошло не более 14 дней.",
+            "Postój na wyznaczonych miejscach dla osób niepełnosprawnych jest dozwolony pod warunkiem posiadania ważnej karty": "Стоянка на отведенных местах для инвалидов разрешена при условии наличия действительной карточки.",
+            "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Использовать телефон, требующий держания микрофона в руке.",
+            "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
+            "Szerokie pole widzenia pozytywnie wpływa na właściwą obserwację drogi": "Широкое поле зрения положительно влияет на правильное наблюдение за дорогой.",
+            "Światła hamowania są jednymi z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Стоп-сигналы являются одними из обязательных внешних световых приборов, которыми должен быть оснащен автомобиль."
         }
     },
     "not_approved": {
@@ -1775,7 +1793,6 @@
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Na odstęp od jadących z tyłu pojazdów": "На расстоянии от идущих сзади транспортных средств.",
-        "Kluczyki w stacyjce": "Ключи в замке зажигания.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческих жизней, полицейский не остановит водительские права.",
@@ -1798,7 +1815,6 @@
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
         "Zajmowany pas ruchu służy do skrętu w lewo": "Занятая полоса используется для поворота налево.",
-        "Czy zamknięte powieki utrudniają ocenę sytuacji na drodze?": "Закрытые веки затрудняют оценку дорожной ситуации?",
         "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
         "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
@@ -2239,8 +2255,6 @@
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
-        "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
-        "Tabliczka umieszczona pod znakiem określa jego działanie do miejsca ustawienia znaku": "Табличка, размещенная под знаком, определяет его действие до места установки знака.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
@@ -2423,7 +2437,6 @@
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
-        "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
@@ -2710,7 +2723,6 @@
         "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
         "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
         "Tak, ale tylko po zmroku": "Да, но только после наступления темноты.",
-        "Polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi": "Команды и сигналы, даваемые лицами, регулирующими движение, имеют преимущество перед дорожными знаками.",
         "Jedną z zasad ogólnych jest obowiązek poruszania się możliwie blisko prawej krawędzi": "Одним из общих правил является обязанность двигаться как можно ближе к правой кромке.",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Jeżeli pomimo decyzji o zatrzymaniu prawa jazdy na 3 miesiące osoba nadal kierowała pojazdem, starosta przedłuża okres, na który zatrzymano prawo jazdy do 6 miesięcy": "Если, несмотря на решение о приостановлении водительских прав на 3 месяца, человек продолжал управлять транспортным средством, староста продлевает период, на который приостановлено водительское удостоверение, до 6 месяцев.",
@@ -2807,7 +2819,6 @@
         "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
-        "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
@@ -2884,10 +2895,8 @@
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
-        "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
-        "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
-        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Zachowanie kierującego jest czytelne": "Поведение водителя ясное."
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
+        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
+        "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1."
     }
 }
