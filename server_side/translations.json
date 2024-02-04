@@ -4,7 +4,6 @@
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
-        "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Обязан ли водитель, едущий по левой полосе седельным тягачом с цистерной, уже в этом месте разрешить транспортному средству, идущему впереди вас, менять полосу движения на соседнюю?",
         "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
@@ -1533,7 +1532,9 @@
             "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
             "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
             "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
-            "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада."
+            "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада.",
+            "Sygnalizator kierunkowy umożliwia jedynie jazdę w lewo": "Светофор разрешает движение только налево.",
+            "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Должен ли водитель, движущийся по левой полосе движения тягачом с цистерной, уже в этом месте обеспечить возможность транспортному средству, движущемуся перед тобой, сменить полосу движения на соседнюю?"
         }
     },
     "not_approved": {
