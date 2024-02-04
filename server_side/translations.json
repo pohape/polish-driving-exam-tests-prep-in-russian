@@ -1474,7 +1474,9 @@
             "Czy zamknięte powieki utrudniają ocenę sytuacji na drodze?": "Закрытые веки затрудняют оценку дорожной ситуации?",
             "Polecenia i sygnały dawane przez osoby kierujące ruchem mają pierwszeństwo przed znakami drogowymi": "Команды и сигналы, даваемые лицами, регулирующими движение, имеют преимущество перед дорожными знаками.",
             "Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności": "Водитель может изменить направление движения или занимаемую полосу движения только с соблюдением особой осторожности.",
-            "Kluczyki w stacyjce": "Ключи в замке зажигания."
+            "Kluczyki w stacyjce": "Ключи в замке зажигания.",
+            "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
+            "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде."
         }
     },
     "not_approved": {
@@ -2246,7 +2248,6 @@
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
-        "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
@@ -2429,7 +2430,6 @@
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
-        "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
@@ -2891,6 +2891,7 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
-        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью."
+        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
+        "Nie jest to ani autostrada, ani droga ekspresowa. Odstęp powinien być bezpieczny": "Это не автострада и не \"droga ekspresowa\". Дистанция должна быть безопасной."
     }
 }
