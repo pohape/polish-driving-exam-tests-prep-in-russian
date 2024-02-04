@@ -300,7 +300,7 @@ class Translate
         return $string;
     }
 
-    public static function performTranslation($original)
+    public static function performTranslation($original, $withCache = true)
     {
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
         $original = trim(preg_replace('/\s{1,}/', ' ', $original));
@@ -320,7 +320,7 @@ class Translate
                 'error' => null
             );
         } else {
-            $tranlation = self::findInTranslations($original);
+            $tranlation = $withCache ? self::findInTranslations($original) : null;
 
             if ($tranlation === null) {
                 $apiResponse = self::requestOpenAI(
@@ -328,7 +328,7 @@ class Translate
                     $original
                 );
 
-                if ($apiResponse['translate'] !== null) {
+                if ($withCache && $apiResponse['translate'] !== null) {
                     $apiResponse['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translate']));
                     self::saveToTranslations(
                         trim(trim(trim($original), '.')),
