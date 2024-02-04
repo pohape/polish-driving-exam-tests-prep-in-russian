@@ -1521,7 +1521,11 @@
             "Jakie zachowanie zwiększa ryzyko wpadnięcia w poślizg na oblodzonej nawierzchni jezdni?": "Какое поведение увеличивает риск заноса на обледенелой дорожной поверхности проезжей части?",
             "Jazda na trzecim biegu": "Езда на третьей передаче.",
             "Nagłe zwiększenie prędkości": "Внезапное увеличение скорости.",
-            "Zmiana biegu na niższy": "Переключение на более низкую передачу."
+            "Zmiana biegu na niższy": "Переключение на более низкую передачу.",
+            "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
+            "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
+            "Gdy wyprzedzany pojazd jest 100 metrów za mną": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
+            "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству."
         }
     },
     "not_approved": {
@@ -1655,7 +1659,6 @@
         "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": "В этой ситуации видимый знак справа сообщает вам, что вы приближаетесь к трамвайной остановке?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
-        "Gdy wyprzedzany pojazd jest 100 metrów za mną": "Когда обгоняемый автомобиль отстает от меня на 100 метров.",
         "Powinieneś posadzić dziecko na środku tylnego siedzenia": "Вы должны посадить ребенка в центр заднего сиденья.",
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
@@ -2791,9 +2794,6 @@
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Gdy upewnię się, że nie ma ryzyka \"zajechania drogi\" wyprzedzanemu pojazdowi": "Когда я убедился, что нет риска \"перекрытия пути\" обгоняемому транспортному средству.",
-        "Gdy widzę tył pojazdu wyprzedzanego w prawym lusterku wstecznym": "Когда я вижу заднюю часть обгоняемого транспортного средства в правом зеркале заднего вида.",
-        "Kiedy masz obowiązek zmienić pas na prawy po zakończeniu manewru wyprzedzania?": "Когда вы обязаны перестроиться на правую полосу после завершения маневра обгона?",
         "Na autostradzie": "На автостраде.",
         "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
         "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?",
