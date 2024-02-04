@@ -5,7 +5,9 @@
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy chcąc w tej sytuacji kontynuować jazdę, masz obowiązek czekać, aż tramwaj ruszy?": "Хотите ли вы в данной ситуации продолжить движение, обязаны ли вы ждать, пока трамвай тронется?",
         "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Используйте телефон, требующий держать микрофон в руке.",
-        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней."
+        "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени не прошло более 14 дней.",
+        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В какой способ ты должен наблюдать за дорогой во время вождения в городском движении?",
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле обзора."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1441,7 +1443,12 @@
             "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni": "Да, если с того времени прошло не более 7 дней.",
             "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
             "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия регистрационного документа на период, когда он уполномочивает на использование транспортного средства.",
-            "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям."
+            "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям.",
+            "Prędkość jazdy": "Скорость движения.",
+            "Oznakowanie poziome": "Горизонтальная дорожная разметка.",
+            "Widoczność na drodze": "Видимость на дороге.",
+            "Skupiając się na wąskiej przestrzeni bezpośrednio przed pojazdem": "Сосредоточиваясь на узком пространстве непосредственно перед транспортным средством.",
+            "Nie zwracając uwagi na sytuację za pojazdem": "Не обращая внимания на ситуацию за транспортным средством."
         }
     },
     "not_approved": {
@@ -2166,7 +2173,6 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-        "Oznakowanie poziome": "Горизонтальная дорожная разметка.",
         "Zwiększonej siły tarcia": "Увеличенное трение.",
         "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью.",
         "Zwiększonej przyczepności kół do jezdni": "Увеличенное сцепление колес с проезжей частью.",
@@ -2351,8 +2357,6 @@
         "Kamizelka odblaskowa": "Светоотражающий жилет.",
         "Podnośnik": "Подъемник.",
         "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
-        "Widoczność na drodze": "Видимость на дороге.",
-        "Prędkość jazdy": "Скорость движения.",
         "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством.",
         "Co powinieneś widzieć w prawidłowo ustawionym lusterku wstecznym (wewnętrznym)?": "Что вы должны видеть в правильно настроенном зеркале заднего вида (внутреннем)?",
         "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
