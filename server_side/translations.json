@@ -1476,7 +1476,10 @@
             "Kierujący pojazdem może zmienić kierunek jazdy lub zajmowany pas ruchu tylko z zachowaniem szczególnej ostrożności": "Водитель может изменить направление движения или занимаемую полосу движения только с соблюдением особой осторожности.",
             "Kluczyki w stacyjce": "Ключи в замке зажигания.",
             "Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Водитель транспортного средства, включаясь в движение, обязан проявлять особую осторожность и уступать дорогу другому транспортному средству или участнику движения.",
-            "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде."
+            "Zabrania się cofania na moście lub wiadukcie": "Запрещается двигаться задним ходом на мосту или эстакаде.",
+            "Nie jest to ani autostrada, ani droga ekspresowa. Odstęp powinien być bezpieczny": "Это не автострада и не \"droga ekspresowa\". Дистанция должна быть безопасной.",
+            "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
+            "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства."
         }
     },
     "not_approved": {
@@ -2889,9 +2892,6 @@
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
-        "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
-        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Nie jest to ani autostrada, ani droga ekspresowa. Odstęp powinien być bezpieczny": "Это не автострада и не \"droga ekspresowa\". Дистанция должна быть безопасной."
+        "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч."
     }
 }
