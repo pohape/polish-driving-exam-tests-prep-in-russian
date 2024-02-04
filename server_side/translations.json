@@ -1405,7 +1405,8 @@
             "Na jakim biegu powinieneś rozpocząć jazdę na suchej nawierzchni?": "На какой передаче ты должен начать движение по сухому дорожному покрытию?",
             "Za omijanie pojazdu z naruszeniem podwójnej linii ciągłej": "За объезд ТС с нарушением двойной сплошной линии",
             "Za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h poza obszarem zabudowanym": "За управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч за пределами населенного пункта.",
-            "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, ты обязан остановиться в случае необходимости?"
+            "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, ты обязан остановиться в случае необходимости?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka, zanim wykonasz manewr omijania?": "В этой ситуации вы обязаны уступить дорогу приближающемуся встречному ТС, прежде чем выполнить маневр объезда?"
         }
     },
     "not_approved": {
