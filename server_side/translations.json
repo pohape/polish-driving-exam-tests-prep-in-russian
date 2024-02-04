@@ -2,9 +2,7 @@
     "incorrect": {
         "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшающейся скоростью движения?",
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
-        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
-        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В какой способ ты должен наблюдать за дорогой во время вождения в городском движении?",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле обзора."
+        "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1482,7 +1480,10 @@
             "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania": "Водитель транспортного средства обязан перед обгоном убедиться, что имеется соответствующая видимость и достаточно места для обгона.",
             "Tak, jeśli nie mnięło od tego czasu więcej niż 14 dni": "Да, если с того времени прошло не более 14 дней.",
             "Postój na wyznaczonych miejscach dla osób niepełnosprawnych jest dozwolony pod warunkiem posiadania ważnej karty": "Стоянка на отведенных местах для инвалидов разрешена при условии наличия действительной карточки.",
-            "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Использовать телефон, требующий держания микрофона в руке."
+            "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Использовать телефон, требующий держания микрофона в руке.",
+            "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
+            "Szerokie pole widzenia pozytywnie wpływa na właściwą obserwację drogi": "Широкое поле зрения положительно влияет на правильное наблюдение за дорогой.",
+            "Światła hamowania są jednymi z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Стоп-сигналы являются одними из обязательных внешних световых приборов, которыми должен быть оснащен автомобиль."
         }
     },
     "not_approved": {
@@ -2818,7 +2819,6 @@
         "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
-        "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
@@ -2894,6 +2894,9 @@
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
-        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда."
+        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
+        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
+        "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1."
     }
 }
