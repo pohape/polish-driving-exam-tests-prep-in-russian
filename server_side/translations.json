@@ -1414,7 +1414,9 @@
             "Czy w tej sytuacji, wykonując manewr omijania, masz obowiązek zatrzymać się w razie potrzeby?": "В этой ситуации, выполняя маневр объезда, ты обязан остановиться в случае необходимости?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka, zanim wykonasz manewr omijania?": "В этой ситуации вы обязаны уступить дорогу приближающемуся встречному ТС, прежде чем выполнить маневр объезда?",
             "Jaki odstęp należy zachować podczas omijania samochodem osobowym przeszkody na drodze?": "Какое расстояние необходимо соблюдать во время объезда автомобилем препятствия на дороге?",
-            "Wyprzedzania roweru": "Обгон велосипеда."
+            "Wyprzedzania roweru": "Обгон велосипеда.",
+            "Czy włączenie świateł awaryjnych i umieszczenie trójkąta ostrzegawczego w odległości 50–70 metrów za pojazdem jest prawidłowym sygnalizowaniem jego awarii na autostradzie?": "Включение аварийной сигнализации и установка знака аварийной остановки на расстоянии 50–70 метров позади транспортного средства является правильным способом сигнализации о его неисправности на автостраде?",
+            "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?"
         }
     },
     "not_approved": {
@@ -2165,7 +2167,6 @@
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
-        "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi, którego motorniczy sygnalizuje zamiar skrętu w lewo?": "Вы обязаны уступить дорогу трамваю, водитель которого сигнализирует о намерении повернуть налево, в этой ситуации?",
         "Czy w tej sytuacji należy zatrzymać się przed widoczną linią bezwzględnego zatrzymania - stop?": "В данной ситуации нужно остановиться перед видимой линией абсолютной остановки - стоп?",
         "Czy zamierzając skręcić w lewo na najbliższym skrzyżowaniu musisz sygnalizować ten manewr kierunkowskazem?": "Собираясь повернуть налево на ближайшем перекрестке, должны ли вы сигнализировать об этом маневре с помощью указателя поворота?",
@@ -2852,6 +2853,7 @@
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
-        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда."
+        "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
+        "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?"
     }
 }
