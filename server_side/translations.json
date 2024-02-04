@@ -1420,7 +1420,8 @@
             "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
             "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?": "Обязан ли ты сигнализировать стоянку моторного транспортного средства на проезжей части в населенном пункте, если ты участвуешь в дорожно-транспортном происшествии?",
             "Czy w tej sytuacji wolno Ci wjechać za sygnalizator?": "Разрешается ли тебе въехать за светофор в этой ситуации?",
-            "Czy w tej sytuacji, jadąc środkowym pasem ruchu, masz pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "У вас есть преимущество перед ТС, въезжающим на эту полосу справа, если вы едете по центральной полосе движения?"
+            "Czy w tej sytuacji, jadąc środkowym pasem ruchu, masz pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "У вас есть преимущество перед ТС, въезжающим на эту полосу справа, если вы едете по центральной полосе движения?",
+            "Czy opuszczając ten pas ruchu, masz obowiązek zachować szczególną ostrożność?": "При покидании этой полосы движения, обязан ли ты проявлять особую осторожность?"
         }
     },
     "not_approved": {
