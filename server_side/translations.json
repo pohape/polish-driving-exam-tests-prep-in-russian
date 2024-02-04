@@ -1422,7 +1422,14 @@
             "Czy w tej sytuacji wolno Ci wjechać za sygnalizator?": "Разрешается ли тебе въехать за светофор в этой ситуации?",
             "Czy w tej sytuacji, jadąc środkowym pasem ruchu, masz pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "У вас есть преимущество перед ТС, въезжающим на эту полосу справа, если вы едете по центральной полосе движения?",
             "Czy opuszczając ten pas ruchu, masz obowiązek zachować szczególną ostrożność?": "При покидании этой полосы движения, обязан ли ты проявлять особую осторожность?",
-            "Czy w tej sytuacji masz prawo wykonać manewr cofania?": "В этой ситуации у вас есть право выполнить маневр заднего хода?"
+            "Czy w tej sytuacji masz prawo wykonać manewr cofania?": "В этой ситуации у вас есть право выполнить маневр заднего хода?",
+            "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP musi mieć przy sobie i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Республики Польша, должен иметь при себе и предъявлять по требованию уполномоченного органа?",
+            "Dowód rejestracyjny": "Свидетельство о регистрации.",
+            "Jeśli kierujący ma uprawnienia do kierowania ograniczone do pojazdu wyposażonego w blokadę alkoholową - zaświadczenie o pozytywnym wyniku badania technicznego w tym zakresie": "Если водителю разрешено управление только транспортным средством, оборудованным алкогольной блокировкой, - справка о положительном результате технического осмотра в этом плане.",
+            "Potwierdzenie opłacenia obowiązkowego ubezpieczenia odpowiedzialności cywilnej właściciela pojazdu": "Подтверждение оплаты обязательного страхования гражданской ответственности владельца транспортного средства.",
+            "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?",
+            "Będę utrzymywać odstęp od pojazdu poprzedzającego, wystarczający do obserwacji drogi przed tym pojazdem": "Я буду поддерживать дистанцию от впереди идущего ТС, достаточную для наблюдения за дорогой перед этим ТС.",
+            "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня."
         }
     },
     "not_approved": {
@@ -2220,7 +2227,6 @@
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
-        "Dowód rejestracyjny": "Свидетельство о регистрации.",
         "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
         "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
         "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о задержании временного разрешения в период, когда оно дает право на использование транспортного средства.",
@@ -2694,9 +2700,6 @@
         "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав.",
         "W przypadku przekroczenia przez kierującego 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny": "В случае превышения водителем 24 очков за нарушение правил дорожного движения в течение 5 лет после выдачи направления на переобучающий курс.",
         "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав.",
-        "Będę utrzymywać odstęp od pojazdu poprzedzającego, wystarczający do obserwacji drogi przed tym pojazdem": "Я буду поддерживать дистанцию от впереди идущего ТС, достаточную для наблюдения за дорогой перед этим ТС.",
-        "Zbliżę się maksymalnie do pojazdu jadącego przede mną": "Я приближусь максимально к транспортному средству, движущемуся впереди меня.",
-        "Jak powinieneś się zachować przed rozpoczęciem wyprzedzania przy dobrej przejrzystości powietrza, aby zapewnić sobie optymalną widoczność drogi?": "Как ты должен себя вести перед началом обгона при хорошей видимости, чтобы обеспечить себе оптимальную видимость дороги?",
         "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
         "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
         "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
@@ -2861,9 +2864,6 @@
         "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
         "Niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Необходим для избежания столкновения в случае торможения или остановки впереди идущего транспортного средства.",
         "Co najmniej 30 m, jeżeli poruszam się z prędkością 60 km\/h": "Как минимум 30 метров, если я двигаюсь со скоростью 60 км\/ч.",
-        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью.",
-        "Jeśli kierujący ma uprawnienia do kierowania ograniczone do pojazdu wyposażonego w blokadę alkoholową - zaświadczenie o pozytywnym wyniku badania technicznego w tym zakresie": "Если водителю разрешено управление только транспортным средством, оборудованным алкогольной блокировкой, - справка о положительном результате технического осмотра в этом плане.",
-        "Potwierdzenie opłacenia obowiązkowego ubezpieczenia odpowiedzialności cywilnej właściciela pojazdu": "Подтверждение оплаты обязательного страхования гражданской ответственности владельца транспортного средства.",
-        "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP musi mieć przy sobie i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Республики Польша, должен иметь при себе и предъявлять по требованию уполномоченного органа?"
+        "Dowolny, jeżeli pojazd poprzedzający jadący tym samym pasem ruchu porusza się ze stałą prędkością": "Любой, если впереди идущее ТС, движущееся по тому же полосе движения, движется с постоянной скоростью."
     }
 }
