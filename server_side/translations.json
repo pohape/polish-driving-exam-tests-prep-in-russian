@@ -1493,7 +1493,9 @@
             "Czy masz obowiązek włączyć lewy kierunkowskaz, jeśli zamierzasz jechać przez to skrzyżowanie na wprost?": "Обязаны ли вы включить левый указатель поворота, если вы собираетесь ехать через этот перекресток прямо?",
             "Czy w tej sytuacji wolno Ci zawrócić z zajmowanego pasa ruchu?": "В этой ситуации тебе разрешено развернуться с занятой полосы движения?",
             "Czy w tej sytuacji masz prawo kontynuować jazdę bez żadnej reakcji na zachowanie pieszego?": "Имеешь ли ты право продолжить движение в этой ситуации без какой-либо реакции на поведение пешехода?",
-            "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?"
+            "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
+            "Czy w tej sytuacji znaki informują Cię o końcu drogi ekspresowej?": "В данной ситуации знаки информируют вас о конце \"drogi ekspresowej\"?",
+            "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?"
         }
     },
     "not_approved": {
@@ -2075,7 +2077,6 @@
         "Czy w tej sytuacji jesteś informowany o zbliżaniu się do punktu poboru opłat za przejazd autostradą?": "В этой ситуации вы информированы о приближении к пункту сбора платы за проезд по автостраде?",
         "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
         "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
-        "Czy w tej sytuacji znaki informują Cię o końcu drogi ekspresowej?": "В данной ситуации знаки информируют вас о конце \"drogi ekspresowej\"?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
         "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
         "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
@@ -2656,7 +2657,6 @@
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?",
         "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
-        "Czy po wykonaniu manewru skrętu w prawo na tym skrzyżowaniu, masz obowiązek wyłączyć kierunkowskaz?": "После выполнения маневра поворота направо на этом перекрестке с второстепенной дорогой справа, обязан ли ты выключить указатель поворота?",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
         "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km\/h": "Обеспечивающую контроль над транспортным средством с учетом условий, в которых происходит движение, не выше чем 140 км\/ч.",
@@ -2903,6 +2903,7 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
-        "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1."
+        "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
     }
 }
