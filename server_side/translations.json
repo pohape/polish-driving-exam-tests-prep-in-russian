@@ -1418,7 +1418,9 @@
             "Wyprzedzania roweru": "Обгон велосипеда.",
             "Czy włączenie świateł awaryjnych i umieszczenie trójkąta ostrzegawczego w odległości 50–70 metrów za pojazdem jest prawidłowym sygnalizowaniem jego awarii na autostradzie?": "Включение аварийной сигнализации и установка знака аварийной остановки на расстоянии 50–70 метров позади транспортного средства является правильным способом сигнализации о его неисправности на автостраде?",
             "Czy w tej sytuacji masz prawo zatrzymać pojazd za znakiem w celu wysadzenia pasażera?": "В данной ситуации разрешено ли тебе остановить ТС за знаком, чтобы высадить пассажира?",
-            "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?": "Обязан ли ты сигнализировать стоянку моторного транспортного средства на проезжей части в населенном пункте, если ты участвуешь в дорожно-транспортном происшествии?"
+            "Czy w takim miejscu na jezdni w obszarze zabudowanym masz obowiązek sygnalizować postój pojazdu silnikowego w razie uczestniczenia w wypadku drogowym?": "Обязан ли ты сигнализировать стоянку моторного транспортного средства на проезжей части в населенном пункте, если ты участвуешь в дорожно-транспортном происшествии?",
+            "Czy w tej sytuacji wolno Ci wjechać za sygnalizator?": "Разрешается ли тебе въехать за светофор в этой ситуации?",
+            "Czy w tej sytuacji, jadąc środkowym pasem ruchu, masz pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "У вас есть преимущество перед ТС, въезжающим на эту полосу справа, если вы едете по центральной полосе движения?"
         }
     },
     "not_approved": {
