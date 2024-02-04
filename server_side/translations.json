@@ -1490,7 +1490,10 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu?": "В представленной ситуации тебя предупреждают о выпуклости на проезжей части, примененной в целях замедления движения?",
             "Czy w przedstawionej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в представленной ситуации?",
             "Czy prawidłowo omijasz poprzedzający pojazd?": "Вы правильно обгоняете впереди идущее ТС?",
-            "Czy masz obowiązek włączyć lewy kierunkowskaz, jeśli zamierzasz jechać przez to skrzyżowanie na wprost?": "Обязаны ли вы включить левый указатель поворота, если вы собираетесь ехать через этот перекресток прямо?"
+            "Czy masz obowiązek włączyć lewy kierunkowskaz, jeśli zamierzasz jechać przez to skrzyżowanie na wprost?": "Обязаны ли вы включить левый указатель поворота, если вы собираетесь ехать через этот перекресток прямо?",
+            "Czy w tej sytuacji wolno Ci zawrócić z zajmowanego pasa ruchu?": "В этой ситуации тебе разрешено развернуться с занятой полосы движения?",
+            "Czy w tej sytuacji masz prawo kontynuować jazdę bez żadnej reakcji na zachowanie pieszego?": "Имеешь ли ты право продолжить движение в этой ситуации без какой-либо реакции на поведение пешехода?",
+            "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?"
         }
     },
     "not_approved": {
@@ -1691,7 +1694,6 @@
         "O kolejne trzy miesiące": "Еще на три месяца.",
         "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
         "Minimalnie 1 m": "Минимум 1 м.",
-        "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
