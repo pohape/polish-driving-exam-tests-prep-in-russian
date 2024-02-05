@@ -7,7 +7,6 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
         "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?",
         "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?",
@@ -1859,7 +1858,8 @@
             "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
             "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, двигаясь прямо, разрешается ли тебе двигаться непосредственно вдоль правой кромки проезжей части?",
             "Ten znak wskazujący przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
-            "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешается ли на участке после этого информационного знака двигаться задним ходом?"
+            "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешается ли на участке после этого информационного знака двигаться задним ходом?",
+            "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Имеешь ли ты право продолжить движение прямо, двигаясь по этой полосе движения?"
         }
     },
     "not_approved": {
