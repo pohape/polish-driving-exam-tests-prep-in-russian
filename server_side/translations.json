@@ -1840,7 +1840,10 @@
             "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po prawej stronie jezdni?": "В этой ситуации знаки информируют тебя о конце полосы движения по правой стороне проезжей части?",
             "Znak D-7: droga ekspresowa": "Знак D-7: \"droga ekspresowa\".",
             "Czy masz obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego?": "Обязаны ли вы подчиняться указаниям или сигналам, подаваемым водителем нестандартного транспортного средства?",
-            "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?"
+            "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
+            "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
+            "Czy za tym znakiem wolno Ci zwiększyć prędkość do 130 km\/h?": "За этим знаком вам разрешено увеличивать скорость до 130 км\/ч?",
+            "Na drogach ekspresowych nie można tak szybko jeździć": "На \"drogach ekspresowych\" нельзя ездить так быстро."
         }
     },
     "not_approved": {
@@ -1872,7 +1875,6 @@
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
-        "Czy za tym znakiem wolno Ci zwiększyć prędkość do 130 km\/h?": "За этим знаком вам разрешено увеличивать скорость до 130 км\/ч?",
         "Pod który z podanych numerów powinieneś zadzwonić, aby wezwać karetkę pogotowia ratunkowego na miejsce wypadku drogowego?": "По какому из указанных номеров следует позвонить, чтобы вызвать скорую помощь на место ДТП?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?",
@@ -2228,8 +2230,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
-        "Na drogach ekspresowych nie można tak szybko jeździć": "На \"drogach ekspresowych\" нельзя ездить так быстро.",
         "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге.",
         "Czy ten znak oznacza wjazd do strefy czystego transportu?": "Этот знак обозначает въезд в зону чистого транспорта?",
         "Znak D-54: strefa czystego transportu": "Знак D-54: зона чистого транспорта.",
