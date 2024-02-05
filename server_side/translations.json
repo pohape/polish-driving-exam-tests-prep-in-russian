@@ -1684,7 +1684,11 @@
             "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
             "Prawy pas przeznaczony jest tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку пассажиров на регулярных маршрутах.",
             "Ten znak to koniec obszaru zabudowanego": "Этот знак означает конец населенного пункта.",
-            "Czy w odległości 1000 metrów od tego znaku rozpocznie się droga ekspresowa?": "Начнётся ли \"droga ekspresowa\" на расстоянии 1000 метров от этого знака?"
+            "Czy w odległości 1000 metrów od tego znaku rozpocznie się droga ekspresowa?": "Начнётся ли \"droga ekspresowa\" на расстоянии 1000 метров от этого знака?",
+            "Czy ten znak oznacza wjazd na obszar zabudowany?": "Этот знак означает въезд в населенный пункт?",
+            "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
+            "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
+            "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси."
         }
     },
     "not_approved": {
@@ -1893,7 +1897,6 @@
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
         "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
-        "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
         "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "С этой полосы, когда вы меняете сигнал на зеленый, Вы имеете право повернуть налево на перекрестке?",
         "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
         "Który z wymienionych czynników, może spowodować szybsze zużywanie się opon na kołach przednich w samochodzie osobowym?": "Какой из перечисленных факторов может привести к более быстрому износу шин на передних колесах в легковом автомобиле?",
@@ -2096,7 +2099,6 @@
         "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В этой ситуации, двигаясь прямо, можно ли вам двигаться прямо по правому краю проезжей части?",
         "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка.",
         "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли за этим информационным знаком только уполномоченные транспортные средства двигаться по правой полосе движения?",
-        "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси.",
         "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
         "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение.",
         "Czy zbliżając się do miejsca oznaczonego tym znakiem masz obowiązek zachować szczególną ostrożność?": "Приближаясь к месту, обозначенному этим знаком, вы обязаны проявлять особую осторожность?",
@@ -2229,8 +2231,6 @@
         "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6.",
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
-        "Czy ten znak oznacza wjazd na obszar zabudowany?": "Этот знак означает въезд в населенный пункт?",
-        "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
         "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
         "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
         "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
