@@ -10,7 +10,9 @@
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации тебе сообщается о начале главной дороги с преимуществом проезда?",
         "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "У вас есть право использовать задние противотуманные фары, если туман ограничивает видимость на расстояние меньше 50 м?",
-        "Sprawność bezpieczników": "Производительность предохранителей."
+        "Sprawność bezpieczników": "Производительность предохранителей.",
+        "Sprawność żarówek kierunkowskazów": "Функциональность ламп указателей поворота.",
+        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1545,7 +1547,11 @@
             "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd i umożliwić pieszemu przejście na drugą stronę drogi?": "В этой ситуации вы обязаны остановить транспортное средство и предоставить пешеходу возможность перейти на другую сторону дороги?",
             "Co należy sprawdzić, gdy lampka kontrolna kierunkowskazów zaczęła migać dużo szybciej?": "Что необходимо проверить, когда индикатор поворотников начал мигать намного быстрее?",
-            "Napięcie akumulatora": "Напряжение аккумулятора."
+            "Napięcie akumulatora": "Напряжение аккумулятора.",
+            "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?": "Какова цель использования системы ABS в легковом автомобиле?",
+            "Zapobieganie przed wpadnięciem pojazdu w poślizg - niezależnie od jego prędkości i warunków na drodze": "Предотвращение заноса транспортного средства — независимо от его скорости и условий на дороге.",
+            "Ułatwianie pokonywania zakrętów": "Упрощение прохождения поворотов.",
+            "Zapobieganie utracie stabilności i zapewnienie kierowalności pojazdu podczas jego hamowania": "Предотвращение потери устойчивости и обеспечение управляемости транспортного средства во время его торможения."
         }
     },
     "not_approved": {
@@ -1570,7 +1576,6 @@
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
         "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
         "Wraz ze wzrostem prędkości rozszerza się pole widzenia": "С увеличением скорости поле зрения расширяется.",
-        "Ułatwianie pokonywania zakrętów": "Упрощение прохождения поворотов.",
         "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
         "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
@@ -1826,7 +1831,6 @@
         "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Czy w przedstawionej sytuacji należy spodziewać się utrudnień ruchu?": "Следует ли в данной ситуации ожидать затруднений при движении?",
-        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?",
         "Do 50 km\/h": "До 50 км \/ ч.",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
@@ -2163,7 +2167,6 @@
         "Otworzyć okno i jechać do szpitala": "Открыть окно и ехать в больницу.",
         "Ostrożnie zjechać na pas awaryjny, wezwać Ratownictwo Medyczne i rozpiąć pasy": "Аккуратно перестроиться на аварийную полосу, вызвать медицинскую помощь и расстегнуть ремни.",
         "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
-        "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?": "Какова цель использования системы ABS в легковом автомобиле?",
         "Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie, chyba, że jest to zabronione znakiem pionowym B-23 lub ruch kierowany jest sygnalizatorem S-3": "Стрелка-указатель, разрешающая поворот налево, расположенная на крайней левой полосе, также разрешает разворот, если это не запрещено вертикальным знаком B-23 или если движение не регулируется светофором S-3.",
         "Kierujący pojazdem jest obowiązany jechać z prędkością zapewniającą panowanie nad pojazdem, z uwzględnieniem warunków, w jakich ruch się odbywa": "Водитель транспортного средства обязан двигаться со скоростью, обеспечивающей контроль над транспортным средством, с учетом условий, в которых происходит движение.",
         "Odpowiedzi inne niż nr 3 są bez sensu": "Ответы, отличные от номера 3, бессмысленны.",
@@ -2918,7 +2921,6 @@
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
-        "Sprawność żarówek kierunkowskazów": "Функциональность ламп указателей поворота."
+        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?"
     }
 }
