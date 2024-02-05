@@ -1727,7 +1727,12 @@
             "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
             "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
             "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
-            "Tabliczka informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej": "Табличка информирует о месте, предназначенном для автомобиля, принадлежащего инвалиду с ограниченной подвижностью."
+            "Tabliczka informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej": "Табличка информирует о месте, предназначенном для автомобиля, принадлежащего инвалиду с ограниченной подвижностью.",
+            "Czy widoczny po prawej stronie znak pionowy informuje Cię o miejscu przejeżdżania rowerzystów w poprzek drogi?": "Видимый справа вертикальный знак информирует вас о месте пересечения дороги велосипедистами?",
+            "Znak oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi": "Знак обозначает место, предназначенное для пересечения дороги велосипедистами в поперечном направлении.",
+            "Czy widoczny znak pionowy informuje Cię, że zbliżasz się do restauracji i hotelu?": "Видимый вертикальный знак информирует тебя о том, что ты приближаешься к ресторану и отелю?",
+            "D-28 - Restauracja; D-28 - Restauracja - informuje o wskazanym na znaku obiekcie znajdującym się przy drodze": "D-28 - Ресторан; D-28 - Ресторан - информирует о объекте, указанном на знаке, находящемся у дороги.",
+            "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?"
         }
     },
     "not_approved": {
@@ -2131,11 +2136,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy widoczny po prawej stronie znak pionowy informuje Cię o miejscu przejeżdżania rowerzystów w poprzek drogi?": "Видимый справа вертикальный знак информирует вас о месте пересечения дороги велосипедистами?",
-        "Znak oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi": "Знак обозначает место, предназначенное для пересечения дороги велосипедистами в поперечном направлении.",
-        "Czy widoczny znak pionowy informuje Cię, że zbliżasz się do restauracji i hotelu?": "Видимый вертикальный знак информирует тебя о том, что ты приближаешься к ресторану и отелю?",
-        "D-28 - Restauracja; D-28 - Restauracja - informuje o wskazanym na znaku obiekcie znajdującym się przy drodze": "D-28 - Ресторан; D-28 - Ресторан - информирует о объекте, указанном на знаке, находящемся у дороги.",
-        "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?",
         "Zabrania się zawracania na drodze jednokierunkowej": "Запрещается разворачиваться на односторонней дороге.",
         "Czy po wjeździe na drogę oznaczoną tymi znakami pionowymi, masz prawo kontynuować jazdę z prędkością 30 km\/h?": "После въезда на дорогу, обозначенную этими вертикальными знаками, у вас есть право продолжать движение со скоростью 30 км\/ч?",
         "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, отмеченном этим информационным знаком, двигаться задним ходом ТС?",
