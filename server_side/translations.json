@@ -1558,7 +1558,11 @@
             "Czego możesz się spodziewać podczas gwałtownego hamowania w takich warunkach drogowych?": "Чего ты можешь ожидать во время резкого торможения в таких дорожных условиях?",
             "Zwiększonej przyczepności kół do jezdni": "Увеличенное сцепление колес с проезжей частью.",
             "Zwiększonej siły tarcia": "Увеличенное трение.",
-            "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью."
+            "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью.",
+            "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Jak należy postąpić, gdy na poszkodowanym pali się ubranie?": "Вы участник или свидетель дорожно-транспортного происшествия. Как следует поступить, если на пострадавшем горит одежда?",
+            "Poczekać na przyjazd Straży Pożarnej": "Ожидать приезда Пожарной Охраны.",
+            "Ugasić ogień gaśnicą": "Тушить огонь огнетушителем.",
+            "Przewrócić osobę na ziemię i ugasić ogień poprzez przykrycie np. kurtką, kocem, płaszczem": "Перевернуть человека на землю и потушить огонь, покрыв его, например, курткой, одеялом, плащом."
         }
     },
     "not_approved": {
