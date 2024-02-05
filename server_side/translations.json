@@ -1784,7 +1784,11 @@
             "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
             "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
             "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
-            "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы."
+            "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы.",
+            "Czy w tej sytuacji wolno Ci zaparkować pojazd po lewej stronie drogi?": "В этой ситуации вам разрешено парковать автомобиль на левой стороне дороги?",
+            "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
+            "Pas ruchu nie jest przeznaczony do skrętu w lewo": "Полоса движения не предназначена для поворота налево.",
+            "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке."
         }
     },
     "not_approved": {
@@ -1828,7 +1832,6 @@
         "Zjechać na pas ruchu dla kierunku przeciwnego": "Выезжайте на полосу движения в противоположном направлении.",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
-        "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке.",
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
@@ -1950,7 +1953,6 @@
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
-        "Czy w tej sytuacji wolno Ci zaparkować pojazd po lewej stronie drogi?": "В этой ситуации вам разрешено парковать автомобиль на левой стороне дороги?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
@@ -2180,9 +2182,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
-        "Pas ruchu nie jest przeznaczony do skrętu w lewo": "Полоса движения не предназначена для поворота налево.",
-        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных ТС?",
         "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
         "Świadczy o tym tabliczka umieszczona pod znakiem": "Это указывает табличка, расположенная под знаком.",
         "Czy jadąc samochodem osobowym wolno Ci skręcić w prawo za tym znakiem?": "Вы разрешено поворачивать направо за этим знаком, когда вы едете на легковом автомобиле?",
@@ -2958,6 +2957,7 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
+        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?"
     }
 }
