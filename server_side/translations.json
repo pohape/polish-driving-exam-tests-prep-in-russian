@@ -12,8 +12,7 @@
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?",
         "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, обозначенном этим информационным знаком, движение задним ходом транспортного средства?",
-        "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
-        "Czy w przedstawionej sytuacji dojechałeś do przejścia dla pieszych?": "Вы прибыли к пешеходному переходу в данной ситуации?"
+        "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1749,7 +1748,12 @@
             "Do zawrócenia trzeba zająć skrajny lewy pas": "Для разворота необходимо занять крайнюю левую полосу.",
             "Czy manewr zawracania na tym skrzyżowaniu możesz wykonać ze skrajnego prawego pasa ruchu?": "Можете ли вы выполнить маневр разворота на этом перекрестке с крайней правой полосы движения?",
             "Czy przed tą linią (złożoną z trójkątów) należy bezwzględnie się zatrzymać?": "Нужно ли обязательно остановиться перед этой линией (состоящей из треугольников)?",
-            "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки."
+            "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
+            "W tej sytuacji dojechałeś\/aś do progu zwalniającego": "В этой ситуации вы подъезжаете к искусственной дорожной неровности (лежачему полицейскому).",
+            "Czy w przedstawionej sytuacji dojechałeś do przejścia dla pieszych?": "В представленной ситуации вы подъехали к пешеходному переходу?",
+            "Czy w tej sytuacji podczas wyprzedzania masz prawo przejechać przez linię na środku jezdni?": "В данной ситуации во время обгона разрешается ли вам пересекать линию на середине проезжей части?",
+            "Zabrania się przejeżdżania przez linie podwójną ciągła": "Запрещается пересекать двойную сплошную линию.",
+            "Czy z tego pasa ruchu masz prawo jechać prosto przez skrzyżowanie?": "С этой полосы Вы имеете право ехать прямо через перекресток?"
         }
     },
     "not_approved": {
@@ -1963,7 +1967,6 @@
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
-        "Czy z tego pasa ruchu masz prawo jechać prosto przez skrzyżowanie?": "С этой полосы Вы имеете право ехать прямо через перекресток?",
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
@@ -2151,9 +2154,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "W tej sytuacji dojechałeś\/aś do progu zwalniającego": "В этой ситуации вы подъезжаете к искусственной дорожной неровности (лежачему полицейскому).",
-        "Czy w tej sytuacji podczas wyprzedzania masz prawo przejechać przez linię na środku jezdni?": "В данной ситуации во время обгона разрешается ли вам пересекать линию на середине проезжей части?",
-        "Zabrania się przejeżdżania przez linie podwójną ciągła": "Запрещается пересекать двойную сплошную линию.",
         "Zgodnie ze znakiem informacyjnym jadący z przeciwka musi ustąpić": "Согласно информационному знаку, встречный должен уступить.",
         "Czy w widocznej sytuacji masz prawo zmienić pas ruchu i pojechać prosto przez skrzyżowanie?": "Имеете ли вы право в данной видимой ситуации сменить полосу движения и двигаться прямо через перекресток?",
         "Ciągła linia uniemożliwia zmianę pasa": "Сплошная линия не позволяет изменить полосу движения.",
