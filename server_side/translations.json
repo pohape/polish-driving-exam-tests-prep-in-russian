@@ -1534,7 +1534,9 @@
             "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
             "Tak, ale tylko podczas opadów śniegu": "Да, но только во время снегопада.",
             "Sygnalizator kierunkowy umożliwia jedynie jazdę w lewo": "Светофор разрешает движение только налево.",
-            "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Должен ли водитель, движущийся по левой полосе движения тягачом с цистерной, уже в этом месте обеспечить возможность транспортному средству, движущемуся перед тобой, сменить полосу движения на соседнюю?"
+            "Czy kierujący jadący lewym pasem ruchu ciągnikiem siodłowym z cysterną ma obowiązek już w tym miejscu umożliwić pojazdowi jadącemu przed Tobą zmianę pasa ruchu na sąsiedni?": "Должен ли водитель, движущийся по левой полосе движения тягачом с цистерной, уже в этом месте обеспечить возможность транспортному средству, движущемуся перед тобой, сменить полосу движения на соседнюю?",
+            "Czy na drodze za tym znakiem masz prawo zaparkować samochód w dowolnym miejscu na jezdni, jeśli nie utrudni to ruchu innych pojazdów i pieszych?": "На дороге за этим знаком имеете ли вы право припарковать машину в любом месте на проезжей части, если это не мешает движению других транспортных средств и пешеходов?",
+            "Czy w tej sytuacji możesz przejechać przez przejazd kolejowy bez zatrzymania?": "Можете ли вы в этой ситуации проехать через железнодорожный переезд без остановки?"
         }
     },
     "not_approved": {
@@ -1821,7 +1823,6 @@
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
-        "Czy na drodze za tym znakiem masz prawo zaparkować samochód w dowolnym miejscu na jezdni, jeśli nie utrudni to ruchu innych pojazdów i pieszych?": "На дороге за этим знаком имеете ли вы право припарковать машину в любом месте на проезжей части, если это не мешает движению других транспортных средств и пешеходов?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
