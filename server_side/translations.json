@@ -8,7 +8,6 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации тебе сообщается о начале главной дороги с преимуществом проезда?",
         "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "У вас есть право использовать задние противотуманные фары, если туман ограничивает видимость на расстояние меньше 50 м?",
         "Sprawność bezpieczników": "Производительность предохранителей.",
         "Sprawność żarówek kierunkowskazów": "Функциональность ламп указателей поворота.",
@@ -1570,7 +1569,9 @@
             "Pieszy nie ma do dyspozycji przejścia dla pieszych": "Пешеход не имеет в своём распоряжении пешеходного перехода.",
             "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
             "Szczególna ostrożność obowiązuje kierującego przy przejeżdżaniu obok pojazdu do nauki jazdy lub egzaminowania oznaczonego literą \"L\" i jeździe za nim": "Особая осторожность обязательна для управляющего транспортным средством при проезде мимо автомобиля для обучения вождению или экзаменования, обозначенного буквой \"L\", и при движении за ним.",
-            "Zapory otwarte, sygnalizator wyłączony, pociąg nie nadjeżdża": "Шлагбаумы открыты, светофор выключен, поезд не приближается."
+            "Zapory otwarte, sygnalizator wyłączony, pociąg nie nadjeżdża": "Шлагбаумы открыты, светофор выключен, поезд не приближается.",
+            "Zabrania się postoju w miejscu utrudniającym wjazd lub wyjazd, w szczególności do i z bramy, garażu, parkingu lub wnęki postojowej": "Запрещается стоянка в месте, затрудняющем въезд или выезд, в частности к и из ворот, гаража, парковки или парковочной ниши.",
+            "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение."
         }
     },
     "not_approved": {
@@ -2718,7 +2719,6 @@
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie lub odcinek drogi za osobą kierującą ruchem": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся транспортным средствам, означает запрет въезда на перекресток или на участок дороги за человеком, регулирующим движение.",
         "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
@@ -2930,6 +2930,6 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Zabrania się postoju w miejscu utrudniającym wjazd lub wyjazd, w szczególności do i z bramy, garażu, parkingu lub wnęki postojowej": "Запрещается стоянка в месте, затрудняющем заезд или выезд, в частности к и из ворот, гаража, парковки или парковочной ниши."
+        "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации вас информируют о начале дороги с преимуществом проезда?"
     }
 }
