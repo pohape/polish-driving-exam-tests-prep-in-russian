@@ -1643,7 +1643,9 @@
             "Wezwanie policji": "Вызов полиции.",
             "Usunięcie pojazdu z miejsca zdarzenia, aby nie powodował zagrożenia lub tamowania ruchu": "Удаление транспортного средства с места происшествия, чтобы оно не создавало опасности или не препятствовало движению.",
             "Nie, tylko od godziny 5:00 do 23:00": "Нет, только с 5:00 до 23:00.",
-            "Nie, tylko od zmierzchu do świtu": "Нет, только с сумерек до рассвета."
+            "Nie, tylko od zmierzchu do świtu": "Нет, только с сумерек до рассвета.",
+            "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób": "Психологическое заключение, если выполняешь коммерческие перевозки людей.",
+            "Orzeczenie lekarskie": "Медицинское заключение."
         }
     },
     "not_approved": {
@@ -2851,8 +2853,6 @@
         "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
         "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
         "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
-        "Orzeczenie lekarskie": "Медицинское заключение.",
-        "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób": "Психологическое заключение, если выполняешь коммерческие перевозки людей.",
         "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
         "Zmniejszona prędkość": "Уменьшенная скорость.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
