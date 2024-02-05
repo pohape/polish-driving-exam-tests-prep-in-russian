@@ -6,7 +6,8 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
+        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
+        "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы сохранять дистанцию как минимум 1 метр от объездаемого объекта?"
     },
     "approved": {
         "pokwitowanie": {
@@ -1615,7 +1616,10 @@
             "Poddawanie pojazdu okresowym badaniom technicznym": "Периодическое техническое обследование автомобиля.",
             "Który z obowiązków dotyczy właściciela samochodu osobowego?": "Какое из обязанностей касается владельца автомобиля?",
             "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, когда транспортное средство работает на газе.",
-            "Czy w tej sytuacji masz obowiązek sygnalizować zamiar przekroczenia linii przerywanej?": "В этой ситуации ты обязан сигнализировать о намерении пересечь прерывистую линию?"
+            "Czy w tej sytuacji masz obowiązek sygnalizować zamiar przekroczenia linii przerywanej?": "В этой ситуации ты обязан сигнализировать о намерении пересечь прерывистую линию?",
+            "Czy masz prawo zatrzymać pojazd bezpośrednio za tym przejściem dla pieszych?": "Имеешь ли ты право остановить транспортное средство сразу за этим пешеходным переходом?",
+            "Czy w tej sytuacji masz prawo zmienić pas ruchu na prawy?": "В этой ситуации, имеешь ли ты право сменить полосу движения на правую?",
+            "Czy masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu?": "Обязаны ли вы сохранять безопасную дистанцию от минуемого встречного ТС?"
         }
     },
     "not_approved": {
