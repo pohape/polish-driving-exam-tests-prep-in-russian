@@ -4,10 +4,10 @@
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
-        "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
-        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
+        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -592,6 +592,11 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
+            "Tak, aby plecy nie przylegały do oparcia": "Так, чтобы спина не примыкала к спинке сиденья",
+            "Tak, aby uzyskać szerokie pole widzenia": "Так, чтобы добиться широкого поля зрения",
+            "W jakim przypadku należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy?": "В каком случае необходимо добиться положительного результата из проверочной проверки квалификации, чтобы получить обратно временно изъятое водительское удостоверение?",
+            "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy": "Если с момента временного изъятия водительского удостоверения прошло более одного года, необходимо добиться положительного результата на контрольной проверке квалификации, чтобы получить обратно временно изъятое водительское удостоверение.",
             "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С такой, чтобы поддерживать, как минимум 5 метров дистанции.",
             "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "С такой, чтобы поддерживать, как минимум 80 метров дистанции.",
             "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "С такой, чтобы поддерживать, как минимум 50 метров дистанции.",
@@ -789,7 +794,6 @@
             "Do sygnalizowania zmiany pasa ruchu": "Для сигнализирования изменения полосы движения.",
             "Do oświetlania drogi": "Для освещения дороги.",
             "Tak, aby oświetlały drogę asymetrycznie": "Так, чтобы освещали дорогу асимметрично.",
-            "Tak, aby symetrycznie oświetlały całą drogę": "Да, чтобы они симметрично освещали всю дорогу.",
             "Tak, aby oświetlały drogę na odległość do 30 m przed pojazdem": "Так, чтобы освещали дорогу на расстояние до 30 м перед транспортным средством.",
             "Bezpieczny, ale nie mniejszy niż 1 metr": "Безопасный, но не менее 1 метра.",
             "Bezpieczny, ale nie większy niż 1 metr": "Безопасный, но не больше чем 1 метр.",
@@ -951,7 +955,6 @@
             "Która z tych czynności zwiększy bezpieczeństwo jazdy, gdy kierujesz samochodem osobowym podczas mgły ograniczającej widoczność do 40 metrów?": "Какая из этих действий увеличит безопасность движения, когда вы управляете легковым автомобилем во время тумана, ограничивающего видимость до 40 метров?",
             "Tak, aby jego górna część znajdowała się na wysokości czubka głowy": "Так, чтобы его верхняя часть находилась на уровне макушки головы.",
             "Tak, aby jego górna część znajdowała się powyżej czubka głowy": "Так, чтобы его верхняя часть находилась выше макушки головы.",
-            "Tak, aby jego górna część znajdowała się na wysokości szyi": "Да, чтобы его верхняя часть находилась на уровне шеи.",
             "Zbyt nisko lub zbyt wysoko ustawiony fotel kierującego": "Слишком низко или слишком высоко установленное сиденье водителя.",
             "Okulary przeciwsłoneczne używane w słoneczny dzień": "Солнцезащитные очки, используемые в солнечный день.",
             "15 minut odpoczynku po dwugodzinnej jeździe": "15 минут отдыха после двухчасовой поездки.",
@@ -1329,7 +1332,6 @@
             "Zawsze, gdy widzisz pojazd poprzedzający": "Всегда, когда видишь впереди идущее ТС.",
             "Zawsze, gdy widzisz pojedynczego pieszego na jezdni": "Всегда, когда видишь одиночного пешехода на проезжей части.",
             "W jaki sposób powinno być ustawione lusterko zewnętrzne w samochodzie osobowym?": "Как должно быть настроено наружное зеркало в легковом автомобиле?",
-            "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Да, чтобы в зеркале была видна часть боковой стороны автомобиля, а также дорога позади автомобиля.",
             "Tak, aby w połowie lusterka była widoczna boczna szyba przednich drzwi": "Так, чтобы боковое стекло передних дверей было видно в середине зеркала.",
             "Jaki odstęp należy zachować wyprzedzając motocyklistę?": "Какую дистанцию необходимо соблюдать, обгоняя мотоциклиста?",
             "Bezpieczny, mniejszy niż 1 metr": "Безопасное расстояние, меньше чем 1 метр.",
@@ -1577,9 +1579,7 @@
             "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников.",
             "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
             "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
-            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
-            "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "Каким образом ты должен наблюдать за дорогой во время движения в городском трафике?",
-            "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью."
+            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования."
         }
     },
     "not_approved": {
@@ -1783,7 +1783,6 @@
         "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego": "В случае превышения штрафных баллов в количестве 24 и не предъявления справки в требуемый срок об окончании курса перевоспитания.",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
-        "W jakim przypadku należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy?": "В каком случае вы должны получить положительный результат от проверки квалификации, чтобы получить возвращенные водительские права?",
         "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
@@ -1919,7 +1918,6 @@
         "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
         "W dowolny sposób": "Любым способом.",
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
-        "Tak, aby nie zasłaniał świateł przyczepy": "Чтобы он не закрывал фары прицепа.",
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
@@ -2287,6 +2285,7 @@
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
         "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
         "Linia pojedyncza ciągła oznacza zakaz przejeżdżania przez linię": "Одинарная сплошная линия означает запрет пересекать линию.",
+        "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью.",
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
@@ -2394,7 +2393,6 @@
         "Dynamiczna pozycja za kierownicą umożliwia zróżnicowane obserwowanie drogi w zależności od panujących warunków": "Динамичное положение за рулём позволяет разнообразно наблюдать за дорогой в зависимости от господствующих условий.",
         "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
         "Skrajne prawe pasy kończą się": "Крайние правые полосы заканчиваются.",
-        "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy": "Если с момента изъятия водительских прав прошло более 1 года, необходимо успешно пройти контрольную проверку квалификации, чтобы получить обратно изъятые водительские права.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik jest w ruchu": "Категорически запрещено водителю отходить от транспортного средства, когда двигатель запущен и работает.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
@@ -2930,8 +2928,6 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле зрения."
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
     }
 }
