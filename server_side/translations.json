@@ -12,7 +12,9 @@
         "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "У вас есть право использовать задние противотуманные фары, если туман ограничивает видимость на расстояние меньше 50 м?",
         "Sprawność bezpieczników": "Производительность предохранителей.",
         "Sprawność żarówek kierunkowskazów": "Функциональность ламп указателей поворота.",
-        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?"
+        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?",
+        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1551,7 +1553,12 @@
             "Jaki jest cel stosowania systemu ABS w samochodzie osobowym?": "Какова цель использования системы ABS в легковом автомобиле?",
             "Zapobieganie przed wpadnięciem pojazdu w poślizg - niezależnie od jego prędkości i warunków na drodze": "Предотвращение заноса транспортного средства — независимо от его скорости и условий на дороге.",
             "Ułatwianie pokonywania zakrętów": "Упрощение прохождения поворотов.",
-            "Zapobieganie utracie stabilności i zapewnienie kierowalności pojazdu podczas jego hamowania": "Предотвращение потери устойчивости и обеспечение управляемости транспортного средства во время его торможения."
+            "Zapobieganie utracie stabilności i zapewnienie kierowalności pojazdu podczas jego hamowania": "Предотвращение потери устойчивости и обеспечение управляемости транспортного средства во время его торможения.",
+            "Tak, ale tylko w obszarze niezabudowanym": "Да, но только вне населённого пункта.",
+            "Czego możesz się spodziewać podczas gwałtownego hamowania w takich warunkach drogowych?": "Чего ты можешь ожидать во время резкого торможения в таких дорожных условиях?",
+            "Zwiększonej przyczepności kół do jezdni": "Увеличенное сцепление колес с проезжей частью.",
+            "Zwiększonej siły tarcia": "Увеличенное трение.",
+            "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью."
         }
     },
     "not_approved": {
@@ -2253,10 +2260,6 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-        "Zwiększonej siły tarcia": "Увеличенное трение.",
-        "Zmniejszonej przyczepności kół do jezdni": "Уменьшенное сцепление колес с проезжей частью.",
-        "Zwiększonej przyczepności kół do jezdni": "Увеличенное сцепление колес с проезжей частью.",
-        "Czego możesz się spodziewać podczas gwałtownego hamowania w takich warunkach drogowych?": "Чего ты можешь ожидать во время резкого торможения в таких дорожных условиях?",
         "Powinien być wyposażony w pasy i fotelik bezpieczeństwa": "Он должен быть оснащён ремнями и детским автокреслом.",
         "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
         "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности.",
@@ -2911,14 +2914,11 @@
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
         "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
         "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
-        "Tak, ale tylko w obszarze niezabudowanym": "Да, но только вне населённого пункта.",
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
-        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?"
