@@ -13,8 +13,7 @@
         "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?",
         "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
-        "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге.",
-        "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можешь ли ты, едучи на автомобиле, повернуть направо на так обозначенную дорогу?"
+        "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -843,7 +842,6 @@
             "Temperatura i wilgotność powietrza": "Температура и влажность воздуха.",
             "Które wymienione czynniki zależne od kierującego pojazdem mają istotny wpływ na jego ostrość widzenia?": "Какие из перечисленных факторов, зависящих от водителя транспортного средства, имеют существенное влияние на его остроту зрения?",
             "Nie ma wpływu": "Нет влияния.",
-            "Z jaką prędkością wolno poruszać się tak oznakowaną drogą jednojezdniową kierując samochodem osobowym?": "С какой скоростью разрешается двигаться по такой обозначенной дороге с одной проезжей частью, управляя легковым автомобилем?",
             "Odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Дистанция, необходимая для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
             "Nie mniejszy niż 10 metrów": "Не меньше чем 10 метров.",
             "Nie większy niż 10 metrów": "Не более чем 10 метров.",
