@@ -1859,7 +1859,8 @@
             "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешается ли на участке после этого информационного знака двигаться задним ходом?",
             "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Имеешь ли ты право продолжить движение прямо, двигаясь по этой полосе движения?",
             "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, находиться за видимым знаком, оставаясь не обозначенными предупредительными знаками?",
-            "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает тебя о месте выезда преимущественных транспортных средств?"
+            "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает тебя о месте выезда преимущественных транспортных средств?",
+            "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка сжиженного углеводородного газа не является грузом на транспортном средстве."
         }
     },
     "not_approved": {
