@@ -241,7 +241,7 @@
             "Kierujący pojazdem w tunelu, podczas zatrzymania wynikającego z warunków lub przepisów ruchu drogowego, jest obowiązany zachować odstęp od poprzedzającego pojazdu nie mniejszy niż 5 m": "Водитель транспортного средства в туннеле, при остановке, вызванной дорожными условиями или правилами дорожного движения, обязан сохранять дистанцию от впереди идущего ТС не меньше чем 5 метров."
         },
         "ładunek": {
-            "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка LPG не является грузом на транспортном средстве.",
+            "Instalacja LPG газа nie jest ładunkiem na pojeździe": "Установка сжиженного газа не является грузом на транспортном средстве.",
             "Czynniki bezpieczeństwa odnoszące się do pojazdu, ładunku i przewożonych osób": "Факторы безопасности, относящиеся к транспортному средству, грузу и перевозимым людям.",
             "Umieszczę ładunek luźno na przyczepie": "Я положу груз свободно на прицеп.",
             "Nie zabezpieczę ładunku przed przemieszczaniem, jeżeli będę jechał wolno": "Я не буду защищать груз от смещения, я ведь буду двигаться медленно.",
@@ -625,6 +625,7 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете автомобилем с установкой сжиженного газа. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
             "Potwierdzenie opłaty ubezpieczenia AC": "Подтверждение оплаты страховки КАСКО.",
             "Zawarcie umowy ubezpieczenia Autocasco": "Заключение договора страхования КАСКО.",
             "Zawarcie umowy ubezpieczenia NW": "Заключение договора страхования от несчастных случаев.",
@@ -2957,7 +2958,6 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
-        "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете автомобилем с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
     }
 }
