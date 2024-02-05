@@ -597,6 +597,7 @@
             "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С такой, чтобы поддерживать, как минимум 5 метров дистанции.",
             "Z taką, aby utrzymywć, co najmniej 80 m odstępu": "С такой, чтобы поддерживать, как минимум 80 метров дистанции.",
             "Z taką, aby utrzymywać, co najmniej 50 m odstępu": "С такой, чтобы поддерживать, как минимум 50 метров дистанции.",
+            "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допускается ли буксировка с помощью жёсткой сцепки транспортного средства с неисправной рулевой системой?",
             "Czy w tej sytuacji możesz wyprzedzać?": "Можешь ли ты в этой ситуации обгонять?",
             "Używanie pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem jest:": "Использование транспортного средства таким образом, что это приводит к избыточным выбросам выхлопных газов в окружающую среду или избыточным шумом:",
             "Nie podejmować działań, gdyż pomocy musi udzielić sprawca wypadku": "Не предпринимать никаких действий, поскольку помощь должен оказать виновник аварии.",
@@ -2931,7 +2932,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировка с помощью жёсткой сцепки транспортного средства с неисправной рулевой системой?"
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
     }
 }
