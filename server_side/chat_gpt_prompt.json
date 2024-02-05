@@ -282,6 +282,10 @@
             "w przypadku przekroczenia punktów karnych: в случае превышения штрафных пунктов",
             "punktów za naruszenie: пунктов за нарушение",
             "punkt odniesienia: ориентир"
+        ],
+        "ubezpiecze": [
+            "ubezpieczenie OC: ОСАГО",
+            "ubezpieczenie AC: КАСКО"
         ]
     },
     "dictionary_others": {
