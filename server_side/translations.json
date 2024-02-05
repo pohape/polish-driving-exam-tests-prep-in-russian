@@ -7,9 +7,7 @@
         "Tak, aby plecy nie przylegały do oparcia": "Да, чтобы спина не прилегала к спинке сиденья.",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
-        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения."
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1579,7 +1577,9 @@
             "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников.",
             "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
             "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
-            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования."
+            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
+            "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "Каким образом ты должен наблюдать за дорогой во время движения в городском трафике?",
+            "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью."
         }
     },
     "not_approved": {
@@ -2287,7 +2287,6 @@
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
         "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
         "Linia pojedyncza ciągła oznacza zakaz przejeżdżania przez linię": "Одинарная сплошная линия означает запрет пересекать линию.",
-        "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью.",
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
@@ -2932,6 +2931,7 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы обеспечить широкое поле зрения."
     }
 }
