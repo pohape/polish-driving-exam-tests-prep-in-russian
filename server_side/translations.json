@@ -1811,13 +1811,18 @@
             "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
             "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
             "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
-            "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?"
+            "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?",
+            "Czy w tej sytuacji wjeżdżasz na obszar zabudowany?": "Вы въезжаете на территорию населенного пункта в этой ситуации?",
+            "Wyjeżdżam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
+            "Czy widoczny znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach?": "Видимый знак указывает полосы движения, предназначенные для движения в указанных направлениях?",
+            "Znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach": "Знак указывает полосы движения, предназначенные для движения в указанных направлениях.",
+            "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
+            "Zawracanie uniemożliwia oznakowanie poziome": "Разворот запрещён горизонтальной разметкой."
         }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
         "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdom napędzanym wodorem?": "Разрешает ли этот знак Въезд в зону чистого транспорта водородным транспортным средствам?",
-        "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
         "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
@@ -2203,11 +2208,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy w tej sytuacji wjeżdżasz na obszar zabudowany?": "Вы въезжаете на территорию населенного пункта в этой ситуации?",
-        "Wyjeżdżam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
-        "Czy widoczny znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach?": "Видимый знак указывает полосы движения, предназначенные для движения в указанных направлениях?",
-        "Znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach": "Знак указывает полосы движения, предназначенные для движения в указанных направлениях.",
-        "Zawracanie uniemożliwia oznakowanie poziome": "Разворот запрещён горизонтальной разметкой.",
         "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?",
         "Skręt w lewo nie jest w żaden sposób ograniczony": "Поворот налево никак не ограничен.",
         "Świadczą o tym znak z tabliczką": "Они свидетельствуют о том знак с табличкой.",
