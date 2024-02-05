@@ -12,7 +12,8 @@
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?",
         "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, обозначенном этим информационным знаком, движение задним ходом транспортного средства?",
-        "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?"
+        "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
+        "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1766,7 +1767,10 @@
             "Czy w tej sytuacji widoczny bezpośrednio przed tobą znak poziomy wyznacza miejsce zatrzymania pojazdu w związku ze znakiem pionowym B-20 „STOP”?": "В данной ситуации видимая прямо перед вами горизонтальная разметка определяет место остановки транспортного средства в связи с вертикальным знаком B-20 \"СТОП\"?",
             "Jest to linia bezwarunkowego zatrzymania": "Это линия безусловной остановки.",
             "Linia wyznacza miejsce zatrzymania": "Линия определяет место остановки.",
-            "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują": "Горизонтальные знаки на проезжей части в виде стрелок обязывают движение только в указанном направлении с полос движения, на которых они находятся."
+            "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują": "Горизонтальные знаки на проезжей части в виде стрелок обязывают движение только в указанном направлении с полос движения, на которых они находятся.",
+            "Czy widoczne znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują?": "Обязывают ли видимые горизонтальные знаки в виде стрелок на проезжей части двигаться только в указанном направлении с полос движения, на которых они находятся?",
+            "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимая горизонтальная разметка разделяет полосы движения, предназначенные для транспорта, движущегося в одном направлении?",
+            "Czy z tego pasa ruchu dozwolona jest jazda tylko prosto przez skrzyżowanie?": "С этой полосы движения разрешено движение только прямо через перекресток?"
         }
     },
     "not_approved": {
@@ -2166,9 +2170,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимая горизонтальная разметка разделяет полосы движения, предназначенные для транспорта, движущегося в одном направлении?",
-        "Czy z tego pasa ruchu dozwolona jest jazda tylko prosto przez skrzyżowanie?": "С этой полосы движения разрешено движение только прямо через перекресток?",
-        "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "Обязаны ли вы соблюдать дорожные знаки, установленные на внутренней дороге, обозначенной соответствующим дорожным знаком?",
         "Czy zbliżasz się do przejazdu dla rowerzystów i przejścia dla pieszych?": "Вы приближаетесь к переезду для велосипедистов и переходу для пешеходов?",
         "Znak informacyjny informuje o przejeździe dla rowerzystów i przejściu dla pieszych": "Информационный знак информирует о велосипедном переезде и пешеходном переходе.",
         "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
@@ -2956,7 +2957,6 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
-        "Czy widoczne znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują?": "Обязывают ли видимые горизонтальные знаки в виде стрелок на проезжей части двигаться только в указанном направлении с полос движения, на которых они находятся?"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
     }
 }
