@@ -1679,7 +1679,12 @@
             "Czy na tej drodze możesz spodziewać się rowerzystów nadjeżdżających z przeciwka?": "Можете ли вы ожидать на этой дороге приближающихся встречных велосипедистов?",
             "Pod znakiem Droga Jednokierunkowa umieszczono tabliczkę wyłączającą rowerzystów": "Под знаком \"Односторонняя дорога\" установлена табличка, исключающая велосипедистов.",
             "Czy w tej sytuacji, gdy zamierzasz jechać do Gdańska, należy zmienić pas ruchu na lewy?": "В этой ситуации, когда вы собираетесь ехать в Гданьск, нужно ли перестраиваться на левую полосу?",
-            "Znaki kierunku i miejscowości są umieszczone nad pasami ruchu, których dotyczą": "Знаки направления и местности установлены над полосами движения, которых они касаются."
+            "Znaki kierunku i miejscowości są umieszczone nad pasami ruchu, których dotyczą": "Знаки направления и местности установлены над полосами движения, которых они касаются.",
+            "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
+            "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
+            "Prawy pas przeznaczony jest tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку пассажиров на регулярных маршрутах.",
+            "Ten znak to koniec obszaru zabudowanego": "Этот знак означает конец населенного пункта.",
+            "Czy w odległości 1000 metrów od tego znaku rozpocznie się droga ekspresowa?": "Начнётся ли \"droga ekspresowa\" на расстоянии 1000 метров от этого знака?"
         }
     },
     "not_approved": {
@@ -1701,11 +1706,9 @@
         "Czy ten znak poziomy wyznacza pas postojowy?": "Обозначает ли этот горизонтальный знак парковочную полосу?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
-        "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
         "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
         "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
-        "Znak oznacza początek pasa ruchu po stronie wskazanej na znaku": "Знак обозначает начало полосы движения со стороны, указанной на знаке.",
         "Sygnał ten oznacza, że za chwilę zapali się sygnał czerwony": "Этот сигнал означает, что через некоторое время загорится красный сигнал.",
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
@@ -2226,9 +2229,6 @@
         "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6.",
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
-        "Prawy pas przeznaczony jest tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку пассажиров на регулярных маршрутах.",
-        "Ten znak to koniec obszaru zabudowanego": "Этот знак означает конец населенного пункта.",
-        "Czy w odległości 1000 metrów od tego znaku rozpocznie się droga ekspresowa?": "Начнётся ли \"droga ekspresowa\" на расстоянии 1000 метров от этого знака?",
         "Czy ten znak oznacza wjazd na obszar zabudowany?": "Этот знак означает въезд в населенный пункт?",
         "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
         "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
