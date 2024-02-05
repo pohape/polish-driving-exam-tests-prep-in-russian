@@ -5,7 +5,8 @@
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
-        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
+        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
     },
     "approved": {
         "pole widzenia": {
@@ -1601,7 +1602,8 @@
             "W przypadku przekroczenia przez kierującego 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny": "В случае превышения водителем 24 штрафных пунктов за нарушение правил дорожного движения в течение 5 лет после выдачи направления на переобучающий курс",
             "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy": "В случае превышения 24 штрафных пунктов и непредоставления в установленный срок свидетельства о прохождении переобучающего курса староста выносит административное решение о временном изъятии водительского удостоверения.",
             "Na który z wymienionych czynników należy zwrócić uwagę podczas wykonywania manewru wyprzedzania?": "На какой из перечисленных факторов следует обратить внимание во время выполнения маневра обгона?",
-            "Na właściwą temperaturę we wnętrzu pojazdu": "На правильную температуру внутри транспортного средства."
+            "Na właściwą temperaturę we wnętrzu pojazdu": "На правильную температуру внутри транспортного средства.",
+            "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность."
         }
     },
     "not_approved": {
@@ -1888,7 +1890,6 @@
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
-        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческих жизней, полицейский не остановит водительские права.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
@@ -2892,7 +2893,6 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
         "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
