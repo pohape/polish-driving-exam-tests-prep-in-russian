@@ -9,7 +9,8 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации тебе сообщается о начале главной дороги с преимуществом проезда?",
-        "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "У вас есть право использовать задние противотуманные фары, если туман ограничивает видимость на расстояние меньше 50 м?"
+        "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "У вас есть право использовать задние противотуманные фары, если туман ограничивает видимость на расстояние меньше 50 м?",
+        "Sprawność bezpieczników": "Производительность предохранителей."
     },
     "approved": {
         "przeciwwskazania": {
@@ -1540,7 +1541,11 @@
             "Czy na drodze za tym znakiem masz prawo zaparkować samochód w dowolnym miejscu na jezdni, jeśli nie utrudni to ruchu innych pojazdów i pieszych?": "На дороге за этим знаком имеете ли вы право припарковать машину в любом месте на проезжей части, если это не мешает движению других транспортных средств и пешеходов?",
             "Czy w tej sytuacji możesz przejechać przez przejazd kolejowy bez zatrzymania?": "Можете ли вы в этой ситуации проехать через железнодорожный переезд без остановки?",
             "Czy dozwolony jest postój pojazdu na wjeździe do bramy?": "Разрешена ли стоянка транспортного средства на въезде в ворота?",
-            "Czy w tej sytuacji zamierzając skręcić w prawo masz prawo wjechać na skrzyżowanie?": "В этой ситуации, намереваясь повернуть направо, имеешь ли ты право въехать на перекресток?"
+            "Czy w tej sytuacji zamierzając skręcić w prawo masz prawo wjechać na skrzyżowanie?": "В этой ситуации, намереваясь повернуть направо, имеешь ли ты право въехать на перекресток?",
+            "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd i umożliwić pieszemu przejście na drugą stronę drogi?": "В этой ситуации вы обязаны остановить транспортное средство и предоставить пешеходу возможность перейти на другую сторону дороги?",
+            "Co należy sprawdzić, gdy lampka kontrolna kierunkowskazów zaczęła migać dużo szybciej?": "Что необходимо проверить, когда индикатор поворотников начал мигать намного быстрее?",
+            "Napięcie akumulatora": "Напряжение аккумулятора."
         }
     },
     "not_approved": {
@@ -2195,9 +2200,6 @@
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
         "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?",
-        "Sprawność bezpieczników": "Производительность предохранителей.",
-        "Napięcie akumulatora": "Напряжение аккумулятора.",
-        "Co należy sprawdzić, gdy lampka kontrolna kierunkowskazów zaczęła migać dużo szybciej?": "Что необходимо проверить, когда индикатор поворотников начал мигать намного быстрее?",
         "Zmniejszenie odstępu od poprzedzającego pojazdu": "Уменьшение расстояния от впереди идущего ТС.",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
         "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов.",
@@ -2599,7 +2601,6 @@
         "Na filmie jest widoczny znak F-6: znak uprzedzający o zakazie, umieszczany przed skrzyżowaniem": "На видео виден знак F-6: предупреждающий знак о запрете, устанавливаемый перед перекрестком.",
         "Znak D-5: pierwszeństwo na zwężonym odcinku drogi": "Знак D-5: преимущество на суженном участке дороги.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
-        "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu, gdy zamierzasz jechać na wprost?": "В этой ситуации разрешено ли тебе сменить занимаемую полосу движения, если ты собираешься ехать прямо?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
         "Linia dzieląca pasy ruchu umożliwia jej przekraczanie w kierunku prawej krawędzi": "Линия, разделяющая полосы движения, позволяет её пересекать в направлении правого края.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
@@ -2917,6 +2918,7 @@
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?"
+        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
+        "Sprawność żarówek kierunkowskazów": "Функциональность ламп указателей поворота."
     }
 }
