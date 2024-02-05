@@ -6,7 +6,8 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
+        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
+        "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, едучи прямо, тебе разрешается двигаться непосредственно у правого края проезжей части?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1694,7 +1695,10 @@
             "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси.",
             "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
             "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
-            "Czy oznakowanie wskazuje, że droga, którą jedziesz jest podporządkowana?": "Указывает ли дорожная разметка на то, что дорога, по которой вы едете, является второстепенной?"
+            "Czy oznakowanie wskazuje, że droga, którą jedziesz jest podporządkowana?": "Указывает ли дорожная разметка на то, что дорога, по которой вы едете, является второстепенной?",
+            "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
+            "Znak umieszczony po prawej stronie jezdni informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady": "Знак, расположенный с правой стороны проезжей части, информирует о приближении к началу полосы, ведущей к выезду с автострады.",
+            "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка."
         }
     },
     "not_approved": {
@@ -2099,8 +2103,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В этой ситуации, двигаясь прямо, можно ли вам двигаться прямо по правому краю проезжей части?",
-        "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка.",
         "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли за этим информационным знаком только уполномоченные транспортные средства двигаться по правой полосе движения?",
         "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
         "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение.",
@@ -2234,8 +2236,6 @@
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
         "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
-        "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
-        "Znak umieszczony po prawej stronie jezdni informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady": "Знак, расположенный с правой стороны проезжей части, информирует о приближении к началу полосы, ведущей к выезду с автострады.",
         "Czy w tej sytuacji masz prawo powoli kontynuować jazdę, uważając na pieszych?": "В данной ситуации имеешь ли ты право медленно продолжить движение, будучи внимательным к пешеходам?",
         "Czy w tej sytuacji masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "В этой ситуации имеете ли вы право остановить легковой автомобиль колесами одной стороны на тротуаре?",
         "Czy uczestnicząc w wypadku, w którym są ranni, masz obowiązek usunąć swój pojazd z miejsca zdarzenia, aby nie utrudniał ruchu?": "Обязаны ли вы убрать свой автомобиль с места происшествия, где есть пострадавшие, чтобы не мешать движению?",
