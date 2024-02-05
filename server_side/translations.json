@@ -7,7 +7,8 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы сохранять дистанцию как минимум 1 метр от объездаемого объекта?"
+        "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы сохранять дистанцию как минимум 1 метр от объездаемого объекта?",
+        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?"
     },
     "approved": {
         "pokwitowanie": {
@@ -1623,7 +1624,11 @@
             "Czy z zajmowanego pasa ruchu wolno Ci skręcić w lewo?": "Можешь ли ты повернуть налево с занятой полосы движения?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się przed przejazdem kolejowym?": "В данной ситуации ты обязан остановиться перед железнодорожным переездом?",
             "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
-            "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?"
+            "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?",
+            "Czy w tym miejscu możesz skręcić w lewo, na parking?": "В этом месте вы можете повернуть налево, на парковку?",
+            "Czy masz prawo cofać pojazdem na drodze ekspresowej?": "Вы имеете право отъезжать задним ходом автомобилем на \"drodze ekspresowej\"?",
+            "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie?": "Разрешена ли дальнейшая поездка через перекресток в представленной ситуации?",
+            "Czy w przedstawionej sytuacji poruszasz się drogą jednokierunkową?": "Движешься ли ты в данной ситуации по дороге с односторонним движением?"
         }
     },
     "not_approved": {
@@ -1732,7 +1737,6 @@
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию.",
         "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
-        "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie?": "Разрешена ли дальнейшая поездка через перекресток в представленной ситуации?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
@@ -1822,7 +1826,6 @@
         "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
-        "Czy w tym miejscu możesz skręcić w lewo, na parking?": "В этом месте вы можете повернуть налево, на парковку?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Niesprawny rozrusznik": "Неисправный стартер.",
@@ -2928,7 +2931,6 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
     }
 }
