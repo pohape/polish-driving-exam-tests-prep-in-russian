@@ -16,7 +16,8 @@
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
         "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?",
         "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?",
-        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства."
+        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
+        "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1843,7 +1844,12 @@
             "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
             "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
             "Czy za tym znakiem wolno Ci zwiększyć prędkość do 130 km\/h?": "За этим знаком вам разрешено увеличивать скорость до 130 км\/ч?",
-            "Na drogach ekspresowych nie można tak szybko jeździć": "На \"drogach ekspresowych\" нельзя ездить так быстро."
+            "Na drogach ekspresowych nie można tak szybko jeździć": "На \"drogach ekspresowych\" нельзя ездить так быстро.",
+            "Czy ten znak drogowy uprzedza o początku odcinka drogi, na którym średnia prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Этот дорожный знак предупреждает о начале участка дороги, на котором средняя скорость движения контролируется и регистрируется стационарным устройством регистрации?",
+            "Czy ten znak oznacza wjazd do strefy czystego transportu?": "Этот знак обозначает въезд в зону чистого транспорта?",
+            "Znak D-54: strefa czystego transportu": "Знак D-54: зона чистого транспорта.",
+            "Czy ten znak zezwala na wjazd do strefy czystego transportu tylko pojazdom elektrycznym?": "Разрешает ли этот знак въезд в зону чистого транспорта только электрическим транспортным средствам?",
+            "Mogą również wjeżdżać pojazdy zasilane między innymi CNG, wodorem i LNG": "Также могут въезжать транспортные средства, заправляемые, в том числе, сжатым природным газом (CNG), водородом и сжиженным природным газом (LNG)."
         }
     },
     "not_approved": {
@@ -2230,9 +2236,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге.",
-        "Czy ten znak oznacza wjazd do strefy czystego transportu?": "Этот знак обозначает въезд в зону чистого транспорта?",
-        "Znak D-54: strefa czystego transportu": "Знак D-54: зона чистого транспорта.",
         "Czy ten znak oznacza, że przejeżdżasz przed kierującym zbliżającym się z kierunku przeciwnego?": "Значит ли этот знак, что вы проезжаете перед водителем, приближающимся с противоположного направления?",
         "Czy ten znak drogowy uprzedza o miejscu, w którym prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Указывает ли этот дорожный знак на место, где скорость движения контролируется и регистрируется стационарным устройством записи?",
         "Znak drogowy uprzedza o odcinkowym pomiarze prędkości": "Знак дорожный предупреждает о зоне измерения скорости на участке.",
@@ -2664,8 +2667,6 @@
         "Skrzyżowania lub przejścia dla pieszych z kierujących ruchem, miejsca przystanków komunikacji publicznej": "Перекрестки или пешеходные переходы с регулировщиком, места остановок общественного транспорта.",
         "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
-        "Czy ten znak zezwala na wjazd do strefy czystego transportu tylko pojazdom elektrycznym?": "Разрешает ли этот знак въезд в зону чистого транспорта только электрическим транспортным средствам?",
-        "Mogą również wjeżdżać pojazdy zasilane między innymi CNG, wodorem i LNG": "Также могут въезжать транспортные средства, заправляемые, в том числе, сжатым природным газом (CNG), водородом и сжиженным природным газом (LNG).",
         "Pojazdy napędzane wodorem nie zanieczyszczają środowiska w znaczącym stopniu": "Транспортные средства на водородном топливе не загрязняют окружающую среду в значительной степени.",
         "Czy najbliższy znak informuje kierującego pojazdem, że wjazd na drogę znajdującą się po prawej stronie jest zabroniony dla niektórych pojazdów?": "Информирует ли ближайший знак водителя транспортного средства о том, что въезд на дорогу, находящуюся справа, запрещен для некоторых транспортных средств?",
         "Na filmie jest widoczny znak F-6: znak uprzedzający o zakazie, umieszczany przed skrzyżowaniem": "На видео виден знак F-6: предупреждающий знак о запрете, устанавливаемый перед перекрестком.",
@@ -2870,7 +2871,6 @@
         "Zabrania się holowania pojazdu na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych": "Запрещается буксировка транспортного средства на автостраде, за исключением буксировки специально предназначенными для этого транспортными средствами до ближайшего выезда или места обслуживания путешественников.",
         "Czy wjeżdżając na widoczne skrzyżowanie masz obowiązek - w razie potrzeby - ustąpić pierwszeństwa uczestnikom ruchu nadjeżdżającym z lewej strony?": "При въезде на видимый перекресток обязаны ли вы - в случае необходимости - уступить дорогу участникам движения, приближающимся слева?",
         "Czy zawsze masz obowiązek zachowywać szczególną ostrożność, gdy przejeżdżasz obok autobusu szkolnego?": "Вы всегда обязаны соблюдать особую осторожность, когда проезжаете мимо школьного автобуса?",
-        "Czy ten znak drogowy uprzedza o początku odcinka drogi, na którym średnia prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Этот дорожный знак предупреждает о начале участка дороги, на котором средняя скорость движения контролируется и регистрируется стационарным устройством регистрации?",
         "Czy w tej sytuacji należy zrezygnować z manewru wyprzedzania?": "В этой ситуации следует отказаться от маневра обгона?",
         "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
         "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
