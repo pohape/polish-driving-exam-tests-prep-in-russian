@@ -1775,7 +1775,10 @@
             "Znak informacyjny informuje o przejeździe dla rowerzystów": "Информационный знак сообщает о проезде для велосипедистов.",
             "Czy zbliżasz się do przejazdu dla rowerzystów i przejścia dla pieszych?": "Вы подходите к переезду для велосипедистов и пешеходному переходу?",
             "Znak informacyjny informuje o przejeździe dla rowerzystów i przejściu dla pieszych": "Информационный знак информирует о велосипедном переезде и пешеходном переходе.",
-            "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?"
+            "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
+            "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "В видимой ситуации разрешают ли горизонтальные знаки на проезжей части менять полосу движения на левую?",
+            "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
+            "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "Имеешь ли ты право повернуть налево на перекрестке с этой полосы движения после изменения сигнала на зеленый?"
         }
     },
     "not_approved": {
@@ -1978,7 +1981,6 @@
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
         "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
-        "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "С этой полосы, когда вы меняете сигнал на зеленый, Вы имеете право повернуть налево на перекрестке?",
         "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
         "Który z wymienionych czynników, może spowodować szybsze zużywanie się opon na kołach przednich w samochodzie osobowym?": "Какой из перечисленных факторов может привести к более быстрому износу шин на передних колесах в легковом автомобиле?",
         "Niewielkie obciążenie przedniej osi pojazdu.Небольшая нагрузка на переднюю ось автомобиля": "Небольшая нагрузка на переднюю ось автомобиля.Небольшая нагрузка на переднюю ось автомобиля.",
@@ -2044,7 +2046,6 @@
         "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
         "Czy w tej sytuacji masz prawo przejechać na wprost przez skrzyżowanie?": "В этой ситуации вы имеете право проехать прямо через перекресток?",
         "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?",
-        "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "В видимой ситуации разрешают ли горизонтальные знаки на проезжей части менять полосу движения на левую?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
         "Czy w tej sytuacji, przejeżdżając przez białą przerywaną linię, zmieniasz pas ruchu?": "В этой ситуации, пересекая белую пунктирную линию, вы меняете полосу движения?",
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
@@ -2173,7 +2174,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
         "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
         "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
         "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
