@@ -1566,7 +1566,10 @@
             "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
             "Zmniejszyć prędkość": "Снизить скорость.",
             "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости.",
-            "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав."
+            "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав.",
+            "Pieszy nie ma do dyspozycji przejścia dla pieszych": "Пешеход не имеет в своём распоряжении пешеходного перехода.",
+            "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
+            "Szczególna ostrożność obowiązuje kierującego przy przejeżdżaniu obok pojazdu do nauki jazdy lub egzaminowania oznaczonego literą \"L\" i jeździe za nim": "Особая осторожность обязательна для управляющего транспортным средством при проезде мимо автомобиля для обучения вождению или экзаменования, обозначенного буквой \"L\", и при движении за ним."
         }
     },
     "not_approved": {
@@ -2925,8 +2928,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Pieszy nie ma do dyspozycji przejścia dla pieszych": "Пешеход не имеет в распоряжении перехода для пешеходов."
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
     }
 }
