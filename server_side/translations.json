@@ -1562,7 +1562,10 @@
             "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Jak należy postąpić, gdy na poszkodowanym pali się ubranie?": "Вы участник или свидетель дорожно-транспортного происшествия. Как следует поступить, если на пострадавшем горит одежда?",
             "Poczekać na przyjazd Straży Pożarnej": "Ожидать приезда Пожарной Охраны.",
             "Ugasić ogień gaśnicą": "Тушить огонь огнетушителем.",
-            "Przewrócić osobę na ziemię i ugasić ogień poprzez przykrycie np. kurtką, kocem, płaszczem": "Перевернуть человека на землю и потушить огонь, покрыв его, например, курткой, одеялом, плащом."
+            "Przewrócić osobę na ziemię i ugasić ogień poprzez przykrycie np. kurtką, kocem, płaszczem": "Перевернуть человека на землю и потушить огонь, покрыв его, например, курткой, одеялом, плащом.",
+            "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
+            "Zmniejszyć prędkość": "Снизить скорость.",
+            "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости."
         }
     },
     "not_approved": {
@@ -1879,7 +1882,6 @@
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
-        "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
         "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
@@ -2166,9 +2168,7 @@
         "Czy w przedstawionej sytuacji kierujący jest obowiązany zatrzymać pojazd przed jezdnią przy linii złożonej z trójkątów?": "Обязан ли в данной ситуации водитель остановить транспортное средство перед проезжей частью у линии, состоящей из треугольников?",
         "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
         "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?",
-        "Zmniejszyć prędkość": "Снизить скорость.",
         "Zamierzasz zawrócić na tym skrzyżowaniu. Czy zajmujesz właściwy pas ruchu?": "Вы собираетесь развернуться на этом перекрестке. Вы занимаете правильную полосу движения?",
-        "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости.",
         "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Jeżeli kierowca otrzymał 24 punkty karne za naruszenie przepisów ruchu drogowego": "Если водитель получил 24 штрафных балла за нарушение правил дорожного движения.",
         "Jeżeli kierowca otrzymał 20 punktów karnych w ciągu pierwszego roku od otrzymania po raz pierwszy prawa jazdy za naruszenie przepisów ruchu drogowego": "Если водитель получил 20 штрафных баллов в течение первого года с момента впервые получения водительских прав за нарушение правил дорожного движения.",
