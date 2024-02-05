@@ -2339,7 +2339,6 @@
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
-        "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о задержании временного разрешения в период, когда оно дает право на использование транспортного средства.",
         "Masa pasażerów": "Масса пассажиров.",
         "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
@@ -2903,7 +2902,6 @@
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
-        "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, если транспортное средство использует газовое топливо.",
         "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
         "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
@@ -2923,6 +2921,9 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция о временном изъятии разрешения на период, когда оно дает права на управление транспортным средством, является документом, который следует иметь при себе и предъявлять во время проверки.",
+        "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия разрешения в период, когда оно уполномочивает на использование транспортного средства.",
+        "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, когда транспортное средство работает на газе."
     }
 }
