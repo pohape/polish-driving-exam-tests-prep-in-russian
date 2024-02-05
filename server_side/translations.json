@@ -8,6 +8,18 @@
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
     },
     "approved": {
+        "pole widzenia": {
+            "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Расширяется ли поле зрения с понижением скорости транспортного средства?",
+            "Tak, aby uzyskać szerokie pole widzenia": "Так, чтобы добиться широкого поля зрения",
+            "Wraz ze wzrostem prędkości pole widzenia zwiększa się": "С увеличением скорости поле зрения увеличивается.",
+            "Wraz ze wzrostem prędkości pole widzenia zmniejsza się": "С увеличением скорости поле зрения сужается.",
+            "W jaki sposób prędkość pojazdu wpływa na pole widzenia kierowcy?": "Как скорость транспортного средства влияет на поле зрения водителя?",
+            "Szerokie pole widzenia pozytywnie wpływa na właściwą obserwację drogi": "Широкое поле зрения положительно влияет на правильное наблюдение за дорогой.",
+            "Wraz ze wzrostem prędkości rozszerza się pole widzenia": "С увеличением скорости поле зрения расширяется.",
+            "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может ограничить поле зрения водителя легкового автомобиля?",
+            "Czy holowany pojazd ma wpływ na pole widzenia kierowcy?": "Влияет ли буксируемое ТС на поле зрения водителя?",
+            "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym podczas jazdy nocą?": "Какой из перечисленных факторов может ограничить поле зрения водителя легкового автомобиля во время ночной езды?"
+        },
         "przeciwwskazania": {
             "Nie ma żadnych przeciwwskazań do wykonania wyprzedzania": "Нет никаких запретов на выполнение обгона.",
             "Nie ma żadnych przeciwwskazań do wykonania wyprzedzania pojazdu szynowego": "Нет никаких запретов на выполнение обгона железнодорожного транспорта.",
@@ -593,7 +605,6 @@
             "W takich okolicznościach najlepszym punktem odniesienia przy zajmowaniu właściwej pozycji na drodze są znaki poziome": "В таких обстоятельствах лучшим ориентиром при занятии правильного положения на дороге являются горизонтальные знаки.",
             "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
             "Tak, aby plecy nie przylegały do oparcia": "Так, чтобы спина не примыкала к спинке сиденья",
-            "Tak, aby uzyskać szerokie pole widzenia": "Так, чтобы добиться широкого поля зрения",
             "W jakim przypadku należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy?": "В каком случае необходимо добиться положительного результата из проверочной проверки квалификации, чтобы получить обратно временно изъятое водительское удостоверение?",
             "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok należy uzyskać pozytywny wynik z kontrolnego sprawdzenia kwalifikacji, aby otrzymać zwrot zatrzymanego prawa jazdy": "Если с момента временного изъятия водительского удостоверения прошло более одного года, необходимо добиться положительного результата на контрольной проверке квалификации, чтобы получить обратно временно изъятое водительское удостоверение.",
             "Z taką, aby utrzymywć, co najmniej 5 m odstępu": "С такой, чтобы поддерживать, как минимум 5 метров дистанции.",
@@ -806,9 +817,6 @@
             "Temperatura i wilgotność powietrza": "Температура и влажность воздуха.",
             "Które wymienione czynniki zależne od kierującego pojazdem mają istotny wpływ na jego ostrość widzenia?": "Какие из перечисленных факторов, зависящих от водителя транспортного средства, имеют существенное влияние на его остроту зрения?",
             "Nie ma wpływu": "Нет влияния.",
-            "Wraz ze wzrostem prędkości pole widzenia zwiększa się": "С увеличением скорости поле зрения увеличивается.",
-            "Wraz ze wzrostem prędkości pole widzenia zmniejsza się": "С увеличением скорости поле зрения сужается.",
-            "W jaki sposób prędkość pojazdu wpływa na pole widzenia kierowcy?": "Как скорость транспортного средства влияет на поле зрения водителя?",
             "Z jaką prędkością wolno poruszać się tak oznakowaną drogą jednojezdniową kierując samochodem osobowym?": "С какой скоростью разрешается двигаться по такой обозначенной дороге с одной проезжей частью, управляя легковым автомобилем?",
             "Odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Дистанция, необходимая для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
             "Nie mniejszy niż 10 metrów": "Не меньше чем 10 метров.",
@@ -1490,7 +1498,6 @@
             "Postój na wyznaczonych miejscach dla osób niepełnosprawnych jest dozwolony pod warunkiem posiadania ważnej karty": "Стоянка на отведенных местах для инвалидов разрешена при условии наличия действительной карточки.",
             "Korzystać z telefonu wymagającego trzymania mikrofonu w ręku": "Использовать телефон, требующий держания микрофона в руке.",
             "Prędkość pojazdu ma bezpośredni wpływ na drogę hamowania": "Скорость транспортного средства имеет прямое влияние на тормозной путь.",
-            "Szerokie pole widzenia pozytywnie wpływa na właściwą obserwację drogi": "Широкое поле зрения положительно влияет на правильное наблюдение за дорогой.",
             "Światła hamowania są jednymi z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Стоп-сигналы являются одними из обязательных внешних световых приборов, которыми должен быть оснащен автомобиль.",
             "Ta sytuacja nie przedstawia tunelu, drogi ekspresowej ani autostrady": "Эта ситуация не представляет тоннеля, \"drogi ekspresowej\" или автострады.",
             "Czy widoczna linia złożona z trójkątów wskazuje Ci miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa?": "Видимая линия, состоящая из треугольников, указывает вам место остановки ТС для того, чтобы уступить дорогу?",
@@ -1617,7 +1624,6 @@
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
         "Czy za tym znakiem masz obowiązek zająć lewy pas ruchu?": "За этим знаком вы обязаны занять левую полосу движения?",
-        "Wraz ze wzrostem prędkości rozszerza się pole widzenia": "С увеличением скорости поле зрения расширяется.",
         "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
         "To nie jest linia bezwarunkowego zatrzymania": "Это не линия безусловной остановки.",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
@@ -1808,7 +1814,6 @@
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "В любом случае, после приема лекарства, назначенного врачом, вы можете управлять автомобилем?",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли передаваемый сигнал, что через мгновение загорится зеленый сигнал?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
-        "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym?": "Какой из перечисленных факторов может ограничить поле зрения водителя легкового автомобиля?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci kierować samochodem osobowym po drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете управлять легковым автомобилем по дороге за этим знаком?",
         "Która z wymienionych czynności należy do obowiązków kierowcy uczestniczącego w zdarzeniu drogowym, w którym nie ma osób zabitych lub rannych?": "Какое из перечисленных действий входит в обязанности водителя, участвующего в дорожном происшествии, в котором нет убитых или раненых?",
@@ -2186,7 +2191,6 @@
         "Zamierzasz zawrócić na tym skrzyżowaniu. Czy zajmujesz właściwy pas ruchu?": "Вы собираетесь развернуться на этом перекрестке. Вы занимаете правильную полосу движения?",
         "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
-        "Czy holowany pojazd ma wpływ na pole widzenia kierowcy?": "Влияет ли буксируемое ТС на поле зрения водителя?",
         "Przyspieszyć i jechać do szpitala": "Ускориться и ехать в больницу.",
         "Otworzyć okno i jechać do szpitala": "Открыть окно и ехать в больницу.",
         "Ostrożnie zjechać na pas awaryjny, wezwać Ratownictwo Medyczne i rozpiąć pasy": "Аккуратно перестроиться на аварийную полосу, вызвать медицинскую помощь и расстегнуть ремни.",
@@ -2836,7 +2840,6 @@
         "Zmniejszona prędkość": "Уменьшенная скорость.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Uszkodzony system ABS": "Поврежденная система ABS.",
-        "Który z wymienionych czynników może ograniczyć pole widzenia kierującego samochodem osobowym podczas jazdy nocą?": "Какой из перечисленных факторов может ограничить поле зрения водителя легкового автомобиля во время ночной езды?",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
         "Jaki może być skutek zużycia amortyzatorów kół kierowanych?": "Каким может быть результат износа амортизаторов управляемых колёс?",
@@ -2919,7 +2922,6 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Увеличивается ли поле зрения с уменьшением скорости движения?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
     }
 }
