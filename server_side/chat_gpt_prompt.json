@@ -275,9 +275,17 @@
         "odstęp": [
             "każdy odstęp: любая дистанция",
             "odstęp: дистанция"
+        ],
+        "punkt": [
+            "linia złożona z punktowych elementów: линия, состоящая из точечных элементов",
+            "punkt poboru opłat: пункт сбора оплаты",
+            "w przypadku przekroczenia punktów karnych: в случае превышения штрафных пунктов",
+            "punktów za naruszenie: пунктов за нарушение",
+            "punkt odniesienia: ориентир"
         ]
     },
     "dictionary_others": {
+        "znajduje się": "znajduje się: находится",
         "zwrot": "otrzymać zwrot: получить обратно",
         "uzysk": "uzyskać: добиться",
         "Tak, aby": "Tak, aby: Так, чтобы",
