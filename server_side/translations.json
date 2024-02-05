@@ -1817,7 +1817,11 @@
             "Czy widoczny znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach?": "Видимый знак указывает полосы движения, предназначенные для движения в указанных направлениях?",
             "Znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach": "Знак указывает полосы движения, предназначенные для движения в указанных направлениях.",
             "Czy w tej sytuacji wolno Ci zawrócić?": "В этой ситуации вам разрешено развернуться?",
-            "Zawracanie uniemożliwia oznakowanie poziome": "Разворот запрещён горизонтальной разметкой."
+            "Zawracanie uniemożliwia oznakowanie poziome": "Разворот запрещён горизонтальной разметкой.",
+            "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?",
+            "Skręt w lewo nie jest w żaden sposób ograniczony": "Поворот налево никак не ограничен.",
+            "Świadczą o tym znak z tabliczką": "Они свидетельствуют о том знак с табличкой.",
+            "Tabliczka wskazuje układ torów i drogi": "Табличка указывает расположение путей и дороги."
         }
     },
     "not_approved": {
@@ -2208,11 +2212,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy na najbliższym skrzyżowaniu wolno Ci skręcić w lewo?": "Вам разрешено повернуть налево на ближайшем перекрестке?",
-        "Skręt w lewo nie jest w żaden sposób ograniczony": "Поворот налево никак не ограничен.",
-        "Świadczą o tym znak z tabliczką": "Они свидетельствуют о том знак с табличкой.",
-        "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje układ torów i drogi na przejeździe tramwajowym?": "Является ли табличка, видимая под предупреждающим знаком, указателем расположения трамвайных путей и дороги на трамвайном переезде?",
-        "Tabliczka wskazuje układ torów i drogi": "Табличка указывает расположение путей и дороги.",
         "Przejazd przez torowisko tramwajowe wymaga zachowania szczególnej ostrożności": "Переезд через трамвайные пути требует соблюдения особой осторожности.",
         "Działanie znaku w tej sytuacji nie jest ograniczone do skrajnego prawego pasa": "Влияние знака в данной ситуации не ограничено только крайней правой полосой.",
         "Wskazuje na to tabliczka umieszczona pod znakiem D-6": "Указывает на это табличка, размещенная под знаком D-6.",
@@ -2958,6 +2957,7 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
+        "Czy widoczna pod znakiem ostrzegawczym tabliczka wskazuje układ torów i drogi na przejeździe tramwajowym?": "Видимая под предупреждающим знаком табличка указывает расположение путей и дороги на трамвайном переезде?"
     }
 }
