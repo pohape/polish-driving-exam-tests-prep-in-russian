@@ -1833,7 +1833,10 @@
             "Czy przed tak oznakowanym przejściem dla pieszych należy zawsze się zatrzymać?": "Нужно ли всегда останавливаться перед пешеходным переходом, обозначенным таким знаком?",
             "Czy w tej sytuacji zbliżasz się do stacji obsługi technicznej?": "Вы подъезжаете к станции технического обслуживания в этой ситуации?",
             "Znak D-26 - stacja obsługi technicznej": "Знак D-26 - станция технического обслуживания",
-            "Znak informuje o początku autostrady": "Знак информирует о начале автострады."
+            "Znak informuje o początku autostrady": "Знак информирует о начале автострады.",
+            "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
+            "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
+            "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po prawej stronie jezdni?": "В этой ситуации знаки информируют тебя о конце полосы движения по правой стороне проезжей части?"
         }
     },
     "not_approved": {
@@ -1965,7 +1968,6 @@
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu, jeśli prawy pas jest wolny?": "В этой ситуации вы имеете право продолжать движение по левой полосе, если правая полоса свободна?",
         "Czy w tej sytuacji, włączając się do ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, включаясь в движение, вы обязаны проявлять особую осторожность?",
         "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
-        "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po prawej stronie jezdni?": "В этой ситуации знаки информируют вас о конце полосы движения справа от проезжей части?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
         "Czy w przedstawionej sytuacji możesz zatrzymać pojazd na poboczu?": "Можете ли вы остановить автомобиль на обочине дороги в описанной ситуации?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
@@ -2222,8 +2224,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
-        "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
         "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
         "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
