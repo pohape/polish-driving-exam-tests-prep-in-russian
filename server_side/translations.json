@@ -14,7 +14,8 @@
         "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, обозначенном этим информационным знаком, движение задним ходом транспортного средства?",
         "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
-        "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?"
+        "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?",
+        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1788,7 +1789,10 @@
             "Czy w tej sytuacji wolno Ci zaparkować pojazd po lewej stronie drogi?": "В этой ситуации вам разрешено парковать автомобиль на левой стороне дороги?",
             "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
             "Pas ruchu nie jest przeznaczony do skrętu w lewo": "Полоса движения не предназначена для поворота налево.",
-            "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке."
+            "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке.",
+            "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
+            "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
+            "Świadczy o tym tabliczka umieszczona pod znakiem": "Это указывает табличка, расположенная под знаком."
         }
     },
     "not_approved": {
@@ -1816,7 +1820,6 @@
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
-        "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
@@ -2182,8 +2185,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy w tej sytuacji jesteś ostrzegany o trzech niebezpiecznych zakrętach?": "В этой ситуации вас предупреждают о трех опасных поворотах?",
-        "Świadczy o tym tabliczka umieszczona pod znakiem": "Это указывает табличка, расположенная под знаком.",
         "Czy jadąc samochodem osobowym wolno Ci skręcić w prawo za tym znakiem?": "Вы разрешено поворачивать направо за этим знаком, когда вы едете на легковом автомобиле?",
         "Uprzedzenie o zakazie nie dotyczy samochodów osobowych": "Предупреждение о запрете не относится к легковым автомобилям.",
         "Czy w tej sytuacji bezpośrednio za widocznym znakiem kończy się droga ekspresowa?": "В этой ситуации непосредственно за видимым знаком заканчивается \"droga ekspresowa\"?",
@@ -2957,7 +2958,6 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
-        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
     }
 }
