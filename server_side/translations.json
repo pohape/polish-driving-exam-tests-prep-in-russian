@@ -1565,7 +1565,8 @@
             "Przewrócić osobę na ziemię i ugasić ogień poprzez przykrycie np. kurtką, kocem, płaszczem": "Перевернуть человека на землю и потушить огонь, покрыв его, например, курткой, одеялом, плащом.",
             "Którą z wymienionych czynności należy wykonać, kierując samochodem osobowym w nocy podczas mgły?": "Какое из перечисленных действий следует выполнять, управляя легковым автомобилем ночью во время тумана?",
             "Zmniejszyć prędkość": "Снизить скорость.",
-            "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости."
+            "Włączyć światła drogowe w celu polepszenia widoczności": "Включить дальний свет фар для улучшения видимости.",
+            "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав."
         }
     },
     "not_approved": {
@@ -2765,7 +2766,6 @@
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
         "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
-        "Gdy upłynął termin ważności prawa jazdy": "Когда истек срок действия водительских прав.",
         "W przypadku przekroczenia przez kierującego 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny": "В случае превышения водителем 24 очков за нарушение правил дорожного движения в течение 5 лет после выдачи направления на переобучающий курс.",
         "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав.",
         "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
@@ -2925,6 +2925,7 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?"
+        "Czy wyprzedzając ten pojazd masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот транспортное средство, обязан ли ты соблюдать особую осторожность?",
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
     }
 }
