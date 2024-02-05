@@ -2199,7 +2199,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете ТС с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
         "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
         "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
         "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?",
@@ -2958,6 +2957,7 @@
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
+        "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете автомобилем с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?"
     }
 }
