@@ -1847,7 +1847,6 @@
             "Znak D-5: pierwszeństwo na zwężonym odcinku drogi": "Знак D-5: преимущество на суженном участке дороги.",
             "Czy ten znak oznacza, że przejeżdżasz przed kierującym zbliżającym się z kierunku przeciwnego?": "Этот знак означает, что проезжаете перед водителем, приближающимся с противоположного направления?",
             "Czy ten znak drogowy uprzedza o miejscu, w którym prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Указывает ли этот дорожный знак на место, где скорость движения контролируется и регистрируется стационарным устройством записи?",
-            "Znak drogowy uprzedza o odcinkowym pomiarze prędkości": "Знак дорожный предупреждает о зоне измерения скорости на участке.",
             "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6.",
             "Czy kierujący zespołem pojazdów o rzeczywistej masie całkowitej powyżej 3,5 tony jest uprzedzany o zakazie występującym na wskazanej drodze bezpośrednio za skrzyżowaniem?": "Водителю автопоезда с разрешенной максимальной массой свыше 3,5 тонны сообщается о запрете, действующем на указанной дороге сразу после перекрестка?",
             "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
@@ -2958,6 +2957,6 @@
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
         "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
-        "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде на участок с измерением скорости на дороге."
+
     }
 }
