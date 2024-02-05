@@ -286,6 +286,10 @@
         "ubezpiecze": [
             "ubezpieczenie OC: ОСАГО",
             "ubezpieczenie AC: КАСКО"
+        ],
+        "pokwitowa": [
+            "pokwitowanie zatrzymania: свидетельство о временном изъятии",
+            "pokwitowanie zatrzymania pozwolenia czasowego: свидетельство об изъятии временного разрешения"
         ]
     },
     "dictionary_others": {
