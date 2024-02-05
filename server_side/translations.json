@@ -1701,7 +1701,12 @@
             "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка.",
             "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли на участке после этого информационного знака по правой полосе движения передвигаться только уполномоченные транспортные средства?",
             "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
-            "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение."
+            "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение.",
+            "Czy zbliżając się do miejsca oznaczonego tym znakiem masz obowiązek zachować szczególną ostrożność?": "Приближаясь к месту, обозначенному этим знаком, вы обязаны проявлять особую осторожность?",
+            "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zachować szczególną ostrożność": "Водитель, приближающийся к месту, обозначенному знаком, обязан соблюдать особую осторожность.",
+            "Czy na tak oznakowanej drodze możesz jechać samochodem osobowym z prędkością 100 km\/h?": "Можете ли вы двигаться на личном автомобиле со скоростью 100 км\/ч на такой размеченной дороге?",
+            "Czy maksymalna prędkość, z jaką możesz jechać samochodem osobowym na drodze za tym znakiem wynosi 120 km\/h?": "Максимальная скорость, с которой вы можете ехать на легковом автомобиле на дороге после этого знака, составляет 120 км\/ч?",
+            "Wynosi 140 km\/h": "Составляет 140 км\/ч."
         }
     },
     "not_approved": {
@@ -2106,10 +2111,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy zbliżając się do miejsca oznaczonego tym znakiem masz obowiązek zachować szczególną ostrożność?": "Приближаясь к месту, обозначенному этим знаком, вы обязаны проявлять особую осторожность?",
-        "Czy na tak oznakowanej drodze możesz jechać samochodem osobowym z prędkością 100 km\/h?": "Можете ли вы двигаться на личном автомобиле со скоростью 100 км\/ч на такой размеченной дороге?",
-        "Czy maksymalna prędkość, z jaką możesz jechać samochodem osobowym na drodze za tym znakiem wynosi 120 km\/h?": "Максимальная скорость, с которой вы можете ехать на легковом автомобиле на дороге после этого знака, составляет 120 км\/ч?",
-        "Wynosi 140 km\/h": "Составляет 140 км\/ч.",
         "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можете ли вы двигаться на дороге после этого знака со скоростью 30 км\/ч?",
         "Czy na drodze za tym znakiem możesz zawrócić?": "Можно ли на участке после этого знака совершить разворот?",
         "Czy na drodze za tym znakiem możesz jechać z prędkością 20km\/h?": "Можете ли вы двигаться на этой дороге после этого знака со скоростью 20 км\/ч?",
