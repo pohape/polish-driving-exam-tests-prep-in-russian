@@ -1758,7 +1758,11 @@
             "Czy w widocznej sytuacji masz prawo zmienić pas ruchu i pojechać prosto przez skrzyżowanie?": "Имеете ли вы право в данной видимой ситуации сменить полосу движения и двигаться прямо через перекресток?",
             "Ciągła linia uniemożliwia zmianę pasa": "Сплошная линия не позволяет изменить полосу движения.",
             "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na lewy z zachowaniem szczególnej ostrożności?": "В данной ситуации имеете ли вы право сменить полосу движения на левую, соблюдая особую осторожность?",
-            "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy?": "Имеете ли вы право сменить полосу движения на правую в данной ситуации?"
+            "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy?": "Имеете ли вы право сменить полосу движения на правую в данной ситуации?",
+            "Czy z tego pasa ruchu masz prawo pojechać prosto przez skrzyżowanie?": "Имеете ли вы право продолжить движение прямо через перекресток с этой полосы движения?",
+            "Oznakowanie poziome uniemożliwia jazdę prosto": "Горизонтальная разметка запрещает движение прямо.",
+            "Świadczy o tym znak pionowy": "Это обозначает вертикальный знак.",
+            "Czy w tej sytuacji jesteś uprzedzany, że skręcając w prawo za znakiem wjedziesz na drogę bez przejazdu?": "В этой ситуации тебя предупреждают, что свернув направо после знака, окажешься на тупике?"
         }
     },
     "not_approved": {
@@ -2159,10 +2163,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy z tego pasa ruchu masz prawo pojechać prosto przez skrzyżowanie?": "Имеете ли вы право продолжить движение прямо через перекресток с этой полосы движения?",
-        "Oznakowanie poziome uniemożliwia jazdę prosto": "Горизонтальная разметка запрещает движение прямо.",
-        "Czy w tej sytuacji jesteś uprzedzany, że skręcając w prawo za znakiem wjedziesz na drogę bez przejazdu?": "В данной ситуации предупреждают ли вас о том, что, повернув направо после знака, вы въезжаете на дорогу без проезда?",
-        "Świadczy o tym znak pionowy": "Это обозначает вертикальный знак.",
         "Czy w tej sytuacji widoczny bezpośrednio przed tobą znak poziomy wyznacza miejsce zatrzymania pojazdu w związku ze znakiem pionowym B-20 „STOP”?": "В данной ситуации видимая прямо перед вами горизонтальная разметка определяет место остановки транспортного средства в связи с вертикальным знаком B-20 \"СТОП\"?",
         "Jest to linia bezwarunkowego zatrzymania": "Это линия безусловной остановки.",
         "Linia wyznacza miejsce zatrzymania": "Линия определяет место остановки.",
