@@ -6,8 +6,7 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия разрешения в период, когда оно уполномочивает на использование транспортного средства."
+        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
     },
     "approved": {
         "pole widzenia": {
@@ -1611,7 +1610,8 @@
             "Poddawanie pojazdu okresowym badaniom technicznym": "Периодическое техническое обследование автомобиля.",
             "Który z obowiązków dotyczy właściciela samochodu osobowego?": "Какое из обязанностей касается владельца автомобиля?",
             "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, когда транспортное средство работает на газе.",
-            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция о временном изъятии разрешения на период, когда оно дает права на управление транспортным средством, является документом, который следует иметь при себе и предъявлять во время проверки."
+            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция о временном изъятии разрешения на период, когда оно дает права на управление транспортным средством, является документом, который следует иметь при себе и предъявлять во время проверки.",
+            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о временном изъятии временного разрешения в период, когда оно уполномочивает на использование транспортного средства."
         }
     },
     "not_approved": {
