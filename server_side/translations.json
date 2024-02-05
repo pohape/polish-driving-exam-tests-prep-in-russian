@@ -1829,7 +1829,11 @@
             "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek sygnalizować ten manewr lewym kierunkowskazem?": "Вы собираетесь повернуть налево на перекрестке. Вы обязаны сигнализировать об этом маневре левым поворотником?",
             "Wskazuje na to tabliczka umieszczona pod znakiem D-6": "Указывает на это табличка, размещенная под знаком D-6.",
             "Czy w tej sytuacji należy zachować szczególną ostrożność mimo, że w okolicy przejścia nie widać pieszych?": "Нужно ли в этой ситуации проявлять особую осторожность, даже если в районе пешеходного перехода не видно пешеходов?",
-            "Zbliżając się do przejścia dla pieszych należy zachować szczególną ostrożność": "Приближаясь к пешеходному переходу, необходимо проявлять особую осторожность."
+            "Zbliżając się do przejścia dla pieszych należy zachować szczególną ostrożność": "Приближаясь к пешеходному переходу, необходимо проявлять особую осторожность.",
+            "Czy przed tak oznakowanym przejściem dla pieszych należy zawsze się zatrzymać?": "Нужно ли всегда останавливаться перед пешеходным переходом, обозначенным таким знаком?",
+            "Czy w tej sytuacji zbliżasz się do stacji obsługi technicznej?": "Вы подъезжаете к станции технического обслуживания в этой ситуации?",
+            "Znak D-26 - stacja obsługi technicznej": "Знак D-26 - станция технического обслуживания",
+            "Znak informuje o początku autostrady": "Знак информирует о начале автострады."
         }
     },
     "not_approved": {
@@ -2218,9 +2222,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy przed tak oznakowanym przejściem dla pieszych należy zawsze się zatrzymać?": "Нужно ли всегда останавливаться перед пешеходным переходом, обозначенным таким знаком?",
-        "Czy w tej sytuacji zbliżasz się do stacji obsługi technicznej?": "Вы подъезжаете к станции технического обслуживания в этой ситуации?",
-        "Znak D-26 - stacja obsługi technicznej": "Знак D-26 - станция технического обслуживания",
         "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
         "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
@@ -2271,7 +2272,6 @@
         "Podczas przewożenia dziecka na tylnym siedzeniu": "Во время перевозки ребенка на заднем сидении.",
         "Podczas przewożenia dziecka na kolanach osoby dorosłej": "При перевозке ребенка на коленях у взрослого.",
         "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Должны ли вы соблюдать особую осторожность, включаясь в движение?",
-        "Znak informuje o początku autostrady": "Знак информирует о начале автострады.",
         "Znak D-7: droga ekspresowa": "Знак D-7: \"droga ekspresowa\".",
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
