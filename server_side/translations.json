@@ -7,7 +7,8 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, едучи прямо, тебе разрешается двигаться непосредственно у правого края проезжей части?"
+        "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, едучи прямо, тебе разрешается двигаться непосредственно у правого края проезжей части?",
+        "Czy ten znak wskazuje, że jadąc samochodem osobowym masz obowiązek skręcić w prawo na najbliższym skrzyżowaniu?": "Сигнал указывает, что вы, едущий на легковом автомобиле, обязаны повернуть направо на ближайшем перекрестке?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1709,7 +1710,12 @@
             "Wynosi 140 km\/h": "Составляет 140 км\/ч.",
             "Czy na drodze za tym znakiem możesz jechać z prędkością 30km\/h?": "Можешь ли ты ехать со скоростью 30 км\/ч на дороге после этого знака?",
             "Czy na drodze za tym znakiem możesz zawrócić?": "Можешь ли ты развернуться на дороге после этого знака?",
-            "Czy na drodze za tym znakiem możesz jechać z prędkością 20km\/h?": "Можете ли вы двигаться на этой дороге после этого знака со скоростью 20 км\/ч?"
+            "Czy na drodze za tym znakiem możesz jechać z prędkością 20km\/h?": "Можете ли вы двигаться на этой дороге после этого знака со скоростью 20 км\/ч?",
+            "Czy w tej sytuacji masz obowiązek zmienić zajmowany pas ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации вы обязаны изменить занятую полосу движения, если собираетесь повернуть налево?",
+            "Zajmowany pas służy do jazdy na wprost": "Занятая полоса предназначена для движения прямо.",
+            "Czy w tej sytuacji zamierzając jechać prosto powinieneś zmienić zajmowany pas ruchu?": "В данной ситуации, намереваясь ехать прямо, вы должны изменить полосу движения?",
+            "Zajmowany pas służy do jazdy na wprost,": "Занятая полоса предназначена для движения прямо.",
+            "Czy z pasa ruchu, na którym się znajdujesz, masz prawo jechać na wprost?": "Имеете ли вы право двигаться прямо со своей полосы движения?"
         }
     },
     "not_approved": {
@@ -1833,7 +1839,6 @@
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
         "Czy za chwilę będzie dawany sygnał zakazujący wjazdu?": "Будет ли в ближайшее время подан сигнал о запрете въезда?",
-        "Czy w tej sytuacji masz obowiązek zmienić zajmowany pas ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации вы обязаны изменить занятую полосу движения, если собираетесь повернуть налево?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
         "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
@@ -2114,11 +2119,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Zajmowany pas służy do jazdy na wprost": "Занятая полоса предназначена для движения прямо.",
-        "Czy w tej sytuacji zamierzając jechać prosto powinieneś zmienić zajmowany pas ruchu?": "В данной ситуации, намереваясь ехать прямо, вы должны изменить полосу движения?",
-        "Zajmowany pas służy do jazdy na wprost,": "Занятая полоса предназначена для движения прямо.",
-        "Czy z pasa ruchu, na którym się znajdujesz, masz prawo jechać na wprost?": "Имеете ли вы право двигаться прямо со своей полосы движения?",
-        "Czy ten znak wskazuje, że jadąc samochodem osobowym masz obowiązek skręcić w prawo na najbliższym skrzyżowaniu?": "Сигнал указывает, что вы, едущий на легковом автомобиле, обязаны повернуть направо на ближайшем перекрестке?",
         "Ten znak wskazujący przejazd tranzytowy": "Этот знак указывает на транзитное проездное место.",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы сделать правый поворот на такую дорогу, двигаясь на легковом автомобиле?",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
