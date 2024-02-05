@@ -448,6 +448,7 @@
             "Patrzeć prosto w reflektory pojazdu nadjeżdżającego z przeciwka": "Смотреть прямо в фары приближающегося встречного автомобиля."
         },
         "pierwszeństwo": {
+            "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации вас информируют о начале главной дороги?",
             "Znak informacyjny oznacza początek lub kontynuację drogi z pierwszeństwem": "Информационный знак указывает на начало или продолжение главной дороги.",
             "Czy na drodze za tym znakiem pionowym masz obowiązek ustąpić pierwszeństwa pieszym?": "Обязаны ли вы уступить дорогу пешеходам на участке после этого вертикального знака?",
             "Znak umieszczony na górze oznacza koniec drogi z pierwszeństwem": "Знак, расположенный сверху, обозначает конец главной дороги.",
@@ -2929,7 +2930,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Czy w tej sytuacji jesteś informowany o początku drogi z pierwszeństwem przejazdu?": "В этой ситуации вас информируют о начале дороги с преимуществом проезда?"
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
     }
 }
