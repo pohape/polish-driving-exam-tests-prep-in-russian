@@ -1619,7 +1619,11 @@
             "Czy w tej sytuacji masz obowiązek sygnalizować zamiar przekroczenia linii przerywanej?": "В этой ситуации ты обязан сигнализировать о намерении пересечь прерывистую линию?",
             "Czy masz prawo zatrzymać pojazd bezpośrednio za tym przejściem dla pieszych?": "Имеешь ли ты право остановить транспортное средство сразу за этим пешеходным переходом?",
             "Czy w tej sytuacji masz prawo zmienić pas ruchu na prawy?": "В этой ситуации, имеешь ли ты право сменить полосу движения на правую?",
-            "Czy masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu?": "Обязаны ли вы сохранять безопасную дистанцию от минуемого встречного ТС?"
+            "Czy masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu?": "Обязаны ли вы сохранять безопасную дистанцию от минуемого встречного ТС?",
+            "Czy z zajmowanego pasa ruchu wolno Ci skręcić w lewo?": "Можешь ли ты повернуть налево с занятой полосы движения?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać się przed przejazdem kolejowym?": "В данной ситуации ты обязан остановиться перед железнодорожным переездом?",
+            "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
+            "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?"
         }
     },
     "not_approved": {
@@ -2116,7 +2120,6 @@
         "Znak informacyjny informuje o przejeździe dla rowerzystów i przejściu dla pieszych": "Информационный знак информирует о велосипедном переезде и пешеходном переходе.",
         "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
         "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
-        "Czy kierując pojazdem silnikowym masz obowiązek stosować się do poleceń i sygnałów wydawanych w nocy poza obszarem zabudowanym przez pracownika kolejowego na przejeździe kolejowym?": "Управляя моторным транспортным средством, обязаны ли вы подчиняться указаниям и сигналам, выдаваемым ночью вне населенного пункта работником железной дороги на железнодорожном переезде?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
         "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
         "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
@@ -2377,7 +2380,6 @@
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
         "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
-        "Czy na moście cofanie jest zabronione?": "На мосту запрещен ли маневр задним ходом?",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
@@ -2926,6 +2928,7 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?"
     }
 }
