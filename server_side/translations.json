@@ -15,7 +15,8 @@
         "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
         "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?",
-        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?"
+        "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных транспортных средств?",
+        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1836,7 +1837,10 @@
             "Znak informuje o początku autostrady": "Знак информирует о начале автострады.",
             "Zgodnie ze znakiem kierunku i miejscowości": "Согласно знаку направления и местности.",
             "Informują o końcu pasa po lewej stronie": "Они информируют о конце полосы слева.",
-            "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po prawej stronie jezdni?": "В этой ситуации знаки информируют тебя о конце полосы движения по правой стороне проезжей части?"
+            "Czy w tej sytuacji znaki informują Cię o końcu pasa ruchu po prawej stronie jezdni?": "В этой ситуации знаки информируют тебя о конце полосы движения по правой стороне проезжей части?",
+            "Znak D-7: droga ekspresowa": "Знак D-7: \"droga ekspresowa\".",
+            "Czy masz obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego?": "Обязаны ли вы подчиняться указаниям или сигналам, подаваемым водителем нестандартного транспортного средства?",
+            "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?"
         }
     },
     "not_approved": {
@@ -2224,8 +2228,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
-        "Czy ten znak drogowy wyznacza miejsce zatrzymania się przed przejazdem kolejowym podczas przejazdu pociągu?": "Этот дорожный знак определяет место остановки перед железнодорожным переездом во время проезда поезда?",
         "Krzyż św. Andrzeja wyznacza miejsce zatrzymania się w związku z ruchem pociągu lub innego pojazdu szynowego na przejeździe kolejowym bez zapór lub półzapór": "Крест святого Андрея обозначает место остановки в связи с движением поезда или иного железнодорожного транспорта на железнодорожном переезде без шлагбаумов или полушлагбаумов.",
         "Na drogach ekspresowych nie można tak szybko jeździć": "На \"drogach ekspresowych\" нельзя ездить так быстро.",
         "Znak uprzedza o wjeździe w odcinkowy pomiar prędkości na drodze": "Знак предупреждает о въезде в участок с измерением скорости на дороге.",
@@ -2272,7 +2274,6 @@
         "Podczas przewożenia dziecka na tylnym siedzeniu": "Во время перевозки ребенка на заднем сидении.",
         "Podczas przewożenia dziecka na kolanach osoby dorosłej": "При перевозке ребенка на коленях у взрослого.",
         "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Должны ли вы соблюдать особую осторожность, включаясь в движение?",
-        "Znak D-7: droga ekspresowa": "Знак D-7: \"droga ekspresowa\".",
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
         "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
