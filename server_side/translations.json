@@ -1778,7 +1778,9 @@
             "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
             "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "В видимой ситуации разрешают ли горизонтальные знаки на проезжей части менять полосу движения на левую?",
             "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
-            "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "Имеешь ли ты право повернуть налево на перекрестке с этой полосы движения после изменения сигнала на зеленый?"
+            "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "Имеешь ли ты право повернуть налево на перекрестке с этой полосы движения после изменения сигнала на зеленый?",
+            "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
+            "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?"
         }
     },
     "not_approved": {
@@ -2174,8 +2176,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
-        "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
         "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
         "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
         "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы.",
