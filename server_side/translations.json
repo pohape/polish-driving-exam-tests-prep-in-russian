@@ -9,6 +9,11 @@
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
     },
     "approved": {
+        "urządzenia dla powolnej jazdy": {
+            "Czy za tym znakiem, znajdujące się na jezdni urządzenia wymuszające powolną jazdę, mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, расположенные на проезжей части после этого знака, быть не помечены предупреждающими знаками?",
+            "Czy za tym znakiem \"strefa zamieszkania\" urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, на участке после знака \"Жилая зона\" не быть обозначены предупреждающими знаками?",
+            "W strefie zamieszkania urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi": "В жилой зоне устройства, вынуждающие ехать медленнее, могут не быть обозначены предупреждающими знаками."
+        },
         "pokwitowanie": {
             "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Свидетельство о временном изъятии водительского удостоверения на период, когда оно дает право на управление.",
             "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Свидетельство о временном изъятии документа регистрации в тот период, когда он уполномочивает на использование транспортного средства, это документ, который следует иметь при себе и предъявлять во время проверки.",
@@ -57,14 +62,12 @@
             "Prędkość dopuszczalna pojazdu lub zespołu pojazdów w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость движения транспортного средства или автопоезда в жилой зоне составляет 20 км \/ ч.",
             "W strefie zamieszkania pieszy korzysta z całej szerokości drogi i ma pierwszeństwo przed pojazdem": "В жилой зоне пешеход использует всю ширину дороги и имеет преимущество перед транспортным средством.",
             "Czy wyjeżdżając ze strefy zamieszkania, włączasz się do ruchu?": "Когда вы покидаете жилую зону, вы включаетесь в движение?",
-            "Czy za tym znakiem \"strefa zamieszkania\" urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли за этим знаком \"Жилая зона\" приспособления, принуждающие Вас медленно ехать, не быть помечены предупреждающими знаками?",
             "Czy w przedstawionej sytuacji zamierzając skręcić w prawo w strefę zamieszkania musisz sygnalizować ten manewr?": "В представленной ситуации, намереваясь повернуть направо в жилую зону, нужно ли сигнализировать об этом маневре?",
             "W strefie zamieszkania": "В жилой зоне.",
             "Czy w strefie zamieszkania dozwolone jest zatrzymanie pojazdu?": "Разрешено ли останавливать автомобиль в жилой зоне?",
             "Czy w tej sytuacji wyjeżdżasz ze strefy zamieszkania?": "В этой ситуации Вы выезжаете с жилой зоны?",
             "Ze względu na limit prędkości wynoszący 20 km\/h w strefie zamieszkania nie ma obowiązku ostrzegać o progach zwalniających": "В жилой зоне со скоростным ограничением в 20 км\/ч нет обязательства предупреждать об искуственных дорожных неровностях (лежачих полицейских).",
             "Wyjeżdżając ze strefy zamieszkania, a także z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с жилой зоны, а также с внутренней дороги происходит включение в движение.",
-            "W strefie zamieszkania urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi": "В зоне проживания приспособления, принуждающие Вас медленно ехать, могут быть не обозначены предупредительными знаками.",
             "Nie ma obowiązku zatrzymywania się przy wyjeżdżaniu ze strefy zamieszkania": "Нет требования останавливаться при выезде из жилой зоны.",
             "To nie jest strefa zamieszkania": "Это не является жилой зоной.",
             "Czy prowadząc pojazd silnikowy z przyczepą w strefie zamieszkania masz prawo jechać z prędkością 30 km\/h?": "Имеете ли вы право двигаться со скоростью 30 км\/ч, управляя ТС с прицепом в жилой зоне?",
@@ -242,7 +245,7 @@
             "Ładunek może zasłaniać niektóre światła przyczepy": "Груз может закрывать огни прицепа.",
             "Ładunek nie może naruszać stateczności pojazdu": "Груз не должен нарушать устойчивость транспортного средства.",
             "Ładunek na pojeździe umieszcza się w taki sposób, aby nie ograniczał widoczności drogi lub nie zasłaniał świateł, urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych tablic albo znaków, w które pojazd jest wyposażony": "Груз на транспортном средстве размещается таким образом, чтобы он не ограничивал видимость дороги или не закрывал фары, сигнальные устройства, номерные знаки или другие знаки, которыми оснащено транспортное средство.",
-            "Jak powinieneś zabezpieczyć urządzenie, którym zamocowałeś ładunek w przyczepie ciągniętej przez samochód osobowy?": "Как вы должны обезопасить устройство, которым закреплен груз в прицепе, буксируемом легковым автомобилем?"
+            "Jak powinieneś zabezpieczyć urządzenie, którym zamocowałeś ładunek w przyczepie ciągniętej przez samochód osobowy?": "Как вы должны обезопасить приспособление, которым закреплен груз в прицепе, буксируемом легковым автомобилем?"
         },
         "autostrada": {
             "Zabrania się zawracania na autostradzie": "Запрещается разворачиваться на автостраде.",
@@ -1547,7 +1550,7 @@
             "Chcesz przewieźć dziecko na przednim siedzeniu pojazdu samochodowego wyposażonego w przednią poduszkę dla pasażera, która jest aktywna. W jaki sposób możesz to zrobić?": "Вы хотите перевезти ребёнка на переднем сиденье автомобиля, оснащенного активной передней подушкой безопасности для пассажира. Как вы можете это сделать?",
             "W foteliku bezpieczeństwa tyłem do kierunku jazdy": "В детском автокресле спиной в направлении движения.",
             "W foteliku bezpieczeństwa przodem do kierunku jazdy": "В детском автокресле лицом в направлении движения.",
-            "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy": "В другом устройстве, удерживающем ребенка спиной в направлении движения.",
+            "W innym urządzeniu przytrzymującym dziecko tyłem do kierunku jazdy": "В другом приспособлении, удерживающем ребенка спиной в направлении движения.",
             "Czy prędkość jazdy i odstęp od innych uczestników ruchu drogowego należy dostosować do stanu nawierzchni?": "Должны ли скорость движения и дистанция до других участников дорожного движения быть адаптированы к состоянию дорожного покрытия?",
             "Tak, ale tylko w obszarze zabudowanym": "Да, но только в населенном пункте.",
             "Tak, ponieważ stan nawierzchni ma istotny wpływ na drogę hamowania": "Да, потому что состояние дорожного покрытия оказывает существенное влияние на тормозной путь.",
@@ -1589,7 +1592,7 @@
             "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан немедленно убрать транспортное средство с места происшествия, чтобы не создавать опасности или препятствия для движения.",
             "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние меньше 50 м?",
             "Kierujący podczas wymijania powinien zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu, a w razie potrzeby zjechać na prawo i zmniejszyć prędkość lub zatrzymać się": "Водитель при прохождении мимо встречного ТС должен сохранять безопасную дистанцию от минуемого ТС или участника движения, а при необходимости съехать вправо и снизить скорость или остановиться.",
-            "Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni": "Если пешеходный переход обозначен на дороге с двумя проезжими частями, переход на каждой проезжей части считается отдельным переходом. Это правило применяется соответственно к пешеходному переходу в месте, где движение транспортных средств разделено островком безопасности или с помощью других устройств на проезжей части.",
+            "Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni": "Если пешеходный переход обозначен на дороге с двумя проезжими частями, переход на каждой проезжей части считается отдельным переходом. Это правило применяется соответственно к пешеходному переходу в месте, где движение транспортных средств разделено островком безопасности или с помощью других приспособлений на проезжей части.",
             "Sprawność bezpieczników": "Исправность предохранителей.",
             "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников.",
             "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
@@ -1689,8 +1692,7 @@
             "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
             "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
             "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси.",
-            "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
-            "Czy za tym znakiem, znajdujące się na jezdni urządzenia wymuszające powolną jazdę, mogą nie być oznakowane znakami ostrzegawczymi?": "За этим знаком, устройства на проезжей части, заставляющие замедлить движение, могут быть не обозначены предупредительными знаками?"
+            "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности."
         }
     },
     "not_approved": {
@@ -2172,7 +2174,6 @@
         "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
         "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
         "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
-        "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли за видимым знаком устройства, обязывающего к медленной езде, отсутствовать предупреждающие знаки?",
         "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
         "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы.",
         "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
