@@ -1698,7 +1698,10 @@
             "Czy oznakowanie wskazuje, że droga, którą jedziesz jest podporządkowana?": "Указывает ли дорожная разметка на то, что дорога, по которой вы едете, является второстепенной?",
             "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
             "Znak umieszczony po prawej stronie jezdni informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady": "Знак, расположенный с правой стороны проезжей части, информирует о приближении к началу полосы, ведущей к выезду с автострады.",
-            "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка."
+            "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка.",
+            "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли на участке после этого информационного знака по правой полосе движения передвигаться только уполномоченные транспортные средства?",
+            "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
+            "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение."
         }
     },
     "not_approved": {
@@ -2103,9 +2106,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли за этим информационным знаком только уполномоченные транспортные средства двигаться по правой полосе движения?",
-        "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": "Этот знак информирует вас, что на ближайшем перекрестке вы обязаны ехать прямо?",
-        "Widoczny znak należy do grupy informacyjnych. D-3 Droga jednokierunkowa": "Видимый знак относится к группе информационных. D-3 Одностороннее движение.",
         "Czy zbliżając się do miejsca oznaczonego tym znakiem masz obowiązek zachować szczególną ostrożność?": "Приближаясь к месту, обозначенному этим знаком, вы обязаны проявлять особую осторожность?",
         "Czy na tak oznakowanej drodze możesz jechać samochodem osobowym z prędkością 100 km\/h?": "Можете ли вы двигаться на личном автомобиле со скоростью 100 км\/ч на такой размеченной дороге?",
         "Czy maksymalna prędkość, z jaką możesz jechać samochodem osobowym na drodze za tym znakiem wynosi 120 km\/h?": "Максимальная скорость, с которой вы можете ехать на легковом автомобиле на дороге после этого знака, составляет 120 км\/ч?",
