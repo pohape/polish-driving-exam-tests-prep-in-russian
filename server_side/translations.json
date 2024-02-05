@@ -13,7 +13,8 @@
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?",
         "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешено ли в месте, обозначенном этим информационным знаком, движение задним ходом транспортного средства?",
         "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Едучи по этой полосе движения, имеешь ли ты право продолжить движение прямо?",
-        "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?"
+        "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
+        "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, сразу за заметным знаком не быть обозначены предупреждающими знаками?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1780,7 +1781,10 @@
             "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
             "Czy z tego pasa ruchu po zmianie sygnału na zielony masz prawo skręcić w lewo na skrzyżowaniu?": "Имеешь ли ты право повернуть налево на перекрестке с этой полосы движения после изменения сигнала на зеленый?",
             "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
-            "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?"
+            "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
+            "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
+            "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
+            "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы."
         }
     },
     "not_approved": {
@@ -2176,9 +2180,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
-        "Czy ten znak oznacza koniec drogi ekspresowej?": "Указывает ли этот знак на конец \"drogi ekspresowej\"?",
-        "Znak uprzedza o końcu lewego pasa": "Знак предупреждает о конце левой полосы.",
         "Czy z pasa który zajmujesz wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "С разрешено ли вам повернуть налево на ближайшем перекрестке с полосы, на которой вы находитесь?",
         "Pas ruchu nie jest przeznaczony do skrętu w lewo": "Полоса движения не предназначена для поворота налево.",
         "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает вас о месте выезда преимущественных ТС?",
