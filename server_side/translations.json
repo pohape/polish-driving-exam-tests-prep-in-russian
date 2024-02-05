@@ -1796,7 +1796,9 @@
             "Czy jadąc samochodem osobowym wolno Ci skręcić w prawo za tym znakiem?": "Вы разрешено поворачивать направо за этим знаком, когда вы едете на легковом автомобиле?",
             "Uprzedzenie o zakazie nie dotyczy samochodów osobowych": "Предупреждение о запрете не относится к легковым автомобилям.",
             "Czy w tej sytuacji bezpośrednio za widocznym znakiem kończy się droga ekspresowa?": "В этой ситуации непосредственно за видимым знаком заканчивается \"droga ekspresowa\"?",
-            "Odległość określona tabliczką wynosi 1 km": "Расстояние, указанное на табличке, составляет 1 км."
+            "Odległość określona tabliczką wynosi 1 km": "Расстояние, указанное на табличке, составляет 1 км.",
+            "Słupki wskaźnikowe ustawiane przed przejazdami kolejowymi mają mniej kresek ;)": "Знаки-указатели, установленные перед железнодорожными переездами, имеют меньше полосок.",
+            "Czy w tej sytuacji masz prawo kontynuować jazdę bez zatrzymania się?": "В этой ситуации имеете ли вы право продолжить движение без остановки?"
         }
     },
     "not_approved": {
@@ -2189,8 +2191,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Słupki wskaźnikowe ustawiane przed przejazdami kolejowymi mają mniej kresek ;)": "Знаки-указатели, установленные перед железнодорожными переездами, имеют меньше полосок.",
-        "Czy w tej sytuacji masz prawo kontynuować jazdę bez zatrzymania się?": "В этой ситуации имеете ли вы право продолжить движение без остановки?",
         "Świadczą o tym znak D-1 z tabliczką": "Это указывает знак D-1 с табличкой.",
         "Czy w tej sytuacji prawy skrajny pasu ruchu przeznaczony jest tylko dla pojazdów szynowych?": "В данной ситуации правая крайняя полоса движения предназначена только для железнодорожного транспорта?",
         "Dla pojazdów szynowych nie jest przeznaczony skrajny prawy pas": "Для железнодорожного транспорта не предназначена крайняя правая полоса.",
