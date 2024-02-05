@@ -6,8 +6,7 @@
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
-        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?"
+        "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1579,7 +1578,10 @@
             "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников.",
             "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
             "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
-            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования."
+            "Zabrania się holowania pojazdu o niesprawnym układzie kierowniczym lub o niesprawnych hamulcach, chyba że sposób holowania wyklucza potrzebę ich użycia": "Запрещается буксировать автомобиль с неисправным рулевым управлением или с неисправными тормозами, если только метод буксировки не исключает необходимости их использования.",
+            "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "Как ты должен наблюдать за дорогой во время езды в городском трафике?",
+            "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью.",
+            "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав."
         }
     },
     "not_approved": {
@@ -2285,7 +2287,6 @@
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
         "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
         "Linia pojedyncza ciągła oznacza zakaz przejeżdżania przez linię": "Одинарная сплошная линия означает запрет пересекать линию.",
-        "Zalegająca woda może doprowadzić do zmniejszenia przyczepności kół do jezdni": "Застойная вода может привести к уменьшению сцепления колес с проезжей частью.",
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
@@ -2773,7 +2774,6 @@
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
         "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
         "W przypadku przekroczenia przez kierującego 24 punktów za naruszenie przepisów ruchu drogowego w okresie 5 lat od wydania skierowania na kurs reedukacyjny": "В случае превышения водителем 24 очков за нарушение правил дорожного движения в течение 5 лет после выдачи направления на переобучающий курс.",
-        "Gdy wobec kierującego wydane zostało postanowienie o zatrzymaniu prawa jazdy": "Если в отношении водителя было вынесено решение о временном изъятии водительских прав.",
         "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
         "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
         "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
