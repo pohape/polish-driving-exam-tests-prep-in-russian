@@ -10,8 +10,7 @@
         "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, едучи прямо, тебе разрешается двигаться непосредственно у правого края проезжей части?",
         "Ten znak wskazujący przejazd tranzytowy": "Этот знак указывает на транзитное проездное место.",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
-        "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?",
-        "Czy jadąc samochodem osobowym o dopuszczalnej masie całkowitej 3 tony możesz skręcić w prawo za tym znakiem?": "При движении автомобилем легковым с разрешенной максимальной массой 3 тонны, вы можете повернуть направо за этим знаком?"
+        "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1719,7 +1718,12 @@
             "Czy w tej sytuacji zamierzając jechać prosto powinieneś zmienić zajmowany pas ruchu?": "В данной ситуации, намереваясь ехать прямо, вы должны изменить полосу движения?",
             "Zajmowany pas służy do jazdy na wprost,": "Занятая полоса предназначена для движения прямо.",
             "Czy z pasa ruchu, na którym się znajdujesz, masz prawo jechać na wprost?": "Имеете ли вы право двигаться прямо со своей полосы движения?",
-            "Czy ten znak wskazuje, że jadąc samochodem osobowym masz obowiązek skręcić w prawo na najbliższym skrzyżowaniu?": "Указывает ли этот знак на обязанность повернуть направо на ближайшем перекрестке при управлении легковым автомобилем?"
+            "Czy ten znak wskazuje, że jadąc samochodem osobowym masz obowiązek skręcić w prawo na najbliższym skrzyżowaniu?": "Указывает ли этот знак на обязанность повернуть направо на ближайшем перекрестке при управлении легковым автомобилем?",
+            "Po skręcie ustawiono zakaz wjazdu dla samochodów ciężarowych o DMC powyżej 2,5 t": "После поворота установлен запрет на въезд грузовиков с разрешенной максимальной массой свыше 2,5 тонн.",
+            "Czy jadąc samochodem osobowym o dopuszczalnej masie całkowitej 3 tony możesz skręcić w prawo za tym znakiem?": "Можешь ли ты, управляя автомобилем с допустимой общей массой 3 тонны, повернуть направо после этого знака?",
+            "Środkowy pas jest przeznaczony do ruchu pojazdów szynowych": "Средняя полоса предназначена для движения железнодорожных транспортных средств.",
+            "Czy w tej sytuacji możesz zatrzymać pojazd na środkowym pasie jezdni?": "В этой ситуации можно остановить транспортное средство на средней полосе проезжей части?",
+            "Czy w tej sytuacji kontynuując jazdę masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации должен ли вы сигнализировать о намерении сменить полосу движения?"
         }
     },
     "not_approved": {
@@ -2123,10 +2127,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Po skręcie ustawiono zakaz wjazdu dla samochodów ciężarowych o DMC powyżej 2,5 t": "После поворота установлен запрет на въезд грузовиков с разрешенной максимальной массой свыше 2,5 тонн.",
-        "Czy w tej sytuacji możesz zatrzymać pojazd na środkowym pasie jezdni?": "В этой ситуации вы можете остановить транспортное средство на средней полосе проезжей части?",
-        "Środkowy pas jest przeznaczony do ruchu pojazdów szynowych": "Средняя полоса предназначена для движения железнодорожных транспортных средств.",
-        "Czy w tej sytuacji kontynuując jazdę masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации должен ли вы сигнализировать о намерении сменить полосу движения?",
         "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
         "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
         "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
