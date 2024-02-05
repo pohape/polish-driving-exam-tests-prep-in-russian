@@ -1688,7 +1688,8 @@
             "Czy ten znak oznacza wjazd na obszar zabudowany?": "Этот знак означает въезд в населенный пункт?",
             "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
             "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
-            "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси."
+            "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси.",
+            "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности."
         }
     },
     "not_approved": {
@@ -2232,7 +2233,6 @@
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
         "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
-        "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
         "Czy w tej sytuacji, jeżeli zamierzasz zjechać z autostrady, powinieneś przystąpić do zmiany pasa ruchu?": "В этой ситуации, если вы намереваетесь съехать с автострады, должны ли вы приступить к перестроению?",
         "Znak umieszczony po prawej stronie jezdni informuje o zbliżaniu się do początku pasa prowadzącego do wyjazdu z autostrady": "Знак, расположенный с правой стороны проезжей части, информирует о приближении к началу полосы, ведущей к выезду с автострады.",
         "Czy w tej sytuacji masz prawo powoli kontynuować jazdę, uważając na pieszych?": "В данной ситуации имеешь ли ты право медленно продолжить движение, будучи внимательным к пешеходам?",
