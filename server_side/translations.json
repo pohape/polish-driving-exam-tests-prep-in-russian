@@ -9,6 +9,15 @@
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
     },
     "approved": {
+        "pokwitowanie": {
+            "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Получение водительского удостоверения в период, в течение которого оно дает право на вождение.",
+            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля.",
+            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция о изъятии временного разрешения на период, когда оно дает права на управление транспортным средством, является документом, который следует иметь при себе и предъявлять во время проверки.",
+            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о изъятии временного разрешения в период, когда оно уполномочивает на использование транспортного средства.",
+            "Przez wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy i wydaniu kierującemu pokwitowania zatrzymania": "Путем внесения в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения и выдаче водителю квитанции о временном изъятии.",
+            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия регистрационного документа на период, когда он уполномочивает на использование транспортного средства.",
+            "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania jest wymagane podczas kontroli drogowej": "Подтверждение временного изъятия водительского удостоверения в период, когда оно разрешает управление, требуется во время дорожного контроля."
+        },
         "pole widzenia": {
             "Czy pole widzenie zwiększa się wraz z malejącą prędkością jazdy?": "Расширяется ли поле зрения с понижением скорости транспортного средства?",
             "Tak, aby uzyskać szerokie pole widzenia": "Так, чтобы добиться широкого поля зрения",
@@ -313,7 +322,6 @@
         },
         "obszar zabudowany": {
             "Samochód ciężarowy o dmc nieprzekraczającej 3,5 t na drodze jednojezdniowej poza obszarem zabudowanym może poruszać się z maksymalną prędkością wynoszącą 90 km\/h": "Грузовик с разрешенной максимальной массой не более 3,5 т на дороге с одной проезжей частью за пределами населенного пункта может двигаться со скоростью до 90 км\/ч.",
-            "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок квитанция о задержании водительского удостоверения за превышение скорости в населенном пункте более чем на 50 км\/ч дает право на управление транспортным средством?",
             "Z jaką maksymalną prędkością kierującemu samochodem osobowym z przyczepą wolno jechać po tej drodze poza obszarem zabudowanym?": "Какая максимальная скорость разрешена водителю легкового автомобиля с прицепом на этой дороге за пределами населенного пункта?",
             "Czy w tej sytuacji na obszarze zabudowanym masz obowiązek umożliwić włączenie się do ruchu autobusowi, jeśli kierujący nim sygnalizuje taki zamiar?": "В этой ситуации в населенном пункте обязаны ли вы предоставить возможность автобусу включиться в движение, если водитель его сигнализирует об этом?",
             "Czy ten znak oznacza wyjazd z obszaru zabudowanego?": "Означает ли этот знак выезд из населенного пункта?",
@@ -1175,7 +1183,6 @@
             "Niewielki lub brak oporu pedału hamulca przy jego wciskaniu": "Незначительное или отсутствующее сопротивление педали тормоза при её нажатии.",
             "Bardzo duży opór pedału hamulca przy jego wciskaniu": "Очень большое сопротивление педали тормоза при её нажатии.",
             "Wzrost siły hamującej przy jednostajnym naciskaniu na pedał hamulca": "Увеличение тормозного усилия при равномерном нажатии на педаль тормоза.",
-            "Przez wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy i wydaniu kierującemu pokwitowania zatrzymania": "Путем внесения в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения и выдаче водителю квитанции о временном изъятии.",
             "Czy wolno Ci nakleić na pojeździe znak określający inne państwo niż to, w którym pojazd został zarejestrowany?": "Разрешено ли вам наклеить на транспортное средство знак, обозначающий другую страну, чем та, в которой транспортное средство было зарегистрировано?",
             "Tak, bez żadnych ograniczeń": "Да, без каких-либо ограничений.",
             "Tak, ale pod warunkiem, że pojazd posiada tablicę rejestracyjną z oznaczeniem „PL”": "Да, но при условии, что транспортное средство имеет регистрационный номер с обозначением «PL».",
@@ -1459,7 +1466,6 @@
             "Nie": "Нет.",
             "Tak, jeśli nie mnięło od tego czasu więcej niż 7 dni": "Да, если с того времени прошло не более 7 дней.",
             "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu podczas kontroli drogowej?": "Какие документы вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа во время дорожного контроля?",
-            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция временного изъятия регистрационного документа на период, когда он уполномочивает на использование транспортного средства.",
             "Świadectwo zgodności z warunkami technicznymi": "Сертификат соответствия техническим условиям.",
             "Prędkość jazdy": "Скорость движения.",
             "Oznakowanie poziome": "Горизонтальная дорожная разметка.",
@@ -1480,7 +1486,6 @@
             "Przy wyprzedzaniu kolumny pieszych i pojazdów jednośladowych należy zachować odstęp nie mniejszy niż 1 metr": "При обгоне колонны пешеходов и одноколейных ТС следует сохранять дистанцию не меньше 1 метра.",
             "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасная дистанция от впереди идущего ТС зависит от скорости, с которой мы движемся.",
             "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanej przeszkody": "Водитель транспортного средства обязан во время объезда соблюдать безопасное расстояние от объезжаемого препятствия.",
-            "Pokwitowanie zatrzymania dowodu rejestracyjnego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция временного изъятия регистрационного талона в период, когда она дает право на использование транспортного средства - это документ, который необходимо иметь при себе и предъявлять во время контроля.",
             "Odległość powinna wynosić 100 m": "Расстояние должно составлять 100 м.",
             "Czy w tej sytuacji masz podstawy do zastosowania tzw. ograniczonego zaufania wobec kierującego pojazdem wjeżdżającym na skrzyżowanie z prawej strony?": "В этой ситуации у тебя есть основания для применения так называемого ограниченного доверия по отношению к водителю, въезжающему на перекресток справа?",
             "Zachowanie kierującego jest czytelne": "Поведение водителя ясное.",
@@ -1609,9 +1614,7 @@
             "Kierujący w czasie wymijania w warunkach niedostatecznej widoczności powinien zachować ostrożność": "Водитель во время проезда мимо встречного ТС при условиях недостаточной видимости должен соблюдать осторожность.",
             "Poddawanie pojazdu okresowym badaniom technicznym": "Периодическое техническое обследование автомобиля.",
             "Który z obowiązków dotyczy właściciela samochodu osobowego?": "Какое из обязанностей касается владельца автомобиля?",
-            "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, когда транспортное средство работает на газе.",
-            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu - jest dokumentem, który należy mieć przy sobie i okazywać podczas kontroli": "Квитанция о временном изъятии разрешения на период, когда оно дает права на управление транспортным средством, является документом, который следует иметь при себе и предъявлять во время проверки.",
-            "Pokwitowanie zatrzymania pozwolenia czasowego w okresie, w którym uprawnia ono do używania pojazdu": "Квитанция о временном изъятии временного разрешения в период, когда оно уполномочивает на использование транспортного средства."
+            "Zaświadczenie o przeprowadzonym badaniu technicznym, w przypadku, gdy pojazd jest zasilany gazem": "Свидетельство о проведенном техническом осмотре, в случае, когда транспортное средство работает на газе."
         }
     },
     "not_approved": {
@@ -1782,7 +1785,6 @@
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na:\n\n\nPolicjant zatrzyma": "Полицейский задержит водительские права по квитанции в случае раскрытия действия, заключающегося в:\n\n\nПолицейский остановит",
         "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
@@ -1795,7 +1797,6 @@
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
-        "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Получение водительского удостоверения в период, в течение которого оно дает право на вождение.",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
         "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности.",
@@ -2249,7 +2250,6 @@
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
         "O kolejny miesiąc": "На следующий месяц.",
         "O kolejne dwa miesiące": "На следующие два месяца.",
-        "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит срок задержания водительского удостоверения, если вы были остановлены для проверки, когда управляли транспортным средством, несмотря на то, что ранее ваше водительское удостоверение было задержано на три месяца за перевозку людей в количестве, превышающем на два количество мест, указанное в свидетельстве о регистрации легкового автомобиля?",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
         "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения.",
@@ -2322,7 +2322,6 @@
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта.",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский заберет водительское удостоверение с квитанцией в случае выявления преступления, заключающегося в: Полицейский заберет",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?",
         "Kierujący pojazdem jest obowiązany zbliżyć się na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан подъехать на дороге с односторонним движением к ее левой кромке – если он намеревается повернуть налево.",
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
@@ -2694,7 +2693,6 @@
         "Orzeczenie psychologiczne": "Психологическое заключение.",
         "Zarządca drogi": "Управляющий дорогой.",
         "Straż Miejska": "Муниципальная стража.",
-        "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры после проведения технического осмотра, соответствующего причине задержания регистрационного документа.",
         "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
         "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
@@ -2853,7 +2851,6 @@
         "Poruszamy się drogą podporządkowaną. (Znak \"STOP\")": "Мы движемся по второстепенной дороге. (Знак \"СТОП\")",
         "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem": "Пешеход, переходя через проезжую часть или пути трамвайные, обязан проявлять особую осторожность и использовать пешеходный переход. Пешеход, находящийся на этом переходе, имеет преимущество перед транспортным средством.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
-        "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania jest wymagane podczas kontroli drogowej": "Квитанция о задержании водительских прав в тот период, когда они дают право на управление, требуется во время дорожного контроля.",
         "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
