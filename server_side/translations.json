@@ -8,7 +8,8 @@
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы сохранять дистанцию как минимум 1 метр от объездаемого объекта?",
-        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?"
+        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?",
+        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?"
     },
     "approved": {
         "pokwitowanie": {
@@ -1628,7 +1629,11 @@
             "Czy w tym miejscu możesz skręcić w lewo, na parking?": "В этом месте вы можете повернуть налево, на парковку?",
             "Czy masz prawo cofać pojazdem na drodze ekspresowej?": "Вы имеете право отъезжать задним ходом автомобилем на \"drodze ekspresowej\"?",
             "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie?": "Разрешена ли дальнейшая поездка через перекресток в представленной ситуации?",
-            "Czy w przedstawionej sytuacji poruszasz się drogą jednokierunkową?": "Движешься ли ты в данной ситуации по дороге с односторонним движением?"
+            "Czy w przedstawionej sytuacji poruszasz się drogą jednokierunkową?": "Движешься ли ты в данной ситуации по дороге с односторонним движением?",
+            "Czy masz prawo zatrzymać pojazd w tunelu?": "Вы имеете право остановить автомобиль в туннеле?",
+            "Czy podczas omijania obowiązuje Cię zachowanie bezpiecznego odstępu?": "Обязаны ли вы соблюдать безопасную дистанцию во время объезда?",
+            "Tak, ale tylko po zmroku": "Да, но только после наступления темноты.",
+            "Tak": "Да."
         }
     },
     "not_approved": {
@@ -1662,7 +1667,6 @@
         "Czy widoczny znak informuje o wskazanym na znaku obiekcie znajdującym się przy drodze?": "Указывает ли видимый знак что объект, указанный на знаке, находится у дороги?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
-        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?",
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
@@ -1985,7 +1989,6 @@
         "Testy na prawo jazdy": "Тесты на водительские права",
         "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
         "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
-        "Czy masz prawo zatrzymać pojazd w tunelu?": "Вы имеете право остановить автомобиль в туннеле?",
         "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
@@ -2777,7 +2780,6 @@
         "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
         "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
         "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
-        "Tak, ale tylko po zmroku": "Да, но только после наступления темноты.",
         "Jedną z zasad ogólnych jest obowiązek poruszania się możliwie blisko prawej krawędzi": "Одним из общих правил является обязанность двигаться как можно ближе к правой кромке.",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Jeżeli pomimo decyzji o zatrzymaniu prawa jazdy na 3 miesiące osoba nadal kierowała pojazdem, starosta przedłuża okres, na który zatrzymano prawo jazdy do 6 miesięcy": "Если, несмотря на решение о приостановлении водительских прав на 3 месяца, человек продолжал управлять транспортным средством, староста продлевает период, на который приостановлено водительское удостоверение, до 6 месяцев.",
