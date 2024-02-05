@@ -7,7 +7,6 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, едучи прямо, тебе разрешается двигаться непосредственно у правого края проезжей части?",
         "Ten znak wskazujący przejazd tranzytowy": "Этот знак указывает на транзитное проездное место.",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можете ли вы повернуть направо на такой обозначенный участок, управляя автомобилем?",
@@ -1862,7 +1861,8 @@
             "Czy kierujący zespołem pojazdów o rzeczywistej masie całkowitej powyżej 3,5 tony jest uprzedzany o zakazie występującym na wskazanej drodze bezpośrednio za skrzyżowaniem?": "Водителю автопоезда с разрешенной максимальной массой свыше 3,5 тонны сообщается о запрете, действующем на указанной дороге сразу после перекрестка?",
             "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
             "Czy na jezdni oznaczonej tym znakiem wolno Ci zawrócić?": "Разрешен ли тебе разворот на проезжей части, обозначенной этим знаком?",
-            "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения."
+            "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
+            "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В данной ситуации, двигаясь прямо, разрешается ли тебе двигаться непосредственно вдоль правой кромки проезжей части?"
         }
     },
     "not_approved": {
