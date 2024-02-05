@@ -7,7 +7,6 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?"
     },
     "approved": {
@@ -1663,7 +1662,11 @@
             "Jazda na wprost nie jest zmianą kierunku jazdy": "Езда прямо не является изменением направления движения.",
             "Znak umieszczony nad sygnalizatorem nakazuje skręt w prawo": "Знак, установленный над светофором, предписывает поворот направо.",
             "Kierującemu pojazdem zabrania się objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Водителю запрещается объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если началось их опускание или подъем не был завершен.",
-            "Poruszamy się drogą z pierwszeństwem": "Мы движемся по главной дороге."
+            "Poruszamy się drogą z pierwszeństwem": "Мы движемся по главной дороге.",
+            "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
+            "Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie lub drodze ekspresowej": "Запрещается движение задним ходом на транспортном средстве в туннеле, на мосту, эстакаде, автостраде или \"drodze ekspresowej\".",
+            "Pozycja do skrętu była właściwa. Po skręcie można zająć dowolny pas": "Положение для поворота было правильным. После поворота можно занять любую полосу.",
+            "Skręt w lewo uniemożliwia linia ciągła": "Поворот налево запрещает сплошная линия."
         }
     },
     "not_approved": {
@@ -2148,7 +2151,6 @@
         "Znak informacyjny informuje o przejeździe dla rowerzystów i przejściu dla pieszych": "Информационный знак информирует о велосипедном переезде и пешеходном переходе.",
         "Czy w widocznej sytuacji masz obowiązek jak najszybciej powrócić na prawą część jezdni?": "В данной ситуации обязаны ли вы как можно скорее вернуться на правую часть проезжей части?",
         "Zgodnie z oznakowaniem poziomym": "Согласно горизонтальной дорожной разметке.",
-        "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
         "Znak oznacza koniec drogi ekspresowej (za 1000 metrów)": "Знак означает конец \"drogi ekspresowej\" (через 1000 метров).",
         "Czy widoczny znak oznacza koniec drogi ekspresowej?": "Видимый знак означает конец \"drogi ekspresowej\"?",
         "Znak oznacza koniec drogi ekspresowej": "Знак означает конец \"drogi ekspresowej\".",
@@ -2416,7 +2418,6 @@
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
-        "Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie lub drodze ekspresowej": "Запрещается движение задним ходом на транспортном средстве в туннеле, на мосту, эстакаде, автостраде или \"drodze ekspresowej\".",
         "50 km\/h w obszarze zabudowanym": "50 км\/ч в населенном пункте.",
         "Z jaką maksymalną dopuszczalną prędkością możesz holować inny pojazd?": "С какой максимальной разрешенной скоростью вы можете буксировать другое ТС?",
         "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
@@ -2946,6 +2947,7 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Свернув налево на этом перекрестке, ты соблюдал правильную траекторию движения?"
     }
 }
