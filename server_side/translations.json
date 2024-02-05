@@ -1675,7 +1675,11 @@
             "Na kierującym spoczywa obowiązek poruszania się z prędkością nie utrudniającą jazdy innym kierującym": "На водителе лежит обязанность двигаться с такой скоростью, которая не затрудняет движение другим водителям.",
             "Kierujący pojazdem uczestniczący w zdarzeniu drogowym, w którym nie ma osób zabitych lub rannych ma obowiązek niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu": "Водитель транспортного средства, участвующий в дорожно-транспортном происшествии, в котором нет погибших или раненых, обязан немедленно убрать транспортное средство с места аварии, чтобы не создавать опасности или препятствовать движению.",
             "Prawidłowe ustawienie fotela zapewnia swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Правильная регулировка сиденья обеспечивает свободный доступ к устройствам транспортного средства, служащим для управления и контроля за ним.",
-            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierowcy": "С увеличением скорости сужается поле зрения водителя."
+            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierowcy": "С увеличением скорости сужается поле зрения водителя.",
+            "Czy na tej drodze możesz spodziewać się rowerzystów nadjeżdżających z przeciwka?": "Можете ли вы ожидать на этой дороге приближающихся встречных велосипедистов?",
+            "Pod znakiem Droga Jednokierunkowa umieszczono tabliczkę wyłączającą rowerzystów": "Под знаком \"Односторонняя дорога\" установлена табличка, исключающая велосипедистов.",
+            "Czy w tej sytuacji, gdy zamierzasz jechać do Gdańska, należy zmienić pas ruchu na lewy?": "В этой ситуации, когда вы собираетесь ехать в Гданьск, нужно ли перестраиваться на левую полосу?",
+            "Znaki kierunku i miejscowości są umieszczone nad pasami ruchu, których dotyczą": "Знаки направления и местности установлены над полосами движения, которых они касаются."
         }
     },
     "not_approved": {
@@ -2222,10 +2226,6 @@
         "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6.",
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
-        "Czy na tej drodze możesz spodziewać się rowerzystów nadjeżdżających z przeciwka?": "Можете ли вы ожидать на этой дороге приближающихся встречных велосипедистов?",
-        "Pod znakiem Droga Jednokierunkowa umieszczono tabliczkę wyłączającą rowerzystów": "Под знаком \"Односторонняя дорога\" установлена табличка, исключающая велосипедистов.",
-        "Czy w tej sytuacji, gdy zamierzasz jechać do Gdańska, należy zmienić pas ruchu na lewy?": "В этой ситуации, когда вы собираетесь ехать в Гданьск, нужно ли перестраиваться на левую полосу?",
-        "Znaki kierunku i miejscowości są umieszczone nad pasami ruchu, których dotyczą": "Знаки направления и местности установлены над полосами движения, которых они касаются.",
         "Prawy pas przeznaczony jest tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку пассажиров на регулярных маршрутах.",
         "Ten znak to koniec obszaru zabudowanego": "Этот знак означает конец населенного пункта.",
         "Czy w odległości 1000 metrów od tego znaku rozpocznie się droga ekspresowa?": "Начнётся ли \"droga ekspresowa\" на расстоянии 1000 метров от этого знака?",
