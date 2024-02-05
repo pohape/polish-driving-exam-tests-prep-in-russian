@@ -8,9 +8,9 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировать с помощью соединения жесткого транспортного средства с неисправным рулевым управлением?",
         "W jaki sposób powinieneś obserwować drogę podczas jazdy w ruchu miejskim?": "В каком способе ты должен наблюдать за дорогой во время езды в городском движении?",
-        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения."
+        "Tak, aby uzyskać szerokie pole widzenia": "Да, чтобы получить широкое поле зрения.",
+        "Czy dopuszczalne jest holowanie za pomocą połączenia sztywnego pojazdu o niesprawnym układzie kierowniczym?": "Допустимо ли буксировка с помощью жёсткой сцепки транспортного средства с неисправной системой управления?"
     },
     "approved": {
         "przeciwwskazania": {
@@ -1575,7 +1575,10 @@
             "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość mniejszą niż 50 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние меньше 50 м?",
             "Kierujący podczas wymijania powinien zachować bezpieczny odstęp od wymijanego pojazdu lub uczestnika ruchu, a w razie potrzeby zjechać na prawo i zmniejszyć prędkość lub zatrzymać się": "Водитель при прохождении мимо встречного ТС должен сохранять безопасную дистанцию от минуемого ТС или участника движения, а при необходимости съехать вправо и снизить скорость или остановиться.",
             "Jeżeli przejście dla pieszych wyznaczone jest na drodze dwujezdniowej, przejście na każdej jezdni uważa się za przejście odrębne. Przepis ten stosuje się odpowiednio do przejścia dla pieszych w miejscu, w którym ruch pojazdów jest rozdzielony wysepką lub za pomocą innych urządzeń na jezdni": "Если пешеходный переход обозначен на дороге с двумя проезжими частями, переход на каждой проезжей части считается отдельным переходом. Это правило применяется соответственно к пешеходному переходу в месте, где движение транспортных средств разделено островком безопасности или с помощью других устройств на проезжей части.",
-            "Sprawność bezpieczników": "Исправность предохранителей."
+            "Sprawność bezpieczników": "Исправность предохранителей.",
+            "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников.",
+            "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
+            "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения."
         }
     },
     "not_approved": {
@@ -2252,7 +2255,6 @@
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
         "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
-        "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колес при торможении. В автомобилях, оснащенных ABS, мы не рискуем потерять управление во время резкого и интенсивного торможения.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?",
@@ -2881,7 +2883,6 @@
         "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте.",
         "W przypadku przekroczenia punktów karnych w liczbie 24 i nie przedstawienia zaświadczenia w wymaganym terminie o ukończeniu kursu reedukacyjnego starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy": "В случае превышения штрафных баллов в количестве 24 и не предоставления свидетельства в требуемый срок о завершении курса переобучения, староста выносит административное решение о изъятии водительского удостоверения.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
-        "Zwiększona częstotliwość migania kierunkowskazów może świadczyć o przepalaniu żarówki w jednej z lamp kierunkowskazów": "Увеличенная частота мигания поворотников может свидетельствовать о перегорании лампочки в одном из указателей поворотов.",
         "Bezpieczny odstęp od poprzedzającego pojazdu uzależniony jest od prędkości z jaką się poruszamy": "Безопасное расстояние от впереди идущего транспортного средства зависит от скорости, с которой мы движемся.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
@@ -2931,7 +2932,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней.",
-        "Sprawność żarówek kierunkowskazów": "Исправность ламп поворотников."
+        "Gdy upłynął termin ważności prawa jazdy, potwierdzenie zatrzymania prawa jazdy uprawnia do kierowania pojazdem w ciągu 7 dni": "Когда срок действия водительского удостоверения истек, подтверждение временного изъятия водительского удостоверения даёт право управлять транспортным средством в течение 7 дней."
     }
 }
