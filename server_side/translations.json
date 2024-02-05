@@ -1857,7 +1857,8 @@
             "Znak D-5: pierwszeństwo na zwężonym odcinku drogi": "Знак D-5: преимущество на суженном участке дороги.",
             "Czy ten znak oznacza, że przejeżdżasz przed kierującym zbliżającym się z kierunku przeciwnego?": "Этот знак означает, что проезжаете перед водителем, приближающимся с противоположного направления?",
             "Czy ten znak drogowy uprzedza o miejscu, w którym prędkość jazdy jest kontrolowana i rejestrowana przez stacjonarne urządzenie rejestrujące?": "Указывает ли этот дорожный знак на место, где скорость движения контролируется и регистрируется стационарным устройством записи?",
-            "Znak drogowy uprzedza o odcinkowym pomiarze prędkości": "Знак дорожный предупреждает о зоне измерения скорости на участке."
+            "Znak drogowy uprzedza o odcinkowym pomiarze prędkości": "Знак дорожный предупреждает о зоне измерения скорости на участке.",
+            "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6."
         }
     },
     "not_approved": {
@@ -2244,7 +2245,6 @@
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
         "Czy kierujący zespołem pojazdów o rzeczywistej masie całkowitej powyżej 3,5 tony jest uprzedzany o zakazie występującym na wskazanej drodze bezpośrednio za skrzyżowaniem?": "Водителю автопоезда с разрешенной максимальной массой свыше 3,5 тонны сообщается о запрете, действующем на указанной дороге сразу после перекрестка?",
-        "Jest uprzedzany za pomocą znaku F-6": "Он предупреждается с помощью знака F-6.",
         "Znak D-42 - początek obszaru zabudowanego": "Знак D-42 - начало населенного пункта.",
         "Czy w tej sytuacji wjeżdżasz do obszaru zabudowanego?": "В этой ситуации ты въезжаешь на территорию населенного пункта?",
         "Znak widoczny na zdjęciu oznacza początek lub kontynuację drogi ekspresowej. Tabliczka pod znakiem wskazuje odległość znaku informacyjnego od początku (końca) drogi lub pasa ruchu": "Знак, видимый на фотографии, означает начало или продолжение \"drogi ekspresowej\". Табличка под знаком указывает расстояние информационного знака от начала (конца) дороги или полосы движения.",
