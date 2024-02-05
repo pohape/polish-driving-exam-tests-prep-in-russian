@@ -7,7 +7,6 @@
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы сохранять дистанцию как минимум 1 метр от объездаемого объекта?",
         "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Ты соблюдал правильную траекторию движения, поворачивая налево на этом перекрестке?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?"
     },
@@ -1655,7 +1654,11 @@
             "Wraz ze wzrostem prędkości kąt widzenia jest większy": "С увеличением скорости угол обзора становится больше.",
             "Wraz ze wzrostem prędkości kąt widzenia jest mniejszy": "С увеличением скорости угол обзора становится меньше.",
             "Nie ma żadnego wpływu": "Нет никакого влияния.",
-            "Zabrania się zatrzymania pojazdu na przejściu dla pieszych, na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem": "Запрещается остановка транспортного средства на пешеходном переходе, велосипедном переезде, а также на расстоянии меньше чем 10 метров перед этим переходом или переездом."
+            "Zabrania się zatrzymania pojazdu na przejściu dla pieszych, na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem": "Запрещается остановка транспортного средства на пешеходном переходе, велосипедном переезде, а также на расстоянии меньше чем 10 метров перед этим переходом или переездом.",
+            "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru": "Водитель ТС обязан заблаговременно и явно сигнализировать о намерении изменить направление движения или полосу движения, а также прекратить сигнализацию немедленно после выполнения маневра.",
+            "Znak ostrzegawczy ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждающий предупреждает о приближении к переезду со шлагбаумами.",
+            "Czy masz obowiązek zachować odstęp co najmniej 1 metra od omijanego obiektu?": "Обязаны ли вы соблюдать дистанцию не менее 1 метра от объезжаемого объекта?",
+            "Linia dzieląca pasy jest przerywana": "Линия, разделяющая полосы, прерывистая."
         }
     },
     "not_approved": {
@@ -2093,7 +2096,6 @@
         "Czy w tej sytuacji możesz zatrzymać pojazd na środkowym pasie jezdni?": "В этой ситуации вы можете остановить транспортное средство на средней полосе проезжей части?",
         "Środkowy pas jest przeznaczony do ruchu pojazdów szynowych": "Средняя полоса предназначена для движения железнодорожных транспортных средств.",
         "Czy w tej sytuacji kontynuując jazdę masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации должен ли вы сигнализировать о намерении сменить полосу движения?",
-        "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy lub pasa ruchu oraz zaprzestać sygnalizowania niezwłocznie po wykonaniu manewru": "Водитель ТС обязан заблаговременно и явно сигнализировать о намерении изменить направление движения или полосу движения, а также прекратить сигнализацию немедленно после выполнения маневра.",
         "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
         "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
         "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
@@ -2940,6 +2942,7 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Kierujący pojazdem jest obowiązany przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu": "Водитель транспортного средства обязан при прохождении мимо встречного транспортного средства сохранить безопасную дистанцию от минуемого транспортного средства."
     }
 }
