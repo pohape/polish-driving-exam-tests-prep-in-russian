@@ -1674,7 +1674,8 @@
             "Dopuszczalna prędkość w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
             "Na kierującym spoczywa obowiązek poruszania się z prędkością nie utrudniającą jazdy innym kierującym": "На водителе лежит обязанность двигаться с такой скоростью, которая не затрудняет движение другим водителям.",
             "Kierujący pojazdem uczestniczący w zdarzeniu drogowym, w którym nie ma osób zabitych lub rannych ma obowiązek niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu": "Водитель транспортного средства, участвующий в дорожно-транспортном происшествии, в котором нет погибших или раненых, обязан немедленно убрать транспортное средство с места аварии, чтобы не создавать опасности или препятствовать движению.",
-            "Prawidłowe ustawienie fotela zapewnia swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Правильная регулировка сиденья обеспечивает свободный доступ к устройствам транспортного средства, служащим для управления и контроля за ним."
+            "Prawidłowe ustawienie fotela zapewnia swobodny dostęp do urządzeń pojazdu służących do kierowania i sterowania nim": "Правильная регулировка сиденья обеспечивает свободный доступ к устройствам транспортного средства, служащим для управления и контроля за ним.",
+            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierowcy": "С увеличением скорости сужается поле зрения водителя."
         }
     },
     "not_approved": {
@@ -2953,6 +2954,7 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?"
+        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
+        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом"
     }
 }
