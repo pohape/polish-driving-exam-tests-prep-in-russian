@@ -1801,7 +1801,13 @@
             "Czy w tej sytuacji masz prawo kontynuować jazdę bez zatrzymania się?": "В этой ситуации имеете ли вы право продолжить движение без остановки?",
             "Świadczą o tym znak D-1 z tabliczką": "Это указывает знак D-1 с табличкой.",
             "Czy w tej sytuacji prawy skrajny pasu ruchu przeznaczony jest tylko dla pojazdów szynowych?": "В данной ситуации правая крайняя полоса движения предназначена только для железнодорожного транспорта?",
-            "Dla pojazdów szynowych nie jest przeznaczony skrajny prawy pas": "Для железнодорожного транспорта не предназначена крайняя правая полоса."
+            "Dla pojazdów szynowych nie jest przeznaczony skrajny prawy pas": "Для железнодорожного транспорта не предназначена крайняя правая полоса.",
+            "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": "В этой ситуации видимый знак справа сообщает вам, что вы приближаетесь к трамвайной остановке?",
+            "Znak informuje o przeznaczeniu pasów ruchu": "Знак информирует о назначении полос движения.",
+            "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?",
+            "Widoczny znak nie zabrania się poruszania skrajnym prawym pasem": "Видимый знак не запрещает движение по крайней правой полосе.",
+            "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
+            "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1."
         }
     },
     "not_approved": {
@@ -1913,7 +1919,6 @@
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
         "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
-        "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": "В этой ситуации видимый знак справа сообщает вам, что вы приближаетесь к трамвайной остановке?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Powinieneś posadzić dziecko na środku tylnego siedzenia": "Вы должны посадить ребенка в центр заднего сиденья.",
@@ -2194,11 +2199,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak informuje o przeznaczeniu pasów ruchu": "Знак информирует о назначении полос движения.",
-        "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?",
-        "Widoczny znak nie zabrania się poruszania skrajnym prawym pasem": "Видимый знак не запрещает движение по крайней правой полосе.",
-        "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
-        "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
         "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете ТС с газовой установкой LPG. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
         "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
         "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
