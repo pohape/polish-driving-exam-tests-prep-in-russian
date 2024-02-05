@@ -1808,7 +1808,10 @@
             "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?",
             "Widoczny znak nie zabrania się poruszania skrajnym prawym pasem": "Видимый знак не запрещает движение по крайней правой полосе.",
             "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
-            "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1."
+            "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
+            "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
+            "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
+            "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?"
         }
     },
     "not_approved": {
@@ -2200,9 +2203,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
-        "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
-        "Czy za tym znakiem wolno Ci poruszać się z dowolną prędkością?": "Разрешено ли вам двигаться с любой скоростью за этим знаком?",
         "Czy w tej sytuacji wjeżdżasz na obszar zabudowany?": "Вы въезжаете на территорию населенного пункта в этой ситуации?",
         "Wyjeżdżam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
         "Czy widoczny znak wskazuje pasy ruchu przeznaczone do jazdy w podanych kierunkach?": "Видимый знак указывает полосы движения, предназначенные для движения в указанных направлениях?",
