@@ -289,6 +289,8 @@
             "Czy po wykonaniu skrętu w lewo na najbliższym skrzyżowaniu będziesz poruszał się w kierunku miejscowości Prażmów?": "После поворота налево на ближайшем перекрестке, будете ли вы двигаться в направлении местности Prażmów?"
         },
         "droga bez przejazdu": {
+            "Czy w tej sytuacji jesteś uprzedzany, że skręcając w prawo za znakiem wjedziesz na drogę bez przejazdu?": "В этой ситуации тебя предупреждают, что свернув направо после знака, окажешься на тупике?",
+            "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
             "Nie jest zabronione zawracanie na drodze bez przejazdu": "Не запрещено разворачиваться в тупике."
         },
         "zespół pojazdów": {
@@ -1335,7 +1337,6 @@
             "Czy ten znak zezwala na wjazd do strefy czystego transportu pojazdem, który jest napędzany gazem ziemnym?": "Разрешает ли этот знак въезд в зону чистого транспорта транспортным средством, которое приводится в движение сжиженным газом?",
             "Czy w tej sytuacji należy zatrzymać się przed sygnalizatorem?": "В этой ситуации следует остановиться перед светофором?",
             "Czy ten znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o przeciwnym kierunku jazdy?": "Разделяет ли этот горизонтальный знак полосы движения, предназначенные для движения с противоположным направлением?",
-            "Czy w przedstawionej sytuacji skręcając na najbliższym skrzyżowaniu w lewo wjedziesz na drogę bez przejazdu?": "В переведенной ситуации, повернув на ближайшем перекрестке налево, вы въедете в тупик?",
             "Czy w tej sytuacji możesz rozpocząć wyprzedzanie?": "В этой ситуации вы можете начать обгон?",
             "Stopniowo zwalniać pedał sprzęgła": "Постепенно отпускайте педаль сцепления.",
             "Gwałtownie zwolnić pedał sprzęgła": "Резко отпустите педаль сцепления.",
@@ -1761,8 +1762,7 @@
             "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy?": "Имеете ли вы право сменить полосу движения на правую в данной ситуации?",
             "Czy z tego pasa ruchu masz prawo pojechać prosto przez skrzyżowanie?": "Имеете ли вы право продолжить движение прямо через перекресток с этой полосы движения?",
             "Oznakowanie poziome uniemożliwia jazdę prosto": "Горизонтальная разметка запрещает движение прямо.",
-            "Świadczy o tym znak pionowy": "Это обозначает вертикальный знак.",
-            "Czy w tej sytuacji jesteś uprzedzany, że skręcając w prawo za znakiem wjedziesz na drogę bez przejazdu?": "В этой ситуации тебя предупреждают, что свернув направо после знака, окажешься на тупике?"
+            "Świadczy o tym znak pionowy": "Это обозначает вертикальный знак."
         }
     },
     "not_approved": {
