@@ -1724,7 +1724,10 @@
             "Środkowy pas jest przeznaczony do ruchu pojazdów szynowych": "Средняя полоса предназначена для движения железнодорожных транспортных средств.",
             "Czy w tej sytuacji możesz zatrzymać pojazd na środkowym pasie jezdni?": "В этой ситуации можно остановить транспортное средство на средней полосе проезжей части?",
             "Czy w tej sytuacji kontynuując jazdę masz obowiązek sygnalizować zamiar zmiany pasa ruchu?": "В этой ситуации должен ли вы сигнализировать о намерении сменить полосу движения?",
-            "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?"
+            "Czy widoczny po prawej stronie jezdni znak pionowy, wskazuje dozwolone kierunki jazdy z poszczególnych pasów ruchu?": "Видимый справа от проезжей части вертикальный знак указывает разрешенные направления движения с каждой полосы движения?",
+            "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
+            "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
+            "Tabliczka informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej": "Табличка информирует о месте, предназначенном для автомобиля, принадлежащего инвалиду с ограниченной подвижностью."
         }
     },
     "not_approved": {
@@ -2128,9 +2131,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak wskazuje dozwolone, zgodnie ze strzałkami umieszczonymi na znaku, kierunki jazdy z poszczególnych pasów ruchu": "Знак указывает разрешенные, согласно стрелкам, расположенным на знаке, направления движения с каждой из полос движения.",
-        "Czy widoczna pod znakiem tabliczka informuje o miejscu przeznaczonym do parkowania wyłącznie dla pojazdów samochodowych oznaczonych kartą parkingową?": "Видимая под знаком табличка информирует о месте, предназначенном для парковки исключительно для автомобилей, обозначенных парковочной картой?",
-        "Tabliczka informuje o miejscu przeznaczonym dla pojazdu samochodowego uprawnionej osoby niepełnosprawnej o obniżonej sprawności ruchowej": "Табличка информирует о месте, предназначенном для автомобиля, принадлежащего инвалиду с ограниченной подвижностью.",
         "Czy widoczny po prawej stronie znak pionowy informuje Cię o miejscu przejeżdżania rowerzystów w poprzek drogi?": "Видимый справа вертикальный знак информирует вас о месте пересечения дороги велосипедистами?",
         "Znak oznacza miejsce przeznaczone do przejeżdżania rowerzystów w poprzek drogi": "Знак обозначает место, предназначенное для пересечения дороги велосипедистами в поперечном направлении.",
         "Czy widoczny znak pionowy informuje Cię, że zbliżasz się do restauracji i hotelu?": "Видимый вертикальный знак информирует тебя о том, что ты приближаешься к ресторану и отелю?",
