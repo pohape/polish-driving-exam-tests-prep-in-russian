@@ -1692,7 +1692,9 @@
             "Ten znak to \"Początek obszaru zabudowanego\"": "Этот знак обозначает \"Начало населённого пункта\".",
             "Czy w tej sytuacji wolno Ci zmienić pas ruchu na znajdujący się przy prawej krawędzi jezdni?": "Разрешено ли в этой ситуации менять полосу движения на расположенную у правого края проезжей части?",
             "Prawy pas jest przeznaczony tylko dla autobusów lub trolejbusów oraz innych pojazdów wykonujących odpłatny przewóz osób na regularnych liniach. Umieszczony na znaku napis TAXI oznacza, że na pasie oznaczonym tym znakiem jest dopuszczony także ruch taksówek": "Правая полоса предназначена только для автобусов или троллейбусов, а также других транспортных средств, осуществляющих платную перевозку людей по регулярным маршрутам. Надпись TAXI на знаке означает, что на полосе, обозначенной этим знаком, также разрешено движение такси.",
-            "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности."
+            "Ten znak oznacza koniec miejscowości": "Этот знак означает конец местности.",
+            "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
+            "Czy oznakowanie wskazuje, że droga, którą jedziesz jest podporządkowana?": "Указывает ли дорожная разметка на то, что дорога, по которой вы едете, является второстепенной?"
         }
     },
     "not_approved": {
@@ -1934,7 +1936,6 @@
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
-        "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
@@ -2098,7 +2099,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Czy oznakowanie wskazuje, że droga, którą jedziesz jest podporządkowana?": "Указывает ли дорожная разметка на то, что дорога, по которой вы едете, является второстепенной?",
         "Czy w tej sytuacji, jadąc na wprost, wolno Ci poruszać się bezpośrednio przy prawej krawędzi jezdni?": "В этой ситуации, двигаясь прямо, можно ли вам двигаться прямо по правому краю проезжей части?",
         "Bezpośrednio przy prawej krawędzi jezdni znajduje się pas dla rowerów": "Прямо у правого края проезжей части находится велосипедная дорожка.",
         "Czy za tym znakiem informacyjnym, prawym pasem ruchu mogą poruszać się jedynie uprawnione pojazdy?": "Могут ли за этим информационным знаком только уполномоченные транспортные средства двигаться по правой полосе движения?",
