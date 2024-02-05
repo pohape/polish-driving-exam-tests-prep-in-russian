@@ -6,8 +6,7 @@
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
-        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "На этом перекрестке у вас есть право повернуть налево от занятой полосы движения?"
+        "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду."
     },
     "approved": {
         "pokwitowanie": {
@@ -1666,7 +1665,14 @@
             "Kierujący pojazdem ma obowiązek stosować się do poleceń i sygnałów osoby uprawnionej do kierowania ruchem drogowym": "Водитель транспортного средства обязан подчиняться указаниям и сигналам лица, уполномоченного на управление дорожным движением.",
             "Zabrania się cofania pojazdem w tunelu, na moście, wiadukcie, autostradzie lub drodze ekspresowej": "Запрещается движение задним ходом на транспортном средстве в туннеле, на мосту, эстакаде, автостраде или \"drodze ekspresowej\".",
             "Pozycja do skrętu była właściwa. Po skręcie można zająć dowolny pas": "Положение для поворота было правильным. После поворота можно занять любую полосу.",
-            "Skręt w lewo uniemożliwia linia ciągła": "Поворот налево запрещает сплошная линия."
+            "Skręt w lewo uniemożliwia linia ciągła": "Поворот налево запрещает сплошная линия.",
+            "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Свернув налево на этом перекрестке, ты соблюдал правильную траекторию движения?",
+            "Sygnał czerwony zabrania wjazdu za sygnalizator": "Красный сигнал запрещает въезд за светофор.",
+            "Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych": "Двойная сплошная линия разделяет полосы движения с противоположными направлениями.",
+            "Lewy pas służy do skrętu w lewo, jazdy na wprost i zawracania": "Левая полоса используется для поворота влево, прямого движения и разворота.",
+            "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
+            "Dopuszczalna prędkość w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
+            "Na kierującym spoczywa obowiązek poruszania się z prędkością nie utrudniającą jazdy innym kierującym": "На водителе лежит обязанность двигаться с такой скоростью, которая не затрудняет движение другим водителям."
         }
     },
     "not_approved": {
@@ -1715,7 +1721,6 @@
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Znak informuje o znajdującym się przy drodze obiekcie wskazanym na znaku": "Знак сообщает об объекте, указанном на знаке.",
         "Wkrótce": "Вскоре",
-        "Lewy pas służy do skrętu w lewo, jazdy na wprost i zawracania": "Левая полоса используется для поворота влево, прямого движения и разворота.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
@@ -2685,7 +2690,6 @@
         "Czy w tej sytuacji masz prawo ominąć przeszkodę wykorzystując część jezdni przeznaczoną dla jadących z przeciwka?": "В этой ситуации имеете ли вы право объехать препятствие, используя часть проезжей части, предназначенную для встречного движения?",
         "W takiej sytuacji dopuszcza się przekroczenie linii ciągłej": "В такой ситуации допускается пересечение сплошной линии.",
         "Czy w tej sytuacji znajdujesz się na jezdni dwukierunkowej?": "Ты находишься в этой ситуации на дороге с двусторонним движением?",
-        "Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych": "Двойная сплошная линия разделяет полосы движения с противоположными направлениями.",
         "Czy w tej sytuacji prawy pas ruchu jest przeznaczony dla każdego pojazdu?": "В этой ситуации правая полоса движения предназначена для любого транспортного средства?",
         "Czy ten znak poziomy zabrania zmiany pasa ruchu?": "Запрещает ли этот горизонтальный знак смену полосы движения?",
         "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Эта линия разделяет полосы движения в одном направлении и кроме того, означает запрет пересекать (наезжать на) линию.",
@@ -2757,7 +2761,6 @@
         "Świadczy o tym znak \"ustąp pierwszeństwa\" umieszczony przed skrzyżowaniem": "Об этом свидетельствует знак \"уступи преимущество\", расположенный перед перекрестком.",
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
-        "Zabrania się zatrzymania pojazdu w tunelu, na moście lub na wiadukcie": "Запрещается останавливать транспортное средство в тоннеле, на мосту или на эстакаде.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
@@ -2948,6 +2951,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy skręcając w lewo na tym skrzyżowaniu zachowałeś właściwy tor jazdy?": "Свернув налево на этом перекрестке, ты соблюдал правильную траекторию движения?"
+        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?"
     }
 }
