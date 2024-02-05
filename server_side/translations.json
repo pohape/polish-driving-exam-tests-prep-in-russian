@@ -1645,7 +1645,12 @@
             "Nie, tylko od godziny 5:00 do 23:00": "Нет, только с 5:00 до 23:00.",
             "Nie, tylko od zmierzchu do świtu": "Нет, только с сумерек до рассвета.",
             "Orzeczenie psychologiczne, jeżeli wykonujesz zarobkowy przewóz osób": "Психологическое заключение, если выполняешь коммерческие перевозки людей.",
-            "Orzeczenie lekarskie": "Медицинское заключение."
+            "Orzeczenie lekarskie": "Медицинское заключение.",
+            "Tylko pod warunkiem nie przekraczania prędkości 30 km\/h": "Только при условии не превышения скорости 30 км \/ ч.",
+            "Do 20 km\/h": "До 20 км \/ ч.",
+            "Do 30 km\/h": "До 30 км \/ ч.",
+            "Do 50 km\/h": "До 50 км \/ ч.",
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać na drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете ехать по дороге за этим знаком?"
         }
     },
     "not_approved": {
@@ -1743,7 +1748,6 @@
         "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
         "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
         "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
-        "Do 30 km\/h": "До 30 км \/ ч.",
         "Masa pojazdu": "Масса автомобиля.",
         "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
         "Dlaczego nie?": "Почему бы и нет?",
@@ -1880,10 +1884,8 @@
         "Początkowej": "Начальный.",
         "Końcowej": "Окончательной.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
-        "Do 20 km\/h": "До 20 км \/ ч.",
         "W jakim terminie masz obowiązek przeprowadzać okresowe badanie techniczne samochodu osobowego?": "В какой срок вы обязаны проводить периодическое техническое обследование легкового автомобиля?",
         "Taka postawa policjanta umożliwia skręt w lewo": "Такое положение полицейского позволяет повернуть налево.",
-        "Z jaką maksymalną dopuszczalną prędkością możesz jechać na drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете ехать по дороге за этим знаком?",
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
@@ -1896,7 +1898,6 @@
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
         "Czy w tej sytuacji wolno Ci w niedzielę korzystać z pasa ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено использовать полосу движения на правом краю дороги в воскресенье?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
-        "Tylko pod warunkiem nie przekraczania prędkości 30 km\/h": "Только при условии не превышения скорости 30 км \/ ч.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
@@ -1907,7 +1908,6 @@
         "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Czy w przedstawionej sytuacji należy spodziewać się utrudnień ruchu?": "Следует ли в данной ситуации ожидать затруднений при движении?",
-        "Do 50 km\/h": "До 50 км \/ ч.",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
