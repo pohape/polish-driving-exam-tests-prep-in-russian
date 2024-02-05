@@ -1736,7 +1736,12 @@
             "Czy w tej sytuacji wolno Ci zawrócić bezpośrednio za pierwszym znakiem informacyjnym?": "В данной ситуации разрешено ли тебе развернуться сразу после первого информационного знака?",
             "Zabrania się zawracania na drodze jednokierunkowej": "Запрещается разворачиваться на односторонней дороге.",
             "Czy po wjeździe na drogę oznaczoną tymi znakami pionowymi, masz prawo kontynuować jazdę z prędkością 30 km\/h?": "После въезда на дорогу, обозначенную этими вертикальными знаками, у вас есть право продолжать движение со скоростью 30 км\/ч?",
-            "Zabrania się cofania w tunelu": "Запрещается двигаться задним ходом в тоннеле."
+            "Zabrania się cofania w tunelu": "Запрещается двигаться задним ходом в тоннеле.",
+            "Znak informuje o końcu drogi ekspresowej": "Знак информирует о конце \"drogi ekspresowej\".",
+            "Znak informuje o początku drogi ekspresowej": "Знак информирует о начале \"drogi ekspresowej\".",
+            "Czy w tej sytuacji, kierując samochodem osobowym, masz prawo kontynuować jazdę prawym pasem ruchu?": "В данной ситуации, управляя легковым автомобилем, имеете ли вы право продолжать движение по правой полосе движения?",
+            "W tej sytuacji prawy pas jest przeznaczony dla pojazdów określonych na znaku": "В этой ситуации правая полоса предназначена для транспортных средств, указанных на знаке.",
+            "Zabrania się najeżdżania na linię ciągłą": "Запрещается наезжать на сплошную линию."
         }
     },
     "not_approved": {
@@ -2140,11 +2145,6 @@
         "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
-        "Znak informuje o końcu drogi ekspresowej": "Знак информирует о конце \"drogi ekspresowej\".",
-        "Znak informuje o początku drogi ekspresowej": "Знак информирует о начале \"drogi ekspresowej\".",
-        "Czy w tej sytuacji, kierując samochodem osobowym, masz prawo kontynuować jazdę prawym pasem ruchu?": "В данной ситуации, управляя легковым автомобилем, имеете ли вы право продолжать движение по правой полосе движения?",
-        "W tej sytuacji prawy pas jest przeznaczony dla pojazdów określonych na znaku": "В этой ситуации правая полоса предназначена для транспортных средств, указанных на знаке.",
-        "Zabrania się najeżdżania na linię ciągłą": "Запрещается наезжать на сплошную линию.",
         "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Вы имеете право продолжить движение прямо, двигаясь по этой полосе движения?",
         "Ten pas służy do krętu w lewo": "Эта полоса предназначена для поворота налево.",
         "Czy mając zamiar zawrócić na tym skrzyżowaniu jesteś na właściwym pasie ruchu?": "Собираясь развернуться на этом перекрестке, вы находитесь в правильной полосе движения?",
