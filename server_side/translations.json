@@ -1650,7 +1650,11 @@
             "Do 20 km\/h": "До 20 км \/ ч.",
             "Do 30 km\/h": "До 30 км \/ ч.",
             "Do 50 km\/h": "До 50 км \/ ч.",
-            "Z jaką maksymalną dopuszczalną prędkością możesz jechać na drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете ехать по дороге за этим знаком?"
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać na drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете ехать по дороге за этим знаком?",
+            "Jaki wpływ ma prędkość jazdy na kąt widzenia kierującego samochodem osobowym?": "Какое влияние оказывает скорость движения на угол обзора водителя автомобиля?",
+            "Wraz ze wzrostem prędkości kąt widzenia jest większy": "С увеличением скорости угол обзора становится больше.",
+            "Wraz ze wzrostem prędkości kąt widzenia jest mniejszy": "С увеличением скорости угол обзора становится меньше.",
+            "Nie ma żadnego wpływu": "Нет никакого влияния."
         }
     },
     "not_approved": {
@@ -2935,6 +2939,7 @@
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
-        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+        "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+        "Zabrania się zatrzymania pojazdu na przejściu dla pieszych, na przejeździe dla rowerzystów oraz w odległości mniejszej niż 10 m przed tym przejściem lub przejazdem": "Запрещается остановка транспортного средства на пешеходном переходе, велосипедном переезде, а также на расстоянии меньше чем 10 метров перед этим переходом или переездом."
     }
 }
