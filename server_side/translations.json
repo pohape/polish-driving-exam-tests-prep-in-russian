@@ -1861,7 +1861,12 @@
             "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает тебя о месте выезда преимущественных транспортных средств?",
             "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка сжиженного углеводородного газа не является грузом на транспортном средстве.",
             "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
-            "Czy w tej sytuacji białe punktowe elementy odblaskowe wyznaczają lewą krawędź jezdni?": "В данной ситуации белые точечные светоотражающие элементы обозначают левый край проезжей части?"
+            "Czy w tej sytuacji białe punktowe elementy odblaskowe wyznaczają lewą krawędź jezdni?": "В данной ситуации белые точечные светоотражающие элементы обозначают левый край проезжей части?",
+            "Czy wolno Ci przejechać przez widoczne skrzyżowanie bez zatrzymania się w miejscu wskazanym linią?": "Разрешается ли тебе проехать через видимый перекресток без остановки в месте, указанном стоп-линией?",
+            "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?",
+            "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Горизонтальная разметка, а также светофор S-3 позволяют выполнить разворот.",
+            "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
+            "Wynika to z oznakowania poziomego": "Это следует из горизонтальной разметки."
         }
     },
     "not_approved": {
@@ -2010,7 +2015,6 @@
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
-        "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
@@ -2633,7 +2637,6 @@
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
         "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "В данной ситуации разрешает ли сигнал, подаваемый полицейским, въезд на перекресток?",
         "Czy zatrzymanie w tym miejscu jest dozwolone?": "Разрешена ли остановка в этом месте?",
-        "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?",
         "Czy w tej sytuacji sygnał świetlny zabrania Ci zawracania na skrzyżowaniu?": "В данной ситуации светофор запрещает вам разворачиваться на перекрестке?",
         "Czy w celu wysadzenia pasażera, wolno Ci zatrzymać pojazd na tym przystanku?": "Разрешается ли вам остановить транспортное средство на этой остановке, чтобы высадить пассажира?",
         "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
