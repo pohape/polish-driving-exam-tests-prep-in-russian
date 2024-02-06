@@ -8,7 +8,8 @@
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
-        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства."
+        "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
+        "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1858,7 +1859,9 @@
             "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Имеешь ли ты право продолжить движение прямо, двигаясь по этой полосе движения?",
             "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, находиться за видимым знаком, оставаясь не обозначенными предупредительными знаками?",
             "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает тебя о месте выезда преимущественных транспортных средств?",
-            "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка сжиженного углеводородного газа не является грузом на транспортном средстве."
+            "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка сжиженного углеводородного газа не является грузом на транспортном средстве.",
+            "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
+            "Czy w tej sytuacji białe punktowe elementy odblaskowe wyznaczają lewą krawędź jezdni?": "В данной ситуации белые точечные светоотражающие элементы обозначают левый край проезжей части?"
         }
     },
     "not_approved": {
@@ -2929,7 +2932,6 @@
         "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
-        "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
