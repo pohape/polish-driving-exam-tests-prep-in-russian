@@ -1869,7 +1869,8 @@
             "Czy w tej sytuacji masz prawo odjechać i pozostawić leżącą osobę bez pomocy?": "В этой ситуации у тебя есть право уехать и оставить лежащего человека без помощи?",
             "Czy w tej sytuacji, w przypadku unieruchomienia pojazdu z powodu awarii, masz obowiązek niezwłocznie usunąć go z przejazdu, a jeśli jest to niemożliwe, ostrzec o zagrożeniu kierującego pojazdem szynowym?": "В данной ситуации, если транспортное средство остановилось из-за неисправности, обязаны ли вы немедленно убрать его с переезда, а если это невозможно, предупредить о опасности машиниста железнодорожного транспорта?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?",
-            "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?"
+            "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
+            "Czy w tej sytuacji masz prawo wyprzedzić pojazd?": "Имеете ли вы право обгонять автомобиль в этой ситуации?"
         }
     },
     "not_approved": {
@@ -1971,7 +1972,6 @@
         "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?": "Разрешается ли вам проехать через видимый переезд после трогания автомобиля, находящегося перед вами, без повторной остановки?",
         "Czy w tej sytuacji masz obowiązek umożliwić pasażerom opuszczenie tramwaju, który zatrzymał się na przystanku?": "В этой ситуации вы обязаны позволить пассажирам покинуть трамвай, который остановился на остановке?",
         "Czy w przedstawionej sytuacji widzisz kończący się pas ruchu dla rowerzystów?": "Видите ли вы заканчивающуюся полосу движения для велосипедистов в представленной ситуации?",
-        "Czy w tej sytuacji masz prawo wyprzedzić pojazd?": "Имеете ли вы право обгонять автомобиль в этой ситуации?",
         "Czy w przedstawionej sytuacji masz obowiązek zatrzymać się?": "Вы обязаны остановиться в представленной ситуации?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 przejeżdża przed pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 3 первым, а транспортное средство № 2 вторым?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
