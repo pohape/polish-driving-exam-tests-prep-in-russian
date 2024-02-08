@@ -1871,7 +1871,8 @@
             "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?",
             "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
             "Czy w tej sytuacji masz prawo wyprzedzić pojazd?": "Имеете ли вы право обгонять автомобиль в этой ситуации?",
-            "Czy na obszarze wyznaczonym linią przystankową możesz zatrzymać samochód osobowy w celu zapytania o drogę?": "Можно ли остановить автомобиль в зоне, обозначенной линией остановки, чтобы спросить дорогу?"
+            "Czy na obszarze wyznaczonym linią przystankową możesz zatrzymać samochód osobowy w celu zapytania o drogę?": "Можно ли остановить автомобиль в зоне, обозначенной линией остановки, чтобы спросить дорогу?",
+            "Do przejścia zbliża się pieszy z zamiarem przechodzenia": "К переходу приближается пешеход с намерением перейти."
         }
     },
     "not_approved": {
@@ -2999,7 +3000,6 @@
         "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\".",
         "Sygnał żółty oznacza zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал означает запрет въезда за светофор, если только в момент загорания этого сигнала транспортное средство не находится так близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
         "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
-        "Do przejścia zbliża się pieszy z zamiarem przechodzenia": "К переходу приближается пешеход с намерением перейти.",
         "Wraz z upływem czasu Twoja zdolność dostrzegania znaków i sygnałów drogowych pogarsza się": "С течением времени ваша способность замечать дорожные знаки и сигналы ухудшается."
     }
 }
