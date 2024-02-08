@@ -1894,7 +1894,8 @@
             "Czy skręcając w prawo masz pierwszeństwo przed pojazdem nadjeżdżającym z przeciwka?": "При повороте направо, у вас есть преимущество перед встречным ТС?",
             "Zawracanie uniemożliwia linia oddzielająca pasy ruchu": "Разворот запрещен линией, разделяющей полосы движения.",
             "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
-            "Wjeżdżając na drogę twardą z drogi gruntowej mamy do czynienia z włączaniem się do ruchu": "Выезжая на дорогу с твёрдым покрытием с грунтовой дороги, мы имеем дело с включением в движение."
+            "Wjeżdżając na drogę twardą z drogi gruntowej mamy do czynienia z włączaniem się do ruchu": "Выезжая на дорогу с твёрдым покрытием с грунтовой дороги, мы имеем дело с включением в движение.",
+            "Czy w przedstawionej sytuacji należy spodziewać się utrudnień ruchu?": "Следует ли в данной ситуации ожидать затруднений при движении?"
         }
     },
     "not_approved": {
@@ -2125,7 +2126,6 @@
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
-        "Czy w przedstawionej sytuacji należy spodziewać się utrudnień ruchu?": "Следует ли в данной ситуации ожидать затруднений при движении?",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
