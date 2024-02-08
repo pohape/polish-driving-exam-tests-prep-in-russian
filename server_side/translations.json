@@ -1891,7 +1891,9 @@
             "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?",
             "Należy pozostać na miejscu zdarzenia do przybycia służb ratunkowych": "Необходимо оставаться на месте происшествия до прибытия служб спасения.",
             "Czy skręcając w prawo masz pierwszeństwo przed pojazdem nadjeżdżającym z przeciwka?": "При повороте направо, у вас есть преимущество перед встречным ТС?",
-            "Zawracanie uniemożliwia linia oddzielająca pasy ruchu": "Разворот запрещен линией, разделяющей полосы движения."
+            "Zawracanie uniemożliwia linia oddzielająca pasy ruchu": "Разворот запрещен линией, разделяющей полосы движения.",
+            "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
+            "Wjeżdżając na drogę twardą z drogi gruntowej mamy do czynienia z włączaniem się do ruchu": "Выезжая на дорогу с твёрдым покрытием с грунтовой дороги, мы имеем дело с включением в движение."
         }
     },
     "not_approved": {
@@ -2211,7 +2213,6 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
-        "Czy w przedstawionej sytuacji wjeżdżając na drogę twardą z drogi gruntowej musisz zachować szczególną ostrożność?": "В представленной ситуации, если вы въезжаете на твердую дорогу с грунтовой дороги, вам нужно быть особенно осторожным?",
         "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
         "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
@@ -3012,7 +3013,6 @@
         "Wraz z upływem czasu Twoja zdolność dostrzegania znaków i sygnałów drogowych pogarsza się": "С течением времени ваша способность замечать дорожные знаки и сигналы ухудшается.",
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
-        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
-        "Wjeżdżając na drogę twardą z drogi gruntowej mamy do czynienia z włączaniem się do ruchu": "Выезжая на дорогу с твёрдым покрытием с грунтовой дороги, мы имеем дело с включением в движение."
+        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду."
     }
 }
