@@ -2960,6 +2960,8 @@
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
         "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
         "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
-        "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд."
+        "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
+        "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации разрешено ли тебе въехать на перекресток без остановки?",
+        "Czy w tej sytuacji wolno Ci wykorzystać widoczną po lewej stronie powierzchnię jezdni do parkowania pojazdu?": "Разрешается ли тебе в этой ситуации использовать видимую слева поверхность проезжей части для парковки твоего транспортного средства?"
     }
 }
