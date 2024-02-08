@@ -1899,7 +1899,11 @@
             "Czy w przedstawionej sytuacji masz prawo skręcić w lewo?": "У вас есть право повернуть налево в представленной ситуации?",
             "Czy w tej sytuacji powinieneś być przygotowany do zatrzymania pojazdu?": "В этой ситуации ты должен быть готов к остановке транспортного средства?",
             "Czy zabrania się cofania pojazdem w tunelu, na moście i wiadukcie?": "Запрещается ли движение задним ходом транспортным средством в туннеле, на мосту и на эстакаде?",
-            "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?"
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
+            "Dokument potwierdzający zawarcie umowy ubezpieczenia od nieszczęśliwych wypadków": "Документ, подтверждающий заключение договора страхования от несчастных случаев.",
+            "Dokument dopuszczający pojazd do ruchu": "Документ, разрешающий эксплуатацию транспортного средства в движении.",
+            "Kopię zaświadczenia o przeprowadzonym badaniu technicznym": "Копию свидетельства о проведенном техническом осмотре.",
+            "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?"
         }
     },
     "not_approved": {
@@ -1909,7 +1913,6 @@
         "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В представленной ситуации разрешено ли вам совершать набеги на двойную сплошную линию, видимую на проезжей части?",
-        "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
         "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
@@ -2989,9 +2992,6 @@
         "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
         "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте.",
         "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?",
-        "Dokument potwierdzający zawarcie umowy ubezpieczenia od nieszczęśliwych wypadków": "Документ, подтверждающий заключение договора страхования от несчастных случаев.",
-        "Kopię zaświadczenia o przeprowadzonym badaniu technicznym": "Копию свидетельства о проведенном техническом осмотре.",
-        "Dokument dopuszczający pojazd do ruchu": "Документ, разрешающий эксплуатацию транспортного средства в движении.",
         "Emisja bezbarwnych spalin": "Эмиссия бесцветных выхлопных газов.",
         "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
