@@ -1903,7 +1903,11 @@
             "Dokument potwierdzający zawarcie umowy ubezpieczenia od nieszczęśliwych wypadków": "Документ, подтверждающий заключение договора страхования от несчастных случаев.",
             "Dokument dopuszczający pojazd do ruchu": "Документ, разрешающий эксплуатацию транспортного средства в движении.",
             "Kopię zaświadczenia o przeprowadzonym badaniu technicznym": "Копию свидетельства о проведенном техническом осмотре.",
-            "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?"
+            "Jakie dokumenty masz obowiązek mieć przy sobie i okazywać na żądanie uprawnionego organu, gdy na terytorium Rzeczypospolitej kierujesz pojazdem, który jest zarejestrowany za granicą?": "Какие документы вы обязаны иметь при себе и предъявить по требованию уполномоченного органа, когда на территории Республики вы управляете транспортным средством, которое зарегистрировано за границей?",
+            "Hamulcowym": "Торможения",
+            "Kierowniczym": "Управления",
+            "Zawieszenia": "Подвески",
+            "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?"
         }
     },
     "not_approved": {
@@ -1935,7 +1939,6 @@
         "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
         "Pod który z podanych numerów powinieneś zadzwonić, aby wezwać karetkę pogotowia ratunkowego na miejsce wypadku drogowego?": "По какому из указанных номеров следует позвонить, чтобы вызвать скорую помощь на место ДТП?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
-        "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?",
         "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Как установить автокресло для перевозки ребенка в автомобиле?",
@@ -1949,9 +1952,6 @@
         "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
         "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS-система, используемая в автотранспортных средствах для предотвращения блокировки колес при торможении.",
-        "Zawieszenia": "Подвески",
-        "Hamulcowym": "Торможения",
-        "Kierowniczym": "Управления",
         "Nieprawidłowa zbieżność przejawia się trudnościami w utrzymaniu prostego toru jazdy": "Неправильное схождение проявляется трудностями в поддержании прямой траектории движения.",
         "Do utraty sterowności": "К потере управляемости.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
