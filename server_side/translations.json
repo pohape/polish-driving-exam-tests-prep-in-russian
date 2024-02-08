@@ -1907,7 +1907,10 @@
             "Hamulcowym": "Торможения",
             "Kierowniczym": "Управления",
             "Zawieszenia": "Подвески",
-            "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?"
+            "Z jakim układem samochodu osobowego współpracuje system przeciwblokujący \"ABS\"?": "С какой системой легкового автомобиля работает антиблокировочная система \"ABS\"?",
+            "W sytuacji konieczności utrzymania stałej prędkości": "В ситуации необходимости поддержания постоянной скорости.",
+            "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?": "В какой из перечисленных опасных ситуаций на дороге лучше всего проявит себя транспортное средство, оснащённое так называемой ESP, то есть системой стабилизации траектории движения?",
+            "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов."
         }
     },
     "not_approved": {
@@ -2325,9 +2328,6 @@
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
         "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов.",
-        "W sytuacji konieczności utrzymania stałej prędkości": "В ситуации необходимости поддержания постоянной скорости.",
-        "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?": "В какой из перечисленных опасных ситуаций на дороге лучше всего проявит себя транспортное средство, оснащённое так называемой ESP, то есть системой стабилизации траектории движения?",
         "Ciągnikiem rolniczym z dwiema przyczepami": "Трактором с двумя прицепами.",
         "Samochodem osobowym z przyczepą, których łączna dopuszczalna masa całkowita wynosi 4,5 t": "Легковым автомобилем с прицепом, общая разрешенная максимальная масса которых составляет 4,5 т.",
         "Samochodem ciężarowym o dopuszczalnej masie całkowitej 2,5 t z przyczepą lekką": "Грузовым автомобилем с разрешенной максимальной массой 2,5 т с легким прицепом.",
