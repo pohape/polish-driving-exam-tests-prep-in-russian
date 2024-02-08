@@ -1868,7 +1868,8 @@
             "Wynika to z oznakowania poziomego": "Это следует из горизонтальной разметки.",
             "Czy w tej sytuacji masz prawo odjechać i pozostawić leżącą osobę bez pomocy?": "В этой ситуации у тебя есть право уехать и оставить лежащего человека без помощи?",
             "Czy w tej sytuacji, w przypadku unieruchomienia pojazdu z powodu awarii, masz obowiązek niezwłocznie usunąć go z przejazdu, a jeśli jest to niemożliwe, ostrzec o zagrożeniu kierującego pojazdem szynowym?": "В данной ситуации, если транспортное средство остановилось из-за неисправности, обязаны ли вы немедленно убрать его с переезда, а если это невозможно, предупредить о опасности машиниста железнодорожного транспорта?",
-            "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?",
+            "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -2205,7 +2206,6 @@
         "Akceptacja Regulaminu i Polityki Prywatności": "Принятие условий и политики конфиденциальности",
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
         "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак A-15 - скользкая поверхность.",
-        "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
         "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
