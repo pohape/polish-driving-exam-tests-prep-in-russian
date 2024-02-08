@@ -1870,7 +1870,8 @@
             "Czy w tej sytuacji, w przypadku unieruchomienia pojazdu z powodu awarii, masz obowiązek niezwłocznie usunąć go z przejazdu, a jeśli jest to niemożliwe, ostrzec o zagrożeniu kierującego pojazdem szynowym?": "В данной ситуации, если транспортное средство остановилось из-за неисправности, обязаны ли вы немедленно убрать его с переезда, а если это невозможно, предупредить о опасности машиниста железнодорожного транспорта?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się, jeśli byłoby to związane z gwałtownym hamowaniem?": "В этой ситуации вы обязаны остановиться, если это связано с резким торможением?",
             "Czy w przedstawionej sytuacji masz obowiązek zachować szczególną ostrożność?": "В представленной ситуации вы обязаны проявлять особую осторожность?",
-            "Czy w tej sytuacji masz prawo wyprzedzić pojazd?": "Имеете ли вы право обгонять автомобиль в этой ситуации?"
+            "Czy w tej sytuacji masz prawo wyprzedzić pojazd?": "Имеете ли вы право обгонять автомобиль в этой ситуации?",
+            "Czy na obszarze wyznaczonym linią przystankową możesz zatrzymać samochód osobowy w celu zapytania o drogę?": "Можно ли остановить автомобиль в зоне, обозначенной линией остановки, чтобы спросить дорогу?"
         }
     },
     "not_approved": {
@@ -2974,6 +2975,8 @@
         "Znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Этот знак указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся транспортными средствами общественного транспорта.",
         "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub poważnego uszczerbku na zdrowiu - podlega karze pozbawienia wolności do lat 3": "Тот, кто не оказывает помощь человеку, находящемуся в положении, угрожающем непосредственной опасностью потери жизни, тяжкого повреждения тела или тяжкого расстройства здоровья, могущему оказать помощь без подвергания себя или другого лица опасности потери жизни или серьёзного ущерба здоровью, подлежит наказанию лишением свободы до 3 лет.",
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Сняли ли водители транспортных средств, двигаясь в соответствии с действующими правилами, с проезжей части дороги для пропуска транспортного средства с преимущественным правом проезда?",
-        "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?"
+        "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
+        "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте.",
+        "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?"
     }
 }
