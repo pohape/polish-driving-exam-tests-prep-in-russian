@@ -3,7 +3,6 @@
         "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности, рекомендуется ли, чтобы, используя автомобильный огнетушитель, избегать полного открытия капота двигательного отсека?",
         "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У разделительной линии полос движения - на правой половине проезжей части.",
         "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въезжать на видимый переезд сразу после того, как вы подняли железнодорожные заграждения, не убедившись, что поезд не приближается?",
-        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах (фотеликах безпеки) и нет возможности установить третье автокресло, а третий ребенок достиг трех лет.",
         "Zdecydowanie przyspieszyć": "Определенно ускорить.",
         "W jaki sposób wolno Ci przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "В каком способе тебе разрешено перевозить груз в прицепе, буксируемом легковым автомобилем?",
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
@@ -1899,7 +1898,8 @@
             "Czy wolno Ci w tej sytuacji używać świateł drogowych?": "Разрешено ли тебе в этой ситуации использовать дальний свет фар?",
             "Czy w przedstawionej sytuacji masz prawo skręcić w lewo?": "У вас есть право повернуть налево в представленной ситуации?",
             "Czy w tej sytuacji powinieneś być przygotowany do zatrzymania pojazdu?": "В этой ситуации ты должен быть готов к остановке транспортного средства?",
-            "Czy zabrania się cofania pojazdem w tunelu, na moście i wiadukcie?": "Запрещается ли движение задним ходом транспортным средством в туннеле, на мосту и на эстакаде?"
+            "Czy zabrania się cofania pojazdem w tunelu, na moście i wiadukcie?": "Запрещается ли движение задним ходом транспортным средством в туннеле, на мосту и на эстакаде?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -2238,7 +2238,6 @@
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o opadach śniegu?": "Вас предупреждают о снегопаде в представленной ситуации?",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
@@ -3017,6 +3016,7 @@
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
         "Czy w tej sytuacji postój samochodu osobowego kołami jednego boku na chodniku 2 metry przed tym znakiem jest dozwolony?": "В данной ситуации, разрешена ли стоянка автомобиля колесами одного боку на тротуаре за 2 метра перед этим знаком?",
         "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?": "Вы участвовали в дорожно-транспортном происшествии в качестве водителя. Можете ли вы покинуть место происшествия после оказания помощи пострадавшим до прибытия полиции?",
-        "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy, aby kontynuować jazdę prosto?": "Имеешь ли ты право в данной ситуации сменить полосу движения на правую, чтобы продолжить движение прямо?"
+        "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy, aby kontynuować jazdę prosto?": "Имеешь ли ты право в данной ситуации сменить полосу движения на правую, чтобы продолжить движение прямо?",
+        "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах и нет возможности установить третье автокресло, а третий ребенок достиг возраста 3 лет."
     }
 }
