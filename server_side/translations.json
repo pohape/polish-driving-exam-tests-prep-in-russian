@@ -1881,7 +1881,9 @@
             "W sytuacji konieczności ostrego hamowania podczas zmiany pasa ruchu": "В ситуации необходимости резкого торможения во время смены полосы движения.",
             "W sytuacji konieczności hamowania na drodze gruntowej": "В ситуации необходимости торможения на грунтовой дороге.",
             "Jakie mogą być skutki nieszczelności układu wydechowego w pojeździe samochodowym?": "Какими могут быть последствия неисправности выхлопной системы в автомобиле?",
-            "Zwiększenie pojemności silnika": "Увеличение объема двигателя."
+            "Zwiększenie pojemności silnika": "Увеличение объема двигателя.",
+            "Zmniejszona prędkość": "Уменьшенная скорость.",
+            "Uszkodzony system ABS": "Поврежденная система ABS."
         }
     },
     "not_approved": {
@@ -2884,8 +2886,6 @@
         "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
         "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
         "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
-        "Zmniejszona prędkość": "Уменьшенная скорость.",
-        "Uszkodzony system ABS": "Поврежденная система ABS.",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
         "Jaki może być skutek zużycia amortyzatorów kół kierowanych?": "Каким может быть результат износа амортизаторов управляемых колёс?",
