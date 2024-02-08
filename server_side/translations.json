@@ -3018,6 +3018,10 @@
         "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?": "Вы участвовали в дорожно-транспортном происшествии в качестве водителя. Можете ли вы покинуть место происшествия после оказания помощи пострадавшим до прибытия полиции?",
         "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy, aby kontynuować jazdę prosto?": "Имеешь ли ты право в данной ситуации сменить полосу движения на правую, чтобы продолжить движение прямо?",
         "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах и нет возможности установить третье автокресло, а третий ребенок достиг возраста 3 лет.",
-        "Zwiększone ryzyko poślizgu": "Увеличенный риск скольжения."
+        "Zwiększone ryzyko poślizgu": "Увеличенный риск скольжения.",
+        "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?",
+        "Ułatwia omijanie przeszkód w czasie hamowania": "Облегчает объезд препятствий во время торможения.",
+        "Zapobiega zerwaniu przyczepności opon podczas przyspieszania": "Предотвращает потерю сцепления шин при ускорении.",
+        "Skraca drogę hamowania w każdych warunkach": "Укорачивает тормозной путь в любых условиях."
     }
 }
