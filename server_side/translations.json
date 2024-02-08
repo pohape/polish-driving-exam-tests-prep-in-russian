@@ -1865,7 +1865,8 @@
             "Czy jadąc tym pasem ruchu, wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Можешь ли ты, двигаясь по этой полосе движения, повернуть налево на ближайшем перекрестке?",
             "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Горизонтальная разметка, а также светофор S-3 позволяют выполнить разворот.",
             "Czy na zajmowanym pasie ruchu możesz spodziewać się rowerzystów, którzy pojadą na wprost?": "Можете ли вы ожидать, что велосипедисты поедут прямо на занятой полосе движения?",
-            "Wynika to z oznakowania poziomego": "Это следует из горизонтальной разметки."
+            "Wynika to z oznakowania poziomego": "Это следует из горизонтальной разметки.",
+            "Czy w tej sytuacji masz prawo odjechać i pozostawić leżącą osobę bez pomocy?": "В этой ситуации у тебя есть право уехать и оставить лежащего человека без помощи?"
         }
     },
     "not_approved": {
@@ -2965,6 +2966,7 @@
         "Czy w tej sytuacji wolno Ci wykorzystać widoczną po lewej stronie powierzchnię jezdni do parkowania pojazdu?": "Разрешается ли тебе в этой ситуации использовать видимую слева поверхность проезжей части для парковки твоего транспортного средства?",
         "Zatrzymałeś właśnie swój pojazd. Czy w związku ze znaczeniem nadawanego sygnału świetlnego zrobiłeś to we właściwym miejscu?": "Вы только что остановили свой транспортное средство. Сделали ли вы это в нужном месте, учитывая значение передаваемого светового сигнала?",
         "Czy w tym miejscu obowiązuje zakaz zatrzymywania pojazdów?": "В этом месте действует запрет на остановку транспортных средств?",
-        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можешь ли ты продолжить движение прямо через линию остановки?"
+        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можешь ли ты продолжить движение прямо через линию остановки?",
+        "Czy w tej sytuacji, w przypadku unieruchomienia pojazdu z powodu awarii, masz obowiązek niezwłocznie usunąć go z przejazdu, a jeśli jest to niemożliwe, ostrzec o zagrożeniu kierującego pojazdem szynowym?": "В данной ситуации, если транспортное средство остановилось из-за неисправности, обязаны ли вы немедленно убрать его с переезда, а если это невозможно, предупредить о опасности машиниста железнодорожного транспорта?"
     }
 }
