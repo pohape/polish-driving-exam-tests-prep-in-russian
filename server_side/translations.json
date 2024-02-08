@@ -1887,7 +1887,8 @@
             "Uszkodzony system ABS": "Поврежденная система ABS.",
             "Czy w tej sytuacji musisz zastosować zasadę ograniczonego zaufania?": "В этой ситуации ты должен применить принцип ограниченного доверия?",
             "Czy przejeżdżając przez kałużę, powinieneś zmniejszyć prędkość tak, aby uniknąć ochlapania pieszych?": "Должен ли ты снизить скорость при проезде через лужу, так, чтобы избежать забрызгивания пешеходов?",
-            "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?"
+            "Masz zamiar kontynuować jazdę w lewo na najbliższym skrzyżowaniu. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z przeciwka?": "Вы намереваетесь продолжить движение налево на ближайшем перекрестке. В данной ситуации обязаны ли вы уступить дорогу приближающимся встречным ТС?",
+            "Należy pozostać na miejscu zdarzenia do przybycia służb ratunkowych": "Необходимо оставаться на месте происшествия до прибытия служб спасения."
         }
     },
     "not_approved": {
@@ -3010,7 +3011,6 @@
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
-        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
-        "Należy pozostać na miejscu zdarzenia do przybycia służb ratunkowych": "Необходимо оставаться на месте происшествия до прибытия служб спасения."
+        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду."
     }
 }
