@@ -9,7 +9,8 @@
         "Chcąc uratować poszkodowanego od poważnych poparzeń należy w rozsądny sposób ugasić jego odzież": "Чтобы спасти пострадавшего от серьезных ожогов, необходимо разумно погасить его одежду.",
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
-        "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта."
+        "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта.",
+        "Niewłaściwie ustawione światła": "Неправильно настроенные фары."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1878,7 +1879,9 @@
             "Koło zapasowe": "Запасное колесо.",
             "Który z wymienionych elementów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из перечисленных элементов является обязательной комплектацией каждого легкового автомобиля?",
             "W sytuacji konieczności ostrego hamowania podczas zmiany pasa ruchu": "В ситуации необходимости резкого торможения во время смены полосы движения.",
-            "W sytuacji konieczności hamowania na drodze gruntowej": "В ситуации необходимости торможения на грунтовой дороге."
+            "W sytuacji konieczności hamowania na drodze gruntowej": "В ситуации необходимости торможения на грунтовой дороге.",
+            "Jakie mogą być skutki nieszczelności układu wydechowego w pojeździe samochodowym?": "Какими могут быть последствия неисправности выхлопной системы в автомобиле?",
+            "Zwiększenie pojemności silnika": "Увеличение объема двигателя."
         }
     },
     "not_approved": {
@@ -2809,8 +2812,6 @@
         "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
         "Udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
         "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла.",
-        "Zwiększenie pojemności silnika": "Увеличение объема двигателя.",
-        "Jakie mogą być skutki nieszczelności układu wydechowego w pojeździe samochodowym?": "Какими могут быть последствия неисправности выхлопной системы в автомобиле?",
         "Zwiększenie poziomu emisji hałasu przez układ wydechowy pojazdu": "Увеличение уровня шума, издаваемого системой выпуска транспортного средства.",
         "starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy o 6 miesięcy od chwili ujawnienia czynu,": "Староста вынесет административное решение о продлении срока, на который были изъяты водительские права, на 6 месяцев с момента обнаружения правонарушения.",
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 6 miesięcy,": "Староста вынесет административное решение о продлении периода, на который было приостановлено водительское удостоверение, до 6 месяцев.",
@@ -2884,7 +2885,6 @@
         "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
         "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
         "Zmniejszona prędkość": "Уменьшенная скорость.",
-        "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Uszkodzony system ABS": "Поврежденная система ABS.",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
