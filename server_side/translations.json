@@ -11,7 +11,6 @@
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
         "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
-        "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?": "Вы участвовали в дорожно-транспортном происшествии в качестве водителя транспортного средства. Можете ли Вы уйти с места происшествия после оказания помощи пострадавшим до прибытия полиции?",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?"
     },
@@ -1897,7 +1896,8 @@
             "Wjeżdżając na drogę twardą z drogi gruntowej mamy do czynienia z włączaniem się do ruchu": "Выезжая на дорогу с твёрдым покрытием с грунтовой дороги, мы имеем дело с включением в движение.",
             "Czy w przedstawionej sytuacji należy spodziewać się utrudnień ruchu?": "Следует ли в данной ситуации ожидать затруднений при движении?",
             "Czy z zajmowanego pasa ruchu wolno Ci skręcić w prawo na tym skrzyżowaniu?": "Можешь ли ты повернуть направо с занятой полосы движения на этом перекрестке?",
-            "Czy wolno Ci w tej sytuacji używać świateł drogowych?": "Разрешено ли тебе в этой ситуации использовать дальний свет фар?"
+            "Czy wolno Ci w tej sytuacji używać świateł drogowych?": "Разрешено ли тебе в этой ситуации использовать дальний свет фар?",
+            "Czy w przedstawionej sytuacji masz prawo skręcić w lewo?": "У вас есть право повернуть налево в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -2018,7 +2018,6 @@
         "Czy ten znak poziomy pozwala na jazdę na wprost tym pasem ruchu?": "Позволяет ли этот горизонтальный знак ехать прямо по этой полосе?",
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
         "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?",
-        "Czy w przedstawionej sytuacji masz prawo skręcić w lewo?": "У вас есть право повернуть налево в представленной ситуации?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "Для обгона перед пешеходным переходом, где движение направляется.",
         "Czy zajmujesz właściwy pas ruchu, jeśli na najbliższym skrzyżowaniu zamierzasz skręcić w lewo?": "Занимаете ли вы правильную полосу движения, если вы собираетесь повернуть налево на ближайшем перекрестке?",
@@ -3015,6 +3014,7 @@
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
-        "Czy w tej sytuacji postój samochodu osobowego kołami jednego boku na chodniku 2 metry przed tym znakiem jest dozwolony?": "В данной ситуации, разрешена ли стоянка автомобиля колесами одного боку на тротуаре за 2 метра перед этим знаком?"
+        "Czy w tej sytuacji postój samochodu osobowego kołami jednego boku na chodniku 2 metry przed tym znakiem jest dozwolony?": "В данной ситуации, разрешена ли стоянка автомобиля колесами одного боку на тротуаре за 2 метра перед этим знаком?",
+        "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?": "Вы участвовали в дорожно-транспортном происшествии в качестве водителя. Можете ли вы покинуть место происшествия после оказания помощи пострадавшим до прибытия полиции?"
     }
 }
