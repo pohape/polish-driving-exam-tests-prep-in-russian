@@ -1962,8 +1962,8 @@
             "Dopuszczalna prędkość na autostradzie wynosi 140 km\/h": "Допустимая скорость на автостраде составляет 140 км\/ч.",
             "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
             "Zabrania się holowania pojazdu, którym kieruje nieodpowiednia osoba": "Запрещается буксировать транспортное средство, которым управляет неподходящее лицо.",
-            "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?"
-            
+            "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?",
+            "Czy rozmieszczone w taki sposób ozdoby, ograniczają widoczność drogi i rozpraszają uwagę kierującego?": "Расположены ли украшения таким образом, что они ограничивают видимость дороги и отвлекают внимание водителя?"
         }
     },
     "not_approved": {
@@ -3061,6 +3061,7 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
+        "Szyba czołowa nie jest dobrym miejscem na wieszanie ozdób": "Лобовое стекло не является хорошим местом для вешания украшений."
     }
 }
