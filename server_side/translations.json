@@ -1963,7 +1963,10 @@
             "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
             "Zabrania się holowania pojazdu, którym kieruje nieodpowiednia osoba": "Запрещается буксировать транспортное средство, которым управляет неподходящее лицо.",
             "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?",
-            "Czy rozmieszczone w taki sposób ozdoby, ograniczają widoczność drogi i rozpraszają uwagę kierującego?": "Расположены ли украшения таким образом, что они ограничивают видимость дороги и отвлекают внимание водителя?"
+            "Czy rozmieszczone w taki sposób ozdoby, ograniczają widoczność drogi i rozpraszają uwagę kierującego?": "Расположены ли украшения таким образом, что они ограничивают видимость дороги и отвлекают внимание водителя?",
+            "Szyba czołowa nie jest dobrym miejscem na wieszanie ozdób": "Лобовое стекло не является хорошим местом для вешания украшений.",
+            "Czy rano powinieneś zrezygnować z kierowania pojazdem, jeśli wieczorem poprzedniego dnia spożyłeś dużą ilość alkoholu?": "Должны ли вы отказаться от вождения утром, если вы употребляли большое количество алкоголя вечером предыдущего дня?",
+            "Taka rezygnacja w opisanych warunkach to całkiem dobry pomysł. Kierowanie w stanie po użyciu alkoholu lub środka działającego podobnie do alkoholu jest zawsze zabronione": "Такой отказ в описываемых условиях - это вполне хорошая идея. Управление в состоянии после употребления алкоголя или средства, действующего подобно алкоголю, всегда запрещено."
         }
     },
     "not_approved": {
@@ -2276,7 +2279,6 @@
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
-        "Czy rano powinieneś zrezygnować z kierowania pojazdem, jeśli wieczorem poprzedniego dnia spożyłeś dużą ilość alkoholu?": "Должны ли вы отказаться от вождения утром, если вы употребляли большое количество алкоголя вечером предыдущего дня?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?": "В этой ситуации имеете ли вы право припарковать автомобиль справа на тротуаре непосредственно перед железнодорожным переездом?",
         "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
@@ -3061,7 +3063,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Szyba czołowa nie jest dobrym miejscem na wieszanie ozdób": "Лобовое стекло не является хорошим местом для вешания украшений."
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
     }
 }
