@@ -290,6 +290,10 @@
         "pokwitowa": [
             "pokwitowanie zatrzymania: свидетельство о временном изъятии",
             "pokwitowanie zatrzymania pozwolenia czasowego: свидетельство об изъятии временного разрешения"
+        ],
+        "upewnie": [
+            "po upewnieniu się: убедившись",
+            "bez upewnienia się: не убедившись"
         ]
     },
     "dictionary_others": {
