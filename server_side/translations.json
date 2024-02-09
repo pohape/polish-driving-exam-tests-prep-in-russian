@@ -13,8 +13,7 @@
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
-        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
-        "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В данной ситуации разрешено ли вам въехать на видный железнодорожный переезд, если красный свет уже погас, но шлагбаумы еще не были полностью подняты?"
+        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\""
     },
     "approved": {
         "upewninie się": {
@@ -2008,7 +2007,11 @@
             "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
             "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione i sygnał jest wciąż nadawany": "Запрещается заезжать на переезд, когда шлагбаумы не были полностью подняты и сигнал все еще передается.",
             "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
-            "Za przejazdem nie ma miejsca do kontynuowania jazdy": "После проезда нет места для продолжения движения."
+            "Za przejazdem nie ma miejsca do kontynuowania jazdy": "После проезда нет места для продолжения движения.",
+            "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione": "Запрещается въезжать на переезд, когда шлагбаумы не были полностью подняты.",
+            "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В представленной ситуации разрешено ли тебе въехать на видимый железнодорожный переезд, если красный свет уже погас, но шлагбаумы не были еще полностью подняты?",
+            "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po przejechaniu pociągu, niezależnie od wyświetlanego sygnału?": "Разрешено ли тебе въехать на видимый переезд непосредственно после проезда поезда, независимо от отображаемого сигнала?",
+            "Zabrania się wjechania na przejazd gdy sygnał jest wciąż nadawany": "Запрещается въезжать на переезд, когда сигнал по-прежнему подается."
         }
     },
     "not_approved": {
