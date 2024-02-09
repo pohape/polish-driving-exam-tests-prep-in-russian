@@ -3084,6 +3084,8 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "W sytuacji równorzędnej należy ustąpić pierwszeństwa pojazdowi szynowemu": "В равнозначной ситуации следует уступить дорогу железнодорожному транспорту.",
+        "Zamierzasz jechać na wprost, a kierujący tramwajem planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы намерены ехать прямо, а управляющий трамваем планирует повернуть налево. У вас есть преимущество перед ним?"
     }
 }
