@@ -1991,7 +1991,8 @@
             "Przez okres 24 godzin od chwili zatrzymania": "На протяжении 24 часов с момента остановки.",
             "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения.",
             "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
-            "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль."
+            "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
+            "Przepalona żarówka tylnego lewego kierunkowskazu": "Перегоревшая лампочка левого заднего поворотника."
         }
     },
     "not_approved": {
@@ -2702,7 +2703,6 @@
         "Zanieczyszczony wkład filtra powietrza": "Загрязнённый элемент воздушного фильтра.",
         "Przegrzewające się elektrody świec zapłonowych": "Перегревающиеся электроды свечей зажигания.",
         "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?": "Какая из перечисленных неисправностей делает безопасное использование автомобиля в дорожном движении невозможным?",
-        "Przepalona żarówka tylnego lewego kierunkowskazu": "Перегоревшая лампочка левого заднего поворотника.",
         "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem": "Если водитель допустил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законодательно защищаемому благу.",
         "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
@@ -3078,6 +3078,7 @@
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
         "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?",
         "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?",
-        "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?"
+        "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?",
+        "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче."
     }
 }
