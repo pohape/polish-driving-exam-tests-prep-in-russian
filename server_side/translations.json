@@ -2027,7 +2027,9 @@
             "Krzyż św. Andrzeja nie zobowiązuje do zatrzymania": "Крест святого Андрея не обязывает остановиться.",
             "Czy zanim wjedziesz na torowisko bezpośrednio za poprzedzającym pojazdem, masz obowiązek upewnienia się, czy nie zbliża się pojazd szynowy?": "Вы обязаны убедиться перед выездом на железнодорожный переезд сразу за впереди идущим транспортным средством, не приближается ли железнодорожный транспорт?",
             "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek upewnić się, czy nie nadjeżdża pojazd szynowy?": "Обязан ли ты убедиться в отсутствии приближающегося железнодорожного транспорта, когда приближаешься к трамвайному переезду?",
-            "Czy w tej sytuacji, przed wjechaniem na tory, masz obowiązek upewnić się czy nie zbliża się pojazd szynowy?": "В этой ситуации, перед въездом на пути, ты обязан убедиться, что не приближается железнодорожный транспорт?"
+            "Czy w tej sytuacji, przed wjechaniem na tory, masz obowiązek upewnić się czy nie zbliża się pojazd szynowy?": "В этой ситуации, перед въездом на пути, ты обязан убедиться, что не приближается железнодорожный транспорт?",
+            "Czy w tej sytuacji możesz wjechać na przejazd z zachowaniem szczególnej ostrożności?": "В этой ситуации можно ли заехать на переезд, соблюдая особую осторожность?",
+            "Kierującemu pojazdem zabrania się: objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Водителю запрещается: объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если их опускание было начато или поднятие не было завершено."
         }
     },
     "not_approved": {
@@ -3110,7 +3112,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Czy w tej sytuacji możesz wjechać na przejazd z zachowaniem szczególnej ostrożności?": "В этой ситуации можно ли заехать на переезд, соблюдая особую осторожность?"
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
