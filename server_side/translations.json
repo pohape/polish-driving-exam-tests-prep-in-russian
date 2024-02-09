@@ -2012,7 +2012,9 @@
             "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В представленной ситуации разрешено ли тебе въехать на видимый железнодорожный переезд, если красный свет уже погас, но шлагбаумы не были еще полностью подняты?",
             "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po przejechaniu pociągu, niezależnie od wyświetlanego sygnału?": "Разрешено ли тебе въехать на видимый переезд непосредственно после проезда поезда, независимо от отображаемого сигнала?",
             "Zabrania się wjechania na przejazd gdy sygnał jest wciąż nadawany": "Запрещается въезжать на переезд, когда сигнал по-прежнему подается.",
-            "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "Разрешено ли тебе въезжать на железнодорожный переезд при не полностью поднятых шлагбаумах?"
+            "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "Разрешено ли тебе въезжать на железнодорожный переезд при не полностью поднятых шлагбаумах?",
+            "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
+            "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek być przygotowany do zatrzymania pojazdu?": "Подъезжая к трамвайному переезду, обязаны ли вы быть готовыми к остановке транспортного средства?"
         }
     },
     "not_approved": {
@@ -2941,7 +2943,6 @@
         "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
         "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
-        "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
