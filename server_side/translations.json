@@ -1992,7 +1992,8 @@
             "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения.",
             "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
             "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
-            "Przepalona żarówka tylnego lewego kierunkowskazu": "Перегоревшая лампочка левого заднего поворотника."
+            "Przepalona żarówka tylnego lewego kierunkowskazu": "Перегоревшая лампочка левого заднего поворотника.",
+            "Polecenia kierującego ruchem są ważniejsze od sygnalizacji świetlnej": "Приказы регулировщика движения важнее светофора."
         }
     },
     "not_approved": {
@@ -3080,7 +3081,6 @@
         "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?",
         "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?",
         "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче.",
-        "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
-        "Polecenia kierującego ruchem są ważniejsze od sygnalizacji świetlnej": "Приказы регулировщика движения важнее светофора."
+        "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа."
     }
 }
