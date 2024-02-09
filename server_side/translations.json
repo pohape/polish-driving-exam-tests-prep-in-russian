@@ -19,7 +19,9 @@
         "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли так оставленный транспортное средство затруднять движение или парковку другим водителям?",
         "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумным поведениям.",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина усиливать склонность водителя к рискованным и агрессивным поведением?",
-        "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям."
+        "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям.",
+        "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед приемом лекарства необходимо ознакомиться с содержанием листовки, приложенной к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждый лекарственный препарат неправильно... :-)",
+        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -3042,6 +3044,6 @@
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
         "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?"
+        "Czy zamierzając kierować pojazdem po zażyciu leków, powinieneś upewnić się, że nie mają one negatywnego wpływu na twój stan psychofizyczny?": "Собираясь управлять транспортным средством после приема лекарств, должен ли ты убедиться, что они не оказывают негативного воздействия на твое психофизическое состояние?"
     }
 }
