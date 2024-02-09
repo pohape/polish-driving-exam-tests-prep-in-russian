@@ -1986,7 +1986,10 @@
             "Tak, ale tylko w godz. 5.00-23.00": "Да, но только с 5:00 до 23:00.",
             "Przeciwdziałanie poślizgowi kół podczas ruszania": "Противодействие проскальзыванию колес при трогании.",
             "Zapobieganie blokowaniu kół hamowanych": "Предотвращение блокировки тормозных колес.",
-            "Jaki jest cel stosowania układu ASR w samochodzie osobowym?": "Какова цель использования системы ASR в автомобиле?"
+            "Jaki jest cel stosowania układu ASR w samochodzie osobowym?": "Какова цель использования системы ASR в автомобиле?",
+            "Przez okres 7 dni od chwili zatrzymania": "На протяжении 7 дней с момента остановки.",
+            "Przez okres 24 godzin od chwili zatrzymania": "На протяжении 24 часов с момента остановки.",
+            "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения."
         }
     },
     "not_approved": {
@@ -2402,9 +2405,6 @@
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
-        "Tylko na czas pozwalający dojechać do miejsca docelowego": "Только на время, позволяющее доехать до места назначения.",
-        "Przez okres 24 godzin od chwili zatrzymania": "На протяжении 24 часов с момента остановки.",
-        "Przez okres 7 dni od chwili zatrzymania": "На протяжении 7 дней с момента остановки.",
         "Tak, w każdym przypadku": "Да, в любом случае.",
         "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
         "Tak, jeżeli wynika to z orzeczenia lekarskiego": "Да, если это следует из медицинского заключения.",
