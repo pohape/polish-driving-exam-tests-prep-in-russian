@@ -1947,7 +1947,9 @@
             "Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?": "Управляя транспортным средством в состоянии эмоционального возбуждения, увеличиваете ли вы точность и правильность своих реакций в опасной ситуации?",
             "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?",
             "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
-            "Samochód znajduje się w obszarze zabudowanym poza jezdnią": "Автомобиль находится в населенном пункте вне проезжей части."
+            "Samochód znajduje się w obszarze zabudowanym poza jezdnią": "Автомобиль находится в населенном пункте вне проезжей части.",
+            "Czy na parkingu znajdującym się w strefie ruchu mają zastosowanie zasady ruchu drogowego?": "Применяются ли правила дорожного движения на парковке, расположенной в зоне движения?",
+            "W strefie ruchu mają zastosowanie zasady ruchu drogowego": "В зоне движения применяются правила дорожного движения."
         }
     },
     "not_approved": {
@@ -3049,6 +3051,7 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
+        "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?": "Имеете ли вы право управлять транспортным средством, если содержание алкоголя в выдыхаемом воздухе в вашем организме превышает 0,1 мг на дм³?"
     }
 }
