@@ -14,7 +14,8 @@
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
-        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?"
+        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?",
+        "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?"
     },
     "approved": {
         "upewninie się": {
@@ -3114,6 +3115,6 @@
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?"
+        "Czy w tej sytuacji masz obowiązek niezwłocznie usunąć pojazd z przejazdu tramwajowego?": "В этой ситуации обяжут ли вас немедленно убрать транспортное средство с трамвайного переезда?"
     }
 }
