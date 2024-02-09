@@ -1916,7 +1916,8 @@
             "Skraca drogę hamowania w każdych warunkach": "Укорачивает тормозной путь в любых условиях.",
             "Skrzyżowania ze znakami określającymi pierwszeństwo przejazdu": "Перекрестки со знаками, определяющими преимущество проезда.",
             "Skrzyżowania lub przejścia dla pieszych z kierujących ruchem, miejsca przystanków komunikacji publicznej": "Перекрестки или пешеходные переходы с регулировщиком, места остановок общественного транспорта.",
-            "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения."
+            "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения.",
+            "Wraz z upływem czasu Twoja zdolność dostrzegania znaków i sygnałów drogowych pogarsza się": "С течением времени ваша способность замечать дорожные знаки и сигналы ухудшается."
         }
     },
     "not_approved": {
@@ -2662,7 +2663,6 @@
         "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?": "Какое из этих действий ты обязан выполнить во время обгона легковым автомобилем в тумане вне населенного пункта?",
         "Prędkość dopuszczalna pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego wynosi 30 km\/h na obszarze zabudowanym i 60 km\/h poza obszarem zabudowanym": "Допустимая скорость ТС с выступающим вперед грузом (в данном случае его назвали urządzeniem) более чем на 1,5 м от сиденья для водителя составляет 30 км\/ч в населенном пункте и 60 км\/ч вне населенного пункта.",
         "Zajmowany pas służy do skrętu w prawo": "Занятая полоса предназначена для поворота направо.",
-        "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере того, как вы ведете транспортное средство с течением времени?",
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
@@ -3012,7 +3012,6 @@
         "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\".",
         "Sygnał żółty oznacza zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал означает запрет въезда за светофор, если только в момент загорания этого сигнала транспортное средство не находится так близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
         "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
-        "Wraz z upływem czasu Twoja zdolność dostrzegania znaków i sygnałów drogowych pogarsza się": "С течением времени ваша способность замечать дорожные знаки и сигналы ухудшается.",
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
@@ -3027,6 +3026,7 @@
         "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
-        "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах."
+        "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
+        "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\""
     }
 }
