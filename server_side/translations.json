@@ -2021,7 +2021,10 @@
             "Zbliżając się do przejazdu tramwajowego należy upewnić się, czy nie nadjeżdża tramwaj": "Подъезжая к трамвайному переезду, необходимо убедиться, что не приближается трамвай.",
             "Czy w tej sytuacji jesteś obowiązany do upewnienia się, czy nie nadjeżdża tramwaj?": "В этой ситуации ты обязан убедиться, не приближается ли трамвай?",
             "Zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu": "Запрещается объезд ТС, ожидающего открытия движения через переезд, если это потребовало бы въезда на часть проезжей части, предназначенную для противоположного направления движения.",
-            "Czy w tej sytuacji powinieneś zatrzymać się za stojącym pojazdem?": "Должны ли вы в этой ситуации остановиться за стоящим транспортным средством?"
+            "Czy w tej sytuacji powinieneś zatrzymać się za stojącym pojazdem?": "Должны ли вы в этой ситуации остановиться за стоящим транспортным средством?",
+            "Czy w tej sytuacji, chcąc kontynuować jazdę w lewo za przejazdem, powinieneś zatrzymać się przed półzaporą?": "В этой ситуации, желая продолжить движение налево после переезда, ты должен остановиться перед шлагбаумом?",
+            "W tej sytuacji przejazd nie został oznakowany znakiem STOP B-20": "В этой ситуации пересечение не было обозначено знаком STOP B-20.",
+            "Krzyż św. Andrzeja nie zobowiązuje do zatrzymania": "Крест святого Андрея не обязывает остановиться."
         }
     },
     "not_approved": {
@@ -3104,7 +3107,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Czy w tej sytuacji, chcąc kontynuować jazdę w lewo za przejazdem, powinieneś zatrzymać się przed półzaporą?": "В этой ситуации, желая продолжить движение налево после переезда, ты должен остановиться перед шлагбаумом?"
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
