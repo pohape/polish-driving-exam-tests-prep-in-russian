@@ -1958,7 +1958,11 @@
             "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?": "При управлении транспортным средством в состоянии после употребления алкоголя подлежишь ли ты ответственности за правонарушение?",
             "Prawo o ruchu drogowym zabrania kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem osobie w stanie nietrzeźwości, w stanie po spożyciu alkoholu lub środka działającego podobnie do alkoholu": "Закон о дорожном движении запрещает управление транспортным средством, ведение колонны пешеходов, езду верхом лицу в состоянии опьянения, в состоянии после употребления алкоголя или вещества, действующего подобно алкоголю.",
             "Poruszasz się z prędkością 110 km\/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы движетесь со скоростью 110 км\/ч. Обязаны ли вы в этой ситуации снизить скорость?",
-            "Dopuszczalna prędkość na autostradzie wynosi 140 km\/h": "Допустимая скорость на автостраде составляет 140 км\/ч."
+            "Dopuszczalna prędkość na autostradzie wynosi 140 km\/h": "Допустимая скорость на автостраде составляет 140 км\/ч.",
+            "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
+            "Zabrania się holowania pojazdu, którym kieruje nieodpowiednia osoba": "Запрещается буксировать транспортное средство, которым управляет неподходящее лицо.",
+            "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?",
+            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie stosowany": "Перед приёмом лекарства следует ознакомиться с содержанием инструкции, приложенной к упаковке, или проконсультироваться с врачом или фармацевтом, так как любой лекарственный препарат, используемый неправильно..."
         }
     },
     "not_approved": {
@@ -2591,7 +2595,6 @@
         "Przetarcia, przewężenia i naderwania taśmy pasów": "Износ, сужение и разрывы ткани ремней безопасности.",
         "Trwałe zabrudzenia i plamy na taśmie pasów": "Устойчивые загрязнения и пятна на ленте ремней.",
         "Które z wymienionych uszkodzeń pasów bezpieczeństwa oznaczają bezwzględną konieczność wymiany pasów na nowe?": "Какие из перечисленных повреждений ремней безопасности означают абсолютную необходимость замены ремней на новые?",
-        "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
         "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pieszymi?": "Вы планируете повернуть направо. У вас есть преимущество перед пешеходами?",
