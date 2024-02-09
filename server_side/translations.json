@@ -633,6 +633,7 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли так оставленное транспортное средство затруднять движение или парковку другим водителям?",
             "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед использованием ознакомьтесь с инструкцией, прилагаемой к упаковке, или проконсультируйтесь с врачом или фармацевтом, так как любое неправильное использование препарата угрожает вашей жизни или здоровью.",
             "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie stosowany": "Перед использованием ознакомьтесь с инструкцией, прилагаемой к упаковке, или проконсультируйтесь с врачом или фармацевтом, так как любое неправильное использование препарата угрожает вашей жизни или здоровью.",
             "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете автомобилем с установкой сжиженного газа. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
@@ -3065,7 +3066,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
-        "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли оставленный таким образом транспортное средство затруднить движение или парковку другим водителям?"
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения"
     }
 }
