@@ -2070,7 +2070,9 @@
             "Czy w tej sytuacji możesz ominąć stojący pojazd?": "Вы можете объехать стоящий транспортное средство в этой ситуации?",
             "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?": "Приближаясь к железнодорожному переезду, обязан ли ты применить правило особой осторожности?",
             "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
-            "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям."
+            "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
+            "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
+            "Ogólne zasady określające zachowanie kierowcy w momencie awarii lub wypadku, udzielanie pierwszej pomocy przedmedycznej": "Общие правила, определяющие поведение водителя в случае поломки или аварии, оказание первой предмедицинской помощи."
         }
     },
     "not_approved": {
@@ -2419,7 +2421,6 @@
         "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения",
         "Różne pola widzenia kierowców": "Разное поле зрения водителей",
         "Technika kierowania pojazdem": "Техника управления автомобилем",
-        "Ogólne zasady określające zachowanie kierowcy w momencie awarii lub wypadku, udzielanie pierwszej pomocy przedmedycznej": "Общие правила, определяющие поведение водителя в случае поломки или аварии, оказание первой предмедицинской помощи.",
         "Wyposażenie pojazdu związane z bezpieczeństwem, korzystanie z pasów, zagłówków i fotelików": "Оборудование автомобиля, связанное с безопасностью, использование ремней безопасности, подголовников и детских кресел.",
         "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
         "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
@@ -2813,7 +2814,6 @@
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Wyprzedzanie": "Обгон",
         "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
-        "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
