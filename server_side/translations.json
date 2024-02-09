@@ -1945,7 +1945,9 @@
             "Zmęczenie za kierownicą może doprowadzić do nieprzyjemnych sytuacji": "Усталость за рулём может привести к неприятным ситуациям.",
             "Pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną": "Транспортное средство надежно защищено от возможности запуска посторонним лицом.",
             "Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?": "Управляя транспортным средством в состоянии эмоционального возбуждения, увеличиваете ли вы точность и правильность своих реакций в опасной ситуации?",
-            "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?"
+            "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?",
+            "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
+            "Samochód znajduje się w obszarze zabudowanym poza jezdnią": "Автомобиль находится в населенном пункте вне проезжей части."
         }
     },
     "not_approved": {
@@ -2442,7 +2444,6 @@
         "Kierujący pojazdem jest obowiązany zbliżyć się na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан подъехать на дороге с односторонним движением к ее левой кромке – если он намеревается повернуть налево.",
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
-        "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
