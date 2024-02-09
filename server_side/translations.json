@@ -12,7 +12,8 @@
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
-        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?"
+        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
+        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\""
     },
     "approved": {
         "upewninie się": {
@@ -2002,7 +2003,9 @@
             "Czy w tej sytuacji jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Вы освобождены от обязанности соблюдения особой осторожности в этой ситуации?",
             "Czy w tej sytuacji masz obowiązek upewnić się, że z żadnej strony nie nadjeżdża pociąg?": "В этой ситуации у вас есть обязанность убедиться, что с ни одной стороны не приближается поезд?",
             "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy": "Водитель транспортного средства, приближаясь к железнодорожному переезду и пересекая его, обязан проявлять особую осторожность. Перед въездом на рельсы он обязан убедиться, не приближается ли железнодорожный транспорт.",
-            "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Обязаны ли вы, приближаясь к видимому переезду, убедиться, что в то время, когда вы будете его пересекать, не прибудет поезд?"
+            "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Обязаны ли вы, приближаясь к видимому переезду, убедиться, что в то время, когда вы будете его пересекать, не прибудет поезд?",
+            "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
+            "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione i sygnał jest wciąż nadawany": "Запрещается заезжать на переезд, когда шлагбаумы не были полностью подняты и сигнал все еще передается."
         }
     },
     "not_approved": {
@@ -2534,7 +2537,6 @@
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
-        "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
         "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
