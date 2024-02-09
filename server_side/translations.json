@@ -1931,7 +1931,10 @@
             "Czy kierujący pojazdem po spożyciu alkoholu, może mieć trudności w jednoczesnym wykonywaniu dwóch i więcej czynności?": "Может ли водитель автомобиля после употребления алкоголя испытывать трудности при одновременном выполнении двух и более действий?",
             "Alkohol pogarsza zdolności psychomotoryczne": "Алкоголь ухудшает психомоторные способности.",
             "Czy w tej sytuacji, zgodnie z zasadą ograniczonego zaufania, należy rozpocząć hamowanie?": "В этой ситуации, согласно принципу ограниченного доверия, следует ли начать торможение?",
-            "Należy uniknąć kolizji": "Необходимо избегать столкновений."
+            "Należy uniknąć kolizji": "Необходимо избегать столкновений.",
+            "Zażycie leków uspokajających i nasennych działa niekorzystnie na psychomotorykę": "Применение успокаивающих и снотворных лекарств негативно влияет на психомоторику.",
+            "Czy zażycie leków uspokajających i nasennych, może zaburzać u kierującego kontrolę toru jazdy?": "Может ли прием успокаивающих и снотворных препаратов нарушить у водителя контроль над траекторией движения?",
+            "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?": "Влияет ли употребленный алкоголь на изменение поля зрения водителя транспортного средства?"
         }
     },
     "not_approved": {
