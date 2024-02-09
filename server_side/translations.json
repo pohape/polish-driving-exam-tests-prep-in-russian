@@ -1943,7 +1943,9 @@
             "Czy zamierzając kierować pojazdem po zażyciu leków, powinieneś upewnić się, że nie mają one negatywnego wpływu na twój stan psychofizyczny?": "Собираясь управлять транспортным средством после приема лекарств, должен ли ты убедиться, что они не оказывают негативного воздействия на твое психофизическое состояние?",
             "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
             "Zmęczenie za kierownicą może doprowadzić do nieprzyjemnych sytuacji": "Усталость за рулём может привести к неприятным ситуациям.",
-            "Pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną": "Транспортное средство надежно защищено от возможности запуска посторонним лицом."
+            "Pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną": "Транспортное средство надежно защищено от возможности запуска посторонним лицом.",
+            "Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?": "Управляя транспортным средством в состоянии эмоционального возбуждения, увеличиваете ли вы точность и правильность своих реакций в опасной ситуации?",
+            "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?"
         }
     },
     "not_approved": {
@@ -2053,7 +2055,6 @@
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
         "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
-        "Uczestniczyłeś w wypadku drogowym, w którym są ranni. Czy wolno Ci podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku?": "Вы попали в дорожно-транспортное происшествие с ранеными. Разрешены ли вам действия, которые могут затруднить определение хода аварии?",
         "Czy w przedstawionej sytuacji należy zmienić pas ruchu na lewy, pozostawiając pas prawy wolniej jadącym pojazdom?": "В представленной ситуации следует ли менять полосу движения на левую, оставляя правую полосу более медленно движущимся транспортным средствам?",
         "Czy ten znak poziomy pozwala na jazdę na wprost tym pasem ruchu?": "Позволяет ли этот горизонтальный знак ехать прямо по этой полосе?",
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
@@ -3047,7 +3048,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Czy kierując pojazdem w stanie pobudzenia emocjonalnego, zwiększasz precyzję i trafność swoich reakcji w sytuacji niebezpiecznej?": "Управляя транспортным средством в состоянии эмоционального возбуждения, увеличиваете ли вы точность и правильность своих реакций в опасной ситуации?"
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
     }
 }
