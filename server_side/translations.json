@@ -2063,7 +2063,10 @@
             "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?": "В этой ситуации, приближаясь к железнодорожному переезду, обязаны ли вы остановить транспортное средство перед знаком STOP?",
             "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli podnoszenie zapór nie zostało zakończone?": "Разрешено ли тебе заезжать на железнодорожный переезд, если поднятие шлагбаумов не было завершено?",
             "Zabrania się wjazdu na przejazd kolejowy, jeżeli podnoszenie zapór nie zostało zakończone": "Запрещается заезжать на железнодорожный переезд, если подъем шлагбаумов не был завершен.",
-            "Czy w tej sytuacji masz obowiązek umożliwić pasażerom opuszczenie tramwaju, który zatrzymał się na przystanku?": "В этой ситуации вы обязаны позволить пассажирам покинуть трамвай, который остановился на остановке?"
+            "Czy w tej sytuacji masz obowiązek umożliwić pasażerom opuszczenie tramwaju, który zatrzymał się na przystanku?": "В этой ситуации вы обязаны позволить пассажирам покинуть трамвай, который остановился на остановке?",
+            "Sytuacja wymaga zachowania szczególnej ostrożności (przejazd przez tory kolejowe)": "Ситуация требует соблюдения особой осторожности (проезд через железнодорожные пути)",
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
+            "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом."
         }
     },
     "not_approved": {
@@ -2279,7 +2282,6 @@
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
-        "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
@@ -2598,7 +2600,6 @@
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia": "В случае перехода через проезжую часть особы с ограниченными возможностями, использующей специальный знак, или особы с видимыми ограничениями подвижности, водитель обязан остановить транспортное средство, чтобы позволить ей перейти.",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
-        "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
         "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
