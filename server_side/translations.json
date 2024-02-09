@@ -2046,7 +2046,10 @@
             "Dodatkowa poprzeczka pod krzyżem św. Andrzeja informuje o więcej niż jednym torze na przejeździe": "Дополнительная поперечина под крестом святого Андрея информирует о наличии более чем одного пути на переезде.",
             "Czy w widocznej sytuacji znajdujesz się przed przejazdem kolejowym jednotorowym?": "Находишься ли ты в видимой ситуации перед однопутным железнодорожным переездом?",
             "Po przejechaniu pojazdu szynowego półzapory unoszą się do góry. Czy w tej sytuacji masz prawo rozpocząć jazdę i wjechać na tory kolejowe?": "После проезда железнодорожного транспорта шлагбаумы поднимаются вверх. В этой ситуации имеешь ли ты право начать движение и заехать на железнодорожные пути?",
-            "Zabrania się wjazdu gdy zapory nie są podniesione całkowicie. Sygnalizator nadaje sygnał zabraniający wjazdu": "Запрещается въезд, когда шлагбаумы не подняты полностью. Светофор излучает сигнал, запрещающий въезд."
+            "Zabrania się wjazdu gdy zapory nie są podniesione całkowicie. Sygnalizator nadaje sygnał zabraniający wjazdu": "Запрещается въезд, когда шлагбаумы не подняты полностью. Светофор излучает сигнал, запрещающий въезд.",
+            "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
+            "Czy w widocznej sytuacji masz obowiązek zatrzymać pojazd i upewnić się czy nie nadjeżdża pojazd szynowy?": "В данной ситуации ты обязан остановить транспортное средство и убедиться, что не приближается железнодорожный транспорт?",
+            "Czy na jezdni jednokierunkowej dopuszcza się wyprzedzanie pojazdu szynowego z jego lewej strony?": "Допускается ли обгон железнодорожного транспорта с его левой стороны на дороге с односторонним движением?"
         }
     },
     "not_approved": {
@@ -2465,7 +2468,6 @@
         "Sygnał zielony - zezwolenie na wjazd za sygnalizator": "Зеленый сигнал - разрешение на проезд за светофор.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
-        "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?",
@@ -3126,6 +3128,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej": "Железнодорожный транспорт может быть обгоняем только с правой стороны, если только расположение рельсов не делает такой обгон невозможным или обгон осуществляется на проезжей части с односторонним движением."
     }
 }
