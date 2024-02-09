@@ -2011,7 +2011,8 @@
             "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione": "Запрещается въезжать на переезд, когда шлагбаумы не были полностью подняты.",
             "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В представленной ситуации разрешено ли тебе въехать на видимый железнодорожный переезд, если красный свет уже погас, но шлагбаумы не были еще полностью подняты?",
             "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po przejechaniu pociągu, niezależnie od wyświetlanego sygnału?": "Разрешено ли тебе въехать на видимый переезд непосредственно после проезда поезда, независимо от отображаемого сигнала?",
-            "Zabrania się wjechania na przejazd gdy sygnał jest wciąż nadawany": "Запрещается въезжать на переезд, когда сигнал по-прежнему подается."
+            "Zabrania się wjechania na przejazd gdy sygnał jest wciąż nadawany": "Запрещается въезжать на переезд, когда сигнал по-прежнему подается.",
+            "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "Разрешено ли тебе въезжать на железнодорожный переезд при не полностью поднятых шлагбаумах?"
         }
     },
     "not_approved": {
@@ -2231,7 +2232,6 @@
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
-        "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
