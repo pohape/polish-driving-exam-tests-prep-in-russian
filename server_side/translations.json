@@ -1996,7 +1996,11 @@
             "Polecenia kierującego ruchem są ważniejsze od sygnalizacji świetlnej": "Приказы регулировщика движения важнее светофора.",
             "W sytuacji równorzędnej należy ustąpić pierwszeństwa pojazdowi szynowemu": "В равнозначной ситуации следует уступить дорогу железнодорожному транспорту.",
             "Zamierzasz jechać na wprost, a kierujący tramwajem planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы намерены ехать прямо, а управляющий трамваем планирует повернуть налево. У вас есть преимущество перед ним?",
-            "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?": "Вы собираетесь ехать прямо. У вас есть преимущество перед железнодорожным транспортом поворачивающим направо в депо?"
+            "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?": "Вы собираетесь ехать прямо. У вас есть преимущество перед железнодорожным транспортом поворачивающим направо в депо?",
+            "Czy w tej sytuacji jesteś obowiązany do zachowania szczególnej ostrożności?": "В этой ситуации ты обязан проявлять особую осторожность?",
+            "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność": "Водитель, приближаясь к железнодорожному переезду и проезжая через переезд, обязан соблюдать особую осторожность.",
+            "Czy w tej sytuacji jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Вы освобождены от обязанности соблюдения особой осторожности в этой ситуации?",
+            "Czy w tej sytuacji masz obowiązek upewnić się, że z żadnej strony nie nadjeżdża pociąg?": "В этой ситуации у вас есть обязанность убедиться, что с ни одной стороны не приближается поезд?"
         }
     },
     "not_approved": {
