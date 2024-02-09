@@ -1938,7 +1938,10 @@
             "Zażycie leków uspokajających i nasennych działa niekorzystnie na psychomotorykę": "Применение успокаивающих и снотворных лекарств негативно влияет на психомоторику.",
             "Czy zażycie leków uspokajających i nasennych, może zaburzać u kierującego kontrolę toru jazdy?": "Может ли прием успокаивающих и снотворных препаратов нарушить у водителя контроль над траекторией движения?",
             "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?": "Влияет ли употребленный алкоголь на изменение поля зрения водителя транспортного средства?",
-            "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?"
+            "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?",
+            "Czy zamierzając kierować pojazdem po zażyciu leków, powinieneś upewnić się, że nie mają one negatywnego wpływu na twój stan psychofizyczny?": "Собираясь управлять транспортным средством после приема лекарств, должен ли ты убедиться, что они не оказывают негативного воздействия на твое психофизическое состояние?",
+            "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
+            "Zmęczenie za kierownicą może doprowadzić do nieprzyjemnych sytuacji": "Усталость за рулём может привести к неприятным ситуациям."
         }
     },
     "not_approved": {
@@ -2167,7 +2170,6 @@
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "При неполном подъеме плотин вам разрешено въезжать на железнодорожный переезд?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
-        "Czy powinieneś kontynuować jazdę, jeżeli podczas pokonywania długiej trasy zaczynasz odczuwać zmęczenie i senność?": "Стоит ли продолжать движение, если вы начинаете чувствовать усталость и сонливость при прохождении длинного маршрута?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
         "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
@@ -3043,7 +3045,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Czy zamierzając kierować pojazdem po zażyciu leków, powinieneś upewnić się, że nie mają one negatywnego wpływu na twój stan psychofizyczny?": "Собираясь управлять транспортным средством после приема лекарств, должен ли ты убедиться, что они не оказывают негативного воздействия на твое психофизическое состояние?"
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
     }
 }
