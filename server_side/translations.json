@@ -12,7 +12,10 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения."
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
+        "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить из автомобиля без удостоверения, что это не создаст опасности для безопасности дорожного движения или его затруднения.",
+        "Czy wolno Ci wysiąść z pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе выйти из транспортного средства без убеждения, что ты этим не создашь угрозу для движения?",
+        "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе открыть дверь транспортного средства без удостоверения в том, что ты не создашь этим опасность для движения?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1918,7 +1921,8 @@
             "Skrzyżowania lub przejścia dla pieszych z kierujących ruchem, miejsca przystanków komunikacji publicznej": "Перекрестки или пешеходные переходы с регулировщиком, места остановок общественного транспорта.",
             "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения.",
             "Wraz z upływem czasu Twoja zdolność dostrzegania znaków i sygnałów drogowych pogarsza się": "С течением времени ваша способность замечать дорожные знаки и сигналы ухудшается.",
-            "W stanie pobudzenia emocjonalnego maleje zdolność koncentracji uwagi": "В состоянии эмоционального возбуждения уменьшается способность концентрации внимания."
+            "W stanie pobudzenia emocjonalnego maleje zdolność koncentracji uwagi": "В состоянии эмоционального возбуждения уменьшается способность концентрации внимания.",
+            "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?"
         }
     },
     "not_approved": {
@@ -2141,7 +2145,6 @@
         "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
-        "Czy w tej sytuacji, zostawiając drzwi otwarte, spowodujesz utrudnienie parkowania innym kierującym?": "В этой ситуации, оставляя дверь открытой, вы затрудняете парковку другим водителям?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
@@ -3029,8 +3032,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить из автомобиля без удостоверения, что это не создаст опасности для безопасности дорожного движения или его затруднения.",
-        "Czy wolno Ci wysiąść z pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе выйти из транспортного средства без убеждения, что ты этим не создашь угрозу для движения?"
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
     }
 }
