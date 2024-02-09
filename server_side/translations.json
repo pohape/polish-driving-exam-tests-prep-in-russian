@@ -12,7 +12,6 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить из автомобиля без удостоверения, что это не создаст опасности для безопасности дорожного движения или его затруднения.",
         "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе открыть дверь транспортного средства без удостоверения в том, что ты не создашь этим опасность для движения?",
         "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли так оставленный транспортное средство затруднять движение или парковку другим водителям?",
         "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумным поведениям.",
@@ -3064,6 +3063,7 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
-        "Czy wolno Ci wysiąść z pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе выйти из транспортного средства без убеждения, что ты не создашь опасности для движения?"
+        "Czy wolno Ci wysiąść z pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе выйти из транспортного средства без убеждения, что ты не создашь опасности для движения?",
+        "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить без удостоверения, что это не создаст угрозы безопасности дорожного движения или его затруднения."
     }
 }
