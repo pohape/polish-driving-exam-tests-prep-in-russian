@@ -15,7 +15,9 @@
         "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
         "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить из автомобиля без удостоверения, что это не создаст опасности для безопасности дорожного движения или его затруднения.",
         "Czy wolno Ci wysiąść z pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе выйти из транспортного средства без убеждения, что ты этим не создашь угрозу для движения?",
-        "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе открыть дверь транспортного средства без удостоверения в том, что ты не создашь этим опасность для движения?"
+        "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе открыть дверь транспортного средства без удостоверения в том, что ты не создашь этим опасность для движения?",
+        "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли так оставленный транспортное средство затруднять движение или парковку другим водителям?",
+        "Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyku wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze?": "Влияет ли прием водителем небольшого количества наркотического средства на улучшение способности правильно оценить риск на дороге?"
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -2433,7 +2435,6 @@
         "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического контроля транспортных средств.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
-        "Czy zażycie przez prowadzącego pojazd niewielkiej ilości narkotyku wpływa na poprawę zdolności do prawidłowej oceny ryzyka na drodze?": "Влияет ли прием водителем небольшого количества наркотического средства на улучшение способности правильно оценить риск на дороге?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
@@ -3032,6 +3033,7 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
+        "Każda ilość narkotyku pogarsza zdolności do prawidłowej oceny ryzyka na drodze": "Любое количество наркотика ухудшает способность к правильной оценке риска на дороге."
     }
 }
