@@ -22,7 +22,9 @@
         "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям.",
         "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед приемом лекарства необходимо ознакомиться с содержанием листовки, приложенной к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждый лекарственный препарат неправильно... :-)",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?",
-        "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Задача для перевода: \"Правильно ли водитель обезопасил транспортное средство перед его покиданием?\""
+        "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Задача для перевода: \"Правильно ли водитель обезопасил транспортное средство перед его покиданием?\"",
+        "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
+        "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1949,7 +1951,9 @@
             "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany nie podejmować czynności, które mogłyby utrudnić ustalenie przebiegu wypadku": "Если в результате аварии есть погибший или раненый, водитель обязан не предпринимать действий, которые могли бы затруднить установление обстоятельств аварии.",
             "Samochód znajduje się w obszarze zabudowanym poza jezdnią": "Автомобиль находится в населенном пункте вне проезжей части.",
             "Czy na parkingu znajdującym się w strefie ruchu mają zastosowanie zasady ruchu drogowego?": "Применяются ли правила дорожного движения на парковке, расположенной в зоне движения?",
-            "W strefie ruchu mają zastosowanie zasady ruchu drogowego": "В зоне движения применяются правила дорожного движения."
+            "W strefie ruchu mają zastosowanie zasady ruchu drogowego": "В зоне движения применяются правила дорожного движения.",
+            "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?": "Имеете ли вы право управлять транспортным средством, если содержание алкоголя в выдыхаемом воздухе в вашем организме превышает 0,1 мг на дм³?",
+            "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?"
         }
     },
     "not_approved": {
@@ -2849,7 +2853,6 @@
         "Czy osoba wykonująca na zlecenie lub za zgodą zarządcy drogi roboty na drodze może dawać uczestnikowi drogi polecenia lub sygnały?": "Может ли лицо, выполняющее по заказу или с согласия управляющего дорогой работы на дороге, давать участнику дороги указания или сигналы?",
         "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
-        "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
         "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
@@ -3051,7 +3054,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
-        "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?": "Имеете ли вы право управлять транспортным средством, если содержание алкоголя в выдыхаемом воздухе в вашем организме превышает 0,1 мг на дм³?"
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
     }
 }
