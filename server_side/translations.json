@@ -1968,7 +1968,8 @@
             "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе открыть дверь транспортного средства, не убедившись, что ты этим не создашь опасности для движения?",
             "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Применение стимуляторов увеличивает склонность к неразумному поведению.",
             "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Правильно ли водитель обезопасил транспортное средство перед его покиданием?",
-            "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг."
+            "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
+            "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰."
         }
     },
     "not_approved": {
@@ -3063,7 +3064,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
-        "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰."
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения"
     }
 }
