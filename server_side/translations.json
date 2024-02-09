@@ -18,7 +18,8 @@
         "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешено ли тебе открыть дверь транспортного средства без удостоверения в том, что ты не создашь этим опасность для движения?",
         "Czy pozostawiony tak pojazd może utrudniać ruch lub parkowanie innym kierującym?": "Может ли так оставленный транспортное средство затруднять движение или парковку другим водителям?",
         "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумным поведениям.",
-        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина усиливать склонность водителя к рискованным и агрессивным поведением?"
+        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина усиливать склонность водителя к рискованным и агрессивным поведением?",
+        "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1934,7 +1935,8 @@
             "Należy uniknąć kolizji": "Необходимо избегать столкновений.",
             "Zażycie leków uspokajających i nasennych działa niekorzystnie na psychomotorykę": "Применение успокаивающих и снотворных лекарств негативно влияет на психомоторику.",
             "Czy zażycie leków uspokajających i nasennych, może zaburzać u kierującego kontrolę toru jazdy?": "Может ли прием успокаивающих и снотворных препаратов нарушить у водителя контроль над траекторией движения?",
-            "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?": "Влияет ли употребленный алкоголь на изменение поля зрения водителя транспортного средства?"
+            "Czy spożyty alkohol wpływa na zmianę pola widzenia kierującego pojazdem?": "Влияет ли употребленный алкоголь на изменение поля зрения водителя транспортного средства?",
+            "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?"
         }
     },
     "not_approved": {
@@ -2108,7 +2110,6 @@
         "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
-        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "В любом случае, после приема лекарства, назначенного врачом, вы можете управлять автомобилем?",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли передаваемый сигнал, что через мгновение загорится зеленый сигнал?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
@@ -2878,7 +2879,6 @@
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
         "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?": "Во время буксировки транспортного средства разрешено ли тебе использовать аварийные огни?",
-        "Czy substancje psychoaktywne (m. in. \"dopalacze\") wpływają na zdolność bezpiecznego kierowania pojazdem nawet przez najbardziej doświadczonych kierowców?": "Влияют ли психоактивные вещества (в том числе \"легальные стимуляторы\") на способность безопасного управления транспортным средством даже самыми опытными водителями?",
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
         "Na jakie czynniki i okoliczności musisz zwrócić uwagę dobierając bezpieczną prędkość jazdy do panujących warunków drogowych?": "На какие факторы и обстоятельства ты должен обратить внимание, выбирая безопасную скорость движения в соответствии с текущими дорожными условиями?",
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
@@ -3041,6 +3041,7 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Вопрос: \"Улучшается ли ваша способность замечать дорожные знаки и сигналы по мере вождения транспортного средства с течением времени?\"",
-        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\""
+        "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Вопрос для перевода: \"Снижается ли твоя способность концентрировать внимание, когда ты находишься в состоянии эмоционального возбуждения?\"",
+        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?"
     }
 }
