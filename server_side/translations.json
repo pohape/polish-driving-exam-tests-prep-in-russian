@@ -13,7 +13,8 @@
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
-        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\""
+        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
+        "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В данной ситуации разрешено ли вам въехать на видный железнодорожный переезд, если красный свет уже погас, но шлагбаумы еще не были полностью подняты?"
     },
     "approved": {
         "upewninie się": {
@@ -2005,14 +2006,15 @@
             "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy": "Водитель транспортного средства, приближаясь к железнодорожному переезду и пересекая его, обязан проявлять особую осторожность. Перед въездом на рельсы он обязан убедиться, не приближается ли железнодорожный транспорт.",
             "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Обязаны ли вы, приближаясь к видимому переезду, убедиться, что в то время, когда вы будете его пересекать, не прибудет поезд?",
             "Czy wolno Ci wjechać na przejazd kolejowy, jeżeli półzapory zostały całkowicie podniesione, a sygnał czerwony jeszcze nie został wyłączony?": "Разрешено ли вам въехать на железнодорожный переезд, если шлагбаумы были полностью подняты, а красный сигнал ещё не был выключен?",
-            "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione i sygnał jest wciąż nadawany": "Запрещается заезжать на переезд, когда шлагбаумы не были полностью подняты и сигнал все еще передается."
+            "Zabrania się wjechania na przejazd gdy zapory nie zostały całkowicie podniesione i sygnał jest wciąż nadawany": "Запрещается заезжать на переезд, когда шлагбаумы не были полностью подняты и сигнал все еще передается.",
+            "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
+            "Za przejazdem nie ma miejsca do kontynuowania jazdy": "После проезда нет места для продолжения движения."
         }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
-        "Czy w tej sytuacji, mając zamiar jechać w lewo za przejazdem kolejowym, możesz kontynuować jazdę?": "В этой ситуации, если вы собираетесь ехать налево за железнодорожным переездом, можете ли вы продолжить движение?",
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В представленной ситуации разрешено ли вам совершать набеги на двойную сплошную линию, видимую на проезжей части?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
@@ -2703,7 +2705,6 @@
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
         "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?",
         "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
-        "Czy w przedstawionej sytuacji wolno Ci wjechać na widoczny przejazd kolejowy, jeżeli czerwone światło już zgasło, ale półzapory nie zostały jeszcze całkowicie podniesione?": "В данной ситуации разрешено ли вам въехать на видный железнодорожный переезд, если красный свет уже погас, но шлагбаумы еще не были полностью подняты?",
         "40 km\/h na obszarze zabudowanym": "40 км\/ч в населенном пункте.",
         "30 km\/h bez względu na obszar w jakim się porusza": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
         "Jaka jest dopuszczalna prędkość pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego?": "Какая разрешенная скорость ТС с грузом (в данном случае его назвали urządzeniem), выступающим вперед более чем на 1,5 м от сидения для водителя?",
