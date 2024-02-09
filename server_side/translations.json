@@ -13,7 +13,6 @@
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
-        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?",
         "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?": "Вы переводите следующий фрагмент: \"Приближаясь к железнодорожному переезду, вы обязаны соблюдать правило особой осторожности?\""
     },
@@ -2068,7 +2067,8 @@
             "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом.",
             "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
             "Ten znak ostrzega o zbliżaniu się do przejazdu kolejowego bez zapór": "Этот знак предупреждает о приближении к железнодорожному переезду без шлагбаумов.",
-            "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вы обязаны убедиться, что поезд не приближается, если железнодорожные шлагбаумы подняты?"
+            "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вы обязаны убедиться, что поезд не приближается, если железнодорожные шлагбаумы подняты?",
+            "Czy w tej sytuacji możesz ominąć stojący pojazd?": "Вы можете объехать стоящий транспортное средство в этой ситуации?"
         }
     },
     "not_approved": {
