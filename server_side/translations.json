@@ -2068,7 +2068,9 @@
             "Ten znak ostrzega o zbliżaniu się do przejazdu kolejowego bez zapór": "Этот знак предупреждает о приближении к железнодорожному переезду без шлагбаумов.",
             "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вы обязаны убедиться, что поезд не приближается, если железнодорожные шлагбаумы подняты?",
             "Czy w tej sytuacji możesz ominąć stojący pojazd?": "Вы можете объехать стоящий транспортное средство в этой ситуации?",
-            "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?": "Приближаясь к железнодорожному переезду, обязан ли ты применить правило особой осторожности?"
+            "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?": "Приближаясь к железнодорожному переезду, обязан ли ты применить правило особой осторожности?",
+            "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
+            "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям."
         }
     },
     "not_approved": {
@@ -2811,8 +2813,6 @@
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Wyprzedzanie": "Обгон",
         "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
-        "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
-        "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
         "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
