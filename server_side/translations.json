@@ -1993,7 +1993,10 @@
             "Gdy zaczyna padać deszcz": "Когда начинает идти дождь.",
             "Gdy z przeciwka nadjeżdża inny pojazd": "Когда с встречного подъезжает другой автомобиль.",
             "Przepalona żarówka tylnego lewego kierunkowskazu": "Перегоревшая лампочка левого заднего поворотника.",
-            "Polecenia kierującego ruchem są ważniejsze od sygnalizacji świetlnej": "Приказы регулировщика движения важнее светофора."
+            "Polecenia kierującego ruchem są ważniejsze od sygnalizacji świetlnej": "Приказы регулировщика движения важнее светофора.",
+            "W sytuacji równorzędnej należy ustąpić pierwszeństwa pojazdowi szynowemu": "В равнозначной ситуации следует уступить дорогу железнодорожному транспорту.",
+            "Zamierzasz jechać na wprost, a kierujący tramwajem planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы намерены ехать прямо, а управляющий трамваем планирует повернуть налево. У вас есть преимущество перед ним?",
+            "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?": "Вы собираетесь ехать прямо. У вас есть преимущество перед железнодорожным транспортом поворачивающим направо в депо?"
         }
     },
     "not_approved": {
@@ -3010,7 +3013,6 @@
         "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
-        "Zamierzasz jechać na wprost. Czy masz pierwszeństwo przed pojazdem szynowym skręcającym w prawo do zajezdni ?": "Вы собираетесь ехать прямо. У вас есть преимущество перед железнодорожным транспортом поворачивающим направо в депо?",
         "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?",
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
@@ -3084,8 +3086,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "W sytuacji równorzędnej należy ustąpić pierwszeństwa pojazdowi szynowemu": "В равнозначной ситуации следует уступить дорогу железнодорожному транспорту.",
-        "Zamierzasz jechać na wprost, a kierujący tramwajem planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы намерены ехать прямо, а управляющий трамваем планирует повернуть налево. У вас есть преимущество перед ним?"
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
