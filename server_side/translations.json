@@ -11,7 +11,8 @@
         "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
-        "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?"
+        "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения."
     },
     "approved": {
         "urządzenia dla powolnej jazdy": {
@@ -1912,7 +1913,10 @@
             "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ESP, czyli układ stabilizacji toru jazdy?": "В какой из перечисленных опасных ситуаций на дороге лучше всего проявит себя транспортное средство, оснащённое так называемой ESP, то есть системой стабилизации траектории движения?",
             "W sytuacji konieczności pokonywania kilku następujących po sobie zakrętów": "В ситуации, когда необходимо преодолеть несколько идущих подряд поворотов.",
             "Ułatwia omijanie przeszkód w czasie hamowania": "Облегчает объезд препятствий во время торможения.",
-            "Skraca drogę hamowania w każdych warunkach": "Укорачивает тормозной путь в любых условиях."
+            "Skraca drogę hamowania w każdych warunkach": "Укорачивает тормозной путь в любых условиях.",
+            "Skrzyżowania ze znakami określającymi pierwszeństwo przejazdu": "Перекрестки со знаками, определяющими преимущество проезда.",
+            "Skrzyżowania lub przejścia dla pieszych z kierujących ruchem, miejsca przystanków komunikacji publicznej": "Перекрестки или пешеходные переходы с регулировщиком, места остановок общественного транспорта.",
+            "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения."
         }
     },
     "not_approved": {
@@ -2693,12 +2697,9 @@
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Wyprzedzanie": "Обгон",
         "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
-        "Zmiana pasa ruchu, zmiana kierunku jazdy": "Смена полосы движения, смена направления движения.",
-        "Skrzyżowania ze znakami określającymi pierwszeństwo przejazdu": "Перекрестки со знаками, определяющими преимущество проезда.",
         "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
         "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
         "Zachowanie na przejazdach kolejowych i tramwajowych": "Поведение на железнодорожных и трамвайных переездах",
-        "Skrzyżowania lub przejścia dla pieszych z kierujących ruchem, miejsca przystanków komunikacji publicznej": "Перекрестки или пешеходные переходы с регулировщиком, места остановок общественного транспорта.",
         "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
@@ -2936,7 +2937,6 @@
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения.",
         "W jaki sposób, podczas kontroli drogowej przez upoważniony organ, następuje zatrzymanie prawa jazdy wydanego w kraju?": "Каким образом, во время дорожного контроля уполномоченным органом, происходит временное изъятие водительского удостоверения, выданного в стране?",
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
