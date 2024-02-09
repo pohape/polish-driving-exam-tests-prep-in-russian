@@ -11,7 +11,6 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?",
         "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Задача для перевода: \"Правильно ли водитель обезопасил транспортное средство перед его покиданием?\"",
         "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
         "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰."
@@ -1968,7 +1967,8 @@
             "Wraz ze spadkiem prędkości jazdy zwiększa się pole widzenia": "С уменьшением скорости движения увеличивается поле зрения.",
             "Czy w trakcie prowadzenia pojazdu, wraz z upływem czasu, poprawia się Twoja zdolność dostrzegania znaków i sygnałów drogowych?": "Во время вождения транспортного средства, со временем улучшается ли у вас способность замечать дорожные знаки и сигналы?",
             "Czy gdy prowadzisz w stanie pobudzenia emocjonalnego, to maleje Twoja zdolność koncentracji uwagi?": "Снижается ли твоя способность концентрации внимания, если ты управляешь в состоянии эмоционального возбуждения?",
-            "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе открыть дверь транспортного средства, не убедившись, что ты этим не создашь опасности для движения?"
+            "Czy wolno Ci otworzyć drzwi pojazdu bez upewnienia się, że nie spowodujesz tym zagrożenia ruchu?": "Разрешается ли тебе открыть дверь транспортного средства, не убедившись, что ты этим не создашь опасности для движения?",
+            "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Применение стимуляторов увеличивает склонность к неразумному поведению."
         }
     },
     "not_approved": {
@@ -3063,6 +3063,7 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения"
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
+        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?"
     }
 }
