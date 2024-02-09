@@ -2066,7 +2066,9 @@
             "Czy w tej sytuacji masz obowiązek umożliwić pasażerom opuszczenie tramwaju, który zatrzymał się na przystanku?": "В этой ситуации вы обязаны позволить пассажирам покинуть трамвай, который остановился на остановке?",
             "Sytuacja wymaga zachowania szczególnej ostrożności (przejazd przez tory kolejowe)": "Ситуация требует соблюдения особой осторожности (проезд через железнодорожные пути)",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejazdem kolejowym?": "В этой ситуации вы обязаны остановить транспортное средство перед железнодорожным переездом?",
-            "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом."
+            "W tej sytuacji nie ma żadnego elementu nakazującego zatrzymanie przed przejazdem kolejowym": "В этой ситуации нет никакого элемента, обязывающего остановиться перед железнодорожным переездом.",
+            "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
+            "Ten znak ostrzega o zbliżaniu się do przejazdu kolejowego bez zapór": "Этот знак предупреждает о приближении к железнодорожному переезду без шлагбаумов."
         }
     },
     "not_approved": {
@@ -2159,7 +2161,6 @@
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 przejeżdża przed pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 3 первым, а транспортное средство № 2 вторым?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
-        "Czy za tym znakiem możesz spodziewać się przejazdu kolejowego bez sygnalizacji świetlnej?": "Можете ли вы ожидать железнодорожного переезда без светофора за этим знаком?",
         "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Powinieneś posadzić dziecko na środku tylnego siedzenia": "Вы должны посадить ребенка в центр заднего сиденья.",
