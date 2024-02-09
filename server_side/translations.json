@@ -11,7 +11,6 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям.",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?",
         "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Задача для перевода: \"Правильно ли водитель обезопасил транспортное средство перед его покиданием?\"",
         "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
@@ -3064,8 +3063,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
-        "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Прием наркотиков увеличивает склонность к неразумным поведением.",
-        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличивать склонность водителя к рискованным и агрессивным поведениям?"
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения"
     }
 }
