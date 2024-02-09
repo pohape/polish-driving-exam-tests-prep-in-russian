@@ -1973,7 +1973,8 @@
             "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰.",
             "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
             "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумному поведению.",
-            "Zachowanie na przejazdach kolejowych i tramwajowych": "Поведение на железнодорожных и трамвайных переездах"
+            "Zachowanie na przejazdach kolejowych i tramwajowych": "Поведение на железнодорожных и трамвайных переездах",
+            "Czy w tej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в этой ситуации?"
         }
     },
     "not_approved": {
@@ -2026,7 +2027,6 @@
         "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
         "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
         "W każdym przypadku zwiększyć biegi o dwa": "В каждом случае увеличьте передачи на два.",
-        "Czy w tej sytuacji masz prawo używać świateł drogowych?": "Имеете ли вы право использовать дальний свет в этой ситуации?",
         "Czy dozwolone jest zatrzymanie samochodu osobowego na drodze dla rowerów, jeżeli pozostanie co najmniej 1,5 m szerokości dla rowerzystów?": "Разрешено ли останавливать легковой автомобиль на дороге для велосипедов, если для велосипедистов остается не менее 1,5 м в ширину?",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszych?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешеходов?",
