@@ -632,6 +632,8 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед использованием ознакомьтесь с инструкцией, прилагаемой к упаковке, или проконсультируйтесь с врачом или фармацевтом, так как любое неправильное использование препарата угрожает вашей жизни или здоровью.",
+            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie stosowany": "Перед использованием ознакомьтесь с инструкцией, прилагаемой к упаковке, или проконсультируйтесь с врачом или фармацевтом, так как любое неправильное использование препарата угрожает вашей жизни или здоровью.",
             "Kierujesz pojazdem z instalacją gazową LPG. Czy widoczny znak po prawej nakazuje Ci skręcić w prawo za 150 metrów?": "Вы управляете автомобилем с установкой сжиженного газа. Обязывает ли вас видимый справа знак повернуть направо через 150 метров?",
             "Potwierdzenie opłaty ubezpieczenia AC": "Подтверждение оплаты страховки КАСКО.",
             "Zawarcie umowy ubezpieczenia Autocasco": "Заключение договора страхования КАСКО.",
@@ -1954,15 +1956,14 @@
             "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?": "Имеете ли вы право управлять транспортным средством, если содержание алкоголя в выдыхаемом воздухе в вашем организме превышает 0,1 мг на дм³?",
             "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
             "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
-            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед применением лекарства необходимо ознакомиться с содержанием инструкции, прилагаемой к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждое лекарство неправильно... :-)",
             "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?": "При управлении транспортным средством в состоянии после употребления алкоголя подлежишь ли ты ответственности за правонарушение?",
             "Prawo o ruchu drogowym zabrania kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem osobie w stanie nietrzeźwości, w stanie po spożyciu alkoholu lub środka działającego podobnie do alkoholu": "Закон о дорожном движении запрещает управление транспортным средством, ведение колонны пешеходов, езду верхом лицу в состоянии опьянения, в состоянии после употребления алкоголя или вещества, действующего подобно алкоголю.",
             "Poruszasz się z prędkością 110 km\/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы движетесь со скоростью 110 км\/ч. Обязаны ли вы в этой ситуации снизить скорость?",
             "Dopuszczalna prędkość na autostradzie wynosi 140 km\/h": "Допустимая скорость на автостраде составляет 140 км\/ч.",
             "Czy wolno Ci holować pojazd, którym kieruje osoba w stanie po użyciu alkoholu?": "Вам разрешено буксировать транспортное средство, которым управляет человек в состоянии после употребления алкоголя?",
             "Zabrania się holowania pojazdu, którym kieruje nieodpowiednia osoba": "Запрещается буксировать транспортное средство, которым управляет неподходящее лицо.",
-            "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?",
-            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie stosowany": "Перед приёмом лекарства следует ознакомиться с содержанием инструкции, приложенной к упаковке, или проконсультироваться с врачом или фармацевтом, так как любой лекарственный препарат, используемый неправильно..."
+            "Czy zażywanie leków nasennych i uspokajających może mieć negatywny wpływ na zdolność prowadzenia pojazdu?": "Может ли прием снотворных и успокаивающих препаратов отрицательно повлиять на способность управления транспортным средством?"
+            
         }
     },
     "not_approved": {
