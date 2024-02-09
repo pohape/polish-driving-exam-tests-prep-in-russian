@@ -1983,7 +1983,10 @@
             "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
             "Zwiększać prędkość jazdy": "Увеличить скорость движения.",
             "Zjechać na pas ruchu dla kierunku przeciwnego": "Выезжайте на полосу движения в противоположном направлении.",
-            "Tak, ale tylko w godz. 5.00-23.00": "Да, но только с 5:00 до 23:00."
+            "Tak, ale tylko w godz. 5.00-23.00": "Да, но только с 5:00 до 23:00.",
+            "Przeciwdziałanie poślizgowi kół podczas ruszania": "Противодействие проскальзыванию колес при трогании.",
+            "Zapobieganie blokowaniu kół hamowanych": "Предотвращение блокировки тормозных колес.",
+            "Jaki jest cel stosowania układu ASR w samochodzie osobowym?": "Какова цель использования системы ASR в автомобиле?"
         }
     },
     "not_approved": {
@@ -2259,7 +2262,6 @@
         "Gaśnica umieszczona jest na tylnej półce": "Огнетушитель размещен на задней полке.",
         "Gaśnica zamocowana pod fotelem pasażera": "Огнетушитель закреплен под пассажирским сиденьем.",
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
-        "Zapobieganie blokowaniu kół hamowanych": "Предотвращение блокировки тормозных колес.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки.",
@@ -3076,7 +3078,6 @@
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
         "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?",
         "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?",
-        "Jaki jest cel stosowania układu ASR w samochodzie osobowym?": "Какова цель использования системы ASR в автомобиле?",
-        "Przeciwdziałanie poślizgowi kół podczas ruszania": "Противодействие проскальзыванию колес при трогании."
+        "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?"
     }
 }
