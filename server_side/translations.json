@@ -15,8 +15,7 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
         "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?",
-        "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?",
-        "Czy w razie unieruchomienia pojazdu na przejeździe kolejowym masz obowiązek ostrzec kierującego pojazdem szynowym, jeżeli nie jest możliwie usunięcie pojazdu z tego przejazdu?": "В случае остановки ТС на железнодорожном переезде, обязаны ли вы предупредить водителя железнодорожного транспорта, если невозможно убрать ТС с этого переезда?"
+        "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?"
     },
     "approved": {
         "upewninie się": {
@@ -2051,7 +2050,11 @@
             "Znak ostrzega o zbliżaniu się do przejazdu z zaporami": "Знак предупреждает о приближении к переезду со шлагбаумами.",
             "Czy w widocznej sytuacji masz obowiązek zatrzymać pojazd i upewnić się czy nie nadjeżdża pojazd szynowy?": "В данной ситуации ты обязан остановить транспортное средство и убедиться, что не приближается железнодорожный транспорт?",
             "Czy na jezdni jednokierunkowej dopuszcza się wyprzedzanie pojazdu szynowego z jego lewej strony?": "Допускается ли обгон железнодорожного транспорта с его левой стороны на дороге с односторонним движением?",
-            "Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej": "Железнодорожный транспорт может быть обгоняем только с правой стороны, если только расположение рельсов не делает такой обгон невозможным или обгон осуществляется на проезжей части с односторонним движением."
+            "Pojazd szynowy może być wyprzedzany tylko z prawej strony, chyba że położenie torów uniemożliwia takie wyprzedzanie lub wyprzedzanie odbywa się na jezdni jednokierunkowej": "Железнодорожный транспорт может быть обгоняем только с правой стороны, если только расположение рельсов не делает такой обгон невозможным или обгон осуществляется на проезжей части с односторонним движением.",
+            "Czy w razie unieruchomienia pojazdu na przejeździe kolejowym masz obowiązek ostrzec kierującego pojazdem szynowym, jeżeli nie jest możliwie usunięcie pojazdu z tego przejazdu?": "В случае остановки ТС на железнодорожном переезде, обязаны ли вы предупредить управляющего железнодорожным транспортом, если невозможно убрать транспортное средство с этого переезда?",
+            "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
+            "Zapory podniesione. Sygnalizator nie nadaje sygnału do zatrzymania": "Шлагбаумы подняты. Светофор не подает сигнал к остановке.",
+            "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy dopiero po upewnieniu, że nie zbliża się pojazd szynowy?": "В этой ситуации у вас есть право заехать на железнодорожный переезд только убедившись, что не приближается железнодорожный транспорт?"
         }
     },
     "not_approved": {
@@ -2852,7 +2855,6 @@
         "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в горизонтальной форме разместили предупреждающий знак.",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
-        "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
