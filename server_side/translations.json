@@ -14,7 +14,8 @@
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
-        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?"
+        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?",
+        "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek upewnić się, czy nie nadjeżdża pojazd szynowy?": "Вы должны удостовериться, не приближается ли железнодорожный транспорт, когда вы подъезжаете к переезду трамвайному?"
     },
     "approved": {
         "upewninie się": {
@@ -2024,7 +2025,8 @@
             "Czy w tej sytuacji powinieneś zatrzymać się za stojącym pojazdem?": "Должны ли вы в этой ситуации остановиться за стоящим транспортным средством?",
             "Czy w tej sytuacji, chcąc kontynuować jazdę w lewo za przejazdem, powinieneś zatrzymać się przed półzaporą?": "В этой ситуации, желая продолжить движение налево после переезда, ты должен остановиться перед шлагбаумом?",
             "W tej sytuacji przejazd nie został oznakowany znakiem STOP B-20": "В этой ситуации пересечение не было обозначено знаком STOP B-20.",
-            "Krzyż św. Andrzeja nie zobowiązuje do zatrzymania": "Крест святого Андрея не обязывает остановиться."
+            "Krzyż św. Andrzeja nie zobowiązuje do zatrzymania": "Крест святого Андрея не обязывает остановиться.",
+            "Czy zanim wjedziesz na torowisko bezpośrednio za poprzedzającym pojazdem, masz obowiązek upewnienia się, czy nie zbliża się pojazd szynowy?": "Вы обязаны убедиться перед выездом на железнодорожный переезд сразу за впереди идущим транспортным средством, не приближается ли железнодорожный транспорт?"
         }
     },
     "not_approved": {
