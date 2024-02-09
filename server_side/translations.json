@@ -20,7 +20,6 @@
         "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумным поведениям.",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина усиливать склонность водителя к рискованным и агрессивным поведением?",
         "Zażywanie dopalaczy zwiększa skłonność do nierozsądnych zachowań": "Принятие стимуляторов увеличивает склонность к неразумным поведениям.",
-        "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед приемом лекарства необходимо ознакомиться с содержанием листовки, приложенной к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждый лекарственный препарат неправильно... :-)",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после приема препарата, прописанного врачом?",
         "Czy kierujący właściwie zabezpieczył pojazd przed jego opuszczeniem?": "Задача для перевода: \"Правильно ли водитель обезопасил транспортное средство перед его покиданием?\"",
         "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
@@ -1953,7 +1952,10 @@
             "Czy na parkingu znajdującym się w strefie ruchu mają zastosowanie zasady ruchu drogowego?": "Применяются ли правила дорожного движения на парковке, расположенной в зоне движения?",
             "W strefie ruchu mają zastosowanie zasady ruchu drogowego": "В зоне движения применяются правила дорожного движения.",
             "Czy masz prawo prowadzić pojazd gdy obecność alkoholu w wydychanym powietrzu w Twoim organizmie przekracza 0,1 mg w dm³?": "Имеете ли вы право управлять транспортным средством, если содержание алкоголя в выдыхаемом воздухе в вашем организме превышает 0,1 мг на дм³?",
-            "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?"
+            "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
+            "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
+            "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед применением лекарства необходимо ознакомиться с содержанием инструкции, прилагаемой к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждое лекарство неправильно... :-)",
+            "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?": "При управлении транспортным средством в состоянии после употребления алкоголя подлежишь ли ты ответственности за правонарушение?"
         }
     },
     "not_approved": {
@@ -3017,7 +3019,6 @@
         "Znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Этот знак указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся транспортными средствами общественного транспорта.",
         "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub poważnego uszczerbku na zdrowiu - podlega karze pozbawienia wolności do lat 3": "Тот, кто не оказывает помощь человеку, находящемуся в положении, угрожающем непосредственной опасностью потери жизни, тяжкого повреждения тела или тяжкого расстройства здоровья, могущему оказать помощь без подвергания себя или другого лица опасности потери жизни или серьёзного ущерба здоровью, подлежит наказанию лишением свободы до 3 лет.",
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Сняли ли водители транспортных средств, двигаясь в соответствии с действующими правилами, с проезжей части дороги для пропуска транспортного средства с преимущественным правом проезда?",
-        "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
         "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте.",
         "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?",
         "Emisja bezbarwnych spalin": "Эмиссия бесцветных выхлопных газов.",
