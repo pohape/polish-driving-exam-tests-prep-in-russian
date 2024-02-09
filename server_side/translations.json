@@ -2038,7 +2038,11 @@
             "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
             "Taki wariant krzyża św. Andrzeja (dodatkowa poprzeczka) świadczy o zbliżaniu się do wielotorowego przejazdu": "Такой вариант креста святого Андрея (дополнительная поперечина) свидетельствует о приближении к многопутному переезду.",
             "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy?": "В данной ситуации у вас есть право заехать на железнодорожный переезд?",
-            "Zapory są opuszczone, sygnalizator nadaje sygnał zakazujący wjazdu": "Шлагбаумы опущены, светофор подает сигнал, запрещающий въезд."
+            "Zapory są opuszczone, sygnalizator nadaje sygnał zakazujący wjazdu": "Шлагбаумы опущены, светофор подает сигнал, запрещающий въезд.",
+            "Jak ??!!": "Как ??!!",
+            "Czy przejeżdżając przez przejazd kolejowy masz pierwszeństwo przed nadjeżdżającym pojazdem szynowym?": "Есть ли у вас преимущество перед приближающимся железнодорожным транспортом, проезжая через железнодорожный переезд?",
+            "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?",
+            "Sygnalizator nadaje sygnał zabraniający wjazdu": "Светофор подает сигнал запрещающий въезд."
         }
     },
     "not_approved": {
@@ -2842,7 +2846,6 @@
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
         "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
-        "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy z zachowaniem szczególnej ostrożności?": "Имеешь ли ты право въехать на железнодорожный переезд с соблюдением особой осторожности в данной ситуации?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
@@ -3119,6 +3122,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Czy w widocznej sytuacji znajdujesz się przed przejazdem kolejowym jednotorowym?": "Находишься ли ты в данной ситуации перед однопутным железнодорожным переездом?"
     }
 }
