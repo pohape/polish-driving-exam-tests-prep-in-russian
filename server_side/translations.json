@@ -1978,7 +1978,12 @@
             "Czy wolno Ci zwiększyć prędkość, jeśli jesteś wyprzedzany?": "Разрешается ли тебе увеличить скорость, если тебя обгоняют?",
             "Drugim": "Вторым.",
             "Najniższym": "Самым низким.",
-            "Dowolnym": "Случайным."
+            "Dowolnym": "Случайным.",
+            "Ograniczyć prędkość jazdy": "Ограничьте скорость движения.",
+            "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
+            "Zwiększać prędkość jazdy": "Увеличить скорость движения.",
+            "Zjechać na pas ruchu dla kierunku przeciwnego": "Выезжайте на полосу движения в противоположном направлении.",
+            "Tak, ale tylko w godz. 5.00-23.00": "Да, но только с 5:00 до 23:00."
         }
     },
     "not_approved": {
@@ -2013,7 +2018,6 @@
         "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Как установить автокресло для перевозки ребенка в автомобиле?",
-        "Zjechać na pas ruchu dla kierunku przeciwnego": "Выезжайте на полосу движения в противоположном направлении.",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Wkrótce": "Вскоре",
@@ -2026,8 +2030,6 @@
         "Nieprawidłowa zbieżność przejawia się trudnościami w utrzymaniu prostego toru jazdy": "Неправильное схождение проявляется трудностями в поддержании прямой траектории движения.",
         "Do utraty sterowności": "К потере управляемости.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
-        "Zwiększać prędkość jazdy": "Увеличить скорость движения.",
-        "Ograniczyć prędkość jazdy": "Ограничьте скорость движения.",
         "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
         "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
         "W każdym przypadku zwiększyć biegi o dwa": "В каждом случае увеличьте передачи на два.",
@@ -2573,7 +2575,6 @@
         "mijania": "ближнего света.",
         "pozycyjnych": "габаритов.",
         "drogowych": "дальнего света.",
-        "Jak powinieneś zachować się wjeżdżając na odcinek drogi pokryty kałużami?": "Как следует вести себя, въезжая на участок дороги, покрытый лужами?",
         "Czy w tej sytuacji, zbliżając się do przejazdu kolejowego, masz obowiązek zatrzymać pojazd przed znakiem STOP?": "В этой ситуации, приближаясь к железнодорожному переезду, обязаны ли вы остановить транспортное средство перед знаком STOP?",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
@@ -3073,6 +3074,7 @@
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
         "Czy widoczny nad Twoim pasem ruchu sygnał świetlny zobowiązuje Cię do zatrzymania się przed sygnalizatorem?": "Видимый над вашей полосой движения световой сигнал обязывает вас остановиться перед светофором?",
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
-        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?"
+        "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?",
+        "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?"
     }
 }
