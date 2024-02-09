@@ -11,7 +11,8 @@
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
-        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?"
+        "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
+        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?"
     },
     "approved": {
         "upewninie się": {
@@ -1971,7 +1972,8 @@
             "Stan po spożyciu alkoholu zachodzi gdy zawartość alkoholu w litrze wydychanego powietrza przekracza 0,1 mg": "Состояние после употребления алкоголя наступает, когда содержание алкоголя в литре выдыхаемого воздуха превышает 0,1 мг.",
             "Stan po spożyciu alkoholu zachodzi gdy gdy stężenie alkoholu we krwi przekracza 0,2‰": "Состояние после употребления алкоголя наступает, когда концентрация алкоголя в крови превышает 0,2‰.",
             "Spostrzeganie, ocena sytuacji i podejmowanie decyzji, szczególnie w zakresie czasu reakcji oraz zmian w zachowaniu za kierownicą, spowodowanych wpływem alkoholu, leków i produktów leczniczych, stanem świadomości i zmęczeniem": "Восприятие, оценка ситуации и принятие решений, особенно в отношении времени реакции и изменений в поведении за рулем, вызванных влиянием алкоголя, лекарств и лечебных препаратов, состоянием сознания и усталостью.",
-            "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумному поведению."
+            "Zażywanie narkotyków zwiększa skłonność do nierozsądnych zachowań": "Употребление наркотиков увеличивает склонность к неразумному поведению.",
+            "Zachowanie na przejazdach kolejowych i tramwajowych": "Поведение на железнодорожных и трамвайных переездах"
         }
     },
     "not_approved": {
@@ -2742,7 +2744,6 @@
         "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
         "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
         "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
-        "Zachowanie na przejazdach kolejowych i tramwajowych": "Поведение на железнодорожных и трамвайных переездах",
         "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
@@ -3065,7 +3066,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
-        "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?"
+        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения"
     }
 }
