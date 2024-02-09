@@ -2054,7 +2054,9 @@
             "Czy w razie unieruchomienia pojazdu na przejeździe kolejowym masz obowiązek ostrzec kierującego pojazdem szynowym, jeżeli nie jest możliwie usunięcie pojazdu z tego przejazdu?": "В случае остановки ТС на железнодорожном переезде, обязаны ли вы предупредить управляющего железнодорожным транспортом, если невозможно убрать транспортное средство с этого переезда?",
             "Czy w tej sytuacji masz obowiązek zatrzymania się przed sygnalizatorem?": "В данной ситуации обязаны ли вы остановиться перед светофором?",
             "Zapory podniesione. Sygnalizator nie nadaje sygnału do zatrzymania": "Шлагбаумы подняты. Светофор не подает сигнал к остановке.",
-            "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy dopiero po upewnieniu, że nie zbliża się pojazd szynowy?": "В этой ситуации у вас есть право заехать на железнодорожный переезд только убедившись, что не приближается железнодорожный транспорт?"
+            "Czy w tej sytuacji masz prawo wjechać na przejazd kolejowy dopiero po upewnieniu, że nie zbliża się pojazd szynowy?": "В этой ситуации у вас есть право заехать на железнодорожный переезд только убедившись, что не приближается железнодорожный транспорт?",
+            "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność, zatrzymać pojazd oraz upewnić się czy nie nadjeżdża pojazd szynowy?": "В данной ситуации обязаны ли вы проявить особую осторожность, остановить транспортное средство и убедиться, что не приближается железнодорожный транспорт?",
+            "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Znak \"STOP\" nakłada obowiązek zatrzymania się": "Водитель транспортного средства, приближаясь к железнодорожному переезду и пересекая его, обязан соблюдать особую осторожность. Знак \"СТОП\" налагает обязанность остановиться."
         }
     },
     "not_approved": {
@@ -2608,7 +2610,6 @@
         "Czy w tej sytuacji wolno Ci wykonać manewr wyprzedzania?": "В данной ситуации разрешается ли вам выполнить маневр обгона?",
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
-        "Czy w widocznej sytuacji masz obowiązek zachować szczególną ostrożność, zatrzymać pojazd oraz upewnić się czy nie nadjeżdża pojazd szynowy?": "В данной ситуации обязаны ли вы проявить особую осторожность, остановить транспортное средство и убедиться, что не приближается железнодорожный транспорт?",
         "Czy kierujący tymi pojazdami umożliwili swobodny przejazd pojazdom uprzywilejowanym tworząc tzw. \"korytarz życia\"?": "Создали ли водители этих транспортных средств свободный проезд для привилегированных ТС, создавая так называемый \"коридор жизни\"?",
         "Czy podczas cofania, przy braku innych uczestników ruchu na tym odcinku drogi, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы отказаться от соблюдения особой осторожности при движении задним ходом, если на этом участке дороги нет других участников движения?",
         "Czy w tej sytuacji masz prawo wykonać manewr wyprzedzania z lewej strony?": "В данной ситуации, имеешь ли ты право выполнить маневр обгона с левой стороны?",
@@ -3132,6 +3133,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Czy zbliżając się do przejazdu kolejowego masz obowiązek zastosować zasadę szczególnej ostrożności?": "Вы переводите следующий фрагмент: \"Приближаясь к железнодорожному переезду, вы обязаны соблюдать правило особой осторожности?\""
     }
 }
