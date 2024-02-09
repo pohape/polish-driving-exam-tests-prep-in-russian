@@ -2000,7 +2000,9 @@
             "Czy w tej sytuacji jesteś obowiązany do zachowania szczególnej ostrożności?": "В этой ситуации ты обязан проявлять особую осторожность?",
             "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność": "Водитель, приближаясь к железнодорожному переезду и проезжая через переезд, обязан соблюдать особую осторожность.",
             "Czy w tej sytuacji jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Вы освобождены от обязанности соблюдения особой осторожности в этой ситуации?",
-            "Czy w tej sytuacji masz obowiązek upewnić się, że z żadnej strony nie nadjeżdża pociąg?": "В этой ситуации у вас есть обязанность убедиться, что с ни одной стороны не приближается поезд?"
+            "Czy w tej sytuacji masz obowiązek upewnić się, że z żadnej strony nie nadjeżdża pociąg?": "В этой ситуации у вас есть обязанность убедиться, что с ни одной стороны не приближается поезд?",
+            "Kierujący pojazdem, zbliżając się do przejazdu kolejowego oraz przejeżdżając przez przejazd, jest obowiązany zachować szczególną ostrożność. Przed wjechaniem na tory jest on obowiązany upewnić się, czy nie zbliża się pojazd szynowy": "Водитель транспортного средства, приближаясь к железнодорожному переезду и пересекая его, обязан проявлять особую осторожность. Перед въездом на рельсы он обязан убедиться, не приближается ли железнодорожный транспорт.",
+            "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Обязаны ли вы, приближаясь к видимому переезду, убедиться, что в то время, когда вы будете его пересекать, не прибудет поезд?"
         }
     },
     "not_approved": {
@@ -2378,7 +2380,6 @@
         "Odpowiedzi inne niż nr 3 są bez sensu": "Ответы, отличные от номера 3, бессмысленны.",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
-        "Czy zbliżając się do widocznego przejazdu, masz obowiązek upewnić się, że w czasie, gdy będziesz przez niego przejeżdżał, nie nadjedzie pociąg?": "Должны ли вы убедиться, приближаясь к видимому переезду, что во время вашего проезда через него поезд не прибудет?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd bezpośrednio przed przejściem dla pieszych?": "В данной ситуации имеете ли вы право припарковать транспортное средство непосредственно перед пешеходным переходом?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu?": "Разрешено ли тебе в этой ситуации повернуть направо на перекрестке?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego przez Ciebie pasa ruchu?": "В данной ситуации, разрешено ли Вам повернуть налево с занимаемой Вами полосы движения?",
