@@ -1955,7 +1955,10 @@
             "Czy masz prawo prowadzić pojazd gdy stężenie alkoholu we krwi w Twoim organizmie przekracza 0,2‰?": "Имеешь ли ты право управлять транспортным средством, если концентрация алкоголя в крови в твоем организме превышает 0,2‰?",
             "Czy po każdym leku dostępnym bez recepty masz prawo prowadzić pojazd?": "Имеешь ли ты право управлять транспортным средством после приёма любого безрецептурного препарата?",
             "Przed zażyciem leku należy zapoznać się z treścią ulotki dołączonej do opakowania, bądź skonsultować się z lekarzem lub farmaceutą, gdyż każdy lek niewłaściwie... :-)": "Перед применением лекарства необходимо ознакомиться с содержанием инструкции, прилагаемой к упаковке, или проконсультироваться с врачом или фармацевтом, так как каждое лекарство неправильно... :-)",
-            "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?": "При управлении транспортным средством в состоянии после употребления алкоголя подлежишь ли ты ответственности за правонарушение?"
+            "Czy prowadząc pojazd w stanie po użyciu alkoholu podlegasz odpowiedzialności za wykroczenie?": "При управлении транспортным средством в состоянии после употребления алкоголя подлежишь ли ты ответственности за правонарушение?",
+            "Prawo o ruchu drogowym zabrania kierowania pojazdem, prowadzenia kolumny pieszych, jazdy wierzchem osobie w stanie nietrzeźwości, w stanie po spożyciu alkoholu lub środka działającego podobnie do alkoholu": "Закон о дорожном движении запрещает управление транспортным средством, ведение колонны пешеходов, езду верхом лицу в состоянии опьянения, в состоянии после употребления алкоголя или вещества, действующего подобно алкоголю.",
+            "Poruszasz się z prędkością 110 km\/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы движетесь со скоростью 110 км\/ч. Обязаны ли вы в этой ситуации снизить скорость?",
+            "Dopuszczalna prędkość na autostradzie wynosi 140 km\/h": "Допустимая скорость на автостраде составляет 140 км\/ч."
         }
     },
     "not_approved": {
@@ -2906,7 +2909,6 @@
         "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
         "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
-        "Poruszasz się z prędkością 110 km\/h. Czy w tej sytuacji masz obowiązek zmniejszyć prędkość?": "Вы движетесь со скоростью 110 км\/ч. Обязаны ли вы в этой ситуации снизить скорость?",
         "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
