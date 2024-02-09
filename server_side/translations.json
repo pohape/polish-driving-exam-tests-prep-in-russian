@@ -13,7 +13,8 @@
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
-        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\""
+        "Czy w sytuacji, kiedy zapory kolejowe są podniesione masz obowiązek upewnienia się, czy nie zbliża się pociąg?": "Вопрос: \"Имеете ли вы обязанность убедиться, что поезд не приближается, когда железнодорожные шлагбаумы подняты?\"",
+        "Czy w tej sytuacji możesz ominąć stojący pojazd?": "В этой ситуации ты можешь обойти стоящее транспортное средство?"
     },
     "approved": {
         "upewninie się": {
@@ -2018,7 +2019,9 @@
             "Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy": "Водитель обязан управлять транспортным средством с такой скоростью, чтобы он мог остановить его в безопасном месте, когда приближается железнодорожный транспорт.",
             "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
             "Zbliżając się do przejazdu tramwajowego należy upewnić się, czy nie nadjeżdża tramwaj": "Подъезжая к трамвайному переезду, необходимо убедиться, что не приближается трамвай.",
-            "Czy w tej sytuacji jesteś obowiązany do upewnienia się, czy nie nadjeżdża tramwaj?": "В этой ситуации ты обязан убедиться, не приближается ли трамвай?"
+            "Czy w tej sytuacji jesteś obowiązany do upewnienia się, czy nie nadjeżdża tramwaj?": "В этой ситуации ты обязан убедиться, не приближается ли трамвай?",
+            "Zabrania się omijania pojazdu oczekującego na otwarcie ruchu przez przejazd, jeżeli wymagałoby to wjechania na część jezdni przeznaczoną dla przeciwnego kierunku ruchu": "Запрещается объезд ТС, ожидающего открытия движения через переезд, если это потребовало бы въезда на часть проезжей части, предназначенную для противоположного направления движения.",
+            "Czy w tej sytuacji powinieneś zatrzymać się za stojącym pojazdem?": "Должны ли вы в этой ситуации остановиться за стоящим транспортным средством?"
         }
     },
     "not_approved": {
@@ -3101,6 +3104,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Czy w tej sytuacji, chcąc kontynuować jazdę w lewo za przejazdem, powinieneś zatrzymać się przed półzaporą?": "В этой ситуации, желая продолжить движение налево после переезда, ты должен остановиться перед шлагбаумом?"
     }
 }
