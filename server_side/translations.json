@@ -2014,7 +2014,11 @@
             "Zabrania się wjechania na przejazd gdy sygnał jest wciąż nadawany": "Запрещается въезжать на переезд, когда сигнал по-прежнему подается.",
             "Czy przy niepełnym podniesieniu zapór wolno Ci wjechać na przejazd kolejowy?": "Разрешено ли тебе въезжать на железнодорожный переезд при не полностью поднятых шлагбаумах?",
             "W tej sytuacji silnik nie daje się uruchomić. Czy masz obowiązek podjąć próbę usunięcia pojazdu z torowiska?": "В этой ситуации двигатель не запускается. Обязаны ли вы попытаться убрать транспортное средство с железнодорожного пути?",
-            "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek być przygotowany do zatrzymania pojazdu?": "Подъезжая к трамвайному переезду, обязаны ли вы быть готовыми к остановке транспортного средства?"
+            "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek być przygotowany do zatrzymania pojazdu?": "Подъезжая к трамвайному переезду, обязаны ли вы быть готовыми к остановке транспортного средства?",
+            "Kierujący jest obowiązany prowadzić pojazd z taką prędkością, aby mógł go zatrzymać w bezpiecznym miejscu, gdy nadjeżdża pojazd szynowy": "Водитель обязан управлять транспортным средством с такой скоростью, чтобы он мог остановить его в безопасном месте, когда приближается железнодорожный транспорт.",
+            "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
+            "Zbliżając się do przejazdu tramwajowego należy upewnić się, czy nie nadjeżdża tramwaj": "Подъезжая к трамвайному переезду, необходимо убедиться, что не приближается трамвай.",
+            "Czy w tej sytuacji jesteś obowiązany do upewnienia się, czy nie nadjeżdża tramwaj?": "В этой ситуации ты обязан убедиться, не приближается ли трамвай?"
         }
     },
     "not_approved": {
@@ -2543,7 +2547,6 @@
         "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
-        "Czy w tej sytuacji masz obowiązek upewnić się, czy nie nadjeżdża tramwaj?": "В этой ситуации обязаны ли вы удостовериться, что не приближается трамвай?",
         "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
