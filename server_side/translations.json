@@ -2035,7 +2035,10 @@
             "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?": "В этой ситуации имеете ли вы право припарковать автомобиль справа на тротуаре непосредственно перед железнодорожным переездом?",
             "Czy w tej sytuacji masz obowiązek niezwłocznie usunąć pojazd z przejazdu tramwajowego?": "В данной ситуации вы обязаны немедленно убрать транспортное средство с трамвайного переезда?",
             "W tej sytuacji wykonując skręt przez torowisku należy ustąpić pierwszeństwa pojazdowi szynowemu": "В данной ситуации, совершая поворот через пути, необходимо уступить дорогу железнодорожному транспорту.",
-            "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?"
+            "Czy w przedstawionej sytuacji zbliżasz się do wielotorowego przejazdu kolejowego?": "Приближаетесь ли вы к многопутному железнодорожному переезду в представленной ситуации?",
+            "Taki wariant krzyża św. Andrzeja (dodatkowa poprzeczka) świadczy o zbliżaniu się do wielotorowego przejazdu": "Такой вариант креста святого Андрея (дополнительная поперечина) свидетельствует о приближении к многопутному переезду.",
+            "Czy w przedstawionej sytuacji masz prawo wjechać na przejazd kolejowy?": "В данной ситуации у вас есть право заехать на железнодорожный переезд?",
+            "Zapory są opuszczone, sygnalizator nadaje sygnał zakazujący wjazdu": "Шлагбаумы опущены, светофор подает сигнал, запрещающий въезд."
         }
     },
     "not_approved": {
@@ -3116,7 +3119,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Taki wariant krzyża św. Andrzeja (dodatkowa poprzeczka) świadczy o zbliżaniu się do wielotorowego przejazdu": "Такой вариант креста святого Андрея (дополнительная поперечина) свидетельствует о приближении к многопутному переезду."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
