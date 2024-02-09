@@ -2029,7 +2029,9 @@
             "Czy zbliżając się do przejazdu tramwajowego, masz obowiązek upewnić się, czy nie nadjeżdża pojazd szynowy?": "Обязан ли ты убедиться в отсутствии приближающегося железнодорожного транспорта, когда приближаешься к трамвайному переезду?",
             "Czy w tej sytuacji, przed wjechaniem na tory, masz obowiązek upewnić się czy nie zbliża się pojazd szynowy?": "В этой ситуации, перед въездом на пути, ты обязан убедиться, что не приближается железнодорожный транспорт?",
             "Czy w tej sytuacji możesz wjechać na przejazd z zachowaniem szczególnej ostrożności?": "В этой ситуации можно ли заехать на переезд, соблюдая особую осторожность?",
-            "Kierującemu pojazdem zabrania się: objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Водителю запрещается: объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если их опускание было начато или поднятие не было завершено."
+            "Kierującemu pojazdem zabrania się: objeżdżania opuszczonych zapór lub półzapór oraz wjeżdżania na przejazd, jeżeli opuszczanie ich zostało rozpoczęte lub podnoszenie nie zostało zakończone": "Водителю запрещается: объезжать опущенные шлагбаумы или полушлагбаумы, а также въезжать на переезд, если их опускание было начато или поднятие не было завершено.",
+            "Zabrania się postoju na odcinku od przejazdu kolejowego do słupka wskaźnikowego z jedną kreską": "Запрещается стоянка на участке от железнодорожного переезда до указательного столбика с одной полосой.",
+            "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?": "В этой ситуации имеете ли вы право припарковать автомобиль справа на тротуаре непосредственно перед железнодорожным переездом?"
         }
     },
     "not_approved": {
@@ -2334,7 +2336,6 @@
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
-        "Czy w tej sytuacji masz prawo zaparkować pojazd po prawej stronie na chodniku bezpośrednio przed przejazdem kolejowym?": "В этой ситуации имеете ли вы право припарковать автомобиль справа на тротуаре непосредственно перед железнодорожным переездом?",
         "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
         "Prawo jazdy": "Водительское удостоверение.",
@@ -3112,6 +3113,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "Имеешь ли ты право обойти шлагбаум и въехать на железнодорожный переезд, убедившись, что поезд не приближается?"
     }
 }
