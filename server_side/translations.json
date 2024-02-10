@@ -2072,7 +2072,8 @@
             "Używanie świateł zewnętrznych i sygnałów pojazdu": "Использование внешних световых сигналов и сигнальных устройств транспортного средства.",
             "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
             "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
-            "Ogólne zasady określające zachowanie kierowcy w momencie awarii lub wypadku, udzielanie pierwszej pomocy przedmedycznej": "Общие правила, определяющие поведение водителя в случае поломки или аварии, оказание первой предмедицинской помощи."
+            "Ogólne zasady określające zachowanie kierowcy w momencie awarii lub wypadku, udzielanie pierwszej pomocy przedmedycznej": "Общие правила, определяющие поведение водителя в случае поломки или аварии, оказание первой предмедицинской помощи.",
+            "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором"
         }
     },
     "not_approved": {
@@ -2813,7 +2814,6 @@
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
         "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Wyprzedzanie": "Обгон",
-        "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
