@@ -2073,7 +2073,9 @@
             "Zachowanie wobec rowerzysty i dzieci": "Поведение по отношению к велосипедисту и детям.",
             "Zachowanie wobec pieszego, wobec osoby o ograniczonej możliwości poruszania się": "Поведение по отношению к пешеходу, к лицу с ограниченной возможностью передвижения.",
             "Ogólne zasady określające zachowanie kierowcy w momencie awarii lub wypadku, udzielanie pierwszej pomocy przedmedycznej": "Общие правила, определяющие поведение водителя в случае поломки или аварии, оказание первой предмедицинской помощи.",
-            "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором"
+            "Skrzyżowania z sygnalizacją świetlną": "Перекрёстки со светофором",
+            "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszych?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешеходов?",
+            "Czy w widocznej sytuacji masz obowiązek oczekiwać na wjazd na skrzyżowanie?": "В данной ситуации, обязаны ли вы ожидать перед въездом на перекресток?"
         }
     },
     "not_approved": {
@@ -2124,7 +2126,6 @@
         "W każdym przypadku zwiększyć biegi o dwa": "В каждом случае увеличьте передачи на два.",
         "Czy dozwolone jest zatrzymanie samochodu osobowego na drodze dla rowerów, jeżeli pozostanie co najmniej 1,5 m szerokości dla rowerzystów?": "Разрешено ли останавливать легковой автомобиль на дороге для велосипедов, если для велосипедистов остается не менее 1,5 м в ширину?",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
-        "Czy w tej sytuacji masz prawo kontynuować jazdę bez zwracania uwagi na zachowanie pieszych?": "В этой ситуации вы имеете право продолжать движение, не обращая внимания на поведение пешеходов?",
         "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
@@ -3140,6 +3141,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Czy na tej jezdni zabronione jest wyprzedzanie z prawej strony?": "Запрещен ли на этой проезжей части обгон с правой стороны?"
     }
 }
