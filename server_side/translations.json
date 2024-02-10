@@ -2105,7 +2105,9 @@
             "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности.",
             "Jak utrzymasz właściwy tor jazdy, gdy poruszasz się drogą ekspresową w gęstej mgle?": "Как вы будете поддерживать правильную траекторию движения, когда передвигаетесь по \"drodze ekspresową\" в густом тумане?",
             "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
-            "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения."
+            "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения.",
+            "Gaśnica": "Огнетушитель.",
+            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinna znaleźć się gaśnica": "Среди элементов обязательной части комплектации транспортного средства на территории Польши должен находиться огнетушитель."
         }
     },
     "not_approved": {
@@ -3151,6 +3153,7 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "W przypadku nagłego pogorszenia samopoczucia należy ustawić pojazd w rozsądnym miejscu, przerwać jazdę i wezwać ratownictwo medyczne": "В случае внезапного ухудшения самочувствия следует остановить транспортное средство в безопасном месте, прекратить движение и вызвать медицинскую помощь."
     }
 }
