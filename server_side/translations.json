@@ -2157,7 +2157,9 @@
             "Zabrania się zatrzymania pojazdu na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych": "Запрещается остановка транспортного средства на проезжей части вдоль сплошной линии, а также вблизи её крайних точек.",
             "Przepisy dotyczące korytarza życia zabraniają pojazdom innym niż uprzywilejowane korzystania z utworzonej przestrzeni na drodze (z wyłączeniem pojazdów zarządców dróg lub pomocy drogowej biorących udział w akcji ratowniczej)": "Правила, касающиеся коридора жизни, запрещают транспортным средствам, не являющимися привилегированными, использование созданного пространства на дороге (исключение составляют транспортные средства управляющих дорогами или аварийных служб, участвующих в спасательной операции).",
             "W razie przechodzenia przez jezdnię osoby niepełnosprawnej, używającej specjalnego znaku, lub osoby o widocznej ograniczonej sprawności ruchowej, kierujący jest obowiązany zatrzymać pojazd w celu umożliwienia jej przejścia": "В случае перехода через проезжую часть особы с ограниченными возможностями, использующей специальный знак, или особы с видимыми ограничениями подвижности, водитель обязан остановить транспортное средство, чтобы позволить ей перейти.",
-            "W tej sytuacji należy kierować się zasadą ograniczonego zaufania": "В этой ситуации следует руководствоваться принципом ограниченного доверия."
+            "W tej sytuacji należy kierować się zasadą ograniczonego zaufania": "В этой ситуации следует руководствоваться принципом ограниченного доверия.",
+            "Przed rozpoczęciem omijania należy ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka": "Перед началом объезда необходимо уступить дорогу ТС, приближающемуся спереди.",
+            "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS-система, используемая в автотранспортных средствах для предотвращения блокировки колес при торможении."
         }
     },
     "not_approved": {
@@ -2198,7 +2200,6 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
         "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
-        "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS-система, используемая в автотранспортных средствах для предотвращения блокировки колес при торможении.",
         "Nieprawidłowa zbieżność przejawia się trudnościami w utrzymaniu prostego toru jazdy": "Неправильное схождение проявляется трудностями в поддержании прямой траектории движения.",
         "Do utraty sterowności": "К потере управляемости.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
@@ -3184,7 +3185,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Przed rozpoczęciem omijania należy ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka": "Перед началом объезда необходимо уступить дорогу ТС, приближающемуся спереди."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
