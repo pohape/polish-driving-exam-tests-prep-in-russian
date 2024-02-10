@@ -3147,7 +3147,6 @@
         "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства.",
         "Utrzymanie zbyt wysokiej prędkości, zwłaszcza na zakręcie": "Сохранение слишком высокой скорости, особенно на повороте.",
         "Jazda na drugim biegu": "Езда на второй передаче.",
-        "Przepisy dotyczące korytarza życia zabraniają pojazdom innym niż uprzywilejowane korzystania z utworzonej przestrzeni na drodze (z wyłączeniem pojazdów zarządców dróg lub pomocy drogowej biorących udział w akcji ratowniczej)": "Правила, касающиеся жизненного коридора, запрещают транспортным средствам, не являющимися привилегированными, использование созданного пространства на дороге (за исключением транспортных средств управляющих дорог или дорожной помощи, принимающих участие в спасательной акции).",
         "Na przystanku nie ma tramwaju": "На остановке нет трамвая.",
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
@@ -3182,6 +3181,8 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+        "Zabrania się zatrzymania pojazdu na jezdni wzdłuż linii ciągłej oraz w pobliżu jej punktów krańcowych": "Запрещается остановка транспортного средства на проезжей части вдоль сплошной линии, а также вблизи её крайних точек.",
+        "Przepisy dotyczące korytarza życia zabraniają pojazdom innym niż uprzywilejowane korzystania z utworzonej przestrzeni na drodze (z wyłączeniem pojazdów zarządców dróg lub pomocy drogowej biorących udział w akcji ratowniczej)": "Правила, касающиеся коридора жизни, запрещают транспортным средствам, отличным от преимущество имеющих, использование созданного пространства на дороге (за исключением транспортных средств дорожных служб или аварийно-спасательных служб, участвующих в спасательной операции)."
     }
 }
