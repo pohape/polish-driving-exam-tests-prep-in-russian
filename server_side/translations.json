@@ -2136,7 +2136,11 @@
             "Unikanie gwałtownych hamowań i przyspieszeń": "Избегайте резких торможений и ускорений.",
             "Częste używanie hamulca roboczego": "Частое использование рабочего тормоза.",
             "Częsta zmiana biegów": "Частая смена передач.",
-            "Ekonomiczna jazda samochodem przejawia się między innymi w płynności": "Экономичное вождение автомобиля проявляется, среди прочего, в плавности."
+            "Ekonomiczna jazda samochodem przejawia się między innymi w płynności": "Экономичное вождение автомобиля проявляется, среди прочего, в плавности.",
+            "Krajowe prawo jazdy": "Национальное водительское удостоверение.",
+            "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy": "Другой документ, подтверждающий право на управление транспортным средством, отличный от выданного в стране водительского удостоверения.",
+            "Świadectwo kwalifikacji": "Свидетельство квалификации.",
+            "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy jest wymagany podczas kontroli drogowej": "Другой документ, подтверждающий право управления транспортным средством, отличный от выданного в стране водительского удостоверения, требуется во время дорожного контроля."
         }
     },
     "not_approved": {
@@ -3173,11 +3177,8 @@
         "Zawsze co 2 lata": "Всегда каждые 2 года.",
         "Zawsze co 3 lata": "Всегда каждые 3 года.",
         "Przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "До окончания срока, указанного в регистрационном документе транспортного средства.",
-        "Świadectwo kwalifikacji": "Свидетельство квалификации.",
-        "Krajowe prawo jazdy": "Национальное водительское удостоверение.",
-        "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy": "Другой документ, подтверждающий право на управление транспортным средством, отличный от выданного в стране водительского удостоверения.",
         "Co najmniej 1 metr": "Не менее 1 метра.",
         "Co najmniej 2 metry": "Не менее 2 метров.",
-        "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy jest wymagany podczas kontroli drogowej": "Другой документ, подтверждающий право управления транспортным средством, отличный от выданного в стране водительского удостоверения, требуется во время дорожного контроля."
+        "Okresowe badanie techniczne pojazdu przeprowadza się przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "Периодический технический осмотр транспортного средства проводится до истечения срока, указанного в регистрационных документах транспортного средства."
     }
 }
