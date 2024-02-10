@@ -2140,7 +2140,14 @@
             "Krajowe prawo jazdy": "Национальное водительское удостоверение.",
             "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy": "Другой документ, подтверждающий право на управление транспортным средством, отличный от выданного в стране водительского удостоверения.",
             "Świadectwo kwalifikacji": "Свидетельство квалификации.",
-            "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy jest wymagany podczas kontroli drogowej": "Другой документ, подтверждающий право управления транспортным средством, отличный от выданного в стране водительского удостоверения, требуется во время дорожного контроля."
+            "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy jest wymagany podczas kontroli drogowej": "Другой документ, подтверждающий право управления транспортным средством, отличный от выданного в стране водительского удостоверения, требуется во время дорожного контроля.",
+            "W jakim terminie masz obowiązek przeprowadzać okresowe badanie techniczne samochodu osobowego?": "В какой срок вы обязаны проводить периодическое техническое обследование легкового автомобиля?",
+            "Przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "До окончания срока, указанного в регистрационном документе транспортного средства.",
+            "Zawsze co 2 lata": "Всегда каждые 2 года.",
+            "Zawsze co 3 lata": "Всегда каждые 3 года.",
+            "Okresowe badanie techniczne pojazdu przeprowadza się przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "Периодический технический осмотр транспортного средства проводится до истечения срока, указанного в регистрационных документах транспортного средства.",
+            "Trzeba ustąpić pierwszeństwa pani wchodzącej na przejście": "Необходимо уступить дорогу женщине, входящей на пешеходный переход.",
+            "Tabliczka pod znakiem": "Табличка под знаком."
         }
     },
     "not_approved": {
@@ -2323,7 +2330,6 @@
         "Początkowej": "Начальный.",
         "Końcowej": "Окончательной.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
-        "W jakim terminie masz obowiązek przeprowadzać okresowe badanie techniczne samochodu osobowego?": "В какой срок вы обязаны проводить периодическое техническое обследование легкового автомобиля?",
         "Taka postawa policjanta umożliwia skręt w lewo": "Такое положение полицейского позволяет повернуть налево.",
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
@@ -3174,11 +3180,7 @@
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Zawsze co 2 lata": "Всегда каждые 2 года.",
-        "Zawsze co 3 lata": "Всегда каждые 3 года.",
-        "Przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "До окончания срока, указанного в регистрационном документе транспортного средства.",
         "Co najmniej 1 metr": "Не менее 1 метра.",
-        "Co najmniej 2 metry": "Не менее 2 метров.",
-        "Okresowe badanie techniczne pojazdu przeprowadza się przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "Периодический технический осмотр транспортного средства проводится до истечения срока, указанного в регистрационных документах транспортного средства."
+        "Co najmniej 2 metry": "Не менее 2 метров."
     }
 }
