@@ -2119,7 +2119,16 @@
             "Czy w tym miejscu masz prawo zaparkować pojazd na jezdni?": "Имеешь ли ты право припарковать транспортное средство на проезжей части в этом месте?",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, aby umożliwić pieszemu przejście przez jezdnię?": "Обязаны ли вы в этой ситуации остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
             "Czy w tej sytuacji wolno Ci zrezygnować z obserwacji zachowania dzieci?": "В этой ситуации разрешается ли тебе отказаться от наблюдения за поведением детей?",
-            "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": "Достаточно ли в этой ситуации проявлять особую осторожность?"
+            "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": "Достаточно ли в этой ситуации проявлять особую осторожность?",
+            "Kiedy należy założyć opatrunek uciskowy?": "Когда следует наложить давящую повязку?",
+            "W przypadku wycieku krwistej wydzieliny z ucha": "В случае появления кровянистых выделений из уха.",
+            "W przypadku zmiażdżenia kończyny": "В случае раздавливания конечности.",
+            "Jaki odstęp należy zachować podczas wymijania?": "Какую дистанцию следует соблюдать во время проезда мимо встречного ТС?",
+            "Bezpieczny": "Безопасный.",
+            "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
+            "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
+            "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
+            "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч."
         }
     },
     "not_approved": {
@@ -2384,8 +2393,6 @@
         "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки.",
         "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
-        "W przypadku zmiażdżenia kończyny": "В случае раздавливания конечности.",
-        "W przypadku wycieku krwistej wydzieliny z ucha": "В случае появления кровянистых выделений из уха.",
         "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи.",
         "Przez 15 minut": "На протяжении 15 минут.",
         "Jak długo należy prowadzić uciskanie klatki piersiowej i sztuczne oddychanie u osoby z nagłym zatrzymaniem krążenia?": "Как долго следует проводить компрессию грудной клетки и искусственное дыхание у человека с внезапной остановкой сердца?",
@@ -2830,7 +2837,6 @@
         "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
         "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
         "Czego nie możesz robić uczestnicząc w wypadku, w którym są zabici?": "Что ты не можешь делать, участвуя в аварии, в которой есть погибшие?",
-        "Kiedy należy założyć opatrunek uciskowy?": "Когда следует наложить давящую повязку?",
         "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
@@ -2978,10 +2984,6 @@
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
         "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
-        "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
-        "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
-        "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
-        "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч.",
         "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
         "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
@@ -3165,6 +3167,11 @@
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
         "Zawsze co 2 lata": "Всегда каждые 2 года.",
         "Zawsze co 3 lata": "Всегда каждые 3 года.",
-        "Przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "До окончания срока, указанного в регистрационном документе транспортного средства."
+        "Przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "До окончания срока, указанного в регистрационном документе транспортного средства.",
+        "Świadectwo kwalifikacji": "Свидетельство квалификации.",
+        "Krajowe prawo jazdy": "Национальное водительское удостоверение.",
+        "Inny dokument stwierdzający uprawnienie do kierowania pojazdem niż wydane w kraju prawo jazdy": "Другой документ, подтверждающий право на управление транспортным средством, отличный от выданного в стране водительского удостоверения.",
+        "Co najmniej 1 metr": "Не менее 1 метра.",
+        "Co najmniej 2 metry": "Не менее 2 метров."
     }
 }
