@@ -2117,7 +2117,9 @@
             "Czy na drodze jednokierunkowej cofanie jest zabronione?": "На дороге с односторонним движением запрещено ли двигаться задним ходом?",
             "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać w prawo ?": "В данной ситуации водитель транспортного средства №1 обязан съехать вправо?",
             "Czy w tym miejscu masz prawo zaparkować pojazd na jezdni?": "Имеешь ли ты право припарковать транспортное средство на проезжей части в этом месте?",
-            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, aby umożliwić pieszemu przejście przez jezdnię?": "Обязаны ли вы в этой ситуации остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, aby umożliwić pieszemu przejście przez jezdnię?": "Обязаны ли вы в этой ситуации остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
+            "Czy w tej sytuacji wolno Ci zrezygnować z obserwacji zachowania dzieci?": "В этой ситуации разрешается ли тебе отказаться от наблюдения за поведением детей?",
+            "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": "Достаточно ли в этой ситуации проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -2199,7 +2201,6 @@
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
-        "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": "Достаточно ли в этой ситуации проявлять особую осторожность?",
         "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?": "Разрешается ли вам проехать через видимый переезд после трогания автомобиля, находящегося перед вами, без повторной остановки?",
         "Czy w przedstawionej sytuacji widzisz kończący się pas ruchu dla rowerzystów?": "Видите ли вы заканчивающуюся полосу движения для велосипедистов в представленной ситуации?",
         "Czy w przedstawionej sytuacji masz obowiązek zatrzymać się?": "Вы обязаны остановиться в представленной ситуации?",
