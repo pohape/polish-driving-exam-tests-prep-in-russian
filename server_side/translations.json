@@ -16,7 +16,8 @@
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
         "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?"
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
+        "Czy w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza spowodowanych mgłą w pojeździe silnikowym mogą być włączone tylko światła przeciwmgłowe przednie?": "Во время движения в условиях сниженной прозрачности воздуха, вызванных туманом, в моторном транспортном средстве могут быть включены только передние противотуманные фары?"
     },
     "approved": {
         "upewninie się": {
@@ -2111,7 +2112,9 @@
             "W przypadku nagłego pogorszenia samopoczucia należy ustawić pojazd w rozsądnym miejscu, przerwać jazdę i wezwać ratownictwo medyczne": "В случае внезапного ухудшения самочувствия следует остановить транспортное средство в безопасном месте, прекратить движение и вызвать медицинскую помощь.",
             "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
             "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
-            "Znak widoczny na zdjęciu ostrzega o poprzecznej nierówności jezdni. O wypukłości jezdni zastosowanej w celu spowolnienia ruchu ostrzega znak A-11a": "Знак, видимый на фотографии, предупреждает о неровности проезжей части. О выпуклости проезжей части, применяемой с целью замедления движения, предупреждает знак A-11a."
+            "Znak widoczny na zdjęciu ostrzega o poprzecznej nierówności jezdni. O wypukłości jezdni zastosowanej w celu spowolnienia ruchu ostrzega znak A-11a": "Знак, видимый на фотографии, предупреждает о неровности проезжей части. О выпуклости проезжей части, применяемой с целью замедления движения, предупреждает знак A-11a.",
+            "Zbliżając się do przejścia dla pieszych należy zachować szczególną ostrożność oraz obserwować przejście i jego otoczenie": "Подъезжая к пешеходному переходу, нужно проявлять особую осторожность, а также наблюдать за переходом и его обстановкой.",
+            "Czy na drodze jednokierunkowej cofanie jest zabronione?": "На дороге с односторонним движением запрещено ли двигаться задним ходом?"
         }
     },
     "not_approved": {
@@ -3156,6 +3159,6 @@
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Zbliżając się do przejścia dla pieszych należy zachować szczególną ostrożność oraz obserwować przejście i jego otoczenie": "Подъезжая к пешеходному переходу, нужно проявлять особую осторожность, а также наблюдать за переходом и его обстановкой."
+        "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać w prawo ?": "В данной ситуации водитель транспортного средства №1 обязан съехать вправо?"
     }
 }
