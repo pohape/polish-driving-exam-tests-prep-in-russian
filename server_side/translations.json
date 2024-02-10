@@ -2097,7 +2097,11 @@
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
             "Na co należy zwracać uwagę podczas cofania pojazdem?": "На что следует обращать внимание во время движения задним ходом ТС?",
             "Na mocne trzymanie dłoni na dźwigni zmiany biegów": "На сильное удерживание руки на рычаге переключения передач.",
-            "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения."
+            "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения.",
+            "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
+            "Czy masz prawo kierować samochodem osobowym, posiadając prawo jazdy, którego termin ważności upłynął?": "Имеете ли вы право управлять автомобилем, имея водительское удостоверение, срок действия которого истек?",
+            "Tak, przez 7 dni po upływie terminu ważności": "Да, в течение 7 дней после истечения срока действия.",
+            "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности."
         }
     },
     "not_approved": {
@@ -2234,7 +2238,6 @@
         "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
-        "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности.",
         "O kolejne trzy miesiące": "Еще на три месяца.",
         "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
         "Minimalnie 1 m": "Минимум 1 м.",
@@ -2331,7 +2334,6 @@
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
-        "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
         "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
