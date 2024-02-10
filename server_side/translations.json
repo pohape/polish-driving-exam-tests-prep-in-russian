@@ -15,7 +15,6 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
-        "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "Czy w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza spowodowanych mgłą w pojeździe silnikowym mogą być włączone tylko światła przeciwmgłowe przednie?": "Во время движения в условиях сниженной прозрачности воздуха, вызванных туманом, в моторном транспортном средстве могут быть включены только передние противотуманные фары?"
     },
@@ -2128,7 +2127,15 @@
             "Z jaką prędkością wolno kontynuować jazdę samochodem osobowym za tymi znakami?": "С какой скоростью разрешается продолжать движение легковым автомобилем после этих знаков?",
             "30 km\/h do najbliższego skrzyżowania a następnie 50 km\/h": "30 км\/ч до ближайшего перекрестка, а затем 50 км\/ч.",
             "30 km\/h na całym odcinku drogi biegnącej na obszarze zabudowanym": "30 км\/ч на всем участке дороги, проходящей через населенный пункт.",
-            "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч."
+            "30 km\/h do tablicy z nazwą początku miejscowości a następnie 90 km\/h": "30 км\/ч до таблички с названием начала местности, а затем 90 км\/ч.",
+            "Po osiągnięciu wzrostu co najmniej 150 cm": "После достижения роста не менее 150 см.",
+            "Po osiągnięciu wzrostu co najmniej 135 cm": "После достижения роста не менее 135 см.",
+            "Po ukończeniu 15 roku życia": "После достижения 15 лет.",
+            "Skręcenie lub zwinięcie pasów": "Закручивание или сворачивание ремней.",
+            "Która z wymienionych technik jazdy pasuje do określenia „ekonomiczna jazda samochodem”?": "Какая из перечисленных техник вождения соответствует определению \"экономичное вождение автомобиля\"?",
+            "Unikanie gwałtownych hamowań i przyspieszeń": "Избегайте резких торможений и ускорений.",
+            "Częste używanie hamulca roboczego": "Частое использование рабочего тормоза.",
+            "Częsta zmiana biegów": "Частая смена передач."
         }
     },
     "not_approved": {
@@ -2780,9 +2787,6 @@
         "W jakim przypadku przewożenie dziecka samochodem ciężarowym o dopuszczalnej masie całkowitej powyżej 3,5 t na tylnym siedzeniu, przytrzymywanego jedynie pasami bezpieczeństwa, jest dozwolone?": "В каком случае перевозка ребенка грузовым автомобилем с разрешенной максимальной массой свыше 3,5 т на заднем сиденье, удерживаемым только ремнями безопасности, разрешена?",
         "Podczas przewożenia dziecka taksówką": "Во время перевозки ребенка на такси.",
         "W którym przypadku nie ma obowiązku przewożenia dziecka o wzroście poniżej 150 cm w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym bezpieczeństwo dziecka?": "В каком случае нет обязанности перевозить ребенка ростом ниже 150 см в детском автокресле или в другом удерживающем устройстве, обеспечивающем безопасность ребенка?",
-        "Po ukończeniu 15 roku życia": "После достижения 15 лет.",
-        "Po osiągnięciu wzrostu co najmniej 150 cm": "После достижения роста не менее 150 см.",
-        "Po osiągnięciu wzrostu co najmniej 135 cm": "После достижения роста не менее 135 см.",
         "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "В этой ситуации передаваемый световой сигнал означает, что во время поворота налево не возникает конфликта с другими участниками движения?",
