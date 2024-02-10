@@ -15,7 +15,8 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
-        "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней."
+        "Skręcenie lub zwinięcie pasów": "Скручивание или скручивание ремней.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?"
     },
     "approved": {
         "upewninie się": {
@@ -2101,7 +2102,10 @@
             "Na obiekty znajdujące się wokół pojazdu i zbliżające się do niego": "На объекты, расположенные вокруг транспортного средства и приближающиеся к нему.",
             "Czy masz prawo kierować samochodem osobowym, posiadając prawo jazdy, którego termin ważności upłynął?": "Имеете ли вы право управлять автомобилем, имея водительское удостоверение, срок действия которого истек?",
             "Tak, przez 7 dni po upływie terminu ważności": "Да, в течение 7 дней после истечения срока действия.",
-            "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности."
+            "Tak, przez 14 dni po upływie terminu ważności": "Да, в течение 14 дней после истечения срока годности.",
+            "Jak utrzymasz właściwy tor jazdy, gdy poruszasz się drogą ekspresową w gęstej mgle?": "Как вы будете поддерживать правильную траекторию движения, когда передвигаетесь по \"drodze ekspresową\" в густом тумане?",
+            "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
+            "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения."
         }
     },
     "not_approved": {
@@ -2277,7 +2281,6 @@
         "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "karta pojazdu": "карта автомобиля.",
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
@@ -2549,9 +2552,6 @@
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
         "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
-        "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения.",
-        "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
-        "Jak utrzymasz właściwy tor jazdy, gdy poruszasz się drogą ekspresową w gęstej mgle?": "Как вы будете поддерживать правильную траекторию движения, когда передвигаетесь по \"drodze ekspresową\" в густом тумане?",
         "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
         "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
         "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
