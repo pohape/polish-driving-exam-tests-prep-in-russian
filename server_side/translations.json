@@ -15,8 +15,7 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
-        "Czy w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza spowodowanych mgłą w pojeździe silnikowym mogą być włączone tylko światła przeciwmgłowe przednie?": "Во время движения в условиях сниженной прозрачности воздуха, вызванных туманом, в моторном транспортном средстве могут быть включены только передние противотуманные фары?"
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?"
     },
     "approved": {
         "upewninie się": {
@@ -2150,7 +2149,11 @@
             "Tabliczka pod znakiem": "Табличка под знаком.",
             "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
             "Co najmniej 1 metr": "Не менее 1 метра.",
-            "Co najmniej 2 metry": "Не менее 2 метров."
+            "Co najmniej 2 metry": "Не менее 2 метров.",
+            "Jedną z zasad ogólnych jest obowiązek poruszania się możliwie blisko prawej krawędzi": "Одним из общих правил является обязанность двигаться как можно ближе к правой кромке.",
+            "Zatrzymanie jest zabronione ze względu na bliskość przystanku. Ponad to przy jezdni jest ustawiony zakaz zatrzymywania": "Остановка запрещена из-за близости остановки. Кроме того, рядом с проезжей частью установлен знак запрета остановки.",
+            "Powinny im towarzyszyć minimum pozycyjne": "Они должны сопровождаться как минимум габаритными огнями.",
+            "Czy w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza spowodowanych mgłą w pojeździe silnikowym mogą być włączone tylko światła przeciwmgłowe przednie?": "Во время движения в условиях сниженной видимости из-за тумана, в моторном транспортном средстве могут быть включены только передние противотуманные фары?"
         }
     },
     "not_approved": {
@@ -2463,7 +2466,6 @@
         "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
         "Ten znak to zakaz ruchu w obu kierunkach": "Этот знак означает запрет движения в обоих направлениях.",
-        "Zatrzymanie jest zabronione ze względu na bliskość przystanku. Ponad to przy jezdni jest ustawiony zakaz zatrzymywania": "Остановка запрещена из-за близости остановки. Кроме того, рядом с проезжей частью установлен знак запрета остановки.",
         "Czy pojazd pozostawiony na jezdni za tym znakiem może zostać usunięty na koszt właściciela?": "Может ли автомобиль, оставленный на проезжей части после этого знака, быть отбуксирован за счет владельца?",
         "Znak widoczny na zdjęciu oznacza zakaz zatrzymywania pojazdu. Tabliczka pod znakiem wskazuje, że pozostawiony pojazd zostanie usunięty na koszt właściciela": "Знак, видимый на фотографии, означает запрет остановки транспортного средства. Табличка под знаком указывает, что оставленное транспортное средство будет удалено за счет владельца.",
         "Kierujesz pojazdem silnikowym. Czy ten znak zabrania Ci wyprzedzania pojazdów silnikowych wielośladowych?": "Вы управляете моторным транспортным средством. Запрещает ли этот знак вам обгонять многоколейные ТС?",
@@ -2992,7 +2994,6 @@
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 1 roku": "Староста выдаст административное решение о продлении периода, на который было приостановлено право управления транспортным средством, до 1 года.",
         "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
         "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
-        "Jedną z zasad ogólnych jest obowiązek poruszania się możliwie blisko prawej krawędzi": "Одним из общих правил является обязанность двигаться как можно ближе к правой кромке.",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Jeżeli pomimo decyzji o zatrzymaniu prawa jazdy na 3 miesiące osoba nadal kierowała pojazdem, starosta przedłuża okres, na który zatrzymano prawo jazdy do 6 miesięcy": "Если, несмотря на решение о приостановлении водительских прав на 3 месяца, человек продолжал управлять транспортным средством, староста продлевает период, на который приостановлено водительское удостоверение, до 6 месяцев.",
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
