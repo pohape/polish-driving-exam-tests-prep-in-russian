@@ -2107,7 +2107,11 @@
             "Obserwując znaki pionowe": "Наблюдая за вертикальными знаками.",
             "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая горизонтальные знаки, определяющие полосы движения.",
             "Gaśnica": "Огнетушитель.",
-            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinna znaleźć się gaśnica": "Среди элементов обязательной части комплектации транспортного средства на территории Польши должен находиться огнетушитель."
+            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinna znaleźć się gaśnica": "Среди элементов обязательной части комплектации транспортного средства на территории Польши должен находиться огнетушитель.",
+            "W przypadku nagłego pogorszenia samopoczucia należy ustawić pojazd w rozsądnym miejscu, przerwać jazdę i wezwać ratownictwo medyczne": "В случае внезапного ухудшения самочувствия следует остановить транспортное средство в безопасном месте, прекратить движение и вызвать медицинскую помощь.",
+            "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
+            "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
+            "Znak widoczny na zdjęciu ostrzega o poprzecznej nierówności jezdni. O wypukłości jezdni zastosowanej w celu spowolnienia ruchu ostrzega znak A-11a": "Знак, видимый на фотографии, предупреждает о неровности проезжей части. О выпуклости проезжей части, применяемой с целью замедления движения, предупреждает знак A-11a."
         }
     },
     "not_approved": {
@@ -2415,7 +2419,6 @@
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
-        "Znak widoczny na nagraniu należy do grupy znaków ostrzegawczych": "Знак, показанный на записи, относится к группе предупреждающих знаков.",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
         "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
@@ -2553,7 +2556,6 @@
         "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "Obserwując wskazania nawigacji satelitarnej": "Наблюдая за показаниями спутниковой навигации.",
         "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
         "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
         "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
@@ -3154,6 +3156,6 @@
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "W przypadku nagłego pogorszenia samopoczucia należy ustawić pojazd w rozsądnym miejscu, przerwać jazdę i wezwać ratownictwo medyczne": "В случае внезапного ухудшения самочувствия следует остановить транспортное средство в безопасном месте, прекратить движение и вызвать медицинскую помощь."
+        "Zbliżając się do przejścia dla pieszych należy zachować szczególną ostrożność oraz obserwować przejście i jego otoczenie": "Подъезжая к пешеходному переходу, нужно проявлять особую осторожность, а также наблюдать за переходом и его обстановкой."
     }
 }
