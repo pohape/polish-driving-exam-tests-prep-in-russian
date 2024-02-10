@@ -2079,7 +2079,8 @@
             "Czy w widocznej sytuacji masz obowiązek oczekiwać na wjazd na skrzyżowanie?": "В данной ситуации, обязаны ли вы ожидать перед въездом на перекресток?",
             "Czy na tej jezdni zabronione jest wyprzedzanie z prawej strony?": "Запрещен ли на этой проезжей части обгон с правой стороны?",
             "Czy w tej sytuacji masz prawo wyprzedzić tramwaj z lewej strony?": "Имеешь ли ты право в этой ситуации обогнать трамвай с левой стороны?",
-            "Czy wyjeżdżając z zatoki, masz obowiązek zachować szczególną ostrożność?": "Выезжая из кармана, обязан ли ты соблюдать особую осторожность?"
+            "Czy wyjeżdżając z zatoki, masz obowiązek zachować szczególną ostrożność?": "Выезжая из кармана, обязан ли ты соблюдать особую осторожность?",
+            "Czy sygnał, który daje policjant oznacza, że na najbliższym skrzyżowaniu masz obowiązek skręcić w prawo?": "Означает ли сигнал, который дает полицейский, что на ближайшем перекрестке вы обязаны повернуть направо?"
         }
     },
     "not_approved": {
@@ -2145,7 +2146,6 @@
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
         "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
-        "Czy sygnał, który daje policjant oznacza, że na najbliższym skrzyżowaniu masz obowiązek skręcić w prawo?": "Означает ли сигнал, который дает полицейский, что на ближайшем перекрестке вы обязаны повернуть направо?",
         "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?",
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
         "Czy w tej sytuacji powodujesz zagrożenie bezpieczeństwa na drodze?": "Вы создаете угрозу безопасности на дороге в этой ситуации?",
