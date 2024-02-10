@@ -2148,7 +2148,9 @@
             "Okresowe badanie techniczne pojazdu przeprowadza się przed upływem terminu podanego w dowodzie rejestracyjnym pojazdu": "Периодический технический осмотр транспортного средства проводится до истечения срока, указанного в регистрационных документах транспортного средства.",
             "Trzeba ustąpić pierwszeństwa pani wchodzącej na przejście": "Необходимо уступить дорогу женщине, входящей на пешеходный переход.",
             "Tabliczka pod znakiem": "Табличка под знаком.",
-            "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?"
+            "Czy w przedstawionej sytuacji jadąc w lewo za widocznym znakiem opuścisz drogę z pierwszeństwem przejazdu?": "В данной ситуации, поворачивая налево после видимого знака, покинете ли вы главную дорогу?",
+            "Co najmniej 1 metr": "Не менее 1 метра.",
+            "Co najmniej 2 metry": "Не менее 2 метров."
         }
     },
     "not_approved": {
@@ -3179,8 +3181,6 @@
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
         "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
-        "Co najmniej 1 metr": "Не менее 1 метра.",
-        "Co najmniej 2 metry": "Не менее 2 метров."
+        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством."
     }
 }
