@@ -2093,7 +2093,11 @@
             "Czy przejrzystość szyb ma wpływ na pole widzenia kierowcy?": "Влияет ли прозрачность стекол на поле зрения водителя?",
             "Nie ma żadnego wpływu na ograniczenie pola widzenia": "Это не влияет на ограничение поля зрения.",
             "Ma wpływ na ograniczenie pola widzenia": "Это влияет на ограничение поля зрения.",
-            "Tylko w warunkach zmniejszonej przejrzystości powietrza": "Только в условиях сниженной прозрачности воздуха."
+            "Tylko w warunkach zmniejszonej przejrzystości powietrza": "Только в условиях сниженной прозрачности воздуха.",
+            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
+            "Na co należy zwracać uwagę podczas cofania pojazdem?": "На что следует обращать внимание во время движения задним ходом ТС?",
+            "Na mocne trzymanie dłoni na dźwigni zmiany biegów": "На сильное удерживание руки на рычаге переключения передач.",
+            "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения."
         }
     },
     "not_approved": {
@@ -2813,9 +2817,6 @@
         "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
         "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
         "Czego nie możesz robić uczestnicząc w wypadku, w którym są zabici?": "Что ты не можешь делать, участвуя в аварии, в которой есть погибшие?",
-        "Na mocne trzymanie dłoni na dźwigni zmiany biegów": "На сильное удерживание руки на рычаге переключения передач.",
-        "Na co należy zwracać uwagę podczas cofania pojazdem?": "На что следует обращать внимание во время движения задним ходом ТС?",
-        "Przede wszystkim na położenie kierownicy w celu określenia toru jazdy": "Прежде всего на положение рулевого колеса для определения траектории движения.",
         "Kiedy należy założyć opatrunek uciskowy?": "Когда следует наложить давящую повязку?",
         "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
@@ -3070,7 +3071,6 @@
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach pozycyjnych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных габаритных огнях?",
         "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
         "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
