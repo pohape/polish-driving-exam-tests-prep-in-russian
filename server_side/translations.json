@@ -2163,7 +2163,10 @@
             "Czy w przedstawionej sytuacji dozwolone jest wyprzedzanie widocznego pojazdu?": "В представленной ситуации разрешен ли обгон видимого транспортного средства?",
             "Czy w tej sytuacji, na autostradzie, wolno Ci kontynuować wyprzedzanie pojazdu z prawej strony ?": "Разрешается ли тебе в данной ситуации на автостраде продолжать обгон транспортного средства с правой стороны?",
             "Czy za tym znakiem masz prawo zaparkować pojazd na 5 minut ?": "Имеешь ли ты право припарковать транспортное средство на 5 минут на участке после этого знака?",
-            "Czy w tym miejscu wolno Ci się zatrzymać przy lewej krawędzi jezdni?": "Разрешено ли тебе остановиться в этом месте у левого края проезжей части?"
+            "Czy w tym miejscu wolno Ci się zatrzymać przy lewej krawędzi jezdni?": "Разрешено ли тебе остановиться в этом месте у левого края проезжей части?",
+            "Masa pasażerów": "Масса пассажиров.",
+            "Masa pojazdu": "Масса автомобиля.",
+            "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?"
         }
     },
     "not_approved": {
@@ -2232,7 +2235,6 @@
         "Czy w tej sytuacji powodujesz zagrożenie bezpieczeństwa na drodze?": "Вы создаете угрозу безопасности на дороге в этой ситуации?",
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
         "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
-        "Masa pojazdu": "Масса автомобиля.",
         "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
         "Dlaczego nie?": "Почему бы и нет?",
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
@@ -2630,8 +2632,6 @@
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
-        "Masa pasażerów": "Масса пассажиров.",
-        "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy, gdy kierujący pojazdem przekroczył dopuszczalną prędkość o:": "Заместитель главы администрации выносит административное решение о приостановлении прав на управление транспортным средством, когда водитель превысил разрешенную скорость на:",
         "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
