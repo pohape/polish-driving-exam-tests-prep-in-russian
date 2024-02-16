@@ -2167,7 +2167,10 @@
             "Masa pasażerów": "Масса пассажиров.",
             "Masa pojazdu": "Масса автомобиля.",
             "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?",
-            "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Так, чтобы в зеркале был виден фрагмент боку автомобиля, а также дорога за автомобилем."
+            "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Так, чтобы в зеркале был виден фрагмент боку автомобиля, а также дорога за автомобилем.",
+            "Potwierdzenie opłaty obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Подтверждение оплаты обязательного страхования гражданской ответственности.",
+            "W każdym przypadku zaświadczenie o przeprowadzonym badaniu technicznym": "В каждом случае - свидетельство о проведенном техническом осмотре.",
+            "Ciągnąć dzieci na sankach": "Тащить детей на санках."
         }
     },
     "not_approved": {
@@ -3195,6 +3198,9 @@
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność a w razie potrzeby zatrzymać się?": "В данной ситуации следует ли вам проявлять особую осторожность и, при необходимости, остановиться?",
         "Zamierzasz skręcić w lewo, a pojazd nadjeżdżający z prawej strony chce jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а ТС, приближающееся справа, хочет ехать прямо. У вас есть преимущество перед ним?",
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
-        "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?"
+        "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
+        "Holować innego samochodu osobowego na obszarze zabudowanym": "Буксировать другой автомобиль в населенном пункте.",
+        "Ciągnąć przyczepy lekkiej": "Тянуть легкие прицепы.",
+        "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?"
     }
 }
