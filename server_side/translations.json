@@ -2166,7 +2166,8 @@
             "Czy w tym miejscu wolno Ci się zatrzymać przy lewej krawędzi jezdni?": "Разрешено ли тебе остановиться в этом месте у левого края проезжей части?",
             "Masa pasażerów": "Масса пассажиров.",
             "Masa pojazdu": "Масса автомобиля.",
-            "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?"
+            "Który z czynników ma bezpośredni wpływ na długość drogi zatrzymania samochodu osobowego?": "Какой из факторов имеет непосредственное влияние на длину тормозного пути легкового автомобиля?",
+            "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Так, чтобы в зеркале был виден фрагмент боку автомобиля, а также дорога за автомобилем."
         }
     },
     "not_approved": {
