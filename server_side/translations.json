@@ -2160,7 +2160,8 @@
             "W tej sytuacji należy kierować się zasadą ograniczonego zaufania": "В этой ситуации следует руководствоваться принципом ограниченного доверия.",
             "Przed rozpoczęciem omijania należy ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka": "Перед началом объезда необходимо уступить дорогу ТС, приближающемуся спереди.",
             "ABS - układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS-система, используемая в автотранспортных средствах для предотвращения блокировки колес при торможении.",
-            "Czy w przedstawionej sytuacji dozwolone jest wyprzedzanie widocznego pojazdu?": "В представленной ситуации разрешен ли обгон видимого транспортного средства?"
+            "Czy w przedstawionej sytuacji dozwolone jest wyprzedzanie widocznego pojazdu?": "В представленной ситуации разрешен ли обгон видимого транспортного средства?",
+            "Czy w tej sytuacji, na autostradzie, wolno Ci kontynuować wyprzedzanie pojazdu z prawej strony ?": "Разрешается ли тебе в данной ситуации на автостраде продолжать обгон транспортного средства с правой стороны?"
         }
     },
     "not_approved": {
@@ -3191,6 +3192,7 @@
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność a w razie potrzeby zatrzymać się?": "В данной ситуации следует ли вам проявлять особую осторожность и, при необходимости, остановиться?",
         "Zamierzasz skręcić w lewo, a pojazd nadjeżdżający z prawej strony chce jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а ТС, приближающееся справа, хочет ехать прямо. У вас есть преимущество перед ним?",
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
-        "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?"
+        "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
+        "Czy za tym znakiem masz prawo zaparkować pojazd na 5 minut ?": "Имеешь ли ты право припарковать транспортное средство на 5 минут на участке после этого знака?"
     }
 }
