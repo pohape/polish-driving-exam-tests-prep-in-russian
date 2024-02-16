@@ -2170,7 +2170,11 @@
             "Tak, aby w lusterku był widoczny fragment boku pojazdu oraz droga za pojazdem": "Так, чтобы в зеркале был виден фрагмент боку автомобиля, а также дорога за автомобилем.",
             "Potwierdzenie opłaty obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Подтверждение оплаты обязательного страхования гражданской ответственности.",
             "W każdym przypadku zaświadczenie o przeprowadzonym badaniu technicznym": "В каждом случае - свидетельство о проведенном техническом осмотре.",
-            "Ciągnąć dzieci na sankach": "Тащить детей на санках."
+            "Ciągnąć dzieci na sankach": "Тащить детей на санках.",
+            "Holować innego samochodu osobowego na obszarze zabudowanym": "Буксировать другой автомобиль в населенном пункте.",
+            "Ciągnąć przyczepy lekkiej": "Тянуть легкие прицепы.",
+            "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
+            "Orzeczenie psychologiczne": "Психологическое заключение."
         }
     },
     "not_approved": {
@@ -2934,8 +2938,6 @@
         "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
-        "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
-        "Orzeczenie psychologiczne": "Психологическое заключение.",
         "Zarządca drogi": "Управляющий дорогой.",
         "Straż Miejska": "Муниципальная стража.",
         "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
@@ -3199,8 +3201,6 @@
         "Zamierzasz skręcić w lewo, a pojazd nadjeżdżający z prawej strony chce jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а ТС, приближающееся справа, хочет ехать прямо. У вас есть преимущество перед ним?",
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
-        "Holować innego samochodu osobowego na obszarze zabudowanym": "Буксировать другой автомобиль в населенном пункте.",
-        "Ciągnąć przyczepy lekkiej": "Тянуть легкие прицепы.",
         "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?"
     }
 }
