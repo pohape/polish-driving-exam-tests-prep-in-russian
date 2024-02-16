@@ -2174,7 +2174,11 @@
             "Holować innego samochodu osobowego na obszarze zabudowanym": "Буксировать другой автомобиль в населенном пункте.",
             "Ciągnąć przyczepy lekkiej": "Тянуть легкие прицепы.",
             "Orzeczenie lekarskie, jeżeli wykonujesz zarobkowy przewóz osób": "Медицинское заключение, если выполняешь платную перевозку людей.",
-            "Orzeczenie psychologiczne": "Психологическое заключение."
+            "Orzeczenie psychologiczne": "Психологическое заключение.",
+            "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym": "Столько, сколько составляет количество мест, указанное в регистрационном свидетельстве.",
+            "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 7 lat": "Столько, сколько составляет число мест, указанное в свидетельстве о регистрации, плюс один ребенок в возрасте до 7 лет.",
+            "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 3 lat": "Столько, сколько составляет количество мест, указанное в свидетельстве о регистрации плюс один ребенок в возрасте до 3 лет.",
+            "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?"
         }
     },
     "not_approved": {
@@ -3202,9 +3206,6 @@
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
         "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?",
-        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym": "Столько, сколько составляет количество мест, указанное в регистрационном свидетельстве.",
-        "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?",
-        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 7 lat": "Столько, сколько составляет число мест, указанное в свидетельстве о регистрации, плюс один ребенок в возрасте до 7 лет.",
-        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 3 lat": "Столько, сколько составляет количество мест, указанное в свидетельстве о регистрации плюс один ребенок в возрасте до 3 лет."
+        "Nie ma przepisu, który by tego zabraniał": "Нет такого правила, которое бы это запрещало."
     }
 }
