@@ -15,7 +15,8 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?"
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
+        "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота."
     },
     "approved": {
         "upewninie się": {
@@ -3083,7 +3084,6 @@
         "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
         "Rodzaj nawierzchni oraz warunki panujące na drodze powinny mieć wpływ na dobór bezpiecznej prędkości": "Тип дорожного покрытия, а также условия, царящие на дороге, должны влиять на выбор безопасной скорости.",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
-        "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота.",
         "Niskie napięcie akumulatora": "Низкое напряжение аккумулятора.",
         "Zwarcie w obwodzie świateł kierunkowskazów": "Короткое замыкание в цепи указателей поворота.",
         "Co może być przyczyną znacznie zwiększonej częstotliwości migania świateł kierunkowskazów?": "Какой может быть причиной значительно увеличенной частоты мигания указателей поворота?",
@@ -3206,6 +3206,7 @@
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
         "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?",
-        "Nie ma przepisu, który by tego zabraniał": "Нет такого правила, которое бы это запрещало."
+        "Nie ma przepisu, który by tego zabraniał": "Нет такого правила, которое бы это запрещало.",
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия."
     }
 }
