@@ -3201,6 +3201,10 @@
         "Zamierzasz skręcić w lewo, a pojazd nadjeżdżający z prawej strony chce jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а ТС, приближающееся справа, хочет ехать прямо. У вас есть преимущество перед ним?",
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
-        "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?"
+        "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?",
+        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym": "Столько, сколько составляет количество мест, указанное в регистрационном свидетельстве.",
+        "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?",
+        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 7 lat": "Столько, сколько составляет число мест, указанное в свидетельстве о регистрации, плюс один ребенок в возрасте до 7 лет.",
+        "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 3 lat": "Столько, сколько составляет количество мест, указанное в свидетельстве о регистрации плюс один ребенок в возрасте до 3 лет."
     }
 }
