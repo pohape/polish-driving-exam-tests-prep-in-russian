@@ -15,8 +15,7 @@
         "Czy spożycie amfetaminy może zwiększać skłonność kierowcy do ryzykownych i agresywnych zachowań?": "Может ли употребление амфетамина увеличить склонность водителя к рискованным и агрессивным поведениям?",
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
-        "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота."
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?"
     },
     "approved": {
         "upewninie się": {
@@ -2179,7 +2178,8 @@
             "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym": "Столько, сколько составляет количество мест, указанное в регистрационном свидетельстве.",
             "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 7 lat": "Столько, сколько составляет число мест, указанное в свидетельстве о регистрации, плюс один ребенок в возрасте до 7 лет.",
             "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 3 lat": "Столько, сколько составляет количество мест, указанное в свидетельстве о регистрации плюс один ребенок в возрасте до 3 лет.",
-            "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?"
+            "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?",
+            "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота."
         }
     },
     "not_approved": {
