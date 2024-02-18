@@ -19,7 +19,6 @@
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
-        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?",
         "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?"
     },
     "approved": {
@@ -2211,7 +2210,12 @@
             "Stan opon": "Состояние шин.",
             "Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?": "Какие факторы влияют на общее время восприятия и реакции водителя транспортного средства?",
             "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
-            "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации."
+            "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
+            "Tak, tylko na tylnym siedzeniu": "Да, только на заднем сиденье.",
+            "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
+            "Tak, jeżeli korzysta się z pasów bezpieczeństwa": "Да, если используются ремни безопасности.",
+            "Wymijanie - przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku": "Проезд мимо встречного ТС - проезд (прохождение) мимо транспортного средства или участника движения, движущегося в противоположном направлении.",
+            "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр проезда мимо встречного велосипедиста?"
         }
     },
     "not_approved": {
@@ -2336,7 +2340,6 @@
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
-        "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
@@ -2797,8 +2800,6 @@
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
         "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
-        "Tak, tylko na tylnym siedzeniu": "Да, только на заднем сиденье.",
-        "Tak, jeżeli korzysta się z pasów bezpieczeństwa": "Да, если используются ремни безопасности.",
         "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в езде.",
         "dozwolone bez ograniczeń": "разрешено без ограничений.",
         "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки.",
