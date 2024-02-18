@@ -2194,7 +2194,8 @@
             "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
             "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
             "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
-            "Nie, ponieważ w nocy ruch na drodze jest mniejszy": "Нет, потому что ночью движение на дороге меньше."
+            "Nie, ponieważ w nocy ruch na drodze jest mniejszy": "Нет, потому что ночью движение на дороге меньше.",
+            "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается."
         }
     },
     "not_approved": {
@@ -3227,7 +3228,6 @@
         "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения.",
         "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
         "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
-        "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
-        "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается."
+        "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?"
     }
 }
