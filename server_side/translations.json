@@ -2180,7 +2180,8 @@
             "Tyle, ile wynosi liczba miejsc określona w dowodzie rejestracyjnym plus jedno dziecko w wieku do 3 lat": "Столько, сколько составляет количество мест, указанное в свидетельстве о регистрации плюс один ребенок в возрасте до 3 лет.",
             "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?",
             "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота.",
-            "Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym,": "Количество перевозимых людей не может превышать количество мест, указанных в свидетельстве о регистрации."
+            "Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym,": "Количество перевозимых людей не может превышать количество мест, указанных в свидетельстве о регистрации.",
+            "Czy w tej sytuacji wolno Ci wyprzedzić samochód ciężarowy?": "Разрешено ли тебе в этой ситуации обгонять грузовик?"
         }
     },
     "not_approved": {
