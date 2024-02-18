@@ -17,7 +17,9 @@
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
-        "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?"
+        "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
+        "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительную техническую инспекцию автомобиля?",
+        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО."
     },
     "approved": {
         "upewninie się": {
@@ -3219,6 +3221,8 @@
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
-        "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге."
+        "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
+        "Po zmianie właściciela pojazdu": "После смены владельца транспортного средства.",
+        "Po skierowaniu przez organ kontroli ruchu drogowego": "После направления органом контроля дорожного движения."
     }
 }
