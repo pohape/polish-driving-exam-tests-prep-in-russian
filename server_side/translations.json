@@ -2205,7 +2205,8 @@
             "Masa pasażera": "Масса пассажира.",
             "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
             "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
-            "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения."
+            "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения.",
+            "Z jaką maksymalną dopuszczalną prędkością wolno Ci kierować samochodem osobowym po drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете управлять легковым автомобилем по дороге за этим знаком?"
         }
     },
     "not_approved": {
@@ -2363,7 +2364,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли передаваемый сигнал, что через мгновение загорится зеленый сигнал?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
-        "Z jaką maksymalną dopuszczalną prędkością wolno Ci kierować samochodem osobowym po drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете управлять легковым автомобилем по дороге за этим знаком?",
         "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
