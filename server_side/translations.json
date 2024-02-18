@@ -2201,7 +2201,8 @@
             "Czy w tej sytuacji włączasz się do ruchu?": "В этой ситуации ты включаешься в движение?",
             "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?": "С какой скоростью разрешено передвигаться по автостраде, управляя легковым автомобилем?",
             "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km\/h": "Обеспечивающую контроль над транспортным средством с учетом условий, в которых происходит движение, не выше чем 140 км\/ч.",
-            "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством."
+            "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством.",
+            "Masa pasażera": "Масса пассажира."
         }
     },
     "not_approved": {
@@ -3235,7 +3236,6 @@
         "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
-        "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?",
-        "Masa pasażera": "Масса пассажира."
+        "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?"
     }
 }
