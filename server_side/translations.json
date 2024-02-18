@@ -19,7 +19,8 @@
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительную техническую инспекцию автомобиля?",
-        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО."
+        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
+        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?"
     },
     "approved": {
         "upewninie się": {
@@ -3227,7 +3228,6 @@
         "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
         "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
         "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
-        "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается.",
-        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разрешено ли движение задним ходом на \"drogą ekspresową jednojezdniową\"?"
+        "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается."
     }
 }
