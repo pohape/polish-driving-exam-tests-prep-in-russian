@@ -2186,7 +2186,10 @@
             "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
             "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
             "Numer telefonu informującego": "Номер телефона информирующего.",
-            "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности."
+            "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности.",
+            "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
+            "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
+            "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения."
         }
     },
     "not_approved": {
@@ -2624,9 +2627,6 @@
         "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
-        "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
-        "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
         "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
         "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
         "Nierównomierne zużycie bieżnika opony": "Неравномерный износ протектора шины.",
@@ -3217,6 +3217,8 @@
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разрешается ли движение задним ходом на однополосной \"droga ekspresowa\"?",
         "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": "Вы собираетесь повернуть налево. Имеете ли вы на этом перекрестке преимущество перед въезжающим на него ТС?",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
-        "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?"
+        "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
+        "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
+        "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге."
     }
 }
