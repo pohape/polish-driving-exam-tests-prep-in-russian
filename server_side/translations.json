@@ -2196,7 +2196,8 @@
             "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается.",
             "Czy w tej sytuacji wolno Ci korzystać ze wszystkich pasów ruchu na całej szerokości jezdni?": "В этой ситуации разрешено ли тебе использовать все полосы движения на всей ширине проезжей части?",
             "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Если на дороге установлены знаки белого и желтого цвета, указывающие различные способы поведения, водитель обязан следовать желтым знакам. Двойная сплошная линия разделяет полосы движения противоположных направлений и означает запрет переезжать через эту линию.",
-            "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę?": "Имеешь ли ты право обогнать велосипедиста в этой ситуации?"
+            "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę?": "Имеешь ли ты право обогнать велосипедиста в этой ситуации?",
+            "Czy w tej sytuacji włączasz się do ruchu?": "В этой ситуации ты включаешься в движение?"
         }
     },
     "not_approved": {
@@ -3233,6 +3234,6 @@
         "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
-        "Czy w tej sytuacji włączasz się do ruchu?": "В этой ситуации ты включаешься в движение?"
+        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?"
     }
 }
