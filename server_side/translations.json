@@ -19,7 +19,8 @@
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
-        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?"
+        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?",
+        "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?"
     },
     "approved": {
         "upewninie się": {
@@ -2206,7 +2207,11 @@
             "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
             "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
             "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения.",
-            "Z jaką maksymalną dopuszczalną prędkością wolno Ci kierować samochodem osobowym po drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете управлять легковым автомобилем по дороге за этим знаком?"
+            "Z jaką maksymalną dopuszczalną prędkością wolno Ci kierować samochodem osobowym po drodze za tym znakiem?": "С какой максимально допустимой скоростью вы можете управлять легковым автомобилем по дороге за этим знаком?",
+            "Stan opon": "Состояние шин.",
+            "Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?": "Какие факторы влияют на общее время восприятия и реакции водителя транспортного средства?",
+            "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
+            "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации."
         }
     },
     "not_approved": {
@@ -2368,7 +2373,6 @@
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
         "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
-        "Widoczność na drodze, złożoność sytuacji drogowej": "Видимость на дороге, сложность дорожной ситуации.",
         "Który z wymienionych czynników, może spowodować szybsze zużywanie się opon na kołach przednich w samochodzie osobowym?": "Какой из перечисленных факторов может привести к более быстрому износу шин на передних колесах в легковом автомобиле?",
         "Niewielkie obciążenie przedniej osi pojazdu.Небольшая нагрузка на переднюю ось автомобиля": "Небольшая нагрузка на переднюю ось автомобиля.Небольшая нагрузка на переднюю ось автомобиля.",
         "Nierówna nawierzchnia jezdni.Неровное покрытие проезжей части": "Неровное покрытие проезжей части.Неровное покрытие проезжей части.",
@@ -2868,9 +2872,6 @@
         "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
-        "Dodatkowa masa pojazdu": "Дополнительная масса транспортного средства.",
-        "Stan opon": "Состояние шин.",
-        "Jakie czynniki mają wpływ na łączny czas postrzegania i reakcji kierującego pojazdem?": "Какие факторы влияют на общее время восприятия и реакции водителя транспортного средства?",
         "Dawać krótkotrwałe sygnały dźwiękowe": "Подавать кратковременные звуковые сигналы.",
         "Włączyć tylne światła przeciwmgłowe, niezależnie od stopnia ograniczenia widoczności": "Включить задние противотуманные фонари, независимо от степени ограничения видимости.",
         "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
