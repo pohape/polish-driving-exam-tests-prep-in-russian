@@ -2202,7 +2202,10 @@
             "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?": "С какой скоростью разрешено передвигаться по автостраде, управляя легковым автомобилем?",
             "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km\/h": "Обеспечивающую контроль над транспортным средством с учетом условий, в которых происходит движение, не выше чем 140 км\/ч.",
             "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством.",
-            "Masa pasażera": "Масса пассажира."
+            "Masa pasażera": "Масса пассажира.",
+            "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
+            "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
+            "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения."
         }
     },
     "not_approved": {
@@ -3227,9 +3230,6 @@
         "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
         "Po zmianie właściciela pojazdu": "После смены владельца транспортного средства.",
         "Po skierowaniu przez organ kontroli ruchu drogowego": "После направления органом контроля дорожного движения.",
-        "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения.",
-        "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
-        "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
         "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
         "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
         "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительное техническое осмотр автомобиля?",
