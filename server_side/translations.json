@@ -2182,7 +2182,11 @@
             "Ile maksymalnie osób, wliczając siebie, możesz przewozić kierując prywatnym samochodem osobowym?": "Сколько максимально людей, включая себя, вы можете перевозить, управляя частным автомобилем?",
             "Niesprawność żarówki w jednej z lamp kierunkowskazów": "Неисправность лампочки в одном из указателей поворота.",
             "Liczba przewożonych osób nie może przekraczać liczby miejsc określonych w dowodzie rejestracyjnym,": "Количество перевозимых людей не может превышать количество мест, указанных в свидетельстве о регистрации.",
-            "Czy w tej sytuacji wolno Ci wyprzedzić samochód ciężarowy?": "Разрешено ли тебе в этой ситуации обгонять грузовик?"
+            "Czy w tej sytuacji wolno Ci wyprzedzić samochód ciężarowy?": "Разрешено ли тебе в этой ситуации обгонять грузовик?",
+            "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
+            "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
+            "Numer telefonu informującego": "Номер телефона информирующего.",
+            "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности."
         }
     },
     "not_approved": {
@@ -3045,10 +3049,6 @@
         "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
         "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?",
         "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос.",
-        "Numer telefonu informującego": "Номер телефона информирующего.",
-        "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности.",
-        "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
-        "Jakie są najistotniejsze informacje dla służb ratowniczych, określające miejsce wypadku drogowego?": "Какие наиболее важные информации для служб спасения, определяющие место дорожно-транспортного происшествия?",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
