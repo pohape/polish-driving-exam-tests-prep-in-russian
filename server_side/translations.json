@@ -18,7 +18,8 @@
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
-        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?"
+        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
+        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?"
     },
     "approved": {
         "upewninie się": {
@@ -3234,6 +3235,6 @@
         "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
-        "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр обгона, проезжая мимо велосипедиста?"
+        "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?"
     }
 }
