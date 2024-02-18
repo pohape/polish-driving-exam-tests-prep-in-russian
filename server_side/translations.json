@@ -2198,7 +2198,10 @@
             "Czy w tej sytuacji wolno Ci korzystać ze wszystkich pasów ruchu na całej szerokości jezdni?": "В этой ситуации разрешено ли тебе использовать все полосы движения на всей ширине проезжей части?",
             "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Если на дороге установлены знаки белого и желтого цвета, указывающие различные способы поведения, водитель обязан следовать желтым знакам. Двойная сплошная линия разделяет полосы движения противоположных направлений и означает запрет переезжать через эту линию.",
             "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę?": "Имеешь ли ты право обогнать велосипедиста в этой ситуации?",
-            "Czy w tej sytuacji włączasz się do ruchu?": "В этой ситуации ты включаешься в движение?"
+            "Czy w tej sytuacji włączasz się do ruchu?": "В этой ситуации ты включаешься в движение?",
+            "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?": "С какой скоростью разрешено передвигаться по автостраде, управляя легковым автомобилем?",
+            "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km\/h": "Обеспечивающую контроль над транспортным средством с учетом условий, в которых происходит движение, не выше чем 140 км\/ч.",
+            "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством."
         }
     },
     "not_approved": {
@@ -2966,9 +2969,6 @@
         "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
-        "Zapewniającą panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa, nie wyższą niż 140 km\/h": "Обеспечивающую контроль над транспортным средством с учетом условий, в которых происходит движение, не выше чем 140 км\/ч.",
-        "Z jaką prędkością wolno poruszać się po autostradzie kierując samochodem osobowym?": "С какой скоростью разрешено передвигаться по автостраде, управляя легковым автомобилем?",
-        "Dowolną zapewniającą panowanie nad pojazdem": "Любую, обеспечивающую контроль над транспортным средством.",
         "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa \/ śnieżyca, ulewa itp.\/, nie mniejszą niż 40 km\/h": "Учитывая атмосферные условия, при которых происходит движение \/снегопад, ливень и т.п.\/, не менее 40 км\/ч.",
         "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
         "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
