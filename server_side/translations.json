@@ -18,8 +18,6 @@
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какой из индикаторных ламп, показанных на иллюстрации, сообщает о включенных светофорах?",
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
-        "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительную техническую инспекцию автомобиля?",
-        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?"
     },
     "approved": {
@@ -2196,7 +2194,8 @@
             "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
             "Nie, ponieważ w nocy ruch na drodze jest mniejszy": "Нет, потому что ночью движение на дороге меньше.",
             "Zabrania się zatrzymania i postoju na wiadukcie. Zatrzymanie pod wiaduktem jest dopuszczalne": "Запрещается остановка и стоянка на мосту. Остановка под мостом допускается.",
-            "Czy w tej sytuacji wolno Ci korzystać ze wszystkich pasów ruchu na całej szerokości jezdni?": "В этой ситуации разрешено ли тебе использовать все полосы движения на всей ширине проезжей части?"
+            "Czy w tej sytuacji wolno Ci korzystać ze wszystkich pasów ruchu na całej szerokości jezdni?": "В этой ситуации разрешено ли тебе использовать все полосы движения на всей ширине проезжей части?",
+            "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Если на дороге установлены знаки белого и желтого цвета, указывающие различные способы поведения, водитель обязан следовать желтым знакам. Двойная сплошная линия разделяет полосы движения противоположных направлений и означает запрет переезжать через эту линию."
         }
     },
     "not_approved": {
@@ -2930,7 +2929,6 @@
         "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Эта линия разделяет полосы движения в одном направлении и кроме того, означает запрет пересекать (наезжать на) линию.",
         "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci jechać na wprost zajmowanym pasem ruchu?": "В этой ситуации, управляя легковым автомобилем, разрешается ли тебе ехать прямо по занимаемой полосе движения?",
         "Zajmowany pas ruchu umożliwia jedynie skręt w prawo": "Занимаемая полоса движения позволяет только поворот направо.",
-        "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Если на дороге установлены знаки белого и желтого цвета, указывающие различные способы поведения, водитель обязан следовать желтым знакам. Двойная сплошная линия разделяет полосы движения противоположных направлений и означает запрет переезжать через эту линию.",
         "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Вопрос: Запрещает ли видимая горизонтальная разметка смену ранее занятой полосы движения?",
         "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
         "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
@@ -3228,6 +3226,9 @@
         "Przez okres 72 godzin od chwili zatrzymania prawa jazdy": "В течение 72 часов с момента временного изъятия водительского удостоверения.",
         "Przez okres 24 godzin od chwili zatrzymania prawa jazdy": "В течение 24 часов с момента временного изъятия водительского удостоверения.",
         "Przez okres 7 dni od chwili zatrzymania prawa jazdy": "В течение 7 дней со дня временного изъятия водительского удостоверения.",
-        "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?"
+        "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
+        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
+        "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительное техническое осмотр автомобиля?",
+        "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения."
     }
 }
