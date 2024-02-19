@@ -2233,7 +2233,8 @@
             "Tak, w każdym przypadku": "Да, в любом случае.",
             "Tak, jeżeli wynika to z orzeczenia lekarskiego": "Да, если это следует из медицинского заключения.",
             "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
-            "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?": "Как вы разместите груз на прицепе автомобиля?"
+            "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?": "Как вы разместите груз на прицепе автомобиля?",
+            "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт."
         }
     },
     "not_approved": {
@@ -3039,7 +3040,6 @@
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 6 miesięcy,": "Староста вынесет административное решение о продлении периода, на который было приостановлено водительское удостоверение, до 6 месяцев.",
         "Starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy do 1 roku": "Староста выдаст административное решение о продлении периода, на который было приостановлено право управления транспортным средством, до 1 года.",
         "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
-        "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Jeżeli pomimo decyzji o zatrzymaniu prawa jazdy na 3 miesiące osoba nadal kierowała pojazdem, starosta przedłuża okres, na który zatrzymano prawo jazdy do 6 miesięcy": "Если, несмотря на решение о приостановлении водительских прав на 3 месяца, человек продолжал управлять транспортным средством, староста продлевает период, на который приостановлено водительское удостоверение, до 6 месяцев.",
         "Czy w tej sytuacji masz obowiązek zabezpieczyć miejsce zdarzenia?": "В этой ситуации у тебя есть обязанность обезопасить место происшествия?",
