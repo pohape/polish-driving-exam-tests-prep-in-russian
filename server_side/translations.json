@@ -5,7 +5,9 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
-        "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?"
+        "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
+        "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
+        "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина."
     },
     "approved": {
         "upewninie się": {
@@ -2314,7 +2316,9 @@
             "Czy widoczna linia podwójna ciągła rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Разделяет ли видимая двойная сплошная линия полосы движения, предназначенные для движения в одном направлении?",
             "Linia podwójna ciągła oddziela pasy o przeciwnych kierunkach ruchu": "Двойная сплошная линия разделяет полосы с противоположными направлениями движения.",
             "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu, jeśli prawy pas jest wolny?": "В этой ситуации вы имеете право продолжать движение по левой полосе, если правая полоса свободна?",
-            "Z zamiarem skrętu w lewo można pozostać na tym pasie": "С намерением повернуть налево можно остаться на этой полосе."
+            "Z zamiarem skrętu w lewo można pozostać na tym pasie": "С намерением повернуть налево можно остаться на этой полосе.",
+            "Czy w tej sytuacji jedziesz jezdnią o dwóch pasach ruchu?": "В этой ситуации ты едешь по проезжей части с двумя полосами движения?",
+            "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения."
         }
     },
     "not_approved": {
@@ -3062,7 +3066,6 @@
         "Świadczy o tym znak \"ustąp pierwszeństwa\" umieszczony przed skrzyżowaniem": "Об этом свидетельствует знак \"уступи преимущество\", расположенный перед перекрестком.",
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
-        "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
@@ -3310,6 +3313,7 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+        "Czy w tej sytuacji wolno Ci jeszcze zmienić pas ruchu na lewy?": "В этой ситуации тебе еще разрешено перестроиться на левую полосу?"
     }
 }
