@@ -8,7 +8,6 @@
         "Czy na drodze wewnętrznej, oznaczonej odpowiednim znakiem drogowym, masz obowiązek stosować się do umieszczonych tutaj znaków drogowych?": "На внутренней дороге, обозначенной соответствующим дорожным знаком, обязан ли ты соблюдать здесь установленные дорожные знаки?",
         "Kierujący pojazdem ma obowiązek stosować się do poleceń lub sygnałów dawanych przez pilota pojazdu nienormatywnego": "Водитель транспортного средства обязан следовать указаниям или сигналам, подаваемым пилотом нестандартного транспортного средства.",
         "Linia przystankowa wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Стоп-линия указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся средствами общественного транспорта.",
-        "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": "Вы собираетесь развернуться. В этой ситуации произойдет столкновение с трамваем?",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Позволяет ли водитель белого транспортного средства, находящегося на левой полосе движения, в соответствующий способ пропустить проезд привилегированного транспортного средства?",
         "Czy w każdym przypadku, po zażyciu leku przepisanego przez lekarza, możesz kierować pojazdem?": "Можешь ли ты в каждом случае управлять транспортным средством после принятия лекарства, прописанного врачом?",
@@ -3284,6 +3283,7 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+        "Niewłaściwie ustawione światła": "Неправильно настроенные фары."
     }
 }
