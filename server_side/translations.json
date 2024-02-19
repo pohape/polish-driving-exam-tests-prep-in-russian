@@ -8,7 +8,8 @@
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
         "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
-        "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения."
+        "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения.",
+        "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?"
     },
     "approved": {
         "upewninie się": {
@@ -2329,7 +2330,9 @@
             "Czy w tej sytuacji wolno Ci kontynuować jazdę środkowym pasem ruchu?": "В данной ситуации разрешено ли тебе продолжить движение по средней полосе?",
             "Skrajne prawe pasy kończą się": "Крайние правые полосы заканчиваются.",
             "Czy dozwolony jest postój na wyznaczonych miejscach dla osób niepełnosprawnych, jeśli nie będzie trwał więcej niż 15 minut?": "Разрешена ли стоянка на специально обозначенных местах для инвалидов, если она не будет длиться более 15 минут?",
-            "Miejsce postojowe jest przeznaczone dla pojazdu osoby niepełnosprawnej": "Парковочное место предназначено для транспортного средства человека с ограниченными возможностями."
+            "Miejsce postojowe jest przeznaczone dla pojazdu osoby niepełnosprawnej": "Парковочное место предназначено для транспортного средства человека с ограниченными возможностями.",
+            "Do zawracania zdecydowanie nie nadaje się pas do skrętu w prawo": "Для разворота категорически не подходит полоса для поворота направо.",
+            "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "Текущая занятая полоса идеально подходит для этого - о чем свидетельствует горизонтальная разметка."
         }
     },
     "not_approved": {
@@ -3306,7 +3309,6 @@
         "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одной стороны или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м.",
         "Kierujący pojazdem jest obowiązany: przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu": "Водитель транспортного средства обязан: при прохождении мимо встречного ТС соблюдать безопасную дистанцию от проходимого транспортного средства.",
         "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
-        "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "Текущая занятая полоса идеально подходит для этого - о чем свидетельствует горизонтальная разметка.",
         "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
