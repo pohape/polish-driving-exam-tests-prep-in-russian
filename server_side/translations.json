@@ -2275,7 +2275,11 @@
             "Czy z tego pasa ruchu wolno Ci jechać na wprost?": "Можешь ли ты ехать прямо из этой полосы движения?",
             "Z tego pasa można skręcać w prawo, oraz jechać prosto": "С этой полосы можно повернуть направо, а также ехать прямо.",
             "Czy z pasa ruchu, na którym się znajdujesz, dozwolone jest skręcanie w prawo?": "С полосы движения, на которой вы находитесь, разрешен поворот направо?",
-            "Prawy pas nie umożliwia jazdy na wprost przez skrzyżowanie": "Правая полоса не позволяет движение прямо через перекресток."
+            "Prawy pas nie umożliwia jazdy na wprost przez skrzyżowanie": "Правая полоса не позволяет движение прямо через перекресток.",
+            "Tylko lewy pas umożliwia skręt w lewo": "Только левая полоса позволяет совершить поворот налево.",
+            "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В данной ситуации имеешь ли ты право въехать на перекресток с любой полосы движения, если намереваешься повернуть налево?",
+            "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
+            "Czy na tym skrzyżowaniu możesz zawrócić z lewego pasa ruchu?": "Можешь ли ты развернуться с левой полосы на этом перекрестке?"
         }
     },
     "not_approved": {
@@ -2394,7 +2398,6 @@
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
-        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В этой ситуации имеете ли вы право въехать на перекресток с любой полосы движения, если собираетесь повернуть налево?",
         "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
@@ -3183,7 +3186,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
         "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
         "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации разрешено ли тебе въехать на перекресток без остановки?",
