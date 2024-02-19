@@ -2332,7 +2332,9 @@
             "Ten znak jest niejako powtórzeniem znaku pionowego A-7 (Ustąp pierwszeństwa)": "Этот знак как бы повторяет вертикальный знак A-7 (\"Уступи дорогу\")",
             "Czy w tej sytuacji wolno Ci wjechać na sąsiedni prawy pas ruchu?": "В этой ситуации разрешено ли тебе въехать на соседнюю правую полосу движения?",
             "Czy widoczna poprzeczna linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu?": "Определяет ли видимая поперечная пунктирная линия место условной остановки транспортного средства?",
-            "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu": "Пунктирная линия обозначает место условной остановки транспортного средства."
+            "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu": "Пунктирная линия обозначает место условной остановки транспортного средства.",
+            "Czy w tej sytuacji wolno Ci wjechać na pas ruchu przy prawej krawędzi jezdni?": "Разрешается ли тебе в этой ситуации въехать на полосу движения у правого края проезжей части?",
+            "Odblaskowe elementy barwy czerwonej wyznaczają prawą krawędź jezdni": "Светоотражающие элементы красного цвета обозначают правый край проезжей части."
         }
     },
     "not_approved": {
@@ -2385,7 +2387,6 @@
         "Prędkość pojazdu": "Скорость автомобиля.",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
-        "Odblaskowe elementy barwy czerwonej wyznaczają prawą krawędź jezdni": "Светоотражающие элементы красного цвета обозначают правый край проезжей части.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
         "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
@@ -2465,7 +2466,6 @@
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Niesprawny rozrusznik": "Неисправный стартер.",
         "Czy w tej sytuacji możesz spodziewać się wtargnięcia pieszego na jezdnię?": "Можете ли вы ожидать, что в этой ситуации вы столкнетесь с пешеходным вторжением на проезжую часть?",
-        "Czy w tej sytuacji wolno Ci wjechać na pas ruchu przy prawej krawędzi jezdni?": "В этой ситуации вам разрешено выезжать на полосу движения у правого края проезжей части?",
         "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
