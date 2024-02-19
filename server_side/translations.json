@@ -2222,7 +2222,10 @@
             "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
             "Czy masz prawo włączyć światła awaryjne, gdy kierujesz holowanym pojazdem?": "Имеешь ли ты право включить аварийные огни, когда управляешь буксируемым транспортным средством?",
             "Czy w tej sytuacji masz prawo rozpocząć wyprzedzanie?": "Имеете ли вы право начать обгон в данной ситуации?",
-            "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
+            "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
+            "Gaśnica umieszczona jest na tylnej półce": "Огнетушитель размещен на задней полке.",
+            "Gaśnica umieszczona jest luźno między siedzeniami": "Огнетушитель свободно расположен между сиденьями.",
+            "Gaśnica zamocowana pod fotelem pasażera": "Огнетушитель закреплен под пассажирским сиденьем."
         }
     },
     "not_approved": {
@@ -2472,9 +2475,6 @@
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
-        "Gaśnica umieszczona jest luźno między siedzeniami": "Огнетушитель свободно расположен между сиденьями.",
-        "Gaśnica umieszczona jest na tylnej półce": "Огнетушитель размещен на задней полке.",
-        "Gaśnica zamocowana pod fotelem pasażera": "Огнетушитель закреплен под пассажирским сиденьем.",
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
