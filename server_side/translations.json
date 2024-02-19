@@ -1,6 +1,5 @@
 {
-    "incorrect": {
-    },
+    "incorrect": [],
     "approved": {
         "upewninie się": {
             "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въехать на видимый переезд сразу после поднятия шлагбаумов, не убедившись, что поезд не приближается?",
@@ -2270,7 +2269,9 @@
             "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял фонарей прицепа.",
             "Umieszczę go zawsze w tylnej części przyczepy": "Я буду всегда помещать его в задней части прицепа.",
             "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо на зеленый сигнал с текущей полосы движения?",
-            "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в представленной ситуации игнорирование обязанности уступить дорогу пешеходу?"
+            "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в представленной ситуации игнорирование обязанности уступить дорогу пешеходу?",
+            "Linia warunkowego zatrzymania złożona z prostokątów. Znak ten wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym": "Линия условной остановки состоит из прямоугольников. Этот знак указывает место остановки транспортного средства на перекрёстке, перед пешеходным переходом или перед светофором.",
+            "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?"
         }
     },
     "not_approved": {
@@ -2281,7 +2282,6 @@
         "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В представленной ситуации разрешено ли вам совершать набеги на двойную сплошную линию, видимую на проезжей части?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
-        "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
