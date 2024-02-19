@@ -3263,6 +3263,8 @@
         "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?",
         "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
-        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?"
+        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?",
+        "Hamując pulsacyjnie": "Тормозя прерывисто.",
+        "Maksymalnie wciskając pedał hamulca": "Максимально нажимая на педаль тормоза."
     }
 }
