@@ -2234,7 +2234,8 @@
             "Tak, jeżeli wynika to z orzeczenia lekarskiego": "Да, если это следует из медицинского заключения.",
             "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
             "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?": "Как вы разместите груз на прицепе автомобиля?",
-            "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт."
+            "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
+            "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\"."
         }
     },
     "not_approved": {
@@ -3188,7 +3189,6 @@
         "Na przystanku nie ma tramwaju": "На остановке нет трамвая.",
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
-        "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\".",
         "Sygnał żółty oznacza zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал означает запрет въезда за светофор, если только в момент загорания этого сигнала транспортное средство не находится так близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
         "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
@@ -3247,6 +3247,7 @@
         "Ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów": "Груз не может выступать сзади транспортного средства на расстояние большее чем 2 м от задней плоскости контура транспортного средства или автопоезда.",
         "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия.",
         "Czy w tej sytuacji masz obowiązek zachować jedynie ostrożność?": "В этой ситуации ты обязан сохранять только осторожность?",
-        "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?"
+        "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
+        "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одной стороны или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м."
     }
 }
