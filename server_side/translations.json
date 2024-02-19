@@ -2269,7 +2269,8 @@
             "Ten znak to linia wyznaczająca pas postoju": "Этот знак обозначает линию, выделяющую полосу для стоянки.",
             "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Означает ли этот горизонтальный знак зону, исключённую из движения?",
             "Czy masz obowiązek bezwarunkowo zatrzymać pojazd przed linią złożoną z trójkątów?": "Обязаны ли вы безусловно остановить транспортное средство перед линией, состоящей из треугольников?",
-            "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Запрещено ли движение задним ходом транспортным средством на \"droga ekspresowa\" с одной проезжей частью?"
+            "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Запрещено ли движение задним ходом транспортным средством на \"droga ekspresowa\" с одной проезжей частью?",
+            "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник установлен правильно?"
         }
     },
     "not_approved": {
