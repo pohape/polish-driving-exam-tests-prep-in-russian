@@ -3281,6 +3281,7 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "В данной ситуации произошел случай неуступления дороги пешеходу?"
     }
 }
