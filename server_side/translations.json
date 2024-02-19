@@ -2658,7 +2658,6 @@
         "Dzikich zwierząt przebiegających przez drogę": "Диких животных, перебегающих через дорогу.",
         "Bezkolizyjnego przepustu pod drogą dla dzikich zwierząt": "Бесконтактного перехода под дорогой для диких животных.",
         "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта.",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Вопрос: \"Дает ли водительское удостоверение категории B право управления мопедом или лёгким так называемым \"czterokołowcem\"?",
         "Odstąpi od zatrzymania prawa jazdy": "Откажется от изъятия водительских прав.",
         "Jaka jest maksymalna dopuszczalna prędkość samochodu osobowego poruszającego się po tej drodze?": "Какова максимальная разрешенная скорость легкового автомобиля, движущегося по этой дороге?",
         "Nie wolno": "Не разрешается.",
@@ -2977,7 +2976,6 @@
         "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Эта линия разделяет полосы движения в одном направлении и кроме того, означает запрет пересекать (наезжать на) линию.",
         "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci jechać na wprost zajmowanym pasem ruchu?": "В этой ситуации, управляя легковым автомобилем, разрешается ли тебе ехать прямо по занимаемой полосе движения?",
         "Zajmowany pas ruchu umożliwia jedynie skręt w prawo": "Занимаемая полоса движения позволяет только поворот направо.",
-        "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Вопрос: Запрещает ли видимая горизонтальная разметка смену ранее занятой полосы движения?",
         "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
         "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
@@ -3283,7 +3281,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Вопрос: \"Запрещено ли движение задним ходом на 'drodze ekspresowej jednojezdniowej'?\""
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
