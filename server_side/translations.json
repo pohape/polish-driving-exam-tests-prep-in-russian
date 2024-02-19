@@ -2241,7 +2241,8 @@
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu, który zamierza wejść na jezdnię?": "В этой ситуации вы обязаны уступить дорогу пешеходу, который собирается выйти на проезжую часть?",
             "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
             "Czy wyprzedzając hulajnogę elektryczną masz obowiązek utrzymać odstęp nie mniejszy niż 1 m?": "Обязан ли ты, обгоняя электросамокат, соблюдать дистанцию не меньше 1 метра?",
-            "Czy na tym skrzyżowaniu masz obowiązek włączyć kierunkowskaz, zanim skręcisz w prawo?": "Обязан ли ты включить указатель поворота на этом перекрестке, прежде чем повернешь направо?"
+            "Czy na tym skrzyżowaniu masz obowiązek włączyć kierunkowskaz, zanim skręcisz w prawo?": "Обязан ли ты включить указатель поворота на этом перекрестке, прежде чем повернешь направо?",
+            "Czy na tym skrzyżowaniu możesz jechać prosto z lewego pasa ruchu?": "Можешь ли ты ехать прямо с левой полосы движения на этом перекрестке?"
         }
     },
     "not_approved": {
