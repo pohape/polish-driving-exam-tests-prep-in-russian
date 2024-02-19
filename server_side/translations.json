@@ -2221,7 +2221,8 @@
             "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": "Вы собираетесь повернуть налево. Имеете ли вы на этом перекрестке преимущество перед въезжающим на него ТС?",
             "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
             "Czy masz prawo włączyć światła awaryjne, gdy kierujesz holowanym pojazdem?": "Имеешь ли ты право включить аварийные огни, когда управляешь буксируемым транспортным средством?",
-            "Czy w tej sytuacji masz prawo rozpocząć wyprzedzanie?": "Имеете ли вы право начать обгон в данной ситуации?"
+            "Czy w tej sytuacji masz prawo rozpocząć wyprzedzanie?": "Имеете ли вы право начать обгон в данной ситуации?",
+            "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?"
         }
     },
     "not_approved": {
@@ -3002,7 +3003,6 @@
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
-        "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
