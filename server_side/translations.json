@@ -2269,7 +2269,8 @@
             "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник установлен правильно?",
             "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право в этой ситуации ненадолго остановить транспортное средство на проезжей части с целью высадки пассажира?",
             "Umieszczę go po jednej stronie przyczepy": "Я помещу его с одной стороны прицепа.",
-            "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял фонарей прицепа."
+            "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял фонарей прицепа.",
+            "Umieszczę go zawsze w tylnej części przyczepy": "Я помещу его всегда в задней части прицепа."
         }
     },
     "not_approved": {
@@ -3281,7 +3282,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещу его в заднюю часть прицепа."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
