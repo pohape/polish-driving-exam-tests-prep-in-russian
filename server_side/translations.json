@@ -2246,7 +2246,9 @@
             "Maksymalnie wciskając pedał hamulca": "Максимально нажимая на педаль тормоза.",
             "Delikatnie wciskając pedał hamulca": "Осторожно нажимая на педаль тормоза.",
             "Hamując pulsacyjnie": "Тормозя прерывисто.",
-            "Jak osiągnąć najkrótszą drogę hamowania pojazdem wyposażonym w układ przeciwblokujący (ABS)?": "Как достичь кратчайшего тормозного пути с помощью антиблокировочной тормозной системы (ABS)?"
+            "Jak osiągnąć najkrótszą drogę hamowania pojazdem wyposażonym w układ przeciwblokujący (ABS)?": "Как достичь кратчайшего тормозного пути с помощью антиблокировочной тормозной системы (ABS)?",
+            "Zwiększanie prędkości pojazdu": "Увеличение скорости транспортного средства.",
+            "Jakie czynniki wpływają na poprawę pola widzenia?": "Какие факторы влияют на улучшение поля зрения?"
         }
     },
     "not_approved": {
@@ -3021,8 +3023,6 @@
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
         "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?",
-        "Jakie czynniki wpływają na poprawę pola widzenia?": "Какие факторы влияют на улучшение поля зрения?",
-        "Zwiększanie prędkości pojazdu": "Увеличение скорости транспортного средства.",
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
@@ -3267,6 +3267,7 @@
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?",
         "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
-        "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа."
+        "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
+        "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany korzystać z przejścia dla pieszych": "Пешеход, пересекая проезжую часть или пути трамвая, обязан пользоваться пешеходным переходом."
     }
 }
