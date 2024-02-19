@@ -1,6 +1,8 @@
 {
     "incorrect": {
-        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией."
+        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией.",
+        "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключённой из движения.",
+        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?"
     },
     "approved": {
         "upewninie się": {
@@ -2290,7 +2292,9 @@
             "Czy poruszając się tym pasem ruchu, masz obowiązek kontynuować jazdę na wprost przez skrzyżowanie?": "Двигаясь этой полосой движения, обязан ли ты продолжить движение прямо через перекресток?",
             "Ten pas służy jedynie do jazdy prosto": "Эта полоса предназначена только для движения прямо.",
             "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
-            "Linia pojedyncza ciągła oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Одиночная сплошная линия разделяет полосы движения в одном и том же направлении и к тому же означает запрет на пересечение (наезд) через линию."
+            "Linia pojedyncza ciągła oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Одиночная сплошная линия разделяет полосы движения в одном и том же направлении и к тому же означает запрет на пересечение (наезд) через линию.",
+            "Możliwy jest również skręt w prawo": "Также возможен поворот направо.",
+            "Czy na tym skrzyżowaniu wolno Ci skręcić tylko w lewo?": "Можешь ли ты на этом перекрестке повернуть только налево?"
         }
     },
     "not_approved": {
@@ -2551,7 +2555,6 @@
         "Zdecydowane przyspieszanie": "Решительное ускорение.",
         "Stosowanie opon zimowych": "Использование зимних шин.",
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам останавливать автомобиль на поверхности, отключенной от движения?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
         "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
