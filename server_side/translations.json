@@ -2360,7 +2360,8 @@
             "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
             "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Видимая наземная (горизонтальная) разметка запрещает изменение в настоящее время занимаемой полосы движения?",
             "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
-            "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?"
+            "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
+            "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение в этой полосе только в направлении, указанном стрелкой?"
         }
     },
     "not_approved": {
@@ -3017,7 +3018,6 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Skręcasz w lewo na najbliższym skrzyżowaniu. Czy masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Вы поворачиваете налево на ближайшем перекрестке. У вас есть преимущество перед приближающимся ТС?",
         "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Сможешь ли ты развернуться на этом перекрестке, когда загорится зелёный сигнал?",
-        "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение на этой полосе движения только в направлении, указанном стрелкой?",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
         "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
