@@ -2242,7 +2242,11 @@
             "Czy wyprzedzając hulajnogę elektryczną masz obowiązek utrzymać odstęp nie mniejszy niż 1 m?": "Обязан ли ты, обгоняя электросамокат, соблюдать дистанцию не меньше 1 метра?",
             "Czy na tym skrzyżowaniu masz obowiązek włączyć kierunkowskaz, zanim skręcisz w prawo?": "Обязан ли ты включить указатель поворота на этом перекрестке, прежде чем повернешь направо?",
             "Czy na tym skrzyżowaniu możesz jechać prosto z lewego pasa ruchu?": "Можешь ли ты ехать прямо с левой полосы движения на этом перекрестке?",
-            "Czy w tej sytuacji powinieneś zmniejszyć prędkość?": "В этой ситуации ты должен снизить скорость?"
+            "Czy w tej sytuacji powinieneś zmniejszyć prędkość?": "В этой ситуации ты должен снизить скорость?",
+            "Maksymalnie wciskając pedał hamulca": "Максимально нажимая на педаль тормоза.",
+            "Delikatnie wciskając pedał hamulca": "Осторожно нажимая на педаль тормоза.",
+            "Hamując pulsacyjnie": "Тормозя прерывисто.",
+            "Jak osiągnąć najkrótszą drogę hamowania pojazdem wyposażonym w układ przeciwblokujący (ABS)?": "Как достичь кратчайшего тормозного пути с помощью антиблокировочной тормозной системы (ABS)?"
         }
     },
     "not_approved": {
@@ -2349,7 +2353,6 @@
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
         "Czy w przedstawionej sytuacji możesz zatrzymać pojazd na poboczu?": "Можете ли вы остановить автомобиль на обочине дороги в описанной ситуации?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
-        "Delikatnie wciskając pedał hamulca": "Осторожно нажимая на педаль тормоза.",
         "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы защитите кровотечение из раны при отсутствии стерильной повязки?",
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
@@ -2448,7 +2451,6 @@
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
         "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
-        "Jak osiągnąć najkrótszą drogę hamowania pojazdem wyposażonym w układ przeciwblokujący (ABS)?": "Как достичь кратчайшего тормозного пути с помощью антиблокировочной тормозной системы (ABS)?",
         "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
@@ -3263,8 +3265,6 @@
         "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?",
         "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
-        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?",
-        "Hamując pulsacyjnie": "Тормозя прерывисто.",
-        "Maksymalnie wciskając pedał hamulca": "Максимально нажимая на педаль тормоза."
+        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?"
     }
 }
