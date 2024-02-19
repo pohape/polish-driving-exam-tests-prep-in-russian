@@ -9,7 +9,8 @@
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
         "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
         "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?",
-        "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево."
+        "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
+        "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии."
     },
     "approved": {
         "upewninie się": {
@@ -2355,7 +2356,11 @@
             "Czy w tej sytuacji, przejeżdżając przez białą przerywaną linię, zmieniasz pas ruchu?": "В этой ситуации, пересекая белую пунктирную линию, вы меняете полосу движения?",
             "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Эта линия разделяет полосы движения в одном направлении и кроме того, означает запрет пересекать (наезжать на) линию.",
             "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci jechać na wprost zajmowanym pasem ruchu?": "В этой ситуации, управляя легковым автомобилем, разрешается ли тебе ехать прямо по занимаемой полосе движения?",
-            "Zajmowany pas ruchu umożliwia jedynie skręt w prawo": "Занимаемая полоса движения позволяет только поворот направо."
+            "Zajmowany pas ruchu umożliwia jedynie skręt w prawo": "Занимаемая полоса движения позволяет только поворот направо.",
+            "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
+            "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Видимая наземная (горизонтальная) разметка запрещает изменение в настоящее время занимаемой полосы движения?",
+            "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
+            "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?"
         }
     },
     "not_approved": {
@@ -2503,7 +2508,6 @@
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
-        "Czy w tej sytuacji wolno Ci zmienić zajmowany pas ruchu?": "Разрешено ли в этой ситуации менять занятую полосу движения?",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
         "karta pojazdu": "карта автомобиля.",
@@ -3007,10 +3011,7 @@
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Można go zmienić o jeden na lewo": "Можно его изменить на один влево.",
-        "Skręt w prawo jest możliwy dzięki linii przerywanej": "Поворот направо возможен благодаря пунктирной линии.",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
-        "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
@@ -3306,7 +3307,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Czy widoczne oznakowanie poziome zabrania zmiany dotychczas zajmowanego pasa ruchu?": "Существует ли видимая наземная (горизонтальная) разметка, запрещающая смену в настоящее время занимаемой полосы движения?"
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
