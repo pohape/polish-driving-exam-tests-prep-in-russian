@@ -2268,7 +2268,9 @@
             "Ten znak nie pozwala na jazdę prosto": "Этот знак не позволяет двигаться прямо.",
             "Znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Этот знак указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся транспортными средствами общественного транспорта.",
             "Czy ten znak poziomy wyznacza pas postojowy?": "Обозначает ли этот горизонтальный знак парковочную полосу?",
-            "Ten znak to linia wyznaczająca pas postoju": "Этот знак обозначает линию, выделяющую полосу для стоянки."
+            "Ten znak to linia wyznaczająca pas postoju": "Этот знак обозначает линию, выделяющую полосу для стоянки.",
+            "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Означает ли этот горизонтальный знак зону, исключённую из движения?",
+            "Czy masz obowiązek bezwarunkowo zatrzymać pojazd przed linią złożoną z trójkątów?": "Обязаны ли вы безусловно остановить транспортное средство перед линией, состоящей из треугольников?"
         }
     },
     "not_approved": {
@@ -3281,7 +3283,6 @@
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Означает ли этот горизонтальный знак зону, исключённую из движения?"
+        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?"
     }
 }
