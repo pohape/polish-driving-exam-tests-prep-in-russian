@@ -2309,7 +2309,12 @@
             "Pobocze oddzielone jest linią ciągła": "Обочина отделена сплошной линией.",
             "Czy w przedstawionej sytuacji możesz wyprzedzić rowerzystę jeśli będzie to wymagało nieznacznego przekroczenia linii podwójnej ciągłej?": "Можешь ли ты в данной ситуации обогнать велосипедиста, если это потребует незначительного пересечения двойной сплошной линии?",
             "Zabrania się przejeżdżania przez tę linię i najeżdżania na nią": "Запрещается проезжать через эту линию и наезжать на неё.",
-            "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?"
+            "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
+            "Linia ciągła, a także zakaz wjazdu po skręcie uniemożliwiają skręcenie": "Сплошная линия, а также запрет въезда после поворота делают невозможным поворот.",
+            "Czy widoczna linia podwójna ciągła rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Разделяет ли видимая двойная сплошная линия полосы движения, предназначенные для движения в одном направлении?",
+            "Linia podwójna ciągła oddziela pasy o przeciwnych kierunkach ruchu": "Двойная сплошная линия разделяет полосы с противоположными направлениями движения.",
+            "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu, jeśli prawy pas jest wolny?": "В этой ситуации вы имеете право продолжать движение по левой полосе, если правая полоса свободна?",
+            "Z zamiarem skrętu w lewo można pozostać na tym pasie": "С намерением повернуть налево можно остаться на этой полосе."
         }
     },
     "not_approved": {
@@ -2403,7 +2408,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "Для обгона перед пешеходным переходом, где движение направляется.",
         "Czy zajmujesz właściwy pas ruchu, jeśli na najbliższym skrzyżowaniu zamierzasz skręcić w lewo?": "Занимаете ли вы правильную полосу движения, если вы собираетесь повернуть налево на ближайшем перекрестке?",
-        "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu, jeśli prawy pas jest wolny?": "В этой ситуации вы имеете право продолжать движение по левой полосе, если правая полоса свободна?",
         "Czy w tej sytuacji, włączając się do ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, включаясь в движение, вы обязаны проявлять особую осторожность?",
         "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
@@ -3306,7 +3310,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Linia ciągła, a także zakaz wjazdu po skręcie uniemożliwiają skręcenie": "Сплошная линия, а также запрет въезда после поворота делают невозможным поворот."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
