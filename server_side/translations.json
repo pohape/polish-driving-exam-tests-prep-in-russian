@@ -2286,7 +2286,11 @@
             "Zatrzymałeś się przed przejściem dla pieszych. Czy masz również obowiązek zatrzymać się przed linią widoczną bezpośrednio za przejściem?": "Вы остановились перед пешеходным переходом. Обязаны ли вы также остановиться перед стоп-линией, видимой непосредственно за переходом?",
             "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В данной ситуации у вас есть обязанность сменить текущую полосу движения?",
             "Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Двойная сплошная линия разделяет полосы движения в противоположных направлениях и означает запрет заезжания (пересекания) через эту линию.",
-            "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В данной ситуации разрешается ли вам заезжать на видимую на проезжей части двойную сплошную линию?"
+            "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В данной ситуации разрешается ли вам заезжать на видимую на проезжей части двойную сплошную линию?",
+            "Czy poruszając się tym pasem ruchu, masz obowiązek kontynuować jazdę na wprost przez skrzyżowanie?": "Двигаясь этой полосой движения, обязан ли ты продолжить движение прямо через перекресток?",
+            "Ten pas służy jedynie do jazdy prosto": "Эта полоса предназначена только для движения прямо.",
+            "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
+            "Linia pojedyncza ciągła oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Одиночная сплошная линия разделяет полосы движения в одном и том же направлении и к тому же означает запрет на пересечение (наезд) через линию."
         }
     },
     "not_approved": {
@@ -3177,7 +3181,6 @@
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
         "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
-        "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
         "Hamowanie silnikiem": "Торможение двигателем.",
@@ -3292,7 +3295,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Czy poruszając się tym pasem ruchu, masz obowiązek kontynuować jazdę na wprost przez skrzyżowanie?": "Двигаясь этой полосой движения, обязан ли ты продолжить движение прямо через перекресток?"
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
