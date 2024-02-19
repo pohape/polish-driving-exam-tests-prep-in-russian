@@ -8,8 +8,7 @@
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
         "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
-        "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?",
-        "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Видимый наземный знак разделяет полосы движения, предназначенные для движения в одном направлении?"
+        "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?"
     },
     "approved": {
         "upewninie się": {
@@ -2321,7 +2320,10 @@
             "Czy widoczny znak poziomy w kształcie trójkąta potwierdza ostrzeżenie o skrzyżowaniu z drogą z pierwszeństwem?": "Видимый наземный (горизонтальный) знак в форме треугольника подтверждает предупреждение о перекрестке с главной дорогой?",
             "Czy ten znak poziomy zabrania zmiany pasa ruchu?": "Запрещает ли этот наземный (горизонтальный) знак смену полосы движения?",
             "Oznakowanie poziome uniemożliwia zmianę pasa": "Наземная (горизонтальная) маркировка предотвращает смену полосы движения.",
-            "Czy widoczne znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują?": "Видимые наземные (горизонтальные) знаки в виде стрелок на проезжей части предписывают движение только в указанном направлении с полос движения, на которых они находятся?"
+            "Czy widoczne znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują?": "Видимые наземные (горизонтальные) знаки в виде стрелок на проезжей части предписывают движение только в указанном направлении с полос движения, на которых они находятся?",
+            "Czy widoczny znak poziomy rozdziela pasy ruchu przeznaczone dla ruchu o tym samym kierunku jazdy?": "Разделяет ли видимый наземный (горизонтальный) знак полосы движения, предназначенные для движения в одном направлении?",
+            "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
+            "Linia przerywana wyznacza miejsce zatrzymania przed przejściem dla pieszych": "Пунктирная линия обозначает место остановки перед пешеходным переходом."
         }
     },
     "not_approved": {
@@ -2437,7 +2439,6 @@
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał zielony?": "Будет ли следующий сигнал зеленым в этой ситуации?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
-        "Czy w tej sytuacji widoczna linia przerywana wyznacza Ci miejsce zatrzymania w związku ze znakiem \"stop\"?": "В этой ситуации видимая пунктирная линия обозначает вам место остановки в связи со знаком \"СТОП\"?",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
         "O kolejne trzy miesiące": "Еще на три месяца.",
