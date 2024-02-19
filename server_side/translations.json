@@ -2260,7 +2260,10 @@
             "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
             "Linia widoczna na nagraniu to linia bezwarunkowego zatrzymania. (w związku ze znakiem STOP)": "Видимая на записи линия - это линия безусловной остановки (в связи со знаком СТОП).",
             "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?",
-            "Czy w tej sytuacji masz prawo przejechać na wprost przez skrzyżowanie?": "В этой ситуации вы имеете право проехать прямо через перекресток?"
+            "Czy w tej sytuacji masz prawo przejechać na wprost przez skrzyżowanie?": "В этой ситуации вы имеете право проехать прямо через перекресток?",
+            "Zajmowany pas ruchu służy do skrętu w lewo": "Занятая полоса используется для поворота налево.",
+            "Czy ten znak poziomy pozwala na zawracanie?": "Разрешает ли этот горизонтальный знак разворот?",
+            "Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie": "Стрелка указателя направления, разрешающая поворот налево, установленная на крайней левой полосе, также означает разрешение на разворот."
         }
     },
     "not_approved": {
@@ -2485,7 +2488,6 @@
         "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-        "Zajmowany pas ruchu służy do skrętu w lewo": "Занятая полоса используется для поворота налево.",
         "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
         "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
