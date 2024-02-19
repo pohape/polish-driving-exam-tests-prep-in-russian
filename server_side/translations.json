@@ -2,7 +2,8 @@
     "incorrect": {
         "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией.",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключённой из движения.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?"
+        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
+        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия."
     },
     "approved": {
         "upewninie się": {
@@ -2294,7 +2295,8 @@
             "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
             "Linia pojedyncza ciągła oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Одиночная сплошная линия разделяет полосы движения в одном и том же направлении и к тому же означает запрет на пересечение (наезд) через линию.",
             "Możliwy jest również skręt w prawo": "Также возможен поворот направо.",
-            "Czy na tym skrzyżowaniu wolno Ci skręcić tylko w lewo?": "Можешь ли ты на этом перекрестке повернуть только налево?"
+            "Czy na tym skrzyżowaniu wolno Ci skręcić tylko w lewo?": "Можешь ли ты на этом перекрестке повернуть только налево?",
+            "Zajmowany pas służy do jazdy prosto": "Занимаемая полоса предназначена для движения прямо."
         }
     },
     "not_approved": {
