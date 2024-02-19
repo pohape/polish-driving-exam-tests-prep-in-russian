@@ -4,7 +4,8 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключённой из движения.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
-        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения."
+        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
+        "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?"
     },
     "approved": {
         "upewninie się": {
@@ -2301,7 +2302,9 @@
             "Czy na tym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Разрешено ли тебе на этом перекрестке повернуть направо с текущей полосы движения?",
             "Czy w tej sytuacji wolno Ci wjeżdżać na widoczną z lewej strony powierzchnię jezdni?": "В этой ситуации вам разрешено въезжать на видимую слева поверхность проезжей части?",
             "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
-            "Uniemożliwia to linia podwójna ciągła,": "Это делает невозможным двойная сплошная линия."
+            "Uniemożliwia to linia podwójna ciągła,": "Это делает невозможным двойная сплошная линия.",
+            "Znak ten wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym": "Этот знак указывает место остановки транспортного средства на перекрестке, перед пешеходным переходом или перед светофором.",
+            "Zajmujesz prawy pas ruchu. Czy na skrzyżowaniu wolno Ci skręcić w prawo?": "Вы занимаете правую полосу движения. Разрешено ли вам повернуть направо на перекрестке?"
         }
     },
     "not_approved": {
@@ -2436,7 +2439,6 @@
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
         "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
-        "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли вам повернуть направо по занятой полосе?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Niesprawny rozrusznik": "Неисправный стартер.",
