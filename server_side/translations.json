@@ -24,7 +24,8 @@
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
         "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?",
-        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в представленной ситуации неуступление дороги пешеходу?"
+        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в представленной ситуации неуступление дороги пешеходу?",
+        "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения."
     },
     "approved": {
         "upewninie się": {
@@ -2257,7 +2258,8 @@
             "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Запрещает ли тебе, после поворота налево, видимая на проезжей части поперечная горизонтальная дорожная разметка переезд на крайнюю правую полосу движения?",
             "Ten napis jest powtórzeniem znaku pionowego STOP": "Этот надпись является повторением вертикального знака STOP.",
             "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
-            "Linia widoczna na nagraniu to linia bezwarunkowego zatrzymania. (w związku ze znakiem STOP)": "Видимая на записи линия - это линия безусловной остановки (в связи со знаком СТОП)."
+            "Linia widoczna na nagraniu to linia bezwarunkowego zatrzymania. (w związku ze znakiem STOP)": "Видимая на записи линия - это линия безусловной остановки (в связи со знаком СТОП).",
+            "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?"
         }
     },
     "not_approved": {
@@ -3158,12 +3160,10 @@
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
-        "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
         "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
         "Czy w tym miejscu wolno Ci zmienić pas ruchu na lewy?": "Разрешается ли вам в этом месте перестроиться на левую полосу?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
-        "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Обязывают ли эти горизонтальные знаки изменить полосу движения на соседнюю, указанную стрелкой?",
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
         "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
