@@ -19,7 +19,8 @@
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Вы переводили этот фрагмент ранее, но на всякий случай переведу заново: \"В представленной ситуации произошло неуступление дороги пешеходу?\"",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
-        "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?"
+        "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?",
+        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?"
     },
     "approved": {
         "upewninie się": {
@@ -2215,7 +2216,8 @@
             "Czy wolno Ci przewozić przedszkolaka na kolanach osoby dorosłej?": "Вам разрешено перевозить дошкольника на коленях взрослого?",
             "Tak, jeżeli korzysta się z pasów bezpieczeństwa": "Да, если используются ремни безопасности.",
             "Wymijanie - przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku": "Проезд мимо встречного ТС - проезд (прохождение) мимо транспортного средства или участника движения, движущегося в противоположном направлении.",
-            "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр проезда мимо встречного велосипедиста?"
+            "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр проезда мимо встречного велосипедиста?",
+            "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": "Вы собираетесь повернуть налево. Имеете ли вы на этом перекрестке преимущество перед въезжающим на него ТС?"
         }
     },
     "not_approved": {
@@ -2716,7 +2718,6 @@
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
-        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
@@ -3225,7 +3226,6 @@
         "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
         "Kierujący pojazdem jest obowiązany utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Водитель транспортного средства обязан поддерживать необходимую дистанцию для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?",
-        "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": "Вы собираетесь повернуть налево. Имеете ли вы на этом перекрестке преимущество перед въезжающим на него ТС?",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
