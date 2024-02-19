@@ -2238,7 +2238,8 @@
             "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\".",
             "Kierujesz pojazdem silnikowym. Czy ten znak zabrania Ci wyprzedzania pojazdów silnikowych jednośladowych?": "Вы управляете моторным транспортным средством. Запрещает ли этот знак вам обгон моторных одноколейных транспортных средств?",
             "Czy w tej sytuacji masz obowiązek zachować jedynie ostrożność?": "В этой ситуации ты обязан сохранять только осторожность?",
-            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu, który zamierza wejść na jezdnię?": "В этой ситуации вы обязаны уступить дорогу пешеходу, который собирается выйти на проезжую часть?"
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pieszemu, który zamierza wejść na jezdnię?": "В этой ситуации вы обязаны уступить дорогу пешеходу, который собирается выйти на проезжую часть?",
+            "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?"
         }
     },
     "not_approved": {
@@ -3139,7 +3140,6 @@
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
-        "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Обозначают ли видимые на правой полосе движения горизонтальные знаки начало выезда с автострады?",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
