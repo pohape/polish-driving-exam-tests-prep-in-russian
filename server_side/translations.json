@@ -23,7 +23,8 @@
         "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял свет фургона.",
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
-        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?"
+        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?",
+        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?"
     },
     "approved": {
         "upewninie się": {
@@ -3271,7 +3272,6 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Postawa, w której kierujący ruchem zwrócony jest bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie": "Поза, в которой регулировщик движения обращён боком к приближающимся ТС, означает разрешение на въезд на перекрёсток.",
-        "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в данной ситуации неуступление дороги пешеходу?"
+        "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации."
     }
 }
