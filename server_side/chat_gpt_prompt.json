@@ -300,6 +300,10 @@
         "przyczep": [
             "przyczepa: прицеп",
             "światła przyczepy: фонари прицепа"
+        ],
+        "poziom": [
+            "znak poziomy: наземный знак",
+            "oznakowanie poziome: наземная дорожная разметка"
         ]
     },
     "dictionary_others": {
