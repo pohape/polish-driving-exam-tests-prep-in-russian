@@ -23,7 +23,8 @@
         "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял свет фургона.",
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
         "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
-        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?"
+        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?",
+        "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной помощи, следует сообщить как можно больше важных для спасателей информации."
     },
     "approved": {
         "upewninie się": {
@@ -2251,7 +2252,8 @@
             "Jakie czynniki wpływają na poprawę pola widzenia?": "Какие факторы влияют на улучшение поля зрения?",
             "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany korzystać z przejścia dla pieszych": "Пешеход, пересекая проезжую часть или пути трамвая, обязан пользоваться пешеходным переходом.",
             "Nie zachodzi tu sytuacja niebezpieczna": "Здесь не возникает опасная ситуация.",
-            "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?"
+            "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?",
+            "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?"
         }
     },
     "not_approved": {
@@ -3265,13 +3267,11 @@
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz pierwszeństwo przed pieszym?": "У вас есть преимущество перед пешеходом, если вы намереваетесь повернуть направо в этой ситуации?",
-        "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "У вас есть преимущество перед встречным ТС?",
         "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
-        "Postawa, w której kierujący ruchem zwrócony jest bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie": "Поза, в которой регулировщик движения обращён боком к приближающимся ТС, означает разрешение на въезд на перекрёсток.",
-        "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной помощи, следует сообщить как можно больше важных для спасателей информации."
+        "Postawa, w której kierujący ruchem zwrócony jest bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie": "Поза, в которой регулировщик движения обращён боком к приближающимся ТС, означает разрешение на въезд на перекрёсток."
     }
 }
