@@ -1,5 +1,8 @@
 {
-    "incorrect": [],
+    "incorrect": {
+        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией.",
+        "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В этой ситуации вы обязаны изменить полосу движения, которая в настоящее время занята?"
+    },
     "approved": {
         "upewninie się": {
             "Czy wolno Ci wjechać na widoczny przejazd bezpośrednio po podniesieniu zapór kolejowych bez upewnienia się, czy nie nadjeżdża pociąg?": "Разрешено ли вам въехать на видимый переезд сразу после поднятия шлагбаумов, не убедившись, что поезд не приближается?",
@@ -2279,7 +2282,9 @@
             "Tylko lewy pas umożliwia skręt w lewo": "Только левая полоса позволяет совершить поворот налево.",
             "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie z dowolnego pasa ruchu, jeśli zamierzasz skręcić w lewo?": "В данной ситуации имеешь ли ты право въехать на перекресток с любой полосы движения, если намереваешься повернуть налево?",
             "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
-            "Czy na tym skrzyżowaniu możesz zawrócić z lewego pasa ruchu?": "Можешь ли ты развернуться с левой полосы на этом перекрестке?"
+            "Czy na tym skrzyżowaniu możesz zawrócić z lewego pasa ruchu?": "Можешь ли ты развернуться с левой полосы на этом перекрестке?",
+            "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Разрешено ли тебе в этом месте изменить занятую до сих пор полосу движения на полосу у правого края проезжей части?",
+            "Zatrzymałeś się przed przejściem dla pieszych. Czy masz również obowiązek zatrzymać się przed linią widoczną bezpośrednio za przejściem?": "Вы остановились перед пешеходным переходом. Обязаны ли вы также остановиться перед стоп-линией, видимой непосредственно за переходом?"
         }
     },
     "not_approved": {
@@ -2387,7 +2392,6 @@
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
-        "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В этой ситуации вы обязаны изменить полосу движения, которая в настоящее время занята?",
         "W przedstawionej sytuacji zamierzasz jechać na wprost. Czy musisz się zatrzymać przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь ехать прямо. Нужно ли останавливаться перед въездом на перекресток?",
         "Czego możesz spodziewać się na tak oznakowanej drodze?": "Что вы можете ожидать на такой обозначенной дороге?",
         "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
@@ -2656,7 +2660,6 @@
         "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
-        "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Можешь ли ты в этом месте сменить до сих пор занимаемую полосу движения на полосу у правого края проезжей части?",
         "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
