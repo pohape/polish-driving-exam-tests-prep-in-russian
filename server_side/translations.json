@@ -2271,7 +2271,11 @@
             "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо на зеленый сигнал с текущей полосы движения?",
             "Czy w przedstawionej sytuacji doszło do nieustąpienia pierwszeństwa pieszemu?": "Произошло ли в представленной ситуации игнорирование обязанности уступить дорогу пешеходу?",
             "Linia warunkowego zatrzymania złożona z prostokątów. Znak ten wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym": "Линия условной остановки состоит из прямоугольников. Этот знак указывает место остановки транспортного средства на перекрёстке, перед пешеходным переходом или перед светофором.",
-            "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?"
+            "Czy przerywana linia przed przejściem dla pieszych oznacza miejsce warunkowego zatrzymania?": "Означает ли пунктирная линия перед пешеходным переходом место условной остановки?",
+            "Czy z tego pasa ruchu wolno Ci jechać na wprost?": "Можешь ли ты ехать прямо из этой полосы движения?",
+            "Z tego pasa można skręcać w prawo, oraz jechać prosto": "С этой полосы можно повернуть направо, а также ехать прямо.",
+            "Czy z pasa ruchu, na którym się znajdujesz, dozwolone jest skręcanie w prawo?": "С полосы движения, на которой вы находитесь, разрешен поворот направо?",
+            "Prawy pas nie umożliwia jazdy na wprost przez skrzyżowanie": "Правая полоса не позволяет движение прямо через перекресток."
         }
     },
     "not_approved": {
