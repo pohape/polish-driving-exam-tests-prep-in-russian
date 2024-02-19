@@ -14,7 +14,6 @@
         "Czy w tej sytuacji masz prawo ominąć zaporę i wjechać na przejazd kolejowy po upewnieniu się, że nie nadjeżdża pociąg?": "В этой ситуации имеете ли вы право обойти шлагбаум и въехать на железнодорожный переезд убедившись, что не приближается поезд?",
         "Czy w tej sytuacji wolno Ci zawrócić pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Разрешено ли тебе в этой ситуации развернуться при условии, что убедившись, ты не затруднишь движение другим его участникам?",
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
-        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
         "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?",
         "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право на мгновение остановить транспортное средство на проезжей части для высадки пассажира в этой ситуации?",
         "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял свет фургона.",
@@ -3284,6 +3283,7 @@
         "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
         "Niewłaściwie ustawione światła": "Неправильно настроенные фары.",
         "Czy kierujący pojazdem koloru białego znajdujący się na lewym pasie ruchu w sposób właściwy umożliwia przejazd pojazdu uprzywilejowanego ?": "Правильно ли водитель белого автомобиля, находящегося на левой полосе движения, уступает дорогу проезжающему привилегированному транспортному средству?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных дальних светах?"
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach drogowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных дальних светах?",
+        "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Запрещено ли движение задним ходом на одной проезжей части \"drogi ekspresowej\"?"
     }
 }
