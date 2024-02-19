@@ -2347,7 +2347,12 @@
             "Z tego pasa można tylko skręcić w lewo. Do zawracania służy skrajny lewy pas": "С этой полосы можно только повернуть налево. Для разворота служит крайняя левая полоса.",
             "Czy z pasa ruchu, który zajmujesz, będziesz miał prawo skręcić wyłącznie w lewo?": "С полосы движения, которую ты занимаешь, будешь ли ты иметь право повернуть только налево?",
             "Czy tym pasem ruchu wolno Ci jechać na wprost?": "Можно ли этой полосой движения ехать прямо?",
-            "Pas oznakowany w taki sposób umożliwia wyłącznie zawracanie": "Полоса, обозначенная таким образом, позволяет исключительно делать разворот."
+            "Pas oznakowany w taki sposób umożliwia wyłącznie zawracanie": "Полоса, обозначенная таким образом, позволяет исключительно делать разворот.",
+            "Czy w tej sytuacji masz prawo ominąć przeszkodę wykorzystując część jezdni przeznaczoną dla jadących z przeciwka?": "В этой ситуации имеете ли вы право объехать препятствие, используя часть проезжей части, предназначенную для встречного движения?",
+            "W takiej sytuacji dopuszcza się przekroczenie linii ciągłej": "В такой ситуации допускается пересечение сплошной линии.",
+            "Czy w tej sytuacji znajdujesz się na jezdni dwukierunkowej?": "Ты находишься в этой ситуации на дороге с двусторонним движением?",
+            "Czy w tej sytuacji prawy pas ruchu jest przeznaczony dla każdego pojazdu?": "В этой ситуации правая полоса движения предназначена для любого транспортного средства?",
+            "Czy w tej sytuacji, przejeżdżając przez białą przerywaną linię, zmieniasz pas ruchu?": "В этой ситуации, пересекая белую пунктирную линию, вы меняете полосу движения?"
         }
     },
     "not_approved": {
@@ -2544,7 +2549,6 @@
         "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
         "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
-        "Czy w tej sytuacji, przejeżdżając przez białą przerywaną linię, zmieniasz pas ruchu?": "В этой ситуации, пересекая белую пунктирную линию, вы меняете полосу движения?",
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
@@ -3000,10 +3004,6 @@
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Czy w tej sytuacji masz prawo ominąć przeszkodę wykorzystując część jezdni przeznaczoną dla jadących z przeciwka?": "В этой ситуации имеете ли вы право объехать препятствие, используя часть проезжей части, предназначенную для встречного движения?",
-        "W takiej sytuacji dopuszcza się przekroczenie linii ciągłej": "В такой ситуации допускается пересечение сплошной линии.",
-        "Czy w tej sytuacji znajdujesz się na jezdni dwukierunkowej?": "Ты находишься в этой ситуации на дороге с двусторонним движением?",
-        "Czy w tej sytuacji prawy pas ruchu jest przeznaczony dla każdego pojazdu?": "В этой ситуации правая полоса движения предназначена для любого транспортного средства?",
         "Linia ta oddziela pasy ruchu o tym samym kierunku i oznacza ponadto zakaz przejeżdżania (najeżdżania) przez linię": "Эта линия разделяет полосы движения в одном направлении и кроме того, означает запрет пересекать (наезжать на) линию.",
         "Czy w tej sytuacji, kierując samochodem osobowym, wolno Ci jechać na wprost zajmowanym pasem ruchu?": "В этой ситуации, управляя легковым автомобилем, разрешается ли тебе ехать прямо по занимаемой полосе движения?",
         "Zajmowany pas ruchu umożliwia jedynie skręt w prawo": "Занимаемая полоса движения позволяет только поворот направо.",
