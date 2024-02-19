@@ -3244,6 +3244,7 @@
         "Ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów": "Груз не может выступать сзади транспортного средства на расстояние большее чем 2 м от задней плоскости контура транспортного средства или автопоезда.",
         "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия.",
         "Czy w tej sytuacji masz obowiązek zachować jedynie ostrożność?": "В этой ситуации ты обязан сохранять только осторожность?",
-        "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?"
+        "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
+        "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право на мгновение остановить транспортное средство на проезжей части для высадки пассажира в этой ситуации?"
     }
 }
