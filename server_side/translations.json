@@ -1,7 +1,6 @@
 {
     "incorrect": {
-        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией.",
-        "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В этой ситуации вы обязаны изменить полосу движения, которая в настоящее время занята?"
+        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией."
     },
     "approved": {
         "upewninie się": {
@@ -2284,7 +2283,10 @@
             "Czy na tym skrzyżowaniu masz prawo skręcić w lewo z zajmowanego pasa ruchu?": "Имеешь ли ты право на этом перекрестке повернуть налево с занимаемой полосы движения?",
             "Czy na tym skrzyżowaniu możesz zawrócić z lewego pasa ruchu?": "Можешь ли ты развернуться с левой полосы на этом перекрестке?",
             "Czy w tym miejscu wolno Ci zmienić dotychczas zajmowany pas ruchu na pas przy prawej krawędzi jezdni?": "Разрешено ли тебе в этом месте изменить занятую до сих пор полосу движения на полосу у правого края проезжей части?",
-            "Zatrzymałeś się przed przejściem dla pieszych. Czy masz również obowiązek zatrzymać się przed linią widoczną bezpośrednio za przejściem?": "Вы остановились перед пешеходным переходом. Обязаны ли вы также остановиться перед стоп-линией, видимой непосредственно за переходом?"
+            "Zatrzymałeś się przed przejściem dla pieszych. Czy masz również obowiązek zatrzymać się przed linią widoczną bezpośrednio za przejściem?": "Вы остановились перед пешеходным переходом. Обязаны ли вы также остановиться перед стоп-линией, видимой непосредственно за переходом?",
+            "Czy w tej sytuacji masz obowiązek zmienić obecnie zajmowany pas ruchu?": "В данной ситуации у вас есть обязанность сменить текущую полосу движения?",
+            "Linia podwójna ciągła rozdziela pasy ruchu o kierunkach przeciwnych i oznacza zakaz najeżdżania (przejeżdżania) przez tę linię": "Двойная сплошная линия разделяет полосы движения в противоположных направлениях и означает запрет заезжания (пересекания) через эту линию.",
+            "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В данной ситуации разрешается ли вам заезжать на видимую на проезжей части двойную сплошную линию?"
         }
     },
     "not_approved": {
@@ -2292,7 +2294,6 @@
         "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
-        "Czy w przedstawionej sytuacji wolno Ci najeżdżać na widoczną na jezdni podwójną linię ciągłą?": "В представленной ситуации разрешено ли вам совершать набеги на двойную сплошную линию, видимую на проезжей части?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
@@ -3291,6 +3292,7 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+        "Czy poruszając się tym pasem ruchu, masz obowiązek kontynuować jazdę na wprost przez skrzyżowanie?": "Двигаясь этой полосой движения, обязан ли ты продолжить движение прямо через перекресток?"
     }
 }
