@@ -2324,7 +2324,12 @@
             "Linia przerywana, oddzielająca pasy ruchu jest linią przekraczalną": "Пунктирная линия, разделяющая полосы движения, является линией, которую можно пересекать.",
             "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации разрешено ли тебе перестроиться на левую полосу?",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę zajmowanym pasem, jeżeli dwa pasy po prawej są wolne?": "В данной ситуации, разрешается ли тебе продолжать движение по занятой полосе, если две полосы справа свободны?",
-            "Nie ma wyjścia jeśli nie chce się skręcać w kierunku Borzęcina ;)": "Нет выхода, если не хочешь поворачивать в сторону Борзенцина ;)"
+            "Nie ma wyjścia jeśli nie chce się skręcać w kierunku Borzęcina ;)": "Нет выхода, если не хочешь поворачивать в сторону Борзенцина ;)",
+            "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации разрешается ли тебе еще сменить полосу на правую?",
+            "Czy w tej sytuacji wolno Ci kontynuować jazdę środkowym pasem ruchu?": "В данной ситуации разрешено ли тебе продолжить движение по средней полосе?",
+            "Skrajne prawe pasy kończą się": "Крайние правые полосы заканчиваются.",
+            "Czy dozwolony jest postój na wyznaczonych miejscach dla osób niepełnosprawnych, jeśli nie będzie trwał więcej niż 15 minut?": "Разрешена ли стоянка на специально обозначенных местах для инвалидов, если она не будет длиться более 15 минут?",
+            "Miejsce postojowe jest przeznaczone dla pojazdu osoby niepełnosprawnej": "Парковочное место предназначено для транспортного средства человека с ограниченными возможностями."
         }
     },
     "not_approved": {
@@ -2334,7 +2339,6 @@
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
         "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
-        "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
@@ -2799,7 +2803,6 @@
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Dynamiczna pozycja za kierownicą umożliwia zróżnicowane obserwowanie drogi w zależności od panujących warunków": "Динамичное положение за рулём позволяет разнообразно наблюдать за дорогой в зависимости от господствующих условий.",
         "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
-        "Skrajne prawe pasy kończą się": "Крайние правые полосы заканчиваются.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik jest w ruchu": "Категорически запрещено водителю отходить от транспортного средства, когда двигатель запущен и работает.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
