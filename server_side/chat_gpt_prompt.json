@@ -56,6 +56,7 @@
             "doty"
         ],
         "zatoka przystankowa: остановка общественного транспорта": [
+            "przystan",
             "zatok",
             "zatoc"
         ],
@@ -262,6 +263,7 @@
         "jezdn": [
             "jezdnia: проезжая часть",
             "droga jednojezdniowa: дорога с одной проезжей частью",
+            "drodga ekspresowa jednojezdniowa: \"droga ekspresowa\" с одной проезжей частью",
             "droga dwujezdniowa: дорога с двумя проезжими частями"
         ],
         "dwukierunk": [
@@ -297,6 +299,8 @@
         ]
     },
     "dictionary_others": {
+        "przystan": "linia przystankowa: линия остановки общественного транспорта",
+        "publiczn": "pojazd komunikacji publicznej: общественный транспорт",
         "zachowań": "skłonność do zachowań: склонность к поведению",
         "odcinkow": "odcinkowy pomiar prędkości: измерение средней скорости",
         "oznakowan": "tak oznakowana droga: обозначенная таким образом дорога",
