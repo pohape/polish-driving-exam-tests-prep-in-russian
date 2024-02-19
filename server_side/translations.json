@@ -2218,7 +2218,9 @@
             "Wymijanie - przejeżdżanie (przechodzenie) obok pojazdu lub uczestnika ruchu poruszającego się w przeciwnym kierunku": "Проезд мимо встречного ТС - проезд (прохождение) мимо транспортного средства или участника движения, движущегося в противоположном направлении.",
             "Czy przejeżdżając obok rowerzysty wykonujesz manewr wymijania?": "Выполняете ли вы маневр проезда мимо встречного велосипедиста?",
             "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": "Вы собираетесь повернуть налево. Имеете ли вы на этом перекрестке преимущество перед въезжающим на него ТС?",
-            "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?"
+            "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
+            "Czy masz prawo włączyć światła awaryjne, gdy kierujesz holowanym pojazdem?": "Имеешь ли ты право включить аварийные огни, когда управляешь буксируемым транспортным средством?",
+            "Czy w tej sytuacji masz prawo rozpocząć wyprzedzanie?": "Имеете ли вы право начать обгон в данной ситуации?"
         }
     },
     "not_approved": {
