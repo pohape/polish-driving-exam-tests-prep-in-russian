@@ -296,10 +296,13 @@
         "upewnie": [
             "po upewnieniu się: убедившись",
             "bez upewnienia się: не убедившись"
+        ],
+        "przyczep": [
+            "przyczepa: прицеп",
+            "światła przyczepy: фонари прицепа"
         ]
     },
     "dictionary_others": {
-        "przyczep": "przyczepa: прицеп",
         "chwil": "na chwilę zatrzymać: ненадолго остановить",
         "zagłów": "zagłówek: подголовник",
         "cofa": "cofanie: движение задним ходом",
