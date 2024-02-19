@@ -2253,7 +2253,8 @@
             "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany korzystać z przejścia dla pieszych": "Пешеход, пересекая проезжую часть или пути трамвая, обязан пользоваться пешеходным переходом.",
             "Nie zachodzi tu sytuacja niebezpieczna": "Здесь не возникает опасная ситуация.",
             "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?",
-            "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?"
+            "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?",
+            "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Запрещает ли тебе, после поворота налево, видимая на проезжей части поперечная горизонтальная дорожная разметка переезд на крайнюю правую полосу движения?"
         }
     },
     "not_approved": {
@@ -3275,6 +3276,6 @@
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Запрещает ли тебе, после поворота налево, видимая на проезжей части поперечная горизонтальная дорожная разметка переезд на крайнюю правую полосу движения?"
+        "Ten napis jest powtórzeniem znaku pionowego STOP": "Этот надпись является повторением вертикального знака STOP."
     }
 }
