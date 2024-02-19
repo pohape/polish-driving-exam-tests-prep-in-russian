@@ -2255,7 +2255,9 @@
             "Czy niezwłocznie po zmianie pasa ruchu masz obowiązek wyłączyć kierunkowskaz?": "Должен ли ты немедленно после смены полосы движения выключить указатель поворота?",
             "Czy w tej sytuacji, dzwoniąc pod numer alarmowy, w pierwszej kolejności powinieneś określić miejsce zdarzenia?": "В данной ситуации, звоня на номер экстренной службы, должен ли ты в первую очередь указать место происшествия?",
             "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Запрещает ли тебе, после поворота налево, видимая на проезжей части поперечная горизонтальная дорожная разметка переезд на крайнюю правую полосу движения?",
-            "Ten napis jest powtórzeniem znaku pionowego STOP": "Этот надпись является повторением вертикального знака STOP."
+            "Ten napis jest powtórzeniem znaku pionowego STOP": "Этот надпись является повторением вертикального знака STOP.",
+            "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
+            "Linia widoczna na nagraniu to linia bezwarunkowego zatrzymania. (w związku ze znakiem STOP)": "Видимая на записи линия - это линия безусловной остановки (в связи со знаком СТОП)."
         }
     },
     "not_approved": {
@@ -2532,7 +2534,6 @@
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
-        "Czy w tej sytuacji musisz zatrzymać się bezpośrednio przed linią zatrzymania?": "Нужно ли останавливаться прямо перед стоп-линией в этой ситуации?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
         "Prawo jazdy": "Водительское удостоверение.",
         "Pozwolenie do kierowania tramwajem": "Разрешение на управление трамваем",
