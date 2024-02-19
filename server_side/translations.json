@@ -7,7 +7,8 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
-        "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина."
+        "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
+        "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения."
     },
     "approved": {
         "upewninie się": {
@@ -2318,7 +2319,11 @@
             "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu, jeśli prawy pas jest wolny?": "В этой ситуации вы имеете право продолжать движение по левой полосе, если правая полоса свободна?",
             "Z zamiarem skrętu w lewo można pozostać na tym pasie": "С намерением повернуть налево можно остаться на этой полосе.",
             "Czy w tej sytuacji jedziesz jezdnią o dwóch pasach ruchu?": "В этой ситуации ты едешь по проезжей части с двумя полосами движения?",
-            "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения."
+            "Linia przerywana umożliwia zmianę pasa ruchu": "Прерывистая линия позволяет сменить полосу движения.",
+            "Czy w tej sytuacji wolno Ci jeszcze zmienić pas ruchu na lewy?": "В этой ситуации тебе еще разрешено перестроиться на левую полосу?",
+            "Linia przerywana, oddzielająca pasy ruchu jest linią przekraczalną": "Пунктирная линия, разделяющая полосы движения, является линией, которую можно пересекать.",
+            "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации разрешено ли тебе перестроиться на левую полосу?",
+            "Czy w tej sytuacji wolno Ci kontynuować jazdę zajmowanym pasem, jeżeli dwa pasy po prawej są wolne?": "В данной ситуации, разрешается ли тебе продолжать движение по занятой полосе, если две полосы справа свободны?"
         }
     },
     "not_approved": {
@@ -2449,7 +2454,6 @@
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
-        "Czy w tej sytuacji wolno Ci zmienić pas na lewy?": "В этой ситуации вам разрешено менять полосу движения на левую?",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
@@ -2530,7 +2534,6 @@
         "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-        "Oznakowanie poziome uniemożliwia zmianę pasa": "Горизонтальная маркировка предотвращает смену полосы движения.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
         "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
         "W podstawowej lub okręgowej stacji kontroli pojazdów": "На первичной или районной станции управления транспортными средствами.",
@@ -3313,7 +3316,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Czy w tej sytuacji wolno Ci jeszcze zmienić pas ruchu na lewy?": "В этой ситуации тебе еще разрешено перестроиться на левую полосу?"
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
