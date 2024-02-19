@@ -2332,7 +2332,10 @@
             "Czy dozwolony jest postój na wyznaczonych miejscach dla osób niepełnosprawnych, jeśli nie będzie trwał więcej niż 15 minut?": "Разрешена ли стоянка на специально обозначенных местах для инвалидов, если она не будет длиться более 15 минут?",
             "Miejsce postojowe jest przeznaczone dla pojazdu osoby niepełnosprawnej": "Парковочное место предназначено для транспортного средства человека с ограниченными возможностями.",
             "Do zawracania zdecydowanie nie nadaje się pas do skrętu w prawo": "Для разворота категорически не подходит полоса для поворота направо.",
-            "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "Текущая занятая полоса идеально подходит для этого - о чем свидетельствует горизонтальная разметка."
+            "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "Текущая занятая полоса идеально подходит для этого - о чем свидетельствует горизонтальная разметка.",
+            "Znaki drogowe poziome": "Наземные дорожные знаки",
+            "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
+            "Linia oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия означает запрет пересекания (наезжания) через эту линию с полосы движения, расположенной у сплошной линии."
         }
     },
     "not_approved": {
@@ -2987,11 +2990,9 @@
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
-        "Znaki drogowe poziome": "Дорожные горизонтальные знаки",
         "Wyprzedzanie": "Обгон",
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
-        "Czy w tej sytuacji wolno Ci wjechać na pas ruchu po lewej stronie?": "Разрешается ли вам в этой ситуации заехать на полосу движения по левой стороне?",
         "Linia dzieląca pasy ruchu umożliwia jej przekraczanie w kierunku prawej krawędzi": "Линия, разделяющая полосы движения, позволяет её пересекать в направлении правого края.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
