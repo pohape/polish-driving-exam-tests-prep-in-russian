@@ -1,6 +1,5 @@
 {
     "incorrect": {
-        "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения."
     },
     "approved": {
         "upewninie się": {
@@ -616,6 +615,7 @@
             "Za wymijanie na przejeździe kolejowym": "За обгон на железнодорожном переезде."
         },
         "others": {
+            "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
             "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности предписано, используя автомобильный огнетушитель, избегать полного открытия капота?",
             "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У линии, разделяющей полосы движения - на правой половине проезжей части.",
             "Zdecydowanie przyspieszyć": "Решительно ускориться.",
