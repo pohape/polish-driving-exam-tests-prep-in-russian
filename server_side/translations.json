@@ -2304,7 +2304,12 @@
             "Czy w tej sytuacji wolno Ci skręcić w lewo, aby zaparkować pojazd na chodniku?": "В этой ситуации вам разрешено повернуть налево, чтобы припарковать автомобиль на тротуаре?",
             "Uniemożliwia to linia podwójna ciągła,": "Это делает невозможным двойная сплошная линия.",
             "Znak ten wskazuje miejsce zatrzymania pojazdu na skrzyżowaniu, przed przejściem dla pieszych lub przed sygnałem świetlnym": "Этот знак указывает место остановки транспортного средства на перекрестке, перед пешеходным переходом или перед светофором.",
-            "Zajmujesz prawy pas ruchu. Czy na skrzyżowaniu wolno Ci skręcić w prawo?": "Вы занимаете правую полосу движения. Разрешено ли вам повернуть направо на перекрестке?"
+            "Zajmujesz prawy pas ruchu. Czy na skrzyżowaniu wolno Ci skręcić w prawo?": "Вы занимаете правую полосу движения. Разрешено ли вам повернуть направо на перекрестке?",
+            "Czy w przedstawionej sytuacji możesz zatrzymać pojazd na poboczu?": "Можете ли вы остановить автомобиль на обочине дороги в описанной ситуации?",
+            "Pobocze oddzielone jest linią ciągła": "Обочина отделена сплошной линией.",
+            "Czy w przedstawionej sytuacji możesz wyprzedzić rowerzystę jeśli będzie to wymagało nieznacznego przekroczenia linii podwójnej ciągłej?": "Можешь ли ты в данной ситуации обогнать велосипедиста, если это потребует незначительного пересечения двойной сплошной линии?",
+            "Zabrania się przejeżdżania przez tę linię i najeżdżania na nią": "Запрещается проезжать через эту линию и наезжать на неё.",
+            "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -2402,7 +2407,6 @@
         "Czy w tej sytuacji, włączając się do ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, включаясь в движение, вы обязаны проявлять особую осторожность?",
         "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
-        "Czy w przedstawionej sytuacji możesz zatrzymać pojazd na poboczu?": "Можете ли вы остановить автомобиль на обочине дороги в описанной ситуации?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
         "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы защитите кровотечение из раны при отсутствии стерильной повязки?",
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
@@ -2497,7 +2501,6 @@
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
-        "Czy w przedstawionej sytuacji dozwolony jest skręt w lewo?": "Разрешен ли левый поворот в представленной ситуации?",
         "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
         "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
@@ -3303,6 +3306,7 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+        "Linia ciągła, a także zakaz wjazdu po skręcie uniemożliwiają skręcenie": "Сплошная линия, а также запрет въезда после поворота делают невозможным поворот."
     }
 }
