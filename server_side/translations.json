@@ -2266,7 +2266,9 @@
             "Strzałka kierunkowa zezwalająca na skręcanie w lewo, umieszczona na skrajnym lewym pasie, oznacza także zezwolenie na zawracanie": "Стрелка указателя направления, разрешающая поворот налево, установленная на крайней левой полосе, также означает разрешение на разворот.",
             "Czy ten znak poziomy pozwala na jazdę na wprost tym pasem ruchu?": "Позволяет ли этот горизонтальный знак ехать прямо по этой полосе?",
             "Ten znak nie pozwala na jazdę prosto": "Этот знак не позволяет двигаться прямо.",
-            "Znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Этот знак указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся транспортными средствами общественного транспорта."
+            "Znak ten wskazuje długość odcinka drogi, na którym zabrania się zatrzymywania pojazdów nie będących pojazdami komunikacji publicznej": "Этот знак указывает длину участка дороги, на котором запрещается останавливать транспортные средства, не являющиеся транспортными средствами общественного транспорта.",
+            "Czy ten znak poziomy wyznacza pas postojowy?": "Обозначает ли этот горизонтальный знак парковочную полосу?",
+            "Ten znak to linia wyznaczająca pas postoju": "Этот знак обозначает линию, выделяющую полосу для стоянки."
         }
     },
     "not_approved": {
@@ -2281,7 +2283,6 @@
         "Czy w tej sytuacji wolno Ci jeszcze zmienić pas na prawy?": "В этой ситуации вам все еще разрешено менять полосу движения на правую?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
-        "Czy ten znak poziomy wyznacza pas postojowy?": "Обозначает ли этот горизонтальный знак парковочную полосу?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
         "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные знаки занимать полосу движения у правого края проезжей части?",
         "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
@@ -3280,6 +3281,7 @@
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?"
+        "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
+        "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Означает ли этот горизонтальный знак зону, исключённую из движения?"
     }
 }
