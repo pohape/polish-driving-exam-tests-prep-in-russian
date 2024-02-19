@@ -2235,7 +2235,8 @@
             "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
             "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?": "Как вы разместите груз на прицепе автомобиля?",
             "Gdy wjeżdżasz na obszar zabudowany": "Когда въезжаешь на населенный пункт.",
-            "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\"."
+            "Przed skrzyżowaniem umieszczono znak \"Ustąp pierwszeństwa\"": "Перед перекрестком установлен знак \"Уступи дорогу\".",
+            "Kierujesz pojazdem silnikowym. Czy ten znak zabrania Ci wyprzedzania pojazdów silnikowych jednośladowych?": "Вы управляете моторным транспортным средством. Запрещает ли этот знак вам обгон моторных одноколейных транспортных средств?"
         }
     },
     "not_approved": {
@@ -2541,7 +2542,6 @@
         "Czy pojazd pozostawiony na jezdni za tym znakiem może zostać usunięty na koszt właściciela?": "Может ли автомобиль, оставленный на проезжей части после этого знака, быть отбуксирован за счет владельца?",
         "Znak widoczny na zdjęciu oznacza zakaz zatrzymywania pojazdu. Tabliczka pod znakiem wskazuje, że pozostawiony pojazd zostanie usunięty na koszt właściciela": "Знак, видимый на фотографии, означает запрет остановки транспортного средства. Табличка под знаком указывает, что оставленное транспортное средство будет удалено за счет владельца.",
         "Kierujesz pojazdem silnikowym. Czy ten znak zabrania Ci wyprzedzania pojazdów silnikowych wielośladowych?": "Вы управляете моторным транспортным средством. Запрещает ли этот знак вам обгонять многоколейные ТС?",
-        "Kierujesz pojazdem silnikowym. Czy ten znak zabrania Ci wyprzedzania pojazdów silnikowych jednośladowych?": "Вы управляете моторным транспортным средством. Запрещает ли этот знак вам обгон моторных одноколейных транспортных средств?",
         "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek jezdni, jeżeli nie wymusza to na nadjeżdżającym z przeciwka konieczności zatrzymania się?": "В данной ситуации разрешено ли вам въезжать на суженный участок дороги, если это не вынуждает встречное ТС остановиться?",
         "Znak zabrania kierującym wjazdu lub wejścia na zwężony odcinek jezdni, jeżeli zmusiłoby to kierujących znajdujących się na tym odcinku lub zbliżających się do niego z przeciwnej strony do zatrzymania się lub zmiany toru jazdy": "Знак запрещает водителям въезд или вход на суженный участок дороги, если это вынудило бы водителей, находящихся на этом участке или приближающихся к нему с встречной стороны, остановиться или изменить траекторию движения.",
         "Czy w przedstawionej sytuacji masz obowiązek skręcić wyłącznie w prawo na najbliższym skrzyżowaniu?": "Обязаны ли вы в данной ситуации повернуть исключительно направо на ближайшем перекрестке?",
