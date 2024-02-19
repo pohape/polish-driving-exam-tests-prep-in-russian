@@ -2334,7 +2334,10 @@
             "Czy widoczna poprzeczna linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu?": "Определяет ли видимая поперечная пунктирная линия место условной остановки транспортного средства?",
             "Linia przerywana wyznacza miejsce warunkowego zatrzymania pojazdu": "Пунктирная линия обозначает место условной остановки транспортного средства.",
             "Czy w tej sytuacji wolno Ci wjechać na pas ruchu przy prawej krawędzi jezdni?": "Разрешается ли тебе в этой ситуации въехать на полосу движения у правого края проезжей части?",
-            "Odblaskowe elementy barwy czerwonej wyznaczają prawą krawędź jezdni": "Светоотражающие элементы красного цвета обозначают правый край проезжей части."
+            "Odblaskowe elementy barwy czerwonej wyznaczają prawą krawędź jezdni": "Светоотражающие элементы красного цвета обозначают правый край проезжей части.",
+            "Linia krawędziowa ciągła oznacza zakaz wjazdu na pobocze kierującemu pojazdem samochodowym": "Сплошная линия обочины означает запрет на заезд на обочину водителю автомобильного транспортного средства.",
+            "Czy w tej sytuacji, zajmując prawy pas ruchu, będziesz mógł poprawnie wykonać skręt w lewo?": "В этой ситуации, занимая правую полосу движения, сможешь ли ты правильно выполнить поворот налево?",
+            "Prawy pas jest przeznaczony do jazdy prosto": "Правая полоса предназначена для движения прямо."
         }
     },
     "not_approved": {
@@ -2987,9 +2990,6 @@
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Linia krawędziowa ciągła oznacza zakaz wjazdu na pobocze kierującemu pojazdem samochodowym": "Сплошная линия обочины означает запрет на заезд на обочину водителю автомобильного транспортного средства.",
-        "Czy w tej sytuacji, zajmując prawy pas ruchu, będziesz mógł poprawnie wykonać skręt w lewo?": "В этой ситуации, занимая правую полосу движения, сможешь ли ты правильно выполнить поворот налево?",
-        "Prawy pas jest przeznaczony do jazdy prosto": "Правая полоса предназначена для движения прямо.",
         "Czy w tej sytuacji wolno Ci zmienić pas ruchu i skręcić w prawo?": "В данной ситуации разрешается ли тебе сменить полосу движения и повернуть направо?",
         "Linia dzieląca pasy ruchu (pojedyncza ciągła) jest linią nieprzekraczalną": "Линия, разделяющая полосы движения (одиночная сплошная), является линией, которую нельзя пересекать.",
         "Czy w tej sytuacji wolno Ci jeszcze skręcić w prawo?": "В этой ситуации тебе еще разрешается повернуть направо?",
