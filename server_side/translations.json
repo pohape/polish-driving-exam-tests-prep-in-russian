@@ -8,7 +8,6 @@
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
         "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
-        "Oznakowanie poziome uniemożliwia zmianę pasa": "Наземная (горизонтальная) маркировка предотвращает смену полосы движения.",
         "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?"
     },
     "approved": {
@@ -2319,7 +2318,8 @@
             "Linia oznacza zakaz przejeżdżania (najeżdżania) przez tę linię z pasa ruchu położonego przy linii ciągłej": "Линия означает запрет пересекания (наезжания) через эту линию с полосы движения, расположенной у сплошной линии.",
             "Skręcasz w lewo na skrzyżowaniu. Czy po wjechaniu na jezdnię poprzeczną znaki poziome pozwalają Ci zająć pas ruchu przy prawej krawędzi jezdni?": "Вы поворачиваете налево на перекрестке. Когда вы въезжаете на поперечную проезжую часть, позволяют ли горизонтальные (наземные) знаки занимать полосу движения у правого края проезжей части?",
             "Czy widoczny znak poziomy w kształcie trójkąta potwierdza ostrzeżenie o skrzyżowaniu z drogą z pierwszeństwem?": "Видимый наземный (горизонтальный) знак в форме треугольника подтверждает предупреждение о перекрестке с главной дорогой?",
-            "Czy ten znak poziomy zabrania zmiany pasa ruchu?": "Запрещает ли этот наземный (горизонтальный) знак смену полосы движения?"
+            "Czy ten znak poziomy zabrania zmiany pasa ruchu?": "Запрещает ли этот наземный (горизонтальный) знак смену полосы движения?",
+            "Oznakowanie poziome uniemożliwia zmianę pasa": "Наземная (горизонтальная) маркировка предотвращает смену полосы движения."
         }
     },
     "not_approved": {
