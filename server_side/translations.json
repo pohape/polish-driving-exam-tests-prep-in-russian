@@ -20,11 +20,11 @@
         "Czy w czasie jazdy w nocy masz obowiązek zwiększyć uwagę?": "Вы обязаны увеличить внимание во время ночной езды?",
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
         "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?",
-        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?",
         "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право на мгновение остановить транспортное средство на проезжей части для высадки пассажира в этой ситуации?",
         "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял свет фургона.",
         "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
-        "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера."
+        "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
+        "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Будет ли разрешен поворот направо при зажжении зеленого сигнала со вступающей полосы движения?"
     },
     "approved": {
         "upewninie się": {
@@ -3248,6 +3248,11 @@
         "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия.",
         "Czy w tej sytuacji masz obowiązek zachować jedynie ostrożność?": "В этой ситуации ты обязан сохранять только осторожность?",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
-        "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одной стороны или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м."
+        "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одной стороны или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м.",
+        "Kierujący pojazdem jest obowiązany: przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu": "Водитель транспортного средства обязан: при прохождении мимо встречного ТС соблюдать безопасную дистанцию от проходимого транспортного средства.",
+        "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
+        "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "Текущая занятая полоса идеально подходит для этого - о чем свидетельствует горизонтальная разметка.",
+        "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
+        "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах."
     }
 }
