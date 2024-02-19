@@ -2343,7 +2343,11 @@
             "Czy w tej sytuacji wolno Ci jeszcze skręcić w prawo?": "В этой ситуации тебе еще разрешается повернуть направо?",
             "Pas przeznaczony do skrętu w prawo oddzielony jest pojedyncza, ciągłą linią": "Полоса, предназначенная для поворота направо, отделена одиночной сплошной линией.",
             "Czy w tym miejscu wolno Ci zmienić pas ruchu?": "Разрешается ли тебе в этом месте сменить полосу движения?",
-            "Pojedyncza linia ciągła jest linią nieprzekraczalną": "Одиночная сплошная линия - это линия, которую нельзя пересекать."
+            "Pojedyncza linia ciągła jest linią nieprzekraczalną": "Одиночная сплошная линия - это линия, которую нельзя пересекать.",
+            "Z tego pasa można tylko skręcić w lewo. Do zawracania służy skrajny lewy pas": "С этой полосы можно только повернуть налево. Для разворота служит крайняя левая полоса.",
+            "Czy z pasa ruchu, który zajmujesz, będziesz miał prawo skręcić wyłącznie w lewo?": "С полосы движения, которую ты занимаешь, будешь ли ты иметь право повернуть только налево?",
+            "Czy tym pasem ruchu wolno Ci jechać na wprost?": "Можно ли этой полосой движения ехать прямо?",
+            "Pas oznakowany w taki sposób umożliwia wyłącznie zawracanie": "Полоса, обозначенная таким образом, позволяет исключительно делать разворот."
         }
     },
     "not_approved": {
@@ -2996,10 +3000,6 @@
         "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Czy z pasa ruchu, który zajmujesz, będziesz miał prawo skręcić wyłącznie w lewo?": "С полосы движения, которую ты занимаешь, ты будешь иметь право повернуть только налево?",
-        "Z tego pasa można tylko skręcić w lewo. Do zawracania służy skrajny lewy pas": "С этой полосы можно только повернуть налево. Для разворота служит крайняя левая полоса.",
-        "Czy tym pasem ruchu wolno Ci jechać na wprost?": "Можно ли этой полосой движения ехать прямо?",
-        "Pas oznakowany w taki sposób umożliwia wyłącznie zawracanie": "Полоса, обозначенная таким образом, позволяет исключительно делать разворот.",
         "Czy w tej sytuacji masz prawo ominąć przeszkodę wykorzystując część jezdni przeznaczoną dla jadących z przeciwka?": "В этой ситуации имеете ли вы право объехать препятствие, используя часть проезжей части, предназначенную для встречного движения?",
         "W takiej sytuacji dopuszcza się przekroczenie linii ciągłej": "В такой ситуации допускается пересечение сплошной линии.",
         "Czy w tej sytuacji znajdujesz się na jezdni dwukierunkowej?": "Ты находишься в этой ситуации на дороге с двусторонним движением?",
