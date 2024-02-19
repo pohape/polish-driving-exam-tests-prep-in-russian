@@ -21,7 +21,10 @@
         "Czy cofanie pojazdem na drodze ekspresowej jednojezdniowej jest zabronione?": "Разворот транспортным средством на однополосной \"droga ekspresowa\" запрещен?",
         "Na którym zdjęciu zagłówek jest dobrze ustawiony?": "На каком фото подголовник (заголовок сиденья) настроен правильно?",
         "Czy po zapaleniu sygnału zielonego dozwolona będzie jazda w prawo z obecnie zajmowanego pasa ruchu?": "Разрешено ли движение направо после загорания зеленого сигнала светофора с текущей занятой полосы движения?",
-        "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право на мгновение остановить транспортное средство на проезжей части для высадки пассажира в этой ситуации?"
+        "Czy w tej sytuacji masz prawo na chwilę zatrzymać pojazd na jezdni w celu wysadzenia pasażera?": "Имеешь ли ты право на мгновение остановить транспортное средство на проезжей части для высадки пассажира в этой ситуации?",
+        "Tak, aby nie zasłaniał świateł przyczepy": "Так, чтобы не заслонял свет фургона.",
+        "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
+        "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера."
     },
     "approved": {
         "upewninie się": {
@@ -2225,7 +2228,12 @@
             "Kierujesz pojazdem z prędkością 30 km\/h. Czy w tej sytuacji powinieneś zatrzymać pojazd przed sygnalizatorem?": "Вы управляете транспортным средством со скоростью 30 км\/ч. Должны ли вы в этой ситуации остановить транспортное средство перед светофором?",
             "Gaśnica umieszczona jest na tylnej półce": "Огнетушитель размещен на задней полке.",
             "Gaśnica umieszczona jest luźno między siedzeniami": "Огнетушитель свободно расположен между сиденьями.",
-            "Gaśnica zamocowana pod fotelem pasażera": "Огнетушитель закреплен под пассажирским сиденьем."
+            "Gaśnica zamocowana pod fotelem pasażera": "Огнетушитель закреплен под пассажирским сиденьем.",
+            "Który z wymienionych sposobów przewożenia gaśnicy w samochodzie osobowym jest właściwy?": "Какой из перечисленных способов перевозки огнетушителя в легковом автомобиле является правильным?",
+            "Tak, w każdym przypadku": "Да, в любом случае.",
+            "Tak, jeżeli wynika to z orzeczenia lekarskiego": "Да, если это следует из медицинского заключения.",
+            "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
+            "W jaki sposób umieścisz ładunek na przyczepie samochodu osobowego?": "Как вы разместите груз на прицепе автомобиля?"
         }
     },
     "not_approved": {
@@ -2471,8 +2479,6 @@
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
         "W dowolny sposób": "Любым способом.",
-        "Umieszczę go po jednej stronie przyczepy": "Я положу его на одну сторону трейлера.",
-        "Umieszczę go zawsze w tylnej części przyczepy": "Я всегда помещаю его в заднюю часть трейлера.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
@@ -2606,9 +2612,6 @@
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
-        "Tak, w każdym przypadku": "Да, в любом случае.",
-        "Czy międzynarodowe prawo jazdy może być wydane na okres dłuższy niż 3 lata?": "Может ли международные водительские права быть выданы на срок более 3 лет?",
-        "Tak, jeżeli wynika to z orzeczenia lekarskiego": "Да, если это следует из медицинского заключения.",
         "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
         "Zabrania się zawracania na moście": "Запрещается разворот на мосту.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
@@ -2801,7 +2804,6 @@
         "Oznaczanie niesprawnych tylnych świateł pozycyjnych poruszającego się pojazdu": "Обозначение неисправных задних габаритных огней движущегося транспортного средства.",
         "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
         "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что эта особа пользуется ремнями безопасности.",
-        "Który z wymienionych sposobów przewożenia gaśnicy w samochodzie osobowym jest właściwy?": "Какой из перечисленных способов перевозки огнетушителя в легковом автомобиле является правильным?",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
