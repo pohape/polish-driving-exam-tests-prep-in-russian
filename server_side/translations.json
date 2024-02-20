@@ -1,7 +1,5 @@
 {
     "incorrect": {
-        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
-        "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
         "Dwa pasy ruchu + pobocze": "Два полосы движения + обочина.",
         "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?",
@@ -10,7 +8,8 @@
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
-        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия."
+        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
+        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения."
     },
     "approved": {
         "upewninie się": {
@@ -2374,7 +2373,8 @@
             "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Этот наземный знак означает зону, исключенную из движения?",
             "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
             "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Определяют ли видимые на правой полосе движения наземные (горизонтальные) знаки начало выезда с автострады?",
-            "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Остановка должна произойти перед линией безусловной остановки."
+            "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Остановка должна произойти перед линией безусловной остановки.",
+            "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешено ли тебе повернуть направо с занятой полосы движения?"
         }
     },
     "not_approved": {
