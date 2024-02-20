@@ -1,7 +1,6 @@
 {
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
-        "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
@@ -2375,7 +2374,8 @@
             "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Вы в этой ситуации едете по дороге с односторонним движением?",
             "Dwa pasy ruchu + pobocze": "Две полосы движения + обочина.",
             "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Будет ли разрешено разворачиваться с текущей занятой полосы движения после включения зелёного сигнала?",
-            "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "В настоящий момент занимаемая полоса вполне подходит для этого, что подтверждает наземная (горизонтальная) разметка."
+            "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "В настоящий момент занимаемая полоса вполне подходит для этого, что подтверждает наземная (горизонтальная) разметка.",
+            "Nie zastosowano tu żadnej ciągłej linii": "Здесь не использована никакая сплошная линия."
         }
     },
     "not_approved": {
