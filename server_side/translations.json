@@ -11,7 +11,8 @@
         "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?",
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
-        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов."
+        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
+        "Czy te znaki poziome nakazują zmianę pasa ruchu na sąsiedni, wskazany strzałką?": "Вопрос: \"Эти наземные знаки предписывают изменение полосы движения на соседнюю, указанную стрелкой?\""
     },
     "approved": {
         "upewninie się": {
@@ -2365,7 +2366,8 @@
             "Czy na tym pasie ruchu jazda jest dozwolona tylko w kierunku wskazanym strzałką?": "Разрешено ли движение в этой полосе только в направлении, указанном стрелкой?",
             "Na jezdni w formie poziomej umieszczono znak ostrzegawczy": "На проезжей части в виде наземного (горизонтального) знака разместили предупреждающий знак.",
             "Wynika to z oznakowania poziomego": "Это вытекает из наземной (горизонтальной) разметки.",
-            "Czy widoczny na jezdni znak \"stop\" uprzedza o zbliżaniu się do drogi z pierwszeństwem przejazdu?": "Видимый на проезжей части знак \"стоп\" предупреждает о приближении к главной дороге?"
+            "Czy widoczny na jezdni znak \"stop\" uprzedza o zbliżaniu się do drogi z pierwszeństwem przejazdu?": "Видимый на проезжей части знак \"стоп\" предупреждает о приближении к главной дороге?",
+            "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Запрещает ли вам наземная (горизонтальная) разметка, видимая на проезжей части после поворота налево, перестроиться на крайнюю правую полосу движения?"
         }
     },
     "not_approved": {
@@ -3311,7 +3313,6 @@
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можете ли вы продолжать движение прямо через линию остановки?",
-        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-        "Czy po skręceniu w lewo, widoczne na jezdni poprzecznej oznakowanie poziome zabrania Ci przejechać na prawy skrajny pas ruchu?": "Вопрос: \"Запрещает ли вам наземная (горизонтальная) разметка, видимая на пересекаемой проезжей части после поворота налево, перестроиться на крайнюю правую полосу движения?\""
+        "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
     }
 }
