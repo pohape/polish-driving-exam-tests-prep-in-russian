@@ -1,6 +1,5 @@
 {
     "incorrect": {
-        "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Необходимо осуществить остановку перед безусловной стоп-линией.",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключённой из движения.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
@@ -2374,7 +2373,8 @@
             "Czy ten znak poziomy wyznacza pas postojowy?": "Этот наземный знак обозначает полосу стоянки?",
             "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Этот наземный знак означает зону, исключенную из движения?",
             "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
-            "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Определяют ли видимые на правой полосе движения наземные (горизонтальные) знаки начало выезда с автострады?"
+            "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Определяют ли видимые на правой полосе движения наземные (горизонтальные) знаки начало выезда с автострады?",
+            "Musi nastąpić zatrzymanie przed linią bezwarunkowego zatrzymania": "Остановка должна произойти перед линией безусловной остановки."
         }
     },
     "not_approved": {
