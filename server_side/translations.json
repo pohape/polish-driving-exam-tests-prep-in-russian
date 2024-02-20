@@ -1,8 +1,5 @@
 {
     "incorrect": {
-        "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключённой из движения.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
-        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, отключенная от движения.",
         "Czy zajmowanego pasa ruchu wolno Ci skręcic w prawo?": "Разрешается ли тебе сменить полосу движения, чтобы повернуть направо?",
         "Czy w tej sytuacji jedziesz drogą jednokierunkową?": "Ведешь ли ты в этой ситуации по дороге с односторонним движением?",
@@ -10,7 +7,10 @@
         "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Разрешено ли разворачиваться с текущей занимаемой полосы движения после загорания зеленого сигнала?",
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Nie zastosowano tu żadnej ciągłej linii": "Здесь не применили никакой сплошной линии.",
-        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов."
+        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
+        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
+        "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
+        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия."
     },
     "approved": {
         "upewninie się": {
