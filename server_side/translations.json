@@ -5,7 +5,8 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
-        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения."
+        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
+        "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения"
     },
     "approved": {
         "upewninie się": {
@@ -2375,7 +2376,10 @@
             "Dwa pasy ruchu + pobocze": "Две полосы движения + обочина.",
             "Czy po zapaleniu sygnału zielonego dozwolone będzie zawracanie z obecnie zajmowanego pasa ruchu?": "Будет ли разрешено разворачиваться с текущей занятой полосы движения после включения зелёного сигнала?",
             "Obecnie zajmowany pas idealnie się do tego nadaje - o czym świadczy oznakowanie poziome": "В настоящий момент занимаемая полоса вполне подходит для этого, что подтверждает наземная (горизонтальная) разметка.",
-            "Nie zastosowano tu żadnej ciągłej linii": "Здесь не использована никакая сплошная линия."
+            "Nie zastosowano tu żadnej ciągłej linii": "Здесь не использована никакая сплошная линия.",
+            "Wyprzedzanie": "Обгон",
+            "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
+            "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства."
         }
     },
     "not_approved": {
@@ -2668,7 +2672,6 @@
         "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
         "Akcje ratunkowe": "Спасательные действия",
         "Odstępy i hamowanie pojazdu": "Интервалы и торможение транспортного средства",
-        "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения",
         "Różne pola widzenia kierowców": "Разное поле зрения водителей",
         "Technika kierowania pojazdem": "Техника управления автомобилем",
         "Wyposażenie pojazdu związane z bezpieczeństwem, korzystanie z pasów, zagłówków i fotelików": "Оборудование автомобиля, связанное с безопасностью, использование ремней безопасности, подголовников и детских кресел.",
@@ -3022,8 +3025,6 @@
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
-        "Wyprzedzanie": "Обгон",
-        "Znaczenie zachowania szczególnej ostrożności w stosunku do innych użytkowników drogi, wysiadanie z pojazdu, zabezpieczenie pojazdu": "Значение проявления особой осторожности по отношению к другим участникам дорожного движения, высадка из транспортного средства, обеспечение безопасности транспортного средства.",
         "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
@@ -3220,7 +3221,6 @@
         "Kierujący pojazdem jest obowiązany w warunkach zmniejszonej przejrzystości powietrza poza obszarem zabudowanym podczas mgły dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "Водитель транспортного средства обязан в условиях пониженной видимости в местности во время тумана подавать кратковременные звуковые сигналы во время обгона или объезда.",
         "Do kierowania czterokołowcem innym niż lekki uprawnia prawo jazdy kat B1": "Для управления так называемым \"czterokołowcem\", отличным от лёгкого, разрешает водительское удостоверение категории B1.",
         "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
-        "Omijanie, wymijanie, cofanie": "Объезд, проезд мимо встречного ТС, движение задним ходом",
         "Ten znak wskazuje przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
         "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации разрешено ли тебе въехать на перекресток без остановки?",
         "Czy w tej sytuacji wolno Ci wykorzystać widoczną po lewej stronie powierzchnię jezdni do parkowania pojazdu?": "Разрешается ли тебе в этой ситуации использовать видимую слева поверхность проезжей части для парковки твоего транспортного средства?",
