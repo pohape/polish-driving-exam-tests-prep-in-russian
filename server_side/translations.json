@@ -2373,7 +2373,8 @@
             "Czy możesz kontynuować jazdę na wprost przez linię przystankową?": "Можешь ли ты продолжить движение прямо через линию остановки общественного транспорта?",
             "Czy ten znak poziomy wyznacza pas postojowy?": "Этот наземный знак обозначает полосу стоянки?",
             "Czy ten znak poziomy oznacza obszar wyłączony z ruchu?": "Этот наземный знак означает зону, исключенную из движения?",
-            "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться."
+            "Linia złożona z trójkątów nie zobowiązuje do zatrzymania": "Линия, состоящая из треугольников, не обязывает остановиться.",
+            "Czy widoczne na prawym pasie ruchu znaki poziome wyznaczają początek wyjazdu z autostrady?": "Определяют ли видимые на правой полосе движения наземные (горизонтальные) знаки начало выезда с автострады?"
         }
     },
     "not_approved": {
