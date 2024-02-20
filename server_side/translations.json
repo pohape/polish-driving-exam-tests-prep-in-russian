@@ -5,10 +5,7 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
-        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Dopuszczalne prędkości pojazdu, ograniczenia": "Допустимые скорости транспортного средства, ограничения",
-        "Odstępy i hamowanie pojazdu": "Интервалы и торможение транспортного средства",
-        "Różne pola widzenia kierowców": "Разное поле зрения водителей"
+        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения."
     },
     "approved": {
         "upewninie się": {
@@ -2386,7 +2383,11 @@
             "Technika kierowania pojazdem": "Техника управления автомобилем",
             "Obowiązki właściciela\/posiadacza pojazdu, ubezpieczenia, wymagane dokumenty": "Обязанности владельца\/держателя транспортного средства, страхование, необходимые документы",
             "Aspekty mechaniczne związane z zachowaniem bezpieczeństwa na drodze": "Механические аспекты, связанные с обеспечением безопасности на дороге.",
-            "Akcje ratunkowe": "Спасательные действия"
+            "Akcje ratunkowe": "Спасательные действия",
+            "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком",
+            "Dopuszczalne prędkości pojazdu, ograniczenia": "Допускаемые скорости транспортного средства, ограничения",
+            "Odstępy i hamowanie pojazdu": "Дистанция и торможение транспортного средства",
+            "Różne pola widzenia kierowców": "Различные поля зрения водителей."
         }
     },
     "not_approved": {
@@ -3264,7 +3265,6 @@
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
-        "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком движения",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы имеете преимущество перед ТС, приближающимся слева, поворачивая налево на этом перекрестке?",
         "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?",
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
