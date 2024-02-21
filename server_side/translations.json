@@ -2414,7 +2414,11 @@
             "Czy w tej sytuacji wolno Ci wjechać na zwężony odcinek drogi bez zatrzymania się przed sygnalizatorem?": "В этой ситуации разрешается ли Вам въехать на суженный участок дороги без остановки перед светофором?",
             "Sygnał zielony - zezwolenie na wjazd za sygnalizator": "Зеленый сигнал - разрешение на проезд за светофор.",
             "Policjant umożliwia opuszczenie skrzyżowania pojazdowi nadjeżdżającemu z przeciwka": "Полицейский предоставляет возможность покинуть перекресток приближающемуся встречному транспортному средству.",
-            "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "Разрешает ли в данной ситуации сигнал, подаваемый полицейским, въезд на перекресток?"
+            "Czy w tej sytuacji sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie?": "Разрешает ли в данной ситуации сигнал, подаваемый полицейским, въезд на перекресток?",
+            "Policjant w tej chwili zajmuje się pojazdem z przeciwka": "Полицейский в данный момент занимается встречным ТС.",
+            "Czy ten sygnał oznacza, że wolno Ci wjechać na przejście dla pieszych i przejazd dla rowerzystów?": "Означает ли этот сигнал, что тебе разрешается заехать на пешеходный переход и велосипедный переезд?",
+            "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie?": "Разрешается ли тебе в этой ситуации заехать на перекресток?",
+            "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся ТС, означает запрет въезда на перекресток."
         }
     },
     "not_approved": {
