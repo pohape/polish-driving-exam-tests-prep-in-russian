@@ -2419,7 +2419,9 @@
             "Czy ten sygnał oznacza, że wolno Ci wjechać na przejście dla pieszych i przejazd dla rowerzystów?": "Означает ли этот сигнал, что тебе разрешается заехать на пешеходный переход и велосипедный переезд?",
             "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie?": "Разрешается ли тебе в этой ситуации заехать на перекресток?",
             "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся ТС, означает запрет въезда на перекресток.",
-            "Czy taka postawa policjanta oznacza, że masz prawo skręcić w prawo?": "Значит ли такая поза полицейского, что у тебя есть право повернуть направо?"
+            "Czy taka postawa policjanta oznacza, że masz prawo skręcić w prawo?": "Значит ли такая поза полицейского, что у тебя есть право повернуть направо?",
+            "Czy w tej sytuacji, zamierzając skręcić w prawo, masz pierwszeństwo przed pieszym?": "У вас есть преимущество перед пешеходом, если вы намереваетесь повернуть направо в этой ситуации?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?"
         }
     },
     "not_approved": {
@@ -2485,7 +2487,6 @@
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию.",
         "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
-        "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
@@ -3332,7 +3333,6 @@
         "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
-        "Czy w tej sytuacji, zamierzając skręcić w prawo, masz pierwszeństwo przed pieszym?": "У вас есть преимущество перед пешеходом, если вы намереваетесь повернуть направо в этой ситуации?",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
