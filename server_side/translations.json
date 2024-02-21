@@ -2421,7 +2421,9 @@
             "Postawa, w której kierujący ruchem zwrócony jest przodem lub tyłem do nadjeżdżających pojazdów oznacza zakaz wjazdu na skrzyżowanie": "Позиция, в которой регулировщик обращён лицом или спиной к приближающимся ТС, означает запрет въезда на перекресток.",
             "Czy taka postawa policjanta oznacza, że masz prawo skręcić w prawo?": "Значит ли такая поза полицейского, что у тебя есть право повернуть направо?",
             "Czy w tej sytuacji, zamierzając skręcić w prawo, masz pierwszeństwo przed pieszym?": "У вас есть преимущество перед пешеходом, если вы намереваетесь повернуть направо в этой ситуации?",
-            "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации вы обязаны остановиться перед перекрестком?",
+            "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych?": "В этой ситуации у тебя есть право проехать через пешеходный переход?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd we wskazanym miejscu?": "В данной ситуации вы обязаны остановить транспортное средство в указанном месте?"
         }
     },
     "not_approved": {
@@ -3339,6 +3341,7 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
+        "Przykry to moment": "Печальный это момент..."
     }
 }
