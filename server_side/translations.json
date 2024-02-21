@@ -2432,7 +2432,11 @@
             "Czy w tej sytuacji wolno Ci wjechać za sygnalizator bez zatrzymania się?": "В этой ситуации разрешается ли тебе проехать за светофор без остановки?",
             "Czy w tej sytuacji migający sygnał świetlny zakazuje Ci wjazdu na przejazd tramwajowy?": "В данной ситуации мигающий световой сигнал запрещает вам въезд на трамвайный переезд?",
             "Czy w tej sytuacji nadawany sygnał świetlny oznacza, że podczas jazdy w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "В этой ситуации передаваемый световой сигнал означает, что во время поворота налево не возникает конфликта с другими участниками движения?",
-            "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?"
+            "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie bez zatrzymania się przed linią złożoną z trójkątów?": "В этой ситуации ты имеешь право въехать на перекресток без остановки перед линией, состоящей из треугольников?",
+            "Czy masz obowiązek stosowania się do poleceń i sygnałów dawanych przez osobę wykonującą roboty na drodze na zlecenie zarządcy drogi?": "Обязаны ли вы следовать указаниям и сигналам, данные человеком выполняющим работы на дороге по поручению управляющего дорогой?",
+            "Polecenia lub sygnały może dawać uczestnikowi ruchu lub innej osobie znajdującej się na drodze osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi": "Команды или сигналы может давать участнику движения или другому лицу, находящемуся на дороге, лицо, действующее от имени управляющего дорогой, или лицо, выполняющее работы на дороге по поручению или с согласия управляющего дорогой.",
+            "Czy osoba wykonująca na zlecenie lub za zgodą zarządcy drogi roboty na drodze może dawać uczestnikowi drogi polecenia lub sygnały?": "Может ли лицо, выполняющее по заказу или с согласия управляющего дорогой работы на дороге, давать участнику дороги указания или сигналы?",
+            "Taka osoba może być uprawniona do kierowania ruchem drogowym": "Такое лицо может быть уполномочено на управление дорожным движением."
         }
     },
     "not_approved": {
@@ -3128,7 +3132,6 @@
         "Odpowiednio wcześnie, tak aby uniknąć hamowania na łuku drogi": "Своевременно, чтобы избежать торможения на повороте дороги.",
         "Wjeżdżając w łuk": "Въезжая на изгиб.",
         "W którym momencie, kierując motocyklem, powinieneś rozpocząć hamowanie zamierzając pokonać ostry łuk drogi?": "В какой момент, управляя мотоциклом, ты должен начать торможение, намереваясь преодолеть крутой поворот дороги?",
-        "Czy osoba wykonująca na zlecenie lub za zgodą zarządcy drogi roboty na drodze może dawać uczestnikowi drogi polecenia lub sygnały?": "Может ли лицо, выполняющее по заказу или с согласия управляющего дорогой работы на дороге, давать участнику дороги указания или сигналы?",
         "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
@@ -3348,7 +3351,6 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
-        "Czy masz obowiązek stosowania się do poleceń i sygnałów dawanych przez osobę wykonującą roboty na drodze na zlecenie zarządcy drogi?": "Обязаны ли вы следовать указаниям и сигналам, данные человеком выполняющим работы на дороге по поручению управляющего дорогой?"
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
     }
 }
