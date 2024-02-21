@@ -6,8 +6,7 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который подает полицейский, въезд на перекресток?"
+        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?"
     },
     "approved": {
         "upewninie się": {
@@ -2402,7 +2401,10 @@
             "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
             "Czy w tej sytuacji skręcanie w prawo jest zabronione nawet wtedy, gdy nie utrudni to poruszania się innym uczestnikom ruchu drogowego?": "В данной ситуации запрещен ли поворот направо даже тогда, когда это не усложнит движение другим участникам дорожного движения?",
             "Czy widoczny sygnał dawany przez osobę uprawnioną oznacza, że za chwilę będzie Ci wolno wjechać na skrzyżowanie?": "Видимый сигнал, подаваемый уполномоченным лицом, означает, что вскоре тебе будет разрешено въехать на перекресток?",
-            "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим движение, означает, что в скором времени произойдёт изменение ранее подаваемого сигнала."
+            "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим движение, означает, что в скором времени произойдёт изменение ранее подаваемого сигнала.",
+            "Czy w przedstawionej sytuacji masz obowiązek zatrzymać się?": "Вы обязаны остановиться в представленной ситуации?",
+            "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
+            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?"
         }
     },
     "not_approved": {
@@ -2475,7 +2477,6 @@
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
         "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?": "Разрешается ли вам проехать через видимый переезд после трогания автомобиля, находящегося перед вами, без повторной остановки?",
         "Czy w przedstawionej sytuacji widzisz kończący się pas ruchu dla rowerzystów?": "Видите ли вы заканчивающуюся полосу движения для велосипедистов в представленной ситуации?",
-        "Czy w przedstawionej sytuacji masz obowiązek zatrzymać się?": "Вы обязаны остановиться в представленной ситуации?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 przejeżdża przed pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 3 первым, а транспортное средство № 2 вторым?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
@@ -2567,7 +2568,6 @@
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
-        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
@@ -3329,7 +3329,7 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
     }
 }
