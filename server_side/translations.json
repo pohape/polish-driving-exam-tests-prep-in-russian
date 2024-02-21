@@ -2404,7 +2404,11 @@
             "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим движение, означает, что в скором времени произойдёт изменение ранее подаваемого сигнала.",
             "Czy w przedstawionej sytuacji masz obowiązek zatrzymać się?": "Вы обязаны остановиться в представленной ситуации?",
             "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
-            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?"
+            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału świetlnego?": "В этой ситуации вы обязаны соблюдать световой сигнал?",
+            "Czy w tej sytuacji nadawane sygnały świetlne zabraniają wjazdu za sygnalizator?": "В данной ситуации излучаемые световые сигналы запрещают въезд за светофор?",
+            "Sygnał czerwony i żółty nadawane jednocześnie - zakaz wjazdu za sygnalizator; sygnały te oznaczają także, że za chwilę zapali się sygnał zielony": "Красный и желтый сигналы, подаваемые одновременно - запрет въезда за светофор; эти сигналы также означают, что через мгновение загорится зеленый сигнал.",
+            "Czy w tej sytuacji sygnał świetlny zabrania wjazdu za sygnalizator kierowcom jadącym na wprost?": "В этой ситуации световой сигнал запрещает проезд за светофор водителям, едущим прямо?",
+            "Ten sygnalizator zezwala jedynie na warunkowy wjazd skręcającym w prawo": "Этот светофор разрешает проезд только при условии поворота направо."
         }
     },
     "not_approved": {
