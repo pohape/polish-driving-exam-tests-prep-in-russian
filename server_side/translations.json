@@ -6,7 +6,8 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим дорожное движение, означает, что в скором времени произойдет изменение доселе передаваемого сигнала."
+        "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим дорожное движение, означает, что в скором времени произойдет изменение доселе передаваемого сигнала.",
+        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?"
     },
     "approved": {
         "upewninie się": {
@@ -2395,7 +2396,10 @@
             "Czy za chwilę będzie dawany sygnał zakazujący wjazdu?": "Будет ли в ближайшее время подан сигнал о запрете въезда?",
             "Czy w tej sytuacji zabroniony jest Twój wjazd na skrzyżowanie?": "В данной ситуации запрещен ли ваш заезд на перекрёсток?",
             "Postawa, w której kierujący ruchem zwrócony jest bokiem do nadjeżdżających pojazdów, oznacza zezwolenie na wjazd na skrzyżowanie": "Поза, в которой регулировщик движения обращён боком к приближающимся ТС, означает разрешение на въезд на перекрёсток.",
-            "Czy następny sygnał będzie Ci zabraniał wjazdu na skrzyżowanie?": "Запретит ли следующий сигнал въезд на перекресток?"
+            "Czy następny sygnał będzie Ci zabraniał wjazdu na skrzyżowanie?": "Запретит ли следующий сигнал въезд на перекресток?",
+            "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału. Za chwilę policjant ustawi się bokiem": "Поднятие руки вверх регулировщиком означает, что через мгновение произойдет изменение до сих пор подаваемого сигнала. Через мгновение полицейский встанет боком.",
+            "Jest to osoba uprawniona do kierowania ruchem drogowym": "Это лицо, уполномоченное управлять дорожным движением.",
+            "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -2437,7 +2441,6 @@
         "W każdym przypadku zwiększyć biegi o dwa": "В каждом случае увеличьте передачи на два.",
         "Czy dozwolone jest zatrzymanie samochodu osobowego na drodze dla rowerów, jeżeli pozostanie co najmniej 1,5 m szerokości dla rowerzystów?": "Разрешено ли останавливать легковой автомобиль на дороге для велосипедов, если для велосипедистов остается не менее 1,5 м в ширину?",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
-        "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Tylko lekarz": "Только врач.",
@@ -3324,7 +3327,6 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "Polecania kierującego ruchem są ważniejsze od sygnalizacji": "Указания регулировщика имеют более высокий приоритет, чем сигналы светофора.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału. Za chwilę policjant ustawi się bokiem": "Поднятие руки вверх регулировщиком означает, что через мгновение произойдет изменение до сих пор подаваемого сигнала. Через мгновение полицейский встанет боком."
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
     }
 }
