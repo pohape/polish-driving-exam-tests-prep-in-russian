@@ -2436,7 +2436,9 @@
             "Czy masz obowiązek stosowania się do poleceń i sygnałów dawanych przez osobę wykonującą roboty na drodze na zlecenie zarządcy drogi?": "Обязаны ли вы следовать указаниям и сигналам, данные человеком выполняющим работы на дороге по поручению управляющего дорогой?",
             "Polecenia lub sygnały może dawać uczestnikowi ruchu lub innej osobie znajdującej się na drodze osoba działająca w imieniu zarządcy drogi lub osoba wykonująca roboty na drodze na zlecenie lub za zgodą zarządcy drogi": "Команды или сигналы может давать участнику движения или другому лицу, находящемуся на дороге, лицо, действующее от имени управляющего дорогой, или лицо, выполняющее работы на дороге по поручению или с согласия управляющего дорогой.",
             "Czy osoba wykonująca na zlecenie lub za zgodą zarządcy drogi roboty na drodze może dawać uczestnikowi drogi polecenia lub sygnały?": "Может ли лицо, выполняющее по заказу или с согласия управляющего дорогой работы на дороге, давать участнику дороги указания или сигналы?",
-            "Taka osoba może być uprawniona do kierowania ruchem drogowym": "Такое лицо может быть уполномочено на управление дорожным движением."
+            "Taka osoba może być uprawniona do kierowania ruchem drogowym": "Такое лицо может быть уполномочено на управление дорожным движением.",
+            "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
+            "Taka postawa i gesty policjanta umożliwiają wykonanie skrętu w lewo": "Такая позиция и жесты полицейского позволяют выполнить поворот налево."
         }
     },
     "not_approved": {
@@ -2627,7 +2629,6 @@
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
-        "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
@@ -3351,6 +3352,7 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
+        "Czy w tej sytuacji wolno Ci kontynuować jazdę przez skrzyżowanie?": "Разрешается ли тебе в этой ситуации продолжать движение через перекресток?"
     }
 }
