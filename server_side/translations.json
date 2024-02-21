@@ -6,8 +6,8 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим дорожное движение, означает, что в скором времени произойдет изменение доселе передаваемого сигнала.",
-        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?"
+        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?",
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который подает полицейский, въезд на перекресток?"
     },
     "approved": {
         "upewninie się": {
@@ -2399,7 +2399,10 @@
             "Czy następny sygnał będzie Ci zabraniał wjazdu na skrzyżowanie?": "Запретит ли следующий сигнал въезд на перекресток?",
             "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału. Za chwilę policjant ustawi się bokiem": "Поднятие руки вверх регулировщиком означает, что через мгновение произойдет изменение до сих пор подаваемого сигнала. Через мгновение полицейский встанет боком.",
             "Jest to osoba uprawniona do kierowania ruchem drogowym": "Это лицо, уполномоченное управлять дорожным движением.",
-            "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?"
+            "Czy w przedstawionej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли вам продолжать движение в представленной ситуации?",
+            "Czy w tej sytuacji skręcanie w prawo jest zabronione nawet wtedy, gdy nie utrudni to poruszania się innym uczestnikom ruchu drogowego?": "В данной ситуации запрещен ли поворот направо даже тогда, когда это не усложнит движение другим участникам дорожного движения?",
+            "Czy widoczny sygnał dawany przez osobę uprawnioną oznacza, że za chwilę będzie Ci wolno wjechać na skrzyżowanie?": "Видимый сигнал, подаваемый уполномоченным лицом, означает, что вскоре тебе будет разрешено въехать на перекресток?",
+            "Podniesienie ręki do góry przez osobę kierującą ruchem oznacza, że za chwilę nastąpi zmiana dotychczas nadawanego sygnału": "Поднятие руки вверх человеком, регулирующим движение, означает, что в скором времени произойдёт изменение ранее подаваемого сигнала."
         }
     },
     "not_approved": {
