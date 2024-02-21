@@ -2387,7 +2387,8 @@
             "Sygnały świetlne, sygnały dawane przez kierującego ruchem": "Световые сигналы, сигналы, подаваемые регулировщиком",
             "Dopuszczalne prędkości pojazdu, ograniczenia": "Допускаемые скорости транспортного средства, ограничения",
             "Odstępy i hamowanie pojazdu": "Дистанция и торможение транспортного средства",
-            "Różne pola widzenia kierowców": "Различные поля зрения водителей."
+            "Różne pola widzenia kierowców": "Различные поля зрения водителей.",
+            "Taka postawa policjanta umożliwia skręt w lewo": "Такое положение полицейского позволяет повернуть налево."
         }
     },
     "not_approved": {
@@ -2545,7 +2546,6 @@
         "Początkowej": "Начальный.",
         "Końcowej": "Окончательной.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
-        "Taka postawa policjanta umożliwia skręt w lewo": "Такое положение полицейского позволяет повернуть налево.",
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
