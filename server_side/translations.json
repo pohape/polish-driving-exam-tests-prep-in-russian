@@ -2467,7 +2467,9 @@
             "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - запрещает въезд за светофор, за исключением случаев, когда в момент загорания этого сигнала транспортное средство находится настолько близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
             "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "В данной ситуации следующим сигналом для полосы движения, по которой вы движетесь, будет красный сигнал?",
             "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "Вы собираетесь повернуть налево. В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
-            "Opuszczając strefę ruchu jesteśmy włączającym się do ruchu": "Покидая зону движения, мы включаемся в движение."
+            "Opuszczając strefę ruchu jesteśmy włączającym się do ruchu": "Покидая зону движения, мы включаемся в движение.",
+            "Pojazd szynowy wyjeżdżający z pętli na jezdnię jest włączającym się do ruchu": "Железнодорожный транспорт, выезжающий с петли на проезжую часть, является включающимся в движение.",
+            "Wyjeżdżając z drogi gruntowej na twardą mamy do czynienia z włączaniem się do ruchu": "Выезжая с грунтовой дороги на дорогу с твёрдым покрытием, мы имеем дело с включением в движение."
         }
     },
     "not_approved": {
@@ -3372,6 +3374,7 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
+        "Czy w sytuacji, gdy zamierzasz jechać na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Обязаны ли вы уступить дорогу транспортному средству, приближающемуся справа, если вы планируете продолжить движение прямо?"
     }
 }
