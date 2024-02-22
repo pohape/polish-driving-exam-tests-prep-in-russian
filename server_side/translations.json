@@ -2479,7 +2479,9 @@
             "Czy wtej sytuacji przy wjeżdżaniu na jezdnię należy zachować szczególną ostrożność?": "В этой ситуации при въезде на проезжую часть следует соблюдать особую осторожность?",
             "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
             "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
-            "Wyjeżdżając ze strefy zamieszkania należy ustąpić pierwszeństwa pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu. (Włączanie się do ruchu)": "Выезжая из жилой зоны, необходимо уступить дорогу другому ТС или участнику движения. (Включение в движение)"
+            "Wyjeżdżając ze strefy zamieszkania należy ustąpić pierwszeństwa pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu. (Włączanie się do ruchu)": "Выезжая из жилой зоны, необходимо уступить дорогу другому ТС или участнику движения. (Включение в движение)",
+            "Skręcasz w prawo, a nadjeżdżający z lewej strony motocyklista zamierza kontynuować jazdę na wprost. Czy masz pierwszeństwo przed nim?": "Вы поворачиваете направо, а приближающийся слева мотоциклист намеревается продолжить движение прямо. У вас есть преимущество перед ним?",
+            "Jedziesz na wprost. Czy masz obowiązek ustąpić pierwszeństwa kierującemu motocyklem?": "Вы едете прямо. Обязаны ли вы уступить дорогу водителю мотоцикла?"
         }
     },
     "not_approved": {
@@ -3046,7 +3048,6 @@
         "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
-        "Skręcasz w prawo, a nadjeżdżający z lewej strony motocyklista zamierza kontynuować jazdę na wprost. Czy masz pierwszeństwo przed nim?": "Вы поворачиваете направо, а приближающийся слева мотоциклист намеревается продолжить движение прямо. У вас есть преимущество перед ним?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
         "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?",
         "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
