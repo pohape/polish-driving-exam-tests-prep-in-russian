@@ -2481,7 +2481,9 @@
             "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
             "Wyjeżdżając ze strefy zamieszkania należy ustąpić pierwszeństwa pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu. (Włączanie się do ruchu)": "Выезжая из жилой зоны, необходимо уступить дорогу другому ТС или участнику движения. (Включение в движение)",
             "Skręcasz w prawo, a nadjeżdżający z lewej strony motocyklista zamierza kontynuować jazdę na wprost. Czy masz pierwszeństwo przed nim?": "Вы поворачиваете направо, а приближающийся слева мотоциклист намеревается продолжить движение прямо. У вас есть преимущество перед ним?",
-            "Jedziesz na wprost. Czy masz obowiązek ustąpić pierwszeństwa kierującemu motocyklem?": "Вы едете прямо. Обязаны ли вы уступить дорогу водителю мотоцикла?"
+            "Jedziesz na wprost. Czy masz obowiązek ustąpić pierwszeństwa kierującemu motocyklem?": "Вы едете прямо. Обязаны ли вы уступить дорогу водителю мотоцикла?",
+            "Zamierzasz kontynuować jazdę na wprost. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намерены продолжить движение прямо. У вас есть преимущество перед ТС, приближающемся слева?",
+            "Pojazd z lewej jest włączającym się do ruchu": "Транспортное средство слева включается в движение."
         }
     },
     "not_approved": {
@@ -3380,6 +3382,7 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
+        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?"
     }
 }
