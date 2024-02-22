@@ -2455,7 +2455,11 @@
             "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "В данной ситуации у вас есть обязанность воздержаться от движения?",
             "Sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie": "Сигнал, даный полицейским, позволяет въехать на перекресток.",
             "Czy w tej sytuacji, żeby kontynuować jazdę, musisz oczekiwać na zmianę sygnału czerwonego na zielony?": "В этой ситуации, чтобы продолжить движение, ты должен ожидать изменения красного сигнала на зеленый?",
-            "Sygnały dawane przez kierującego ruchem są ważniejsze od sygnalizacji": "Сигналы, даны регулировщиком, важнее светофора."
+            "Sygnały dawane przez kierującego ruchem są ważniejsze od sygnalizacji": "Сигналы, даны регулировщиком, важнее светофора.",
+            "Czy w tej sytuacji musisz oczekiwać na opuszczenie przejścia dla pieszych przez dzieci i osobę kierującą ruchem?": "В этой ситуации вы должны подождать, пока дети и регулировщик перейдут пешеходный переход?",
+            "Czy w tej sytuacji musisz się zatrzymać?": "Должны ли вы в этой ситуации остановиться?",
+            "Czy w tej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли тебе в этой ситуации продолжить движение?",
+            "Pan \"Stopek\" umożliwił przejazd przez przejście dla pieszych": "Pan \"Stopek\" позволил проезд через пешеходный переход."
         }
     },
     "not_approved": {
