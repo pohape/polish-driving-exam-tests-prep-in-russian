@@ -6,7 +6,6 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Вопрос: означает ли подаваемый сигнал, что ненадолго загорится зеленый сигнал?"
     },
     "approved": {
@@ -2464,7 +2463,9 @@
             "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
             "W tej sytuacji sygnalizator umożliwia bezkolizyjny skręt w lewo i bezkolizyjne zawracanie": "В этой ситуации светофор позволяет безопасно повернуть налево и безопасно развернуться.",
             "Za pomocą sygnalizacji jest nadawany zielony sygnał": "С помощью светофора подается зеленый сигнал.",
-            "Przejazd przez torowisko oraz żółty migający sygnał zobowiązują do zachowania szczególnej ostrożności": "Проезд через железнодорожные пути, а также желтый мигающий сигнал обязывают к соблюдению особой осторожности."
+            "Przejazd przez torowisko oraz żółty migający sygnał zobowiązują do zachowania szczególnej ostrożności": "Проезд через железнодорожные пути, а также желтый мигающий сигнал обязывают к соблюдению особой осторожности.",
+            "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - запрещает въезд за светофор, за исключением случаев, когда в момент загорания этого сигнала транспортное средство находится настолько близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
+            "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "В данной ситуации следующим сигналом для полосы движения, по которой вы движетесь, будет красный сигнал?"
         }
     },
     "not_approved": {
@@ -3369,7 +3370,6 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - запрещает въезд за светофор, за исключением случаев, когда в момент загорания этого сигнала транспортное средство находится настолько близко к светофору, что не может быть остановлено перед ним без резкого торможения."
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
     }
 }
