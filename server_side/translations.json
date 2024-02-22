@@ -2459,7 +2459,8 @@
             "Czy w tej sytuacji musisz oczekiwać na opuszczenie przejścia dla pieszych przez dzieci i osobę kierującą ruchem?": "В этой ситуации вы должны подождать, пока дети и регулировщик перейдут пешеходный переход?",
             "Czy w tej sytuacji musisz się zatrzymać?": "Должны ли вы в этой ситуации остановиться?",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли тебе в этой ситуации продолжить движение?",
-            "Pan \"Stopek\" umożliwił przejazd przez przejście dla pieszych": "Pan \"Stopek\" позволил проезд через пешеходный переход."
+            "Pan \"Stopek\" umożliwił przejazd przez przejście dla pieszych": "Pan \"Stopek\" позволил проезд через пешеходный переход.",
+            "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?"
         }
     },
     "not_approved": {
@@ -3080,7 +3081,6 @@
         "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
-        "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
         "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
