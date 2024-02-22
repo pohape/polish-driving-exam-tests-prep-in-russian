@@ -2472,7 +2472,11 @@
             "Wyjeżdżając z drogi gruntowej na twardą mamy do czynienia z włączaniem się do ruchu": "Выезжая с грунтовой дороги на дорогу с твёрдым покрытием, мы имеем дело с включением в движение.",
             "Czy w sytuacji, gdy zamierzasz jechać na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Обязаны ли вы уступить дорогу транспортному средству, приближающемуся справа, если вы планируете продолжить движение прямо?",
             "Rozpoczynasz jazdę. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi widocznemu w lusterku?": "Вы начинаете движение. В данной ситуации обязаны ли вы уступить дорогу ТС, видимому в зеркале заднего вида?",
-            "Czy w tej sytuacji, włączając się do ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, включаясь в движение, вы обязаны проявлять особую осторожность?"
+            "Czy w tej sytuacji, włączając się do ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, включаясь в движение, вы обязаны проявлять особую осторожность?",
+            "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
+            "Czy wyjeżdżając z posesji na drogę, masz obowiązek zachować szczególną ostrożność?": "Выезжая с придомовой территории на дорогу, обязаны ли вы проявлять особую осторожность?",
+            "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
+            "Czy wtej sytuacji przy wjeżdżaniu na jezdnię należy zachować szczególną ostrożność?": "В этой ситуации при въезде на проезжую часть следует соблюдать особую осторожность?"
         }
     },
     "not_approved": {
@@ -2776,7 +2780,6 @@
         "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Должны ли вы соблюдать особую осторожность, включаясь в движение?",
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
-        "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
         "Czy w tej sytuacji należy pozostawić poszkodowanego z twarzą zanurzoną w wodzie, ponieważ zmiana pozycji może spowodować uraz kręgosłupa?": "В данной ситуации необходимо оставить пострадавшего с лицом, погруженным в воду, поскольку изменение положения может привести к травме позвоночника?",
         "Czy w tej sytuacji możesz zawrócić bezpośrednio za znakiem?": "В этой ситуации можно развернуться сразу после знака?",
         "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz prawo usunąć pojazd z miejsca zdarzenia, aby nie tamować ruchu?": "Вы имеете право убрать ТС с места происшествия, чтобы не препятствовать движению, будучи участником дорожно-транспортного происшествия, в котором есть пострадавшие?",
@@ -2802,7 +2805,6 @@
         "Zabrania się zawracania na moście": "Запрещается разворот на мосту.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
-        "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
