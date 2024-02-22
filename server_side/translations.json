@@ -2486,7 +2486,9 @@
             "Zamierzasz kontynuować jazdę na wprost. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намерены продолжить движение прямо. У вас есть преимущество перед ТС, приближающемся слева?",
             "Pojazd z lewej jest włączającym się do ruchu": "Транспортное средство слева включается в движение.",
             "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na krzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет знаков, сигналов и указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
-            "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа."
+            "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
+            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу приближающемуся ТС?",
+            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Выезжая с внутридворовой дороги на общественную дорогу, мы включаемся в движение. Водитель ТС, включаясь в движение, обязан проявлять особую осторожность и уступить дорогу другому транспортному средству или участнику движения."
         }
     },
     "not_approved": {
@@ -3384,7 +3386,6 @@
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу приближающемуся ТС?"
+        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов."
     }
 }
