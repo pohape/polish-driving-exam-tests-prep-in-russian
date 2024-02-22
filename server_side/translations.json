@@ -2477,7 +2477,9 @@
             "Czy wyjeżdżając z posesji na drogę, masz obowiązek zachować szczególną ostrożność?": "Выезжая с придомовой территории на дорогу, обязаны ли вы проявлять особую осторожность?",
             "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
             "Czy wtej sytuacji przy wjeżdżaniu na jezdnię należy zachować szczególną ostrożność?": "В этой ситуации при въезде на проезжую часть следует соблюдать особую осторожность?",
-            "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?"
+            "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Вы собираетесь повернуть налево. Обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
+            "Wyjeżdżając ze strefy zamieszkania należy ustąpić pierwszeństwa pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu. (Włączanie się do ruchu)": "Выезжая из жилой зоны, необходимо уступить дорогу другому ТС или участнику движения. (Включение в движение)"
         }
     },
     "not_approved": {
