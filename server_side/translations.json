@@ -2460,7 +2460,8 @@
             "Czy w tej sytuacji musisz się zatrzymać?": "Должны ли вы в этой ситуации остановиться?",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę?": "Разрешено ли тебе в этой ситуации продолжить движение?",
             "Pan \"Stopek\" umożliwił przejazd przez przejście dla pieszych": "Pan \"Stopek\" позволил проезд через пешеходный переход.",
-            "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?"
+            "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?"
         }
     },
     "not_approved": {
@@ -3082,7 +3083,6 @@
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
         "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
