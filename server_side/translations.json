@@ -2445,7 +2445,9 @@
             "Żółty migający sygnał zobowiązuje do zachowania szczególnej ostrożności": "Жёлтый мигающий сигнал обязывает к проявлению особой осторожности.",
             "Czy w tej sytuacji należy się zatrzymać przed sygnalizatorem jeśli nie wymaga to gwałtownego hamowania?": "В данной ситуации следует ли остановиться перед светофором, если это не требует резкого торможения?",
             "Po sygnale żółtym świeci się sygnał czerwony": "После жёлтого сигнала загорается красный сигнал.",
-            "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?"
+            "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo zanim pieszy wejdzie na zajmowany przez Ciebie pas ruchu?": "В этой ситуации разрешается ли тебе повернуть направо до того, как пешеход войдет на занимаемую тобой полосу движения?",
+            "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе."
         }
     },
     "not_approved": {
@@ -3317,7 +3319,6 @@
         "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче.",
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
-        "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
         "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, обязан ли ты наблюдать за дорогой во внешнем зеркале?",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność a w razie potrzeby zatrzymać się?": "В данной ситуации следует ли вам проявлять особую осторожность и, при необходимости, остановиться?",
@@ -3358,7 +3359,6 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo zanim pieszy wejdzie na zajmowany przez Ciebie pas ruchu?": "В этой ситуации разрешается ли тебе повернуть направо до того, как пешеход войдет на занимаемую тобой полосу движения?"
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
     }
 }
