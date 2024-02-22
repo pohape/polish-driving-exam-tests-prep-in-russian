@@ -9,7 +9,9 @@
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?",
         "W tej sytuacji sygnalizator umożliwia bezkolizyjny skręt w lewo i bezkolizyjne zawracanie": "В этой ситуации светофор позволяет безколлизионный поворот налево и безколлизионный разворот.",
         "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна.",
-        "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?"
+        "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?",
+        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Вопрос: означает ли подаваемый сигнал, что ненадолго загорится зеленый сигнал?",
+        "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "Вы обязаны воздерживаться от движения в этой ситуации?"
     },
     "approved": {
         "upewninie się": {
@@ -2447,7 +2449,9 @@
             "Po sygnale żółtym świeci się sygnał czerwony": "После жёлтого сигнала загорается красный сигнал.",
             "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?",
             "Czy w tej sytuacji wolno Ci skręcić w prawo zanim pieszy wejdzie na zajmowany przez Ciebie pas ruchu?": "В этой ситуации разрешается ли тебе повернуть направо до того, как пешеход войдет на занимаемую тобой полосу движения?",
-            "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе."
+            "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
+            "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
+            "Sygnał dawany przez kierującego ruchem zabrania kontynuowania jazdy": "Сигнал, данный регулировщиком, запрещает продолжение движения."
         }
     },
     "not_approved": {
@@ -2514,7 +2518,6 @@
         "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
-        "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
         "Czy po ruszeniu pojazdu znajdującego się przed Tobą wolno Ci przejechać przez widoczny przejazd bez ponownego zatrzymania się?": "Разрешается ли вам проехать через видимый переезд после трогания автомобиля, находящегося перед вами, без повторной остановки?",
         "Czy w przedstawionej sytuacji widzisz kończący się pas ruchu dla rowerzystów?": "Видите ли вы заканчивающуюся полосу движения для велосипедистов в представленной ситуации?",
@@ -2576,7 +2579,6 @@
         "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
-        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли передаваемый сигнал, что через мгновение загорится зеленый сигнал?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
         "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
@@ -2603,7 +2605,6 @@
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
-        "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "Вы обязаны воздерживаться от движения в этой ситуации?",
         "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
