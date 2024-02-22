@@ -10,8 +10,7 @@
         "W tej sytuacji sygnalizator umożliwia bezkolizyjny skręt w lewo i bezkolizyjne zawracanie": "В этой ситуации светофор позволяет безколлизионный поворот налево и безколлизионный разворот.",
         "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна.",
         "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?",
-        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Вопрос: означает ли подаваемый сигнал, что ненадолго загорится зеленый сигнал?",
-        "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "Вы обязаны воздерживаться от движения в этой ситуации?"
+        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Вопрос: означает ли подаваемый сигнал, что ненадолго загорится зеленый сигнал?"
     },
     "approved": {
         "upewninie się": {
@@ -2451,7 +2450,12 @@
             "Czy w tej sytuacji wolno Ci skręcić w prawo zanim pieszy wejdzie na zajmowany przez Ciebie pas ruchu?": "В этой ситуации разрешается ли тебе повернуть направо до того, как пешеход войдет на занимаемую тобой полосу движения?",
             "Należy ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Необходимо уступить дорогу пешеходу, находящемуся на переходе.",
             "Czy w tej sytuacji możesz kontynuować jazdę?": "Можете ли вы продолжить движение в этой ситуации?",
-            "Sygnał dawany przez kierującego ruchem zabrania kontynuowania jazdy": "Сигнал, данный регулировщиком, запрещает продолжение движения."
+            "Sygnał dawany przez kierującego ruchem zabrania kontynuowania jazdy": "Сигнал, данный регулировщиком, запрещает продолжение движения.",
+            "Zgodnie z sygnałem dawanym przez policjanta": "В соответствии с сигналом, подаваемым полицейским.",
+            "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu?": "В данной ситуации у вас есть обязанность воздержаться от движения?",
+            "Sygnał dawany przez policjanta zezwala na wjazd na skrzyżowanie": "Сигнал, даный полицейским, позволяет въехать на перекресток.",
+            "Czy w tej sytuacji, żeby kontynuować jazdę, musisz oczekiwać na zmianę sygnału czerwonego na zielony?": "В этой ситуации, чтобы продолжить движение, ты должен ожидать изменения красного сигнала на зеленый?",
+            "Sygnały dawane przez kierującego ruchem są ważniejsze od sygnalizacji": "Сигналы, даны регулировщиком, важнее светофора."
         }
     },
     "not_approved": {
