@@ -2440,7 +2440,8 @@
             "Czy w tej sytuacji policjant kierujący ruchem umożliwia Ci wykonanie manewru skrętu w lewo na skrzyżowaniu?": "В этой ситуации позволяет ли вам полицейский, управляющий движением, совершить маневр левого поворота на перекрестке?",
             "Taka postawa i gesty policjanta umożliwiają wykonanie skrętu w lewo": "Такая позиция и жесты полицейского позволяют выполнить поворот налево.",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę przez skrzyżowanie?": "Разрешается ли тебе в этой ситуации продолжать движение через перекресток?",
-            "Żółty migający sygnał zobowiązuje do zachowania szczególnej ostrożności": "Жёлтый мигающий сигнал обязывает к проявлению особой осторожности."
+            "Żółty migający sygnał zobowiązuje do zachowania szczególnej ostrożności": "Жёлтый мигающий сигнал обязывает к проявлению особой осторожности.",
+            "Czy w tej sytuacji należy się zatrzymać przed sygnalizatorem jeśli nie wymaga to gwałtownego hamowania?": "В данной ситуации следует ли остановиться перед светофором, если это не требует резкого торможения?"
         }
     },
     "not_approved": {
@@ -3354,6 +3355,7 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?"
+        "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
+        "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна."
     }
 }
