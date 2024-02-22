@@ -2476,7 +2476,8 @@
             "Włączając się do ruchu należy zachować szczególną ostrożność i ustąpić pierwszeństwa innym pojazdom i uczestnikom ruchu": "Включаясь в движение, необходимо соблюдать особую осторожность и уступить дорогу другим транспортным средствам и участникам движения.",
             "Czy wyjeżdżając z posesji na drogę, masz obowiązek zachować szczególną ostrożność?": "Выезжая с придомовой территории на дорогу, обязаны ли вы проявлять особую осторожность?",
             "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
-            "Czy wtej sytuacji przy wjeżdżaniu na jezdnię należy zachować szczególną ostrożność?": "В этой ситуации при въезде на проезжую часть следует соблюдать особую осторожность?"
+            "Czy wtej sytuacji przy wjeżdżaniu na jezdnię należy zachować szczególną ostrożność?": "В этой ситуации при въезде на проезжую часть следует соблюдать особую осторожность?",
+            "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?"
         }
     },
     "not_approved": {
@@ -2950,7 +2951,6 @@
         "drogowych": "дальнего света.",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
-        "Zamierzasz kontynuować jazdę na wprost. Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony?": "Вы намереваетесь продолжить движение прямо. В этой ситуации обязаны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?": "Вы управляете транспортным средством в населенном пункте. Запрещено ли в этой ситуации использование звукового сигнала?",
         "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
