@@ -6,7 +6,8 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?"
+        "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
+        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?"
     },
     "approved": {
         "upewninie się": {
@@ -2483,7 +2484,9 @@
             "Skręcasz w prawo, a nadjeżdżający z lewej strony motocyklista zamierza kontynuować jazdę na wprost. Czy masz pierwszeństwo przed nim?": "Вы поворачиваете направо, а приближающийся слева мотоциклист намеревается продолжить движение прямо. У вас есть преимущество перед ним?",
             "Jedziesz na wprost. Czy masz obowiązek ustąpić pierwszeństwa kierującemu motocyklem?": "Вы едете прямо. Обязаны ли вы уступить дорогу водителю мотоцикла?",
             "Zamierzasz kontynuować jazdę na wprost. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намерены продолжить движение прямо. У вас есть преимущество перед ТС, приближающемся слева?",
-            "Pojazd z lewej jest włączającym się do ruchu": "Транспортное средство слева включается в движение."
+            "Pojazd z lewej jest włączającym się do ruchu": "Транспортное средство слева включается в движение.",
+            "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na krzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет знаков, сигналов и указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
+            "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа."
         }
     },
     "not_approved": {
@@ -3373,7 +3376,6 @@
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
         "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одной стороны или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м.",
         "Kierujący pojazdem jest obowiązany: przy wymijaniu zachować bezpieczny odstęp od wymijanego pojazdu": "Водитель транспортного средства обязан: при прохождении мимо встречного ТС соблюдать безопасную дистанцию от проходимого транспортного средства.",
-        "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
         "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
@@ -3383,6 +3385,6 @@
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?"
+        "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу приближающемуся ТС?"
     }
 }
