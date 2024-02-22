@@ -2465,7 +2465,9 @@
             "Za pomocą sygnalizacji jest nadawany zielony sygnał": "С помощью светофора подается зеленый сигнал.",
             "Przejazd przez torowisko oraz żółty migający sygnał zobowiązują do zachowania szczególnej ostrożności": "Проезд через железнодорожные пути, а также желтый мигающий сигнал обязывают к соблюдению особой осторожности.",
             "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - запрещает въезд за светофор, за исключением случаев, когда в момент загорания этого сигнала транспортное средство находится настолько близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
-            "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "В данной ситуации следующим сигналом для полосы движения, по которой вы движетесь, будет красный сигнал?"
+            "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "В данной ситуации следующим сигналом для полосы движения, по которой вы движетесь, будет красный сигнал?",
+            "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "Вы собираетесь повернуть налево. В этой ситуации у вас есть преимущество перед ТС, приближающимся справа?",
+            "Opuszczając strefę ruchu jesteśmy włączającym się do ruchu": "Покидая зону движения, мы включаемся в движение."
         }
     },
     "not_approved": {
