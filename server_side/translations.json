@@ -8,7 +8,8 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
         "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?",
         "W tej sytuacji sygnalizator umożliwia bezkolizyjny skręt w lewo i bezkolizyjne zawracanie": "В этой ситуации светофор позволяет безколлизионный поворот налево и безколлизионный разворот.",
-        "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна."
+        "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна.",
+        "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?"
     },
     "approved": {
         "upewninie się": {
@@ -2443,7 +2444,8 @@
             "Czy w tej sytuacji wolno Ci kontynuować jazdę przez skrzyżowanie?": "Разрешается ли тебе в этой ситуации продолжать движение через перекресток?",
             "Żółty migający sygnał zobowiązuje do zachowania szczególnej ostrożności": "Жёлтый мигающий сигнал обязывает к проявлению особой осторожности.",
             "Czy w tej sytuacji należy się zatrzymać przed sygnalizatorem jeśli nie wymaga to gwałtownego hamowania?": "В данной ситуации следует ли остановиться перед светофором, если это не требует резкого торможения?",
-            "Po sygnale żółtym świeci się sygnał czerwony": "После жёлтого сигнала загорается красный сигнал."
+            "Po sygnale żółtym świeci się sygnał czerwony": "После жёлтого сигнала загорается красный сигнал.",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?"
         }
     },
     "not_approved": {
@@ -2752,7 +2754,6 @@
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
         "Czy wjeżdżając z drogi gruntowej na drogę twardą, masz obowiązek zachować szczególną ostrożność?": "При въезде с грунтовой дороги на твердое покрытие, обязаны ли вы проявлять особую осторожность?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo bez zatrzymania się przed sygnalizatorem?": "В данной ситуации разрешено ли вам повернуть направо без остановки перед светофором?",
         "Czy w tej sytuacji należy pozostawić poszkodowanego z twarzą zanurzoną w wodzie, ponieważ zmiana pozycji może spowodować uraz kręgosłupa?": "В данной ситуации необходимо оставить пострадавшего с лицом, погруженным в воду, поскольку изменение положения может привести к травме позвоночника?",
         "Czy w tej sytuacji możesz zawrócić bezpośrednio za znakiem?": "В этой ситуации можно развернуться сразу после знака?",
         "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz prawo usunąć pojazd z miejsca zdarzenia, aby nie tamować ruchu?": "Вы имеете право убрать ТС с места происшествия, чтобы не препятствовать движению, будучи участником дорожно-транспортного происшествия, в котором есть пострадавшие?",
@@ -3358,6 +3359,6 @@
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy sygnał, który daje policjant, zezwala na wjazd na skrzyżowanie?": "Разрешает ли сигнал, который даёт полицейский, заезд на перекресток?",
-        "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?"
+        "Czy w tej sytuacji wolno Ci skręcić w prawo zanim pieszy wejdzie na zajmowany przez Ciebie pas ruchu?": "В этой ситуации разрешается ли тебе повернуть направо до того, как пешеход войдет на занимаемую тобой полосу движения?"
     }
 }
