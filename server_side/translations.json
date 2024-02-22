@@ -6,7 +6,6 @@
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
-        "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации ты обязан подчиниться сигналу, подаваемому видимым человеком?",
         "W tej sytuacji sygnalizator umożliwia bezkolizyjny skręt w lewo i bezkolizyjne zawracanie": "В этой ситуации светофор позволяет безколлизионный поворот налево и безколлизионный разворот.",
         "Sygnał żółty - zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал - въезд за светофор запрещён, за исключением случая, когда в момент включения этого сигнала транспортное средство находится настолько близко к светофору, что его остановка перед ним без грубого торможения невозможна.",
         "Czy w tej sytuacji następnym sygnałem dla pasa ruchu, którym się poruszasz będzie sygnał czerwony?": "Является ли в этой ситуации следующим сигналом для полосы движения, по которой вы движетесь, красный сигнал?",
@@ -2462,7 +2461,8 @@
             "Pan \"Stopek\" umożliwił przejazd przez przejście dla pieszych": "Pan \"Stopek\" позволил проезд через пешеходный переход.",
             "Czy w przedstawionej sytuacji masz prawo kontynuować jazdę?": "Имеешь ли ты право продолжить движение в представленной ситуации?",
             "Czy w tej sytuacji wolno Ci skręcić w prawo, jeśli nie spowodujesz tym utrudnienia ruchu?": "Разрешается ли вам в этой ситуации повернуть направо, если вы этим не создадите помех для движения?",
-            "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Разрешено ли будет тебе развернуться на этом перекрестке, когда загорится зеленый сигнал?"
+            "Czy na tym skrzyżowaniu będzie Ci wolno zawrócić, gdy zapali się sygnał zielony?": "Разрешено ли будет тебе развернуться на этом перекрестке, когда загорится зеленый сигнал?",
+            "Czy w tej sytuacji masz obowiązek zastosować się do sygnału podawanego przez widoczną osobę?": "В этой ситуации должен ли ты подчиниться сигналу, подаваемому видимым человеком?"
         }
     },
     "not_approved": {
