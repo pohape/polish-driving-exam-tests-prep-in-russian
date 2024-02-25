@@ -2488,7 +2488,8 @@
             "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na krzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет знаков, сигналов и указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
             "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
             "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу приближающемуся ТС?",
-            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Выезжая с внутридворовой дороги на общественную дорогу, мы включаемся в движение. Водитель ТС, включаясь в движение, обязан проявлять особую осторожность и уступить дорогу другому транспортному средству или участнику движения."
+            "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Выезжая с внутридворовой дороги на общественную дорогу, мы включаемся в движение. Водитель ТС, включаясь в движение, обязан проявлять особую осторожность и уступить дорогу другому транспортному средству или участнику движения.",
+            "Czy masz prawo ominąć poprzedzający pojazd z lewej strony?": "Имеете ли вы право объехать впереди идущее ТС с левой стороны?"
         }
     },
     "not_approved": {
@@ -3388,6 +3389,6 @@
         "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
-        "Czy masz prawo ominąć poprzedzający pojazd z lewej strony?": "Имеете ли вы право объехать впереди идущее ТС с левой стороны?"
+        "Czy masz obowiązek odpowiednio sygnalizować postój uszkodzonego pojazdu na powierzchni wyłączonej z ruchu?": "Обязаны ли вы соответствующим образом сигнализировать о стоянке поврежденного транспортного средства на поверхности, исключенной из движения?"
     }
 }
