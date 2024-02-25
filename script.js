@@ -137,21 +137,48 @@
         sendTranslationFeedback(translation, "approve");
     }
 
-    function createEmojiLink(emojiGroup, emoji, onClickHandler) {
+    function createLikeOrDislikeEmojiLink(span, onClickHandler, itIsLike = true) {
         const link = document.createElement('a');
         link.href = '#';
-        link.innerHTML = emoji;
+        link.innerHTML = itIsLike ? ' 👍' : ' 👎';
         link.onclick = (e) => {
             e.preventDefault();
-            emojiGroup.innerHTML = ' ✅';
+            span.innerHTML = ' ✅';
             onClickHandler();
         };
 
-        emojiGroup.appendChild(link);
+        span.appendChild(link);
+    }
+
+    function createFavoritesEmojiLink(span, onClickHandler, addedToFavorites = false) {
+        const titleAdd = 'Добавить в списко сложных';
+        const titleRemove = 'Убрать из списка сложных';
+        const emojiAdded = ' ⭐😡 ';
+        const emojiNotAdded = ' ☆ ';
+
+        const link = document.createElement('a');
+
+        link.href = '#';
+        link.title = addedToFavorites ? titleRemove : titleAdd;
+        link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+        link.onclick = (e) => {
+            e.preventDefault();
+            addedToFavorites = !addedToFavorites;
+            link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+            link.title = addedToFavorites ? titleRemove : titleAdd;
+            onClickHandler(addedToFavorites ? 'add' : 'remove');
+        };
+
+        span.appendChild(link);
     }
 
     function addLinksToSignCodes(element, translation) {
         console.log("addLinksToSignCodes for " + translation);
+
+        const spanForFavorite = document.createElement('span');
+        createFavoritesEmojiLink(spanForFavorite, console.log, true);
+        element.appendChild(spanForFavorite);
+
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
         let match;
@@ -188,19 +215,19 @@
             element.appendChild(remainingText);
         }
 
-        const emojiGroup = document.createElement('span');
+        const span = document.createElement('span');
 
         if (loadFromCacheEmojiFlag(translation)) {
             console.log(loadFromCacheEmojiFlag(translation) + ": add emojis for " + translation);
 
-            createEmojiLink(emojiGroup, ' 👍', () => approveTranslation(translation));
-            emojiGroup.appendChild(document.createTextNode(' '));
-            createEmojiLink(emojiGroup, '👎', () => markTranslationAsIncorrect(translation));
+            createLikeOrDislikeEmojiLink(span, () => approveTranslation(translation), true);
+            span.appendChild(document.createTextNode(' '));
+            createLikeOrDislikeEmojiLink(span, () => markTranslationAsIncorrect(translation), false);
         } else {
-            emojiGroup.innerHTML = ' ✅';
+            span.innerHTML = ' ✅';
         }
 
-        element.appendChild(emojiGroup);
+        element.appendChild(span);
     }
 
     function getCacheKey(originalText) {
