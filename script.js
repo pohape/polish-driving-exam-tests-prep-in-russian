@@ -11,27 +11,32 @@
 (function() {
     'use strict';
 
-    var selectors = [
-        '#question-content',
-        '#report-question-content',
-        '#a-answer',
-        '#b-answer',
-        '#c-answer',
-        '#report-explanation',
-        '#q-result-explanation',
-        '#q-result-question',
-        '#learning-success-tr2 > td > div:not([class]):not([id])',
-        '#learning-failure-tr2 > td:first-child',
-        '#learning-failure-tr3 > td:first-child',
-        '#report-a-answer',
-        '#report-b-answer',
-        '#report-c-answer',
-        '#a0',
-        '#a1',
-        '#a2',
-        'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
-        'div.panel-body.card-panel > div.card-body'
-    ];
+    const selectors = {
+        "question": [
+            "#question-content"
+        ],
+        "others": [
+            "#hhh",
+            '#report-question-content',
+            '#a-answer',
+            '#b-answer',
+            '#c-answer',
+            '#report-explanation',
+            '#q-result-explanation',
+            '#q-result-question',
+            '#learning-success-tr2 > td > div:not([class]):not([id])',
+            '#learning-failure-tr2 > td:first-child',
+            '#learning-failure-tr3 > td:first-child',
+            '#report-a-answer',
+            '#report-b-answer',
+            '#report-c-answer',
+            '#a0',
+            '#a1',
+            '#a2',
+            'div.col-md-6.col-lg-6 > div:not([class]):not([id])',
+            'div.panel-body.card-panel > div.card-body'
+        ]
+    };
 
     var selectorsToRemove = [
         {
@@ -280,7 +285,7 @@
         return clonedContent
     }
 
-    function updateTranslation(selector) {
+    function processSelector(selector, category) {
         document.querySelectorAll(selector).forEach(element => {
             if (!element.id) {
                 element.id = 'random-' + Math.floor(Math.random() * 1000000);
@@ -324,7 +329,9 @@
     var emptyRemoved = false;
 
     setInterval(function() {
-        selectors.forEach(updateTranslation);
+        for (let category in selectors) {
+            selectors[category].forEach(selector => processSelector(selector, category));
+        }
 
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
