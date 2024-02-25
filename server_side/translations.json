@@ -3396,6 +3396,8 @@
         "Czy w przedstawionej sytuacji wolno Ci zmienić pas ruchu na prawy skrajny?": "В данной ситуации разрешается ли тебе сменить полосу на крайнюю правую?",
         "Czy w tej sytuacji masz prawo wyprzedzić kilka pojazdów nie wracając na prawy pas?": "Имеешь ли ты право в этой ситуации обогнать несколько транспортных средств, не возвращаясь на правую полосу?",
         "Czy w tej sytuacji masz obowiązek ustąpienia pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka?": "В этой ситуации у вас есть обязанность уступить дорогу приближающемуся встречному ТС?",
-        "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?"
+        "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?",
+        "Czy w tej sytuacji, podczas zawracania wystąpi kolizja z innymi uczestnikami ruchu?": "Произойдет ли в этой ситуации, во время разворота, столкновение с другими участниками движения?",
+        "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?"
     }
 }
