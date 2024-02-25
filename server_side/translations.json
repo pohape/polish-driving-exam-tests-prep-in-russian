@@ -2493,7 +2493,8 @@
             "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
             "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
             "Czy w przedstawionej sytuacji należy powstrzymać się od wyprzedzania rowerzysty?": "В представленной ситуации следует воздержаться от обгона велосипедиста?",
-            "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?"
+            "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
+            "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки."
         }
     },
     "not_approved": {
@@ -2704,7 +2705,6 @@
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
-        "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки.",
         "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи.",
