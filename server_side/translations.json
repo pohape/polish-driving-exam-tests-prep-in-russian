@@ -2492,7 +2492,8 @@
             "Czy masz prawo ominąć poprzedzający pojazd z lewej strony?": "Имеете ли вы право объехать впереди идущее ТС с левой стороны?",
             "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
             "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
-            "Czy w przedstawionej sytuacji należy powstrzymać się od wyprzedzania rowerzysty?": "В представленной ситуации следует воздержаться от обгона велосипедиста?"
+            "Czy w przedstawionej sytuacji należy powstrzymać się od wyprzedzania rowerzysty?": "В представленной ситуации следует воздержаться от обгона велосипедиста?",
+            "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?"
         }
     },
     "not_approved": {
@@ -2821,7 +2822,6 @@
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
-        "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz jechać na wprost. Czy poruszasz się prawidłowym pasem ruchu?": "В представленной ситуации на ближайшем перекрестке вы собираетесь ехать прямо. Вы двигаетесь по правильной полосе движения?",
