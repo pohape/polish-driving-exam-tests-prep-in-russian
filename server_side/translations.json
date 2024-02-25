@@ -2489,7 +2489,8 @@
             "Jest to skrzyżowanie równorzędne. Nie ma tu znaków, sygnałów i poleceń osoby kierującej ruchem. Pojazd wjeżdżający na skrzyżowanie znajduje się po prawej stronie": "Это равнозначный перекресток. Здесь нет ни знаков, ни сигналов, ни указаний регулировщика. Транспортное средство, въезжающее на перекресток, находится справа.",
             "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa nadjeżdżającemu pojazdowi?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу приближающемуся ТС?",
             "Wyjeżdżając z drogi wewnętrznej na drogę publiczną jesteśmy włączającym się do ruchu. Kierujący pojazdem, włączając się do ruchu, jest obowiązany zachować szczególną ostrożność oraz ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu": "Выезжая с внутридворовой дороги на общественную дорогу, мы включаемся в движение. Водитель ТС, включаясь в движение, обязан проявлять особую осторожность и уступить дорогу другому транспортному средству или участнику движения.",
-            "Czy masz prawo ominąć poprzedzający pojazd z lewej strony?": "Имеете ли вы право объехать впереди идущее ТС с левой стороны?"
+            "Czy masz prawo ominąć poprzedzający pojazd z lewej strony?": "Имеете ли вы право объехать впереди идущее ТС с левой стороны?",
+            "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?"
         }
     },
     "not_approved": {
@@ -2541,7 +2542,6 @@
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
-        "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": "В этой ситуации вы имеете право обогнать автомобиль, который идет впереди вас?",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
         "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?",
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
