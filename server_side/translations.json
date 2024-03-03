@@ -3431,6 +3431,8 @@
         "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
         "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?",
         "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
-        "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?"
+        "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?",
+        "Tak, ale tylko podczas jazdy w terenie zabudowanym": "Да, но только во время езды в населенном пункте.",
+        "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?"
     }
 }
