@@ -9,7 +9,8 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Środkowej": "Центральной.",
-        "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта."
+        "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
+        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника."
     },
     "approved": {
         "upewninie się": {
@@ -2709,7 +2710,6 @@
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
-        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
         "W dowolny sposób": "Любым способом.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
@@ -3429,6 +3429,8 @@
         "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
         "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
         "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
-        "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?"
+        "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?",
+        "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
+        "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?"
     }
 }
