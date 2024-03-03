@@ -2502,7 +2502,8 @@
             "Estetyką": "Эстетикой.",
             "Czym powinieneś się kierować wybierając fotelik lub urządzenie przytrzymujące służące do przewozu dziecka?": "Чем вы должны руководствоваться, выбирая автокресло или устройство для удержания, используемое для перевозки ребенка?",
             "Przede wszystkim wygodą": "Прежде всего удобством.",
-            "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств."
+            "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств.",
+            "Czy w przedstawionej sytuacji należy zmienić pas ruchu na lewy, pozostawiając pas prawy wolniej jadącym pojazdom?": "В представленной ситуации следует ли менять полосу движения на левую, оставляя правую полосу более медленно движущимся транспортным средствам?"
         }
     },
     "not_approved": {
@@ -2579,7 +2580,6 @@
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
-        "Czy w przedstawionej sytuacji należy zmienić pas ruchu na lewy, pozostawiając pas prawy wolniej jadącym pojazdom?": "В представленной ситуации следует ли менять полосу движения на левую, оставляя правую полосу более медленно движущимся транспортным средствам?",
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
         "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
@@ -3412,6 +3412,8 @@
         "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском удерживающем устройстве, установленном задним ходом к направлению движения на переднем сиденье автомобиля, оборудованного подушкой безопасности для пассажира, разрешена, если подушка безопасности не активна во время перевозки.",
         "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру.",
-        "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?"
+        "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?",
+        "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
+        "Czy zachowanie kierującego, który pozostawił samochód na postoju jest poprawne?": "Правильно ли поведение водителя, который оставил автомобиль на стоянке?"
     }
 }
