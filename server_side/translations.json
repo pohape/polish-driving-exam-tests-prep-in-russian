@@ -2504,7 +2504,8 @@
             "Przede wszystkim wygodą": "Прежде всего удобством.",
             "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств.",
             "Czy w przedstawionej sytuacji należy zmienić pas ruchu na lewy, pozostawiając pas prawy wolniej jadącym pojazdom?": "В представленной ситуации следует ли менять полосу движения на левую, оставляя правую полосу более медленно движущимся транспортным средствам?",
-            "Czy uczestnicząc w wypadku drogowym, masz obowiązek podać dane dotyczące umowy odpowiedzialności cywilnej pojazdu, gdy żąda tego inna osoba, która bierze udział w zdarzeniu?": "Участвуя в дорожно-транспортном происшествии, обязан ли ты предоставить данные, касающиеся договора автогражданской ответственности транспортного средства, если этого требует другое лицо, участвующее в инциденте?"
+            "Czy uczestnicząc w wypadku drogowym, masz obowiązek podać dane dotyczące umowy odpowiedzialności cywilnej pojazdu, gdy żąda tego inna osoba, która bierze udział w zdarzeniu?": "Участвуя в дорожно-транспортном происшествии, обязан ли ты предоставить данные, касающиеся договора автогражданской ответственности транспортного средства, если этого требует другое лицо, участвующее в инциденте?",
+            "Czy w tej sytuacji musisz zachować szczególną ostrożność?": "Должны ли вы в данной ситуации проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -3402,7 +3403,6 @@
         "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?",
         "Czy w tej sytuacji, podczas zawracania wystąpi kolizja z innymi uczestnikami ruchu?": "Произойдет ли в этой ситуации, во время разворота, столкновение с другими участниками движения?",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
-        "Czy w tej sytuacji musisz zachować szczególną ostrożność?": "Должны ли вы в данной ситуации проявлять особую осторожность?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
         "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
