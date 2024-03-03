@@ -2494,7 +2494,9 @@
             "Czy masz prawo zaparkować pojazd na chodniku przed tymi znakami?": "Имеете ли вы право припарковать транспортное средство на тротуаре перед этими знаками?",
             "Czy w przedstawionej sytuacji należy powstrzymać się od wyprzedzania rowerzysty?": "В представленной ситуации следует воздержаться от обгона велосипедиста?",
             "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
-            "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки."
+            "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки.",
+            "Czy wjeżdżając z chodnika na jezdnię, włączasz się do ruchu?": "Въезжая с тротуара на проезжую часть, включаешься в движение?",
+            "Czy w tej sytuacji powinieneś zachować szczególną ostrożność i zmniejszyć prędkość?": "Должны ли вы в этой ситуации проявить особую осторожность и снизить скорость?"
         }
     },
     "not_approved": {
@@ -3405,7 +3407,6 @@
         "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
-        "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
-        "Czy wjeżdżając z chodnika na jezdnię, włączasz się do ruchu?": "Въезжая с тротуара на проезжую часть, включаешься в движение?"
+        "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?"
     }
 }
