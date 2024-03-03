@@ -3421,6 +3421,12 @@
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, приближающимся слева?",
         "19,85 metra": "19,85 метра.",
         "18,75 metra": "18,75 метра.",
-        "14,95 metra": "14,95 метра."
+        "14,95 metra": "14,95 метра.",
+        "Lusterko wewnętrzne": "Внутреннее зеркало.",
+        "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя.",
+        "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
+        "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
+        "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
+        "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?"
     }
 }
