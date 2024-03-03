@@ -7,7 +7,8 @@
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
-        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?"
+        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
+        "Środkowej": "Центральной."
     },
     "approved": {
         "upewninie się": {
@@ -2506,7 +2507,10 @@
             "Czy w przedstawionej sytuacji należy zmienić pas ruchu na lewy, pozostawiając pas prawy wolniej jadącym pojazdom?": "В представленной ситуации следует ли менять полосу движения на левую, оставляя правую полосу более медленно движущимся транспортным средствам?",
             "Czy uczestnicząc w wypadku drogowym, masz obowiązek podać dane dotyczące umowy odpowiedzialności cywilnej pojazdu, gdy żąda tego inna osoba, która bierze udział w zdarzeniu?": "Участвуя в дорожно-транспортном происшествии, обязан ли ты предоставить данные, касающиеся договора автогражданской ответственности транспортного средства, если этого требует другое лицо, участвующее в инциденте?",
             "Czy w tej sytuacji musisz zachować szczególną ostrożność?": "Должны ли вы в данной ситуации проявлять особую осторожность?",
-            "Czy w tej sytuacji należy powstrzymać się od wyprzedzania?": "В данной ситуации следует воздержаться от обгона?"
+            "Czy w tej sytuacji należy powstrzymać się od wyprzedzania?": "В данной ситуации следует воздержаться от обгона?",
+            "Początkowej": "Начальный.",
+            "Końcowej": "Окончательной.",
+            "W której fazie intensywnego deszczu jezdnia asfaltowa jest najbardziej śliska?": "В какой фазе интенсивного дождя асфальтовая проезжая часть самая скользкая?"
         }
     },
     "not_approved": {
@@ -2649,8 +2653,6 @@
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
         "Ustalenie przebiegu wypadku": "Установление хода аварии.",
         "Ustalenie sprawcy wypadku": "Установление виновника аварии.",
-        "Początkowej": "Начальный.",
-        "Końcowej": "Окончательной.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
@@ -3198,8 +3200,6 @@
         "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
         "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
-        "Środkowej": "Центральной.",
-        "W której fazie intensywnego deszczu jezdnia asfaltowa jest najbardziej śliska?": "В какой фазе интенсивного дождя асфальтовая проезжая часть самая скользкая?",
         "Gdy widoczność wzrośnie do 30 m": "Когда видимость увеличится до 30 метров.",
         "Gdy widoczność wzrośnie powyżej 50 m": "Когда видимость увеличится свыше 50 м.",
         "Gdy widoczność wzrośnie do 40 m": "Когда видимость увеличится до 40 метров.",
