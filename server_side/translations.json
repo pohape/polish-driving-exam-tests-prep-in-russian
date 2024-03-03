@@ -2496,7 +2496,9 @@
             "Czy w tej sytuacji masz obowiązek umożliwić pieszemu przejście przez jezdnię?": "В данной ситуации вы обязаны предоставить пешеходу возможность перейти проезжую часть?",
             "Wstrzymam się z opatrywaniem": "Я воздержусь от перевязки.",
             "Czy wjeżdżając z chodnika na jezdnię, włączasz się do ruchu?": "Въезжая с тротуара на проезжую часть, включаешься в движение?",
-            "Czy w tej sytuacji powinieneś zachować szczególną ostrożność i zmniejszyć prędkość?": "Должны ли вы в этой ситуации проявить особую осторожность и снизить скорость?"
+            "Czy w tej sytuacji powinieneś zachować szczególną ostrożność i zmniejszyć prędkość?": "Должны ли вы в этой ситуации проявить особую осторожность и снизить скорость?",
+            "dozwolone bez ograniczeń": "разрешено без ограничений.",
+            "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки."
         }
     },
     "not_approved": {
@@ -3006,8 +3008,6 @@
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
         "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
         "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в езде.",
-        "dozwolone bez ograniczeń": "разрешено без ограничений.",
-        "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки.",
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
