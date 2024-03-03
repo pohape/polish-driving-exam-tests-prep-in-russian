@@ -2498,7 +2498,11 @@
             "Czy wjeżdżając z chodnika na jezdnię, włączasz się do ruchu?": "Въезжая с тротуара на проезжую часть, включаешься в движение?",
             "Czy w tej sytuacji powinieneś zachować szczególną ostrożność i zmniejszyć prędkość?": "Должны ли вы в этой ситуации проявить особую осторожность и снизить скорость?",
             "dozwolone bez ograniczeń": "разрешено без ограничений.",
-            "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки."
+            "dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "разрешено, если подушка безопасности не активна во время перевозки.",
+            "Estetyką": "Эстетикой.",
+            "Czym powinieneś się kierować wybierając fotelik lub urządzenie przytrzymujące służące do przewozu dziecka?": "Чем вы должны руководствоваться, выбирая автокресло или устройство для удержания, используемое для перевозки ребенка?",
+            "Przede wszystkim wygodą": "Прежде всего удобством.",
+            "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств."
         }
     },
     "not_approved": {
@@ -2543,7 +2547,6 @@
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Tylko lekarz": "Только врач.",
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
-        "Właściwymi warunkami technicznymi dotyczącymi tych urządzeń": "Надлежащие технические условия для этих устройств.",
         "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
         "Prędkość pojazdu": "Скорость автомобиля.",
@@ -3036,9 +3039,6 @@
         "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
         "W sposób wygodny dla siebie": "Удобным для себя способом.",
         "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
-        "Przede wszystkim wygodą": "Прежде всего удобством.",
-        "Czym powinieneś się kierować wybierając fotelik lub urządzenie przytrzymujące służące do przewozu dziecka?": "Чем вы должны руководствоваться, выбирая автокресло или устройство для удержания, используемое для перевозки ребенка?",
-        "Estetyką": "Эстетикой.",
         "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч.",
         "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевезенный ребенок имеет минимум 125 см роста, он пристегнут только ремнями безопасности, так как масса и рост не позволяют перевозить его в детском кресле.",
         "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?": "Какие условия должны быть соблюдены при перевозке ребенка на заднем сиденье легкового автомобиля?",
@@ -3407,6 +3407,7 @@
         "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
-        "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?"
+        "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
+        "Aby prawidłowo przeprowadzić resuscytacje poszkodowanego należy ewakuować z pojazdu": "Чтобы правильно провести реанимацию пострадавшего, необходимо эвакуировать его из транспортного средства."
     }
 }
