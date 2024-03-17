@@ -2527,7 +2527,10 @@
             "Długość pojazdu": "Длина транспортного средства.",
             "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność, zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszego znajdującego się na tym przejściu albo na nie wchodzącego i ustąpić pierwszeństwa pieszemu znajdującemu się na tym przejściu albo wchodzącemu na to przejście": "Водитель, приближаясь к пешеходному переходу, обязан проявлять особую осторожность, снизить скорость так, чтобы не подвергать опасности пешехода, находящегося на этом переходе или на него входящего, и уступить дорогу пешеходу, находящемуся на этом переходе или входящему на него.",
             "Czy zachowanie kierującego, który pozostawił samochód na postoju jest poprawne?": "Правильно ли поведение водителя, который оставил автомобиль на стоянке?",
-            "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?"
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?",
+            "Nawigacja satelitarna": "Спутниковая навигация.",
+            "Urządzenie do przecinania pasów": "Устройство для перерезания ремней.",
+            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?"
         }
     },
     "not_approved": {
@@ -2886,7 +2889,6 @@
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?",
         "Kierujący pojazdem jest obowiązany zbliżyć się na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан подъехать на дороге с односторонним движением к ее левой кромке – если он намеревается повернуть налево.",
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
@@ -3454,8 +3456,6 @@
         "Czy w tej sytuacji możesz skręcić w prawo przed tramwajem?": "В данной ситуации можно ли тебе повернуть направо перед трамваем?",
         "Czy w tej sytuacji masz obowiązek zachować bezpieczny odstęp od wymijanego pojazdu zaprzęgowego?": "В данной ситуации вы обязаны соблюдать безопасную дистанцию до минуемого встречного упряжного транспортного средства?",
         "Czy na obszarze zabudowanym na jezdni dwukierunkowej o małym ruchu wolno Ci zaparkować pojazd przy lewej krawędzi jezdni?": "Разрешается ли вам припарковать транспортное средство у левого края проезжей части на дороге с двусторонним движением с небольшим движением в населенном пункте?",
-        "Czy w przedstawionej sytuacji możesz wyprzedzić z lewej lub prawej strony pojazd jadący przed Tobą?": "Возможно ли в данной ситуации обогнать с левой или правой стороны транспортное средство, движущееся перед вами?",
-        "Urządzenie do przecinania pasów": "Устройство для перерезания ремней.",
-        "Nawigacja satelitarna": "Спутниковая навигация."
+        "Czy w przedstawionej sytuacji możesz wyprzedzić z lewej lub prawej strony pojazd jadący przed Tobą?": "Возможно ли в данной ситуации обогнать с левой или правой стороны транспортное средство, движущееся перед вами?"
     }
 }
