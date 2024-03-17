@@ -13,7 +13,8 @@
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обогнать транспортное средство с преимущественными правами после этого знака?",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
-        "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?"
+        "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?",
+        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается по мере увеличения скорости."
     },
     "approved": {
         "upewninie się": {
@@ -2531,7 +2532,8 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o kilku niebezpiecznych zakrętach w lewo?": "В представленной ситуации вас предупреждают о нескольких опасных поворотах влево?",
             "Nawigacja satelitarna": "Спутниковая навигация.",
             "Urządzenie do przecinania pasów": "Устройство для перерезания ремней.",
-            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?"
+            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?",
+            "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости."
         }
     },
     "not_approved": {
@@ -3462,8 +3464,6 @@
         "Cofnie uprawnienie do kierowania pojazdem": "Отзовет право на управление транспортным средством.",
         "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużeniu okresu zatrzymania prawa jazdy do sześciu miesięcy za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "Какое решение примет староста, если вы были остановлены для проверки, управляя транспортным средством, несмотря на продление периода временного изъятия водительского удостоверения до шести месяцев за превышение скорости более чем на 50 км\/ч в населенном пункте?",
         "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
-        "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
-        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается по мере увеличения скорости.",
-        "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости."
+        "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь."
     }
 }
