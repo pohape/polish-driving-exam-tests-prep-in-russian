@@ -2517,7 +2517,9 @@
             "Czy w tej sytuacji, powstrzymanie się od wyprzedzenia rowerzysty jest prawidłowe?": "В этой ситуации, воздержание от обгона велосипедиста является правильным?",
             "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
             "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie prawym pasem ruchu?": "Имеешь ли ты право в этой ситуации обогнать транспортное средство, которое едет по правой полосе движения?",
-            "Czy omijając przeszkodę, masz obowiązek zachować od niej bezpieczny odstęp?": "Обязан ли ты при обгона препятствия сохранять от него безопасную дистанцию?"
+            "Czy omijając przeszkodę, masz obowiązek zachować od niej bezpieczny odstęp?": "Обязан ли ты при обгона препятствия сохранять от него безопасную дистанцию?",
+            "Jazdy z dużą prędkością": "Вождение на высокой скорости.",
+            "Hamowania z użyciem silnika": "Торможение с использованием двигателя."
         }
     },
     "not_approved": {
@@ -2629,7 +2631,6 @@
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
-        "Jazdy z dużą prędkością": "Вождение на высокой скорости.",
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
@@ -3439,6 +3440,8 @@
         "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
-        "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?"
+        "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
+        "Utrzymywania stałej, niewielkiej prędkości jazdy": "Поддержание постоянной, небольшой скорости движения.",
+        "Jakiego zachowania powinieneś unikać podczas jazdy w takich warunkach drogowych?": "Какого поведения следует избегать во время вождения в таких дорожных условиях?"
     }
 }
