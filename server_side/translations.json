@@ -3460,6 +3460,10 @@
         "Przedłuży okres zatrzymania o kolejne trzy miesiące": "Продлит период временного изъятия на следующие три месяца.",
         "Przedłuży okres zatrzymania o kolejne cztery miesiące": "Продлит период временного изъятия на следующие четыре месяца.",
         "Cofnie uprawnienie do kierowania pojazdem": "Отзовет право на управление транспортным средством.",
-        "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużeniu okresu zatrzymania prawa jazdy do sześciu miesięcy za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "Какое решение примет староста, если вы были остановлены для проверки, управляя транспортным средством, несмотря на продление периода временного изъятия водительского удостоверения до шести месяцев за превышение скорости более чем на 50 км\/ч в населенном пункте?"
+        "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużeniu okresu zatrzymania prawa jazdy do sześciu miesięcy za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "Какое решение примет староста, если вы были остановлены для проверки, управляя транспортным средством, несмотря на продление периода временного изъятия водительского удостоверения до шести месяцев за превышение скорости более чем на 50 км\/ч в населенном пункте?",
+        "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
+        "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
+        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается по мере увеличения скорости.",
+        "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости."
     }
 }
