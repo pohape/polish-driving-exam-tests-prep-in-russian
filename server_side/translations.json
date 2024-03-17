@@ -3438,6 +3438,7 @@
         "Tak, ale tylko podczas jazdy w terenie zabudowanym": "Да, но только во время езды в населенном пункте.",
         "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
-        "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?"
+        "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
+        "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?"
     }
 }
