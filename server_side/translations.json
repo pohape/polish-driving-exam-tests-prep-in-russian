@@ -2514,7 +2514,8 @@
             "Końcowej": "Окончательной.",
             "W której fazie intensywnego deszczu jezdnia asfaltowa jest najbardziej śliska?": "В какой фазе интенсивного дождя асфальтовая проезжая часть самая скользкая?",
             "Nie przekraczajac prędkości 30 km\/h": "Не превышая скорости 30 км \/ ч.",
-            "Czy w tej sytuacji, powstrzymanie się od wyprzedzenia rowerzysty jest prawidłowe?": "В этой ситуации, воздержание от обгона велосипедиста является правильным?"
+            "Czy w tej sytuacji, powstrzymanie się od wyprzedzenia rowerzysty jest prawidłowe?": "В этой ситуации, воздержание от обгона велосипедиста является правильным?",
+            "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?"
         }
     },
     "not_approved": {
@@ -2739,7 +2740,6 @@
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
-        "Czy w tej sytuacji masz obowiązek zastosować zasadę ograniczonego zaufania?": "Вы обязаны применять принцип ограниченного доверия в этой ситуации?",
         "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
         "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
