@@ -2519,7 +2519,10 @@
             "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie prawym pasem ruchu?": "Имеешь ли ты право в этой ситуации обогнать транспортное средство, которое едет по правой полосе движения?",
             "Czy omijając przeszkodę, masz obowiązek zachować od niej bezpieczny odstęp?": "Обязан ли ты при обгона препятствия сохранять от него безопасную дистанцию?",
             "Jazdy z dużą prędkością": "Вождение на высокой скорости.",
-            "Hamowania z użyciem silnika": "Торможение с использованием двигателя."
+            "Hamowania z użyciem silnika": "Торможение с использованием двигателя.",
+            "Prędkość pojazdu": "Скорость автомобиля.",
+            "Szerokość pojazdu": "Ширина транспортного средства.",
+            "Długość pojazdu": "Длина транспортного средства."
         }
     },
     "not_approved": {
@@ -2566,7 +2569,6 @@
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
         "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
-        "Prędkość pojazdu": "Скорость автомобиля.",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
@@ -2923,7 +2925,6 @@
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
-        "Długość pojazdu": "Длина транспортного средства.",
         "W każdym przypadku po zatrzymaniu prawa jazdy": "В каждом случае после остановки водительского удостоверения.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
