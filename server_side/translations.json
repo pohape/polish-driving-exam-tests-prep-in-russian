@@ -2532,7 +2532,9 @@
             "Nawigacja satelitarna": "Спутниковая навигация.",
             "Urządzenie do przecinania pasów": "Устройство для перерезания ремней.",
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?",
-            "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости."
+            "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости.",
+            "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?",
+            "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте."
         }
     },
     "not_approved": {
@@ -3322,8 +3324,6 @@
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność,": "Водитель транспортного средства при обгоне обязан соблюдать особую осторожность.",
         "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub poważnego uszczerbku na zdrowiu - podlega karze pozbawienia wolności do lat 3": "Тот, кто не оказывает помощь человеку, находящемуся в положении, угрожающем непосредственной опасностью потери жизни, тяжкого повреждения тела или тяжкого расстройства здоровья, могущему оказать помощь без подвергания себя или другого лица опасности потери жизни или серьёзного ущерба здоровью, подлежит наказанию лишением свободы до 3 лет.",
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Сняли ли водители транспортных средств, двигаясь в соответствии с действующими правилами, с проезжей части дороги для пропуска транспортного средства с преимущественным правом проезда?",
-        "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте.",
-        "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?",
         "Emisja bezbarwnych spalin": "Эмиссия бесцветных выхлопных газов.",
         "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
@@ -3471,6 +3471,10 @@
         "Czy w przedstawionej sytuacji przed wjazdem na skrzyżowanie obowiązkowo trzeba się zatrzymać?": "В представленной ситуации перед въездом на перекресток обязательно нужно остановиться?",
         "Czy masz prawo zabezpieczyć miejsce wypadku, do którego dojechałeś, ustawiając odpowiednio swój samochód i włączając światła awaryjne?": "Имеете ли вы право обезопасить место происшествия, к которому вы подъехали, правильно расположив свой автомобиль и включив аварийные огни?",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
-        "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?"
+        "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?",
+        "Zużyciem opon": "Износом шин.",
+        "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
+        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
+        "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг."
     }
 }
