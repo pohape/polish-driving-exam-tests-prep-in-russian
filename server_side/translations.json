@@ -3465,6 +3465,8 @@
         "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
         "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
         "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?",
-        "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem jadącym z kierunku przeciwnego na wprost?": "Вы намерены повернуть налево. Имеете ли вы преимущество перед ТС, движущимся из противоположного направления прямо?"
+        "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem jadącym z kierunku przeciwnego na wprost?": "Вы намерены повернуть налево. Имеете ли вы преимущество перед ТС, движущимся из противоположного направления прямо?",
+        "Czy w tej sytuacji, jadąc na wprost, musisz mieć stale włączony lewy kierunkowskaz, ponieważ omijasz zaparkowane pojazdy?": "В этой ситуации, двигаясь прямо, должен ли ты постоянно включать левый поворотник, потому что обгоняешь припаркованные транспортные средства?",
+        "Czy w przedstawionej sytuacji dozwolone jest zatrzymanie pojazdu na jezdni?": "В данной ситуации разрешена ли остановка транспортного средства на проезжей части?"
     }
 }
