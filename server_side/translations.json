@@ -3492,6 +3492,7 @@
         "Nie, takie uprawnienia posiada tylko policja": "Нет, такие полномочия имеет только полиция.",
         "Tak, w tym zakresie przysługują takie same prawa jak policji": "Да, в этом случае предусмотрены те же права, что и у полиции.",
         "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
-        "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?"
+        "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?",
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет."
     }
 }
