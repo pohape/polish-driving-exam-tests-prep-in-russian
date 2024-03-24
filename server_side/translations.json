@@ -2534,7 +2534,8 @@
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych kierunkowskazach?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных указателях поворота?",
             "Droga hamowania wydłuża się wraz ze wzrostem prędkości": "Тормозной путь увеличивается с увеличением скорости.",
             "Czy posiadając prawo jazdy kat. B jesteś uprawniony do kierowania ciągnikiem rolniczym za granicami Państwa?": "Имея водительское удостоверение категории B, имеете ли вы право управлять сельскохозяйственным трактором за пределами страны?",
-            "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте."
+            "Tak, ale tylko w terenie zabudowanym": "Да, но только в населенном пункте.",
+            "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?"
         }
     },
     "not_approved": {
@@ -3078,7 +3079,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
-        "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?",
         "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
         "40 km\/h na obszarze zabudowanym": "40 км\/ч в населенном пункте.",
         "30 km\/h bez względu na obszar w jakim się porusza": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
