@@ -3488,6 +3488,10 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "У вас есть преимущество перед ТС, приближающимся слева?",
         "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na drodze ekspresowej?": "Обязан ли водитель транспортного средства сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии на \"drodze ekspresowej\"?",
         "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed skręcającym w lewo motocyklistą?": "Вы собираетесь повернуть налево. У вас есть преимущество перед мотоциклистом, поворачивающим налево?",
-        "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?"
+        "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?",
+        "Nie, takie uprawnienia posiada tylko policja": "Нет, такие полномочия имеет только полиция.",
+        "Tak, w tym zakresie przysługują takie same prawa jak policji": "Да, в этом случае предусмотрены те же права, что и у полиции.",
+        "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
+        "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?"
     }
 }
