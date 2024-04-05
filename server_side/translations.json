@@ -14,7 +14,8 @@
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обогнать транспортное средство с преимущественными правами после этого знака?",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается по мере увеличения скорости.",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет."
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
+        "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?"
     },
     "approved": {
         "upewninie się": {
@@ -3512,6 +3513,6 @@
         "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpienia pierwszeństwa motocykliście skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу мотоциклисту, поворачивающему налево?",
         "Czy masz obowiązek zabezpieczyć przed stoczeniem się pojazd zaparkowany na wzniesieniu?": "Вы обязаны обезопасить от скатывания паркованный на возвышенности транспортное средство?",
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu, jeśli zamierzasz zmienić pas ruchu?": "В данной ситуации у вас есть обязанность использования указателя поворота, если вы намереваетесь сменить полосу движения?",
-        "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?"
+        "Czy w tej sytuacji skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego?": "В этой ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, едущему из противоположного направления?"
     }
 }
