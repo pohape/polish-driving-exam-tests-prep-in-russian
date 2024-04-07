@@ -8,7 +8,6 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
-        "Środkowej": "Центральной.",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обогнать транспортное средство с преимущественными правами после этого знака?",
@@ -3535,6 +3534,7 @@
         "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод.",
         "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa autobusowi jadącemu z przeciwka na wprost?": "Вы собираетесь повернуть налево на перекрестке. Обязаны ли вы уступить дорогу автобусу, идущему навстречу прямо?",
         "Czy skręcając w lewo na tym skrzyżowaniu należy zachować szczególną ostrożność?": "Нужно ли проявлять особую осторожность, поворачивая налево на этом перекрестке?",
-        "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?"
+        "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?",
+        "Środkowej": "Средней."
     }
 }
