@@ -2540,7 +2540,8 @@
             "Czy w widocznej sytuacji znajdujesz się na drodze jednojezdniowej dwukierunkowej o czterech pasach ruchu?": "Находишься ли ты в видимой ситуации на дороге с одной проезжей частью двухстороннего движения с четырьмя полосами движения?",
             "Na drodze suchej": "На сухой дороге.",
             "Na drodze oblodzonej": "На обледенелой дороге.",
-            "W jakich warunkach droga hamowania jest najdłuższa?": "В каких условиях тормозной путь будет самым длинным?"
+            "W jakich warunkach droga hamowania jest najdłuższa?": "В каких условиях тормозной путь будет самым длинным?",
+            "Czy w tej sytuacji zbliżasz się do przejazdu dla rowerzystów?": "В этой ситуации ты подъезжаешь к переезду для велосипедистов?"
         }
     },
     "not_approved": {
@@ -3517,7 +3518,6 @@
         "Jaki odstęp musisz zachować od omijanej przeszkody?": "Какую дистанцию вы должны соблюсти от объезжаемого препятствия?",
         "Gdy jest on skręcony": "Когда он повернут.",
         "W której sytuacji zapięty pas bezpieczeństwa nie będzie działał właściwie?": "В какой ситуации пристегнутый ремень безопасности не будет работать должным образом?",
-        "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи.",
-        "Czy w tej sytuacji zbliżasz się do przejazdu dla rowerzystów?": "В этой ситуации ты подъезжаешь к переезду для велосипедистов?"
+        "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи."
     }
 }
