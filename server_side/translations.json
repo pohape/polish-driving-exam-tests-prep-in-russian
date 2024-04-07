@@ -14,7 +14,8 @@
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
-        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?"
+        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
+        "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Следует преодолевать повороты, выбирая как можно менее тугую дугу."
     },
     "approved": {
         "upewninie się": {
@@ -3544,7 +3545,6 @@
         "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
         "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?",
         "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости.",
-        "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность.",
-        "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Следует преодолевать повороты, выбирая как можно менее тугую дугу."
+        "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность."
     }
 }
