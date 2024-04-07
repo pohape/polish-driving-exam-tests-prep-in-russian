@@ -2543,7 +2543,8 @@
             "W jakich warunkach droga hamowania jest najdłuższa?": "В каких условиях тормозной путь будет самым длинным?",
             "Czy w tej sytuacji zbliżasz się do przejazdu dla rowerzystów?": "В этой ситуации ты подъезжаешь к переезду для велосипедистов?",
             "Czy w tej sytuacji właściwie przygotowujesz się do wymijania?": "В этой ситуации ты правильно готовишься к проезду мимо встречного ТС?",
-            "Środkowej": "Средней."
+            "Środkowej": "Средней.",
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać samochodem osobowym na drodze za tym znakiem?": "С какой максимальной разрешённой скоростью ты можешь ехать легковым автомобилем на дороге за этим знаком?"
         }
     },
     "not_approved": {
@@ -3173,7 +3174,6 @@
         "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
         "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?": "Как следует поступить, во время езды на легковом автомобиле по дороге, покрытой снегом?",
         "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tymi znakami, jeśli holujesz inny samochód osobowy?": "С какой максимальной разрешённой скоростью тебе можно ехать по дороге после этих знаков, если ты буксируешь другой легковой автомобиль?",
-        "Z jaką maksymalną dopuszczalną prędkością możesz jechać samochodem osobowym na drodze za tym znakiem?": "С какой максимальной разрешённой скоростью ты можешь ехать легковым автомобилем на дороге за этим знаком?",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
