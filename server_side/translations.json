@@ -12,7 +12,6 @@
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обогнать транспортное средство с преимущественными правами после этого знака?",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
-        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается по мере увеличения скорости.",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?"
@@ -2544,7 +2543,8 @@
             "Czy w tej sytuacji zbliżasz się do przejazdu dla rowerzystów?": "В этой ситуации ты подъезжаешь к переезду для велосипедистов?",
             "Czy w tej sytuacji właściwie przygotowujesz się do wymijania?": "В этой ситуации ты правильно готовишься к проезду мимо встречного ТС?",
             "Środkowej": "Средней.",
-            "Z jaką maksymalną dopuszczalną prędkością możesz jechać samochodem osobowym na drodze za tym znakiem?": "С какой максимальной разрешённой скоростью ты можешь ехать легковым автомобилем на дороге за этим знаком?"
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać samochodem osobowym na drodze za tym znakiem?": "С какой максимальной разрешённой скоростью ты можешь ехать легковым автомобилем на дороге за этим знаком?",
+            "Prędkość i stan nawierzchni": "Скорость и состояние дорожного покрытия."
         }
     },
     "not_approved": {
@@ -3542,6 +3542,7 @@
         "Rzeczywistej masy całkowitej samochodu": "Фактическая полная масса автомобиля.",
         "Masy własnej samochodu": "Масса собственная автомобиля.",
         "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
-        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?"
+        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?",
+        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости."
     }
 }
