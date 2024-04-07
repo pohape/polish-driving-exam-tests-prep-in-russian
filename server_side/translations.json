@@ -3538,6 +3538,10 @@
         "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?",
         "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части.",
         "Maksymalnie zjeżdżając do środka jezdni, najeżdżając na podwójną ciągłą linię": "Максимально съезжая к середине проезжей части, наезжая на двойную сплошную линию.",
-        "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": "Какой траекторию движения следует выбрать на начальном этапе прохождения показанного поворота налево?"
+        "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": "Какой траекторию движения следует выбрать на начальном этапе прохождения показанного поворота налево?",
+        "Rzeczywistej masy całkowitej samochodu": "Фактическая полная масса автомобиля.",
+        "Masy własnej samochodu": "Масса собственная автомобиля.",
+        "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
+        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?"
     }
 }
