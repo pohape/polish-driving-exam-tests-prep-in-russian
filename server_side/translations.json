@@ -3557,6 +3557,10 @@
         "Czy w tej sytuacji musisz powstrzymać się od wyprzedzania?": "В этой ситуации ты должен воздержаться от обгона?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na czas przejazdu pojazdu jadącego z przeciwka?": "В этой ситуации обязаны ли вы остановить ТС на время проезда встречного ТС?",
         "Czy przed tym skrzyżowaniem zająłeś właściwy pas ruchu, jeśli zamierzasz skręcić w lewo?": "Занял ли ты перед этим перекрестком правильную полосу движения, если собираешься повернуть налево?",
-        "Czy w tej sytuacji możesz nie zachowywać szczególnej ostrożności?": "Можешь ли ты в этой ситуации не соблюдать особую осторожность?"
+        "Czy w tej sytuacji możesz nie zachowywać szczególnej ostrożności?": "Можешь ли ты в этой ситуации не соблюдать особую осторожность?",
+        "Ułatwia zmianę toru jazdy w czasie hamowania": "Облегчает смену полосы движения во время торможения.",
+        "W każdych warunkach skraca drogę hamowania": "В любых условиях укорачивает путь торможения.",
+        "Zapobiega zerwaniu przyczepności kół napędowych podczas rozpędzania pojazdu": "Предотвращает потерю сцепления ведущих колес во время разгона транспортного средства.",
+        "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?"
     }
 }
