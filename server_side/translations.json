@@ -14,9 +14,7 @@
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
-        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
-        "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
-        "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в автомобиле выполняют задние фонари?"
+        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?"
     },
     "approved": {
         "upewninie się": {
@@ -3561,6 +3559,11 @@
         "Ułatwia zmianę toru jazdy w czasie hamowania": "Облегчает смену полосы движения во время торможения.",
         "W każdych warunkach skraca drogę hamowania": "В любых условиях укорачивает путь торможения.",
         "Zapobiega zerwaniu przyczepności kół napędowych podczas rozpędzania pojazdu": "Предотвращает потерю сцепления ведущих колес во время разгона транспортного средства.",
-        "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?"
+        "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?",
+        "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в автомобиле выполняют задние фонари (света движения задним ходом)?",
+        "Światło cofania (barwy białej) oświetla drogę z tyłu pojazdu i sygnalizuje wykonywanie manewru cofania": "Свет движения задним ходом (белого цвета) освещает дорогу сзади транспортного средства и сигнализирует о выполнении маневра движения задним ходом.",
+        "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
+        "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью.",
+        "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты."
     }
 }
