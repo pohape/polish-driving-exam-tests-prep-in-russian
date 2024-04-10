@@ -15,7 +15,8 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
-        "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды."
+        "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время еды.",
+        "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в автомобиле выполняют задние фонари?"
     },
     "approved": {
         "upewninie się": {
@@ -2545,7 +2546,10 @@
             "Czy w tej sytuacji właściwie przygotowujesz się do wymijania?": "В этой ситуации ты правильно готовишься к проезду мимо встречного ТС?",
             "Środkowej": "Средней.",
             "Z jaką maksymalną dopuszczalną prędkością możesz jechać samochodem osobowym na drodze za tym znakiem?": "С какой максимальной разрешённой скоростью ты можешь ехать легковым автомобилем на дороге за этим знаком?",
-            "Prędkość i stan nawierzchni": "Скорость и состояние дорожного покрытия."
+            "Prędkość i stan nawierzchni": "Скорость и состояние дорожного покрытия.",
+            "Oświetlają drogę z tyłu pojazdu i sygnalizują manewr cofania": "Они освещают дорогу сзади транспортного средства и сигнализируют о маневре движения задним ходом.",
+            "Podświetlają tablicę rejestracyjną z tyłu pojazdu": "Они подсвечивают задний номерной знак транспортного средства.",
+            "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством."
         }
     },
     "not_approved": {
@@ -3503,10 +3507,6 @@
         "Kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h w obszarze zabudowanym może się właśnie tak skończyć": "Управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте, может закончиться именно так.",
         "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?",
         "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
-        "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в автомобиле выполняют задние фонари?",
-        "Podświetlają tablicę rejestracyjną z tyłu pojazdu": "Они подсвечивают задний номерной знак транспортного средства.",
-        "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством.",
-        "Oświetlają drogę z tyłu pojazdu i sygnalizują manewr cofania": "Они освещают дорогу сзади транспортного средства и сигнализируют о маневре движения задним ходом.",
         "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек касается передних противотуманных фар?",
         "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
         "Czy tabliczka umieszczona pod znakiem informacyjnym wskazuje, że po skręceniu w lewo na skrzyżowaniu, będziesz nadal poruszać się drogą z pierwszeństwem?": "Информационная табличка, расположенная под знаком, указывает, что после поворота налево на перекрестке, вы будете продолжать движение по главной дороге?",
