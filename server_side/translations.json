@@ -2550,7 +2550,8 @@
             "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством.",
             "Czy w tej sytuacji wolno Ci przejechać przez przejście dla pieszych bez zatrzymywania się?": "Разрешено ли тебе в этой ситуации пересекать пешеходный переход без остановки?",
             "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?",
-            "Zabrania się zawracania na moście": "Запрещается разворот на мосту."
+            "Zabrania się zawracania na moście": "Запрещается разворот на мосту.",
+            "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?"
         }
     },
     "not_approved": {
@@ -3237,7 +3238,6 @@
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
         "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
         "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
-        "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?",
         "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос.",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
