@@ -3570,6 +3570,8 @@
         "Czy podczas jazdy w takich warunkach drogowych powinieneś korzystać z pasów bezpieczeństwa?": "Должен ли ты в таких дорожных условиях использовать ремни безопасности?",
         "Nie, gdy poruszam się z niewielką prędkością": "Нет, когда двигаюсь с небольшой скоростью.",
         "Tak, ale tylko w przypadku jazdy z prędkością większą niż 50 km\/h": "Да, но только в случае езды со скоростью больше 50 км\/ч.",
-        "Autobus porusza się po drodze z pierwszeństwem": "Автобус движется по главной дороге."
+        "Autobus porusza się po drodze z pierwszeństwem": "Автобус движется по главной дороге.",
+        "Włączanie się do ruchu następuje przy wjeżdżaniu na drogę z pola lub na drogę twardą z drogi gruntowej": "Включение в движение происходит при выезде на дорогу с поля либо на дорогу с твёрдым покрытием с грунтовой дороги.",
+        "Ten pas służy do jazdy na wprost": "Эта полоса предназначена для движения прямо."
     }
 }
