@@ -2549,7 +2549,8 @@
             "Podświetlają tablicę rejestracyjną z tyłu pojazdu": "Они подсвечивают задний номерной знак транспортного средства.",
             "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством.",
             "Czy w tej sytuacji wolno Ci przejechać przez przejście dla pieszych bez zatrzymywania się?": "Разрешено ли тебе в этой ситуации пересекать пешеходный переход без остановки?",
-            "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?"
+            "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?",
+            "Zabrania się zawracania na moście": "Запрещается разворот на мосту."
         }
     },
     "not_approved": {
@@ -2858,7 +2859,6 @@
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
         "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
-        "Zabrania się zawracania na moście": "Запрещается разворот на мосту.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
