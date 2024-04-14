@@ -2547,7 +2547,8 @@
             "Prędkość i stan nawierzchni": "Скорость и состояние дорожного покрытия.",
             "Oświetlają drogę z tyłu pojazdu i sygnalizują manewr cofania": "Они освещают дорогу сзади транспортного средства и сигнализируют о маневре движения задним ходом.",
             "Podświetlają tablicę rejestracyjną z tyłu pojazdu": "Они подсвечивают задний номерной знак транспортного средства.",
-            "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством."
+            "Oświetlają drogę z przodu pojazdu": "Освещают дорогу перед транспортным средством.",
+            "Czy w tej sytuacji wolno Ci przejechać przez przejście dla pieszych bez zatrzymywania się?": "Разрешено ли тебе в этой ситуации пересекать пешеходный переход без остановки?"
         }
     },
     "not_approved": {
@@ -3547,7 +3548,6 @@
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
         "Czy w tej sytuacji, po wjechaniu za sygnalizator, masz obowiązek zatrzymać się w miejscu wskazanym znakiem \"stop\"?": "В этой ситуации, после въезда за светофор, обязан ли ты остановиться в месте, указанном знаком \"стоп\"?",
-        "Czy w tej sytuacji wolno Ci przejechać przez przejście dla pieszych bez zatrzymywania się?": "Разрешено ли тебе в этой ситуации пересекать пешеходный переход без остановки?",
         "Wykorzystać maksymalne obroty silnika na każdym biegu": "Использовать максимальные обороты двигателя на каждой передаче.",
         "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?": "Как ты должен поступить, чтобы разогнать автомобиль на плоском участке дороги?",
         "Wyświetlane sygnały zapewniają bezkolizyjny przejazd prosto i skręt w prawo": "Отображаемые сигналы обеспечивают бесконфликтное движение прямо и поворот направо.",
