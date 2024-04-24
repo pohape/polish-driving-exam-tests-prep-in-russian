@@ -6,7 +6,7 @@ class Translate
     const YANDEX_API_KEY_FILE = '../yandex_api_key.txt';
     const OPEN_AI_API_KEY_FILE = '../open_ai_api_key.txt';
     const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
-    const TRANSLATIONS_FILE = 'translations.json';
+    const TRANSLATIONS_FILE = '../translations.json';
 
     const INCORRECT = 'INCORRECT';
     const NOT_APPROVED = 'NOT_APPROVED';
