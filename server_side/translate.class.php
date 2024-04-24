@@ -12,18 +12,23 @@ class Translate
     const NOT_APPROVED = 'NOT_APPROVED';
     const APPROVED = 'APPROVED';
 
+    private static function errorFileApiKeyNotFound(string $path)
+    {
+        return array(
+            'translate' => null,
+            'error' => 'The file with the API key not found: ' . $path
+        );
+    }
+
     private static function requestOpenAI($systemMessage, $userData)
     {
-        $filename = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
+        $path = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
 
-        if (!is_file($filename)) {
-            return array(
-                'translate' => null,
-                'error' => 'The file with the API key not found.'
-            );
+        if (!is_file($path)) {
+            return self::errorFileApiKeyNotFound($path);
         }
 
-        $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
         $prompt = 'Фрагмент для перевода: "' . $userData . '"';
         $data = [
             'model' => 'gpt-4-1106-preview',
@@ -68,16 +73,15 @@ class Translate
 
     private static function translateViaYandexApi($text)
     {
-        if (!is_file(__DIR__ . '/' . self::YANDEX_API_KEY_FILE)) {
-            return array(
-                'translate' => null,
-                'error' => 'The file with the API key not found.'
-            );
+        $path = __DIR__ . '/' . self::YANDEX_API_KEY_FILE;
+
+        if (!is_file()) {
+            return self::errorFileApiKeyNotFound($path);
         }
 
         $headers = [
             'Content-Type: application/json',
-            'Authorization: Api-Key ' . trim(file_get_contents(__DIR__ . '/' . self::YANDEX_API_KEY_FILE))
+            'Authorization: Api-Key ' . trim(file_get_contents($path))
         ];
 
         $body = json_encode([
