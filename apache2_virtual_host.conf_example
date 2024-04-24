@@ -1,0 +1,13 @@
+<VirtualHost *:80>
+    ServerName example.com
+    DocumentRoot /home/excited_user/polish-driving-exam-tests-prep-in-russian/server_side
+
+    <Directory /home/excited_user/polish-driving-exam-tests-prep-in-russian/server_side>
+        Options Indexes FollowSymLinks
+        AllowOverride All
+        Require all granted
+    </Directory>
+
+    ErrorLog ${APACHE_LOG_DIR}/polish_driving_exam_test_prep_error.log
+    CustomLog ${APACHE_LOG_DIR}/polish_driving_examp_test_prep_access.log combined
+</VirtualHost>
