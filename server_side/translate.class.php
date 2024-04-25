@@ -1,12 +1,10 @@
 <?php
 
-class Translate
+class Translate extends Base
 {
-    const API_URL = 'https://translate.api.cloud.yandex.net/translate/v2/translate';
-    const YANDEX_API_KEY_FILE = '../yandex_api_key.txt';
     const OPEN_AI_API_KEY_FILE = '../open_ai_api_key.txt';
     const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
-    const TRANSLATIONS_FILE = '../translations.json';
+    protected string $filename = '../translations.json';
 
     const INCORRECT = 'INCORRECT';
     const NOT_APPROVED = 'NOT_APPROVED';
@@ -20,6 +18,12 @@ class Translate
         );
     }
 
+    /**
+     * @param $systemMessage
+     * @param $userData
+     * @return array
+     * @throws Exception
+     */
     private static function requestOpenAI($systemMessage, $userData)
     {
         $path = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
@@ -71,65 +75,9 @@ class Translate
         );
     }
 
-    private static function translateViaYandexApi($text)
+    private function findOriginalByTranslation(string $translation)
     {
-        $path = __DIR__ . '/' . self::YANDEX_API_KEY_FILE;
-
-        if (!is_file()) {
-            return self::errorFileApiKeyNotFound($path);
-        }
-
-        $headers = [
-            'Content-Type: application/json',
-            'Authorization: Api-Key ' . trim(file_get_contents($path))
-        ];
-
-        $body = json_encode([
-            'texts' => [$text],
-            'sourceLanguageCode' => 'pl',
-            'targetLanguageCode' => 'ru'
-        ]);
-
-        $ch = curl_init(self::API_URL);
-        curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
-        curl_setopt($ch, CURLOPT_POST, true);
-        curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-        curl_setopt($ch, CURLOPT_POSTFIELDS, $body);
-
-        $response = curl_exec($ch);
-        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
-
-        curl_close($ch);
-
-        $decodedResponse = json_decode($response, true);
-
-        if ($httpCode == 200) {
-            return array(
-                'translate' => $decodedResponse['translations'][0]['text'],
-                'error' => null
-            );
-        } else {
-            return array(
-                'translate' => null,
-                'error' => $decodedResponse['message']
-            );
-        }
-    }
-
-    private static function loadTranslations()
-    {
-        $path = __DIR__ . '/' . self::TRANSLATIONS_FILE;
-
-        if (file_exists($path)) {
-            return json_decode(file_get_contents($path), true);
-        } else {
-            return [];
-        }
-    }
-
-    private static function findOriginalByTranslation(string $translation)
-    {
-        $translations = self::loadTranslations();
+        $translations = $this->load();
         $original = array_search($translation, $translations['not_approved']);
 
         if ($original) {
@@ -139,12 +87,13 @@ class Translate
         return null;
     }
 
-    public static function approveTranslation(string $translation)
+    public function approveTranslation(string $translation)
     {
-        $original = self::findOriginalByTranslation($translation);
+        $original = $this->findOriginalByTranslation($translation);
+        var_dump($original);
 
         if ($original) {
-            self::saveToTranslations($original[0], $translation, self::APPROVED);
+            $this->saveToTranslations($original[0], $translation, self::APPROVED);
 
             return true;
         }
@@ -152,12 +101,12 @@ class Translate
         return false;
     }
 
-    public static function markTranslationAsIncorrect(string $translation)
+    public function markTranslationAsIncorrect(string $translation)
     {
-        $original = self::findOriginalByTranslation($translation);
+        $original = $this->findOriginalByTranslation($translation);
 
         if ($original) {
-            self::saveToTranslations($original[0], $translation, self::INCORRECT);
+            $this->saveToTranslations($original[0], $translation, self::INCORRECT);
 
             return true;
         }
@@ -165,18 +114,18 @@ class Translate
         return false;
     }
 
-    private static function removeTranslation(string $original)
+    private function removeTranslation(string $original)
     {
-        $translations = self::loadTranslations();
+        $translations = $this->load();
         unset($translations['not_approved'][$original]);
         unset($translations['incorrect'][$original]);
 
         return $translations;
     }
 
-    private static function saveToTranslations(string $original, string $translation, $type)
+    private function saveToTranslations(string $original, string $translation, $type)
     {
-        $translations = self::removeTranslation($original);
+        $translations = $this->removeTranslation($original);
 
         if ($type == self::APPROVED) {
             $translations['approved']['others'][$original] = $translation;
@@ -187,12 +136,12 @@ class Translate
         }
 
         file_put_contents(
-            __DIR__ . '/' . self::TRANSLATIONS_FILE,
+            __DIR__ . '/' . $this->filename,
             json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
         );
     }
 
-    public static function replaceRoadSignCyrillicCodes($text)
+    private static function replaceRoadSignCyrillicCodes($text)
     {
         $replacement = function ($matches) {
             return strtr(
@@ -274,10 +223,10 @@ class Translate
         return trim($prompt);
     }
 
-    private static function findInTranslations($original)
+    private function findInTranslations($original)
     {
         $original = trim(trim(trim($original), '.'));
-        $translations = self::loadTranslations();
+        $translations = $this->load();
 
         foreach ($translations['approved'] as $category) {
             if (array_key_exists($original, $category)) {
@@ -292,7 +241,7 @@ class Translate
         return null;
     }
 
-    public static function trimDoubleQuotes(string $string)
+    private static function trimDoubleQuotes(string $string)
     {
         $string = str_ireplace('\"', '"', $string);
         $string = trim($string);
@@ -304,10 +253,10 @@ class Translate
         return $string;
     }
 
-    public static function performTranslation($original, $withCache = true)
+    public function performTranslation($original, $withCache = true)
     {
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
-        $original = trim(preg_replace('/\s{1,}/', ' ', $original));
+        $original = trim(preg_replace('/\s+/', ' ', $original));
 
         if (strlen($original) <= 3) {
             $result = array(
@@ -324,28 +273,35 @@ class Translate
                 'error' => null
             );
         } else {
-            $tranlation = $withCache ? self::findInTranslations($original) : null;
+            $translation = $withCache ? $this->findInTranslations($original) : null;
 
-            if ($tranlation === null) {
-                $apiResponse = self::requestOpenAI(
-                    self::generatePrompt($original),
-                    $original
-                );
+            if ($translation === null) {
+                try {
+                    $apiResponse = self::requestOpenAI(
+                        self::generatePrompt($original),
+                        $original
+                    );
 
-                if ($withCache && $apiResponse['translate'] !== null) {
-                    $apiResponse['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translate']));
-                    self::saveToTranslations(
-                        trim(trim(trim($original), '.')),
-                        $apiResponse['translate'],
-                        self::NOT_APPROVED
+
+                    if ($withCache && $apiResponse['translate'] !== null) {
+                        $apiResponse['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translate']));
+                        $this->saveToTranslations(
+                            trim(trim(trim($original), '.')),
+                            $apiResponse['translate'],
+                            self::NOT_APPROVED
+                        );
+                    }
+
+                    $result = $apiResponse;
+                } catch (Exception $e) {
+                    $result = array(
+                        'error' => $e->getMessage()
                     );
                 }
-
-                $result = $apiResponse;
             } else {
                 $result = array(
-                    'translate' => $tranlation[0],
-                    'approved' => $tranlation[1],
+                    'translate' => $translation[0],
+                    'approved' => $translation[1],
                     'error' => null
                 );
             }

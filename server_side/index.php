@@ -1,6 +1,8 @@
 <?php
 
+require_once __DIR__ . '/base.class.php';
 require_once __DIR__ . '/translate.class.php';
+require_once __DIR__ . '/favorites.class.php';
 
 header('Content-Type: application/json');
 
@@ -20,9 +22,12 @@ function prepareText(string $text)
     return ['text' => $text, 'prefix' => $prefix];
 }
 
+$favorites = new Favorites();
+$translate = new Translate();
+
 if (isset($input['text'])) {
     $prepared = prepareText($input['text']);
-    $result = Translate::performTranslation($prepared['text']);
+    $result = $translate->performTranslation($prepared['text']);
 
     if ($result['translate']) {
         $result['translate'] = $prepared['prefix'] . $result['translate'];
@@ -32,16 +37,27 @@ if (isset($input['text'])) {
 } elseif (isset($input['approve'])) {
     $prepared = prepareText($input['approve']);
     echo json_encode(
-        ['error' => null, 'success' => Translate::approveTranslation($prepared['text'])],
+        ['error' => null, 'success' => $translate->approveTranslation($prepared['text'])],
         JSON_UNESCAPED_UNICODE
     );
 } elseif (isset($input['mark_incorrect'])) {
     $prepared = prepareText($input['mark_incorrect']);
 
     echo json_encode(
-        ['error' => null, 'success' => Translate::markTranslationAsIncorrect($prepared['text'])],
+        ['error' => null, 'success' => $translate->markTranslationAsIncorrect($prepared['text'])],
+        JSON_UNESCAPED_UNICODE
+    );
+} elseif (isset($input['add_to_favorites'])) {
+
+    $favorites->saveToFavorites($input['add_to_favorites']);
+
+    echo json_encode(
+        ['error' => null, 'success' => true, 'favorites' => $favorites->getFavorites()],
         JSON_UNESCAPED_UNICODE
     );
 } else {
-    echo json_encode(['error' => 'No text provided']);
+    echo json_encode(
+        ['error' => null, 'favorites' => $favorites->getFavorites()],
+        JSON_UNESCAPED_UNICODE
+    );
 }
