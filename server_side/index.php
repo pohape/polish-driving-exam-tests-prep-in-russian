@@ -9,7 +9,7 @@ $input = json_decode($inputJSON, true);
 
 function prepareText(string $text)
 {
-    if (preg_match('/^([0-9]{1,}\.\s)(.*)$/', $text, $matches)) {
+    if (preg_match('/^([0-9A-F]\.\s)(.*)$/', $text, $matches)) {
         $prefix = $matches[1];
         $text = trim($matches[2]);
     } else {
