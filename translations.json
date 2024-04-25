@@ -2567,7 +2567,9 @@
             "Udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
             "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Если в результате аварии есть убитый или раненый, водитель транспортного средства обязан оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
             "Czy wjeżdżając z pola na drogę twardą masz obowiązek zachować szczególną ostrożność?": "Выезжая с поля на дорогу с твердым покрытием, обязаны ли вы проявлять особую осторожность?",
-            "Ten pojazd jest włączającym się do ruchu": "Этот транспортное средство включается в движение."
+            "Ten pojazd jest włączającym się do ruchu": "Этот транспортное средство включается в движение.",
+            "Kierujesz pojazdem w czasie deszczu. Którą z wymienionych czynności powinieneś przede wszystkim wykonać, by jechać bezpieczniej?": "Вы управляете автомобилем во время дождя. Какое из перечисленных действий вы должны сделать в первую очередь, чтобы ехать безопаснее?",
+            "Kierujący ma obowiązek dostosować prędkość do warunków panujących na drodze": "Водитель обязан адаптировать скорость к условиям, царящим на дороге."
         }
     },
     "not_approved": {
@@ -2774,7 +2776,6 @@
         "Aż zacznie nią poruszać": "Пока он не начнет ее шевелить.",
         "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?",
         "Jechać w koleinach": "Ехать в колее.",
-        "Kierujesz pojazdem w czasie deszczu. Którą z wymienionych czynności powinieneś przede wszystkim wykonać, by jechać bezpieczniej?": "Вы управляете автомобилем во время дождя. Какое из перечисленных действий вы должны сделать в первую очередь, чтобы ехать безопаснее?",
         "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
