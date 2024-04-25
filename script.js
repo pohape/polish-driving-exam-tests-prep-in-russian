@@ -317,16 +317,20 @@
     }
 
     function processSelector(selector, category) {
-        if (selector.startsWith("/")) {
-            const result = document.evaluate(selector, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
-            for (let i = 0; i < result.snapshotLength; i++) {
-                const element = result.snapshotItem(i);
-                processElement(element, selector, category);
+        try {
+            if (selector.startsWith("/")) {
+                const result = document.evaluate(selector, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+                for (let i = 0; i < result.snapshotLength; i++) {
+                    const element = result.snapshotItem(i);
+                    processElement(element, selector, category);
+                }
+            } else {
+                document.querySelectorAll(selector).forEach(element => {
+                    processElement(element, selector, category);
+                });
             }
-        } else {
-            document.querySelectorAll(selector).forEach(element => {
-                processElement(element, selector, category);
-            });
+        } catch (error) {
+            console.error("Error processing selector:", selector, "Error:", error);
         }
     }
 
