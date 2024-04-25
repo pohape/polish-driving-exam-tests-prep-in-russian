@@ -2560,7 +2560,10 @@
             "Miejsce zdarzenia oraz liczbę i stan ofiar wypadku": "Место происшествия, а также количество и состояние пострадавших в результате аварии.",
             "Tylko liczbę pojazdów biorących udział w wypadku": "Только количество транспортных средств, участвующих в аварии.",
             "Tylko liczbę ofiar wypadku": "Только количество жертв аварии.",
-            "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации."
+            "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
+            "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
+            "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
+            "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение."
         }
     },
     "not_approved": {
@@ -2715,7 +2718,6 @@
         "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
-        "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
@@ -3211,8 +3213,6 @@
         "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
-        "Którą z tych czynności ma obowiązek wykonać uczestnik wypadku drogowego, w którym są ranni?": "Какое из этих действий обязан выполнить участник дорожно-транспортного происшествия, в котором есть пострадавшие?",
-        "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
         "Udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
         "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла.",
         "Zwiększenie poziomu emisji hałasu przez układ wydechowy pojazdu": "Увеличение уровня шума, издаваемого системой выпуска транспортного средства.",
