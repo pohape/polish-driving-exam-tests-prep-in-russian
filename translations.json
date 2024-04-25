@@ -2565,7 +2565,8 @@
             "Niezwłocznie usunąć pojazd z drogi, aby nie utrudniał ruchu": "Немедленно уберите автомобиль с дороги,чтобы он не мешал движению.",
             "Niezwłocznie pozbierać uszkodzone części pojazdu z jezdni, aby nie utrudniały ruchu": "Незамедлительно собрать поврежденные части транспортного средства с проезжей части, чтобы они не затрудняли движение.",
             "Udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
-            "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Если в результате аварии есть убитый или раненый, водитель транспортного средства обязан оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию."
+            "Jeżeli w wypadku jest zabity lub ranny, kierujący pojazdem jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku oraz wezwać zespół ratownictwa medycznego i Policję": "Если в результате аварии есть убитый или раненый, водитель транспортного средства обязан оказать необходимую помощь пострадавшим в аварии, а также вызвать медицинскую помощь и полицию.",
+            "Czy wjeżdżając z pola na drogę twardą masz obowiązek zachować szczególną ostrożność?": "Выезжая с поля на дорогу с твердым покрытием, обязаны ли вы проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -3598,7 +3599,6 @@
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь без подвергания себя или другого человека опасности утраты жизни или серьёзного ухудшения здоровья.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой потери здоровья и жизни?",
         "TAKTAK ✅NIENIE ✅": "ДАДА ✅НЕТНЕТ ✅",
-        "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?",
-        "Czy wjeżdżając z pola na drogę twardą masz obowiązek zachować szczególną ostrożność?": "Выезжая с поля на дорогу с твердым покрытием, обязаны ли вы проявлять особую осторожность?"
+        "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?"
     }
 }
