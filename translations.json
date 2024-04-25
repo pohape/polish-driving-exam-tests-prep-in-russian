@@ -2551,7 +2551,11 @@
             "Czy w tej sytuacji wolno Ci przejechać przez przejście dla pieszych bez zatrzymywania się?": "Разрешено ли тебе в этой ситуации пересекать пешеходный переход без остановки?",
             "Czy wolno Ci zawrócić na moście?": "Разрешено ли тебе развернуться на мосту?",
             "Zabrania się zawracania na moście": "Запрещается разворот на мосту.",
-            "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?"
+            "W którym z przypadków system ABS może pomóc kierującemu pojazdem w utrzymaniu sterowności?": "В каком случае система ABS может помочь водителю транспортного средства в поддержании управляемости?",
+            "Jak należy postąpić z poszkodowanym w wypadku drogowym, znajdującym się w pojeździe?": "Как нужно поступить с пострадавшим в дорожно-транспортном происшествии, находящимся в транспортном средстве?",
+            "Należy go zawsze pozostawić w pojeździe - do czasu przybycia lekarza": "Его всегда следует оставлять в транспортном средстве - до прибытия врача.",
+            "Należy go ewakuować z pojazdu - w przypadku stwierdzenia u niego zatrzymania akcji serca": "Его следует эвакуировать из транспортного средства - в случае если у него установлено прекращение сердечной деятельности.",
+            "Należy go ewakuować z pojazdu - w każdym przypadku": "Его необходимо эвакуировать из транспортного средства - в любом случае."
         }
     },
     "not_approved": {
@@ -2928,10 +2932,6 @@
         "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
         "40 km\/h, jeżeli jego dopuszczalna masa całkowita przekracza 3,5 t": "40 км\/ч, если его разрешенная максимальная масса превышает 3,5 т.",
         "50 km\/h bez względu na jego dopuszczalną masę całkowitą": "50 км\/ч независимо от его разрешенной максимальной массы.",
-        "Należy go zawsze pozostawić w pojeździe - do czasu przybycia lekarza": "Его всегда следует оставлять в транспортном средстве - до прибытия врача.",
-        "Należy go ewakuować z pojazdu - w każdym przypadku": "Его необходимо эвакуировать из транспортного средства - в любом случае.",
-        "Jak należy postąpić z poszkodowanym w wypadku drogowym, znajdującym się w pojeździe?": "Как нужно поступить с пострадавшим в дорожно-транспортном происшествии, находящимся в транспортном средстве?",
-        "Należy go ewakuować z pojazdu - w przypadku stwierdzenia u niego zatrzymania akcji serca": "Его следует эвакуировать из транспортного средства - в случае если у него установлено прекращение сердечной деятельности.",
         "Skrócenie drogi hamowania": "Укорочение тормозного пути.",
         "Zmniejszenie przyczepności opon do jezdni": "Уменьшение сцепления шин с проезжей частью.",
         "Zwiększenie przyczepności opon do jezdni": "Увеличение сцепления шин с проезжей частью.",
@@ -3599,6 +3599,7 @@
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой потери здоровья и жизни?",
         "B. Tylko lekarz": "B. Только врач.",
         "C. Tylko uczestnik wypadku drogowego": "C. Только участник дорожно-транспортного происшествия.",
-        "A. Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "A. Каждый человек, который мог бы оказать помощь без подвергания себя или другого человека опасности потери жизни или серьёзного вреда здоровью."
+        "A. Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "A. Каждый человек, который мог бы оказать помощь без подвергания себя или другого человека опасности потери жизни или серьёзного вреда здоровью.",
+        "A. Należy go ewakuować z pojazdu - w każdym przypadku": "A. Нужно эвакуировать его из транспортного средства - в любом случае."
     }
 }
