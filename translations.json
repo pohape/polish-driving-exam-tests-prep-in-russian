@@ -2570,7 +2570,8 @@
             "Ten pojazd jest włączającym się do ruchu": "Этот транспортное средство включается в движение.",
             "Kierujesz pojazdem w czasie deszczu. Którą z wymienionych czynności powinieneś przede wszystkim wykonać, by jechać bezpieczniej?": "Вы управляете автомобилем во время дождя. Какое из перечисленных действий вы должны сделать в первую очередь, чтобы ехать безопаснее?",
             "Kierujący ma obowiązek dostosować prędkość do warunków panujących na drodze": "Водитель обязан адаптировать скорость к условиям, царящим на дороге.",
-            "Jechać w koleinach": "Ехать в колее."
+            "Jechać w koleinach": "Ехать в колее.",
+            "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги."
         }
     },
     "not_approved": {
@@ -2674,7 +2675,6 @@
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
         "O kolejne trzy miesiące": "Еще на три месяца.",
-        "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
         "Minimalnie 1 m": "Минимум 1 м.",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
