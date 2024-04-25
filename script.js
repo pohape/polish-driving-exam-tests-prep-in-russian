@@ -38,7 +38,7 @@
         ]
     };
 
-    var selectorsToRemove = [
+    let selectorsToRemove = [
         {
             selector: '.right-a.right-a-nl',
             deleteLevel: 0
@@ -85,7 +85,7 @@
         }
     ];
 
-    var contentCache = {};
+    let contentCache = {};
 
     function createPopup(src, mouseX, mouseY) {
         const popup = document.createElement('div');
@@ -116,7 +116,7 @@
             headers: {"Content-Type": "application/json"},
             data: JSON.stringify(data),
             onload: function (response) {
-                var result = JSON.parse(response.responseText);
+                let result = JSON.parse(response.responseText);
                 callback(result);
             }
         });
@@ -251,11 +251,11 @@
     }
 
     function loadFromCacheEmojiFlag(translate) {
-        var result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
+        let result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
 
         console.log("Load for '" + translate + "' emojiFlag=" + result)
 
-        return result == 1 ? true : false;
+        return result == 1;
     }
 
     function saveToCache(original, translate) {
@@ -265,7 +265,7 @@
     }
 
     function loadFromCache(original) {
-        var cachedTranslation = localStorage.getItem(getCacheKey(original));
+        let cachedTranslation = localStorage.getItem(getCacheKey(original));
 
         if (cachedTranslation !== null) {
             // console.log("Translation loaded from cache: " + cachedTranslation);
@@ -278,7 +278,8 @@
     }
 
     function translateText(text, callback) {
-        var cachedTranslation = loadFromCache(text);
+        let cachedTranslation = loadFromCache(text);
+
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
@@ -296,9 +297,9 @@
     }
 
     function getElementWithTranslation(originalElement) {
-        var originalId = originalElement.id;
-        var clonedId = originalId + '-cloned';
-        var clonedContent = document.getElementById(clonedId);
+        let originalId = originalElement.id;
+        let clonedId = originalId + '-cloned';
+        let clonedContent = document.getElementById(clonedId);
 
         if (!clonedContent) {
             clonedContent = document.createElement(originalElement.tagName);
@@ -334,10 +335,10 @@
             element.id = 'random-' + Math.floor(Math.random() * 1000000);
         }
 
-        var id = element.id;
+        let id = element.id;
 
         if (!id.includes('-cloned')) {
-            var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
+            let originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
             if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
                 contentCache[id] = originalTextWithNoTranslate;
@@ -355,7 +356,7 @@
                         prepareTranslationElementAndAddToDom(category, translationElement, translatedText);
                     });
                 } else {
-                    var clonedContent = getElementWithTranslation(element)
+                    let clonedContent = getElementWithTranslation(element);
                     clonedContent.style.display = 'none';
 
                     translateText(originalTextWithNoTranslate, function (translatedText) {
@@ -368,7 +369,7 @@
         }
     }
 
-    var emptyRemoved = false;
+    let emptyRemoved = false;
 
     setInterval(function () {
         for (let category in selectors) {
@@ -382,13 +383,13 @@
             consentButton.click();
         }
 
-        var videoElement = document.getElementById('video');
+        let videoElement = document.getElementById('video');
 
         if (videoElement) {
             videoElement.controls = true;
         }
 
-        var imgElement = document.querySelector('img.img-responsive');
+        let imgElement = document.querySelector('img.img-responsive');
 
         imgElement.addEventListener('click', function () {
             // Проверяем, поддерживает ли браузер API полноэкранного режима
@@ -404,12 +405,12 @@
         });
 
         selectorsToRemove.forEach(function (item) {
-            var elements = document.querySelectorAll(item.selector);
+            let elements = document.querySelectorAll(item.selector);
 
             elements.forEach(function (element) {
-                var elementToRemove = element;
+                let elementToRemove = element;
 
-                for (var i = 0; i < item.deleteLevel; i++) {
+                for (let i = 0; i < item.deleteLevel; i++) {
                     if (elementToRemove.parentNode) {
                         elementToRemove = elementToRemove.parentNode;
                     } else {
@@ -422,7 +423,7 @@
         });
 
         if (!emptyRemoved) {
-            var elementToRemove = document.querySelector('section.breadcumb_area + *');
+            let elementToRemove = document.querySelector('section.breadcumb_area + *');
 
             if (elementToRemove) {
                 elementToRemove.parentNode.removeChild(elementToRemove);
@@ -431,7 +432,7 @@
         }
     }, 100);
 
-    var style = document.createElement('style');
+    let style = document.createElement('style');
     style.type = 'text/css';
 
     style.innerHTML = `
