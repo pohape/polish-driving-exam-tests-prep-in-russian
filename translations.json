@@ -2555,7 +2555,12 @@
             "Jak należy postąpić z poszkodowanym w wypadku drogowym, znajdującym się w pojeździe?": "Как нужно поступить с пострадавшим в дорожно-транспортном происшествии, находящимся в транспортном средстве?",
             "Należy go zawsze pozostawić w pojeździe - do czasu przybycia lekarza": "Его всегда следует оставлять в транспортном средстве - до прибытия врача.",
             "Należy go ewakuować z pojazdu - w przypadku stwierdzenia u niego zatrzymania akcji serca": "Его следует эвакуировать из транспортного средства - в случае если у него установлено прекращение сердечной деятельности.",
-            "Należy go ewakuować z pojazdu - w każdym przypadku": "Его необходимо эвакуировать из транспортного средства - в любом случае."
+            "Należy go ewakuować z pojazdu - w każdym przypadku": "Его необходимо эвакуировать из транспортного средства - в любом случае.",
+            "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Które z wymienionych informacji należy podać dzwoniąc pod numer alarmowy?": "Вы являетесь участником или свидетелем дорожно-транспортного происшествия. Какую из перечисленных информаций следует сообщить, звоня по номеру экстренной службы?",
+            "Miejsce zdarzenia oraz liczbę i stan ofiar wypadku": "Место происшествия, а также количество и состояние пострадавших в результате аварии.",
+            "Tylko liczbę pojazdów biorących udział w wypadku": "Только количество транспортных средств, участвующих в аварии.",
+            "Tylko liczbę ofiar wypadku": "Только количество жертв аварии.",
+            "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации."
         }
     },
     "not_approved": {
@@ -3412,7 +3417,6 @@
         "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
         "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
-        "Dzwoniąc pod numer alarmowy należy podać jak najwięcej istotnych dla ratowników informacji": "Звоня на номер экстренной службы, следует сообщить как можно больше важных для спасателей информации.",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
         "Czy masz obowiązek odpowiednio sygnalizować postój uszkodzonego pojazdu na powierzchni wyłączonej z ruchu?": "Обязаны ли вы соответствующим образом сигнализировать о стоянке поврежденного транспортного средства на поверхности, исключенной из движения?",
@@ -3486,10 +3490,6 @@
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
-        "Tylko liczbę ofiar wypadku": "Только количество жертв аварии.",
-        "Tylko liczbę pojazdów biorących udział w wypadku": "Только количество транспортных средств, участвующих в аварии.",
-        "Miejsce zdarzenia oraz liczbę i stan ofiar wypadku": "Место происшествия, а также количество и состояние пострадавших в результате аварии.",
-        "Jesteś uczestnikiem lub świadkiem wypadku drogowego. Które z wymienionych informacji należy podać dzwoniąc pod numer alarmowy?": "Вы являетесь участником или свидетелем дорожно-транспортного происшествия. Какую из перечисленных информаций следует сообщить, звоня по номеру экстренной службы?",
         "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Prawo jazdy kategorii B uprawnia do kierowania pojazdem samochodowym. Jest on przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;": "Водительское удостоверение категории B дает право управлять моторным транспортным средством. Оно конструктивно предназначено для перевозки не более чем 9 человек вместе с водителем, а также их багажа;",
