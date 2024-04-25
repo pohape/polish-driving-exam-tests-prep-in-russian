@@ -90,7 +90,6 @@ class Translate extends Base
     public function approveTranslation(string $translation)
     {
         $original = $this->findOriginalByTranslation($translation);
-        var_dump($original);
 
         if ($original) {
             $this->saveToTranslations($original[0], $translation, self::APPROVED);
