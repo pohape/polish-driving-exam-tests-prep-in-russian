@@ -8,7 +8,7 @@
 // @grant        GM_xmlhttpRequest
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
 // ==/UserScript==
-(function() {
+(function () {
     'use strict';
 
     const selectors = {
@@ -16,7 +16,7 @@
             "#question-content"
         ],
         "others": [
-            "#hhh",
+            "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
             '#report-question-content',
             '#a-answer',
             '#b-answer',
@@ -112,10 +112,10 @@
     function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
             method: "POST",
-            url: "http://193.177.165.241/teoria_pl_tests_translate/",
+            url: "http://145.239.80.201:8080/",
             headers: {"Content-Type": "application/json"},
             data: JSON.stringify(data),
-            onload: function(response) {
+            onload: function (response) {
                 var result = JSON.parse(response.responseText);
                 callback(result);
             }
@@ -124,7 +124,7 @@
 
     function sendTranslationFeedback(translation, actionType) {
         localStorage.clear();
-        makeHttpRequest({[actionType]: translation}, function(result) {
+        makeHttpRequest({[actionType]: translation}, function (result) {
             console.log(translation + " " + actionType + ": " + result.success);
         });
     }
@@ -151,7 +151,7 @@
     }
 
     function createFavoritesEmojiLink(span, onClickHandler, addedToFavorites = false) {
-        const titleAdd = 'Добавить в списко сложных';
+        const titleAdd = 'Добавить в список сложных';
         const titleRemove = 'Убрать из списка сложных';
         const emojiAdded = ' ⭐😡 ';
         const emojiNotAdded = ' ☆ ';
@@ -172,12 +172,13 @@
         span.appendChild(link);
     }
 
-    function addLinksToSignCodes(element, translation) {
-        console.log("addLinksToSignCodes for " + translation);
+    function prepareTranslationElementAndAddToDom(category, element, translation) {
 
-        const spanForFavorite = document.createElement('span');
-        createFavoritesEmojiLink(spanForFavorite, console.log, true);
-        element.appendChild(spanForFavorite);
+        if (category == 'question') {
+            const spanForFavorite = document.createElement('span');
+            createFavoritesEmojiLink(spanForFavorite, console.log, true);
+            element.appendChild(spanForFavorite);
+        }
 
         const regex = /\b([A-Z]-\d+[A-Za-z]?)\b/g;
         let lastIndex = 0;
@@ -202,7 +203,9 @@
                 popup = createPopup(link.href, mouseX, mouseY);
             };
 
-            link.onmouseout = () => { if (popup) document.body.removeChild(popup); };
+            link.onmouseout = () => {
+                if (popup) document.body.removeChild(popup);
+            };
             element.appendChild(link); // Ссылка добавляется напрямую, без оборачивания в <b>
 
             lastIndex = regex.lastIndex;
@@ -279,7 +282,7 @@
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
-            makeHttpRequest({text: text}, function(result) {
+            makeHttpRequest({text: text}, function (result) {
                 if (result.translate && result.translate.trim() !== '') {
                     saveToCache(text, result.translate);
                     saveToCacheEmojiFlag(result.translate, !result.approved);
@@ -313,49 +316,61 @@
     }
 
     function processSelector(selector, category) {
-        document.querySelectorAll(selector).forEach(element => {
-            if (!element.id) {
-                element.id = 'random-' + Math.floor(Math.random() * 1000000);
+        if (selector.startsWith("/")) {
+            const result = document.evaluate(selector, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+            for (let i = 0; i < result.snapshotLength; i++) {
+                const element = result.snapshotItem(i);
+                processElement(element, selector, category);
             }
+        } else {
+            document.querySelectorAll(selector).forEach(element => {
+                processElement(element, selector, category);
+            });
+        }
+    }
 
-            var id = element.id;
+    function processElement(element, selector, category) {
+        if (!element.id) {
+            element.id = 'random-' + Math.floor(Math.random() * 1000000);
+        }
 
-            if (!id.includes('-cloned')) {
-                var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
+        var id = element.id;
 
-                if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
-                    contentCache[id] = originalTextWithNoTranslate;
+        if (!id.includes('-cloned')) {
+            var originalTextWithNoTranslate = element.innerHTML.replace(/<translation>.*?<\/translation>/g, '').replace(/<\/?[^>]+(>|$)/g, '').trim();
 
-                    if (id && id.endsWith('-answer')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
-                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
-                            const translationElement = element.querySelector('b');
-                            addLinksToSignCodes(translationElement, translatedText);
-                        });
-                    } else if (selector.includes('page_title')) {
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
-                            element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
-                            const translationElement = element.querySelector('translation');
-                            addLinksToSignCodes(translationElement, translatedText);
-                        });
-                    } else {
-                        var clonedContent = getElementWithTranslation(element)
-                        clonedContent.style.display = 'none';
+            if (originalTextWithNoTranslate !== '' && originalTextWithNoTranslate !== contentCache[id]) {
+                contentCache[id] = originalTextWithNoTranslate;
 
-                        translateText(originalTextWithNoTranslate, function(translatedText) {
-                            clonedContent.innerHTML = '';
-                            addLinksToSignCodes(clonedContent, translatedText);
-                            clonedContent.style.display = 'block';
-                        });
-                    }
+                if (id && id.endsWith('-answer')) {
+                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
+                        const translationElement = element.querySelector('b');
+                        prepareTranslationElementAndAddToDom(category, translationElement, translatedText);
+                    });
+                } else if (selector.includes('page_title')) {
+                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                        element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
+                        const translationElement = element.querySelector('translation');
+                        prepareTranslationElementAndAddToDom(category, translationElement, translatedText);
+                    });
+                } else {
+                    var clonedContent = getElementWithTranslation(element)
+                    clonedContent.style.display = 'none';
+
+                    translateText(originalTextWithNoTranslate, function (translatedText) {
+                        clonedContent.innerHTML = '';
+                        prepareTranslationElementAndAddToDom(category, clonedContent, translatedText);
+                        clonedContent.style.display = 'block';
+                    });
                 }
             }
-        });
+        }
     }
 
     var emptyRemoved = false;
 
-    setInterval(function() {
+    setInterval(function () {
         for (let category in selectors) {
             selectors[category].forEach(selector => processSelector(selector, category));
         }
@@ -375,7 +390,7 @@
 
         var imgElement = document.querySelector('img.img-responsive');
 
-        imgElement.addEventListener('click', function() {
+        imgElement.addEventListener('click', function () {
             // Проверяем, поддерживает ли браузер API полноэкранного режима
             if (imgElement.requestFullscreen) {
                 imgElement.requestFullscreen(); // Нативный полноэкранный режим
@@ -388,10 +403,10 @@
             }
         });
 
-        selectorsToRemove.forEach(function(item) {
+        selectorsToRemove.forEach(function (item) {
             var elements = document.querySelectorAll(item.selector);
 
-            elements.forEach(function(element) {
+            elements.forEach(function (element) {
                 var elementToRemove = element;
 
                 for (var i = 0; i < item.deleteLevel; i++) {
