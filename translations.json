@@ -3600,6 +3600,8 @@
         "B. Tylko lekarz": "B. Только врач.",
         "C. Tylko uczestnik wypadku drogowego": "C. Только участник дорожно-транспортного происшествия.",
         "A. Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "A. Каждый человек, который мог бы оказать помощь без подвергания себя или другого человека опасности потери жизни или серьёзного вреда здоровью.",
-        "A. Należy go ewakuować z pojazdu - w każdym przypadku": "A. Нужно эвакуировать его из транспортного средства - в любом случае."
+        "A. Należy go ewakuować z pojazdu - w każdym przypadku": "A. Нужно эвакуировать его из транспортного средства - в любом случае.",
+        "B. Należy go ewakuować z pojazdu - w przypadku stwierdzenia u niego zatrzymania akcji serca": "B. Его необходимо эвакуировать из транспортного средства - в случае обнаружения у него остановки сердца.",
+        "C. Należy go zawsze pozostawić w pojeździe - do czasu przybycia lekarza": "C. Нужно всегда оставлять его в транспортном средстве - до прибытия врача."
     }
 }
