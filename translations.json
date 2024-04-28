@@ -2679,7 +2679,9 @@
             "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
             "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
             "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
-            "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта."
+            "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
+            "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
+            "Ponieważ zapewnia poszkodowanemu największy komfort oczekiwania na pogotowie": "Поскольку это обеспечивает пострадавшему наибольший комфорт ожидания прибытия скорой помощи."
         }
     },
     "not_approved": {
@@ -2735,7 +2737,6 @@
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
         "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию.",
-        "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
