@@ -2675,7 +2675,9 @@
             "Wezwać zespół ratownictwa medycznego, zabrać go do samochodu, okryć i powoli ogrzewać": "Вызвать бригаду скорой медицинской помощи, уложить его в автомобиль, укрыть и медленно согревать.",
             "W przypadku wyziębienia organizmu nie należy pozostawiać poszkodowanego na otwartej przestrzeni, nie należy podawać płynów i gwałtownie rozgrzewać": "В случае переохлаждения организма не следует оставлять пострадавшего на открытом пространстве, не следует давать ему жидкости и резко согревать.",
             "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?",
-            "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?"
+            "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
+            "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
+            "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?"
         }
     },
     "not_approved": {
@@ -3331,7 +3333,6 @@
         "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
         "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
         "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
-        "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
         "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
@@ -3350,7 +3351,6 @@
         "Poruszamy się drogą podporządkowaną. (Znak \"STOP\")": "Мы движемся по второстепенной дороге. (Знак \"СТОП\")",
         "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem": "Пешеход, переходя через проезжую часть или пути трамвайные, обязан проявлять особую осторожность и использовать пешеходный переход. Пешеход, находящийся на этом переходе, имеет преимущество перед транспортным средством.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
-        "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
@@ -3378,7 +3378,6 @@
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
-        "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
@@ -3685,6 +3684,7 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
+        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
+        "Jodynę i gencjanę": "Йод и генциану."
     }
 }
