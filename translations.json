@@ -16,8 +16,7 @@
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
-        "ma obowiązek zatrzymania pojazdu w celu umożliwienia jej przejścia,": "должен остановить транспортное средство, чтобы позволить ей перейти,",
-        "powinien użyć sygnału dźwiękowego,": "Вы должны использовать звуковой сигнал."
+        "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,"
     },
     "approved": {
         "upewninie się": {
@@ -2641,7 +2640,9 @@
             "Tak, ale tylko w przypadku oblodzonej nawierzchni jezdni": "Да, но только в случае обледеневшего дорожного покрытия проезжей части.",
             "Stan techniczny pojazdu oraz przewożony ładunek mają znaczący wpływ na drogę zatrzymania pojazdu": "Техническое состояние транспортного средства и перевозимый груз оказывают значительное влияние на тормозной путь транспортного средства.",
             "Warunki atmosferyczne mają wpływ między innymi na drogę hamowania pojazdu": "Атмосферные условия влияют, в том числе, на тормозной путь транспортного средства.",
-            "Kierujący pojazdem widząc osobę o widocznej ograniczonej sprawności ruchowej, która przechodzi przez jezdnię poza przejściem dla pieszych:": "Водитель транспортного средства, видящий человека с заметно ограниченной подвижностью, который переходит проезжую часть вне пешеходного перехода:"
+            "Kierujący pojazdem widząc osobę o widocznej ograniczonej sprawności ruchowej, która przechodzi przez jezdnię poza przejściem dla pieszych:": "Водитель транспортного средства, видящий человека с заметно ограниченной подвижностью, который переходит проезжую часть вне пешеходного перехода:",
+            "może przejechać obok pieszego, który wolno się porusza": "Может проехать мимо пешехода, который медленно передвигается.",
+            "ma obowiązek zatrzymania pojazdu w celu umożliwienia jej przejścia,": "он обязан остановить транспортное средство, чтобы позволить ей перейти"
         }
     },
     "not_approved": {
@@ -3666,6 +3667,9 @@
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
         "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
-        "może przejechać obok pieszego, który wolno się porusza": "Может проехать мимо пешехода, который медленно передвигается."
+        "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
+        "Kierujący pojazdem parkując obok miejsca przeznaczonego dla pojazdu osoby niepełnosprawnej:": "Водитель, паркуя транспортное средство рядом с местом, предназначенным для транспортного средства инвалида:",
+        "może zająć część miejsca postojowego przeznaczonego dla pojazdu osoby niepełnosprawnej, ponieważ posiada ono większe wymiary niż inne stanowiska postojowe": "может занять часть места стоянки, предназначенного для транспортного средства инвалида, поскольку оно имеет большие размеры, чем другие места стоянки.",
+        "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "он обязан соблюдать способ стоянки, указанный дорожными знаками,"
     }
 }
