@@ -25,10 +25,6 @@
             "drogę zatrzymania",
             "drogą zatrzymania"
         ],
-        "na bezpieczeństwo podczas wymijania: на безопасность во время проезда мимо встречного ТС": [
-            "wymijan",
-            "bezpiecze"
-        ],
         "masz obowiązek używać świateł pozycyjnych lub postojowych: Вы обязаны использовать габаритные огни": [
             "pozycyjn",
             "postojow"
@@ -163,13 +159,13 @@
             "wyprzedzanie: обгон"
         ],
         "wymijan": [
-            "podczas wymijania samochodem osobowym innego pojazdu: во время проезда на автомобиле мимо другого встречного ТС",
-            "podczas wymijania pojazdu: во время проезда мимо встречного ТС",
-            "podczas wymijania pojazdu: минуя встречное ТС",
-            "podczas wymijania pojazdu: при прохождении мимо встречного ТС",
-            "wymijania samochodu osobowego: во время проезда мимо встречного автомобиля",
-            "wymijania samochodu osobowego: минуя встречный автомобиль",
-            "wymijania samochodu osobowego: при прохождении мимо встречного автомобиля"
+            "na bezpieczeństwo podczas wymijania samochodem osobowym innego pojazdu: на безопасность во время встречного разъезда на легковом автомобиле с другим встречным ТС",
+            "podczas wymijania pojazdu: во время встречного разъезда с ТС",
+            "podczas wymijania samochodu osobowego: во время встречного разъезда с легковым автомобилем",
+            "za wymijanie na przejeździe kolejowym: за встречный разъезд на железнодорожном переезде",
+            "podczas wymijania w nocy innego pojazdu: во время встречного разъезда с другим ТС ночью",
+            "w czasie wymijania pojazdu nocą: во время встречного разъезда ночью",
+            "wymijania samochodu osobowego: встречного разъезда с легковым автомобилем"
         ],
         "omijan": [
             "podczas omijania pojazdu: во время объезда ТС",
