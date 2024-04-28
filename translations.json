@@ -18,7 +18,8 @@
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
-        "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,"
+        "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
+        "Każde nieprofesjonalne i błędne działanie ratownicze": "Каждое непрофессиональное и ошибочное действие спасателя."
     },
     "approved": {
         "upewninie się": {
@@ -2651,7 +2652,11 @@
             "Widząc osobę z białą laską przechodzącą przez jezdnię należy:": "При виде человека с белой тростью, пересекающего проезжую часть, следует:",
             "zatrzymać pojazd w celu umożliwienia jej przejścia": "остановить транспортное средство, чтобы позволить ей перейти",
             "użyć sygnału dźwiękowego, jeśli przechodzi poza wyznaczonym przejściem dla pieszych": "использовать звуковой сигнал, если переходит вне обозначенного пешеходного перехода",
-            "w każdym przypadku zmienić bieg na wyższy": "В любом случае переключить передачу на более высокую."
+            "w każdym przypadku zmienić bieg na wyższy": "В любом случае переключить передачу на более высокую.",
+            "Apteczka nie wchodzi w skład obowiązkowego wyposażenia każdego pojazdu samochodowego": "Аптечка не входит в состав обязательной части комплектации каждого автомобильного транспортного средства.",
+            "Które z wymienionych zachowań wobec rannego w wypadku, może skutkować odpowiedzialnością karną?": "Какое из перечисленных поведений по отношению к пострадавшему в аварии может повлечь за собой уголовную ответственность?",
+            "Zaniechanie udzielenia jakiejkolwiek pomocy": "Пренебрежение оказанием какой-либо помощи.",
+            "Każde nieprofesjonalne działanie ratownicze": "Каждое непрофессиональное реанимационное действие."
         }
     },
     "not_approved": {
