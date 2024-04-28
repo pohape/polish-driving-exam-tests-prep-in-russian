@@ -182,6 +182,15 @@
     function addToFavoritesIfNotPresent(translation) {
         if (!favoritesArray.includes(translation)) {
             favoritesArray.push(translation);
+
+            makeHttpRequest({add_to_favorites: translation}, function (result) {
+                if (result.error === null) {
+                    console.log("Added to Favorites in API: " + translation);
+                } else {
+                    console.log("Error adding to Favorites in API: " + translation);
+                }
+            });
+
             console.log(translation + " - added to Favorites.");
         } else {
             console.log(translation + " - already is in Favorites.");
@@ -190,6 +199,7 @@
 
     function removeFromFavorites(translation) {
         const index = favoritesArray.indexOf(translation);
+
         if (index !== -1) {
             favoritesArray.splice(index, 1);
             console.log(translation + " - removed from Favorites.");
