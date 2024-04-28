@@ -2618,7 +2618,10 @@
             "Jaka jest dopuszczalna prędkość pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego?": "Какая разрешенная скорость ТС с грузом (в данном случае его назвали urządzeniem), выступающим вперед более чем на 1,5 м от сидения для водителя?",
             "Prędkość dopuszczalna pojazdu z urządzeniem wystającym do przodu więcej niż 1,5 m od siedzenia dla kierującego wynosi 30 km\/h na obszarze zabudowanym i 60 km\/h poza obszarem zabudowanym": "Допустимая скорость ТС с выступающим вперед грузом (в данном случае его назвали urządzeniem) более чем на 1,5 м от сиденья для водителя составляет 30 км\/ч в населенном пункте и 60 км\/ч вне населенного пункта.",
             "40 km\/h na obszarze zabudowanym": "40 км\/ч в населенном пункте.",
-            "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта."
+            "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
+            "30 km\/h bez względu na obszar w jakim się porusza": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
+            "Jaka jest dopuszczalna prędkość samochodu osobowego z przyczepą na tak oznakowanej drodze?": "Какая допустимая скорость автомобиля с прицепом на обозначенной таким образом дороге?",
+            "W obszarze zabudowanym nie da się inaczej": "В населённом пункте по-другому не получится."
         }
     },
     "not_approved": {
@@ -3141,7 +3144,6 @@
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
         "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
-        "30 km\/h bez względu na obszar w jakim się porusza": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
         "Oczyścić ze śniegu tylko szyby w pojeździe": "Очистить от снега только стекла в транспортном средстве.",
         "Oczyścić ze śniegu wszystkie szyby, pokrywę silnika, dach i lusterka": "Очистить от снега все стекла, капот, крышу и зеркала.",
         "Oczyścić ze śniegu tylko przednią szybę w pojeździe": "Очистить от снега только переднее стекло в транспортном средстве.",
@@ -3651,6 +3653,7 @@
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
+        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
+        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
     }
 }
