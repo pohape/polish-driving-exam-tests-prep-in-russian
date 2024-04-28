@@ -2658,7 +2658,14 @@
             "Każde nieprofesjonalne działanie ratownicze": "Каждое непрофессиональное реанимационное действие.",
             "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia, ciężkiego uszkodzenia ciała lub ciężkiego rozstroju zdrowia nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub poważnego uszczerbku na zdrowiu - podlega karze pozbawienia wolności do lat 3": "Тот, кто не оказывает помощь человеку, находящемуся в положении, угрожающем непосредственной опасностью потери жизни, тяжкого повреждения тела или тяжкого расстройства здоровья, могущему оказать помощь без подвергания себя или другого лица опасности потери жизни или серьёзного ущерба здоровью, подлежит наказанию лишением свободы до 3 лет.",
             "Każde nieprofesjonalne i błędne działanie ratownicze": "Каждое непрофессиональное и ошибочное спасательное действие.",
-            "Kontaktując się ze służbami ratowniczymi bardzo istotne jest podanie dokładnej lokalizacji miejsca zdarzenia": "При общении со службами спасения очень важно сообщить точное местоположение места происшествия."
+            "Kontaktując się ze służbami ratowniczymi bardzo istotne jest podanie dokładnej lokalizacji miejsca zdarzenia": "При общении со службами спасения очень важно сообщить точное местоположение места происшествия.",
+            "Pod który z podanych numerów powinieneś zadzwonić, aby wezwać karetkę pogotowia ratunkowego na miejsce wypadku drogowego?": "По какому из указанных номеров следует позвонить, чтобы вызвать скорую помощь на место ДТП?",
+            "112 lub 999": "112 или 999",
+            "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
+            "Która z wymienionych czynności należy do obowiązków kierowcy uczestniczącego w wypadku drogowym, w którym jest zabity lub ranny?": "Какое из перечисленных действий относится к обязанностям водителя, участвующего в дорожно-транспортном происшествии, в котором есть погибший или раненый?",
+            "Ustalenie przebiegu wypadku": "Установление хода аварии.",
+            "Ustalenie sprawcy wypadku": "Установление виновника аварии.",
+            "Pozostanie na miejscu zdarzenia": "Оставаться на месте происшествия."
         }
     },
     "not_approved": {
@@ -2678,7 +2685,6 @@
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
-        "Pod który z podanych numerów powinieneś zadzwonić, aby wezwać karetkę pogotowia ratunkowego na miejsce wypadku drogowego?": "По какому из указанных номеров следует позвонить, чтобы вызвать скорую помощь на место ДТП?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
@@ -2688,7 +2694,6 @@
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
-        "Numer pogotowia ratunkowego to 999. Ewentualnie pozostaje kontakt z numerem alarmowym 112": "Номер скорой помощи-999. Кроме того, остается связь с экстренным номером 112.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
         "Nieprawidłowa zbieżność przejawia się trudnościami w utrzymaniu prostego toru jazdy": "Неправильное схождение проявляется трудностями в поддержании прямой траектории движения.",
         "Do utraty sterowności": "К потере управляемости.",
@@ -2790,8 +2795,6 @@
         "karta pojazdu": "карта автомобиля.",
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
-        "Ustalenie przebiegu wypadku": "Установление хода аварии.",
-        "Ustalenie sprawcy wypadku": "Установление виновника аварии.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
@@ -3054,7 +3057,6 @@
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
-        "112 lub 999": "112 или 999",
         "Czy w tej sytuacji wolno Ci wykonać manewr wyprzedzania?": "В данной ситуации разрешается ли вам выполнить маневр обгона?",
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
