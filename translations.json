@@ -2612,7 +2612,8 @@
             "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
             "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?",
             "Tak, ale tylko podczas jazdy w terenie zabudowanym": "Да, но только во время езды в населенном пункте.",
-            "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения."
+            "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
+            "Z jaką prędkością wolno poruszać się tak oznakowaną drogą jednojezdniową kierując samochodem osobowym?": "С какой скоростью разрешается двигаться автомобилем по таким образом обозначенной дороге с одной проезжей частью?"
         }
     },
     "not_approved": {
@@ -3649,6 +3650,7 @@
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
+        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
+        "Dopuszczalny limit prędkości na drodze ekspresowej jednojezdniowej dla samochodu osobowego wynosi 100 km\/h": "Допустимый предел скорости на \"drodze ekspresowej jednojezdniowej\" для автомобиля составляет 100 км\/ч."
     }
 }
