@@ -388,9 +388,13 @@
         "roboty": {
             "Znak widoczny na zdjęciu ostrzega o prowadzonych na drodze robotach mogących powodować utrudnienia w ruchu": "Знак, показанный на фотографии, предупреждает о том, что на дороге проводятся работы, которые могут вызвать затруднения в движении."
         },
-        "ruch silnika": {
-            "Czy jako kierujący możesz oddalić się od pojazdu, którego silnik jest w ruchu?": "Можете ли вы, как водитель, отойти от автомобиля, двигатель которого запущен и работает?",
-            "Czy przepisy ustawy Prawo o ruchu drogowym dopuszczają możliwość oddalenia się od pojazdu, którego silnik jest w ruchu?": "Допускает ли закон О дорожном движении возможность удалиться от транспортного средства, двигатель которого запущен и работает?"
+        "silnik w ruchu": {
+            "Przy uruchomionym silniku": "При работающим двигателе.",
+            "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
+            "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik jest w ruchu": "Категорически запрещено водителю отходить от транспортного средства с работающим двигателем.",
+            "Czy dozwolone jest oddalanie się od pojazdu, gdy jego silnik jest w ruchu?": "Разрешается ли удаляться от автомобиля с работающим двигателем?",
+            "Czy jako kierujący możesz oddalić się od pojazdu, którego silnik jest w ruchu?": "Можете ли вы, как водитель, отойти от автомобиля с работающим двигателем?",
+            "Czy przepisy ustawy Prawo o ruchu drogowym dopuszczają możliwość oddalenia się od pojazdu, którego silnik jest w ruchu?": "Допускает ли закон О дорожном движении возможность удалиться от транспортного средства с работающим двигателем?"
         },
         "spadek podłużny": {
             "Znak widoczny na zdjęciu ostrzega o znacznym spadku podłużnym drogi": "Знак, видимый на фото, предупреждает о крутом спуске."
@@ -1092,7 +1096,6 @@
             "Utrata sterowności": "Потеря управляемости.",
             "Sprawdzi Twoje dane zgromadzone w Centralnej Ewidencji Kierowców": "Проверит ваши данные, собранные в Центральном Реестре Водителей.",
             "Ukarać mandatem karnym za brak wymaganych dokumentów": "Наказать штрафом за отсутствие необходимых документов.",
-            "Czy dozwolone jest oddalanie się od pojazdu, gdy jego silnik jest w ruchu?": "Разрешается ли удаляться от автомобиля, когда его двигатель запущен и работает?",
             "Tak, pod warunkiem, że pojazd pozostaje w polu widzenia": "Да, при условии, что транспортное средство остается в поле зрения.",
             "Tak, na czas nie dłuższy niż 1 minutę": "Да, на время не дольше чем 1 минуту.",
             "Który z wymienionych czynników ma bezpośredni wpływ na długość całkowitej drogi zatrzymania samochodu osobowego?": "Какой из перечисленных факторов имеет непосредственное влияние на общую длину тормозного пути легкового автомобиля?",
@@ -2209,7 +2212,6 @@
             "Nazwa ulicy i numer posesji lub numer drogi, nazwa najbliższej miejscowości, słupek kilometrowy": "Название улицы и номер здания или номер дороги, название ближайшей местности, километровый столб.",
             "Numer telefonu informującego": "Номер телефона информирующего.",
             "Jedynie nazwa najbliższej miejscowości": "Только название ближайшей местности.",
-            "Przy uruchomionym silniku": "С запущенным и работающим двигателем.",
             "Kiedy należy sprawdzać poziom oleju w silniku?": "Когда следует проверять уровень масла в двигателе?",
             "Przed uruchomieniem zimnego silnika albo co najmniej po kilku minutach po jego wyłączeniu": "Перед запуском холодного двигателя или как минимум спустя несколько минут после его выключения.",
             "Nie, ponieważ w nocy ruch na drodze jest mniejszy": "Нет, потому что ночью движение на дороге меньше.",
@@ -2604,8 +2606,7 @@
             "Kierujesz samochodem osobowym, jadąc dwujezdniową drogą ekspresową. Z jaką dopuszczalną prędkością wolno Ci jechać?": "Вы управляете легковым автомобилем, двигаясь по \"drodze ekspresowej\" с двумя проезжими частями. С какой разрешенной скоростью вам можно ехать?",
             "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": "Вы управляете автомобилем с прицепом, едете по автостраде. Какой скорости вам не разрешается превышать?",
             "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
-            "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч.",
-            "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?"
+            "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч."
         }
     },
     "not_approved": {
@@ -3009,7 +3010,6 @@
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
-        "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik jest w ruchu": "Категорически запрещено водителю отходить от транспортного средства, когда двигатель запущен и работает.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
         "112 lub 999": "112 или 999",

@@ -307,6 +307,12 @@
             "dostosować prędkość do warunków panujących na drodze: адаптировать скорость к текущим дорожным условиям",
             "w zależności od panujących warunków: в зависимости от текущих условий",
             "odpowiednio dobrana do panujących warunków opona: правильно подобранная к текущим уловиям шина"
+        ],
+        "silnik": [
+            "przy uruchomionym silniku: при работающим двигателе",
+            "silnik jest w ruchu: работающий двигатель",
+            "od pojazdu, gdy silnik jest w ruchu: от транспортного средства с работающим двигателем",
+            "od pojazdu, którego silnik jest w ruchu: от транспортного средства с работающим двигателем"
         ]
     },
     "dictionary_others": {
@@ -345,7 +351,6 @@
         "zakazu": "znak zakazu: запрещающий знак",
         "ciągł": "ta linia ciągła wyznacza miejsce zatrzymania: эта сплошная линия указывает место остановки",
         "przez dzieci": "miejsce na drodze szczególnie uczęszczane przez dzieci: место на дороге, где часто переходят дети",
-        "silnik jest w ruchu": "silnik jest w ruchu: двигатель запущен и работает",
         "uwaga": "znak \"uwaga tramwaj\": знак \"Внимание трамвай\"",
         "zwalniaj": "prog zwalniający: искуственная дорожная неровность (лежачий полицейский)",
         "półzapor": "półzapory: шлагбаумы",
