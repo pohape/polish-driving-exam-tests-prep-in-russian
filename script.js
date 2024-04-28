@@ -11,6 +11,12 @@
 (function () {
     'use strict';
 
+    const switchPlaceSelectors = [
+        "#quiz-box-report > div > div.panel-body.report-body > div:nth-child(3)",
+        "#next-question",
+        "#learning-check"
+    ]
+
     const selectors = {
         "question": [
             "#question-content",
@@ -87,6 +93,8 @@
 
     let contentCache = {};
     let favoritesArray = [];
+    let switchIsOn = true;
+    let switchIds = new Set();
 
     function createPopup(src, mouseX, mouseY) {
         const popup = document.createElement('div');
@@ -215,6 +223,37 @@
                 console.log("Error removing from API Favorites: " + translation);
             }
         });
+    }
+
+    function changeSwitch(event) {
+        switchIsOn = event.target.checked
+        console.log("Switch is " + switchIsOn);
+
+        switchIds.forEach(id => {
+            let switchElement = document.getElementById(id);
+            switchElement.checked = switchIsOn
+        });
+    }
+
+    function createAndInsertToggleSwitch(element, id) {
+        const div = document.createElement('div');
+        div.className = 'toggle-switch';
+
+        const input = document.createElement('input');
+        input.type = 'checkbox';
+        input.id = id;
+        input.hidden = true;
+        input.checked = switchIsOn
+        switchIds.add(id);
+        input.addEventListener('change', changeSwitch);
+
+        const label = document.createElement('label');
+        label.setAttribute('for', id);
+        label.className = 'switch';
+
+        div.appendChild(input);
+        div.appendChild(label);
+        element.prepend(div);
     }
 
     function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
@@ -360,6 +399,21 @@
         return clonedContent
     }
 
+    function processSwitch(selector) {
+        // console.log('!!!')
+        // console.log(selector)
+        let id = 'toggle-switch-' + selector.length
+        let switchElement = document.getElementById(id);
+
+        if (!switchElement) {
+            let element = document.querySelector(selector);
+
+            if (element) {
+                createAndInsertToggleSwitch(element, id);
+            }
+        }
+    }
+
     function processSelector(selector, category) {
         try {
             if (selector.startsWith("/")) {
@@ -455,6 +509,7 @@
             selectors[category].forEach(selector => processSelector(selector, category));
         }
 
+        switchPlaceSelectors.forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {
@@ -520,6 +575,40 @@
     }
     .breadcumb_section {
         margin-top: 33px !important;
+    }
+    .toggle-switch {
+      position: relative;
+      display: inline-block;
+      width: 60px;
+      height: 34px;
+    }
+    .switch {
+      position: absolute;
+      cursor: pointer;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #ccc;
+      transition: .4s;
+      border-radius: 34px;
+    }
+    .switch:before {
+      position: absolute;
+      content: "";
+      height: 26px;
+      width: 26px;
+      left: 4px;
+      bottom: 4px;
+      background-color: white;
+      transition: .4s;
+      border-radius: 50%;
+    }
+    input:checked + .switch {
+      background-color: #2196F3;
+    }
+    input:checked + .switch:before {
+      transform: translateX(26px);
     }`;
 
     document.head.appendChild(style);
