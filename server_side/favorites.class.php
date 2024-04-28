@@ -26,6 +26,6 @@ class Favorites extends Base
 
     public function getFavorites()
     {
-        return self::load();
+        return array_values(self::load());
     }
 }
