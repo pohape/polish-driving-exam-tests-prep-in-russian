@@ -2621,7 +2621,9 @@
             "60 km\/h poza obszarem zabudowanym": "60 км\/ч вне населенного пункта.",
             "30 km\/h bez względu na obszar w jakim się porusza": "30 км\/ч безотносительно к тому, в какой местности вы движетесь.",
             "Jaka jest dopuszczalna prędkość samochodu osobowego z przyczepą na tak oznakowanej drodze?": "Какая допустимая скорость автомобиля с прицепом на обозначенной таким образом дороге?",
-            "W obszarze zabudowanym nie da się inaczej": "В населённом пункте по-другому не получится."
+            "W obszarze zabudowanym nie da się inaczej": "В населённом пункте по-другому не получится.",
+            "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa \/ śnieżyca, ulewa itp.\/, nie mniejszą niż 40 km\/h": "Учитывая атмосферные условия, при которых происходит движение \/снегопад, ливень и т.п.\/, не менее 40 км\/ч.",
+            "Prędkość na autostradzie powinna zapewniać panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa. Dopuszczalna prędkość wynosi 140 km\/h": "Скорость на автостраде должна обеспечивать контроль над ТС с учетом условий, в которых происходит движение. Допустимая скорость составляет 140 км\/ч."
         }
     },
     "not_approved": {
@@ -3211,7 +3213,6 @@
         "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
-        "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa \/ śnieżyca, ulewa itp.\/, nie mniejszą niż 40 km\/h": "Учитывая атмосферные условия, при которых происходит движение \/снегопад, ливень и т.п.\/, не менее 40 км\/ч.",
         "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
         "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
         "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
