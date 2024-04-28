@@ -3603,6 +3603,16 @@
         "Jaki odstęp należy zachować podczas wyprzedzania samochodu osobowego?": "Какую дистанцию следует соблюдать во время обгона автомобиля?",
         "Czy w tej sytuacji, dojeżdżając drogą dwukierunkową do wierzchołka wzniesienia, masz prawo wyprzedzić motocykl?": "Имеешь ли ты право обогнать мотоцикл, подъезжая дорогой с двусторонним движением к вершине возвышенности?",
         "Czy w tej sytuacji za znakiem masz prawo zaparkować na jezdni pojazd silnikowy?": "В данной ситуации после знака имеете ли вы право припарковать на проезжей части моторное транспортное средство?",
-        "Czy za widocznymi znakami zakazu dozwolony jest postój pojazdu silnikowego na chodniku?": "Возможна ли стоянка моторного транспортного средства на тротуаре за видимыми запрещающими знаками?"
+        "Czy za widocznymi znakami zakazu dozwolony jest postój pojazdu silnikowego na chodniku?": "Возможна ли стоянка моторного транспортного средства на тротуаре за видимыми запрещающими знаками?",
+        "Czy zamierzając jechać prosto przez to skrzyżowanie masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z prawej strony?": "Планируя двигаться прямо через этот перекресток, обязаны ли вы уступить дорогу транспортным средствам, приближающимся справа?",
+        "Masz zamiar skręcić w prawo na widocznym skrzyżowaniu. Czy w związku z tym masz obowiązek ustąpić pierwszeństwa pojazdom, które zbliżają się z lewej strony?": "Вы собираетесь повернуть направо на видном перекрестке. В связи с этим вы обязаны уступить дорогу ТС, приближающимся слева?",
+        "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z prawej strony?": "У вас есть преимущество перед ТС, приближающемся справа?",
+        "Czy w tej sytuacji, skręcając w prawo na skrzyżowaniu, wjedziesz na drogę z pierwszeństwem?": "У вас есть преимущество перед ТС?",
+        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie przed zapaleniem się sygnału czerwonego?": "Имеешь ли ты право въехать на перекрёсток перед тем, как загорится красный сигнал?",
+        "Czy w tej sytuacji sygnał świetlny nadawany dla twojego kierunku ruchu zezwala na wjazd za sygnalizator?": "В этой ситуации разрешает ли световой сигнал для вашего направления движения въезд за светофор?",
+        "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": "Разрешает ли видимый сигнал поворот направо без остановки?",
+        "Czy w przedstawionej sytuacji na tym skrzyżowaniu masz prawo zawrócić?": "Имеешь ли ты право развернуться в данной ситуации на этом перекрестке?",
+        "Czy w tej sytuacji masz prawo wjechać za sygnalizator?": "Имеешь ли ты право въехать за светофор в этой ситуации?",
+        "Czy w widocznej sytuacji dopuszczalne jest skręcanie w lewo i zawracanie na skrzyżowaniu?": "Допускается ли в данной видимой ситуации поворот налево и разворот на перекрестке?"
     }
 }
