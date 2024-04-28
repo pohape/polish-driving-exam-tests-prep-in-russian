@@ -672,6 +672,7 @@
             "Odpowiednio dobrana do panujących warunków opona zdecydowanie poprawia właściwości jezdne": "Правильно подобранная к текущим уловиям шина заметно улучшает ходовые свойства."
         },
         "others": {
+            "Jodynę i gencjanę": "Йод и раствор генцианового фиолета (это специальный антисептик).",
             "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
             "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности предписано, используя автомобильный огнетушитель, избегать полного открытия капота?",
             "Przy linii rozdzielającej pasy ruchu - na prawej połowie jezdni": "У линии, разделяющей полосы движения - на правой половине проезжей части.",
@@ -3684,7 +3685,6 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
-        "Jodynę i gencjanę": "Йод и генциану."
+        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
     }
 }
