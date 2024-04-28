@@ -13,7 +13,8 @@
 
     const selectors = {
         "question": [
-            "#question-content"
+            "#question-content",
+            "#q-result-question"
         ],
         "others": [
             "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
@@ -23,7 +24,6 @@
             '#c-answer',
             '#report-explanation',
             '#q-result-explanation',
-            '#q-result-question',
             '#learning-success-tr2 > td > div:not([class]):not([id])',
             '#learning-failure-tr2 > td:first-child',
             '#learning-failure-tr3 > td:first-child',
@@ -153,7 +153,7 @@
     function createFavoritesEmojiLink(span, onClickHandler, addedToFavorites = false) {
         const titleAdd = 'Добавить в список сложных';
         const titleRemove = 'Убрать из списка сложных';
-        const emojiAdded = ' ⭐😡 ';
+        const emojiAdded = ' ⭐ ';
         const emojiNotAdded = ' ☆ ';
 
         const link = document.createElement('a');
@@ -373,6 +373,17 @@
         }
     }
 
+    function loadFavorites() {
+        makeHttpRequest({}, function (result) {
+            if (result.error === null && Array.isArray(result.favorites)) {
+                console.log("Favorites loaded successfully", result.favorites);
+            } else {
+                console.error("Failed to load favorites: ", result.error);
+            }
+        });
+    }
+
+    loadFavorites();
     let emptyRemoved = false;
 
     setInterval(function () {
