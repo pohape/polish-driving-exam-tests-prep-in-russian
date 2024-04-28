@@ -2629,7 +2629,11 @@
             "50 km\/h bez względu na jego dopuszczalną masę całkowitą": "50 км\/ч независимо от его разрешенной максимальной массы.",
             "40 km\/h, jeżeli jego dopuszczalna masa całkowita przekracza 3,5 t": "40 км\/ч, если его разрешенная максимальная масса превышает 3,5 т.",
             "Ograniczenie prędkości w obszarze zabudowanym wynosi 50 km\/h": "Ограничение скорости в населенном пункте составляет 50 км\/ч.",
-            "Jaka jest maksymalna dopuszczalna prędkość samochodu osobowego poruszającego się po tej drodze?": "Какова максимальная разрешенная скорость легкового автомобиля, движущегося по этой дороге?"
+            "Jaka jest maksymalna dopuszczalna prędkość samochodu osobowego poruszającego się po tej drodze?": "Какова максимальная разрешенная скорость легкового автомобиля, движущегося по этой дороге?",
+            "Na drodze jednojezdniowej poza obszarem zabudowanym maksymalna dopuszczalna prędkość samochodu osobowego wynosi 90 km\/h": "На дороге с одной проезжей частью за пределами населенного пункта максимальная разрешенная скорость легкового автомобиля составляет 90 км\/ч.",
+            "Z jaką maksymalną dopuszczalną prędkością możesz holować inny pojazd?": "С какой максимальной разрешенной скоростью вы можете буксировать другое ТС?",
+            "50 km\/h w obszarze zabudowanym": "50 км\/ч в населенном пункте.",
+            "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами."
         }
     },
     "not_approved": {
@@ -2951,7 +2955,6 @@
         "Jakie warunki powinien spełniać samochód osobowy, którym chcesz przewieźć dziecko, które ma mniej niż trzy lata?": "Какие условия должен выполнять легковой автомобиль, которым вы хотите перевезти ребенка, который младше трех лет?",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
-        "Na drodze jednojezdniowej poza obszarem zabudowanym maksymalna dopuszczalna prędkość samochodu osobowego wynosi 90 km\/h": "На дороге с одной проезжей частью за пределами населенного пункта максимальная разрешенная скорость легкового автомобиля составляет 90 км\/ч.",
         "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
         "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
@@ -3016,9 +3019,6 @@
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
-        "50 km\/h w obszarze zabudowanym": "50 км\/ч в населенном пункте.",
-        "Z jaką maksymalną dopuszczalną prędkością możesz holować inny pojazd?": "С какой максимальной разрешенной скоростью вы можете буксировать другое ТС?",
-        "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
@@ -3657,6 +3657,9 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
+        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
+        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и грузовая нагрузка автомобиля факторами, которые необходимо учитывать при выборе скорости движения?",
+        "Tak, ale tylko w przypadku oblodzonej nawierzchni jezdni": "Да, но только в случае обледеневшего дорожного покрытия проезжей части.",
+        "Tak, ale tylko jeżeli kierujesz samochodem ciężarowym": "Да, но только если вы управляете грузовым автомобилем."
     }
 }
