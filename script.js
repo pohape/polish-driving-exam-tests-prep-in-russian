@@ -86,6 +86,7 @@
     ];
 
     let contentCache = {};
+    let favoritesArray = [];
 
     function createPopup(src, mouseX, mouseY) {
         const popup = document.createElement('div');
@@ -150,13 +151,14 @@
         span.appendChild(link);
     }
 
-    function createFavoritesEmojiLink(span, onClickHandler, addedToFavorites = false) {
+    function createFavoritesEmojiLink(span, originalText) {
         const titleAdd = 'Добавить в список сложных';
         const titleRemove = 'Убрать из списка сложных';
         const emojiAdded = ' ⭐ ';
         const emojiNotAdded = ' ☆ ';
 
         const link = document.createElement('a');
+        let addedToFavorites = favoritesArray.includes(originalText)
 
         link.href = '#';
         link.title = addedToFavorites ? titleRemove : titleAdd;
@@ -166,17 +168,40 @@
             addedToFavorites = !addedToFavorites;
             link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
             link.title = addedToFavorites ? titleRemove : titleAdd;
-            onClickHandler(addedToFavorites ? 'add' : 'remove');
+
+            if (addedToFavorites) {
+                addToFavoritesIfNotPresent(originalText)
+            } else {
+                removeFromFavorites(originalText)
+            }
         };
 
         span.appendChild(link);
     }
 
-    function prepareTranslationElementAndAddToDom(category, element, translation) {
+    function addToFavoritesIfNotPresent(translation) {
+        if (!favoritesArray.includes(translation)) {
+            favoritesArray.push(translation);
+            console.log(translation + " - added to Favorites.");
+        } else {
+            console.log(translation + " - already is in Favorites.");
+        }
+    }
 
+    function removeFromFavorites(translation) {
+        const index = favoritesArray.indexOf(translation);
+        if (index !== -1) {
+            favoritesArray.splice(index, 1);
+            console.log(translation + " - removed from Favorites.");
+        } else {
+            console.log(translation + " - not found in Favorites.");
+        }
+    }
+
+    function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
         if (category == 'question') {
             const spanForFavorite = document.createElement('span');
-            createFavoritesEmojiLink(spanForFavorite, console.log, true);
+            createFavoritesEmojiLink(spanForFavorite, originalText);
             element.appendChild(spanForFavorite);
         }
 
@@ -351,13 +376,23 @@
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /><b></b><br /><br /></translation>';
                         const translationElement = element.querySelector('b');
-                        prepareTranslationElementAndAddToDom(category, translationElement, translatedText);
+                        prepareTranslationElementAndAddToDom(
+                            category,
+                            translationElement,
+                            translatedText,
+                            originalTextWithNoTranslate
+                        );
                     });
                 } else if (selector.includes('page_title')) {
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         element.innerHTML = originalTextWithNoTranslate + '<translation><br /></translation>';
                         const translationElement = element.querySelector('translation');
-                        prepareTranslationElementAndAddToDom(category, translationElement, translatedText);
+                        prepareTranslationElementAndAddToDom(
+                            category,
+                            translationElement,
+                            translatedText,
+                            originalTextWithNoTranslate
+                        );
                     });
                 } else {
                     let clonedContent = getElementWithTranslation(element);
@@ -365,7 +400,12 @@
 
                     translateText(originalTextWithNoTranslate, function (translatedText) {
                         clonedContent.innerHTML = '';
-                        prepareTranslationElementAndAddToDom(category, clonedContent, translatedText);
+                        prepareTranslationElementAndAddToDom(
+                            category,
+                            clonedContent,
+                            translatedText,
+                            originalTextWithNoTranslate
+                        );
                         clonedContent.style.display = 'block';
                     });
                 }
@@ -376,7 +416,8 @@
     function loadFavorites() {
         makeHttpRequest({}, function (result) {
             if (result.error === null && Array.isArray(result.favorites)) {
-                console.log("Favorites loaded successfully", result.favorites);
+                favoritesArray = result.favorites;
+                console.log("Favorites loaded successfully", favoritesArray);
             } else {
                 console.error("Failed to load favorites: ", result.error);
             }
