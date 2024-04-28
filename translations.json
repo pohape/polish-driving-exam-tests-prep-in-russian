@@ -2592,7 +2592,10 @@
             "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
             "Dopuszczalna prędkość samochodu osobowego na autostradzie wynosi 140 km\/h": "Допустимая скорость автомобиля на автостраде составляет 140 км\/ч.",
             "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
-            "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч."
+            "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
+            "Czy kierując pojazdem samochodowym o dopuszczalnej masie całkowitej 2,5 t, na obszarze zabudowanym, na tak oznakowanej drodze, możesz jechać z prędkością 70 km\/h?": "Когда вы управляете автомобилем с допустимой общей массой 2,5 тонны, на населенном пункте, на обозначенной таким образом дороге, можете ли вы ехать со скоростью 70 км\/ч?",
+            "Znak widoczny na zdjęciu (ograniczenie prędkości) oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę": "Знак, видимый на фотографии (ограничение скорости), означает запрет на превышение скорости, указанной на знаке числом километров в час.",
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?"
         }
     },
     "not_approved": {
@@ -3217,7 +3220,6 @@
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
-        "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?",
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
@@ -3642,6 +3644,6 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "Czy kierując pojazdem samochodowym o dopuszczalnej masie całkowitej 2,5 t, na obszarze zabudowanym, na tak oznakowanej drodze, możesz jechać z prędkością 70 km\/h?": "Когда вы управляете автомобилем с допустимой общей массой 2,5 тонны, на населенном пункте, на обозначенной таким образом дороге, можете ли вы ехать со скоростью 70 км\/ч?"
+        "Na drodze ekspresowej jednojezdniowej dopuszczalna prędkość samochodu osobowego o dopuszczalnej masie całkowitej 3 t. wynosi 100 km\/h": "На \"drodze ekspresowej\" с одной проезжей частью допустимая скорость автомобиля с допустимой полной массой 3 тонны составляет 100 км\/ч."
     }
 }
