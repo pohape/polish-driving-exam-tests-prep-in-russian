@@ -2607,7 +2607,12 @@
             "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": "Вы управляете автомобилем с прицепом, едете по автостраде. Какой скорости вам не разрешается превышать?",
             "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
             "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч.",
-            "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч."
+            "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
+            "Tak, ale tylko do 15 metrów od pojazdu": "Да, но только в пределах 15 метров от транспортного средства.",
+            "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
+            "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?",
+            "Tak, ale tylko podczas jazdy w terenie zabudowanym": "Да, но только во время езды в населенном пункте.",
+            "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения."
         }
     },
     "not_approved": {
@@ -2661,7 +2666,6 @@
         "Czy w tej sytuacji powodujesz zagrożenie bezpieczeństwa na drodze?": "Вы создаете угрозу безопасности на дороге в этой ситуации?",
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
         "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
-        "Tak, ale tylko do 5 metrów od pojazdu": "Да, но только в 5 метрах от машины.",
         "Dlaczego nie?": "Почему бы и нет?",
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
         "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности.",
@@ -2755,7 +2759,6 @@
         "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
-        "Stan techniczny pojazdu powinien być wyznacznikiem przy doborze prędkości jazdy": "Техническое состояние транспортного средства должно быть определяющим фактором при выборе скорости движения.",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
@@ -3476,8 +3479,6 @@
         "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?",
         "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
         "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?",
-        "Tak, ale tylko podczas jazdy w terenie zabudowanym": "Да, но только во время езды в населенном пункте.",
-        "Czy stan techniczny pojazdu jest czynnikiem, który powinieneś uwzględniać podczas dobierania prędkości jazdy na drodze?": "Является ли техническое состояние транспортного средства фактором, который следует учитывать при выборе скорости движения на дороге?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
@@ -3648,7 +3649,6 @@
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "Tak, ale tylko do 15 metrów od pojazdu": "Да, но только в пределах 15 метров от транспортного средства."
+        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
     }
 }
