@@ -134,10 +134,7 @@ class Translate extends Base
             $translations['not_approved'][$original] = $translation;
         }
 
-        file_put_contents(
-            __DIR__ . '/' . $this->filename,
-            json_encode($translations, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
-        );
+        $this->save($translations);
     }
 
     private static function replaceRoadSignCyrillicCodes($text)

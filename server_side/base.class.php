@@ -21,4 +21,12 @@ class Base
             return [];
         }
     }
+
+    protected function save($data)
+    {
+        file_put_contents(
+            __DIR__ . '/' . $this->filename,
+            json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
+        );
+    }
 }

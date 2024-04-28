@@ -10,11 +10,17 @@ class Favorites extends Base
 
         if (!in_array($string, $favorites)) {
             $favorites[] = $string;
+            $this->save($favorites);
+        }
+    }
 
-            file_put_contents(
-                __DIR__ . '/' . $this->filename,
-                json_encode($favorites, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE)
-            );
+    public function removeFromFavorites(string $string)
+    {
+        $favorites = self::load();
+
+        if (($key = array_search($string, $favorites)) !== false) {
+            unset($favorites[$key]);
+            $this->save($favorites);
         }
     }
 

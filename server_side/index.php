@@ -36,6 +36,7 @@ if (isset($input['text'])) {
     echo json_encode($result, JSON_UNESCAPED_UNICODE);
 } elseif (isset($input['approve'])) {
     $prepared = prepareText($input['approve']);
+
     echo json_encode(
         ['error' => null, 'success' => $translate->approveTranslation($prepared['text'])],
         JSON_UNESCAPED_UNICODE
@@ -48,8 +49,14 @@ if (isset($input['text'])) {
         JSON_UNESCAPED_UNICODE
     );
 } elseif (isset($input['add_to_favorites'])) {
-
     $favorites->saveToFavorites($input['add_to_favorites']);
+
+    echo json_encode(
+        ['error' => null, 'success' => true, 'favorites' => $favorites->getFavorites()],
+        JSON_UNESCAPED_UNICODE
+    );
+} elseif (isset($input['remove_from_favorites'])) {
+    $favorites->removeFromFavorites($input['remove_from_favorites']);
 
     echo json_encode(
         ['error' => null, 'success' => true, 'favorites' => $favorites->getFavorites()],
