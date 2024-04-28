@@ -182,19 +182,19 @@
     function addToFavoritesIfNotPresent(translation) {
         if (!favoritesArray.includes(translation)) {
             favoritesArray.push(translation);
-
-            makeHttpRequest({add_to_favorites: translation}, function (result) {
-                if (result.error === null) {
-                    console.log("Added to Favorites in API: " + translation);
-                } else {
-                    console.log("Error adding to Favorites in API: " + translation);
-                }
-            });
-
-            console.log(translation + " - added to Favorites.");
+            console.log("Added to local Favorites: " + translation);
         } else {
-            console.log(translation + " - already is in Favorites.");
+            console.log("Already is in local Favorites: " + translation);
         }
+
+        makeHttpRequest({add_to_favorites: translation}, function (result) {
+            if (result.error === null) {
+                console.log("Added to API Favorites: " + translation);
+                saveFavorites(result)
+            } else {
+                console.log("Error adding to API Favorites: " + translation);
+            }
+        });
     }
 
     function removeFromFavorites(translation) {
@@ -202,10 +202,19 @@
 
         if (index !== -1) {
             favoritesArray.splice(index, 1);
-            console.log(translation + " - removed from Favorites.");
+            console.log("Removed from local Favorites: " + translation);
         } else {
-            console.log(translation + " - not found in Favorites.");
+            console.log("Not found in local Favorites: " + translation);
         }
+
+        makeHttpRequest({remove_from_favorites: translation}, function (result) {
+            if (result.error === null) {
+                console.log("Removed from API Favorites: " + translation);
+                saveFavorites(result)
+            } else {
+                console.log("Error removing from API Favorites: " + translation);
+            }
+        });
     }
 
     function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
@@ -423,14 +432,18 @@
         }
     }
 
+    function saveFavorites(result) {
+        if (result.error === null && Array.isArray(result.favorites)) {
+            favoritesArray = result.favorites;
+            console.log("Favorites loaded successfully", favoritesArray);
+        } else {
+            console.error("Failed to load favorites: ", result.error);
+        }
+    }
+
     function loadFavorites() {
         makeHttpRequest({}, function (result) {
-            if (result.error === null && Array.isArray(result.favorites)) {
-                favoritesArray = result.favorites;
-                console.log("Favorites loaded successfully", favoritesArray);
-            } else {
-                console.error("Failed to load favorites: ", result.error);
-            }
+            saveFavorites(result)
         });
     }
 
