@@ -2647,7 +2647,11 @@
             "ma obowiązek zatrzymania pojazdu w celu umożliwienia jej przejścia,": "он обязан остановить транспортное средство, чтобы позволить ей перейти",
             "może zająć część miejsca postojowego przeznaczonego dla pojazdu osoby niepełnosprawnej, ponieważ posiada ono większe wymiary niż inne stanowiska postojowe": "может занять часть места стоянки, предназначенного для транспортного средства инвалида, поскольку оно имеет большие размеры, чем другие места стоянки.",
             "Organizator miejsc postojowych na pewno wziął pod uwagę komfort osób niepełnosprawnych. Wystarczy stosować się do znaków wskazujących sposób postoju": "Организатор мест для стоянки, безусловно, принял во внимание комфорт людей с ограниченными возможностями. Достаточно следовать указателям, показывающим способ стоянки.",
-            "Kierujący pojazdem parkując obok miejsca przeznaczonego dla pojazdu osoby niepełnosprawnej:": "Водитель, паркуя транспортное средство рядом с местом, предназначенным для транспортного средства инвалида:"
+            "Kierujący pojazdem parkując obok miejsca przeznaczonego dla pojazdu osoby niepełnosprawnej:": "Водитель, паркуя транспортное средство рядом с местом, предназначенным для транспортного средства инвалида:",
+            "Widząc osobę z białą laską przechodzącą przez jezdnię należy:": "При виде человека с белой тростью, пересекающего проезжую часть, следует:",
+            "zatrzymać pojazd w celu umożliwienia jej przejścia": "остановить транспортное средство, чтобы позволить ей перейти",
+            "użyć sygnału dźwiękowego, jeśli przechodzi poza wyznaczonym przejściem dla pieszych": "использовать звуковой сигнал, если переходит вне обозначенного пешеходного перехода",
+            "w każdym przypadku zmienić bieg na wyższy": "В любом случае переключить передачу на более высокую."
         }
     },
     "not_approved": {
