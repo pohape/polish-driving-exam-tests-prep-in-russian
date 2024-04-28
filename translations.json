@@ -2606,7 +2606,8 @@
             "Kierujesz samochodem osobowym, jadąc dwujezdniową drogą ekspresową. Z jaką dopuszczalną prędkością wolno Ci jechać?": "Вы управляете легковым автомобилем, двигаясь по \"drodze ekspresowej\" с двумя проезжими частями. С какой разрешенной скоростью вам можно ехать?",
             "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": "Вы управляете автомобилем с прицепом, едете по автостраде. Какой скорости вам не разрешается превышать?",
             "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
-            "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч."
+            "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч.",
+            "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч."
         }
     },
     "not_approved": {
@@ -3307,7 +3308,6 @@
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
-        "Maksymalna prędkość na autostradzie dla samochodu osobowego wynosi 140 km\/h": "Максимальная скорость на автостраде для легкового автомобиля составляет 140 км\/ч.",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
         "Niskie napięcie akumulatora": "Низкое напряжение аккумулятора.",
         "Zwarcie w obwodzie świateł kierunkowskazów": "Короткое замыкание в цепи указателей поворота.",
@@ -3648,6 +3648,7 @@
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
+        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
+        "Tak, ale tylko do 15 metrów od pojazdu": "Да, но только в пределах 15 метров от транспортного средства."
     }
 }
