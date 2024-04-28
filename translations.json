@@ -2601,7 +2601,11 @@
             "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
             "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że: prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать механическое транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
             "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tymi znakami, jeśli holujesz inny samochód osobowy?": "С какой максимальной разрешённой скоростью тебе можно ехать по дороге после этих знаков, если ты буксируешь другой легковой автомобиль?",
-            "Kierujesz samochodem osobowym, jadąc dwujezdniową drogą ekspresową. Z jaką dopuszczalną prędkością wolno Ci jechać?": "Вы управляете легковым автомобилем, двигаясь по \"drodze ekspresowej\" с двумя проезжими частями. С какой разрешенной скоростью вам можно ехать?"
+            "Kierujesz samochodem osobowym, jadąc dwujezdniową drogą ekspresową. Z jaką dopuszczalną prędkością wolno Ci jechać?": "Вы управляете легковым автомобилем, двигаясь по \"drodze ekspresowej\" с двумя проезжими частями. С какой разрешенной скоростью вам можно ехать?",
+            "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": "Вы управляете автомобилем с прицепом, едете по автостраде. Какой скорости вам не разрешается превышать?",
+            "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
+            "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч.",
+            "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?"
         }
     },
     "not_approved": {
@@ -2900,7 +2904,6 @@
         "O kolejny miesiąc": "На следующий месяц.",
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
-        "Czy jako kierujący, możesz oddalić się od pojazdu z pracującym silnikiem?": "Можете ли вы, как водитель, отойти от автомобиля с запущенным и работающим двигателем?",
         "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
@@ -3343,7 +3346,6 @@
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
         "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
-        "Z jaką dopuszczalną prędkością wolno Ci się poruszać kierując samochodem osobowym ciągnącym przyczepę lekką na autostradzie?": "С какой разрешённой скоростью тебе разрешается передвигаться, управляя автомобилем, буксирующим лёгкий прицеп на автостраде?",
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
@@ -3646,8 +3648,6 @@
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": "Вы управляете автомобилем с прицепом, едете по автостраде. Какой скорости вам не разрешается превышать?",
-        "Samochodem osobowym z przyczepą nie można przekroczyć 80 km\/h": "Автомобилем с прицепом нельзя превышать скорость 80 км\/ч."
+        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
     }
 }
