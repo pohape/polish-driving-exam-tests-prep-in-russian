@@ -300,6 +300,13 @@
         "poziom": [
             "znak poziomy: наземный (горизонтальный) знак",
             "oznakowanie poziome: наземная (горизонтальная) разметка"
+        ],
+        " pan": [
+            "warunki panujące na drodze: дорожные условия",
+            "panowanie nad pojazdem: контроль над ТС",
+            "dostosować prędkość do warunków panujących na drodze: адаптировать скорость к текущим дорожным условиям",
+            "w zależności od panujących warunków: в зависимости от текущих условий",
+            "odpowiednio dobrana do panujących warunków opona: правильно подобранная к текущим уловиям шина"
         ]
     },
     "dictionary_others": {
