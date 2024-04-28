@@ -15,7 +15,9 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
-        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?"
+        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
+        "ma obowiązek zatrzymania pojazdu w celu umożliwienia jej przejścia,": "должен остановить транспортное средство, чтобы позволить ей перейти,",
+        "powinien użyć sygnału dźwiękowego,": "Вы должны использовать звуковой сигнал."
     },
     "approved": {
         "upewninie się": {
@@ -2637,7 +2639,9 @@
             "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать моторное транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами.",
             "Tak, ale tylko jeżeli kierujesz samochodem ciężarowym": "Да, но только если вы управляете грузовым автомобилем.",
             "Tak, ale tylko w przypadku oblodzonej nawierzchni jezdni": "Да, но только в случае обледеневшего дорожного покрытия проезжей части.",
-            "Stan techniczny pojazdu oraz przewożony ładunek mają znaczący wpływ na drogę zatrzymania pojazdu": "Техническое состояние транспортного средства и перевозимый груз оказывают значительное влияние на тормозной путь транспортного средства."
+            "Stan techniczny pojazdu oraz przewożony ładunek mają znaczący wpływ na drogę zatrzymania pojazdu": "Техническое состояние транспортного средства и перевозимый груз оказывают значительное влияние на тормозной путь транспортного средства.",
+            "Warunki atmosferyczne mają wpływ między innymi na drogę hamowania pojazdu": "Атмосферные условия влияют, в том числе, на тормозной путь транспортного средства.",
+            "Kierujący pojazdem widząc osobę o widocznej ograniczonej sprawności ruchowej, która przechodzi przez jezdnię poza przejściem dla pieszych:": "Водитель транспортного средства, видящий человека с заметно ограниченной подвижностью, который переходит проезжую часть вне пешеходного перехода:"
         }
     },
     "not_approved": {
@@ -3661,6 +3665,7 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
+        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
+        "może przejechać obok pieszego, który wolno się porusza": "Может проехать мимо пешехода, который медленно передвигается."
     }
 }
