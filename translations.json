@@ -2677,7 +2677,8 @@
             "Czy każdy ma obowiązek udzielenia pierwszej pomocy poszkodowanym w wypadku drogowym?": "Обязан ли каждый оказывать первую помощь пострадавшим в дорожно-транспортном происшествии?",
             "Co powinieneś zrobić w razie stwierdzenia złamania otwartego?": "Что ты должен сделать в случае обнаружения открытого перелома?",
             "W przypadku złamań otwartych unieruchamiamy dwa sąsiadujące z raną stawy": "В случае открытых переломов обездвиживаем два сустава, примыкающие к ране.",
-            "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?"
+            "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
+            "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта."
         }
     },
     "not_approved": {
@@ -3378,7 +3379,6 @@
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
         "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
-        "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
