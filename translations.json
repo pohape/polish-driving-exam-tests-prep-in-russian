@@ -2687,7 +2687,9 @@
             "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Поскольку это предотвращает закупорку дыхательных путей и захлебывание.",
             "W przypadku zachłyśnięcia się dziecka należy bezpiecznie zatrzymać samochód, wyjąć dziecko i trzymając je głową w dół uderzać między łopatkami": "В случае, если ребенок начинает задыхаться, необходимо безопасно остановить автомобиль, достать ребенка и, держа его головой вниз, похлопывать между лопатками.",
             "Czego nie możesz robić uczestnicząc w wypadku, w którym są zabici?": "Что ты не можешь делать, участвуя в аварии, в которой есть погибшие?",
-            "Dzwonić po straż pożarną": "Позвонить в пожарную службу."
+            "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
+            "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
+            "Przestawiać pojazdu na pobocze drogi": "Переставлять транспортное средство на обочину дороги."
         }
     },
     "not_approved": {
@@ -3228,8 +3230,6 @@
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
         "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой впереди и позади транспортного средства.",
-        "Przestawiać pojazdu na pobocze drogi": "Перестроиться на обочину дороги.",
-        "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
         "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
