@@ -2625,7 +2625,10 @@
             "Uwzględniającą warunki atmosferyczne, w jakich ruch się odbywa \/ śnieżyca, ulewa itp.\/, nie mniejszą niż 40 km\/h": "Учитывая атмосферные условия, при которых происходит движение \/снегопад, ливень и т.п.\/, не менее 40 км\/ч.",
             "Prędkość na autostradzie powinna zapewniać panowanie nad pojazdem z uwzględnieniem warunków, w jakich ruch się odbywa. Dopuszczalna prędkość wynosi 140 km\/h": "Скорость на автостраде должна обеспечивать контроль над ТС с учетом условий, в которых происходит движение. Допустимая скорость составляет 140 км\/ч.",
             "Limit wynosi 80 km\/h na drodze dwujezdniowej poza obszarem zabudowanym": "Лимит составляет 80 км\/ч на дороге с двумя проезжими частями вне населённого пункта.",
-            "Znak ograniczenia prędkości umieszczony pod znakiem D-42 obowiązuje na terenie całego obszaru zabudowanego": "Знак ограничения скорости, установленный под знаком D-42, действует на территории всего населенного пункта."
+            "Znak ograniczenia prędkości umieszczony pod znakiem D-42 obowiązuje na terenie całego obszaru zabudowanego": "Знак ограничения скорости, установленный под знаком D-42, действует на территории всего населенного пункта.",
+            "50 km\/h bez względu na jego dopuszczalną masę całkowitą": "50 км\/ч независимо от его разрешенной максимальной массы.",
+            "40 km\/h, jeżeli jego dopuszczalna masa całkowita przekracza 3,5 t": "40 км\/ч, если его разрешенная максимальная масса превышает 3,5 т.",
+            "Ograniczenie prędkości w obszarze zabudowanym wynosi 50 km\/h": "Ограничение скорости в населенном пункте составляет 50 км\/ч."
         }
     },
     "not_approved": {
@@ -2989,8 +2992,6 @@
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy, gdy kierujący pojazdem przekroczył dopuszczalną prędkość o:": "Заместитель главы администрации выносит административное решение о приостановлении прав на управление транспортным средством, когда водитель превысил разрешенную скорость на:",
         "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
-        "40 km\/h, jeżeli jego dopuszczalna masa całkowita przekracza 3,5 t": "40 км\/ч, если его разрешенная максимальная масса превышает 3,5 т.",
-        "50 km\/h bez względu na jego dopuszczalną masę całkowitą": "50 км\/ч независимо от его разрешенной максимальной массы.",
         "Skrócenie drogi hamowania": "Укорочение тормозного пути.",
         "Zmniejszenie przyczepności opon do jezdni": "Уменьшение сцепления шин с проезжей частью.",
         "Zwiększenie przyczepności opon do jezdni": "Увеличение сцепления шин с проезжей частью.",
