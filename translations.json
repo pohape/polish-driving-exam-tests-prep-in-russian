@@ -2595,7 +2595,10 @@
             "Dopuszczalna prędkość samochodu osobowego na drodze ekspresowej dwujezdniowej wynosi 120 km\/h": "Допустимая скорость легкового автомобиля на \"drodze ekspresowej\" с двумя проезжими частями составляет 120 км\/ч.",
             "Czy kierując pojazdem samochodowym o dopuszczalnej masie całkowitej 2,5 t, na obszarze zabudowanym, na tak oznakowanej drodze, możesz jechać z prędkością 70 km\/h?": "Когда вы управляете автомобилем с допустимой общей массой 2,5 тонны, на населенном пункте, на обозначенной таким образом дороге, можете ли вы ехать со скоростью 70 км\/ч?",
             "Znak widoczny na zdjęciu (ograniczenie prędkości) oznacza zakaz przekraczania prędkości określonej na znaku liczbą kilometrów na godzinę": "Знак, видимый на фотографии (ограничение скорости), означает запрет на превышение скорости, указанной на знаке числом километров в час.",
-            "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?"
+            "Z jaką maksymalną dopuszczalną prędkością możesz jechać, kierując samochodem osobowym o dopuszczalnej masie całkowitej 3 t, na drodze ekspresowej jednojezdniowej?": "С какой максимальной разрешённой скоростью ты можешь ехать, управляя легковым автомобилем с разрешённой максимальной массой 3 т, на \"drodze ekspresowej\" с одной проезжей частью?",
+            "Na drodze ekspresowej jednojezdniowej dopuszczalna prędkość samochodu osobowego o dopuszczalnej masie całkowitej 3 t. wynosi 100 km\/h": "На \"drodze ekspresowej\" с одной проезжей частью допустимая скорость автомобиля с допустимой полной массой 3 тонны составляет 100 км\/ч.",
+            "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że: prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym": "Водитель может буксировать транспортное средство только при условии, что: скорость буксирующего автомобиля не превышает 30 км\/ч в населенном пункте.",
+            "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?"
         }
     },
     "not_approved": {
@@ -2713,7 +2716,6 @@
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
-        "Z jaką maksymalną dopuszczalną prędkością wolno Ci jechać po drodze za tym znakiem, jeśli holujesz inny samochód osobowy?": "С какой максимально допустимой скоростью вам разрешено ехать по дороге за этим знаком, если вы буксируете другой легковой автомобиль?",
         "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
@@ -3644,6 +3646,6 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "Na drodze ekspresowej jednojezdniowej dopuszczalna prędkość samochodu osobowego o dopuszczalnej masie całkowitej 3 t. wynosi 100 km\/h": "На \"drodze ekspresowej\" с одной проезжей частью допустимая скорость автомобиля с допустимой полной массой 3 тонны составляет 100 км\/ч."
+        "Kierujący może holować pojazd silnikowy tylko pod warunkiem, że: prędkość pojazdu holującego nie przekracza 30 km\/h na obszarze zabudowanym i 60 km\/h poza tym obszarem": "Водитель может буксировать механическое транспортное средство только при условии, что скорость буксирующего транспортного средства не превышает 30 км\/ч в населенном пункте и 60 км\/ч за его пределами."
     }
 }
