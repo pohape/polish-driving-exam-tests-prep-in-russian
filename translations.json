@@ -2584,7 +2584,11 @@
             "Wyłączyć system kontroli trakcji": "Выключите систему контроля тяги.",
             "Podczas wyprzedzania należy zachować bezpieczny odstęp od pojazdu wyprzedzanego": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
             "Bezpieczny, ale większy niż 1,5 metra": "Безопасный, но больше 1,5 метра.",
-            "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра."
+            "Bezpieczny, ale mniejszy niż 0,5 metra": "Безопасный, но менее 0,5 метра.",
+            "Od panujących warunków i możliwego czasu reakcji kierującego": "От текущих условий и возможного времени реакции водителя.",
+            "Tylko od panujących warunków atmosferycznych": "Только от текущих погодных условий.",
+            "Tylko od rodzaju nawierzchni drogi": "Только от типа дорожного покрытия.",
+            "Od czego powinna być uzależniona odległość ciągnika rolniczego, od pojazdu poprzedzającego?": "От чего должно зависеть расстояние трактора от впереди идущего транспортного средства?"
         }
     },
     "not_approved": {
