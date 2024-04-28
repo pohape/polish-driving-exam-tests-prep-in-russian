@@ -19,7 +19,8 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
-        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место."
+        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
+        "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию."
     },
     "approved": {
         "upewninie się": {
@@ -2681,7 +2682,9 @@
             "Co należy zastosować do opatrzenia silnie krwawiących ran?": "Что следует использовать для перевязки сильно кровоточащих ран?",
             "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
             "Dlaczego układanie na boku osób nieprzytomnych i oddychających jest bezpieczne?": "Почему безопасно укладывать людей без сознания и дыхания на бок?",
-            "Ponieważ zapewnia poszkodowanemu największy komfort oczekiwania na pogotowie": "Поскольку это обеспечивает пострадавшему наибольший комфорт ожидания прибытия скорой помощи."
+            "Ponieważ zapewnia poszkodowanemu największy komfort oczekiwania na pogotowie": "Поскольку это обеспечивает пострадавшему наибольший комфорт ожидания прибытия скорой помощи.",
+            "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
+            "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Поскольку это предотвращает закупорку дыхательных путей и захлебывание."
         }
     },
     "not_approved": {
@@ -2732,11 +2735,9 @@
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
         "Czy w tej sytuacji powodujesz zagrożenie bezpieczeństwa na drodze?": "Вы создаете угрозу безопасности на дороге в этой ситуации?",
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
-        "Ponieważ zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Потому что это предотвращает обструкцию дыхательных путей и аспирацию.",
         "Dlaczego nie?": "Почему бы и нет?",
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
         "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности.",
-        "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию.",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
@@ -2820,7 +2821,6 @@
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
-        "Ponieważ zabezpiecza przed urazami kręgosłupa szyjnego": "Потому что он защищает от травм шейного отдела позвоночника.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
