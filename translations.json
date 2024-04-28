@@ -2588,7 +2588,10 @@
             "Od panujących warunków i możliwego czasu reakcji kierującego": "От текущих условий и возможного времени реакции водителя.",
             "Tylko od panujących warunków atmosferycznych": "Только от текущих погодных условий.",
             "Tylko od rodzaju nawierzchni drogi": "Только от типа дорожного покрытия.",
-            "Od czego powinna być uzależniona odległość ciągnika rolniczego, od pojazdu poprzedzającego?": "От чего должно зависеть расстояние трактора от впереди идущего транспортного средства?"
+            "Od czego powinna być uzależniona odległość ciągnika rolniczego, od pojazdu poprzedzającego?": "От чего должно зависеть расстояние трактора от впереди идущего транспортного средства?",
+            "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
+            "Dopuszczalna prędkość samochodu osobowego na autostradzie wynosi 140 km\/h": "Допустимая скорость автомобиля на автостраде составляет 140 км\/ч.",
+            "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч."
         }
     },
     "not_approved": {
@@ -2990,7 +2993,6 @@
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
-        "Dopuszczalna prędkość samochodu osobowego na drodze jednojezdniowej poza obszarem zabudowanym wynosi 90 km\/h": "Допустимая скорость легкового автомобиля на дороге с одной проезжей частью за пределами населенного пункта составляет 90 км\/ч.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
@@ -3326,7 +3328,6 @@
         "Jodynę i gencjanę": "Йод и генциану.",
         "W przypadku krwawiących ran stosujemy opatrunek uciskowy z gazy lub bandaża": "В случае кровоточащих ран применяем компрессионную повязку из марли или бинта.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
-        "Dopuszczalna prędkość samochodu osobowego z przyczepą na autostradzie wynosi 80 km\/h": "Допустимая скорость легкового автомобиля с прицепом на автостраде составляет 80 км\/ч.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
