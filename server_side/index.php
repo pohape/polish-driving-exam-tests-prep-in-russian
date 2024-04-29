@@ -49,10 +49,12 @@ if (isset($input['text'])) {
         JSON_UNESCAPED_UNICODE
     );
 } elseif (isset($input['add_to_favorites'])) {
-    $favorites->saveToFavorites($input['add_to_favorites']);
-
     echo json_encode(
-        ['error' => null, 'success' => true, 'favorites' => $favorites->getFavorites()],
+        [
+            'error' => null,
+            'success' => $favorites->saveToFavorites($input['add_to_favorites']),
+            'favorites' => $favorites->getFavorites()
+        ],
         JSON_UNESCAPED_UNICODE
     );
 } elseif (isset($input['remove_from_favorites'])) {

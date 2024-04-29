@@ -7,13 +7,17 @@ class Base
      */
     protected string $filename = '';
 
-    protected function load()
+    protected function load($filename = null)
     {
-        if (empty($this->filename)) {
+        if (empty($filename)) {
+            $filename = $this->filename;
+        }
+
+        if (empty($filename)) {
             return [];
         }
 
-        $path = __DIR__ . '/' . $this->filename;
+        $path = __DIR__ . '/' . $filename;
 
         if (file_exists($path)) {
             return json_decode(file_get_contents($path), true);
