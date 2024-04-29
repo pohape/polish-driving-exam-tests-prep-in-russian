@@ -93,7 +93,6 @@
 
     let contentCache = {};
     let favoritesArray = [];
-    let switchIsOn = true;
     let switchIds = new Set();
 
     function createPopup(src, mouseX, mouseY) {
@@ -225,14 +224,20 @@
         });
     }
 
-    function changeSwitch(event) {
-        switchIsOn = event.target.checked
-        console.log("Switch is " + switchIsOn);
+    function setSwitchState(event = null) {
+        let switchIsOn = event ? event.target.checked : loadFromCacheSwitchState();
 
         switchIds.forEach(id => {
             let switchElement = document.getElementById(id);
             switchElement.checked = switchIsOn
         });
+
+        document.querySelectorAll('.translation').forEach(element => {
+            element.style.display = switchIsOn ? 'block' : 'none';
+            console.log(element.tagName + ' - ' + element.id + ": switch is " + switchIsOn + "; display is " + element.style.display);
+        });
+
+        saveToCacheSwitchState(switchIsOn)
     }
 
     function createAndInsertToggleSwitch(element, id) {
@@ -243,9 +248,9 @@
         input.type = 'checkbox';
         input.id = id;
         input.hidden = true;
-        input.checked = switchIsOn
+        input.checked = loadFromCacheSwitchState()
         switchIds.add(id);
-        input.addEventListener('change', changeSwitch);
+        input.addEventListener('change', setSwitchState);
 
         const label = document.createElement('label');
         label.setAttribute('for', id);
@@ -257,7 +262,7 @@
     }
 
     function prepareTranslationElementAndAddToDom(category, element, translation, originalText) {
-        if (category == 'question') {
+        if (category === 'question') {
             const spanForFavorite = document.createElement('span');
             createFavoritesEmojiLink(spanForFavorite, originalText);
             element.appendChild(spanForFavorite);
@@ -313,7 +318,10 @@
             span.innerHTML = ' ✅';
         }
 
+        element.classList.add('translation');
         element.appendChild(span);
+
+        setSwitchState()
     }
 
     function getCacheKey(originalText) {
@@ -335,10 +343,17 @@
 
     function loadFromCacheEmojiFlag(translate) {
         let result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
-
         console.log("Load for '" + translate + "' emojiFlag=" + result)
 
-        return result == 1;
+        return result === '1';
+    }
+
+    function saveToCacheSwitchState(isItEnabled) {
+        localStorage.setItem('translation_switch_state', isItEnabled ? '1' : '0');
+    }
+
+    function loadFromCacheSwitchState() {
+        return localStorage.getItem('translation_switch_state') === '1';
     }
 
     function saveToCache(original, translate) {
@@ -417,7 +432,14 @@
     function processSelector(selector, category) {
         try {
             if (selector.startsWith("/")) {
-                const result = document.evaluate(selector, document, null, XPathResult.ORDERED_NODE_SNAPSHOT_TYPE, null);
+                const result = document.evaluate(
+                    selector,
+                    document,
+                    null,
+                    XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
+                    null
+                );
+
                 for (let i = 0; i < result.snapshotLength; i++) {
                     const element = result.snapshotItem(i);
                     processElement(element, selector, category);
