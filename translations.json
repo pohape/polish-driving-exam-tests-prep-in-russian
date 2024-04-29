@@ -19,7 +19,8 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
-        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место."
+        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
+        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Ты освобожден от обязанности соблюдения видимого запрещающего знака, перевозя автомобилем каждого пассажира с ограниченной подвижностью?"
     },
     "approved": {
         "upewninie się": {
@@ -2698,7 +2699,8 @@
             "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
             "O kolejny miesiąc": "На следующий месяц.",
             "O kolejne trzy miesiące": "Еще на три месяца.",
-            "Czy masz prawo zawrócić na moście?": "Имеешь ли ты право развернуться на мосту?"
+            "Czy masz prawo zawrócić na moście?": "Имеешь ли ты право развернуться на мосту?",
+            "Taki pasażer powinien posiadać kartę parkingową": "Такой пассажир должен иметь парковочную карту."
         }
     },
     "not_approved": {
@@ -3703,7 +3705,6 @@
         "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "dowód rejestracyjny": "Свидетельство о регистрации.",
-        "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
-        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Перевод фрагмента: \"Перевозя в автомобиле каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\""
+        "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении."
     }
 }
