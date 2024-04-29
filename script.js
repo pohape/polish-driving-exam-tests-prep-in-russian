@@ -17,14 +17,14 @@
         "#learning-question > div.question-box",
         "#learning-check > div:nth-child(5)",
         "#learnings-list > div:nth-child(1) > div:nth-child(3)",
-        "body > div.container.margin-bottom > div > div.col-md-6.col-lg-6 > div:nth-child(2)",
+        "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[1]"
     ]
 
     const selectors = {
         "question": [
             "#question-content",
             "#q-result-question",
-            "body > div.container.margin-bottom > div > div.col-md-6.col-lg-6 > div:nth-child(2)",
+            "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]",
         ],
         "others": [
             "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
@@ -413,7 +413,24 @@
         let switchElement = document.getElementById(id);
 
         if (!switchElement) {
-            let element = document.querySelector(selector);
+            let element;
+
+            if (selector.startsWith("/")) {
+                const xpathResult = document.evaluate(
+                    selector,
+                    document,
+                    null,
+                    XPathResult.ORDERED_NODE_SNAPSHOT_TYPE,
+                    null
+                );
+
+                if (xpathResult.snapshotLength > 0) {
+                    element = xpathResult.snapshotItem(0);
+                }
+            } else {
+                // Поиск элемента с использованием CSS селектора
+                element = document.querySelector(selector);
+            }
 
             if (element) {
                 createAndInsertToggleSwitch(element, id);
