@@ -19,8 +19,7 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
-        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
-        "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает обструкцию дыхательных путей и аспирацию."
+        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место."
     },
     "approved": {
         "upewninie się": {
@@ -2698,7 +2697,8 @@
             "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
             "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
             "O kolejny miesiąc": "На следующий месяц.",
-            "O kolejne trzy miesiące": "Еще на три месяца."
+            "O kolejne trzy miesiące": "Еще на три месяца.",
+            "Czy masz prawo zawrócić na moście?": "Имеешь ли ты право развернуться на мосту?"
         }
     },
     "not_approved": {
@@ -3692,6 +3692,18 @@
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
         "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
         "Prawidłowo ustawiony zagłówek powinien znajdować się maksymalnie blisko potylicy, a jego górna krawędź powinna znajdować się na wysokości czubka głowy": "Правильно настроенный подголовник должен находиться максимально близко к затылку, а его верхний край должен находиться на уровне макушки головы.",
-        "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?"
+        "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?",
+        "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
+        "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
+        "Powinieneś pozostać na zajmowanym pasie": "Вы должны оставаться на занимаемой полосе.",
+        "Co powinieneś zrobić w tej sytuacji?": "Что ты должен сделать в этой ситуации?",
+        "Masz prawo zmienić pas ruchu na lewy": "Вы имеете право перестроиться на левую полосу.",
+        "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
+        "Podczas zmiany pasa ruchu nie musisz zachować szczególnej ostrożności": "Во время смены полосы движения не нужно соблюдать особую осторожность.",
+        "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
+        "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
+        "dowód rejestracyjny": "Свидетельство о регистрации.",
+        "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
+        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Перевод фрагмента: \"Перевозя в автомобиле каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\""
     }
 }
