@@ -12,9 +12,11 @@
     'use strict';
 
     const switchPlaceSelectors = [
-        "#quiz-box-report > div > div.panel-body.report-body > div:nth-child(3)",
-        "#next-question",
-        "#learning-check"
+        "#quiz-box-report > div > div.panel-body.report-body > div.report-question-box",
+        "#quiz-box > div > div.panel-body > div.question-box",
+        "#learning-question > div.question-box",
+        "#learning-check > div:nth-child(5)",
+        "#learnings-list > div:nth-child(1) > div:nth-child(3)",
     ]
 
     const selectors = {
@@ -234,7 +236,6 @@
 
         document.querySelectorAll('.translation').forEach(element => {
             element.style.display = switchIsOn ? 'block' : 'none';
-            console.log(element.tagName + ' - ' + element.id + ": switch is " + switchIsOn + "; display is " + element.style.display);
         });
 
         saveToCacheSwitchState(switchIsOn)
@@ -332,10 +333,6 @@
         return "emojiFlagsCache_" + CryptoJS.MD5(translation).toString();
     }
 
-    function printNumberOfTranslationsInCache() {
-        console.log("Number of translations in cache: " + Object.keys(localStorage).filter(key => key.startsWith("translationCache_")).length);
-    }
-
     function saveToCacheEmojiFlag(translate, flag) {
         console.log("Save for '" + translate + "' emojiFlag=" + flag)
         localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag ? '1' : '0');
@@ -358,17 +355,12 @@
 
     function saveToCache(original, translate) {
         localStorage.setItem(getCacheKey(original), translate);
-        // console.log("Translation saved to cache: " + translate);
-        // printNumberOfTranslationsInCache();
     }
 
     function loadFromCache(original) {
         let cachedTranslation = localStorage.getItem(getCacheKey(original));
 
         if (cachedTranslation !== null) {
-            // console.log("Translation loaded from cache: " + cachedTranslation);
-            // printNumberOfTranslationsInCache();
-
             return cachedTranslation;
         }
 
@@ -415,8 +407,6 @@
     }
 
     function processSwitch(selector) {
-        // console.log('!!!')
-        // console.log(selector)
         let id = 'toggle-switch-' + selector.length
         let switchElement = document.getElementById(id);
 
@@ -501,7 +491,6 @@
                             translatedText,
                             originalTextWithNoTranslate
                         );
-                        clonedContent.style.display = 'block';
                     });
                 }
             }
