@@ -2694,7 +2694,9 @@
             "Ile maksymalnie osób, wliczając siebie, możesz przewozić, gdy masz prawo jazdy kategorii B?": "Cколько максимально людей, включая себя, вы можете перевозить, если у вас есть водительские права категории B?",
             "Jakie warunki powinien spełniać samochód osobowy, którym chcesz przewieźć dziecko, które ma mniej niż trzy lata?": "Какие условия должен выполнять легковой автомобиль, которым вы хотите перевезти ребенка, который младше трех лет?",
             "Powinien być wyposażony w pasy i fotelik bezpieczeństwa": "Он должен быть оснащён ремнями и детским автокреслом.",
-            "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности."
+            "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности.",
+            "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
+            "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:"
         }
     },
     "not_approved": {
@@ -2783,7 +2785,6 @@
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
-        "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
@@ -3002,7 +3003,6 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-        "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
         "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
