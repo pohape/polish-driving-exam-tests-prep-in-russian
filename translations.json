@@ -12,7 +12,6 @@
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обогнать транспортное средство с преимущественными правами после этого знака?",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский произведет временное изъятие водительского удостоверения с выдачей свидетельства в случае выявления деяния, заключающегося в: Полицейский произведет.",
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать дорожными огнями, если это может привести к ослеплению других водителей?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
@@ -3719,6 +3718,8 @@
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
         "Zmień kategorię prawa jazdy &nbsp;&nbsp;A &nbsp;&nbsp;B &nbsp;&nbsp;C &nbsp;&nbsp;D &nbsp;&nbsp;T": "Измените категорию водительских прав A B C D T",
         "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3.",
-        "Rzeźba terenu jest czynnikiem, który należy brać pod uwagę dobierając prędkość jazdy na drodze": "Рельеф местности является фактором, который следует учитывать при выборе скорости движения на дороге."
+        "Rzeźba terenu jest czynnikiem, który należy brać pod uwagę dobierając prędkość jazdy na drodze": "Рельеф местности является фактором, который следует учитывать при выборе скорости движения на дороге.",
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский временно изымет водительское удостоверение с выдачей свидетельства в случае выявления деяния, состоящего на: Полицейский временно изымет",
+        "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?": "Имеете ли право использовать задние противотуманные фары, если туман ограничивает видимость до расстояния 100 м?"
     }
 }
