@@ -2700,7 +2700,9 @@
             "O kolejny miesiąc": "На следующий месяц.",
             "O kolejne trzy miesiące": "Еще на три месяца.",
             "Czy masz prawo zawrócić na moście?": "Имеешь ли ты право развернуться на мосту?",
-            "Taki pasażer powinien posiadać kartę parkingową": "Такой пассажир должен иметь парковочную карту."
+            "Taki pasażer powinien posiadać kartę parkingową": "Такой пассажир должен иметь парковочную карту.",
+            "Karta parkingowa nie zwalnia z przestrzegania przepisów dotyczących limitów prędkości": "Парковочная карта не освобождает от соблюдения правил, касающихся лимитов скорости.",
+            "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km\/h?": "Допускается ли во время перевоза человека с инвалидностью, предъявляющего парковочную карту, превышать разрешенную скорость не более чем на 10 км\/ч?"
         }
     },
     "not_approved": {
@@ -3705,8 +3707,6 @@
         "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "dowód rejestracyjny": "Свидетельство о регистрации.",
-        "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
-        "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km\/h?": "Допускается ли во время перевоза человека с инвалидностью, предъявляющего парковочную карту, превышать разрешенную скорость не более чем на 10 км\/ч?",
-        "Karta parkingowa nie zwalnia z przestrzegania przepisów dotyczących limitów prędkości": "Парковочная карта не освобождает от соблюдения правил, касающихся лимитов скорости."
+        "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении."
     }
 }
