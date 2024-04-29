@@ -2690,7 +2690,11 @@
             "Dzwonić po straż pożarną": "Позвонить в пожарную службу.",
             "Udzielać pierwszej pomocy": "Оказывать первую помощь.",
             "Przestawiać pojazdu na pobocze drogi": "Переставлять транспортное средство на обочину дороги.",
-            "Emisja bezbarwnych spalin": "Эмиссия бесцветных выхлопных газов."
+            "Emisja bezbarwnych spalin": "Эмиссия бесцветных выхлопных газов.",
+            "Ile maksymalnie osób, wliczając siebie, możesz przewozić, gdy masz prawo jazdy kategorii B?": "Cколько максимально людей, включая себя, вы можете перевозить, если у вас есть водительские права категории B?",
+            "Jakie warunki powinien spełniać samochód osobowy, którym chcesz przewieźć dziecko, które ma mniej niż trzy lata?": "Какие условия должен выполнять легковой автомобиль, которым вы хотите перевезти ребенка, который младше трех лет?",
+            "Powinien być wyposażony w pasy i fotelik bezpieczeństwa": "Он должен быть оснащён ремнями и детским автокреслом.",
+            "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности."
         }
     },
     "not_approved": {
@@ -2998,10 +3002,7 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-        "Powinien być wyposażony w pasy i fotelik bezpieczeństwa": "Он должен быть оснащён ремнями и детским автокреслом.",
         "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
-        "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности.",
-        "Jakie warunki powinien spełniać samochód osobowy, którym chcesz przewieźć dziecko, które ma mniej niż trzy lata?": "Какие условия должен выполнять легковой автомобиль, которым вы хотите перевезти ребенка, который младше трех лет?",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
         "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
@@ -3122,7 +3123,6 @@
         "Zwiększyć odległość od poprzedzającego pojazdu": "Увеличить дистанцию от впереди идущего ТС.",
         "Jak można zminimalizować zagrożenie kierując pojazdem podczas gęstej mgły?": "Как можно минимизировать опасность, управляя транспортным средством во время густого тумана?",
         "Zmniejszyć odległość od poprzedzającego pojazdu": "Уменьшить расстояние от впереди идущего ТС.",
-        "Ile maksymalnie osób, wliczając siebie, możesz przewozić, gdy masz prawo jazdy kategorii B?": "Cколько максимально людей, включая себя, вы можете перевозить, если у вас есть водительские права категории B?",
         "Tak, ale tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Да, но только в том случае, если транспортное средство движется за пределами населенного пункта.",
         "Czy dorosły pasażer samochodu osobowego przewożony na tylnym siedzeniu ma obowiązek używania pasów bezpieczeństwa?": "Обязан ли взрослый пассажир легкового автомобиля, перевозимый на заднем сиденье, пользоваться ремнями безопасности?",
         "Czego nie możesz robić kierując samochodem osobowym?": "Что ты не можешь делать, управляя легковым автомобилем?",
