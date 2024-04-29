@@ -2696,7 +2696,9 @@
             "Powinien być wyposażony w pasy i fotelik bezpieczeństwa": "Он должен быть оснащён ремнями и детским автокреслом.",
             "Może nie mieć pasów bezpieczeństwa": "Может не иметь ремней безопасности.",
             "Nie musi być wyposażony w pasy i fotelik bezpieczeństwa": "Не обязан быть оборудованным ремнями безопасности и детским автокреслом.",
-            "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:"
+            "Dokumentem stwierdzającym dopuszczenie pojazdu samochodowego do ruchu jest:": "Документом, подтверждающим допуск транспортного средства в движение, является:",
+            "O kolejny miesiąc": "На следующий месяц.",
+            "O kolejne trzy miesiące": "Еще на три месяца."
         }
     },
     "not_approved": {
@@ -2790,7 +2792,6 @@
         "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
-        "O kolejne trzy miesiące": "Еще на три месяца.",
         "Minimalnie 1 m": "Минимум 1 м.",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
@@ -2981,7 +2982,6 @@
         "Jeżeli dziecko ma co najmniej 135 cm wzrostu": "Если ребенок имеет рост не менее 135 см.",
         "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
-        "O kolejny miesiąc": "На следующий месяц.",
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
