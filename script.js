@@ -17,12 +17,14 @@
         "#learning-question > div.question-box",
         "#learning-check > div:nth-child(5)",
         "#learnings-list > div:nth-child(1) > div:nth-child(3)",
+        "body > div.container.margin-bottom > div > div.col-md-6.col-lg-6 > div:nth-child(2)",
     ]
 
     const selectors = {
         "question": [
             "#question-content",
-            "#q-result-question"
+            "#q-result-question",
+            "body > div.container.margin-bottom > div > div.col-md-6.col-lg-6 > div:nth-child(2)",
         ],
         "others": [
             "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
