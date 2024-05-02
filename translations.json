@@ -2702,7 +2702,11 @@
             "Taki pasażer powinien posiadać kartę parkingową": "Такой пассажир должен иметь парковочную карту.",
             "Karta parkingowa nie zwalnia z przestrzegania przepisów dotyczących limitów prędkości": "Парковочная карта не освобождает от соблюдения правил, касающихся лимитов скорости.",
             "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km\/h?": "Допускается ли во время перевоза человека с инвалидностью, предъявляющего парковочную карту, превышать разрешенную скорость не более чем на 10 км\/ч?",
-            "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?"
+            "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
+            "Stosowanie opon zimowych": "Использование зимних шин.",
+            "Zdecydowane przyspieszanie": "Решительное ускорение.",
+            "Hamowanie wyłącznie przy użyciu hamulca ręcznego": "Торможение только ручным тормозом.",
+            "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?"
         }
     },
     "not_approved": {
@@ -2895,10 +2899,6 @@
         "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
-        "Hamowanie wyłącznie przy użyciu hamulca ręcznego": "Торможение только ручным тормозом.",
-        "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
-        "Zdecydowane przyspieszanie": "Решительное ускорение.",
-        "Stosowanie opon zimowych": "Использование зимних шин.",
         "Zdecydowanie przyśpieszyć": "Определенно ускорить.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
