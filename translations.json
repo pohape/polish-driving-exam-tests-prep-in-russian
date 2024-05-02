@@ -19,8 +19,7 @@
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
-        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи.",
-        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Перевод фрагмента: \"Перевозя автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\""
+        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи."
     },
     "approved": {
         "upewninie się": {
@@ -3729,6 +3728,8 @@
         "Nie, pod warunkiem, że telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Нет, при условии, что телефон держу далеко от уха с включенным режимом громкой связи.",
         "Tak, nawet wówczas gdy telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Да, даже когда я держу телефон вдали от уха с включенным громкоговорящим режимом.",
         "Czy naruszasz przepisy ruchu drogowego, jeżeli kierując pojazdem rozmawiasz przez telefon trzymając go w ręku?": "Нарушаешь ли ты правила дорожного движения, если, управляя транспортным средством, разговариваешь по телефону, держа его в руке?",
-        "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения."
+        "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
+        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
+        "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\"."
     }
 }
