@@ -2708,7 +2708,8 @@
             "Hamowanie wyłącznie przy użyciu hamulca ręcznego": "Торможение только ручным тормозом.",
             "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
             "Czy w tej sytuacji za widocznym znakiem informacyjnym wolno Ci zawrócić?": "В этой ситуации на участке после видимого информационного знака разрешено ли тебе развернуться?",
-            "Czy zamierzając skręcić w lewo na najbliższym skrzyżowaniu musisz sygnalizować ten manewr kierunkowskazem?": "Собираясь повернуть налево на ближайшем перекрестке, должны ли вы сигнализировать об этом маневре с помощью указателя поворота?"
+            "Czy zamierzając skręcić w lewo na najbliższym skrzyżowaniu musisz sygnalizować ten manewr kierunkowskazem?": "Собираясь повернуть налево на ближайшем перекрестке, должны ли вы сигнализировать об этом маневре с помощью указателя поворота?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?"
         }
     },
     "not_approved": {
@@ -3522,7 +3523,6 @@
         "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
-        "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
         "Utrzymywania stałej, niewielkiej prędkości jazdy": "Поддержание постоянной, небольшой скорости движения.",
         "Jakiego zachowania powinieneś unikać podczas jazdy w takich warunkach drogowych?": "Какого поведения следует избегать во время вождения в таких дорожных условиях?",
         "zawsze używać świateł mijania,": "всегда использовать ближний свет фар,",
