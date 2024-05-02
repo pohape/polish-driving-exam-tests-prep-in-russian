@@ -2709,7 +2709,9 @@
             "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
             "Czy w tej sytuacji za widocznym znakiem informacyjnym wolno Ci zawrócić?": "В этой ситуации на участке после видимого информационного знака разрешено ли тебе развернуться?",
             "Czy zamierzając skręcić w lewo na najbliższym skrzyżowaniu musisz sygnalizować ten manewr kierunkowskazem?": "Собираясь повернуть налево на ближайшем перекрестке, должны ли вы сигнализировать об этом маневре с помощью указателя поворота?",
-            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?"
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
+            "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
+            "W sposób wygodny dla siebie": "Удобным для себя способом."
         }
     },
     "not_approved": {
@@ -3178,7 +3180,6 @@
         "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности.",
         "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm samochodem osobowym, w którym jest pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом менее 150 см в легковом автомобиле, в котором пять мест для сидения?",
         "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
-        "W sposób wygodny dla siebie": "Удобным для себя способом.",
         "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
         "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч.",
         "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевезенный ребенок имеет минимум 125 см роста, он пристегнут только ремнями безопасности, так как масса и рост не позволяют перевозить его в детском кресле.",
@@ -3291,7 +3292,6 @@
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
-        "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
         "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
