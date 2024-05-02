@@ -2706,7 +2706,8 @@
             "Stosowanie opon zimowych": "Использование зимних шин.",
             "Zdecydowane przyspieszanie": "Решительное ускорение.",
             "Hamowanie wyłącznie przy użyciu hamulca ręcznego": "Торможение только ручным тормозом.",
-            "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?"
+            "Która z wymienionych czynności może zwiększyć bezpieczeństwo podczas jazdy po zaśnieżonej drodze?": "Какое из перечисленных действий может повысить безопасность при движении по заснеженной дороге?",
+            "Czy w tej sytuacji za widocznym znakiem informacyjnym wolno Ci zawrócić?": "В этой ситуации на участке после видимого информационного знака разрешено ли тебе развернуться?"
         }
     },
     "not_approved": {
@@ -3723,13 +3724,13 @@
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?",
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "На какой срок староста продлит период временного изъятия водительского удостоверения, если тебя остановили для проверки, когда ты управлял транспортным средством, несмотря на то, что ранее изъяли у тебя право управления на три месяца за превышение скорости более чем на 50 км\/ч в населённом пункте?",
         "Czy masz obowiązek użyć kierunkowskazu, jeśli zamierzasz wjechać na prawy pas?": "Вы должны включить указатель поворота, если собираетесь перестроиться на правую полосу?",
-        "Czy w tej sytuacji za widocznym znakiem informacyjnym wolno Ci zawrócić?": "В этой ситуации на участке после видимого информационного знака разрешено ли тебе развернуться?",
         "Czy masz obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu?": "Обязаны ли вы соблюдать безопасную дистанцию от обгоняемого транспортного средства?",
         "Nie, pod warunkiem, że telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Нет, при условии, что телефон держу далеко от уха с включенным режимом громкой связи.",
         "Tak, nawet wówczas gdy telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Да, даже когда я держу телефон вдали от уха с включенным громкоговорящим режимом.",
         "Czy naruszasz przepisy ruchu drogowego, jeżeli kierując pojazdem rozmawiasz przez telefon trzymając go w ręku?": "Нарушаешь ли ты правила дорожного движения, если, управляя транспортным средством, разговариваешь по телефону, держа его в руке?",
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
-        "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\"."
+        "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\".",
+        "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства."
     }
 }
