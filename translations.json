@@ -2701,7 +2701,8 @@
             "Czy masz prawo zawrócić na moście?": "Имеешь ли ты право развернуться на мосту?",
             "Taki pasażer powinien posiadać kartę parkingową": "Такой пассажир должен иметь парковочную карту.",
             "Karta parkingowa nie zwalnia z przestrzegania przepisów dotyczących limitów prędkości": "Парковочная карта не освобождает от соблюдения правил, касающихся лимитов скорости.",
-            "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km\/h?": "Допускается ли во время перевоза человека с инвалидностью, предъявляющего парковочную карту, превышать разрешенную скорость не более чем на 10 км\/ч?"
+            "Czy podczas przewozu osoby niepełnosprawnej legitymującej się kartą parkingową możesz przekraczać dopuszczalną prędkość o nie więcej niż 10km\/h?": "Допускается ли во время перевоза человека с инвалидностью, предъявляющего парковочную карту, превышать разрешенную скорость не более чем на 10 км\/ч?",
+            "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?"
         }
     },
     "not_approved": {
@@ -3199,7 +3200,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
-        "Czy masz prawo cofać pojazdem na autostradzie po włączeniu świateł awaryjnych pojazdu?": "У вас есть право двигаться задним ходом на автостраде после включения аварийной сигнализации ТС?",
         "Oczyścić ze śniegu tylko szyby w pojeździe": "Очистить от снега только стекла в транспортном средстве.",
         "Oczyścić ze śniegu wszystkie szyby, pokrywę silnika, dach i lusterka": "Очистить от снега все стекла, капот, крышу и зеркала.",
         "Oczyścić ze śniegu tylko przednią szybę w pojeździe": "Очистить от снега только переднее стекло в транспортном средстве.",
