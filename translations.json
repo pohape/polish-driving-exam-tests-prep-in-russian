@@ -2,8 +2,6 @@
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "Разрешается ли тебе в этой ситуации остановить транспортное средство на площади, исключенной из движения?",
-        "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается остановка на поверхности, исключенной из движения.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключенная из движения.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
@@ -3745,6 +3743,13 @@
         "Nie można używać świateł drogowych jeśli niesie to ryzyko oślepienia innych kierujących": "Нельзя использовать дальний свет, если это несет риск ослепления других водителей.",
         "W miejscach, które poprzedzone są znakami ostrzegawczymi należy zachować szczególną ostrożność": "На участках, которые предупреждаются дорожными знаками, следует проявлять особую осторожность.",
         "Świadczy o tym schemat dróg umieszczony na tabliczce pod znakiem": "Это подтверждает схема дорог, размещенная на табличке под знаком.",
-        "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, oraz pojazdowi wjeżdżającemu na ten pas z prawej strony": "Водитель ТС, изменяющий занимаемую полосу движения, обязан уступить дорогу ТС, движущемуся по полосе движения, на которую он намеревается въехать, а также ТС, въезжающему на эту полосу справа."
+        "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, oraz pojazdowi wjeżdżającemu na ten pas z prawej strony": "Водитель ТС, изменяющий занимаемую полосу движения, обязан уступить дорогу ТС, движущемуся по полосе движения, на которую он намеревается въехать, а также ТС, въезжающему на эту полосу справа.",
+        "Zabrania się wyprzedzania na przejściu dla pieszych oraz bezpośrednio przed nim": "Запрещается обгон на пешеходном переходе, а также непосредственно перед ним.",
+        "Pokwitowanie uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство дает право управлять транспортным средством в течение 24 часов с момента временного изъятия.",
+        "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения.",
+        "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
+        "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается останавливаться на поверхности, исключенной из движения.",
+        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации ты имеешь право остановить транспортное средство на поверхности, исключённой из движения?",
+        "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w prawo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka i skręcającym w lewo?": "В данной ситуации на ближайшем перекрестке вы намерены повернуть направо. Должны ли вы уступить дорогу велосипедистам, едущим навстречу и поворачивающим налево?"
     }
 }
