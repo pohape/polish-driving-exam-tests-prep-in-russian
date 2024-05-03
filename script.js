@@ -131,7 +131,10 @@
     }
 
     function sendTranslationFeedback(translation, actionType) {
+        let switchState = loadFromCacheSwitchState()
         localStorage.clear();
+        saveToCacheSwitchState(switchState)
+
         makeHttpRequest({[actionType]: translation}, function (result) {
             console.log(translation + " " + actionType + ": " + result.success);
         });
