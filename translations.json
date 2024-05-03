@@ -13,7 +13,8 @@
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
-        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи."
+        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи.",
+        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства."
     },
     "approved": {
         "upewninie się": {
@@ -2714,7 +2715,8 @@
             "Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy": "Если остановка длится более 1 минуты, разрешается выключение внешних световых приборов транспортного средства, при условии, что на той же полосе движения, перед этим транспортным средством и за ним, стоят другие транспортные средства.",
             "Holowany pojazd ogranicz pole widzenia w lusterkach wstecznych": "Буксируемое транспортное средство ограничивает поле зрения в зеркалах заднего вида.",
             "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
-            "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны."
+            "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
+            "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины."
         }
     },
     "not_approved": {
@@ -3044,7 +3046,6 @@
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
         "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
-        "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического контроля транспортных средств.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
@@ -3357,7 +3358,6 @@
         "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem": "Пешеход, переходя через проезжую часть или пути трамвайные, обязан проявлять особую осторожность и использовать пешеходный переход. Пешеход, находящийся на этом переходе, имеет преимущество перед транспортным средством.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
         "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
-        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
@@ -3854,7 +3854,16 @@
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
         "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
         "O uszkodzeniu akumulatora": "О повреждении аккумулятора.",
+        "O całkowitym rozładowaniu się akumulatora": "О полной разрядке аккумулятора.",
         "O nieprawidłowo działającym ładowaniu akumulatora": "О неправильно работающей зарядке аккумулятора.",
-        "O całkowitym rozładowaniu się akumulatora": "О полной разрядке аккумулятора."
+        "O czym ostrzega, świecąca się na czerwono w czasie jazdy samochodem osobowym, lampka kontrolna z symbolem akumulatora?": "О чем предупреждает, загоревшаяся красным во время езды на автомобиле, контрольная лампочка с символом аккумулятора?",
+        "Świecąca się na czerwono lampka kontrolna z symbolem akumulatora świadczy o usterce układu ładowania": "Загоревшаяся красная контрольная лампочка с символом аккумулятора свидетельствует о неисправности системы зарядки.",
+        "Niebieski kolor spalin świadczy o tym, że silnik przepala przedostający się do komór spalania olej. Czarny kolor spalin może oznaczać problem z układem wtryskowym w przypadku silników Diesla": "Синий цвет выхлопных газов свидетельствует о том, что двигатель сжигает проникающее в камеры сгорания масло. Черный цвет выхлопных газов может свидетельствовать о проблеме с топливной системой в случае дизельных двигателей.",
+        "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса.",
+        "Zużycie opony doprowadza do wydłużenia drogi hamowania": "Износ шины приводит к увеличению тормозного пути.",
+        "Zwiększone zużycie żarówek": "Увеличенный расход лампочек.",
+        "Jaki może być skutek nieprawidłowo ustawionych reflektorów świateł mijania?": "Каким может быть результат неправильно настроенных фар ближнего света?",
+        "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
+        "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС."
     }
 }
