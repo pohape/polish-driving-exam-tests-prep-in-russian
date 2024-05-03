@@ -12,7 +12,8 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?"
+        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
+        "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобильного транспортного средства, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время движения."
     },
     "approved": {
         "upewninie się": {
@@ -2747,7 +2748,9 @@
             "Jak postąpi policjant, jeżeli podczas kontroli drogowej ujawni, że przekroczyłeś prędkość o więcej niż 50 km\/h w obszarze zabudowanym, ale było to związane z ratowaniem ludzkiego życia?": "Как поступит полицейский, если во время дорожного контроля выявит, что вы превысили скорость более чем на 50 км\/ч в населенном пункте, но это было связано с спасением человеческой жизни?",
             "Zgodnie z tabliczką, pojazd z lewej strony porusza się drogą podporządkowaną": "Согласно знаку, транспортное средство слева движется по второстепенной дороге.",
             "Odstąpi od zatrzymania prawa jazdy": "Откажется от временного изъятия водительского удостоверения.",
-            "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческой жизни, полицейский не произведет временное изъятие водительского удостоверения."
+            "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческой жизни, полицейский не произведет временное изъятие водительского удостоверения.",
+            "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
+            "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском автокресле, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, допускается, если подушка безопасности не активирована во время перевозки."
         }
     },
     "not_approved": {
@@ -3164,7 +3167,6 @@
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
         "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
-        "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
@@ -3502,7 +3504,6 @@
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
         "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
         "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
-        "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском удерживающем устройстве, установленном задним ходом к направлению движения на переднем сиденье автомобиля, оборудованного подушкой безопасности для пассажира, разрешена, если подушка безопасности не активна во время перевозки.",
         "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?",
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
         "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?",
@@ -3634,7 +3635,6 @@
         "Zabrania się pozostawiania otwartych drzwi": "Запрещается оставлять двери открытыми.",
         "Dziecko mające mniej niż 150 cm wzrostu powinno być przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym": "Ребенок ростом менее 150 см должен перевозиться в детском автокресле или другом удерживающем устройстве.",
         "Obowiązek przewożenia dziecka w foteliku nie obowiązuje podczas przewozu taksówką": "Обязательство перевозить ребенка в детском кресле не действует во время перевозки такси.",
-        "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобильного транспортного средства, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Jest dozwolone jeżeli dziecko osiągnęło wzrost co najmniej 135 cm i nie jest możliwe ze względu na masę i wzrost zapewnienie fotelika bezpieczeństwa": "Разрешается, если ребенок достиг роста не менее 135 см и невозможно обеспечить безопасное кресло из-за веса и роста.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony": "Водитель ТС, приближающийся к перекрестку, обязан проявить особую осторожность и уступить дорогу ТС, приближающемуся справа.",
