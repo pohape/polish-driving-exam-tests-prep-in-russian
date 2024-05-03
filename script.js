@@ -12,7 +12,7 @@
     'use strict';
 
     const switchPlaceSelectors = [
-        "#quiz-box-report > div > div.panel-body.report-body > div.report-question-box",
+        "#quiz-box-report > div > div.panel-body.report-body > div.report-question-box",  // просмотр вопросов и ответов на странице результатов экзамена
         "#quiz-box > div > div.panel-body > div.question-box",
         "#learning-question > div.question-box",
         "#learning-check > div:nth-child(5)",
@@ -25,10 +25,10 @@
             "#question-content",
             "#q-result-question",
             "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]",
+            '#report-question-content', // просмотр вопросов и ответов на странице результатов экзамена
         ],
         "others": [
             "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
-            '#report-question-content',
             '#a-answer',
             '#b-answer',
             '#c-answer',
