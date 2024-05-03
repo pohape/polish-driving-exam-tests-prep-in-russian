@@ -2710,7 +2710,8 @@
             "Czy zamierzając skręcić w lewo na najbliższym skrzyżowaniu musisz sygnalizować ten manewr kierunkowskazem?": "Собираясь повернуть налево на ближайшем перекрестке, должны ли вы сигнализировать об этом маневре с помощью указателя поворота?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
             "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
-            "W sposób wygodny dla siebie": "Удобным для себя способом."
+            "W sposób wygodny dla siebie": "Удобным для себя способом.",
+            "Czy w przedstawionej sytuacji za widocznym znakiem ostrzegawczym musisz zachować szczególną ostrożność?": "В представленной ситуации за видимым предупреждающим знаком должен ли ты проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -3735,6 +3736,7 @@
         "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
         "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
-        "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?"
+        "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?",
+        "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?"
     }
 }
