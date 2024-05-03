@@ -7,13 +7,14 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
-        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?"
+        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
+        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые багажи положу самыми глубокими и самыми низкими, в центральной части багажника.",
+        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими."
     },
     "approved": {
         "upewninie się": {
@@ -2733,7 +2734,13 @@
             "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
             "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
             "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu": "Размещенные в держателях сзади транспортного средства, закрывающем один фонарь транспортного средства.",
-            "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше."
+            "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
+            "Nie można przekraczać prędkości 40 km\/h": "Нельзя превышать скорость 40 км\/ч.",
+            "Jakie musisz spełnić warunki, gdy chcesz przewieźć dziecko na tylnym siedzeniu samochodu osobowego?": "Какие условия вы должны выполнить, если хотите перевезти ребенка на заднем сиденье легкового автомобиля?",
+            "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
+            "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевезенный ребенок имеет рост не менее 125 см, и он пристегнут только ремнями безопасности, так как вес и рост делают невозможным его перевозку в удерживающем устройстве.",
+            "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
+            "W dowolny sposób": "Любым способом."
         }
     },
     "not_approved": {
@@ -2830,7 +2837,6 @@
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
-        "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
         "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
@@ -2875,7 +2881,6 @@
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
-        "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
@@ -2904,8 +2909,6 @@
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
-        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
-        "W dowolny sposób": "Любым способом.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
@@ -3113,9 +3116,6 @@
         "Nieprawidłowa zbieżność": "Неправильное схождение.",
         "Nierówna nawierzchnia jezdni": "Неровная поверхность проезжей части.",
         "Niewielkie obciążenie przedniej osi pojazdu": "Небольшая нагрузка на переднюю ось транспортного средства.",
-        "Nie można przekraczać prędkości 40 km\/h": "Нельзя превышать скорость 40 км\/ч.",
-        "Jakie musisz spełnić warunki, gdy chcesz przewieźć dziecko na tylnym siedzeniu samochodu osobowego?": "Какие условия вы должны выполнить, если хотите перевезти ребенка на заднем сиденье легкового автомобиля?",
-        "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевезенный ребенок имеет рост не менее 125 см, и он пристегнут только ремнями безопасности, так как вес и рост делают невозможным его перевозку в удерживающем устройстве.",
         "Ustawić lusterka, fotel kierowcy i zapiąć pasy bezpieczeństwa": "Настроить зеркала, водительское сиденье и пристегнуть ремни безопасности.",
         "Ustawić fotel kierowcy, lusterka i zapiąć pasy bezpieczeństwa": "Установить сиденье водителя, зеркала и пристегнуть ремни безопасности.",
         "Zapiąć pasy bezpieczeństwa, ustawić lusterka i fotel kierowcy": "Пристегнуть ремни безопасности, настроить зеркала и сиденье водителя.",
