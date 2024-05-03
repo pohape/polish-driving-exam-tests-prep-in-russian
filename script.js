@@ -11,10 +11,9 @@
 (function () {
     'use strict';
 
-    const switchPlaceSelectors = [
+    const switchAdditionalPlaceSelectors = [
         "#learnings-list > div:nth-child(1) > div:nth-child(2)", // на странице выбора группы вопросов для изучения
-        // "#learning-question > div.question-box",
-        // "#learning-check > div:nth-child(5)",
+        "#learning-check > div:nth-child(5)", // "wyjaśnienie" на странице ответа с объяснением в режиме подгтовки
     ]
 
     const selectors = {
@@ -542,7 +541,7 @@
             selectors[category].forEach(selector => processSelector(selector, category));
         }
 
-        switchPlaceSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
+        switchAdditionalPlaceSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {
