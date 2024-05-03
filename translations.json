@@ -2719,7 +2719,9 @@
             "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3": "Тот, кто не окажет помощь человеку, находящемуся в положении угрожающем немедленной опасностью потери жизни или тяжкого вреда здоровью, сумея её оказать без подвергания себя или другого лица опасности потери жизни или тяжкого вреда здоровью, подлежит наказанию лишением свободы на срок до 3 лет.",
             "Aby prawidłowo przeprowadzić resuscytacje poszkodowanego należy ewakuować z pojazdu": "Чтобы правильно провести реанимацию пострадавшего, необходимо эвакуировать его из транспортного средства.",
             "Wezwać zespołu ratownictwa medycznego": "Вызвать бригаду медицинской помощи.",
-            "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру."
+            "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру.",
+            "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
+            "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери."
         }
     },
     "not_approved": {
@@ -2795,7 +2797,6 @@
         "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
-        "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы защитите кровотечение из раны при отсутствии стерильной повязки?",
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
         "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
@@ -2900,7 +2901,6 @@
         "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
-        "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи.",
         "Przez 15 minut": "На протяжении 15 минут.",
@@ -3048,7 +3048,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
-        "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического контроля транспортных средств.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
@@ -3868,6 +3867,7 @@
         "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи.",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену бригады скорой медицинской помощи.",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
-        "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла."
+        "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
+        "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?"
     }
 }
