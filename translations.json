@@ -12,8 +12,7 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
-        "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобильного транспортного средства, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время движения."
+        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?"
     },
     "approved": {
         "upewninie się": {
@@ -2750,7 +2749,11 @@
             "Odstąpi od zatrzymania prawa jazdy": "Откажется от временного изъятия водительского удостоверения.",
             "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческой жизни, полицейский не произведет временное изъятие водительского удостоверения.",
             "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest:": "Перевозка ребенка в детском кресле безопасности, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, является:",
-            "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском автокресле, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, допускается, если подушка безопасности не активирована во время перевозки."
+            "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском автокресле, установленном спиной в направлении движения на переднем сиденье автомобиля, оснащенного подушкой безопасности для пассажира, допускается, если подушка безопасности не активирована во время перевозки.",
+            "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобиля, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время езды.",
+            "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
+            "Zabrania się zatrzymania pojazdu: na przejeździe kolejowym, na przejeździe tramwajowym, na skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania": "Запрещается остановка транспортного средства: на железнодорожном переезде, на трамвайном переезде, на перекрестке, а также на расстоянии менее 10 метров от переезда или перекрестка.",
+            "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией."
         }
     },
     "not_approved": {
@@ -2762,7 +2765,6 @@
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
-        "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
         "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
@@ -2896,7 +2898,6 @@
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
-        "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
         "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
