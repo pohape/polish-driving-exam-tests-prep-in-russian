@@ -12,20 +12,17 @@
     'use strict';
 
     const switchPlaceSelectors = [
-        "#quiz-box-report > div > div.panel-body.report-body > div.report-question-box",  // просмотр вопросов и ответов на странице результатов экзамена
-        "#quiz-box > div > div.panel-body > div.question-box",
-        "#learning-question > div.question-box",
-        "#learning-check > div:nth-child(5)",
-        "#learnings-list > div:nth-child(1) > div:nth-child(3)",
-        "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[1]"
+        "#learnings-list > div:nth-child(1) > div:nth-child(3)", // на странице выбора группы вопросов для изучения
+        // "#learning-question > div.question-box",
+        // "#learning-check > div:nth-child(5)",
     ]
 
     const selectors = {
         "question": [
-            "#question-content",
-            "#q-result-question",
-            "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]",
+            "#question-content", // тело вопроса в тесте и в подготовке, на странице где идет таймер
             '#report-question-content', // просмотр вопросов и ответов на странице результатов экзамена
+            "#q-result-question", // тело вопроса в подготовке на странице ответа с объяснением
+            "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]", // тело вопроса на странице вопроса (не экзамен и не тесты)
         ],
         "others": [
             "//div[@id='q-result-answers']/div[child::node()[self::text()]]",
@@ -233,7 +230,10 @@
 
         switchIds.forEach(id => {
             let switchElement = document.getElementById(id);
-            switchElement.checked = switchIsOn
+
+            if (switchElement) {
+                switchElement.checked = switchIsOn
+            }
         });
 
         document.querySelectorAll('.translation').forEach(element => {
@@ -246,6 +246,12 @@
     function createAndInsertToggleSwitch(element, id) {
         const div = document.createElement('div');
         div.className = 'toggle-switch';
+        div.style.display = 'block';
+
+        div.style.marginLeft = '0px';
+        div.style.marginRight = '5px';
+        div.style.marginTop = '5px';
+        div.style.marginBottom = '0px';
 
         const input = document.createElement('input');
         input.type = 'checkbox';
@@ -312,8 +318,6 @@
         const span = document.createElement('span');
 
         if (loadFromCacheEmojiFlag(translation)) {
-            console.log(loadFromCacheEmojiFlag(translation) + ": add emojis for " + translation);
-
             createLikeOrDislikeEmojiLink(span, () => approveTranslation(translation), true);
             span.appendChild(document.createTextNode(' '));
             createLikeOrDislikeEmojiLink(span, () => markTranslationAsIncorrect(translation), false);
@@ -336,15 +340,11 @@
     }
 
     function saveToCacheEmojiFlag(translate, flag) {
-        console.log("Save for '" + translate + "' emojiFlag=" + flag)
         localStorage.setItem(getCacheKeyForEmojiFlags(translate), flag ? '1' : '0');
     }
 
     function loadFromCacheEmojiFlag(translate) {
-        let result = localStorage.getItem(getCacheKeyForEmojiFlags(translate));
-        console.log("Load for '" + translate + "' emojiFlag=" + result)
-
-        return result === '1';
+        return localStorage.getItem(getCacheKeyForEmojiFlags(translate)) === '1';
     }
 
     function saveToCacheSwitchState(isItEnabled) {
@@ -451,7 +451,10 @@
 
                 for (let i = 0; i < result.snapshotLength; i++) {
                     const element = result.snapshotItem(i);
-                    processElement(element, selector, category);
+
+                    if (element) {
+                        processElement(element, selector, category);
+                    }
                 }
             } else {
                 document.querySelectorAll(selector).forEach(element => {
@@ -539,7 +542,7 @@
             selectors[category].forEach(selector => processSelector(selector, category));
         }
 
-        switchPlaceSelectors.forEach(selector => processSwitch(selector));
+        switchPlaceSelectors.concat(selectors['question']).forEach(selector => processSwitch(selector));
         const consentButton = document.querySelector('button.fc-button.fc-cta-consent.fc-primary-button');
 
         if (consentButton && !consentButton.classList.contains('clicked')) {
@@ -582,7 +585,9 @@
                     }
                 }
 
-                elementToRemove.parentNode.removeChild(elementToRemove);
+                if (elementToRemove && elementToRemove.parentNode) {
+                    elementToRemove.parentNode.removeChild(elementToRemove);
+                }
             });
         });
 
