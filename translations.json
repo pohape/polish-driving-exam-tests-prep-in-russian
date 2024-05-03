@@ -12,7 +12,6 @@
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
-        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства."
     },
     "approved": {
@@ -2717,7 +2716,8 @@
             "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
             "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
             "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу.",
-            "Opatrunek uciskowy stosujemy przy krwotoku": "Жгут применяем при кровотечении."
+            "Opatrunek uciskowy stosujemy przy krwotoku": "Жгут применяем при кровотечении.",
+            "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3": "Тот, кто не окажет помощь человеку, находящемуся в положении угрожающем немедленной опасностью потери жизни или тяжкого вреда здоровью, сумея её оказать без подвергания себя или другого лица опасности потери жизни или тяжкого вреда здоровью, подлежит наказанию лишением свободы на срок до 3 лет."
         }
     },
     "not_approved": {
@@ -3637,7 +3637,6 @@
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобильного транспортного средства, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Jest dozwolone jeżeli dziecko osiągnęło wzrost co najmniej 135 cm i nie jest możliwe ze względu na masę i wzrost zapewnienie fotelika bezpieczeństwa": "Разрешается, если ребенок достиг роста не менее 135 см и невозможно обеспечить безопасное кресло из-за веса и роста.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
-        "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3": "Тот, кто не окажет помощь человеку, находящемуся в положении угрожающем немедленной опасностью потери жизни или тяжкого вреда здоровью, сумея её оказать без подвергания себя или другого лица опасности потери жизни или тяжкого вреда здоровью, подлежит наказанию лишением свободы на срок до 3 лет.",
         "Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony": "Водитель ТС, приближающийся к перекрестку, обязан проявить особую осторожность и уступить дорогу ТС, приближающемуся справа.",
         "Wyjeżdżając ze strefy zamieszkania jesteśmy włączającym się do ruchu": "При выезде из жилой зоны мы включаемся в движение.",
         "Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości bezpośrednio po wyprzedzeniu": "Водителю обгоняемого транспортного средства запрещается увеличивать скорость непосредственно после обгона.",
@@ -3867,6 +3866,7 @@
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?",
-        "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи."
+        "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи.",
+        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену бригады скорой медицинской помощи."
     }
 }
