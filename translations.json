@@ -3740,6 +3740,9 @@
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
         "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\"",
-        "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать."
+        "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать.",
+        "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения.",
+        "Nie można używać świateł drogowych jeśli niesie to ryzyko oślepienia innych kierujących": "Нельзя использовать дальний свет, если это несет риск ослепления других водителей.",
+        "W miejscach, które poprzedzone są znakami ostrzegawczymi należy zachować szczególną ostrożność": "На участках, которые предупреждаются дорожными знаками, следует проявлять особую осторожность."
     }
 }
