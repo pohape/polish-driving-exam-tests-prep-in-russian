@@ -2716,7 +2716,8 @@
             "Holowany pojazd ogranicz pole widzenia w lusterkach wstecznych": "Буксируемое транспортное средство ограничивает поле зрения в зеркалах заднего вида.",
             "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
             "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
-            "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины."
+            "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
+            "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу."
         }
     },
     "not_approved": {
@@ -3547,7 +3548,6 @@
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
-        "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Prawo jazdy kategorii B uprawnia do kierowania pojazdem samochodowym. Jest on przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;": "Водительское удостоверение категории B дает право управлять моторным транспортным средством. Оно конструктивно предназначено для перевозки не более чем 9 человек вместе с водителем, а также их багажа;",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
@@ -3864,6 +3864,7 @@
         "Zwiększone zużycie żarówek": "Увеличенный расход лампочек.",
         "Jaki może być skutek nieprawidłowo ustawionych reflektorów świateł mijania?": "Каким может быть результат неправильно настроенных фар ближнего света?",
         "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
-        "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС."
+        "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
+        "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления."
     }
 }
