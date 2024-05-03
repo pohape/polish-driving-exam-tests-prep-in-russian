@@ -12,7 +12,7 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?"
+        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учитывать возможность вторжения пешеходов на проезжую часть?"
     },
     "approved": {
         "upewninie się": {
@@ -2753,7 +2753,11 @@
             "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy,": "Водитель автомобиля, а также лицо, перевозимое в таком транспортном средстве, оборудованном ремнями безопасности, обязаны пользоваться этими ремнями во время езды.",
             "Zbliżając się do skrzyżowania należy zachować szczególną ostrożność": "При приближении к перекрестку необходимо соблюдать особую осторожность.",
             "Zabrania się zatrzymania pojazdu: na przejeździe kolejowym, na przejeździe tramwajowym, na skrzyżowaniu oraz w odległości mniejszej niż 10 m od przejazdu lub skrzyżowania": "Запрещается остановка транспортного средства: на железнодорожном переезде, на трамвайном переезде, на перекрестке, а также на расстоянии менее 10 метров от переезда или перекрестка.",
-            "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией."
+            "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
+            "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
+            "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
+            "Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką - na całej jej długości": "Запрещается остановить автомобиль на расстоянии меньше 15 метров от столба или дорожного знака, обозначающего остановку общественного транспорта, а на остановке с карманом – на всей её длине.",
+            "Ze względu na ograniczoną przestrzeń należy wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię": "В связи с ограниченным пространством необходимо учитывать возможность выхода пешеходов на проезжую часть."
         }
     },
     "not_approved": {
@@ -2780,7 +2784,6 @@
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
-        "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
         "Nieprawidłowa zbieżność przejawia się trudnościami w utrzymaniu prostego toru jazdy": "Неправильное схождение проявляется трудностями в поддержании прямой траектории движения.",
         "Do utraty sterowności": "К потере управляемости.",
@@ -2889,7 +2892,6 @@
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
-        "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
         "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
@@ -3802,7 +3804,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pieszym?": "В этой ситуации у вас есть преимущество перед пешеходом?",
         "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
-        "Ze względu na ograniczoną przestrzeń należy wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię": "В связи с ограниченным пространством необходимо учитывать возможность выхода пешеходов на проезжую часть.",
         "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе.",
         "Czy w przedstawionej sytuacji jesteś zobowiązany do zatrzymania pojazdu przed przejściem dla pieszych?": "В представленной ситуации ты обязан остановить транспортное средство перед пешеходным переходом?",
         "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
