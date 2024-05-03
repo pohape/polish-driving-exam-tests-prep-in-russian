@@ -9,7 +9,6 @@
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самый тяжелый багаж я положу самый глубокий и самый низкий, в центральной части багажника.",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
-        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
@@ -2717,7 +2716,8 @@
             "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
             "Prawo jazdy kat. B uprawnia do kierowania ciągnikiem rolniczym na terenie państwa": "Водительское удостоверение кат. B дает право управления сельскохозяйственным трактором на территории страны.",
             "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
-            "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу."
+            "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу.",
+            "Opatrunek uciskowy stosujemy przy krwotoku": "Жгут применяем при кровотечении."
         }
     },
     "not_approved": {
@@ -3865,6 +3865,7 @@
         "Jaki może być skutek nieprawidłowo ustawionych reflektorów świateł mijania?": "Каким может быть результат неправильно настроенных фар ближнего света?",
         "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
-        "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления."
+        "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
+        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?"
     }
 }
