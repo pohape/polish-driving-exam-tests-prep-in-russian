@@ -3739,6 +3739,7 @@
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?",
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
-        "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\""
+        "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\"",
+        "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать."
     }
 }
