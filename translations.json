@@ -10,9 +10,7 @@
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
-        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
-        "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учитывать возможность вторжения пешеходов на проезжую часть?"
+        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства."
     },
     "approved": {
         "upewninie się": {
@@ -2757,7 +2755,10 @@
             "Kierujący pojazdem jest obowiązany przed wyprzedzaniem upewnić się w szczególności, czy ma odpowiednią widoczność i dostateczne miejsce do wyprzedzania bez utrudnienia komukolwiek ruchu": "Водитель транспортного средства обязан перед обгоном, в частности, убедиться в том, что он имеет достаточную видимость и достаточное место для обгона, не препятствуя движению.",
             "Kierujący rowerem może wyprzedzać inne niż rower powoli jadące pojazdy z ich prawej strony": "Водитель велосипеда может обогнать медленно движущиеся транспортные средства, отличные от велосипеда, справа от них.",
             "Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką - na całej jej długości": "Запрещается остановить автомобиль на расстоянии меньше 15 метров от столба или дорожного знака, обозначающего остановку общественного транспорта, а на остановке с карманом – на всей её длине.",
-            "Ze względu na ograniczoną przestrzeń należy wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię": "В связи с ограниченным пространством необходимо учитывать возможность выхода пешеходов на проезжую часть."
+            "Ze względu na ograniczoną przestrzeń należy wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię": "В связи с ограниченным пространством необходимо учитывать возможность выхода пешеходов на проезжую часть.",
+            "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты принять во внимание возможность внезапного появления пешеходов на проезжей части?",
+            "Zbliżanie się do drogi dla rowerów nie zobowiązuje do zatrzymania": "Приближение к дороге для велосипедов не обязывает остановиться.",
+            "Czy zbliżając się do drogi dla rowerów musisz zawsze się zatrzymać?": "Должен ли ты всегда останавливаться, приближаясь к дороге для велосипедистов?"
         }
     },
     "not_approved": {
@@ -3666,7 +3667,6 @@
         "Czy w przedstawionej sytuacji na tym skrzyżowaniu masz prawo zawrócić?": "Имеешь ли ты право развернуться в данной ситуации на этом перекрестке?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator?": "Имеешь ли ты право въехать за светофор в этой ситуации?",
         "Czy w widocznej sytuacji dopuszczalne jest skręcanie w lewo i zawracanie na skrzyżowaniu?": "Допускается ли в данной видимой ситуации поворот налево и разворот на перекрестке?",
-        "Czy zbliżając się do drogi dla rowerów musisz zawsze się zatrzymać?": "Должен ли ты всегда останавливаться, приближаясь к дороге для велосипедистов?",
         "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Вы переводите текст как: \"В данной ситуации вы приближаетесь к равнозначному перекрестку?\"",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka na wprost?": "В представленной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу велосипедистам, едущим напрямую с встречного направления?",
         "Czy w przedstawionej sytuacji minimalna odległość jaką należy zachować od rowerzysty podczas wyprzedzania wynosi 1 m?": "В представленной ситуации минимальное расстояние, которое необходимо соблюдать от велосипедиста во время обгона, составляет 1 метр?",
@@ -3871,6 +3871,7 @@
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые сумки положу самыми последними и самыми нижними, в центральной части багажника.",
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
         "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
-        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими."
+        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими.",
+        "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Соблюл ли водитель автопоезда правила, если остановился посреди проезжей части в отношении водителя привилегированного транспортного средства пожарной службы?"
     }
 }
