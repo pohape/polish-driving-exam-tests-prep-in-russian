@@ -12,7 +12,7 @@
     'use strict';
 
     const switchPlaceSelectors = [
-        "#learnings-list > div:nth-child(1) > div:nth-child(3)", // на странице выбора группы вопросов для изучения
+        "#learnings-list > div:nth-child(1) > div:nth-child(2)", // на странице выбора группы вопросов для изучения
         // "#learning-question > div.question-box",
         // "#learning-check > div:nth-child(5)",
     ]
