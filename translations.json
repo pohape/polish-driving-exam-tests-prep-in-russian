@@ -12,9 +12,7 @@
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
-        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
-        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые багажи положу самыми глубокими и самыми низкими, в центральной части багажника.",
-        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими."
+        "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?"
     },
     "approved": {
         "upewninie się": {
@@ -3062,7 +3060,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
-        "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического контроля транспортных средств.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
@@ -3869,6 +3866,9 @@
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
         "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?",
-        "W podstawowej lub okręgowej stacji kontroli pojazdów": "В базовой или районной станции технического осмотра транспортных средств."
+        "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые сумки положу самыми последними и самыми нижними, в центральной части багажника.",
+        "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
+        "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
+        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими."
     }
 }
