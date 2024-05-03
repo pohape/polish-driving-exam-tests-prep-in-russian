@@ -24,14 +24,18 @@ class Favorites extends Base
         return false;
     }
 
-    public function removeFromFavorites(string $string)
+    public function removeFromFavorites(string $string): bool
     {
         $favorites = self::load();
 
         if (($key = array_search($string, $favorites)) !== false) {
             unset($favorites[$key]);
             $this->save($favorites);
+
+            return true;
         }
+
+        return false;
     }
 
     public function getFavorites()
