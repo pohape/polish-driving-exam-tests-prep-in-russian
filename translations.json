@@ -3840,6 +3840,21 @@
         "Czy wolno Ci polewać oparzenie zimną wodą?": "Разрешается ли тебе охлаждать ожог холодной водой?",
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
-        "Każdy gwałtowny ruch kierownicą na śliskiej nawierzchni zwiększa ryzyko utraty kontroli nad pojazdem": "Любое резкое движение рулем на скользкой поверхности увеличивает риск потери контроля над транспортным средством."
+        "Każdy gwałtowny ruch kierownicą na śliskiej nawierzchni zwiększa ryzyko utraty kontroli nad pojazdem": "Любое резкое движение рулем на скользкой поверхности увеличивает риск потери контроля над транспортным средством.",
+        "To jest zatoka przystankowa": "Это остановка общественного транспорта.",
+        "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
+        "Trójkąt służy do ostrzegania o unieruchomieniu pojazdu na drodze z powodu awarii": "Знак аварийной остановки служит для предупреждения об остановке транспортного средства на дороге по причине поломки.",
+        "Prędkość pojazdu i stan nawierzchni mają bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Скорость транспортного средства и состояние дорожного покрытия оказывают прямое влияние на полный тормозной путь транспортного средства.",
+        "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
+        "Lampka kontrolna układu chłodzenia zapala się, gdy poziom płynu w układzie chłodzenia jest zbyt niski lub temperatura płynu jest zbyt wysoka": "Индикаторная лампа системы охлаждения загорается, когда уровень жидкости в системе охлаждения слишком низкий или температура жидкости слишком высокая.",
+        "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
+        "Emisja czarnych lub niebieskich gęstych spalin": "Выделение черного или синего густого дыма.",
+        "Który z wymienionych przypadków może świadczyć o złym stanie technicznym samochodu osobowego?": "Какой из перечисленных случаев может свидетельствовать о плохом техническом состоянии автомобиля?",
+        "Zaświecenie się na czerwono lampki kontrolnej ciśnienia oleju silnikowego przed uruchomieniem silnika": "Загорание красной контрольной лампы давления моторного масла перед запуском двигателя.",
+        "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
+        "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
+        "O uszkodzeniu akumulatora": "О повреждении аккумулятора.",
+        "O nieprawidłowo działającym ładowaniu akumulatora": "О неправильно работающей зарядке аккумулятора.",
+        "O całkowitym rozładowaniu się akumulatora": "О полной разрядке аккумулятора."
     }
 }
