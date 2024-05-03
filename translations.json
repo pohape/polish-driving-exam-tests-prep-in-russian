@@ -14,7 +14,8 @@
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
         "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые багажи положу самыми глубокими и самыми низкими, в центральной части багажника.",
-        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими."
+        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
+        "W podstawowej lub okręgowej stacji kontroli pojazdów": "На первичной или районной станции управления транспортными средствами."
     },
     "approved": {
         "upewninie się": {
@@ -2740,7 +2741,10 @@
             "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевозимый ребенок имеет рост не менее 135 см, его пристегивают только ремнями безопасности, так как вес и рост препятствуют перевозке в удерживающем устройстве.",
             "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w urządzeniu przytrzymującym": "Перевезенный ребенок имеет рост не менее 125 см, и он пристегнут только ремнями безопасности, так как вес и рост делают невозможным его перевозку в удерживающем устройстве.",
             "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
-            "W dowolny sposób": "Любым способом."
+            "W dowolny sposób": "Любым способом.",
+            "Gdzie należy przeprowadzać okresowe badania techniczne pojazdu?": "Где необходимо проводить периодические технические осмотры ТС?",
+            "W każdym dobrze wyposażonym warsztacie samochodowym": "В любом хорошо оборудованном автосервисе.",
+            "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль."
         }
     },
     "not_approved": {
@@ -2899,9 +2903,6 @@
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
-        "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
-        "W podstawowej lub okręgowej stacji kontroli pojazdów": "На первичной или районной станции управления транспортными средствами.",
-        "W każdym dobrze wyposażonym warsztacie samochodowym": "В любом хорошо оборудованном автосервисе.",
         "Bezpośrednio przed rozpoczęciem podróży": "Непосредственно перед началом поездки.",
         "Po zakończeniu jazdy": "После окончания поездки.",
         "Co najmniej dobę przed zaplanowaną podróżą": "Как минимум за сутки до запланированной поездки.",
@@ -3049,7 +3050,6 @@
         "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
         "Nierównomierne zużycie bieżnika opony": "Неравномерный износ протектора шины.",
         "Jaki może być skutek niewyważenia kół jezdnych w pojeździe?": "Каким может быть результат небалансировки колес в транспортном средстве?",
-        "Gdzie należy przeprowadzać okresowe badania techniczne pojazdu?": "Где необходимо проводить периодические технические осмотры ТС?",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта.",
