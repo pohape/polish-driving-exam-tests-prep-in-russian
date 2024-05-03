@@ -13,8 +13,6 @@
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, следует ли продолжать движение по занятой полосе движения и менять ее непосредственно перед перекрестком?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
-        "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
-        "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан соблюдать способ стоянки, указанный дорожными знаками,",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Водитель, участвующий в дорожно-транспортном происшествии, в котором есть погибшие или раненые, обязан оставаться на месте аварии, а если вызов медицинской спасательной бригады или полиции требует отъезда – немедленно вернуться на это место.",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для того, чтобы взять на себя стабилизацию членом команды скорой медицинской помощи."
     },
@@ -3781,6 +3779,21 @@
         "Żółtą": "Жёлтая.",
         "Jakiej barwy chorągiewką wolno Ci oznaczyć ładunek wystający z tyłu samochodu osobowego?": "Какого цвета флажком ты можешь пометить груз, выступающий сзади автомобиля?",
         "Ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm": "Груз, выступающий сзади автомобиля или прицепа, буксируемого автомобилем, должен быть обозначен красным флагом размером не менее 50 х 50 см.",
-        "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?"
+        "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
+        "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
+        "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "он обязан соблюдать способ стоянки, указанный дорожными знаками,",
+        "W sytuacji nagłego przyspieszenia na mokrej nawierzchni": "В ситуации внезапного ускорения на мокром покрытии.",
+        "W sytuacji zjeżdżania ze wzniesienia": "В ситуации спуска с возвышенности.",
+        "Zabrania się wyprzedzania na przejeździe dla rowerzystów oraz bezpośrednio przed nim": "Запрещается обгон на переезде для велосипедистов, а также непосредственно перед ним.",
+        "Dwa pasy w tym samym kierunku, wyprzedzanie z lewej strony": "Две полосы в том же направлении, обгон с левой стороны.",
+        "Dopuszcza się wykonanie manewru cofania na drodze jednokierunkowej": "Разрешается выполнять маневр движения задним ходом на дороге с односторонним движением.",
+        "Ze względu na ograniczoną przestrzeń należy zmniejszyć prędkość w celu zapewnienia bezpieczeństwa": "Из-за ограниченного пространства необходимо снизить скорость для обеспечения безопасности.",
+        "W tej sytuacji istnieje możliwość oślepienia kierującego wyprzedzającym pojazdem": "В этой ситуации существует вероятность ослепления водителя обгоняющим транспортным средством.",
+        "Pobocze jest oddzielone ciągłą linią": "Обочина отделена сплошной линией.",
+        "Linia ciągła oddzielająca lewy pas uniemożliwia wykonanie wyprzedzania": "Сплошная линия, отделяющая левую полосу, запрещает выполнение обгона.",
+        "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
+        "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
+        "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса.",
+        "Zezwala się na przewożenie na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci": "Разрешается перевозить на заднем сиденье автомобиля ребенка, имеющего не менее 135 см роста, с использованием ремней безопасности в случаях, когда из-за массы и роста ребенка невозможно обеспечить детское автокресло или другое удерживающее устройство для детей."
     }
 }
