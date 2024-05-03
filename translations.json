@@ -2717,7 +2717,9 @@
             "Odpowiednie wyważenie kół zapewnia równomierne zużycie bieżnika opony": "Правильная балансировка колес обеспечивает равномерный износ протектора шины.",
             "Tak, aby symetrycznie oświetlały całą drogę": "Так, чтобы симметрично освещали всю дорогу.",
             "Opatrunek uciskowy stosujemy przy krwotoku": "Жгут применяем при кровотечении.",
-            "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3": "Тот, кто не окажет помощь человеку, находящемуся в положении угрожающем немедленной опасностью потери жизни или тяжкого вреда здоровью, сумея её оказать без подвергания себя или другого лица опасности потери жизни или тяжкого вреда здоровью, подлежит наказанию лишением свободы на срок до 3 лет."
+            "Kto człowiekowi znajdującemu się w położeniu grożącym bezpośrednim niebezpieczeństwem utraty życia albo ciężkiego uszczerbku na zdrowiu nie udziela pomocy, mogąc jej udzielić bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia albo ciężkiego uszczerbku na zdrowiu, podlega karze pozbawienia wolności do lat 3": "Тот, кто не окажет помощь человеку, находящемуся в положении угрожающем немедленной опасностью потери жизни или тяжкого вреда здоровью, сумея её оказать без подвергания себя или другого лица опасности потери жизни или тяжкого вреда здоровью, подлежит наказанию лишением свободы на срок до 3 лет.",
+            "Aby prawidłowo przeprowadzić resuscytacje poszkodowanego należy ewakuować z pojazdu": "Чтобы правильно провести реанимацию пострадавшего, необходимо эвакуировать его из транспортного средства.",
+            "Wezwać zespołu ratownictwa medycznego": "Вызвать бригаду медицинской помощи."
         }
     },
     "not_approved": {
@@ -3496,7 +3498,6 @@
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
         "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
-        "Aby prawidłowo przeprowadzić resuscytacje poszkodowanego należy ewakuować z pojazdu": "Чтобы правильно провести реанимацию пострадавшего, необходимо эвакуировать его из транспортного средства.",
         "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
         "Przewożenie dziecka w foteliku bezpieczeństwa zamontowanym tyłem do kierunku jazdy na przednim siedzeniu pojazdu samochodowego, wyposażonego w poduszkę powietrzną dla pasażera jest dozwolone, jeżeli poduszka powietrzna nie jest aktywna podczas przewożenia": "Перевозка ребенка в детском удерживающем устройстве, установленном задним ходом к направлению движения на переднем сиденье автомобиля, оборудованного подушкой безопасности для пассажира, разрешена, если подушка безопасности не активна во время перевозки.",
         "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру.",
@@ -3646,7 +3647,6 @@
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь без подвергания себя или другого человека опасности утраты жизни или серьёзного ухудшения здоровья.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой потери здоровья и жизни?",
         "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?",
-        "Wezwać zespołu ratownictwa medycznego": "Вызвать бригаду медицинской помощи.",
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
         "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какую из этих действий ты не имеешь права выполнять, когда участвуешь в аварии, в которой есть погибшие?",
         "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы оно не затрудняло движение.",
