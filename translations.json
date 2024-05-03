@@ -2726,7 +2726,10 @@
             "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
             "Czy w tej sytuacji masz prawo zatrzymać pojazd na chodniku w odległości 3 metrów od wiaty widocznego przystanku?": "В этой ситуации имеешь ли ты право остановить транспортное средство на тротуаре в расстоянии 3 метра от видимой остановки общественного транспорта?",
             "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
-            "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?"
+            "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?",
+            "Czy podczas jazdy w takich warunkach drogowych powinieneś korzystać z pasów bezpieczeństwa?": "Должен ли ты в таких дорожных условиях использовать ремни безопасности?",
+            "Nie, gdy poruszam się z niewielką prędkością": "Нет, когда двигаюсь с небольшой скоростью.",
+            "Tak, ale tylko w przypadku jazdy z prędkością większą niż 50 km\/h": "Да, но только в случае езды со скоростью больше 50 км\/ч."
         }
     },
     "not_approved": {
@@ -3626,9 +3629,6 @@
         "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты.",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom poruszającym się po drodze twardej, na którą wjeżdżasz?": "В этой ситуации вы обязаны уступить дорогу ТС, движущимся по дороге с твёрдым покрытием, на которую выезжаете?",
         "Czy z tego pasa ruchu dozwolony jest skręt w lewo na skrzyżowaniu?": "Вопрос для перевода: \"Разрешен ли с этой полосы движения поворот налево на перекрестке?\"",
-        "Czy podczas jazdy w takich warunkach drogowych powinieneś korzystać z pasów bezpieczeństwa?": "Должен ли ты в таких дорожных условиях использовать ремни безопасности?",
-        "Nie, gdy poruszam się z niewielką prędkością": "Нет, когда двигаюсь с небольшой скоростью.",
-        "Tak, ale tylko w przypadku jazdy z prędkością większą niż 50 km\/h": "Да, но только в случае езды со скоростью больше 50 км\/ч.",
         "Autobus porusza się po drodze z pierwszeństwem": "Автобус движется по главной дороге.",
         "Włączanie się do ruchu następuje przy wjeżdżaniu na drogę z pola lub na drogę twardą z drogi gruntowej": "Включение в движение происходит при выезде на дорогу с поля либо на дорогу с твёрдым покрытием с грунтовой дороги.",
         "Ten pas służy do jazdy na wprost": "Эта полоса предназначена для движения прямо.",
