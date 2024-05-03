@@ -14,9 +14,7 @@
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Справился ли водитель автопоезда, который остановился на середине этой проезжей части, корректно по отношению к водителю привилегированного транспортного средства пожарной охраны?",
         "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты учесть возможность вторжения пешеходов на проезжую часть?",
         "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые багажи положу самыми глубокими и самыми низкими, в центральной части багажника.",
-        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими.",
-        "W podstawowej lub okręgowej stacji kontroli pojazdów": "На первичной или районной станции управления транспортными средствами.",
-        "Odstąpi od zatrzymania prawa jazdy": "Откажется от изъятия водительских прав."
+        "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Я положу самый тяжелый багаж в верхнюю часть багажника, над более легкими."
     },
     "approved": {
         "upewninie się": {
@@ -2748,7 +2746,10 @@
             "W autoryzowanej stacji napraw, która serwisuje pojazd": "На авторизованной ремонтной станции, обслуживающей автомобиль.",
             "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
             "Zatrzyma prawo jazdy": "Отберет водительские права.",
-            "Jak postąpi policjant, jeżeli podczas kontroli drogowej ujawni, że przekroczyłeś prędkość o więcej niż 50 km\/h w obszarze zabudowanym, ale było to związane z ratowaniem ludzkiego życia?": "Как поступит полицейский, если во время дорожного контроля выявит, что вы превысили скорость более чем на 50 км\/ч в населенном пункте, но это было связано с спасением человеческой жизни?"
+            "Jak postąpi policjant, jeżeli podczas kontroli drogowej ujawni, że przekroczyłeś prędkość o więcej niż 50 km\/h w obszarze zabudowanym, ale było to związane z ratowaniem ludzkiego życia?": "Как поступит полицейский, если во время дорожного контроля выявит, что вы превысили скорость более чем на 50 км\/ч в населенном пункте, но это было связано с спасением человеческой жизни?",
+            "Zgodnie z tabliczką, pojazd z lewej strony porusza się drogą podporządkowaną": "Согласно знаку, транспортное средство слева движется по второстепенной дороге.",
+            "Odstąpi od zatrzymania prawa jazdy": "Откажется от временного изъятия водительского удостоверения.",
+            "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческой жизни, полицейский не произведет временное изъятие водительского удостоверения."
         }
     },
     "not_approved": {
@@ -2892,7 +2893,6 @@
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
-        "Jeżeli przekroczenie było to związane z ratowaniem ludzkiego życia policjant nie zatrzyma prawa jazdy": "Если превышение было связано со спасением человеческих жизней, полицейский не остановит водительские права.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
         "Prawe pobocze jest oddzielone przerywaną linią krawędziową": "Правая обочина разделена прерывистой линией.",
@@ -3708,7 +3708,6 @@
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku": "Водитель транспортного средства обязан соблюдать особую осторожность при проезде мимо обозначенной остановки трамвая, не расположенной у тротуара.",
-        "Zgodnie z tabliczką, pojazd z lewej strony porusza się drogą podporządkowaną": "Согласно знаку, транспортное средство слева движется по второстепенной дороге.",
         "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
@@ -3869,6 +3868,7 @@
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену бригады скорой медицинской помощи.",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
-        "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?"
+        "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?",
+        "W podstawowej lub okręgowej stacji kontroli pojazdów": "В базовой или районной станции технического осмотра транспортных средств."
     }
 }
