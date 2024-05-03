@@ -2714,7 +2714,9 @@
             "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
             "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
             "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Имеете ли вы право выключить фары, стоя в пробке на дороге (\"в заторе\") среди других транспортных средств на том же полосе движения, без движения на протяжении нескольких минут?",
-            "Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy": "Если остановка длится более 1 минуты, разрешается выключение внешних световых приборов транспортного средства, при условии, что на той же полосе движения, перед этим транспортным средством и за ним, стоят другие транспортные средства."
+            "Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy": "Если остановка длится более 1 минуты, разрешается выключение внешних световых приборов транспортного средства, при условии, что на той же полосе движения, перед этим транспортным средством и за ним, стоят другие транспортные средства.",
+            "Holowany pojazd ogranicz pole widzenia w lusterkach wstecznych": "Буксируемое транспортное средство ограничивает поле зрения в зеркалах заднего вида.",
+            "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке."
         }
     },
     "not_approved": {
@@ -2959,7 +2961,6 @@
         "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
         "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?",
         "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
-        "Tylko podczas wykonywania manewru zawracania na skrzyżowaniu": "Только во время выполнения маневра разворота на перекрестке.",
         "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
         "Odpowiedzi inne niż nr 3 są bez sensu": "Ответы, отличные от номера 3, бессмысленны.",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
@@ -3779,7 +3780,7 @@
         "Zieloną": "Зелёную.",
         "Żółtą": "Жёлтая.",
         "Jakiej barwy chorągiewką wolno Ci oznaczyć ładunek wystający z tyłu samochodu osobowego?": "Какого цвета флажком ты можешь пометить груз, выступающий сзади автомобиля?",
-        "Holowany pojazd ogranicz pole widzenia w lusterkach wstecznych": "Буксируемое транспортное средство ограничивает поле зрения в зеркалах заднего вида.",
-        "Ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm": "Груз, выступающий сзади автомобиля или прицепа, буксируемого автомобилем, должен быть обозначен красным флагом размером не менее 50 х 50 см."
+        "Ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm": "Груз, выступающий сзади автомобиля или прицепа, буксируемого автомобилем, должен быть обозначен красным флагом размером не менее 50 х 50 см.",
+        "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?"
     }
 }
