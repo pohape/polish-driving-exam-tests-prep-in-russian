@@ -2712,7 +2712,9 @@
             "Czy w przedstawionej sytuacji za widocznym znakiem ostrzegawczym musisz zachować szczególną ostrożność?": "В представленной ситуации за видимым предупреждающим знаком должен ли ты проявлять особую осторожность?",
             "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос.",
             "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
-            "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте."
+            "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
+            "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Имеете ли вы право выключить фары, стоя в пробке на дороге (\"в заторе\") среди других транспортных средств на том же полосе движения, без движения на протяжении нескольких минут?",
+            "Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy": "Если остановка длится более 1 минуты, разрешается выключение внешних световых приборов транспортного средства, при условии, что на той же полосе движения, перед этим транспортным средством и за ним, стоят другие транспортные средства."
         }
     },
     "not_approved": {
@@ -3314,7 +3316,6 @@
         "Czy w tej sytuacji masz obowiązek zabezpieczyć miejsce zdarzenia?": "В этой ситуации у тебя есть обязанность обезопасить место происшествия?",
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
-        "Czy stojąc przez kilka minut bez ruchu w zatorze drogowym (\"korku\"), pomiędzy innymi pojazdami na tym samym pasie ruchu, masz prawo wyłączyć światła?": "Встая несколько минут без движения в дорожной пробке (\"пробке\"), между другими транспортными средствами на том же полосе движения, имеешь ли ты право выключить свет?",
         "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
         "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
@@ -3322,7 +3323,6 @@
         "Gdy widoczność wzrośnie powyżej 50 m": "Когда видимость увеличится свыше 50 м.",
         "Gdy widoczność wzrośnie do 40 m": "Когда видимость увеличится до 40 метров.",
         "Kiedy masz obowiązek wyłączyć tylne światła przeciwmgłowe?": "Когда вы обязаны выключить задние противотуманные фары?",
-        "Jeżeli zatrzymanie trwa ponad 1 minutę, dopuszcza się wyłączenie świateł zewnętrznych pojazdu, o ile na tym samym pasie ruchu, przed tym pojazdem i za nim, stoją inne pojazdy": "Если остановка длится более 1 минуты, разрешается выключение внешних световых приборов транспортного средства, при условии, что на той же полосе движения, перед этим транспортным средством и за ним, стоят другие транспортные средства.",
         "Czy w tej sytuacji wolno Ci ominąć widoczny samochód z prawej strony?": "В этой ситуации разрешается ли тебе обогнать видимый автомобиль с правой стороны?",
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
@@ -3768,6 +3768,7 @@
         "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в вождении.",
         "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
         "W sytuacji pokonywania ostrego zakrętu i trudności z utrzymaniem oczekiwanego toru jazdy": "В ситуации, когда приходится преодолевать крутой поворот и возникают трудности с сохранением ожидаемой траектории движения.",
-        "Dopuszczalne jest parkowanie zgodne z tabliczką": "Допускается парковка в соответствии с дорожным знаком."
+        "Dopuszczalne jest parkowanie zgodne z tabliczką": "Допускается парковка в соответствии с дорожным знаком.",
+        "Czy w tej sytuacji powinieneś był upewnić się, że możesz bezpiecznie zmienić pas ruchu?": "В этой ситуации ты должен был убедиться, что можешь безопасно сменить полосу движения?"
     }
 }
