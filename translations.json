@@ -2723,7 +2723,8 @@
             "Wezwać zespołu ratownictwa medycznego": "Вызвать бригаду медицинской помощи.",
             "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру.",
             "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
-            "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери."
+            "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
+            "Czy w tej sytuacji masz prawo zatrzymać pojazd na chodniku w odległości 3 metrów od wiaty widocznego przystanku?": "В этой ситуации имеешь ли ты право остановить транспортное средство на тротуаре в расстоянии 3 метра от видимой остановки общественного транспорта?"
         }
     },
     "not_approved": {
@@ -3758,7 +3759,6 @@
         "Zwiększyć obroty silnika": "Увеличить обороты двигателя.",
         "Zatrzymać pojazd i wyłączyć silnik": "Остановить транспортное средство и выключить двигатель.",
         "Które z wymienionych działań należy podjąć w pierwszej kolejności, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna ciśnienia oleju silnikowego?": "Какое из перечисленных действий необходимо предпринять в первую очередь, когда во время движения загорится красная контрольная лампа давления масла двигателя?",
-        "Czy w tej sytuacji masz prawo zatrzymać pojazd na chodniku w odległości 3 metrów od wiaty widocznego przystanku?": "В этой ситуации имеешь ли ты право остановить транспортное средство на тротуаре в расстоянии 3 метра от видимой остановки общественного транспорта?",
         "Czy w przedstawionej sytuacji skręcając w prawo masz obowiązek ustąpić pierwszeństwa pieszemu?": "Есть ли у вас обязанность уступить дорогу пешеходу, когда поворачиваете направо в данной ситуации?",
         "Czy podczas kierowania pojazdem masz obowiązek stale zachowywać ostrożność?": "Следует ли вам всегда проявлять осторожность при вождении транспортного средства?",
         "Czy w tej sytuacji, chcąc bezpiecznie wykonać manewr omijania, masz obowiązek zmniejszyć prędkość pojazdu?": "В данной ситуации, желая безопасно выполнить маневр объезда, обязан ли ты снизить скорость ТС?",
