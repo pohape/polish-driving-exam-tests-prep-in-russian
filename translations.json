@@ -2712,7 +2712,8 @@
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom nadjeżdżającym z lewej strony?": "Обязаны ли вы в этой ситуации уступить дорогу ТС, приближающимся слева?",
             "Tak, jak życzy sobie tego dziecko": "Как этого желает ребенок.",
             "W sposób wygodny dla siebie": "Удобным для себя способом.",
-            "Czy w przedstawionej sytuacji za widocznym znakiem ostrzegawczym musisz zachować szczególną ostrożność?": "В представленной ситуации за видимым предупреждающим знаком должен ли ты проявлять особую осторожность?"
+            "Czy w przedstawionej sytuacji za widocznym znakiem ostrzegawczym musisz zachować szczególną ostrożność?": "В представленной ситуации за видимым предупреждающим знаком должен ли ты проявлять особую осторожность?",
+            "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос."
         }
     },
     "not_approved": {
@@ -3331,7 +3332,6 @@
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
         "Wyłącznie podczas hamowania na prostym odcinku drogi": "Исключительно во время торможения на прямом участке дороги.",
         "Wyłącznie podczas hamowania na zakręcie": "Только во время торможения на повороте.",
-        "Przy hamowaniu, gdy pojazd wpadł w boczny poślizg": "При торможении, когда транспортное средство вошло в боковой занос.",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
