@@ -28,8 +28,8 @@ class Favorites extends Base
     {
         $favorites = self::load();
 
-        if (($key = array_search($string, $favorites)) !== false) {
-            unset($favorites[$key]);
+        if (array_key_exists($string, $favorites)) {
+            unset($favorites[$string]);
             $this->save($favorites);
 
             return true;
