@@ -2724,7 +2724,9 @@
             "Właściciel pojazdu samochodowego, ciągnika rolniczego, pojazdu wolnobieżnego wchodzącego w skład kolejki turystycznej, motoroweru lub przyczepy jest obowiązany przedstawiać go do badania technicznego": "Владелец автомобиля, сельскохозяйственного трактора, медленноходного транспортного средства, входящего в состав туристического поезда, мопеда или прицепа обязан предъявлять его к техническому осмотру.",
             "Użyję do opatrunku odzieży poszkodowanego": "Я буду использовать для перевязки одежды пострадавшего.",
             "Najważniejszą czynnością podczas krwotoku jest zminimalizowanie krwawienia": "Самым важным действием при кровотечении является минимизация кровопотери.",
-            "Czy w tej sytuacji masz prawo zatrzymać pojazd na chodniku w odległości 3 metrów od wiaty widocznego przystanku?": "В этой ситуации имеешь ли ты право остановить транспортное средство на тротуаре в расстоянии 3 метра от видимой остановки общественного транспорта?"
+            "Czy w tej sytuacji masz prawo zatrzymać pojazd na chodniku w odległości 3 metrów od wiaty widocznego przystanku?": "В этой ситуации имеешь ли ты право остановить транспортное средство на тротуаре в расстоянии 3 метра от видимой остановки общественного транспорта?",
+            "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
+            "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?"
         }
     },
     "not_approved": {
@@ -3458,7 +3460,6 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
         "Kierujący pojazdem jest obowiązany utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Водитель транспортного средства обязан поддерживать необходимую дистанцию для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
-        "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
@@ -3496,7 +3497,6 @@
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
-        "Czy podczas powolnej jazdy w warunkach zatoru drogowego powinieneś spodziewać się, że będziesz wyprzedzany z prawej strony przez kierującego rowerem?": "Во время медленного движения в условиях дорожной пробки должны ли Вы ожидать, что Вас будут обгонять с правой стороны на велосипеде?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
         "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
