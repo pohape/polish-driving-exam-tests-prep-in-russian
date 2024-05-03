@@ -2729,7 +2729,11 @@
             "Czy w tej sytuacji wolno Ci zatrzymać pojazd na prawym poboczu?": "В данной ситуации тебе разрешается остановить транспортное средство на правой обочине?",
             "Czy podczas jazdy w takich warunkach drogowych powinieneś korzystać z pasów bezpieczeństwa?": "Должен ли ты в таких дорожных условиях использовать ремни безопасности?",
             "Nie, gdy poruszam się z niewielką prędkością": "Нет, когда двигаюсь с небольшой скоростью.",
-            "Tak, ale tylko w przypadku jazdy z prędkością większą niż 50 km\/h": "Да, но только в случае езды со скоростью больше 50 км\/ч."
+            "Tak, ale tylko w przypadku jazdy z prędkością większą niż 50 km\/h": "Да, но только в случае езды со скоростью больше 50 км\/ч.",
+            "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
+            "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
+            "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu": "Размещенные в держателях сзади транспортного средства, закрывающем один фонарь транспортного средства.",
+            "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше."
         }
     },
     "not_approved": {
@@ -2771,7 +2775,6 @@
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Tylko lekarz": "Только врач.",
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
-        "Umieszczone w uchwytach zamontowanych na bagażniku dachowym": "Помещается в кронштейны, установленные на багажнике на крыше.",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
@@ -2873,7 +2876,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Jak umieścisz bagaż w samochodzie osobowym?": "Как вы кладете багаж в легковой автомобиль?",
-        "W jaki sposób wolno Ci przewozić rowery samochodem osobowym?": "Как вам разрешено перевозить велосипеды на легковом автомобиле?",
         "Skieruje na dodatkowe szkolenie": "Он направит на дополнительное обучение.",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
@@ -3130,8 +3132,6 @@
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji użycie sygnału dźwiękowego jest zabronione?": "Вы управляете транспортным средством в населенном пункте. Запрещено ли в этой ситуации использование звукового сигнала?",
-        "Umieszczone w uchwytach z tyłu pojazdu ograniczającym czytelność tablicy rejestracyjnej": "Размещенные в держателях сзади автомобиля, ограничивающие видимость регистрационного номера.",
-        "Umieszczone w uchwytach z tyłu pojazdu zasłaniającym jedno światło pojazdu": "Размещенные в держателях сзади транспортного средства, закрывающем один фонарь транспортного средства.",
         "Kamizelka odblaskowa": "Светоотражающий жилет.",
         "Podnośnik": "Подъемник.",
         "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
