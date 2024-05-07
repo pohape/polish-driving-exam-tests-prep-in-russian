@@ -2766,7 +2766,9 @@
             "Zwiększenie poziomu emisji hałasu przez układ wydechowy pojazdu": "Увеличение уровня шума, издаваемого системой выпуска транспортного средства.",
             "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла.",
             "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
-            "Oznakowanie poziome": "Наземная (горизонтальная) разметка."
+            "Oznakowanie poziome": "Наземная (горизонтальная) разметка.",
+            "Nie ma pieszych w pobliżu przejścia": "Вблизи пешеходного перехода нет пешеходов.",
+            "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": "Вы обязаны снизить скорость в этой ситуации?"
         }
     },
     "not_approved": {
@@ -2891,7 +2893,6 @@
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
-        "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": "Вы обязаны снизить скорость в этой ситуации?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
@@ -3880,6 +3881,7 @@
         "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?",
         "Kierujący pojazdem nie może zajmować więcej niż jednego pasa ruchu": "Водитель транспортного средства не может занимать более одной полосы движения.",
         "Włączanie się do ruchu następuje przy wyjeżdżaniu ze strefy zamieszkania": "Включиться в движение происходит при выезде из жилой зоны.",
-        "Szczególna ostrożność nie jest potrzebna podczas przejazdu w takich okolicznościach": "Особая осторожность не нужна при проезде в таких обстоятельствах."
+        "Szczególna ostrożność nie jest potrzebna podczas przejazdu w takich okolicznościach": "Особая осторожность не нужна при проезде в таких обстоятельствах.",
+        "Układ strzałek na sygnalizatorze S-3 (strzałka w dół) umożliwia zawracanie": "Расположение стрелок на светофоре S-3 (стрелка вниз) позволяет разворачиваться."
     }
 }
