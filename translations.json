@@ -2758,7 +2758,11 @@
             "Ze względu na ograniczoną przestrzeń należy wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię": "В связи с ограниченным пространством необходимо учитывать возможность выхода пешеходов на проезжую часть.",
             "Czy w tej sytuacji, powinieneś wziąć pod uwagę możliwość wtargnięcia pieszych na jezdnię?": "В этой ситуации, должен ли ты принять во внимание возможность внезапного появления пешеходов на проезжей части?",
             "Zbliżanie się do drogi dla rowerów nie zobowiązuje do zatrzymania": "Приближение к дороге для велосипедов не обязывает остановиться.",
-            "Czy zbliżając się do drogi dla rowerów musisz zawsze się zatrzymać?": "Должен ли ты всегда останавливаться, приближаясь к дороге для велосипедистов?"
+            "Czy zbliżając się do drogi dla rowerów musisz zawsze się zatrzymać?": "Должен ли ты всегда останавливаться, приближаясь к дороге для велосипедистов?",
+            "Podczas zmiany pasa ruchu nie musisz zachować szczególnej ostrożności": "Во время смены полосы движения не нужно соблюдать особую осторожность.",
+            "Powinieneś pozostać na zajmowanym pasie": "Вы должны оставаться на занимаемой полосе.",
+            "Masz prawo zmienić pas ruchu na lewy": "Вы имеете право перестроиться на левую полосу.",
+            "Co powinieneś zrobić w tej sytuacji?": "Что ты должен сделать в этой ситуации?"
         }
     },
     "not_approved": {
@@ -3694,11 +3698,7 @@
         "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?",
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
-        "Powinieneś pozostać na zajmowanym pasie": "Вы должны оставаться на занимаемой полосе.",
-        "Co powinieneś zrobić w tej sytuacji?": "Что ты должен сделать в этой ситуации?",
-        "Masz prawo zmienić pas ruchu na lewy": "Вы имеете право перестроиться на левую полосу.",
         "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
-        "Podczas zmiany pasa ruchu nie musisz zachować szczególnej ostrożności": "Во время смены полосы движения не нужно соблюдать особую осторожность.",
         "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "dowód rejestracyjny": "Свидетельство о регистрации.",
