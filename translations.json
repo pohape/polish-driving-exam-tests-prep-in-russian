@@ -2764,7 +2764,9 @@
             "Masz prawo zmienić pas ruchu na lewy": "Вы имеете право перестроиться на левую полосу.",
             "Co powinieneś zrobić w tej sytuacji?": "Что ты должен сделать в этой ситуации?",
             "Zwiększenie poziomu emisji hałasu przez układ wydechowy pojazdu": "Увеличение уровня шума, издаваемого системой выпуска транспортного средства.",
-            "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла."
+            "Zwiększenie spalania oleju silnikowego": "Увеличение расхода моторного масла.",
+            "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
+            "Oznakowanie poziome": "Наземная (горизонтальная) разметка."
         }
     },
     "not_approved": {
@@ -3043,7 +3045,6 @@
         "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
-        "Oznakowanie pionowe": "Вертикальная дорожная разметка.",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
         "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
