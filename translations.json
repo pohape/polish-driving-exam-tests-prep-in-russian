@@ -2773,7 +2773,8 @@
             "Podczas przewożenia dziecka taksówką": "Во время перевозки ребенка на такси.",
             "Podczas przewożenia dziecka na tylnym siedzeniu": "Во время перевозки ребенка на заднем сидении.",
             "Podczas przewożenia dziecka na kolanach osoby dorosłej": "При перевозке ребенка на коленях у взрослого.",
-            "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?"
+            "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
+            "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?"
         }
     },
     "not_approved": {
@@ -3882,7 +3883,6 @@
         "Kierujący pojazdem nie może zajmować więcej niż jednego pasa ruchu": "Водитель транспортного средства не может занимать более одной полосы движения.",
         "Włączanie się do ruchu następuje przy wyjeżdżaniu ze strefy zamieszkania": "Включиться в движение происходит при выезде из жилой зоны.",
         "Szczególna ostrożność nie jest potrzebna podczas przejazdu w takich okolicznościach": "Особая осторожность не нужна при проезде в таких обстоятельствах.",
-        "Układ strzałek na sygnalizatorze S-3 (strzałka w dół) umożliwia zawracanie": "Расположение стрелок на светофоре S-3 (стрелка вниз) позволяет разворачиваться.",
-        "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?"
+        "Układ strzałek na sygnalizatorze S-3 (strzałka w dół) umożliwia zawracanie": "Расположение стрелок на светофоре S-3 (стрелка вниз) позволяет разворачиваться."
     }
 }
