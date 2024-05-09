@@ -2,16 +2,11 @@
 
 class Base
 {
-    /**
-     * @var string
-     */
     protected string $filename = '';
 
-    protected function load($filename = null)
+    protected function load(string $filename = null)
     {
-        if (empty($filename)) {
-            $filename = $this->filename;
-        }
+        $filename = $filename ?? $this->filename;
 
         if (empty($filename)) {
             return [];
@@ -20,7 +15,7 @@ class Base
         $path = __DIR__ . '/' . $filename;
 
         if (file_exists($path)) {
-            return json_decode(file_get_contents($path), true);
+            return json_decode(file_get_contents($path), true) ?: [];
         } else {
             return [];
         }
