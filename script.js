@@ -11,6 +11,7 @@
 (function () {
     'use strict';
 
+    const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
         "#learnings-list > div:nth-child(1) > div:nth-child(2)", // на странице выбора группы вопросов для изучения
         "#learning-check > div:nth-child(5)", // "wyjaśnienie" на странице ответа с объяснением в режиме подгтовки
@@ -91,9 +92,25 @@
         }
     ];
 
+    let registrationDate = null
     let contentCache = {};
     let favoritesArray = [];
     let switchIds = new Set();
+
+    function loadRegistrationDateAndFavorites() {
+        fetch('/moje-konto')
+            .then(response => response.text())
+            .then(html => {
+                let match = html.match(regexRegistrationDate);
+
+                if (match) {
+                    registrationDate = encodeURIComponent(match[1])
+                    saveToCacheRegistrationDate(registrationDate)
+                    loadFavorites(registrationDate)
+                }
+            })
+            .catch(error => console.error('Error fetching the data:', error));
+    }
 
     function createPopup(src, mouseX, mouseY) {
         const popup = document.createElement('div');
@@ -170,21 +187,32 @@
         const link = document.createElement('a');
         let addedToFavorites = favoritesArray.includes(originalText)
 
-        link.href = '#';
-        link.title = addedToFavorites ? titleRemove : titleAdd;
-        link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
-        link.onclick = (e) => {
-            e.preventDefault();
-            addedToFavorites = !addedToFavorites;
-            link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+        if (registrationDate) {
+            link.href = '#';
             link.title = addedToFavorites ? titleRemove : titleAdd;
+            link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+            link.onclick = (e) => {
+                e.preventDefault();
+                addedToFavorites = !addedToFavorites;
+                link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+                link.title = addedToFavorites ? titleRemove : titleAdd;
 
-            if (addedToFavorites) {
-                addToFavoritesIfNotPresent(originalText)
-            } else {
-                removeFromFavorites(originalText)
-            }
-        };
+                if (addedToFavorites) {
+                    addToFavoritesIfNotPresent(originalText)
+                } else {
+                    removeFromFavorites(originalText)
+                }
+            };
+        } else {
+            link.href = '/zaloguj'
+            link.target = '_blank'
+            link.innerHTML = emojiNotAdded
+
+            let tooltip = document.createElement('span');
+            tooltip.classList.add('tooltip');
+            tooltip.textContent = 'Для добавления вопроса в "избранные" нужно зарегистрироваться и авторизоваться на этом сайте (никакие личные данные никуда не передаются, в плагине для ведения списка избранных вопросов используется только обезличенный идентификатор вашего аккаунта)';
+            link.appendChild(tooltip);
+        }
 
         span.appendChild(link);
     }
@@ -197,10 +225,10 @@
             console.log("Already is in local Favorites: " + translation);
         }
 
-        makeHttpRequest({add_to_favorites: translation}, function (result) {
+        makeHttpRequest({add_to_favorites: translation, registration_date: registrationDate}, function (result) {
             if (result.error === null) {
                 console.log("Added to API Favorites: " + translation);
-                saveFavorites(result)
+                setFavorites(result)
             } else {
                 console.log("Error adding to API Favorites: " + translation);
             }
@@ -220,7 +248,7 @@
         makeHttpRequest({remove_from_favorites: translation}, function (result) {
             if (result.error === null) {
                 console.log("Removed from API Favorites: " + translation);
-                saveFavorites(result)
+                setFavorites(result)
             } else {
                 console.log("Error removing from API Favorites: " + translation);
             }
@@ -355,6 +383,15 @@
 
     function loadFromCacheSwitchState() {
         return localStorage.getItem('translation_switch_state') === '1';
+    }
+
+    function saveToCacheRegistrationDate(registrationDate) {
+        console.log('Save the registration date: "' + registrationDate + '"');
+        localStorage.setItem('registration_date', registrationDate);
+    }
+
+    function loadFromCacheRegistrationDate() {
+        return localStorage.getItem('registration_date');
     }
 
     function saveToCache(original, translate) {
@@ -521,7 +558,7 @@
         }
     }
 
-    function saveFavorites(result) {
+    function setFavorites(result) {
         if (result.error === null && Array.isArray(result.favorites)) {
             favoritesArray = result.favorites;
             console.log("Favorites loaded successfully", favoritesArray);
@@ -530,13 +567,13 @@
         }
     }
 
-    function loadFavorites() {
-        makeHttpRequest({}, function (result) {
-            saveFavorites(result)
+    function loadFavorites(registrationDate) {
+        makeHttpRequest({registration_date: registrationDate}, function (result) {
+            setFavorites(result)
         });
     }
 
-    loadFavorites();
+    loadRegistrationDateAndFavorites()
     let emptyRemoved = false;
 
     setInterval(function () {
@@ -607,6 +644,35 @@
     style.type = 'text/css';
 
     style.innerHTML = `
+    .tooltip {
+        visibility: hidden;
+        background-color: black;
+        color: white;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 10px;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -60px;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+    .tooltip::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: black transparent transparent transparent;
+    }
+    a:hover .tooltip {
+        visibility: visible;
+        opacity: 1;
+    }
     .breadcumb_area {
         height: 170px !important;
     }
