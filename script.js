@@ -112,7 +112,7 @@
             .catch(error => console.error('Error fetching the data:', error));
     }
 
-    function createPopup(src, mouseX, mouseY) {
+    function createImgHint(src, mouseX, mouseY) {
         const popup = document.createElement('div');
         popup.style.position = 'fixed';
         popup.style.top = mouseY + 'px';
@@ -133,6 +133,33 @@
 
         return popup;
     }
+
+    function createTextHint(text, mouseX, mouseY) {
+        // Создание элемента div для всплывающей подсказки
+        const popup = document.createElement('div');
+        popup.style.position = 'fixed'; // Использование 'fixed', чтобы позиционировать относительно окна браузера
+        popup.style.top = (mouseY + 15) + 'px'; // Добавляем небольшой отступ, чтобы подсказка не перекрывала курсор
+        popup.style.left = (mouseX + 15) + 'px'; // Добавляем отступ по горизонтали также
+        popup.style.zIndex = '1000';
+        popup.style.border = '1px solid black';
+        popup.style.backgroundColor = 'white';
+        popup.style.padding = '5px';
+        popup.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+        popup.style.pointerEvents = 'none'; // Убедимся, что подсказка не мешает другим событиям мыши
+        popup.style.maxWidth = '200px'; // Ограничим ширину подсказки для лучшего восприятия
+        popup.style.wordWrap = 'break-word'; // Обеспечим перенос слов, если текст слишком длинный
+
+        // Создание элемента span для текста внутри подсказки
+        const textNode = document.createElement('span');
+        textNode.textContent = text;
+        popup.appendChild(textNode);
+
+        // Добавление подсказки в тело документа
+        document.body.appendChild(popup);
+
+        return popup;
+    }
+
 
     function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
@@ -186,16 +213,18 @@
 
         const link = document.createElement('a');
         let addedToFavorites = favoritesArray.includes(originalText)
+        let hintText
 
         if (registrationDate) {
+            hintText = addedToFavorites ? titleRemove : titleAdd;
             link.href = '#';
-            link.title = addedToFavorites ? titleRemove : titleAdd;
             link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
+
             link.onclick = (e) => {
                 e.preventDefault();
                 addedToFavorites = !addedToFavorites;
                 link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
-                link.title = addedToFavorites ? titleRemove : titleAdd;
+                hintText = addedToFavorites ? titleRemove : titleAdd;
 
                 if (addedToFavorites) {
                     addToFavoritesIfNotPresent(originalText)
@@ -204,15 +233,25 @@
                 }
             };
         } else {
+            hintText = 'Для добавления вопроса в "избранные" нужно зарегистрироваться и авторизоваться на этом сайте (никакие личные данные никуда не передаются, в плагине для ведения списка избранных вопросов используется только обезличенный идентификатор вашего аккаунта)'
             link.href = '/zaloguj'
             link.target = '_blank'
             link.innerHTML = emojiNotAdded
-
-            let tooltip = document.createElement('span');
-            tooltip.classList.add('tooltip');
-            tooltip.textContent = 'Для добавления вопроса в "избранные" нужно зарегистрироваться и авторизоваться на этом сайте (никакие личные данные никуда не передаются, в плагине для ведения списка избранных вопросов используется только обезличенный идентификатор вашего аккаунта)';
-            link.appendChild(tooltip);
         }
+
+        let hintElement;
+
+        link.onmouseover = (e) => {
+            hintElement = createTextHint(
+                hintText,
+                e.clientX + 10,
+                e.clientY + 10
+            );
+        };
+
+        link.onmouseout = () => {
+            if (hintElement) document.body.removeChild(hintElement);
+        };
 
         span.appendChild(link);
     }
@@ -319,21 +358,21 @@
 
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
-            link.href = 'https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
+            link.href = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
 
             let popup;
 
             link.onmouseover = (e) => {
-                const mouseX = e.clientX + 10; // 10 пикселей справа от курсора
-                const mouseY = e.clientY + 10; // 10 пикселей ниже курсора
-                popup = createPopup(link.href, mouseX, mouseY);
+                const mouseX = e.clientX + 10;
+                const mouseY = e.clientY + 10;
+                popup = createImgHint(link.href, mouseX, mouseY);
             };
 
             link.onmouseout = () => {
                 if (popup) document.body.removeChild(popup);
             };
-            element.appendChild(link); // Ссылка добавляется напрямую, без оборачивания в <b>
+            element.appendChild(link);
 
             lastIndex = regex.lastIndex;
         }
@@ -644,35 +683,6 @@
     style.type = 'text/css';
 
     style.innerHTML = `
-    .tooltip {
-        visibility: hidden;
-        background-color: black;
-        color: white;
-        text-align: center;
-        border-radius: 6px;
-        padding: 5px 10px;
-        position: absolute;
-        z-index: 1;
-        bottom: 125%;
-        left: 50%;
-        margin-left: -60px;
-        opacity: 0;
-        transition: opacity 0.3s;
-    }
-    .tooltip::after {
-        content: "";
-        position: absolute;
-        top: 100%;
-        left: 50%;
-        margin-left: -5px;
-        border-width: 5px;
-        border-style: solid;
-        border-color: black transparent transparent transparent;
-    }
-    a:hover .tooltip {
-        visibility: visible;
-        opacity: 1;
-    }
     .breadcumb_area {
         height: 170px !important;
     }
