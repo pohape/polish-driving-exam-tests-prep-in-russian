@@ -25,6 +25,11 @@ function prepareText(string $text)
 $favorites = new Favorites();
 $translate = new Translate();
 
+$else = json_encode(
+    ['error' => null, 'favorites' => $favorites->getFavorites()],
+    JSON_UNESCAPED_UNICODE
+);
+
 if (isset($input['text'])) {
     $prepared = prepareText($input['text']);
     $result = $translate->performTranslation($prepared['text']);
@@ -48,27 +53,28 @@ if (isset($input['text'])) {
         ['error' => null, 'success' => $translate->markTranslationAsIncorrect($prepared['text'])],
         JSON_UNESCAPED_UNICODE
     );
-} elseif (isset($input['add_to_favorites'])) {
-    echo json_encode(
-        [
-            'error' => null,
-            'success' => $favorites->saveToFavorites($input['add_to_favorites']),
-            'favorites' => $favorites->getFavorites()
-        ],
-        JSON_UNESCAPED_UNICODE
-    );
-} elseif (isset($input['remove_from_favorites'])) {
-    echo json_encode(
-        [
-            'error' => null,
-            'success' => $favorites->removeFromFavorites($input['remove_from_favorites']),
-            'favorites' => $favorites->getFavorites()
-        ],
-        JSON_UNESCAPED_UNICODE
-    );
+} elseif (isset($input['registration_date'])) {
+    if (isset($input['add_to_favorites'])) {
+        echo json_encode(
+            [
+                'error' => null,
+                'success' => $favorites->saveToFavorites($input['add_to_favorites'], $input['registration_date']),
+                'favorites' => $favorites->getFavorites()
+            ],
+            JSON_UNESCAPED_UNICODE
+        );
+    } elseif (isset($input['remove_from_favorites'])) {
+        echo json_encode(
+            [
+                'error' => null,
+                'success' => $favorites->removeFromFavorites($input['remove_from_favorites'], $input['registration_date']),
+                'favorites' => $favorites->getFavorites()
+            ],
+            JSON_UNESCAPED_UNICODE
+        );
+    } else {
+        echo $else;
+    }
 } else {
-    echo json_encode(
-        ['error' => null, 'favorites' => $favorites->getFavorites()],
-        JSON_UNESCAPED_UNICODE
-    );
+    echo $else;
 }
