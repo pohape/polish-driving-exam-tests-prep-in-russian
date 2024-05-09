@@ -112,54 +112,50 @@
             .catch(error => console.error('Error fetching the data:', error));
     }
 
+    function createHint(mouseX, mouseY) {
+        const hintDiv = document.createElement('div');
+
+        hintDiv.style.position = 'fixed';
+        hintDiv.style.top = mouseY + 'px';
+        hintDiv.style.left = mouseX + 'px';
+        hintDiv.style.zIndex = '1000';
+        hintDiv.style.border = '1px solid black';
+        hintDiv.style.backgroundColor = 'white';
+        hintDiv.style.padding = '5px';
+        hintDiv.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+
+        return hintDiv
+    }
+
     function createImgHint(src, mouseX, mouseY) {
-        const popup = document.createElement('div');
-        popup.style.position = 'fixed';
-        popup.style.top = mouseY + 'px';
-        popup.style.left = mouseX + 'px';
-        popup.style.zIndex = '1000';
-        popup.style.border = '1px solid black';
-        popup.style.backgroundColor = 'white';
-        popup.style.padding = '5px';
-        popup.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+        let hintDiv = createHint(mouseX, mouseY)
 
         const img = document.createElement('img');
         img.src = src;
         img.style.width = '200px';
         img.style.height = 'auto';
 
-        popup.appendChild(img);
-        document.body.appendChild(popup);
+        hintDiv.appendChild(img);
+        document.body.appendChild(hintDiv);
 
-        return popup;
+        return hintDiv;
     }
 
     function createTextHint(text, mouseX, mouseY) {
-        // Создание элемента div для всплывающей подсказки
-        const popup = document.createElement('div');
-        popup.style.position = 'fixed'; // Использование 'fixed', чтобы позиционировать относительно окна браузера
-        popup.style.top = (mouseY + 15) + 'px'; // Добавляем небольшой отступ, чтобы подсказка не перекрывала курсор
-        popup.style.left = (mouseX + 15) + 'px'; // Добавляем отступ по горизонтали также
-        popup.style.zIndex = '1000';
-        popup.style.border = '1px solid black';
-        popup.style.backgroundColor = 'white';
-        popup.style.padding = '5px';
-        popup.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
-        popup.style.pointerEvents = 'none'; // Убедимся, что подсказка не мешает другим событиям мыши
-        popup.style.maxWidth = '200px'; // Ограничим ширину подсказки для лучшего восприятия
-        popup.style.wordWrap = 'break-word'; // Обеспечим перенос слов, если текст слишком длинный
+        let hintDiv = createHint(mouseX, mouseY)
+        hintDiv.style.pointerEvents = 'none'; // Убедимся, что подсказка не мешает другим событиям мыши
+        hintDiv.style.maxWidth = '400px'; // Ограничим ширину подсказки для лучшего восприятия
+        hintDiv.style.wordWrap = 'break-word'; // Обеспечим перенос слов, если текст слишком длинный
 
         // Создание элемента span для текста внутри подсказки
         const textNode = document.createElement('span');
         textNode.textContent = text;
-        popup.appendChild(textNode);
 
-        // Добавление подсказки в тело документа
-        document.body.appendChild(popup);
+        hintDiv.appendChild(textNode);
+        document.body.appendChild(hintDiv);
 
-        return popup;
+        return hintDiv;
     }
-
 
     function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
@@ -361,16 +357,16 @@
             link.href = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
 
-            let popup;
+            let hintElement;
 
             link.onmouseover = (e) => {
                 const mouseX = e.clientX + 10;
                 const mouseY = e.clientY + 10;
-                popup = createImgHint(link.href, mouseX, mouseY);
+                hintElement = createImgHint(link.href, mouseX, mouseY);
             };
 
             link.onmouseout = () => {
-                if (popup) document.body.removeChild(popup);
+                if (hintElement) document.body.removeChild(hintElement);
             };
             element.appendChild(link);
 
