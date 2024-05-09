@@ -2774,7 +2774,8 @@
             "Podczas przewożenia dziecka na tylnym siedzeniu": "Во время перевозки ребенка на заднем сидении.",
             "Podczas przewożenia dziecka na kolanach osoby dorosłej": "При перевозке ребенка на коленях у взрослого.",
             "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
-            "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?"
+            "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?",
+            "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?"
         }
     },
     "not_approved": {
@@ -3513,7 +3514,6 @@
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
         "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
-        "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
         "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
         "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?",
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
@@ -3883,6 +3883,8 @@
         "Kierujący pojazdem nie może zajmować więcej niż jednego pasa ruchu": "Водитель транспортного средства не может занимать более одной полосы движения.",
         "Włączanie się do ruchu następuje przy wyjeżdżaniu ze strefy zamieszkania": "Включиться в движение происходит при выезде из жилой зоны.",
         "Szczególna ostrożność nie jest potrzebna podczas przejazdu w takich okolicznościach": "Особая осторожность не нужна при проезде в таких обстоятельствах.",
-        "Układ strzałek na sygnalizatorze S-3 (strzałka w dół) umożliwia zawracanie": "Расположение стрелок на светофоре S-3 (стрелка вниз) позволяет разворачиваться."
+        "Układ strzałek na sygnalizatorze S-3 (strzałka w dół) umożliwia zawracanie": "Расположение стрелок на светофоре S-3 (стрелка вниз) позволяет разворачиваться.",
+        "Czy w przedstawionej sytuacji obowiązany jesteś zachować szczególną ostrożność?": "В представленной ситуации обязаны ли вы проявлять особую осторожность?",
+        "Czy wolno Ci położyć bezpośrednio na ranę kompres z wyjałowionej gazy?": "Разрешается ли тебе положить прямо на рану компресс из стерильной повязки?"
     }
 }
