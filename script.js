@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
 // @grant        GM_xmlhttpRequest
 // @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
+// @downloadURL  https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/script.js
+// @updateURL    https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/script.js
 // ==/UserScript==
 (function () {
     'use strict';
