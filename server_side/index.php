@@ -54,7 +54,7 @@ if (isset($input['text'])) {
             [
                 'error' => null,
                 'success' => $favorites->saveToFavorites($input['add_to_favorites'], $input['registration_date']),
-                'favorites' => $favorites->getFavorites()
+                'favorites' => $favorites->getFavorites($input['registration_date'])
             ],
             JSON_UNESCAPED_UNICODE
         );
@@ -63,7 +63,7 @@ if (isset($input['text'])) {
             [
                 'error' => null,
                 'success' => $favorites->removeFromFavorites($input['remove_from_favorites'], $input['registration_date']),
-                'favorites' => $favorites->getFavorites()
+                'favorites' => $favorites->getFavorites($input['registration_date'])
             ],
             JSON_UNESCAPED_UNICODE
         );
