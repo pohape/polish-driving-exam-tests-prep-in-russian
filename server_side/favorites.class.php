@@ -6,14 +6,14 @@ class Favorites extends Base
 
     public function saveToFavorites(string $string, string $regDate): bool
     {
-        $favorites = self::load();
+        $favorites = $this->load();
         $regDateExists = array_key_exists($regDate, $favorites);
 
         if ($regDateExists && array_key_exists($string, $favorites[$regDate])) {
             return true;
         }
 
-        $questions = self::load('../questions.json');
+        $questions = $this->load('../questions.json');
 
         if (array_key_exists($string, $questions)) {
             if (!$regDateExists) {
@@ -31,7 +31,7 @@ class Favorites extends Base
 
     public function removeFromFavorites(string $string, string $regDate): bool
     {
-        $favorites = self::load();
+        $favorites = $this->load();
 
         if (array_key_exists($regDate, $favorites) && array_key_exists($string, $favorites[$regDate])) {
             unset($favorites[$regDate][$string]);
@@ -45,6 +45,6 @@ class Favorites extends Base
 
     public function getFavorites()
     {
-        return array_keys(self::load());
+        return array_keys($this->load());
     }
 }
