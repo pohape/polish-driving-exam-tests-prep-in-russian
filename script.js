@@ -123,6 +123,7 @@
         hintDiv.style.backgroundColor = 'white';
         hintDiv.style.padding = '5px';
         hintDiv.style.boxShadow = '0px 0px 10px rgba(0,0,0,0.5)';
+        document.body.appendChild(hintDiv);
 
         return hintDiv
     }
@@ -136,7 +137,6 @@
         img.style.height = 'auto';
 
         hintDiv.appendChild(img);
-        document.body.appendChild(hintDiv);
 
         return hintDiv;
     }
@@ -150,9 +150,7 @@
         // Создание элемента span для текста внутри подсказки
         const textNode = document.createElement('span');
         textNode.textContent = text;
-
         hintDiv.appendChild(textNode);
-        document.body.appendChild(hintDiv);
 
         return hintDiv;
     }
