@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -19,6 +19,7 @@
         "#learning-check > div:nth-child(5)", // "wyjaśnienie" на странице ответа с объяснением в режиме подгтовки
     ]
 
+    const selectorLogout = "//a[@href='/wyloguj']"
     const selectors = {
         "question": [
             "#question-content", // тело вопроса в тесте и в подготовке, на странице где идет таймер
@@ -100,18 +101,34 @@
     let switchIds = new Set();
 
     function loadRegistrationDateAndFavorites() {
-        fetch('/moje-konto')
-            .then(response => response.text())
-            .then(html => {
-                let match = html.match(regexRegistrationDate);
+        let xpathResult = document.evaluate(
+            selectorLogout,
+            document,
+            null,
+            XPathResult.FIRST_ORDERED_NODE_TYPE,
+            null
+        );
 
-                if (match) {
-                    registrationDate = encodeURIComponent(match[1])
-                    saveToCacheRegistrationDate(registrationDate)
-                    loadFavorites(registrationDate)
-                }
-            })
-            .catch(error => console.error('Error fetching the data:', error));
+        if (xpathResult.singleNodeValue) {
+            console.log("The user is logged in");
+
+            fetch('/moje-konto')
+                .then(response => response.text())
+                .then(html => {
+                    let match = html.match(regexRegistrationDate);
+
+                    if (match) {
+                        registrationDate = encodeURIComponent(match[1])
+                        saveToCacheRegistrationDate(registrationDate)
+                        loadFavorites(registrationDate)
+                    }
+                })
+                .catch(error => console.error('Error fetching the data:', error));
+        } else {
+            console.log("The user is logged out");
+            registrationDate = null
+            saveToCacheRegistrationDate(registrationDate)
+        }
     }
 
     function createHint(mouseX, mouseY) {
@@ -174,6 +191,7 @@
         let switchState = loadFromCacheSwitchState()
         localStorage.clear();
         saveToCacheSwitchState(switchState)
+        saveToCacheRegistrationDate(registrationDate)
 
         makeHttpRequest({[actionType]: translation}, function (result) {
             console.log(translation + " " + actionType + ": " + result.success);
