@@ -16,7 +16,7 @@
 
 3. Добавляем наш скрипт, вставив в расширение URL-адрес скрипта:
 ```
-https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/script.js
+https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/script.js
 ```
 
 ![Violentmonekey 2](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/screenshots/2.png)
