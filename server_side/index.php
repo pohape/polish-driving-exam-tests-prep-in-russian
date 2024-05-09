@@ -25,11 +25,6 @@ function prepareText(string $text)
 $favorites = new Favorites();
 $translate = new Translate();
 
-$else = json_encode(
-    ['error' => null, 'favorites' => $favorites->getFavorites()],
-    JSON_UNESCAPED_UNICODE
-);
-
 if (isset($input['text'])) {
     $prepared = prepareText($input['text']);
     $result = $translate->performTranslation($prepared['text']);
@@ -73,8 +68,14 @@ if (isset($input['text'])) {
             JSON_UNESCAPED_UNICODE
         );
     } else {
-        echo $else;
+        echo json_encode(
+            ['error' => null, 'favorites' => $favorites->getFavorites($input['registration_date'])],
+            JSON_UNESCAPED_UNICODE
+        );;
     }
 } else {
-    echo $else;
+    echo json_encode(
+        ['error' => null],
+        JSON_UNESCAPED_UNICODE
+    );;
 }

@@ -43,8 +43,10 @@ class Favorites extends Base
         return false;
     }
 
-    public function getFavorites()
+    public function getFavorites($regDate)
     {
-        return array_keys($this->load());
+        $favorites = $this->load();
+
+        return array_key_exists($regDate, $favorites) ? array_keys($favorites[$regDate]) : [];
     }
 }
