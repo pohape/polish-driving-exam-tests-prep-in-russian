@@ -278,7 +278,7 @@
             console.log("Not found in local Favorites: " + translation);
         }
 
-        makeHttpRequest({remove_from_favorites: translation}, function (result) {
+        makeHttpRequest({remove_from_favorites: translation, registration_date: registrationDate}, function (result) {
             if (result.error === null) {
                 console.log("Removed from API Favorites: " + translation);
                 setFavorites(result)
