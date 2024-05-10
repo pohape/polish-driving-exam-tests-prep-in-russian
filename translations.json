@@ -2775,7 +2775,12 @@
             "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
             "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?",
             "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
-            "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?"
+            "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?",
+            "Włączyć tylne światła przeciwmgłowe, niezależnie od stopnia ograniczenia widoczności": "Включить задние противотуманные фонари, независимо от степени ограничения видимости.",
+            "Dawać krótkotrwałe sygnały dźwiękowe": "Подавать кратковременные звуковые сигналы.",
+            "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
+            "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?": "Какое из этих действий ты обязан выполнить во время обгона легковым автомобилем в тумане вне населенного пункта?",
+            "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние 100 м?"
         }
     },
     "not_approved": {
@@ -3239,9 +3244,6 @@
         "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
-        "Dawać krótkotrwałe sygnały dźwiękowe": "Подавать кратковременные звуковые сигналы.",
-        "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
-        "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?": "Какое из этих действий ты обязан выполнить во время обгона легковым автомобилем в тумане вне населенного пункта?",
         "Zajmowany pas służy do skrętu w prawo": "Занятая полоса предназначена для поворота направо.",
         "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
@@ -3889,7 +3891,6 @@
         "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
         "Czy zbliżając się do przejścia dla pieszych masz obowiązek obserwować jego otoczenie?": "Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его обстановкой?",
         "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": "В данной ситуации вам необходимо оказать необходимую помощь пострадавшему в аварии?",
-        "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?",
-        "Włączyć tylne światła przeciwmgłowe, niezależnie od stopnia ograniczenia widoczności": "Включить задние противотуманные фонари, независимо от степени ограничения видимости."
+        "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?"
     }
 }
