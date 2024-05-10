@@ -135,6 +135,15 @@
         ],
         "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": [
             1043
+        ],
+        "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": [
+            711,
+            712,
+            713,
+            725,
+            750,
+            819,
+            958
         ]
     },
     "2023-12-04%2014%3A54%3A22%20%2B0100": {
