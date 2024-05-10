@@ -111,6 +111,8 @@
 
         if (xpathResult.singleNodeValue) {
             console.log("The user is logged in");
+            registrationDate = loadFromCacheRegistrationDate()
+            favoritesArray = loadFavoritesFromCache()
 
             fetch('/moje-konto')
                 .then(response => response.text())
@@ -118,7 +120,7 @@
                     let match = html.match(regexRegistrationDate);
 
                     if (match) {
-                        registrationDate = encodeURIComponent(match[1])
+                        registrationDate = match[1]
                         saveToCacheRegistrationDate(registrationDate)
                         loadFavorites(registrationDate)
                     }
@@ -447,11 +449,11 @@
         return localStorage.getItem('registration_date');
     }
 
-    function saveToCache(original, translate) {
+    function saveTranslateToCache(original, translate) {
         localStorage.setItem(getCacheKey(original), translate);
     }
 
-    function loadFromCache(original) {
+    function loadTranslateFromCache(original) {
         let cachedTranslation = localStorage.getItem(getCacheKey(original));
 
         if (cachedTranslation !== null) {
@@ -461,15 +463,25 @@
         return null;
     }
 
+    function saveFavoritesToCache(favorites) {
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+    }
+
+    function loadFavoritesFromCache() {
+        const jsonData = localStorage.getItem('favorites');
+
+        return jsonData ? JSON.parse(jsonData) : null;
+    }
+
     function translateText(text, callback) {
-        let cachedTranslation = loadFromCache(text);
+        let cachedTranslation = loadTranslateFromCache(text);
 
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
             makeHttpRequest({text: text}, function (result) {
                 if (result.translate && result.translate.trim() !== '') {
-                    saveToCache(text, result.translate);
+                    saveTranslateToCache(text, result.translate);
                     saveToCacheEmojiFlag(result.translate, !result.approved);
                     callback(result.translate);
                 } else {
@@ -614,6 +626,7 @@
     function setFavorites(result) {
         if (result.error === null && Array.isArray(result.favorites)) {
             favoritesArray = result.favorites;
+            saveFavoritesToCache(favoritesArray)
             console.log("Favorites loaded successfully", favoritesArray);
         } else {
             console.error("Failed to load favorites: ", result.error);
