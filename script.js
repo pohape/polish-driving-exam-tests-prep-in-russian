@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -13,6 +13,7 @@
 (function () {
     'use strict';
 
+    const baseUrl = "http://145.239.80.201:8080/"
     const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
         "#learnings-list > div:nth-child(1) > div:nth-child(2)", // на странице выбора группы вопросов для изучения
@@ -123,7 +124,7 @@
                         registrationDate = match[1]
                         addMenuItem(
                             'ИЗБРАННОЕ',
-                            "http://145.239.80.201:8080/favorites.php?registration_date=" + encodeURIComponent(registrationDate)
+                            baseUrl + "favorites.php?registration_date=" + encodeURIComponent(registrationDate)
                         )
                         saveToCacheRegistrationDate(registrationDate)
                         loadFavorites(registrationDate)
@@ -204,7 +205,7 @@
     function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
             method: "POST",
-            url: "http://145.239.80.201:8080/",
+            url: baseUrl,
             headers: {"Content-Type": "application/json"},
             data: JSON.stringify(data),
             onload: function (response) {
