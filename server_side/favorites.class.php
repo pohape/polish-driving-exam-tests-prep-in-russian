@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/base.class.php';
 
 class Favorites extends Base
 {
@@ -43,10 +44,17 @@ class Favorites extends Base
         return false;
     }
 
-    public function getFavorites($regDate)
+    public function getFavoritesShort($regDate)
     {
         $favorites = $this->load();
 
         return array_key_exists($regDate, $favorites) ? array_keys($favorites[$regDate]) : [];
+    }
+
+    public function getFavoritesFull($regDate)
+    {
+        $favorites = $this->load();
+
+        return array_key_exists($regDate, $favorites) ? $favorites[$regDate] : [];
     }
 }

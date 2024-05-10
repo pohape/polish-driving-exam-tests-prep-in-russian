@@ -1,6 +1,5 @@
 <?php
 
-require_once __DIR__ . '/base.class.php';
 require_once __DIR__ . '/translate.class.php';
 require_once __DIR__ . '/favorites.class.php';
 
@@ -54,7 +53,7 @@ if (isset($input['text'])) {
             [
                 'error' => null,
                 'success' => $favorites->saveToFavorites($input['add_to_favorites'], $input['registration_date']),
-                'favorites' => $favorites->getFavorites($input['registration_date'])
+                'favorites' => $favorites->getFavoritesShort($input['registration_date'])
             ],
             JSON_UNESCAPED_UNICODE
         );
@@ -63,13 +62,13 @@ if (isset($input['text'])) {
             [
                 'error' => null,
                 'success' => $favorites->removeFromFavorites($input['remove_from_favorites'], $input['registration_date']),
-                'favorites' => $favorites->getFavorites($input['registration_date'])
+                'favorites' => $favorites->getFavoritesShort($input['registration_date'])
             ],
             JSON_UNESCAPED_UNICODE
         );
     } else {
         echo json_encode(
-            ['error' => null, 'favorites' => $favorites->getFavorites($input['registration_date'])],
+            ['error' => null, 'favorites' => $favorites->getFavoritesShort($input['registration_date'])],
             JSON_UNESCAPED_UNICODE
         );;
     }
