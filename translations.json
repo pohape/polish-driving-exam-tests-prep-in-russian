@@ -2775,7 +2775,8 @@
             "Podczas przewożenia dziecka na kolanach osoby dorosłej": "При перевозке ребенка на коленях у взрослого.",
             "Czy jako uczestnik wypadku drogowego masz obowiązek podać swoje dane personalne na żądanie innej osoby, która brała w nim udział?": "Как участник дорожно-транспортного происшествия, вы обязаны предоставить свои личные данные по запросу другого лица, которое участвовало в нем?",
             "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": "Имеешь ли ты право обогнать с правой стороны транспортное средство, которое движется левой полосой в этой ситуации?",
-            "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?"
+            "Czy w tych warunkach atmosferycznych masz prawo jechać z włączonymi światłami do jazdy dziennej?": "В этих погодных условиях у вас есть право ехать с включенными дневными ходовыми огнями?",
+            "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?"
         }
     },
     "not_approved": {
@@ -3734,7 +3735,6 @@
         "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
         "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
-        "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": "Запрещено ли днём предупреждать световыми сигналами, если это может вызвать ослепление других водителей?",
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
         "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\"",
