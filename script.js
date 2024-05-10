@@ -121,6 +121,10 @@
 
                     if (match) {
                         registrationDate = match[1]
+                        addMenuItem(
+                            'ИЗБРАННОЕ',
+                            "http://145.239.80.201:8080/favorites.php?registration_date=" + encodeURIComponent(registrationDate)
+                        )
                         saveToCacheRegistrationDate(registrationDate)
                         loadFavorites(registrationDate)
                     }
@@ -131,6 +135,25 @@
             registrationDate = null
             saveToCacheRegistrationDate(registrationDate)
         }
+    }
+
+    function addMenuItem(menuTitle, menuLink) {
+        const menu = document.getElementById('nav');
+
+        if (!menu) {
+            console.error('Menu element not found');
+            return;
+        }
+
+        const newMenuItem = document.createElement('li');
+        const link = document.createElement('a');
+
+        link.target = "_blank"
+        link.href = menuLink;
+        link.textContent = menuTitle;
+        newMenuItem.appendChild(link);
+
+        menu.prepend(newMenuItem);
     }
 
     function createHint(mouseX, mouseY) {
