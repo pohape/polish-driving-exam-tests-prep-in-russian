@@ -399,7 +399,7 @@
 
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
-            link.href = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server_side/znaki/' + match[1].toUpperCase() + '.png';
+            link.href = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/www/znaki/' + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
 
             let hintElement;

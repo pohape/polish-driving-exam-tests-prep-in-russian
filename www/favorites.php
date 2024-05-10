@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/favorites.class.php';
+require_once __DIR__ . '/../favorites.class.php';
 $baseUrl = 'https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/,';
 
 function notFound(string $registrationDate = null)

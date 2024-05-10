@@ -1,7 +1,7 @@
 <?php
 
-require_once __DIR__ . '/translate.class.php';
-require_once __DIR__ . '/favorites.class.php';
+require_once __DIR__ . '/../translate.class.php';
+require_once __DIR__ . '/../favorites.class.php';
 
 header('Content-Type: application/json');
 

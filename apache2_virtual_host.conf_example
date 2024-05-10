@@ -1,8 +1,8 @@
 <VirtualHost *:80>
     ServerName example.com
-    DocumentRoot /home/excited_user/polish-driving-exam-tests-prep-in-russian/server_side
+    DocumentRoot /home/excited_user/polish-driving-exam-tests-prep-in-russian/www
 
-    <Directory /home/excited_user/polish-driving-exam-tests-prep-in-russian/server_side>
+    <Directory /home/excited_user/polish-driving-exam-tests-prep-in-russian/www>
         Options Indexes FollowSymLinks
         AllowOverride All
         Require all granted
