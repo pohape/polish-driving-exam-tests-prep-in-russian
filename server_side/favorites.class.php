@@ -5,6 +5,12 @@ class Favorites extends Base
 {
     protected string $filename = '../favorites.json';
 
+    protected function save($favorites)
+    {
+        array_walk($favorites, fn(&$questions) => ksort($questions));
+        parent::save($favorites);
+    }
+
     public function saveToFavorites(string $string, string $regDate): bool
     {
         $favorites = $this->load();
