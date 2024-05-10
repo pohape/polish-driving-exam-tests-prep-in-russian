@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.3
+// @version      0.4
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -151,8 +151,10 @@
         link.target = "_blank"
         link.href = menuLink;
         link.textContent = menuTitle;
-        newMenuItem.appendChild(link);
+        link.style.fontWeight = 'bold';
+        link.style.animation = 'blink 1s step-start infinite';
 
+        newMenuItem.appendChild(link);
         menu.prepend(newMenuItem);
     }
 
@@ -733,6 +735,9 @@
     style.type = 'text/css';
 
     style.innerHTML = `
+    @keyframes blink { 
+        50% { opacity: 0; } 
+    }
     .breadcumb_area {
         height: 170px !important;
     }
