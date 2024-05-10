@@ -46,13 +46,12 @@ class Favorites extends Base
 
     public function getFavoritesShort($regDate)
     {
-        $favorites = $this->load();
-
-        return array_key_exists($regDate, $favorites) ? array_keys($favorites[$regDate]) : [];
+        return array_keys($this->getFavoritesFull($regDate));
     }
 
     public function getFavoritesFull($regDate)
     {
+        $regDate = stripos($regDate, ' ') ? urlencode($regDate) : $regDate;
         $favorites = $this->load();
 
         return array_key_exists($regDate, $favorites) ? $favorites[$regDate] : [];
