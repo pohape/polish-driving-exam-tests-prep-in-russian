@@ -4,6 +4,7 @@ require_once __DIR__ . '/base.class.php';
 class Favorites extends Base
 {
     protected string $filename = 'favorites.json';
+    protected string $questionsFilename = 'questions.json';
 
     protected function save($favorites)
     {
@@ -20,7 +21,7 @@ class Favorites extends Base
             return true;
         }
 
-        $questions = $this->load('../questions.json');
+        $questions = $this->load($this->questionsFilename);
 
         if (array_key_exists($string, $questions)) {
             if (!$regDateExists) {
