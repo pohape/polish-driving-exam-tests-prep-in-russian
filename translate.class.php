@@ -3,9 +3,9 @@ require_once __DIR__ . '/base.class.php';
 
 class Translate extends Base
 {
-    const OPEN_AI_API_KEY_FILE = '../open_ai_api_key.txt';
-    const CHAT_GPT_PROMPT_FILE = '../chat_gpt_prompt.json';
-    protected string $filename = '../translations.json';
+    const OPEN_AI_API_KEY_FILE = 'open_ai_api_key.txt';
+    const CHAT_GPT_PROMPT_FILE = 'chat_gpt_prompt.json';
+    protected string $filename = 'translations.json';
 
     const INCORRECT = 'INCORRECT';
     const NOT_APPROVED = 'NOT_APPROVED';
