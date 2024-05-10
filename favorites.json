@@ -1,8 +1,5 @@
 {
     "2024-01-13 16:47:37 +0100": {
-        "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": [
-            1320
-        ],
         "Czy na tej jezdni zabronione jest wyprzedzanie z prawej strony?": [
             18864
         ],
@@ -144,6 +141,9 @@
             750,
             819,
             958
+        ],
+        "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": [
+            1320
         ]
     },
     "2023-12-04%2014%3A54%3A22%20%2B0100": {
