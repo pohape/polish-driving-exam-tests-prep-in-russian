@@ -122,10 +122,6 @@
 
                     if (match) {
                         registrationDate = match[1]
-                        addMenuItem(
-                            'ИЗБРАННОЕ',
-                            baseUrl + "favorites.php?registration_date=" + encodeURIComponent(registrationDate)
-                        )
                         saveToCacheRegistrationDate(registrationDate)
                         loadFavorites(registrationDate)
                     }
@@ -661,7 +657,13 @@
 
     function loadFavorites(registrationDate) {
         makeHttpRequest({registration_date: registrationDate}, function (result) {
-            setFavorites(result)
+            if (result.favorites && result.favorites.length > 0) {
+                setFavorites(result)
+                addMenuItem(
+                    'ИЗБРАННОЕ',
+                    baseUrl + "favorites.php?registration_date=" + encodeURIComponent(registrationDate)
+                )
+            }
         });
     }
 
