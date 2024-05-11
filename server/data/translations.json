@@ -2780,7 +2780,8 @@
             "Dawać krótkotrwałe sygnały dźwiękowe": "Подавать кратковременные звуковые сигналы.",
             "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
             "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?": "Какое из этих действий ты обязан выполнить во время обгона легковым автомобилем в тумане вне населенного пункта?",
-            "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние 100 м?"
+            "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние 100 м?",
+            "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?"
         }
     },
     "not_approved": {
@@ -2797,7 +2798,6 @@
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
-        "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
