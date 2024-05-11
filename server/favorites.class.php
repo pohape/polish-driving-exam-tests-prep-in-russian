@@ -14,19 +14,17 @@ class Favorites extends Base
 
     public function add($questionOrId, string $regDate): bool
     {
-        return is_numeric($questionOrId)
-            ? $this->addById(intval($questionOrId), $regDate)
-            : $this->addByQuestionText($questionOrId, $regDate);
-    }
-
-    private function addByQuestionText(string $questionText, string $regDate)
-    {
         $favorites = $this->load();
         $questions = $this->load($this->questionsFilename);
 
-        if (!array_key_exists($regDate, $favorites)) {
-            $favorites[$regDate] = array();
-        }
+        return is_numeric($questionOrId)
+            ? $this->addById(intval($questionOrId), $regDate, $favorites, $questions)
+            : $this->addByQuestionText($questionOrId, $regDate, $favorites, $questions);
+    }
+
+    private function addByQuestionText(string $questionText, string $regDate, array &$favorites, array $questions)
+    {
+        $favorites[$regDate] = $favorites[$regDate] ?? [];
 
         if (array_key_exists($questionText, $questions)) {
             $favorites[$regDate][$questionText] = $questions[$questionText];
@@ -34,35 +32,26 @@ class Favorites extends Base
 
             return true;
         }
-
         return false;
     }
 
-    private function addById(int $questionId, string $regDate): bool
+    private function addById(int $questionId, string $regDate, array &$favorites, array $questions): bool
     {
-        $favorites = $this->load();
-        $questions = $this->load($this->questionsFilename);
-
         $questionString = null;
 
         foreach ($questions as $questionString2 => $ids) {
             if (in_array($questionId, $ids)) {
                 $questionString = $questionString2;
+                break;
             }
         }
 
         if ($questionString) {
-            if (!array_key_exists($regDate, $favorites)) {
-                $favorites[$regDate] = array();
-            }
-
-            if (!array_key_exists($questionString, $favorites[$regDate])) {
-                $favorites[$regDate][$questionString] = array();
-            }
-
+            $favorites[$regDate] = $favorites[$regDate] ?? [];
+            $favorites[$regDate][$questionString] = $favorites[$regDate][$questionString] ?? [];
             $favorites[$regDate][$questionString][] = $questionId;
-            sort($favorites[$regDate][$questionString]);
             $favorites[$regDate][$questionString] = array_values(array_unique($favorites[$regDate][$questionString]));
+            sort($favorites[$regDate][$questionString]);
             $this->save($favorites);
 
             return true;
