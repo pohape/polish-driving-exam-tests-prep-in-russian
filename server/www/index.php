@@ -50,57 +50,29 @@ try {
         );
     } elseif (isset($input['registration_date'])) {
         if (isset($input['add_to_favorites'])) {
-            if (empty($input['question_id'])) {
-                echo json_encode(
-                    [
-                        'error' => null,
-                        'success' => $favorites->saveToFavoritesByString(
-                            $input['add_to_favorites'],
-                            $input['registration_date']
-                        ),
-                        'favorites' => $favorites->getFavoritesShort($input['registration_date'])
-                    ],
-                    JSON_UNESCAPED_UNICODE
-                );
-            } else {
-                echo json_encode(
-                    [
-                        'error' => null,
-                        'success' => $favorites->saveToFavoritesById(
-                            intval($input['question_id']),
-                            $input['registration_date']
-                        ),
-                        'favorites' => $favorites->getFavoritesShort($input['registration_date'])
-                    ],
-                    JSON_UNESCAPED_UNICODE
-                );
-            }
+            echo json_encode(
+                [
+                    'error' => null,
+                    'success' => $favorites->addToFavorites(
+                        $input['add_to_favorites'],
+                        $input['registration_date']
+                    ),
+                    'favorites' => $favorites->getFavoritesShort($input['registration_date'])
+                ],
+                JSON_UNESCAPED_UNICODE
+            );
         } elseif (isset($input['remove_from_favorites'])) {
-            if (empty($input['question_id'])) {
-                echo json_encode(
-                    [
-                        'error' => null,
-                        'success' => $favorites->removeFromFavoritesByString(
-                            $input['remove_from_favorites'],
-                            $input['registration_date']
-                        ),
-                        'favorites' => $favorites->getFavoritesShort($input['registration_date'])
-                    ],
-                    JSON_UNESCAPED_UNICODE
-                );
-            } else {
-                echo json_encode(
-                    [
-                        'error' => null,
-                        'success' => $favorites->removeFromFavoritesById(
-                            intval($input['question_id']),
-                            $input['registration_date']
-                        ),
-                        'favorites' => $favorites->getFavoritesShort($input['registration_date'])
-                    ],
-                    JSON_UNESCAPED_UNICODE
-                );
-            }
+            echo json_encode(
+                [
+                    'error' => null,
+                    'success' => $favorites->removeFromFavorites(
+                        $input['remove_from_favorites'],
+                        $input['registration_date']
+                    ),
+                    'favorites' => $favorites->getFavoritesShort($input['registration_date'])
+                ],
+                JSON_UNESCAPED_UNICODE
+            );
         } else {
             echo json_encode(
                 ['error' => null, 'favorites' => $favorites->getFavoritesShort($input['registration_date'])],

@@ -12,23 +12,30 @@ class Favorites extends Base
         parent::save($favorites);
     }
 
-    public function saveToFavoritesByString(string $string, string $regDate): bool
+    public function addToFavorites($questionOrId, string $regDate): bool
+    {
+        return is_numeric($questionOrId)
+            ? $this->addToFavoritesById(intval($questionOrId), $regDate)
+            : $this->addToFavoritesByQuestionText($questionOrId, $regDate);
+    }
+
+    private function addToFavoritesByQuestionText(string $questionText, string $regDate)
     {
         $favorites = $this->load();
         $regDateExists = array_key_exists($regDate, $favorites);
 
-        if ($regDateExists && array_key_exists($string, $favorites[$regDate])) {
+        if ($regDateExists && array_key_exists($questionText, $favorites[$regDate])) {
             return true;
         }
 
         $questions = $this->load($this->questionsFilename);
 
-        if (array_key_exists($string, $questions)) {
+        if (array_key_exists($questionText, $questions)) {
             if (!$regDateExists) {
                 $favorites[$regDate] = array();
             }
 
-            $favorites[$regDate][$string] = $questions[$string];
+            $favorites[$regDate][$questionText] = $questions[$questionText];
             $this->save($favorites);
 
             return true;
@@ -37,7 +44,7 @@ class Favorites extends Base
         return false;
     }
 
-    public function saveToFavoritesById(int $questionId, string $regDate): bool
+    private function addToFavoritesById(int $questionId, string $regDate): bool
     {
         $favorites = $this->load();
         $questions = $this->load($this->questionsFilename);
@@ -70,12 +77,19 @@ class Favorites extends Base
         return false;
     }
 
-    public function removeFromFavoritesByString(string $string, string $regDate): bool
+    public function removeFromFavorites($questionOrId, string $regDate): bool
+    {
+        return is_numeric($questionOrId)
+            ? $this->removeFromFavoritesById(intval($questionOrId), $regDate)
+            : $this->removeFromFavoritesByQuestionText($questionOrId, $regDate);
+    }
+
+    private function removeFromFavoritesByQuestionText(string $questionText, string $regDate): bool
     {
         $favorites = $this->load();
 
-        if (array_key_exists($regDate, $favorites) && array_key_exists($string, $favorites[$regDate])) {
-            unset($favorites[$regDate][$string]);
+        if (array_key_exists($regDate, $favorites) && array_key_exists($questionText, $favorites[$regDate])) {
+            unset($favorites[$regDate][$questionText]);
             $this->save($favorites);
 
             return true;
@@ -84,7 +98,7 @@ class Favorites extends Base
         return false;
     }
 
-    public function removeFromFavoritesById(int $questionId, string $regDate): bool
+    private function removeFromFavoritesById(int $questionId, string $regDate): bool
     {
         $favorites = $this->load();
 
