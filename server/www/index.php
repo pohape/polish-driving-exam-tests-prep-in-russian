@@ -67,7 +67,7 @@ try {
                     [
                         'error' => null,
                         'success' => $favorites->saveToFavoritesById(
-                            $input['add_to_favorites'],
+                            intval($input['question_id']),
                             $input['registration_date']
                         ),
                         'favorites' => $favorites->getFavoritesShort($input['registration_date'])
