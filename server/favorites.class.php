@@ -112,7 +112,15 @@ class Favorites extends Base
 
     public function getFavoritesShort($regDate)
     {
-        return array_keys($this->getFavoritesFull($regDate));
+        $return = array();
+
+        foreach ($this->getFavoritesFull($regDate) as $question => $ids) {
+            foreach ($ids as $id) {
+                $return[(int)$id] = $question;
+            }
+        }
+
+        return $return;
     }
 
     public function getFavoritesFull($regDate)
