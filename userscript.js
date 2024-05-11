@@ -266,10 +266,13 @@
                 link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
                 hintText = addedToFavorites ? titleRemove : titleAdd;
 
+                const match = window.location.href.match(/,(\d+)$/);
+                let questionId = match ? match[1] : null;
+
                 if (addedToFavorites) {
-                    addToFavoritesIfNotPresent(originalText)
+                    addToFavoritesIfNotPresent(originalText, questionId)
                 } else {
-                    removeFromFavorites(originalText)
+                    removeFromFavorites(originalText, questionId)
                 }
             };
         } else {
@@ -296,7 +299,7 @@
         span.appendChild(link);
     }
 
-    function addToFavoritesIfNotPresent(translation) {
+    function addToFavoritesIfNotPresent(translation, questionId) {
         if (!favoritesArray.includes(translation)) {
             favoritesArray.push(translation);
             console.log('Added to local Favorites: ' + translation);
@@ -304,17 +307,20 @@
             console.log('Already is in local Favorites: ' + translation);
         }
 
-        makeHttpRequest({add_to_favorites: translation, registration_date: registrationDate}, function (result) {
-            if (result.error === null) {
-                console.log('Added to API Favorites: ' + translation);
-                setFavorites(result)
-            } else {
-                console.log('Error adding to API Favorites: ' + translation);
+        makeHttpRequest(
+            {add_to_favorites: translation, question_id: questionId, registration_date: registrationDate},
+            function (result) {
+                if (result.error === null) {
+                    console.log('Added to API Favorites: ' + translation);
+                    setFavorites(result)
+                } else {
+                    console.log('Error adding to API Favorites: ' + translation);
+                }
             }
-        });
+        );
     }
 
-    function removeFromFavorites(translation) {
+    function removeFromFavorites(translation, questionId) {
         const index = favoritesArray.indexOf(translation);
 
         if (index !== -1) {
@@ -324,14 +330,17 @@
             console.log('Not found in local Favorites: ' + translation);
         }
 
-        makeHttpRequest({remove_from_favorites: translation, registration_date: registrationDate}, function (result) {
-            if (result.error === null) {
-                console.log('Removed from API Favorites: ' + translation);
-                setFavorites(result)
-            } else {
-                console.log('Error removing from API Favorites: ' + translation);
+        makeHttpRequest(
+            {remove_from_favorites: translation, question_id: questionId, registration_date: registrationDate},
+            function (result) {
+                if (result.error === null) {
+                    console.log('Removed from API Favorites: ' + translation);
+                    setFavorites(result)
+                } else {
+                    console.log('Error removing from API Favorites: ' + translation);
+                }
             }
-        });
+        );
     }
 
     function setSwitchState(event = null) {
