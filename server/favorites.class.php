@@ -12,7 +12,7 @@ class Favorites extends Base
         parent::save($favorites);
     }
 
-    public function saveToFavorites(string $string, string $regDate): bool
+    public function saveToFavoritesByString(string $string, string $regDate): bool
     {
         $favorites = $this->load();
         $regDateExists = array_key_exists($regDate, $favorites);
@@ -37,7 +37,39 @@ class Favorites extends Base
         return false;
     }
 
-    public function removeFromFavorites(string $string, string $regDate): bool
+    public function saveToFavoritesById(int $questionId, string $regDate): bool
+    {
+        $favorites = $this->load();
+        $questions = $this->load($this->questionsFilename);
+
+        $questionString = null;
+
+        foreach ($questions as $questionString2 => $ids) {
+            if (in_array($questionId, $ids)) {
+                $questionString = $questionString2;
+            }
+        }
+
+        if ($questionString) {
+            if (!array_key_exists($regDate, $favorites)) {
+                $favorites[$regDate] = array();
+            }
+
+            if (!array_key_exists($questionString, $favorites[$regDate])) {
+                $favorites[$regDate][$questionString] = array();
+            }
+
+            $favorites[$regDate][$questionString][] = $questionId;
+            $favorites[$regDate][$questionString] = array_values(array_unique($favorites[$regDate][$questionString]));
+            $this->save($favorites);
+
+            return true;
+        }
+
+        return false;
+    }
+
+    public function removeFromFavoritesByString(string $string, string $regDate): bool
     {
         $favorites = $this->load();
 
@@ -46,6 +78,27 @@ class Favorites extends Base
             $this->save($favorites);
 
             return true;
+        }
+
+        return false;
+    }
+
+    public function removeFromFavoritesById(int $questionId, string $regDate): bool
+    {
+        $favorites = $this->load();
+
+        if (array_key_exists($regDate, $favorites)) {
+            foreach ($favorites[$regDate] as $idList) {
+                $pos = array_search($questionId, $idList);
+
+                if ($pos !== false) {
+                    unset($favorites[$regDate][$pos]);
+                    $favorites[$regDate] = array_values($favorites[$regDate]);
+                    $this->save($favorites);
+
+                    return true;
+                }
+            }
         }
 
         return false;
