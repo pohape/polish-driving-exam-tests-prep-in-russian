@@ -88,11 +88,11 @@ class Favorites extends Base
         $favorites = $this->load();
 
         if (array_key_exists($regDate, $favorites)) {
-            foreach ($favorites[$regDate] as $idList) {
+            foreach ($favorites[$regDate] as $questionText => $idList) {
                 $pos = array_search($questionId, $idList);
 
                 if ($pos !== false) {
-                    unset($favorites[$regDate][$pos]);
+                    unset($favorites[$regDate][$questionText][$pos]);
                     $this->save($favorites);
 
                     return true;
