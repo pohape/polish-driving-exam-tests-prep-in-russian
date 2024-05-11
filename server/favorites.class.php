@@ -93,7 +93,6 @@ class Favorites extends Base
 
                 if ($pos !== false) {
                     unset($favorites[$regDate][$pos]);
-                    $favorites[$regDate] = array_values($favorites[$regDate]);
                     $this->save($favorites);
 
                     return true;
