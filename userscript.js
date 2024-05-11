@@ -308,7 +308,7 @@
         }
 
         makeHttpRequest(
-            {add_to_favorites: translation, question_id: questionId, registration_date: registrationDate},
+            {add_to_favorites: (questionId ? questionId : translation), registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
                     console.log('Added to API Favorites: ' + translation);
@@ -331,7 +331,7 @@
         }
 
         makeHttpRequest(
-            {remove_from_favorites: translation, question_id: questionId, registration_date: registrationDate},
+            {remove_from_favorites: (questionId ? questionId : translation), registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
                     console.log('Removed from API Favorites: ' + translation);
