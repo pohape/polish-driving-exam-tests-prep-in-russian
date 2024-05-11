@@ -60,6 +60,7 @@ class Favorites extends Base
             }
 
             $favorites[$regDate][$questionString][] = $questionId;
+            sort($favorites[$regDate][$questionString]);
             $favorites[$regDate][$questionString] = array_values(array_unique($favorites[$regDate][$questionString]));
             $this->save($favorites);
 
@@ -93,6 +94,8 @@ class Favorites extends Base
 
                 if ($pos !== false) {
                     unset($favorites[$regDate][$questionText][$pos]);
+                    sort($favorites[$regDate][$questionText]);
+                    $favorites[$regDate][$questionText] = array_values($favorites[$regDate][$questionText]);
                     $this->save($favorites);
 
                     return true;
