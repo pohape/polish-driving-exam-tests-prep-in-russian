@@ -53,7 +53,7 @@ try {
             echo json_encode(
                 [
                     'error' => null,
-                    'success' => $favorites->addToFavorites(
+                    'success' => $favorites->add(
                         $input['add_to_favorites'],
                         $input['registration_date']
                     ),
@@ -65,7 +65,7 @@ try {
             echo json_encode(
                 [
                     'error' => null,
-                    'success' => $favorites->removeFromFavorites(
+                    'success' => $favorites->remove(
                         $input['remove_from_favorites'],
                         $input['registration_date']
                     ),

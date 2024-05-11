@@ -6,10 +6,11 @@ class Favorites extends Base
     protected string $filename = 'data/favorites.json';
     protected string $questionsFilename = 'data/questions.json';
 
-    protected function save($favorites)
+    protected function save($favorites): bool
     {
         array_walk($favorites, fn(&$questions) => ksort($questions));
-        parent::save($favorites);
+
+        return parent::save($favorites);
     }
 
     public function add($questionOrId, string $regDate): bool
@@ -28,10 +29,10 @@ class Favorites extends Base
 
         if (array_key_exists($questionText, $questions)) {
             $favorites[$regDate][$questionText] = $questions[$questionText];
-            $this->save($favorites);
 
-            return true;
+            return $this->save($favorites);
         }
+
         return false;
     }
 
@@ -52,9 +53,8 @@ class Favorites extends Base
             $favorites[$regDate][$questionString][] = $questionId;
             $favorites[$regDate][$questionString] = array_values(array_unique($favorites[$regDate][$questionString]));
             sort($favorites[$regDate][$questionString]);
-            $this->save($favorites);
 
-            return true;
+            return $this->save($favorites);
         }
 
         return false;
@@ -62,51 +62,52 @@ class Favorites extends Base
 
     public function remove($questionOrId, string $regDate): bool
     {
-        return is_numeric($questionOrId)
-            ? $this->removeById(intval($questionOrId), $regDate)
-            : $this->removeByQuestionText($questionOrId, $regDate);
-    }
-
-    private function removeByQuestionText(string $questionText, string $regDate): bool
-    {
         $favorites = $this->load();
 
-        if (array_key_exists($regDate, $favorites) && array_key_exists($questionText, $favorites[$regDate])) {
-            unset($favorites[$regDate][$questionText]);
-            $this->save($favorites);
+        return is_numeric($questionOrId)
+            ? $this->removeById(intval($questionOrId), $regDate, $favorites)
+            : $this->removeByQuestionText($questionOrId, $regDate, $favorites);
+    }
 
-            return true;
+    private function removeByQuestionText(string $questionText, string $regDate, array $favorites): bool
+    {
+        if (isset($favorites[$regDate][$questionText])) {
+            unset($favorites[$regDate][$questionText]);
+
+            return $this->cleanupAndSave($favorites, $regDate);
         }
 
         return false;
     }
 
-    private function removeById(int $questionId, string $regDate): bool
+    private function removeById(int $questionId, string $regDate, array $favorites): bool
     {
-        $favorites = $this->load();
+        if (isset($favorites[$regDate])) {
+            foreach ($favorites[$regDate] as $questionText => &$idList) {
+                if (($pos = array_search($questionId, $idList)) !== false) {
+                    unset($idList[$pos]);
 
-        if (array_key_exists($regDate, $favorites)) {
-            foreach ($favorites[$regDate] as $questionText => $idList) {
-                $pos = array_search($questionId, $idList);
-
-                if ($pos !== false) {
-                    unset($favorites[$regDate][$questionText][$pos]);
-
-                    if (count($favorites[$regDate][$questionText])) {
-                        sort($favorites[$regDate][$questionText]);
-                        $favorites[$regDate][$questionText] = array_values($favorites[$regDate][$questionText]);
-                    } else {
+                    if (empty($idList)) {
                         unset($favorites[$regDate][$questionText]);
+                    } else {
+                        $idList = array_values($idList);
                     }
 
-                    $this->save($favorites);
-
-                    return true;
+                    return $this->cleanupAndSave($favorites, $regDate);
                 }
             }
         }
 
         return false;
+    }
+
+    private function cleanupAndSave(array &$favorites, string $regDate): bool
+    {
+        if (empty($favorites[$regDate])) {
+            unset($favorites[$regDate]);
+        }
+
+        return $this->save($favorites);
     }
 
     public function getFavoritesShort($regDate)
