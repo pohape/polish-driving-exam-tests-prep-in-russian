@@ -1,7 +1,7 @@
 <?php
 
 if (isset($_GET['id']) && preg_match('/^[a-zA-Z]-[0-9]{1,}[a-zA-Z]{0,}?$/', $_GET['id'])) {
-    $filePath = __DIR__ . '/znaki/' . strtoupper($_GET['id']) . '.png';
+    $filePath = __DIR__ . '/images/znaki/' . strtoupper($_GET['id']) . '.png';
 
     if (file_exists($filePath)) {
         header('Content-Type: image/png');

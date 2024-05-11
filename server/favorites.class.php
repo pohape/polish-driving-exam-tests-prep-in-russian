@@ -3,8 +3,8 @@ require_once __DIR__ . '/base.class.php';
 
 class Favorites extends Base
 {
-    protected string $filename = 'favorites.json';
-    protected string $questionsFilename = 'questions.json';
+    protected string $filename = 'data/favorites.json';
+    protected string $questionsFilename = 'data/questions.json';
 
     protected function save($favorites)
     {

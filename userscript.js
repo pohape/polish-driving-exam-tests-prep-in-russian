@@ -13,17 +13,19 @@
 (function () {
     'use strict';
 
-    const baseUrl = "http://145.239.80.201:8080/"
+    const baseUrl = 'http://145.239.80.201:8080/'
+    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server/www/images/znaki/'
+
     const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
-        "#learnings-list > div:nth-child(1) > div:nth-child(2)", // на странице выбора группы вопросов для изучения
-        "#learning-check > div:nth-child(5)", // "wyjaśnienie" на странице ответа с объяснением в режиме подгтовки
+        '#learnings-list > div:nth-child(1) > div:nth-child(2)', // на странице выбора группы вопросов для изучения
+        '#learning-check > div:nth-child(5)', // "wyjaśnienie" на странице ответа с объяснением в режиме подгтовки
     ]
 
     const selectorLogout = "//a[@href='/wyloguj']"
     const selectors = {
         "question": [
-            "#question-content", // тело вопроса в тесте и в подготовке, на странице где идет таймер
+            '#question-content', // тело вопроса в тесте и в подготовке, на странице где идет таймер
             '#report-question-content', // просмотр вопросов и ответов на странице результатов экзамена
             "#q-result-question", // тело вопроса в подготовке на странице ответа с объяснением
             "//div[contains(@class, 'container') and contains(@class, 'margin-bottom')]/div[1]/div[1]/div[not(contains(@class, 'toggle-switch'))][1]", // тело вопроса на странице вопроса (не экзамен и не тесты)
@@ -200,9 +202,9 @@
 
     function makeHttpRequest(data, callback) {
         GM_xmlhttpRequest({
-            method: "POST",
+            method: 'POST',
             url: baseUrl,
-            headers: {"Content-Type": "application/json"},
+            headers: {'Content-Type': 'application/json'},
             data: JSON.stringify(data),
             onload: function (response) {
                 let result = JSON.parse(response.responseText);
@@ -223,11 +225,11 @@
     }
 
     function markTranslationAsIncorrect(translation) {
-        sendTranslationFeedback(translation, "mark_incorrect");
+        sendTranslationFeedback(translation, 'mark_incorrect');
     }
 
     function approveTranslation(translation) {
-        sendTranslationFeedback(translation, "approve");
+        sendTranslationFeedback(translation, 'approve');
     }
 
     function createLikeOrDislikeEmojiLink(span, onClickHandler, itIsLike = true) {
@@ -297,17 +299,17 @@
     function addToFavoritesIfNotPresent(translation) {
         if (!favoritesArray.includes(translation)) {
             favoritesArray.push(translation);
-            console.log("Added to local Favorites: " + translation);
+            console.log('Added to local Favorites: ' + translation);
         } else {
-            console.log("Already is in local Favorites: " + translation);
+            console.log('Already is in local Favorites: ' + translation);
         }
 
         makeHttpRequest({add_to_favorites: translation, registration_date: registrationDate}, function (result) {
             if (result.error === null) {
-                console.log("Added to API Favorites: " + translation);
+                console.log('Added to API Favorites: ' + translation);
                 setFavorites(result)
             } else {
-                console.log("Error adding to API Favorites: " + translation);
+                console.log('Error adding to API Favorites: ' + translation);
             }
         });
     }
@@ -317,17 +319,17 @@
 
         if (index !== -1) {
             favoritesArray.splice(index, 1);
-            console.log("Removed from local Favorites: " + translation);
+            console.log('Removed from local Favorites: ' + translation);
         } else {
-            console.log("Not found in local Favorites: " + translation);
+            console.log('Not found in local Favorites: ' + translation);
         }
 
         makeHttpRequest({remove_from_favorites: translation, registration_date: registrationDate}, function (result) {
             if (result.error === null) {
-                console.log("Removed from API Favorites: " + translation);
+                console.log('Removed from API Favorites: ' + translation);
                 setFavorites(result)
             } else {
-                console.log("Error removing from API Favorites: " + translation);
+                console.log('Error removing from API Favorites: ' + translation);
             }
         });
     }
@@ -396,7 +398,7 @@
 
             // Создаем и добавляем ссылку
             const link = document.createElement('a');
-            link.href = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/www/znaki/' + match[1].toUpperCase() + '.png';
+            link.href = signsImagesBasePath + match[1].toUpperCase() + '.png';
             link.textContent = match[1];
 
             let hintElement;
@@ -439,11 +441,11 @@
     }
 
     function getCacheKey(originalText) {
-        return "translationCache_" + CryptoJS.MD5(originalText).toString();
+        return 'translationCache_' + CryptoJS.MD5(originalText).toString();
     }
 
     function getCacheKeyForEmojiFlags(translation) {
-        return "emojiFlagsCache_" + CryptoJS.MD5(translation).toString();
+        return 'emojiFlagsCache_' + CryptoJS.MD5(translation).toString();
     }
 
     function saveToCacheEmojiFlag(translate, flag) {
@@ -507,8 +509,8 @@
                     saveToCacheEmojiFlag(result.translate, !result.approved);
                     callback(result.translate);
                 } else {
-                    console.log("Invalid translation received for: " + text);
-                    callback("Ошибка: не получилось перевести.", false);
+                    console.log('Invalid translation received for: ' + text);
+                    callback('Ошибка: не получилось перевести.', false);
                 }
             });
         }
@@ -541,7 +543,7 @@
         if (!switchElement) {
             let element;
 
-            if (selector.startsWith("/")) {
+            if (selector.startsWith('/')) {
                 const xpathResult = document.evaluate(
                     selector,
                     document,
@@ -566,7 +568,7 @@
 
     function processSelector(selector, category) {
         try {
-            if (selector.startsWith("/")) {
+            if (selector.startsWith('/')) {
                 const result = document.evaluate(
                     selector,
                     document,
@@ -588,7 +590,7 @@
                 });
             }
         } catch (error) {
-            console.error("Error processing selector:", selector, "Error:", error);
+            console.error('Error processing selector:', selector, 'Error:', error);
         }
     }
 
@@ -649,9 +651,9 @@
         if (result.error === null && Array.isArray(result.favorites)) {
             favoritesArray = result.favorites;
             saveFavoritesToCache(favoritesArray)
-            console.log("Favorites loaded successfully", favoritesArray);
+            console.log('Favorites loaded successfully', favoritesArray);
         } else {
-            console.error("Failed to load favorites: ", result.error);
+            console.error('Failed to load favorites: ', result.error);
         }
     }
 
@@ -661,7 +663,7 @@
                 setFavorites(result)
                 addMenuItem(
                     'ИЗБРАННОЕ',
-                    baseUrl + "favorites.php?registration_date=" + encodeURIComponent(registrationDate)
+                    baseUrl + 'favorites.php?registration_date=' + encodeURIComponent(registrationDate)
                 )
             }
         });
