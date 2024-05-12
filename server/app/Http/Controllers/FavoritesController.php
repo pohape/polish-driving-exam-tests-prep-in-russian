@@ -104,7 +104,7 @@ class FavoritesController extends BaseController
             foreach ($questionIds as $questionId) {
                 $content .= sprintf(
                     '<li><a target="_blank" href="%s%s">%s</a></li>',
-                    'https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/',
+                    'https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/,',
                     htmlspecialchars($questionId),
                     htmlspecialchars($questionId)
                 );
