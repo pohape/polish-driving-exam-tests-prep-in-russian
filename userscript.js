@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.6
+// @version      0.7
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -200,10 +200,10 @@
         return hintDiv;
     }
 
-    function makeHttpRequest(data, callback) {
+    function makeHttpRequest(endpoint, data, callback) {
         GM_xmlhttpRequest({
             method: 'POST',
-            url: baseUrl,
+            url: baseUrl + endpoint,
             headers: {'Content-Type': 'application/json'},
             data: JSON.stringify(data),
             onload: function (response) {
@@ -213,23 +213,23 @@
         });
     }
 
-    function sendTranslationFeedback(translation, actionType) {
+    function sendTranslationFeedback(translation, endpoint) {
         let switchState = loadFromCacheSwitchState()
         localStorage.clear();
         saveToCacheSwitchState(switchState)
         saveToCacheRegistrationDate(registrationDate)
 
-        makeHttpRequest({[actionType]: translation}, function (result) {
-            console.log(translation + " " + actionType + ": " + result.success);
+        makeHttpRequest(endpoint, {text: translation}, function (result) {
+            console.log(endpoint + " " + translation + ": " + result);
         });
     }
 
     function markTranslationAsIncorrect(translation) {
-        sendTranslationFeedback(translation, 'mark_incorrect');
+        sendTranslationFeedback(translation, 'translations/markIncorrect');
     }
 
-    function approveTranslation(translation) {
-        sendTranslationFeedback(translation, 'approve');
+    function markTranslationAsCorrect(translation) {
+        sendTranslationFeedback(translation, 'translations/markCorrect');
     }
 
     function createLikeOrDislikeEmojiLink(span, onClickHandler, itIsLike = true) {
@@ -308,7 +308,8 @@
         }
 
         makeHttpRequest(
-            {add_to_favorites: (questionId ? questionId : translation), registration_date: registrationDate},
+            'favorites/add',
+            {question_or_id: (questionId ? questionId : translation), registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
                     console.log('Added to API Favorites: ' + translation);
@@ -331,7 +332,8 @@
         }
 
         makeHttpRequest(
-            {remove_from_favorites: (questionId ? questionId : translation), registration_date: registrationDate},
+            'favorites/remove',
+            {question_or_id: (questionId ? questionId : translation), registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
                     console.log('Removed from API Favorites: ' + translation);
@@ -436,7 +438,7 @@
         const span = document.createElement('span');
 
         if (loadFromCacheEmojiFlag(translation)) {
-            createLikeOrDislikeEmojiLink(span, () => approveTranslation(translation), true);
+            createLikeOrDislikeEmojiLink(span, () => markTranslationAsCorrect(translation), true);
             span.appendChild(document.createTextNode(' '));
             createLikeOrDislikeEmojiLink(span, () => markTranslationAsIncorrect(translation), false);
         } else {
@@ -512,11 +514,11 @@
         if (cachedTranslation !== null) {
             callback(cachedTranslation);
         } else {
-            makeHttpRequest({text: text}, function (result) {
-                if (result.translate && result.translate.trim() !== '') {
-                    saveTranslateToCache(text, result.translate);
-                    saveToCacheEmojiFlag(result.translate, !result.approved);
-                    callback(result.translate);
+            makeHttpRequest('translations/get', {text: text}, function (result) {
+                if (result.translation && result.translation.trim() !== '') {
+                    saveTranslateToCache(text, result.translation);
+                    saveToCacheEmojiFlag(result.translation, !result.approved);
+                    callback(result.translation);
                 } else {
                     console.log('Invalid translation received for: ' + text);
                     callback('Ошибка: не получилось перевести.', false);
@@ -657,8 +659,8 @@
     }
 
     function setFavorites(result) {
-        if (result.error === null && Array.isArray(result.favorites)) {
-            favoritesArray = result.favorites;
+        if (result.error === null && typeof result.favorites === 'object' && result.favorites !== null) {
+            favoritesArray = Object.values(result.favorites);
             saveFavoritesToCache(favoritesArray)
             console.log('Favorites loaded successfully', favoritesArray);
         } else {
@@ -667,12 +669,12 @@
     }
 
     function loadFavorites(registrationDate) {
-        makeHttpRequest({registration_date: registrationDate}, function (result) {
+        makeHttpRequest('favorites/get', {registration_date: registrationDate}, function (result) {
             if (result.favorites && result.favorites.length > 0) {
                 setFavorites(result)
                 addMenuItem(
                     'ИЗБРАННОЕ',
-                    baseUrl + 'favorites.php?registration_date=' + encodeURIComponent(registrationDate)
+                    baseUrl + 'favorites?registration_date=' + encodeURIComponent(registrationDate)
                 )
             }
         });
