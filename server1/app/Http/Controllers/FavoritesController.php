@@ -41,7 +41,7 @@ class FavoritesController extends BaseController
         }
 
         return $this->response([
-            'error' => $favorites->$method($questionOrId, $registrationDate) ? null : 'it did not work',
+            'error' => $favorites->$method($questionOrId, $registrationDate) ? null : self::ERROR,
             'favorites' => $favorites->getShort($registrationDate)
         ]);
     }

@@ -12,7 +12,7 @@ class Translator extends Base
 
     const INCORRECT = 'INCORRECT';
     const NOT_APPROVED = 'NOT_APPROVED';
-    const APPROVED = 'APPROVED';
+    const CORRECT = 'CORRECT';
 
     /**
      * @param $systemMessage
@@ -83,30 +83,46 @@ class Translator extends Base
         return null;
     }
 
-    public function approveTranslation(string $translation)
+    /**
+     * @param string $translation
+     * @param string $type
+     * @return bool
+     * @throws Exception
+     */
+    private function mark(string $translation, string $type)
     {
         $original = $this->findOriginalByTranslation($translation);
 
-        if ($original) {
-            $this->saveToTranslations($original[0], $translation, self::APPROVED);
-
-            return true;
+        if (!$original) {
+            throw new Exception(sprintf(
+                'The original string of the translation "%s" was not found. Could it have already been processed?',
+                $translation
+            ));
         }
 
-        return false;
+        $this->saveToTranslations($original[0], $translation, $type);
+
+        return true;
     }
 
-    public function markTranslationAsIncorrect(string $translation)
+    /**
+     * @param string $translation
+     * @return bool
+     * @throws Exception
+     */
+    public function markCorrect(string $translation)
     {
-        $original = $this->findOriginalByTranslation($translation);
+        return $this->mark($translation, self::CORRECT);
+    }
 
-        if ($original) {
-            $this->saveToTranslations($original[0], $translation, self::INCORRECT);
-
-            return true;
-        }
-
-        return false;
+    /**
+     * @param string $translation
+     * @return bool
+     * @throws Exception
+     */
+    public function markIncorrect(string $translation)
+    {
+        return $this->mark($translation, self::INCORRECT);
     }
 
     private function removeTranslation(string $original)
@@ -122,7 +138,7 @@ class Translator extends Base
     {
         $translations = $this->removeTranslation($original);
 
-        if ($type == self::APPROVED) {
+        if ($type == self::CORRECT) {
             $translations['approved']['others'][$original] = $translation;
         } elseif ($type == self::INCORRECT) {
             $translations['incorrect'][$original] = $translation;
