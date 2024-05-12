@@ -1,13 +1,16 @@
-<VirtualHost *:80>
-    ServerName example.com
-    DocumentRoot /home/excited_user/polish-driving-exam-tests-prep-in-russian/server/www
+<VirtualHost *:8080>
+    DocumentRoot /home/user/polish-driving-exam-tests-prep-in-russian/server/public
 
-    <Directory /home/excited_user/polish-driving-exam-tests-prep-in-russian/server/www>
-        Options Indexes FollowSymLinks
-        AllowOverride All
+    <Directory /home/user/polish-driving-exam-tests-prep-in-russian/server/public>
+        Options -Indexes +FollowSymLinks
+        AllowOverride None
         Require all granted
+        RewriteEngine On
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteRule ^ index.php [L]
     </Directory>
 
     ErrorLog ${APACHE_LOG_DIR}/polish_driving_exam_test_prep_error.log
-    CustomLog ${APACHE_LOG_DIR}/polish_driving_examp_test_prep_access.log combined
+    CustomLog ${APACHE_LOG_DIR}/polish_driving_exam_test_prep_access.log combined
 </VirtualHost>
