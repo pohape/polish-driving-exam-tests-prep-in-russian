@@ -6,21 +6,13 @@ use Exception;
 
 class Translator extends Base
 {
-    const OPEN_AI_API_KEY_FILE = 'config/open_ai_api_key.txt';
-    const CHAT_GPT_PROMPT_FILE = 'config/chat_gpt_prompt.json';
-    protected string $filename = 'data/translations.json';
+    const OPEN_AI_API_KEY_FILE = '../config/open_ai_api_key.txt';
+    const CHAT_GPT_PROMPT_FILE = '../config/chat_gpt_prompt.json';
+    protected string $filename = 'translations.json';
 
     const INCORRECT = 'INCORRECT';
     const NOT_APPROVED = 'NOT_APPROVED';
     const APPROVED = 'APPROVED';
-
-    private static function errorFileApiKeyNotFound(string $path)
-    {
-        return array(
-            'translate' => null,
-            'error' => 'The file with the API key not found: ' . $path
-        );
-    }
 
     /**
      * @param $systemMessage
@@ -33,7 +25,7 @@ class Translator extends Base
         $path = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
 
         if (!is_file($path)) {
-            return self::errorFileApiKeyNotFound($path);
+            throw new Exception('The file with the API key not found: ' . self::OPEN_AI_API_KEY_FILE);
         }
 
         $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
@@ -75,7 +67,7 @@ class Translator extends Base
                 ? [$decodedResponse['model'], $decodedResponse['usage']]
                 : null,
             'prompt' => [$systemMessage, $prompt],
-            'translate' => $translation,
+            'translation' => $translation,
         );
     }
 
@@ -253,6 +245,12 @@ class Translator extends Base
         return $string;
     }
 
+    /**
+     * @param $original
+     * @param bool $withCache
+     * @return array
+     * @throws Exception
+     */
     public function performTranslation($original, $withCache = true)
     {
         $original = preg_replace('/([A-Z])\s*-\s*(\d+[a-z]?)/', '$1-$2', $original);
@@ -260,14 +258,14 @@ class Translator extends Base
 
         if (strlen($original) <= 3) {
             $result = array(
-                'translate' => $original,
+                'translation' => $original,
                 'approved' => true,
                 'info' => 'A short string: only ' . strlen($original) . ' symbol(s)',
                 'error' => null
             );
         } elseif (is_numeric($original) || preg_match('/^[0-9].{1,9}$/', $original)) {
             $result = array(
-                'translate' => $original,
+                'translation' => $original,
                 'approved' => true,
                 'info' => 'A number: no need to translate',
                 'error' => null
@@ -276,38 +274,31 @@ class Translator extends Base
             $translation = $withCache ? $this->findInTranslations($original) : null;
 
             if ($translation === null) {
-                try {
-                    $apiResponse = self::requestOpenAI(
-                        self::generatePrompt($original),
-                        $original
-                    );
+                $apiResponse = self::requestOpenAI(
+                    self::generatePrompt($original),
+                    $original
+                );
 
-
-                    if ($withCache && $apiResponse['translate'] !== null) {
-                        $apiResponse['translate'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translate']));
-                        $this->saveToTranslations(
-                            trim(trim(trim($original), '.')),
-                            $apiResponse['translate'],
-                            self::NOT_APPROVED
-                        );
-                    }
-
-                    $result = $apiResponse;
-                } catch (Exception $e) {
-                    $result = array(
-                        'error' => $e->getMessage()
+                if ($withCache && $apiResponse['translation'] !== null) {
+                    $apiResponse['translation'] = self::trimDoubleQuotes(self::replaceRoadSignCyrillicCodes($apiResponse['translation']));
+                    $this->saveToTranslations(
+                        trim(trim(trim($original), '.')),
+                        $apiResponse['translation'],
+                        self::NOT_APPROVED
                     );
                 }
+
+                $result = $apiResponse;
             } else {
                 $result = array(
-                    'translate' => $translation[0],
+                    'translation' => $translation[0],
                     'approved' => $translation[1],
                     'error' => null
                 );
             }
         }
 
-        if (!empty($result['translate'])) {
+        if (!empty($result['translation'])) {
             $additional = '';
 
             if (stripos($original, 'zterokoł')) {
@@ -320,7 +311,7 @@ class Translator extends Base
 
             if ($additional) {
                 $result['approved'] = true;
-                $result['translate'] .= ' (' . $additional . ')';
+                $result['translation'] .= ' (' . $additional . ')';
             }
         }
 

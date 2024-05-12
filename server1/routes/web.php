@@ -9,3 +9,4 @@ $router->get('/', function () use ($router) {
 $router->post('favorites/get', 'FavoritesController@getList');
 $router->post('favorites/add', 'FavoritesController@add');
 $router->post('favorites/remove', 'FavoritesController@remove');
+$router->post('translations/get', 'TranslationsController@getTranslation');

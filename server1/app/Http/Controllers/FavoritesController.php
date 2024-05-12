@@ -19,7 +19,7 @@ class FavoritesController extends BaseController
         $registrationDate = $request->input('registration_date', null);
 
         if (!$registrationDate) {
-            throw new Exception('Specify "registration_date"', 200);
+            throw new Exception('Specify "registration_date"');
         }
 
         return [new FavoritesManager(), $registrationDate];
@@ -37,7 +37,7 @@ class FavoritesController extends BaseController
         $questionOrId = $request->input('question_or_id', null);
 
         if (!$questionOrId) {
-            throw new Exception('Specify "question_or_id"', 200);
+            throw new Exception('Specify "question_or_id"');
         }
 
         return $this->response([
