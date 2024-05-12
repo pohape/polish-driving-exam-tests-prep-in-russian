@@ -14,7 +14,7 @@
     'use strict';
 
     const baseUrl = 'http://145.239.80.201:8080/'
-    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server/www/images/znaki/'
+    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server/public/images/znaki/'
 
     const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
