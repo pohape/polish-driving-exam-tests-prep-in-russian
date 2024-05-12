@@ -6,6 +6,7 @@ use App\FavoritesManager;
 use Exception;
 use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
+use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;
 
 class FavoritesController extends BaseController
 {
@@ -79,5 +80,39 @@ class FavoritesController extends BaseController
             'error' => null,
             'favorites' => $favorites->getShort($registrationDate)
         ]);
+    }
+
+    public function showList(Request $request)
+    {
+        $registrationDate = $request->input('registration_date', null);
+
+        if (!$registrationDate) {
+            throw new NotFoundHttpException();
+        }
+
+        $favorites = (new FavoritesManager())->getFull($registrationDate);
+
+        if (count($favorites) == 0) {
+            throw new NotFoundHttpException($registrationDate);
+        }
+
+        $content = '<h2>Избранные вопросы для ' . htmlspecialchars($registrationDate) . '</h2>';
+
+        foreach ($favorites as $questionText => $questionIds) {
+            $content .= '<h3>' . htmlspecialchars($questionText) . '</h3><ol>';
+
+            foreach ($questionIds as $questionId) {
+                $content .= sprintf(
+                    '<li><a target="_blank" href="%s%s">%s</a></li>',
+                    'https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/',
+                    htmlspecialchars($questionId),
+                    htmlspecialchars($questionId)
+                );
+            }
+
+            $content .= '</ol>';
+        }
+
+        return response($content, 200);
     }
 }
