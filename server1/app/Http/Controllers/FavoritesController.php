@@ -3,24 +3,81 @@
 namespace App\Http\Controllers;
 
 use App\FavoritesManager;
+use Exception;
+use Illuminate\Http\JsonResponse;
 use Illuminate\Http\Request;
-use Laravel\Lumen\Routing\Controller;
 
-class FavoritesController extends Controller
+class FavoritesController extends BaseController
 {
-    public function getList(Request $request)
+    /**
+     * @param Request $request
+     * @return array
+     * @throws Exception
+     */
+    private function getFavoritesRegistrationDateAndCheck(Request $request)
     {
         $registrationDate = $request->input('registration_date', null);
 
         if (!$registrationDate) {
-            return response()->json(['error' => 'Specify "registration_date"']);
+            throw new Exception('Specify "registration_date"', 200);
         }
 
-        $favorites = new FavoritesManager();
+        return [new FavoritesManager(), $registrationDate];
+    }
 
-        return response()->json([
+    /**
+     * @param Request $request
+     * @param string $method
+     * @return JsonResponse
+     * @throws Exception
+     */
+    private function addOrRemove(Request $request, $method = 'add')
+    {
+        list($favorites, $registrationDate) = $this->getFavoritesRegistrationDateAndCheck($request);
+        $questionOrId = $request->input('question_or_id', null);
+
+        if (!$questionOrId) {
+            throw new Exception('Specify "question_or_id"', 200);
+        }
+
+        return $this->response([
+            'error' => $favorites->$method($questionOrId, $registrationDate) ? null : 'it did not work',
+            'favorites' => $favorites->getShort($registrationDate)
+        ]);
+    }
+
+    /**
+     * @param Request $request
+     * @return JsonResponse
+     * @throws Exception
+     */
+    public function add(Request $request)
+    {
+        return $this->addOrRemove($request, 'add');
+    }
+
+    /**
+     * @param Request $request
+     * @return JsonResponse
+     * @throws Exception
+     */
+    public function remove(Request $request)
+    {
+        return $this->addOrRemove($request, 'remove');
+    }
+
+    /**
+     * @param Request $request
+     * @return JsonResponse
+     * @throws Exception
+     */
+    public function getList(Request $request)
+    {
+        list($favorites, $registrationDate) = $this->getFavoritesRegistrationDateAndCheck($request);
+
+        return $this->response([
             'error' => null,
             'favorites' => $favorites->getShort($registrationDate)
-        ], 200, [], JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE);
+        ]);
     }
 }
