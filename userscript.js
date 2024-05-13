@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.7
+// @version      0.8
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -113,9 +113,11 @@
         );
 
         if (xpathResult.singleNodeValue) {
-            console.log("The user is logged in");
             registrationDate = loadFromCacheRegistrationDate()
+            console.log("The user is logged in. Registration date from the cache: " + registrationDate);
             favoritesArray = loadFavoritesFromCache()
+            console.log("Favorites from the cache:");
+            console.log(favoritesArray);
 
             fetch('/moje-konto')
                 .then(response => response.text())
@@ -505,7 +507,7 @@
     function loadFavoritesFromCache() {
         const jsonData = localStorage.getItem('favorites');
 
-        return jsonData ? JSON.parse(jsonData) : null;
+        return jsonData ? JSON.parse(jsonData) : [];
     }
 
     function translateText(text, callback) {
@@ -670,7 +672,7 @@
 
     function loadFavorites(registrationDate) {
         makeHttpRequest('favorites/get', {registration_date: registrationDate}, function (result) {
-            if (result.favorites && result.favorites.length > 0) {
+            if (result.favorites) {
                 setFavorites(result)
                 addMenuItem(
                     'ИЗБРАННОЕ',
