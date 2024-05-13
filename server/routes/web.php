@@ -7,7 +7,8 @@ $router->get('/', function () use ($router) {
 });
 
 $router->get('favorites', 'FavoritesController@showList');
-$router->post('favorites/get', 'FavoritesController@getList');
+$router->post('favorites/get', 'FavoritesController@getShort');
+$router->post('favorites/getFull', 'FavoritesController@getFull');
 $router->post('favorites/add', 'FavoritesController@add');
 $router->post('favorites/remove', 'FavoritesController@remove');
 $router->post('translations/get', 'TranslationsController@getTranslation');

@@ -72,13 +72,28 @@ class FavoritesController extends BaseController
      * @return JsonResponse
      * @throws Exception
      */
-    public function getList(Request $request)
+    public function getShort(Request $request)
     {
         list($favorites, $registrationDate) = $this->getFavoritesRegistrationDateAndCheck($request);
 
         return $this->response([
             'error' => null,
             'favorites' => $favorites->getShort($registrationDate)
+        ]);
+    }
+
+    /**
+     * @param Request $request
+     * @return JsonResponse
+     * @throws Exception
+     */
+    public function getFull(Request $request)
+    {
+        list($favorites, $registrationDate) = $this->getFavoritesRegistrationDateAndCheck($request);
+
+        return $this->response([
+            'error' => null,
+            'favorites_full' => $favorites->getFull($registrationDate)
         ]);
     }
 
