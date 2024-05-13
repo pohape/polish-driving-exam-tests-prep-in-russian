@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.8
+// @version      0.9
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -127,7 +127,16 @@
                     if (match) {
                         registrationDate = match[1]
                         saveToCacheRegistrationDate(registrationDate)
-                        loadFavorites(registrationDate)
+
+                        if (window.location.pathname === '/moje-konto') {
+                            makeHttpRequest('favorites/getFull', {registration_date: registrationDate}, function (result) {
+                                if (result.favorites_full) {
+                                    createFavoriteQuestionsElement(result.favorites_full)
+                                }
+                            });
+                        } else {
+                            loadFavorites(registrationDate)
+                        }
                     }
                 })
                 .catch(error => console.error('Error fetching the data:', error));
@@ -569,7 +578,6 @@
                     element = xpathResult.snapshotItem(0);
                 }
             } else {
-                // Поиск элемента с использованием CSS селектора
                 element = document.querySelector(selector);
             }
 
@@ -676,10 +684,46 @@
                 setFavorites(result)
                 addMenuItem(
                     'ИЗБРАННОЕ',
-                    baseUrl + 'favorites?registration_date=' + encodeURIComponent(registrationDate)
+                    'https://www.teoria.pl/moje-konto'
                 )
             }
         });
+    }
+
+    function createFavoriteQuestionsElement(favorites) {
+        const container = document.createElement('div');
+        container.className = 'row'
+        container.appendChild(document.createElement('br'));
+        container.appendChild(document.createElement('br'));
+        container.appendChild(document.createElement('br'));
+
+        const header = document.createElement('h2');
+        header.textContent = 'Мои избранные вопросы';
+        container.appendChild(header);
+        container.appendChild(document.createElement('br'));
+
+        Object.keys(favorites).forEach(question => {
+            const questionHeader = document.createElement('h3');
+            questionHeader.textContent = question;
+            container.appendChild(questionHeader);
+
+            const list = document.createElement('ol');
+            favorites[question].forEach(id => {
+                const listItem = document.createElement('li');
+                const link = document.createElement('a');
+                link.href = `https://www.teoria.pl/pytania-na-prawo-jazdy-z-odpowiedziami/,${id}`;
+                link.textContent = id;
+                link.target = '_blank';
+                listItem.appendChild(link);
+                list.appendChild(listItem);
+            });
+            container.appendChild(list);
+        });
+
+        const container2 = document.createElement('div');
+        container2.className = 'container'
+        container2.appendChild(container);
+        document.body.insertBefore(container2, document.querySelector('body > footer'));
     }
 
     loadRegistrationDateAndFavorites()
