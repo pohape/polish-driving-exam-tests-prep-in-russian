@@ -1,5 +1,8 @@
 {
     "2024-01-13 16:47:37 +0100": {
+        "Czego nie możesz robić uczestnicząc w wypadku, w którym są zabici?": [
+            16220
+        ],
         "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": [
             882
         ],
@@ -18,6 +21,9 @@
         "Czy w dzień zabronione jest ostrzeganie światłami drogowymi, jeżeli może spowodować to oślepienie innych kierujących?": [
             15545
         ],
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o lewostronnym zwężeniu jezdni?": [
+            493
+        ],
         "Czy w przedstawionej sytuacji jesteś ostrzegany o znacznym wzniesieniu drogi?": [
             439
         ],
@@ -26,6 +32,9 @@
         ],
         "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": [
             1043
+        ],
+        "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": [
+            1032
         ],
         "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": [
             18308
@@ -99,6 +108,9 @@
         ],
         "Jakie musisz spełnić warunki, gdy chcesz przewieźć dziecko na tylnym siedzeniu samochodu osobowego?": [
             17186
+        ],
+        "Jakiej kategorii prawo jazdy jest wymagane, gdy chcesz kierować czterokołowcem innym niż lekki?": [
+            4
         ],
         "Kierujesz pojazdem osobowym z przyczepą, jadąc autostradą. Jakiej prędkości nie wolno Ci przekroczyć?": [
             15764
@@ -228,6 +240,9 @@
         ],
         "Jaka jest dopuszczalna prędkość samochodu osobowego z przyczepą na tak oznakowanej drodze?": [
             18258
+        ],
+        "Jaka pozycja za kierownicą umożliwi zmniejszenie efektu tzw. martwego pola w lusterkach, występującego w czasie obserwacji drogi?": [
+            144
         ],
         "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": [
             16248

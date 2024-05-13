@@ -2781,7 +2781,8 @@
             "Dawać krótkotrwałe sygnały świetlne": "Дать кратковременные световые сигналы.",
             "Którą z tych czynności masz obowiązek wykonać podczas wyprzedzania samochodem osobowym we mgle poza obszarem zabudowanym?": "Какое из этих действий ты обязан выполнить во время обгона легковым автомобилем в тумане вне населенного пункта?",
             "Czy masz prawo używać świateł przeciwmgłowych tylnych, jeżeli mgła ogranicza widoczność na odległość 100 m?": "Имеете ли вы право использовать задние противотуманные фонари, если туман ограничивает видимость на расстояние 100 м?",
-            "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?"
+            "Czy kierujący rowerem może wyprzedzać jadące powoli pojazdy z ich prawej strony?": "Может ли водитель велосипеда обгонять медленно движущиеся транспортные средства с правой стороны?",
+            "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?"
         }
     },
     "not_approved": {
@@ -2957,7 +2958,6 @@
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
         "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
-        "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
@@ -3894,6 +3894,14 @@
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?",
         "Różne pola widzenia kierowców, widoczność kierowców motocykli": "Разные поля зрения водителей, видимость водителей мотоциклов.",
         "Wyposażenie pojazdu związane z bezpieczeństwem, wykorzystanie środków ochronnych, takich jak rękawice, obuwie, ubranie i kask": "Обязательная часть комплектации ТС, связанная с безопасностью, использование средств защиты, таких как перчатки, обувь, одежда и шлем.",
-        "Czy na tym skrzyżowaniu wolno Ci zawrócić z zajmowanego obecnie pasa ruchu?": "Можешь ли ты развернуться на этом перекрестке с занимаемой сейчас полосы движения?"
+        "Czy na tym skrzyżowaniu wolno Ci zawrócić z zajmowanego obecnie pasa ruchu?": "Можешь ли ты развернуться на этом перекрестке с занимаемой сейчас полосы движения?",
+        "Czy na tak oznaczonym miejscu możesz dokonać postoju pojazdu, jeżeli przewozisz osobę niepełnosprawną legitymującą się kartą parkingową?": "Можешь ли ты осуществить стоянку транспортного средства на так обозначенном месте, если перевозишь инвалида, предъявляющего парковочную карту?",
+        "Czy w tej sytuacji masz pierwszeństwo przed pojazdem, który jedzie z przeciwnego kierunku i skręca w lewo?": "У вас есть преимущество перед ТС, который едет с противоположного направления и поворачивает налево?",
+        "Czy skręcając w prawo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Поворачивая направо на этом перекрестке, у вас есть преимущество перед приближающимся ТС?",
+        "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km\/h w obszarze zabudowanym, które wydał Ci policjant?": "На какой срок действительно свидетельство о временном изъятии польского водительского удостоверения за превышение скорости более чем на 50 км\/ч в населенном пункте, которое выдал вам полицейский?",
+        "Tempomat": "Темпомат.",
+        "Układ ABS": "Система ABS.",
+        "System AWS": "Система AWS.",
+        "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?"
     }
 }
