@@ -317,6 +317,9 @@
         ],
         "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": [
             1320
+        ],
+        "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": [
+            1515
         ]
     }
 }
