@@ -2786,7 +2786,8 @@
             "Który z wymienionych warunków musi być spełniony, aby włączyć tempomat?": "Какое из перечисленных условий должно быть выполнено, чтобы включить круиз-контроль?",
             "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
             "Czy w tej sytuacji masz prawo wyprzedzić kilka pojazdów nie wracając na prawy pas?": "Имеешь ли ты право в этой ситуации обогнать несколько транспортных средств, не возвращаясь на правую полосу?",
-            "Czy jadąc za tak oznakowanym pojazdem, masz obowiązek zachować szczególną ostrożność?": "Если ты едешь за таким образом обозначенным транспортным средством, обязан ли ты проявлять особую осторожность?"
+            "Czy jadąc za tak oznakowanym pojazdem, masz obowiązek zachować szczególną ostrożność?": "Если ты едешь за таким образом обозначенным транспортным средством, обязан ли ты проявлять особую осторожность?",
+            "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?"
         }
     },
     "not_approved": {
@@ -3893,7 +3894,6 @@
         "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
         "Czy zbliżając się do przejścia dla pieszych masz obowiązek obserwować jego otoczenie?": "Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его обстановкой?",
         "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": "В данной ситуации вам необходимо оказать необходимую помощь пострадавшему в аварии?",
-        "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?",
         "Różne pola widzenia kierowców, widoczność kierowców motocykli": "Разные поля зрения водителей, видимость водителей мотоциклов.",
         "Wyposażenie pojazdu związane z bezpieczeństwem, wykorzystanie środków ochronnych, takich jak rękawice, obuwie, ubranie i kask": "Обязательная часть комплектации ТС, связанная с безопасностью, использование средств защиты, таких как перчатки, обувь, одежда и шлем.",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić z zajmowanego obecnie pasa ruchu?": "Можешь ли ты развернуться на этом перекрестке с занимаемой сейчас полосы движения?",
