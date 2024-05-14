@@ -3905,6 +3905,7 @@
         "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
         "Został wciśnięty pedał sprzęgła": "Была нажата педаль сцепления.",
         "Została włączona funkcja ograniczenia prędkości pojazdu": "Была включена функция ограничения скорости транспортного средства.",
-        "Pojazd osiągnął minimalną prędkość określoną przez producenta": "Транспортное средство достигло минимальной скорости, определенной производителем."
+        "Pojazd osiągnął minimalną prędkość określoną przez producenta": "Транспортное средство достигло минимальной скорости, определенной производителем.",
+        "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?"
     }
 }

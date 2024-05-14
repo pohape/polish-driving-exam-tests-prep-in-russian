@@ -27,6 +27,12 @@
         "Czy w przedstawionej sytuacji jesteś ostrzegany o znacznym wzniesieniu drogi?": [
             439
         ],
+        "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": [
+            633
+        ],
+        "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania z drogą podporządkowaną?": [
+            16383
+        ],
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": [
             16697
         ],
@@ -40,7 +46,6 @@
             18308
         ],
         "Czy w tej sytuacji masz prawo wyprzedzić pojazd, który jedzie przed Tobą?": [
-            711,
             712,
             713,
             725,
