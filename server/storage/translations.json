@@ -2796,7 +2796,9 @@
             "Układ ABS": "Система ABS.",
             "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
             "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
-            "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа."
+            "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
+            "Czego możesz spodziewać się wjeżdżając na most oznaczony tym znakiem?": "Чего можете ожидать, въезжая на мост, обозначенный этим знаком?",
+            "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги."
         }
     },
     "not_approved": {
@@ -3919,8 +3921,6 @@
         "Czy w tej sytuacji wolno Ci użyć sygnału dźwiękowego?": "В этой ситуации тебе разрешается использовать сигнал звуковой?",
         "Czy podczas omijania pojazdu oznaczonego z przodu i z tyłu widoczną tablicą barwy niebieskiej oraz z włączonymi światłami awaryjnymi, masz obowiązek zachować szczególną ostrożność w czasie wsiadania lub wysiadania osoby niepełnosprawnej?": "Обязан ли ты соблюдать особую осторожность во время входа или выхода инвалида, когда объезжаешь ТС, обозначенное спереди и сзади видимой синей табличкой, а также с включенными аварийными огнями?",
         "Obfitych opadów śniegu": "Обильных снегопадов.",
-        "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
-        "Czego możesz spodziewać się wjeżdżając na most oznaczony tym znakiem?": "Чего можете ожидать, въезжая на мост, обозначенный этим знаком?",
-        "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги."
+        "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов."
     }
 }
