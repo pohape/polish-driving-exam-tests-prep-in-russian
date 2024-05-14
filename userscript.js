@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.9
+// @version      0.91
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
@@ -262,8 +262,17 @@
         const emojiAdded = ' ⭐ ';
         const emojiNotAdded = ' ☆ ';
 
+        const match = window.location.href.match(/,(\d+)$/);
+        let questionId = match ? match[1] : null;
+        let addedToFavorites = false;
+
+        if (questionId) {
+            addedToFavorites = questionId in favoritesObject;
+        } else {
+            addedToFavorites = Object.values(favoritesObject).includes(originalText);
+        }
+
         const link = document.createElement('a');
-        let addedToFavorites = Object.values(favoritesObject).includes(originalText)
         let hintText
 
         if (registrationDate) {
@@ -276,9 +285,6 @@
                 addedToFavorites = !addedToFavorites;
                 link.innerHTML = addedToFavorites ? emojiAdded : emojiNotAdded;
                 hintText = addedToFavorites ? titleRemove : titleAdd;
-
-                const match = window.location.href.match(/,(\d+)$/);
-                let questionId = match ? match[1] : null;
 
                 if (addedToFavorites) {
                     addToFavoritesIfNotPresent(originalText, questionId)
