@@ -2788,7 +2788,12 @@
             "Czy w tej sytuacji masz prawo wyprzedzić kilka pojazdów nie wracając na prawy pas?": "Имеешь ли ты право в этой ситуации обогнать несколько транспортных средств, не возвращаясь на правую полосу?",
             "Czy jadąc za tak oznakowanym pojazdem, masz obowiązek zachować szczególną ostrożność?": "Если ты едешь за таким образом обозначенным транспортным средством, обязан ли ты проявлять особую осторожность?",
             "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": "В этой ситуации у тебя есть обязанность использования указателя поворота?",
-            "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?"
+            "Czy podczas kierowania pojazdem we mgle masz obowiązek zachowywać szczególną ostrożność?": "Вы обязаны проявлять особую осторожность при управлении автомобилем в тумане?",
+            "Bezpieczny, ale nie mniejszy niż 0,6 metra": "Безопасное, но не менее чем 0,6 метра.",
+            "Jaki odstęp należy zachować podczas wyprzedzania kolumny pieszych?": "Какую дистанцию необходимо соблюдать во время обгона колонны пешеходов?",
+            "Tempomat": "Круиз-контроль.",
+            "System AWS": "Система AWS.",
+            "Układ ABS": "Система ABS."
         }
     },
     "not_approved": {
@@ -3683,8 +3688,6 @@
         "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z obowiązku zachowania szczególnej ostrożności?": "Светофор на пешеходном переходе освобождает тебя от обязанности проявления особой осторожности?",
         "Czy kierując pojazdem w strefie zamieszkania masz obowiązek stale zachowywać szczególną ostrożność?": "Вождя автомобилем в жилой зоне, ты обязан всегда проявлять особую осторожность?",
-        "Bezpieczny, ale nie mniejszy niż 0,6 metra": "Безопасное, но не менее чем 0,6 метра.",
-        "Jaki odstęp należy zachować podczas wyprzedzania kolumny pieszych?": "Какую дистанцию необходимо соблюдать во время обгона колонны пешеходов?",
         "Nie mniejszy niż 50 metrów": "Не меньше чем 50 метров.",
         "Nie mniejszy niż 30 metrów": "Не меньше 30 метров.",
         "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
@@ -3901,8 +3904,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem, który jedzie z przeciwnego kierunku i skręca w lewo?": "У вас есть преимущество перед ТС, который едет с противоположного направления и поворачивает налево?",
         "Czy skręcając w prawo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Поворачивая направо на этом перекрестке, у вас есть преимущество перед приближающимся ТС?",
         "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km\/h w obszarze zabudowanym, które wydał Ci policjant?": "На какой срок действительно свидетельство о временном изъятии польского водительского удостоверения за превышение скорости более чем на 50 км\/ч в населенном пункте, которое выдал вам полицейский?",
-        "Układ ABS": "Система ABS.",
-        "System AWS": "Система AWS.",
         "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
         "Został wciśnięty pedał sprzęgła": "Была нажата педаль сцепления.",
         "Została włączona funkcja ograniczenia prędkości pojazdu": "Была включена функция ограничения скорости транспортного средства.",
