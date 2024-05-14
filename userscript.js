@@ -100,7 +100,7 @@
 
     let registrationDate = null
     let contentCache = {};
-    let favoritesArray = [];
+    let favoritesObject = {}; // ключи - это номера вопросов в виде string, а значения - это переводы ответов
     let switchIds = new Set();
 
     function loadRegistrationDateAndFavorites() {
@@ -115,9 +115,9 @@
         if (xpathResult.singleNodeValue) {
             registrationDate = loadFromCacheRegistrationDate()
             console.log("The user is logged in. Registration date from the cache: " + registrationDate);
-            favoritesArray = loadFavoritesFromCache()
+            favoritesObject = loadFavoritesFromCache()
             console.log("Favorites from the cache:");
-            console.log(favoritesArray);
+            console.log(favoritesObject);
 
             fetch('/moje-konto')
                 .then(response => response.text())
@@ -263,7 +263,7 @@
         const emojiNotAdded = ' ☆ ';
 
         const link = document.createElement('a');
-        let addedToFavorites = favoritesArray.includes(originalText)
+        let addedToFavorites = Object.values(favoritesObject).includes(originalText)
         let hintText
 
         if (registrationDate) {
@@ -311,11 +311,13 @@
     }
 
     function addToFavoritesIfNotPresent(translation, questionId) {
-        if (!favoritesArray.includes(translation)) {
-            favoritesArray.push(translation);
-            console.log('Added to local Favorites: ' + translation);
-        } else {
-            console.log('Already is in local Favorites: ' + translation);
+        if (questionId) {
+            if (questionId in favoritesObject) {
+                console.log('Already is in local Favorites: ' + translation);
+            } else {
+                favoritesObject[questionId] = translation;
+                console.log('Added to local Favorites: ' + translation);
+            }
         }
 
         makeHttpRequest(
@@ -332,14 +334,23 @@
         );
     }
 
-    function removeFromFavorites(translation, questionId) {
-        const index = favoritesArray.indexOf(translation);
+    function removePropertyByValue(obj, value) {
+        for (let key in obj) {
+            if (obj[key] === value) {
+                delete obj[key];
+                console.log(`Свойство с ключом '${key}' и значением '${value}' было удалено.`);
+            }
+        }
+    }
 
-        if (index !== -1) {
-            favoritesArray.splice(index, 1);
-            console.log('Removed from local Favorites: ' + translation);
+    function removeFromFavorites(translation, questionId) {
+        if (questionId) {
+            if (questionId in favoritesObject) {
+                delete favoritesObject[questionId];
+                console.log('Removed from local Favorites: ' + questionId);
+            }
         } else {
-            console.log('Not found in local Favorites: ' + translation);
+            removePropertyByValue(favoritesObject, translation);
         }
 
         makeHttpRequest(
@@ -670,9 +681,9 @@
 
     function setFavorites(result) {
         if (result.error === null && typeof result.favorites === 'object' && result.favorites !== null) {
-            favoritesArray = Object.values(result.favorites);
-            saveFavoritesToCache(favoritesArray)
-            console.log('Favorites loaded successfully', favoritesArray);
+            favoritesObject = result.favorites;
+            saveFavoritesToCache(favoritesObject)
+            console.log('Favorites loaded successfully', favoritesObject);
         } else {
             console.error('Failed to load favorites: ', result.error);
         }
