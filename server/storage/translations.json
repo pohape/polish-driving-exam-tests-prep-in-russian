@@ -2785,7 +2785,8 @@
             "Z jaką maksymalną dopuszczalną prędkością masz prawo jechać motocyklem po drodze za tymi znakami?": "С какой максимально допустимой скоростью Вы имеете право ездить на мотоцикле по дороге за этими знаками?",
             "Który z wymienionych warunków musi być spełniony, aby włączyć tempomat?": "Какое из перечисленных условий должно быть выполнено, чтобы включить круиз-контроль?",
             "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": "Какой из этих предметов является обязательным оборудованием каждого легкового автомобиля?",
-            "Czy w tej sytuacji masz prawo wyprzedzić kilka pojazdów nie wracając na prawy pas?": "Имеешь ли ты право в этой ситуации обогнать несколько транспортных средств, не возвращаясь на правую полосу?"
+            "Czy w tej sytuacji masz prawo wyprzedzić kilka pojazdów nie wracając na prawy pas?": "Имеешь ли ты право в этой ситуации обогнать несколько транспортных средств, не возвращаясь на правую полосу?",
+            "Czy jadąc za tak oznakowanym pojazdem, masz obowiązek zachować szczególną ostrożność?": "Если ты едешь за таким образом обозначенным транспортным средством, обязан ли ты проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -3913,7 +3914,6 @@
         "Na 3 miesięce": "На 3 месяца.",
         "Na 6 miesięcy": "На 6 месяцев.",
         "Należy przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu w miejscu wypadku": "Необходимо принять соответствующие меры для обеспечения безопасности движения на месте происшествия.",
-        "Czy w przedstawionej sytuacji kierujący zespołem pojazdów nr 1 zachował się właściwie?": "В представленной ситуации к водитель автопоезда № 1 поступил правильно?",
-        "Czy jadąc za tak oznakowanym pojazdem, masz obowiązek zachować szczególną ostrożność?": "Если ты едешь за таким образом обозначенным транспортным средством, обязан ли ты проявлять особую осторожность?"
+        "Czy w przedstawionej sytuacji kierujący zespołem pojazdów nr 1 zachował się właściwie?": "В представленной ситуации к водитель автопоезда № 1 поступил правильно?"
     }
 }
