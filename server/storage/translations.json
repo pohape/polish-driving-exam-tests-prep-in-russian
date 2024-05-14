@@ -2793,7 +2793,10 @@
             "Jaki odstęp należy zachować podczas wyprzedzania kolumny pieszych?": "Какую дистанцию необходимо соблюдать во время обгона колонны пешеходов?",
             "Tempomat": "Круиз-контроль.",
             "System AWS": "Система AWS.",
-            "Układ ABS": "Система ABS."
+            "Układ ABS": "Система ABS.",
+            "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
+            "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
+            "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа."
         }
     },
     "not_approved": {
@@ -3125,7 +3128,6 @@
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
-        "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
@@ -3505,8 +3507,6 @@
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
-        "O silnych bocznych podmuchach wiatru": "О сильных боковых порывах ветра.",
-        "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
