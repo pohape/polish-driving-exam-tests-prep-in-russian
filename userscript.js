@@ -1,12 +1,11 @@
 // ==UserScript==
 // @name         teoria.pl helper for Russian speaking persons
 // @namespace    http://tampermonkey.net/
-// @version      0.92
+// @version      0.93
 // @description  Translate teoria.pl questions, answers and explanations to Russian
 // @author       Pavel Geveiler
 // @match        https://www.teoria.pl/*
 // @grant        GM_xmlhttpRequest
-// @require      https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js
 // @downloadURL  https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/userscript.js
 // @updateURL    https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/userscript.js
 // ==/UserScript==
@@ -102,6 +101,17 @@
     let contentCache = {};
     let favoritesObject = {}; // ключи - это номера вопросов в виде string, а значения - это переводы ответов
     let switchIds = new Set();
+
+    function simpleHash(str) {
+        let hash = 0;
+        for (let i = 0; i < str.length; i++) {
+            const char = str.charCodeAt(i);
+            hash = ((hash << 5) - hash) + char;
+            hash |= 0;
+        }
+
+        return Math.abs(hash).toString();
+    }
 
     function loadRegistrationDateAndFavorites() {
         let xpathResult = document.evaluate(
@@ -279,9 +289,9 @@
                 hintText = addedToFavorites ? titleRemove : titleAdd;
 
                 if (addedToFavorites) {
-                    addToFavoritesIfNotPresent(originalText, questionId)
+                    addToFavoritesIfNotPresent(text, questionId)
                 } else {
-                    removeFromFavorites(originalText, questionId)
+                    removeFromFavorites(text, questionId)
                 }
             };
         } else {
@@ -327,9 +337,9 @@
 
     function localFavoritesRemoveByText(text) {
         for (let key in favoritesObject) {
-            if (obj[key] === text) {
+            if (favoritesObject[key] === text) {
                 delete favoritesObject[key];
-                console.log(`'${key}' - '${value}' was removed from Favorites.`);
+                console.log(`'${key}' was removed from Favorites.`);
             }
         }
     }
@@ -492,11 +502,11 @@
     }
 
     function getCacheKey(originalText) {
-        return 'translationCache_' + CryptoJS.MD5(originalText).toString();
+        return 'translationCache_' + simpleHash(originalText);
     }
 
     function getCacheKeyForEmojiFlags(translation) {
-        return 'emojiFlagsCache_' + CryptoJS.MD5(translation).toString();
+        return 'emojiFlagsCache_' + simpleHash(translation);
     }
 
     function saveToCacheEmojiFlag(translate, flag) {
