@@ -2798,7 +2798,8 @@
             "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": "О какой опасности предупреждает представленный вертикальный знак?",
             "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
             "Czego możesz spodziewać się wjeżdżając na most oznaczony tym znakiem?": "Чего можете ожидать, въезжая на мост, обозначенный этим знаком?",
-            "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги."
+            "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги.",
+            "Nieświadomy pasażer znacząco utrudnia kierowanie motocyklem": "Несознательный пассажир значительно затрудняет управление мотоциклом."
         }
     },
     "not_approved": {
@@ -3921,6 +3922,10 @@
         "Czy w tej sytuacji wolno Ci użyć sygnału dźwiękowego?": "В этой ситуации тебе разрешается использовать сигнал звуковой?",
         "Czy podczas omijania pojazdu oznaczonego z przodu i z tyłu widoczną tablicą barwy niebieskiej oraz z włączonymi światłami awaryjnymi, masz obowiązek zachować szczególną ostrożność w czasie wsiadania lub wysiadania osoby niepełnosprawnej?": "Обязан ли ты соблюдать особую осторожность во время входа или выхода инвалида, когда объезжаешь ТС, обозначенное спереди и сзади видимой синей табличкой, а также с включенными аварийными огнями?",
         "Obfitych opadów śniegu": "Обильных снегопадов.",
-        "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов."
+        "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
+        "Zmniejszę ciśnienie w ogumieniu": "Уменьшу давление в шинах.",
+        "Zmniejszę twardość zawieszenia": "Я уменьшу жесткость подвески.",
+        "Poinstruuję pasażera o sposobie zachowania na motocyklu": "Я инструктирую пассажира о способе поведения на мотоцикле.",
+        "Jak się przygotujesz, zanim motocyklem zabierzesz w podróż pasażera?": "Как ты подготовишься, прежде чем на мотоцикле отвезешь пассажира в путешествие?"
     }
 }
