@@ -332,7 +332,7 @@
 
     function localFavoritesAddByQuestionId(questionId, text) {
         favoritesObject[questionId] = text;
-        console.log('Added to local Favorites: ' + text);
+        console.log('Added to local Favorites: ' + questionId);
     }
 
     function localFavoritesRemoveByText(text) {
@@ -381,15 +381,17 @@
             localFavoritesRemoveByText(text);
         }
 
+        let questionOrId = questionId ? questionId : text
+
         makeHttpRequest(
             'favorites/remove',
-            {question_or_id: (questionId ? questionId : text), registration_date: registrationDate},
+            {question_or_id: questionOrId, registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
-                    console.log('Removed from API Favorites: ' + text);
+                    console.log('Removed from API Favorites: ' + questionOrId);
                     setFavorites(result)
                 } else {
-                    console.log('Error removing from API Favorites: ' + text);
+                    console.log('Error removing from API Favorites: ' + questionOrId);
                 }
             }
         );
@@ -554,11 +556,11 @@
 
     function loadFavoritesFromCache() {
         const jsonData = localStorage.getItem('favorites');
-
+        const favoritesFromCache = jsonData ? JSON.parse(jsonData) : {}
         console.log("Favorites from the cache:");
-        console.log(favoritesObject);
+        console.log(Object.keys(favoritesFromCache));
 
-        return jsonData ? JSON.parse(jsonData) : [];
+        return favoritesFromCache;
     }
 
     function translateText(text, callback) {
@@ -714,9 +716,9 @@
         if (result.error === null && typeof result.favorites === 'object' && result.favorites !== null) {
             favoritesObject = result.favorites;
             saveFavoritesToCache(favoritesObject)
-            console.log('Favorites loaded successfully', favoritesObject);
+            console.log('Favorites loaded successfully from API:', Object.keys(favoritesObject));
         } else {
-            console.error('Failed to load favorites: ', result.error);
+            console.error('Failed to load favorites from API:', result.error);
         }
     }
 
