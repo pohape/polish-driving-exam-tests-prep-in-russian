@@ -116,8 +116,6 @@
             registrationDate = loadFromCacheRegistrationDate()
             console.log("The user is logged in. Registration date from the cache: " + registrationDate);
             favoritesObject = loadFavoritesFromCache()
-            console.log("Favorites from the cache:");
-            console.log(favoritesObject);
 
             fetch('/moje-konto')
                 .then(response => response.text())
@@ -256,7 +254,7 @@
         span.appendChild(link);
     }
 
-    function createFavoritesEmojiLink(span, originalText) {
+    function createFavoritesEmojiLink(span, text) {
         const titleAdd = 'Добавить в список сложных';
         const titleRemove = 'Убрать из списка сложных';
         const emojiAdded = ' ⭐ ';
@@ -264,13 +262,7 @@
 
         const match = window.location.href.match(/,(\d+)$/);
         let questionId = match ? match[1] : null;
-        let addedToFavorites = false;
-
-        if (questionId) {
-            addedToFavorites = questionId in favoritesObject;
-        } else {
-            addedToFavorites = Object.values(favoritesObject).includes(originalText);
-        }
+        let addedToFavorites = questionId ? localFavoritesFindQuestionId(questionId) : localFavoritesCheckText(text);
 
         const link = document.createElement('a');
         let hintText
@@ -316,13 +308,45 @@
         span.appendChild(link);
     }
 
+    function localFavoritesCheckText(text) {
+        return Object.values(favoritesObject).includes(text);
+    }
+
+    function localFavoritesFindQuestionId(questionId) {
+        if (questionId in favoritesObject) {
+            return favoritesObject[questionId];
+        }
+
+        return null;
+    }
+
+    function localFavoritesAddByQuestionId(questionId, text) {
+        favoritesObject[questionId] = text;
+        console.log('Added to local Favorites: ' + text);
+    }
+
+    function localFavoritesRemoveByText(text) {
+        for (let key in favoritesObject) {
+            if (obj[key] === text) {
+                delete favoritesObject[key];
+                console.log(`'${key}' - '${value}' was removed from Favorites.`);
+            }
+        }
+    }
+
+    function localFavoritesRemoveById(questionId) {
+        if (questionId in favoritesObject) {
+            delete favoritesObject[questionId];
+            console.log('Removed from local Favorites: ' + questionId);
+        }
+    }
+
     function addToFavoritesIfNotPresent(translation, questionId) {
         if (questionId) {
-            if (questionId in favoritesObject) {
+            if (localFavoritesFindQuestionId(questionId)) {
                 console.log('Already is in local Favorites: ' + translation);
             } else {
-                favoritesObject[questionId] = translation;
-                console.log('Added to local Favorites: ' + translation);
+                localFavoritesAddByQuestionId(questionId, translation)
             }
         }
 
@@ -340,34 +364,22 @@
         );
     }
 
-    function removePropertyByValue(obj, value) {
-        for (let key in obj) {
-            if (obj[key] === value) {
-                delete obj[key];
-                console.log(`Свойство с ключом '${key}' и значением '${value}' было удалено.`);
-            }
-        }
-    }
-
-    function removeFromFavorites(translation, questionId) {
+    function removeFromFavorites(text, questionId) {
         if (questionId) {
-            if (questionId in favoritesObject) {
-                delete favoritesObject[questionId];
-                console.log('Removed from local Favorites: ' + questionId);
-            }
+            localFavoritesRemoveById(questionId)
         } else {
-            removePropertyByValue(favoritesObject, translation);
+            localFavoritesRemoveByText(text);
         }
 
         makeHttpRequest(
             'favorites/remove',
-            {question_or_id: (questionId ? questionId : translation), registration_date: registrationDate},
+            {question_or_id: (questionId ? questionId : text), registration_date: registrationDate},
             function (result) {
                 if (result.error === null) {
-                    console.log('Removed from API Favorites: ' + translation);
+                    console.log('Removed from API Favorites: ' + text);
                     setFavorites(result)
                 } else {
-                    console.log('Error removing from API Favorites: ' + translation);
+                    console.log('Error removing from API Favorites: ' + text);
                 }
             }
         );
@@ -532,6 +544,9 @@
 
     function loadFavoritesFromCache() {
         const jsonData = localStorage.getItem('favorites');
+
+        console.log("Favorites from the cache:");
+        console.log(favoritesObject);
 
         return jsonData ? JSON.parse(jsonData) : [];
     }
