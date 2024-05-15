@@ -1,0 +1,39 @@
+{
+    "manifest_version": 3,
+    "name": "Польские тесты ПДД на русском",
+    "version": "0.93",
+    "description": "Расширение функционала teoria.pl. Польские тесты ПДД (вопросы, ответы и пояснения) переведенны на русский с помощью ИИ. Убрана вся реклама с сайта и добавлена возможность добавлять вопросы в Избранные.",
+    "permissions": [
+        "activeTab",
+        "webNavigation",
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "matches": [
+                "https://teoria.pl/*",
+                "https://www.teoria.pl/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "crypto-js.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ],
+    "host_permissions": [
+        "http://145.239.80.201:8080/*"
+    ]
+}
