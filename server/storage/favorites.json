@@ -179,6 +179,12 @@
         "Czy na tej jezdni zabronione jest wyprzedzanie z prawej strony?": [
             18864
         ],
+        "Czy najbliższy widoczny znak zobowiązuje do jazdy z prędkością do 50 km\/h?": [
+            1097
+        ],
+        "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": [
+            1123
+        ],
         "Czy podczas przewożenia osoby niepełnosprawnej legitymującej się kartą parkingową, karta ta powinna znajdować się za dowolną szybą pojazdu samochodowego?": [
             19050
         ],
@@ -193,6 +199,9 @@
         ],
         "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": [
             1043
+        ],
+        "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": [
+            610
         ],
         "Czy w tej sytuacji masz obowiązek zmniejszenia prędkości?": [
             18308
@@ -279,8 +288,14 @@
         "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": [
             17499
         ],
+        "Na jak długo zostanie zatrzymane prawo jazdy kierowcy, który przekroczył prędkość o więcej niż 50 km\/h na obszarze zabudowanym?": [
+            17495
+        ],
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": [
             17341
+        ],
+        "O jakim niebezpieczeństwie ostrzega przedstawiony znak pionowy?": [
+            16236
         ],
         "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na:\n\n\nPolicjant zatrzyma": [
             17090
@@ -315,8 +330,16 @@
         "Z jaką prędkością, kierując samochodem osobowym, należy poruszać się za tym pojazdem, jeżeli tunel znajduje się poza obszarem zabudowanym, a jego długość wynosi 600 m?": [
             18225
         ],
+        "Za które naruszenie przepisów ruchu drogowego policjant zatrzyma prawo jazdy?": [
+            17290,
+            17298,
+            17299
+        ],
         "Zamierzasz skręcić w lewo. Czy na tym skrzyżowaniu masz pierwszeństwo przejazdu przed wjeżdżającym na nie pojazdem?": [
             1320
+        ],
+        "Zamierzasz zawrócić. Czy w tej sytuacji wystąpi kolizja z tramwajem?": [
+            1515
         ]
     }
 }
