@@ -2805,7 +2805,8 @@
             "Czy w tej sytuacji, znajdując się w strefie ruchu, masz obowiązek ustąpić pierwszeństwa pieszym?": "В этой ситуации, находясь в зоне движения, вы обязаны уступить дорогу пешеходам?",
             "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
             "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
-            "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?"
+            "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
+            "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?"
         }
     },
     "not_approved": {
@@ -2918,7 +2919,6 @@
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
-        "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
         "karta pojazdu": "карта автомобиля.",
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
@@ -3933,6 +3933,7 @@
         "Czy w tej sytuacji należy powstrzymać się od wyprzedzenia pojazdu?": "В этой ситуации должен ли я воздержаться от обгона транспортного средства?",
         "Kierujący pojazdem, omijając pojazd przeznaczony konstrukcyjnie do przewozu osób niepełnosprawnych jest obowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się": "Водитель транспортного средства, обгоняя транспортное средство, конструктивно предназначенное для перевозки лиц с ограниченными возможностями, обязан во время посадки или высадки инвалида проявить особую осторожность и при необходимости остановиться.",
         "Znajdując się w strefie ruchu, w której ruch pieszych i pojazdów odbywa się po tej samej powierzchni, kierujący powinien jechać powoli i ustąpić pierwszeństwa pieszym": "Находясь в зоне движения, где движение пешеходов и транспортных средств происходит по одной и той же поверхности, водитель должен ехать медленно и уступить дорогу пешеходам.",
-        "Tylko zajmowany pas służy do jazdy": "Только занимаемая полоса предназначена для движения."
+        "Tylko zajmowany pas służy do jazdy": "Только занимаемая полоса предназначена для движения.",
+        "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений."
     }
 }
