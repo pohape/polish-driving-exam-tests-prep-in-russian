@@ -2801,7 +2801,8 @@
             "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги.",
             "Nieświadomy pasażer znacząco utrudnia kierowanie motocyklem": "Несознательный пассажир значительно затрудняет управление мотоциклом.",
             "Czy podczas omijania pojazdu oznaczonego taką tablicą i z włączonymi światłami awaryjnymi, z którego wysiada osoba niepełnosprawna należy zachować szczególną ostrożność i w razie potrzeby zatrzymać się?": "Во время объезда ТС, обозначенного таким знаком и с включенными аварийными огнями, из которого выходит инвалид, следует соблюдать особую осторожность и при необходимости остановиться?",
-            "Czy w tej sytuacji, znajdując się w strefie ruchu, masz obowiązek ustąpić pierwszeństwa pieszym?": "В этой ситуации, находясь в зоне движения, вы обязаны уступить дорогу пешеходам?"
+            "Czy w tej sytuacji, znajdując się w strefie ruchu, masz obowiązek ustąpić pierwszeństwa pieszym?": "В этой ситуации, находясь в зоне движения, вы обязаны уступить дорогу пешеходам?",
+            "Tak, tylko do 1 minuty": "Да, только до 1 минуты."
         }
     },
     "not_approved": {
@@ -3054,7 +3055,6 @@
         "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
         "O kolejne dwa miesiące": "На следующие два месяца.",
-        "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
         "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
