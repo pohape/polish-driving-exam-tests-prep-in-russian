@@ -2799,7 +2799,8 @@
             "O silnych podmuchach wiatru występujących tylko z prawej strony": "О сильных порывах ветра, возникающих только справа.",
             "Czego możesz spodziewać się wjeżdżając na most oznaczony tym znakiem?": "Чего можете ожидать, въезжая на мост, обозначенный этим знаком?",
             "Oszronienia jezdni lub gołoledzi, nawet jeśli nie występują na innych odcinkach drogi": "Обледенение проезжей части или гололедица, даже если они не встречаются на других участках дороги.",
-            "Nieświadomy pasażer znacząco utrudnia kierowanie motocyklem": "Несознательный пассажир значительно затрудняет управление мотоциклом."
+            "Nieświadomy pasażer znacząco utrudnia kierowanie motocyklem": "Несознательный пассажир значительно затрудняет управление мотоциклом.",
+            "Czy podczas omijania pojazdu oznaczonego taką tablicą i z włączonymi światłami awaryjnymi, z którego wysiada osoba niepełnosprawna należy zachować szczególną ostrożność i w razie potrzeby zatrzymać się?": "Во время объезда ТС, обозначенного таким знаком и с включенными аварийными огнями, из которого выходит инвалид, следует соблюдать особую осторожность и при необходимости остановиться?"
         }
     },
     "not_approved": {
@@ -3927,7 +3928,6 @@
         "Poinstruuję pasażera o sposobie zachowania na motocyklu": "Я инструктирую пассажира о способе поведения на мотоцикле.",
         "Jak się przygotujesz, zanim motocyklem zabierzesz w podróż pasażera?": "Как ты подготовишься, прежде чем на мотоцикле отвезешь пассажира в путешествие?",
         "Zdecydowanie przyśpieszyć": "Категорически ускориться.",
-        "Czy w tej sytuacji wolno Ci się zatrzymać przy lewej krawędzi jezdni?": "В этой ситуации разрешено ли тебе остановиться у левой кромки проезжей части?",
-        "Czy podczas omijania pojazdu oznaczonego taką tablicą i z włączonymi światłami awaryjnymi, z którego wysiada osoba niepełnosprawna należy zachować szczególną ostrożność i w razie potrzeby zatrzymać się?": "Во время объезда ТС, обозначенного таким знаком и с включенными аварийными огнями, из которого выходит инвалид, следует соблюдать особую осторожность и при необходимости остановиться?"
+        "Czy w tej sytuacji wolno Ci się zatrzymać przy lewej krawędzi jezdni?": "В этой ситуации разрешено ли тебе остановиться у левой кромки проезжей части?"
     }
 }
