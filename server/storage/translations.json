@@ -2806,7 +2806,8 @@
             "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
             "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
             "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
-            "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?"
+            "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
+            "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³."
         }
     },
     "not_approved": {
@@ -3935,6 +3936,6 @@
         "Znajdując się w strefie ruchu, w której ruch pieszych i pojazdów odbywa się po tej samej powierzchni, kierujący powinien jechać powoli i ustąpić pierwszeństwa pieszym": "Находясь в зоне движения, где движение пешеходов и транспортных средств происходит по одной и той же поверхности, водитель должен ехать медленно и уступить дорогу пешеходам.",
         "Tylko zajmowany pas służy do jazdy": "Только занимаемая полоса предназначена для движения.",
         "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений.",
-        "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³."
+        "Gwałtowne ruszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Резкое начало движения на скользкой поверхности связано с риском возникновения скольжения."
     }
 }
