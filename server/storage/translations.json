@@ -10,7 +10,8 @@
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
-        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства."
+        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
+        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?"
     },
     "approved": {
         "upewninie się": {
@@ -3574,7 +3575,6 @@
         "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?",
         "Zużyciem opon": "Износом шин.",
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
-        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Prawo jazdy kategorii B uprawnia do kierowania pojazdem samochodowym. Jest on przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;": "Водительское удостоверение категории B дает право управлять моторным транспортным средством. Оно конструктивно предназначено для перевозки не более чем 9 человек вместе с водителем, а также их багажа;",
