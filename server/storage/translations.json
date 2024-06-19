@@ -2802,7 +2802,8 @@
             "Nieświadomy pasażer znacząco utrudnia kierowanie motocyklem": "Несознательный пассажир значительно затрудняет управление мотоциклом.",
             "Czy podczas omijania pojazdu oznaczonego taką tablicą i z włączonymi światłami awaryjnymi, z którego wysiada osoba niepełnosprawna należy zachować szczególną ostrożność i w razie potrzeby zatrzymać się?": "Во время объезда ТС, обозначенного таким знаком и с включенными аварийными огнями, из которого выходит инвалид, следует соблюдать особую осторожность и при необходимости остановиться?",
             "Czy w tej sytuacji, znajdując się w strefie ruchu, masz obowiązek ustąpić pierwszeństwa pieszym?": "В этой ситуации, находясь в зоне движения, вы обязаны уступить дорогу пешеходам?",
-            "Tak, tylko do 1 minuty": "Да, только до 1 минуты."
+            "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
+            "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?"
         }
     },
     "not_approved": {
@@ -3908,7 +3909,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem, który jedzie z przeciwnego kierunku i skręca w lewo?": "У вас есть преимущество перед ТС, который едет с противоположного направления и поворачивает налево?",
         "Czy skręcając w prawo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym pojazdem?": "Поворачивая направо на этом перекрестке, у вас есть преимущество перед приближающимся ТС?",
         "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km\/h w obszarze zabudowanym, które wydał Ci policjant?": "На какой срок действительно свидетельство о временном изъятии польского водительского удостоверения за превышение скорости более чем на 50 км\/ч в населенном пункте, которое выдал вам полицейский?",
-        "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
         "Został wciśnięty pedał sprzęgła": "Была нажата педаль сцепления.",
         "Została włączona funkcja ograniczenia prędkości pojazdu": "Была включена функция ограничения скорости транспортного средства.",
         "Pojazd osiągnął minimalną prędkość określoną przez producenta": "Транспортное средство достигло минимальной скорости, определенной производителем.",
