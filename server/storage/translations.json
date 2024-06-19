@@ -2804,7 +2804,8 @@
             "Czy podczas omijania pojazdu oznaczonego taką tablicą i z włączonymi światłami awaryjnymi, z którego wysiada osoba niepełnosprawna należy zachować szczególną ostrożność i w razie potrzeby zatrzymać się?": "Во время объезда ТС, обозначенного таким знаком и с включенными аварийными огнями, из которого выходит инвалид, следует соблюдать особую осторожность и при необходимости остановиться?",
             "Czy w tej sytuacji, znajdując się w strefie ruchu, masz obowiązek ustąpić pierwszeństwa pieszym?": "В этой ситуации, находясь в зоне движения, вы обязаны уступить дорогу пешеходам?",
             "Tak, tylko do 1 minuty": "Да, только до 1 минуты.",
-            "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?"
+            "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
+            "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?"
         }
     },
     "not_approved": {
@@ -3012,7 +3013,6 @@
         "Czy wolno Ci wjechać na drogę za tym znakiem aby zawrócić?": "Вам разрешено въезжать на дорогу после этого знака, чтобы развернуться?",
         "Ten znak to \"Zakaz ruchu w obu kierunkach\"": "Этот знак - \"Движение запрещено в обоих направлениях\".",
         "Zakaz skrętu w lewo uniemożliwia zawracanie na najbliższym skrzyżowaniu": "Знак запрета поворота налево запрещает разворот на ближайшем перекрестке.",
-        "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
         "Znak widoczny na zdjęciu oznacza, że na skrzyżowaniu ruch odbywa się dookoła wyspy lub placu w kierunku wskazanym na znaku": "Знак, видимый на фотографии, означает, что на перекрестке движение осуществляется вокруг островка или площади в направлении, указанном на знаке.",
         "Na najbliższym skrzyżowaniu nie można skręcić w lewo i zawrócić": "На ближайшем перекрестке нельзя повернуть налево и развернуться.",
         "Widoczny na zdjęciu znak to zakaz zawracania": "Знак, видимый на фотографии, означает запрет на разворот.",
