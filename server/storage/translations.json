@@ -2810,7 +2810,8 @@
             "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³.",
             "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?",
-            "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?"
+            "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?",
+            "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?"
         }
     },
     "not_approved": {
@@ -3390,7 +3391,6 @@
         "Czy zawsze masz obowiązek zachowywać szczególną ostrożność, gdy przejeżdżasz obok autobusu szkolnego?": "Вы всегда обязаны соблюдать особую осторожность, когда проезжаете мимо школьного автобуса?",
         "Czy w tej sytuacji należy zrezygnować z manewru wyprzedzania?": "В этой ситуации следует отказаться от маневра обгона?",
         "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
-        "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
         "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
