@@ -2809,7 +2809,8 @@
             "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
             "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³.",
             "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
-            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?"
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?",
+            "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?"
         }
     },
     "not_approved": {
@@ -3914,7 +3915,6 @@
         "Został wciśnięty pedał sprzęgła": "Была нажата педаль сцепления.",
         "Została włączona funkcja ograniczenia prędkości pojazdu": "Была включена функция ограничения скорости транспортного средства.",
         "Pojazd osiągnął minimalną prędkość określoną przez producenta": "Транспортное средство достигло минимальной скорости, определенной производителем.",
-        "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?",
         "Czy postąpisz właściwie umieszczając ostrzegawczy trójkąt odblaskowy w odległości 30-50 m za pojazdem, który uległ awarii na drodze ekspresowej?": "Вы поступите правильно, расположив знак аварийной остановки на расстоянии 30-50 м позади аварийного транспортного средства на \"drodze ekspresowej\"?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo na tym skrzyżowaniu?": "В данной ситуации можно ли тебе повернуть направо на этом перекрестке?",
         "Na 1 miesiąc": "На 1 месяц.",
