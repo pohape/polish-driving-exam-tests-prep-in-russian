@@ -2816,7 +2816,9 @@
             "Zaświecenie się na czerwono lampki kontrolnej ciśnienia oleju silnikowego przed uruchomieniem silnika": "Загорание красной контрольной лампы давления моторного масла перед запуском двигателя.",
             "Emisja czarnych lub niebieskich gęstych spalin": "Выделение черного или синего густого дыма.",
             "Który z wymienionych przypadków może świadczyć o złym stanie technicznym samochodu osobowego?": "Какой из перечисленных случаев может свидетельствовать о плохом техническом состоянии автомобиля?",
-            "Czy skręcając w prawo na tym skrzyżowaniu jesteś zobowiązany do zatrzymania się przed sygnalizatorem?": "Поворачивая направо на этом перекрестке, обязан ли ты остановиться перед светофором?"
+            "Czy skręcając w prawo na tym skrzyżowaniu jesteś zobowiązany do zatrzymania się przed sygnalizatorem?": "Поворачивая направо на этом перекрестке, обязан ли ты остановиться перед светофором?",
+            "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
+            "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?"
         }
     },
     "not_approved": {
@@ -2888,10 +2890,8 @@
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
-        "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
         "W przedstawionej sytuacji zamierzasz jechać na wprost. Czy musisz się zatrzymać przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь ехать прямо. Нужно ли останавливаться перед въездом на перекресток?",
         "Czego możesz spodziewać się na tak oznakowanej drodze?": "Что вы можете ожидать на такой обозначенной дороге?",
-        "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
         "Czy osobę ranną, która odzyskała oddech, ale jest nieprzytomna, należy ułożyć w pozycji bocznej ustalonej?": "Следует ли поместить раненого, который восстановил дыхание, но без сознания, в фиксированное боковое положение?",
         "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Проезжая мимо видимой трамвайной остановки, вы освобождены от обязанности проявлять особую осторожность?",
         "Czy w tej sytuacji masz obowiązek kontynuować jazdę prawym pasem ruchu?": "В этой ситуации вы обязаны продолжать движение по правой полосе?",
