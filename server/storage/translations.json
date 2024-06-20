@@ -2812,7 +2812,10 @@
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?",
             "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?",
             "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
-            "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?"
+            "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
+            "Zaświecenie się na czerwono lampki kontrolnej ciśnienia oleju silnikowego przed uruchomieniem silnika": "Загорание красной контрольной лампы давления моторного масла перед запуском двигателя.",
+            "Emisja czarnych lub niebieskich gęstych spalin": "Выделение черного или синего густого дыма.",
+            "Który z wymienionych przypadków może świadczyć o złym stanie technicznym samochodu osobowego?": "Какой из перечисленных случаев может свидетельствовать о плохом техническом состоянии автомобиля?"
         }
     },
     "not_approved": {
@@ -3859,9 +3862,6 @@
         "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
         "Lampka kontrolna układu chłodzenia zapala się, gdy poziom płynu w układzie chłodzenia jest zbyt niski lub temperatura płynu jest zbyt wysoka": "Индикаторная лампа системы охлаждения загорается, когда уровень жидкости в системе охлаждения слишком низкий или температура жидкости слишком высокая.",
         "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
-        "Emisja czarnych lub niebieskich gęstych spalin": "Выделение черного или синего густого дыма.",
-        "Który z wymienionych przypadków może świadczyć o złym stanie technicznym samochodu osobowego?": "Какой из перечисленных случаев может свидетельствовать о плохом техническом состоянии автомобиля?",
-        "Zaświecenie się na czerwono lampki kontrolnej ciśnienia oleju silnikowego przed uruchomieniem silnika": "Загорание красной контрольной лампы давления моторного масла перед запуском двигателя.",
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
         "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
         "O uszkodzeniu akumulatora": "О повреждении аккумулятора.",
