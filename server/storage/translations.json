@@ -2808,7 +2808,8 @@
             "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
             "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
             "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³.",
-            "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?"
+            "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
+            "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?"
         }
     },
     "not_approved": {
