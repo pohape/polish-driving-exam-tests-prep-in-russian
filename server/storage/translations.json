@@ -2811,7 +2811,8 @@
             "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
             "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa ciągnikowi rolniczemu?": "В этой ситуации вы обязаны уступить дорогу сельскохозяйственному трактору?",
             "Czy w tej sytuacji wolno Ci zmienić zajmowany obecnie pas ruchu i skręcić w prawo?": "Разрешается ли тебе в этой ситуации изменить текущую полосу движения и повернуть направо?",
-            "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?"
+            "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby nakłonić kierującego pojazdem jadącym przed Tobą do szybszego opuszczenia skrzyżowania?": "В этой ситуации имеешь ли ты право использовать сигнал звуковой, чтобы склонить водителя транспортного средства, движущегося перед тобой, к более быстрому покиданию перекрестка?",
+            "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?"
         }
     },
     "not_approved": {
@@ -3090,7 +3091,6 @@
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi, którego motorniczy sygnalizuje zamiar skrętu w lewo?": "Вы обязаны уступить дорогу трамваю, водитель которого сигнализирует о намерении повернуть налево, в этой ситуации?",
         "Czy w tej sytuacji należy zatrzymać się przed widoczną linią bezwzględnego zatrzymania - stop?": "В данной ситуации нужно остановиться перед видимой линией абсолютной остановки - стоп?",
-        "Czy w tej sytuacji właściwie wybrałeś miejsce zatrzymania?": "Правильно ли ты выбрал место для остановки в этой ситуации?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
         "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
