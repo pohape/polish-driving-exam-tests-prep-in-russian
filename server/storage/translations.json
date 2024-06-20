@@ -2807,7 +2807,8 @@
             "Który z wymienionych elementów wyposażenia lub budowy pojazdu ma istotny wpływ na bezpieczeństwo podczas hamowania?": "Какой из указанных элементов обязательной части комплектации ТС или конструкции транспортного средства оказывает существенное влияние на безопасность при торможении?",
             "Czy w tej sytuacji masz obowiązek jazdy na wprost?": "В данной ситуации вы обязаны ехать прямо?",
             "Czy w przedstawionej sytuacji możesz wyprzedzić pojazd z prawej strony?": "Можете ли вы в представленной ситуации обогнать автомобиль с правой стороны?",
-            "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³."
+            "Posiadane od minimum 3 lat prawo jazdy kat. B uprawnia do kierowania motocyklem o pojemności skokowej silnika nie większej niż 125 cm3": "Право управления категории B, которым владеешь не менее 3 лет, даёт право управлять мотоциклом с рабочим объёмом двигателя не более 125 см³.",
+            "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?"
         }
     },
     "not_approved": {
@@ -3742,7 +3743,6 @@
         "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\".",
         "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz obowiązek zbliżyć się do środka jezdni?": "Вы собираетесь повернуть налево. В данной ситуации обязаны ли вы приблизиться к середине проезжей части?",
-        "Zamierzasz odpocząć. Czy w tym miejscu możesz skręcić w lewo, na parking?": "Вы собираетесь отдохнуть. Можете ли вы на этом месте повернуть налево, на парковку?",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
         "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
