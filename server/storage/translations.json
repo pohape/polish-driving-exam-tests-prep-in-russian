@@ -2828,7 +2828,11 @@
             "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
             "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
             "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
-            "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?"
+            "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?",
+            "Zwiększyć obroty silnika": "Увеличить обороты двигателя.",
+            "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
+            "Zatrzymać pojazd i wyłączyć silnik": "Остановить транспортное средство и выключить двигатель.",
+            "Które z wymienionych działań należy podjąć w pierwszej kolejności, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna ciśnienia oleju silnikowego?": "Какое из перечисленных действий необходимо предпринять в первую очередь, когда во время движения загорится красная контрольная лампа давления масла двигателя?"
         }
     },
     "not_approved": {
@@ -2885,7 +2889,6 @@
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 przejeżdża przed pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 3 первым, а транспортное средство № 2 вторым?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
-        "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Powinieneś posadzić dziecko na środku tylnego siedzenia": "Вы должны посадить ребенка в центр заднего сиденья.",
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
@@ -3777,9 +3780,6 @@
         "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
         "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
         "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
-        "Zwiększyć obroty silnika": "Увеличить обороты двигателя.",
-        "Zatrzymać pojazd i wyłączyć silnik": "Остановить транспортное средство и выключить двигатель.",
-        "Które z wymienionych działań należy podjąć w pierwszej kolejności, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna ciśnienia oleju silnikowego?": "Какое из перечисленных действий необходимо предпринять в первую очередь, когда во время движения загорится красная контрольная лампа давления масла двигателя?",
         "Czy w przedstawionej sytuacji skręcając w prawo masz obowiązek ustąpić pierwszeństwa pieszemu?": "Есть ли у вас обязанность уступить дорогу пешеходу, когда поворачиваете направо в данной ситуации?",
         "Czy podczas kierowania pojazdem masz obowiązek stale zachowywać ostrożność?": "Следует ли вам всегда проявлять осторожность при вождении транспортного средства?",
         "Czy w tej sytuacji, chcąc bezpiecznie wykonać manewr omijania, masz obowiązek zmniejszyć prędkość pojazdu?": "В данной ситуации, желая безопасно выполнить маневр объезда, обязан ли ты снизить скорость ТС?",
