@@ -2819,7 +2819,8 @@
             "Czy skręcając w prawo na tym skrzyżowaniu jesteś zobowiązany do zatrzymania się przed sygnalizatorem?": "Поворачивая направо на этом перекрестке, обязан ли ты остановиться перед светофором?",
             "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
             "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
-            "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?"
+            "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?",
+            "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?"
         }
     },
     "not_approved": {
