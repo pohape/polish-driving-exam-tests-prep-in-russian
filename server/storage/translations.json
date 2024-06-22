@@ -2837,7 +2837,9 @@
             "Chroni czubek głowy": "Защищает верхушку головы.",
             "Jaką funkcję pełni dobrze ustawiony zagłówek w razie wypadku drogowego?": "Какую функцию выполняет хорошо настроенный подголовник в случае дорожно-транспортного происшествия?",
             "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?",
-            "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu komunikacji miejskiej wykonujesz manewr omijania?": "Выполняете ли вы в этой ситуации маневр объезда, проезжая мимо стоящего транспортного средства общественного транспорта?"
+            "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu komunikacji miejskiej wykonujesz manewr omijania?": "Выполняете ли вы в этой ситуации маневр объезда, проезжая мимо стоящего транспортного средства общественного транспорта?",
+            "Omijanie - przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody": "Объезд - проезд (прохождение) мимо неподвижного ТС, участника движения или препятствия.",
+            "W tej sytuacji poruszamy się drogą z pierwszeństwem": "В этой ситуации мы движемся по главной дороге."
         }
     },
     "not_approved": {
@@ -3953,7 +3955,6 @@
         "Одним из общих правил является обязанность двигаться как можно ближе к правому краю": "Одним из общих правил является обязанность двигаться как можно ближе к правому краю.",
         "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью.",
         "Podczas uderzenia w tył pojazdu zagłówek chroni kręgi szyjne przed ich uszkodzeniem": "Во время удара в заднюю часть транспортного средства подголовник защищает шейные позвонки от повреждений.",
-        "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
-        "Omijanie - przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody": "Объезд - проезд (прохождение) мимо неподвижного ТС, участника движения или препятствия."
+        "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?"
     }
 }
