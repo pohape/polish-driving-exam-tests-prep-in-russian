@@ -2821,7 +2821,8 @@
             "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
             "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?",
             "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?",
-            "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?"
+            "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
+            "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?"
         }
     },
     "not_approved": {
@@ -3483,7 +3484,6 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы имеете преимущество перед ТС, приближающимся слева, поворачивая налево на этом перекрестке?",
-        "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?",
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
         "Czy widoczny nad Twoim pasem ruchu sygnał świetlny zobowiązuje Cię do zatrzymania się przed sygnalizatorem?": "Видимый над вашей полосой движения световой сигнал обязывает вас остановиться перед светофором?",
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
