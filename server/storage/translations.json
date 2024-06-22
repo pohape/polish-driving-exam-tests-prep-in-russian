@@ -2823,7 +2823,8 @@
             "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?",
             "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?",
             "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
-            "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?"
+            "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?",
+            "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?"
         }
     },
     "not_approved": {
@@ -3582,7 +3583,6 @@
         "Czy w przedstawionej sytuacji przed wjazdem na skrzyżowanie obowiązkowo trzeba się zatrzymać?": "В представленной ситуации перед въездом на перекресток обязательно нужно остановиться?",
         "Czy masz prawo zabezpieczyć miejsce wypadku, do którego dojechałeś, ustawiając odpowiednio swój samochód i włączając światła awaryjne?": "Имеете ли вы право обезопасить место происшествия, к которому вы подъехали, правильно расположив свой автомобиль и включив аварийные огни?",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
-        "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?",
         "Zużyciem opon": "Износом шин.",
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
         "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
