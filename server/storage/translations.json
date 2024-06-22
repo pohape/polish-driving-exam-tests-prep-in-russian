@@ -2836,7 +2836,8 @@
             "Chroni kręgi szyjne": "Защищает шейные позвонки.",
             "Chroni plecy": "Защищает спину.",
             "Chroni czubek głowy": "Защищает верхушку головы.",
-            "Jaką funkcję pełni dobrze ustawiony zagłówek w razie wypadku drogowego?": "Какую функцию выполняет хорошо настроенный подголовник в случае дорожно-транспортного происшествия?"
+            "Jaką funkcję pełni dobrze ustawiony zagłówek w razie wypadku drogowego?": "Какую функцию выполняет хорошо настроенный подголовник в случае дорожно-транспортного происшествия?",
+            "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?"
         }
     },
     "not_approved": {
@@ -3606,7 +3607,6 @@
         "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
         "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?",
         "Kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h w obszarze zabudowanym może się właśnie tak skończyć": "Управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте, может закончиться именно так.",
-        "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?",
         "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
         "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек касается передних противотуманных фар?",
         "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
