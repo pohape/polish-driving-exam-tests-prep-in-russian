@@ -2836,7 +2836,8 @@
             "Chroni plecy": "Защищает спину.",
             "Chroni czubek głowy": "Защищает верхушку головы.",
             "Jaką funkcję pełni dobrze ustawiony zagłówek w razie wypadku drogowego?": "Какую функцию выполняет хорошо настроенный подголовник в случае дорожно-транспортного происшествия?",
-            "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?"
+            "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?",
+            "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu komunikacji miejskiej wykonujesz manewr omijania?": "Выполняете ли вы в этой ситуации маневр объезда, проезжая мимо стоящего транспортного средства общественного транспорта?"
         }
     },
     "not_approved": {
@@ -3777,7 +3778,6 @@
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w prawo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka i skręcającym w lewo?": "В данной ситуации на ближайшем перекрестке вы намерены повернуть направо. Должны ли вы уступить дорогу велосипедистам, едущим навстречу и поворачивающим налево?",
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
         "Byłoby to nieuzasadnione użycie sygnału dźwiękowego": "Это было бы необоснованным использованием звукового сигнала.",
-        "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu komunikacji miejskiej wykonujesz manewr omijania?": "Выполняете ли вы в этой ситуации маневр объезда, проезжая мимо стоящего транспортного средства общественного транспорта?",
         "Oznakowanie poziome na jezdni uniemożliwia zmianę pasa": "Наземная (горизонтальная) разметка на проезжей части не позволяет сменить полосу.",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
@@ -3953,6 +3953,7 @@
         "Одним из общих правил является обязанность двигаться как можно ближе к правому краю": "Одним из общих правил является обязанность двигаться как можно ближе к правому краю.",
         "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью.",
         "Podczas uderzenia w tył pojazdu zagłówek chroni kręgi szyjne przed ich uszkodzeniem": "Во время удара в заднюю часть транспортного средства подголовник защищает шейные позвонки от повреждений.",
-        "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?"
+        "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
+        "Omijanie - przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody": "Объезд - проезд (прохождение) мимо неподвижного ТС, участника движения или препятствия."
     }
 }
