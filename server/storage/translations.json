@@ -2824,7 +2824,11 @@
             "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?",
             "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
             "Czy uczestnicząc w wypadku drogowym, w którym są zabici, po zawiadomieniu służb ratunkowych masz obowiązek pozostać na miejscu wypadku?": "Участвуя в дорожно-транспортном происшествии, в котором есть погибшие, после уведомления служб спасения, обязан ли ты оставаться на месте происшествия?",
-            "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?"
+            "Czy kierując samochodem osobowym w tunelu o długości 600 m położonym w obszarze zabudowanym, masz obowiązek utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 metrów?": "Ведя автомобиль в туннеле длиной 600 метров, расположенном в населенном пункте, обязаны ли вы сохранять дистанцию от впереди идущего ТС не меньше 50 метров?",
+            "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
+            "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
+            "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
+            "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?"
         }
     },
     "not_approved": {
@@ -2881,7 +2885,6 @@
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 przejeżdża przed pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 3 первым, а транспортное средство № 2 вторым?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, aby umożliwić przejazd osobie niepełnosprawnej?": "В этой ситуации вы обязаны остановиться, чтобы позволить инвалиду проехать?",
-        "Nie wpływają na długość drogi hamowania": "Они не влияют на длину тормозного пути.",
         "Kontynuować jazdę ze zmniejszoną prędkością": "Продолжайте движение на пониженной скорости.",
         "Powinieneś posadzić dziecko na środku tylnego siedzenia": "Вы должны посадить ребенка в центр заднего сиденья.",
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
@@ -2914,7 +2917,6 @@
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
-        "Tak, bo mogą skrócić drogę hamowania": "Да, потому что они могут сократить тормозной путь.",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
@@ -3555,8 +3557,6 @@
         "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
         "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
         "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?",
-        "Tak, bo mogą wydłużyć drogę hamowania": "Да, потому что они могут увеличить тормозной путь.",
-        "Czy leżące na jezdni liście mogą mieć wpływ na długość drogi zatrzymania pojazdu?": "Могут ли лежащие на проезжей части листья повлиять на длину тормозного пути транспортного средства?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
         "Utrzymywania stałej, niewielkiej prędkości jazdy": "Поддержание постоянной, небольшой скорости движения.",
