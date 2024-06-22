@@ -2820,7 +2820,8 @@
             "Czy w tej sytuacji po wykonaniu manewru wyprzedzania masz obowiązek zjechać na prawy pas ruchu?": "В этой ситуации, после выполнения обгона, вы обязаны выехать на правую полосу движения?",
             "Czy pokazana sytuacja przedstawia poprawnie utworzony \"korytarz życia\"?": "Представляет ли показанная ситуация правильно созданный \"коридор жизни\"?",
             "Czy w przedstawionej sytuacji kierujący obowiązany jest przepuścić pojazd z prawej strony?": "Обязан ли водитель в данной ситуации уступить дорогу транспортному средству справа?",
-            "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?"
+            "Czy w widocznej sytuacji zbliżasz się do drogi z pierwszeństwem?": "Видимая ситуация, приближаетесь ли вы к главной дороге?",
+            "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?"
         }
     },
     "not_approved": {
@@ -2938,7 +2939,6 @@
         "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
-        "Czy w tej sytuacji wolno Ci wyprzedzić jadący przed Tobą pojazd z prawej strony?": "В этой ситуации разрешено ли вам обгонять движущийся впереди автомобиль с правой стороны?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
