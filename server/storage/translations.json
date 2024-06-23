@@ -2846,7 +2846,11 @@
             "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
             "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
             "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
-            "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?"
+            "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?",
+            "Na czym powinna polegać prawidłowa technika jazdy w tej sytuacji drogowej?": "На чем должна основываться правильная техника вождения в этой дорожной ситуации?",
+            "Na dobraniu odpowiedniej prędkości jazdy": "На выборе подходящей скорости движения.",
+            "Na zajmowaniu środka jezdni": "На занятии центра проезжей части.",
+            "Na jeździe z możliwie najniższym biegiem": "На самой низкой передаче."
         }
     },
     "not_approved": {
@@ -3345,10 +3349,6 @@
         "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
         "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
         "W którym z wymienionych przypadków, masz obowiązek wymienić oponę na nową w samochodzie osobowym?": "В каком из перечисленных случаев, вы обязаны заменить шину на новую в легковом автомобиле?",
-        "Na jeździe z możliwie najniższym biegiem": "На самой низкой передаче.",
-        "Na zajmowaniu środka jezdni": "На занятии центра проезжей части.",
-        "Na dobraniu odpowiedniej prędkości jazdy": "На выборе подходящей скорости движения.",
-        "Na czym powinna polegać prawidłowa technika jazdy w tej sytuacji drogowej?": "На чем должна основываться правильная техника вождения в этой дорожной ситуации?",
         "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги.",
         "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
         "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
