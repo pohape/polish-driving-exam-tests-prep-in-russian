@@ -2854,7 +2854,10 @@
             "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительное техническое осмотр автомобиля?",
             "Po zmianie właściciela pojazdu": "После смены владельца транспортного средства.",
             "Po skierowaniu przez organ kontroli ruchu drogowego": "После направления органом контроля дорожного движения.",
-            "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО."
+            "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
+            "14,95 metra": "14,95 метра.",
+            "18,75 metra": "18,75 метра.",
+            "19,85 metra": "19,85 метра."
         }
     },
     "not_approved": {
@@ -3560,9 +3563,6 @@
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
         "Czy w przedstawionej sytuacji wyprzedzanie jest dozwolone?": "Разрешён ли обгон в представленной ситуации?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, приближающимся слева?",
-        "19,85 metra": "19,85 метра.",
-        "18,75 metra": "18,75 метра.",
-        "14,95 metra": "14,95 метра.",
         "Lusterko wewnętrzne": "Внутреннее зеркало.",
         "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя.",
         "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
@@ -3960,6 +3960,7 @@
         "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
-        "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации)."
+        "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации).",
+        "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации."
     }
 }
