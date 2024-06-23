@@ -2850,7 +2850,11 @@
             "Na czym powinna polegać prawidłowa technika jazdy w tej sytuacji drogowej?": "На чем должна основываться правильная техника вождения в этой дорожной ситуации?",
             "Na dobraniu odpowiedniej prędkości jazdy": "На выборе подходящей скорости движения.",
             "Na zajmowaniu środka jezdni": "На занятии центра проезжей части.",
-            "Na jeździe z możliwie najniższym biegiem": "На самой низкой передаче."
+            "Na jeździe z możliwie najniższym biegiem": "На самой низкой передаче.",
+            "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительное техническое осмотр автомобиля?",
+            "Po zmianie właściciela pojazdu": "После смены владельца транспортного средства.",
+            "Po skierowaniu przez organ kontroli ruchu drogowego": "После направления органом контроля дорожного движения.",
+            "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО."
         }
     },
     "not_approved": {
@@ -3523,11 +3527,7 @@
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
         "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
-        "Po zmianie właściciela pojazdu": "После смены владельца транспортного средства.",
-        "Po skierowaniu przez organ kontroli ruchu drogowego": "После направления органом контроля дорожного движения.",
         "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
-        "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
-        "W jakim przypadku masz obowiązek przeprowadzić dodatkowe badanie techniczne samochodu osobowego?": "В каком случае вы обязаны провести дополнительное техническое осмотр автомобиля?",
         "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
