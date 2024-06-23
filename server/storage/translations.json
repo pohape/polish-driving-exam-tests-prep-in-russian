@@ -2839,7 +2839,8 @@
             "Czy w przedstawionej sytuacji kierujący pojazdami są obowiązani umożliwić zmianę pasa ruchu pojazdom znajdującym się na pasie zanikającym ?": "В представленной ситуации водители транспортных средств обязаны предоставить возможность смены полосы движения транспортным средствам, находящимся на исчезающей полосе?",
             "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu komunikacji miejskiej wykonujesz manewr omijania?": "Выполняете ли вы в этой ситуации маневр объезда, проезжая мимо стоящего транспортного средства общественного транспорта?",
             "Omijanie - przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody": "Объезд - проезд (прохождение) мимо неподвижного ТС, участника движения или препятствия.",
-            "W tej sytuacji poruszamy się drogą z pierwszeństwem": "В этой ситуации мы движемся по главной дороге."
+            "W tej sytuacji poruszamy się drogą z pierwszeństwem": "В этой ситуации мы движемся по главной дороге.",
+            "Czy za tym znakiem dozwolone jest wyprzedzanie rowerzysty?": "Разрешен ли обгон велосипедиста после этого знака?"
         }
     },
     "not_approved": {
