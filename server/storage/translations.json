@@ -2866,7 +2866,8 @@
             "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
             "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации.",
             "Straż Miejska": "Муниципальная стража.",
-            "Zarządca drogi": "Управляющий дорогой."
+            "Zarządca drogi": "Управляющий дорогой.",
+            "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?"
         }
     },
     "not_approved": {
@@ -3427,7 +3428,6 @@
         "Czy wjeżdżając na widoczne skrzyżowanie masz obowiązek - w razie potrzeby - ustąpić pierwszeństwa uczestnikom ruchu nadjeżdżającym z lewej strony?": "При въезде на видимый перекресток обязаны ли вы - в случае необходимости - уступить дорогу участникам движения, приближающимся слева?",
         "Czy zawsze masz obowiązek zachowywać szczególną ostrożność, gdy przejeżdżasz obok autobusu szkolnego?": "Вы всегда обязаны соблюдать особую осторожность, когда проезжаете мимо школьного автобуса?",
         "Czy w tej sytuacji należy zrezygnować z manewru wyprzedzania?": "В этой ситуации следует отказаться от маневра обгона?",
-        "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
         "Zamierzasz jechać na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka planuje skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы планируете ехать прямо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество перед ним?",
         "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
         "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
