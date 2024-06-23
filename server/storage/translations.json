@@ -2841,7 +2841,8 @@
             "Omijanie - przejeżdżanie (przechodzenie) obok nieporuszającego się pojazdu, uczestnika ruchu lub przeszkody": "Объезд - проезд (прохождение) мимо неподвижного ТС, участника движения или препятствия.",
             "W tej sytuacji poruszamy się drogą z pierwszeństwem": "В этой ситуации мы движемся по главной дороге.",
             "Czy za tym znakiem dozwolone jest wyprzedzanie rowerzysty?": "Разрешен ли обгон велосипедиста после этого знака?",
-            "Czy masz obowiązek użyć kierunkowskazu, jeśli zamierzasz wjechać na prawy pas?": "Вы должны включить указатель поворота, если собираетесь перестроиться на правую полосу?"
+            "Czy masz obowiązek użyć kierunkowskazu, jeśli zamierzasz wjechać na prawy pas?": "Вы должны включить указатель поворота, если собираетесь перестроиться на правую полосу?",
+            "Wystąpić z wnioskiem o wydanie zalegalizowanego wtórnika tablicy rejestracyjnej": "Подать заявление на выдачу узаконенной копии регистрационного номерного знака."
         }
     },
     "not_approved": {
@@ -3959,7 +3960,6 @@
         "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
-        "Wystąpić z wnioskiem o wydanie zalegalizowanego wtórnika tablicy rejestracyjnej": "Подать заявление на выдачу узаконенной копии регистрационного номерного знака.",
         "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации)."
     }
 }
