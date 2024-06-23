@@ -2842,7 +2842,11 @@
             "W tej sytuacji poruszamy się drogą z pierwszeństwem": "В этой ситуации мы движемся по главной дороге.",
             "Czy za tym znakiem dozwolone jest wyprzedzanie rowerzysty?": "Разрешен ли обгон велосипедиста после этого знака?",
             "Czy masz obowiązek użyć kierunkowskazu, jeśli zamierzasz wjechać na prawy pas?": "Вы должны включить указатель поворота, если собираетесь перестроиться на правую полосу?",
-            "Wystąpić z wnioskiem o wydanie zalegalizowanego wtórnika tablicy rejestracyjnej": "Подать заявление на выдачу узаконенной копии регистрационного номерного знака."
+            "Wystąpić z wnioskiem o wydanie zalegalizowanego wtórnika tablicy rejestracyjnej": "Подать заявление на выдачу узаконенной копии регистрационного номерного знака.",
+            "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
+            "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
+            "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
+            "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?"
         }
     },
     "not_approved": {
@@ -2959,7 +2963,6 @@
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
-        "Pojazdy silnikowe złączone w celu holowania": "Автомобили соединены для буксировки.",
         "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
@@ -3403,9 +3406,6 @@
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
         "Na autostradzie": "На автостраде.",
         "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
-        "Co nazywamy zespołem pojazdów?": "Что мы называем автопоездом?",
-        "Motocykl z bocznym wózkiem": "Мотоцикл с боковым прицепом.",
-        "Samochód osobowy z przyczepą": "Легковой автомобиль с прицепом.",
         "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
         "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
