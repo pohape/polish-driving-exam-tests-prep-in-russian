@@ -2861,7 +2861,11 @@
             "Duża prędkość jazdy": "Высокая скорость движения.",
             "Dobra przejrzystość powietrza": "Хорошая прозрачность воздуха.",
             "Zbyt mała prędkość": "Слишком низкая скорость.",
-            "Jaki czynnik powoduje zmniejszenie pola widzenia kierującego pojazdem?": "Какой фактор вызывает сужение поля зрения водителя транспортного средства?"
+            "Jaki czynnik powoduje zmniejszenie pola widzenia kierującego pojazdem?": "Какой фактор вызывает сужение поля зрения водителя транспортного средства?",
+            "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации).",
+            "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
+            "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации.",
+            "Straż Miejska": "Муниципальная стража."
         }
     },
     "not_approved": {
@@ -3349,8 +3353,6 @@
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Zarządca drogi": "Управляющий дорогой.",
-        "Straż Miejska": "Муниципальная стража.",
-        "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
         "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
@@ -3964,9 +3966,9 @@
         "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
-        "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации).",
-        "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации.",
         "Cofanie w strefie zamieszkania jest dozwolone": "Движение задним ходом в жилой зоне разрешено.",
-        "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))"
+        "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))",
+        "Należy dostosować prędkość do panujących warunków": "Необходимо адаптировать скорость к текущим дорожным условиям.",
+        "Zwrotu zatrzymanego dowodu rejestracyjnego może dokonać jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania, a w przypadku nieprawidłowo wyznaczonego terminu badania technicznego - po jego ponownym ustaleniu, przez przekazanie do centralnej ewidencji pojazdów informacji o zwrocie": "Получить обратно временно изъятое свидетельство о регистрации может уполномоченный на проведение технических осмотров орган после проведения технического осмотра, соответствующего причине временного изъятия, а в случае неправильного определения срока технического осмотра - после его повторного назначения, путем передачи в центральный реестр транспортных средств информации о возврате."
     }
 }
