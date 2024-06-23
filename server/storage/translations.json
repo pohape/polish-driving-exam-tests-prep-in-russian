@@ -2867,7 +2867,8 @@
             "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации.",
             "Straż Miejska": "Муниципальная стража.",
             "Zarządca drogi": "Управляющий дорогой.",
-            "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?"
+            "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
+            "Jaki odstęp należy zachować podczas wyprzedzania samochodu osobowego?": "Какую дистанцию следует соблюдать во время обгона автомобиля?"
         }
     },
     "not_approved": {
@@ -3701,7 +3702,6 @@
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
         "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какую из этих действий ты не имеешь права выполнять, когда участвуешь в аварии, в которой есть погибшие?",
         "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы оно не затрудняло движение.",
-        "Jaki odstęp należy zachować podczas wyprzedzania samochodu osobowego?": "Какую дистанцию следует соблюдать во время обгона автомобиля?",
         "Czy w tej sytuacji, dojeżdżając drogą dwukierunkową do wierzchołka wzniesienia, masz prawo wyprzedzić motocykl?": "Имеешь ли ты право обогнать мотоцикл, подъезжая дорогой с двусторонним движением к вершине возвышенности?",
         "Czy w tej sytuacji za znakiem masz prawo zaparkować na jezdni pojazd silnikowy?": "В данной ситуации после знака имеете ли вы право припарковать на проезжей части моторное транспортное средство?",
         "Czy za widocznymi znakami zakazu dozwolony jest postój pojazdu silnikowego na chodniku?": "Возможна ли стоянка моторного транспортного средства на тротуаре за видимыми запрещающими знаками?",
