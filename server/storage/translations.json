@@ -2865,7 +2865,8 @@
             "Niezwłocznie zastąpić tablicę rejestracyjną inną, bez znaku legalizacji": "Немедленно заменить регистрационный номер на другой, без знака утверждения (легализации).",
             "Kto może zwrócić dowód rejestracyjny, w przypadku jego zatrzymania podczas kontroli ruchu drogowego, w związku ze stwierdzeniem, że pojazd zagraża porządkowi ruchu?": "Кто может забрать свидетельство о регистрации в случае его изъятия во время проверки дорожного движения, в связи с установлением, что транспортное средство представляет угрозу безопасности дорожного движения?",
             "Jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania dowodu rejestracyjnego": "Орган, уполномоченный проводить технические осмотры, после проведения технического осмотра соответствует причине временного изъятия свидетельства о регистрации.",
-            "Straż Miejska": "Муниципальная стража."
+            "Straż Miejska": "Муниципальная стража.",
+            "Zarządca drogi": "Управляющий дорогой."
         }
     },
     "not_approved": {
@@ -3352,7 +3353,6 @@
         "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
-        "Zarządca drogi": "Управляющий дорогой.",
         "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
@@ -3969,6 +3969,8 @@
         "Cofanie w strefie zamieszkania jest dozwolone": "Движение задним ходом в жилой зоне разрешено.",
         "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))",
         "Należy dostosować prędkość do panujących warunków": "Необходимо адаптировать скорость к текущим дорожным условиям.",
-        "Zwrotu zatrzymanego dowodu rejestracyjnego może dokonać jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania, a w przypadku nieprawidłowo wyznaczonego terminu badania technicznego - po jego ponownym ustaleniu, przez przekazanie do centralnej ewidencji pojazdów informacji o zwrocie": "Получить обратно временно изъятое свидетельство о регистрации может уполномоченный на проведение технических осмотров орган после проведения технического осмотра, соответствующего причине временного изъятия, а в случае неправильного определения срока технического осмотра - после его повторного назначения, путем передачи в центральный реестр транспортных средств информации о возврате."
+        "Zwrotu zatrzymanego dowodu rejestracyjnego może dokonać jednostka upoważniona do przeprowadzania badań technicznych po przeprowadzeniu badania technicznego odpowiadającego przyczynie zatrzymania, a w przypadku nieprawidłowo wyznaczonego terminu badania technicznego - po jego ponownym ustaleniu, przez przekazanie do centralnej ewidencji pojazdów informacji o zwrocie": "Получить обратно временно изъятое свидетельство о регистрации может уполномоченный на проведение технических осмотров орган после проведения технического осмотра, соответствующего причине временного изъятия, а в случае неправильного определения срока технического осмотра - после его повторного назначения, путем передачи в центральный реестр транспортных средств информации о возврате.",
+        "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя.",
+        "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене."
     }
 }
