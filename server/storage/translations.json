@@ -2857,7 +2857,11 @@
             "Po wygaśnięciu umowy ubezpieczenia OC": "После истечения срока действия договора ОСАГО.",
             "14,95 metra": "14,95 метра.",
             "18,75 metra": "18,75 метра.",
-            "19,85 metra": "19,85 метра."
+            "19,85 metra": "19,85 метра.",
+            "Duża prędkość jazdy": "Высокая скорость движения.",
+            "Dobra przejrzystość powietrza": "Хорошая прозрачность воздуха.",
+            "Zbyt mała prędkość": "Слишком низкая скорость.",
+            "Jaki czynnik powoduje zmniejszenie pola widzenia kierującego pojazdem?": "Какой фактор вызывает сужение поля зрения водителя транспортного средства?"
         }
     },
     "not_approved": {
