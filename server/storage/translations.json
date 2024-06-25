@@ -11,7 +11,8 @@
         "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
-        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?"
+        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
+        "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Вы переводите текст как: \"В данной ситуации вы приближаетесь к равнозначному перекрестку?\""
     },
     "approved": {
         "upewninie się": {
@@ -3716,7 +3717,6 @@
         "Czy w przedstawionej sytuacji na tym skrzyżowaniu masz prawo zawrócić?": "Имеешь ли ты право развернуться в данной ситуации на этом перекрестке?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator?": "Имеешь ли ты право въехать за светофор в этой ситуации?",
         "Czy w widocznej sytuacji dopuszczalne jest skręcanie w lewo i zawracanie na skrzyżowaniu?": "Допускается ли в данной видимой ситуации поворот налево и разворот на перекрестке?",
-        "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Вы переводите текст как: \"В данной ситуации вы приближаетесь к равнозначному перекрестку?\"",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka na wprost?": "В представленной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу велосипедистам, едущим напрямую с встречного направления?",
         "Czy w przedstawionej sytuacji minimalna odległość jaką należy zachować od rowerzysty podczas wyprzedzania wynosi 1 m?": "В представленной ситуации минимальное расстояние, которое необходимо соблюдать от велосипедиста во время обгона, составляет 1 метр?",
         "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
