@@ -2873,7 +2873,8 @@
             "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": "В данной ситуации вам необходимо оказать необходимую помощь пострадавшему в аварии?",
             "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
             "Zabezpieczę go przed przemieszczaniem": "Я защищу его от перемещения.",
-            "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?"
+            "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?",
+            "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?": "Как следует поступить, во время езды на легковом автомобиле по дороге, покрытой снегом?"
         }
     },
     "not_approved": {
@@ -3370,7 +3371,6 @@
         "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги.",
         "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
         "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
-        "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?": "Как следует поступить, во время езды на легковом автомобиле по дороге, покрытой снегом?",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
