@@ -2879,7 +2879,11 @@
             "Kierując samochodem osobowym podczas przewożenia osoby niepełnosprawnej legitymującej się kartą parkingową powinieneś:": "Управляя автомобилем во время перевозки человека с ограниченными возможностями, предъявляющего парковочную карту, ты должен:",
             "obserwować drogę i jej otoczenie, również w lusterkach pojazdu": "наблюдать за дорогой и её окружением, также в зеркалах транспортного средства.",
             "stale zachowywać szczególną ostrożność,": "Всегда соблюдать особую осторожность.",
-            "zawsze używać świateł mijania,": "всегда использовать ближний свет фар,"
+            "zawsze używać świateł mijania,": "всегда использовать ближний свет фар,",
+            "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
+            "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
+            "karta pojazdu": "карта автомобиля.",
+            "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле."
         }
     },
     "not_approved": {
@@ -2987,7 +2991,6 @@
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
-        "karta pojazdu": "карта автомобиля.",
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
@@ -3374,8 +3377,6 @@
         "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
         "W którym z wymienionych przypadków, masz obowiązek wymienić oponę na nową w samochodzie osobowym?": "В каком из перечисленных случаев, вы обязаны заменить шину на новую в легковом автомобиле?",
         "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги.",
-        "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
-        "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
@@ -3743,7 +3744,6 @@
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
         "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
-        "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
