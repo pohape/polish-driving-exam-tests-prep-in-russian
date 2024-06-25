@@ -2874,7 +2874,8 @@
             "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
             "Zabezpieczę go przed przemieszczaniem": "Я защищу его от перемещения.",
             "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?",
-            "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?": "Как следует поступить, во время езды на легковом автомобиле по дороге, покрытой снегом?"
+            "Jak należy postąpić, podczas jazdy samochodem osobowym po drodze pokrytej śniegiem?": "Как следует поступить, во время езды на легковом автомобиле по дороге, покрытой снегом?",
+            "dowód rejestracyjny": "Свидетельство о регистрации."
         }
     },
     "not_approved": {
@@ -3744,7 +3745,6 @@
         "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
         "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
-        "dowód rejestracyjny": "Свидетельство о регистрации.",
         "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
         "Czy w tej sytuacji powinieneś wziąć pod uwagę, że rowerzysta może wjechać na jezdnię?": "В этой ситуации ты должен учесть, что велосипедист может выехать на проезжую часть?",
