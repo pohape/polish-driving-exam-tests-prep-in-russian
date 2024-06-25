@@ -2871,7 +2871,9 @@
             "Czy w tej sytuacji masz prawo przejechać przez przejście dla pieszych bez zmniejszania prędkości?": "В этой ситуации имеешь ли ты право проехать через пешеходный переход без снижения скорости?",
             "Jaki odstęp należy zachować podczas wyprzedzania samochodu osobowego?": "Какую дистанцию следует соблюдать во время обгона автомобиля?",
             "Czy w tej sytuacji masz obowiązek udzielić niezbędnej pomocy ofierze wypadku?": "В данной ситуации вам необходимо оказать необходимую помощь пострадавшему в аварии?",
-            "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?"
+            "Czy w tym miejscu, bezpośrednio przed przejściem dla pieszych, wolno Ci zmienić pas ruchu?": "В этом месте, непосредственно перед пешеходным переходом, разрешено ли тебе менять полосу движения?",
+            "Zabezpieczę go przed przemieszczaniem": "Я защищу его от перемещения.",
+            "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?"
         }
     },
     "not_approved": {
@@ -3015,7 +3017,6 @@
         "Bezpośrednio przed rozpoczęciem podróży": "Непосредственно перед началом поездки.",
         "Po zakończeniu jazdy": "После окончания поездки.",
         "Co najmniej dobę przed zaplanowaną podróżą": "Как минимум за сутки до запланированной поездки.",
-        "Zabezpieczę go przed przemieszczaniem": "Я защищу его от перемещения.",
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
@@ -3615,7 +3616,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "У вас есть преимущество перед ТС, приближающимся слева?",
         "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na drodze ekspresowej?": "Обязан ли водитель транспортного средства сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии на \"drodze ekspresowej\"?",
         "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed skręcającym w lewo motocyklistą?": "Вы собираетесь повернуть налево. У вас есть преимущество перед мотоциклистом, поворачивающим налево?",
-        "W jaki sposób przewieziesz ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы перевезете груз в прицепе, буксируемом легковым автомобилем?",
         "Nie, takie uprawnienia posiada tylko policja": "Нет, такие полномочия имеет только полиция.",
         "Tak, w tym zakresie przysługują takie same prawa jak policji": "Да, в этом случае предусмотрены те же права, что и у полиции.",
         "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
