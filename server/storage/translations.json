@@ -2893,7 +2893,8 @@
             "Przez 15 minut": "На протяжении 15 минут.",
             "Dopóki ciało poszkodowanego zachowuje właściwą ciepłotę": "Пока тело пострадавшего сохраняет надлежащее тепло.",
             "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые сумки положу самыми последними и самыми нижними, в центральной части багажника.",
-            "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими."
+            "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими.",
+            "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?"
         }
     },
     "not_approved": {
@@ -3909,7 +3910,6 @@
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdami jadącymi drogą poprzeczną?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, движущимися по поперечной дороге?",
         "Czy wolno Ci zwiększać prędkość, jeżeli jesteś wyprzedzany przez inny pojazd?": "Разрешено ли тебе увеличивать скорость, если тебя обгоняет другой транспортное средство?",
         "Czy w tej sytuacji bezpośrednio za pojazdem uprzywilejowanym dozwolone jest poruszanie się dowolnych pojazdów?": "Разрешено ли в этой ситуации движение любых транспортных средств непосредственно за привилегированным транспортным средством?",
-        "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?",
         "Kierujący pojazdem nie może zajmować więcej niż jednego pasa ruchu": "Водитель транспортного средства не может занимать более одной полосы движения.",
         "Włączanie się do ruchu następuje przy wyjeżdżaniu ze strefy zamieszkania": "Включиться в движение происходит при выезде из жилой зоны.",
         "Szczególna ostrożność nie jest potrzebna podczas przejazdu w takich okolicznościach": "Особая осторожность не нужна при проезде в таких обстоятельствах.",
