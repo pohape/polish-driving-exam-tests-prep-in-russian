@@ -2886,7 +2886,8 @@
             "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
             "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
             "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
-            "Skręcasz w lewo. Czy w tej sytuacji wolno Ci przejechać przed tramwajem?": "Вы поворачиваете налево. Разрешается ли вам в этой ситуации проехать перед трамваем?"
+            "Skręcasz w lewo. Czy w tej sytuacji wolno Ci przejechać przed tramwajem?": "Вы поворачиваете налево. Разрешается ли вам в этой ситуации проехать перед трамваем?",
+            "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?"
         }
     },
     "not_approved": {
@@ -2928,7 +2929,6 @@
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
         "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
-        "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?",
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
         "Czy w tej sytuacji powodujesz zagrożenie bezpieczeństwa na drodze?": "Вы создаете угрозу безопасности на дороге в этой ситуации?",
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
