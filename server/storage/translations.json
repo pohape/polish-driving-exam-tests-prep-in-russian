@@ -2895,7 +2895,12 @@
             "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые сумки положу самыми последними и самыми нижними, в центральной части багажника.",
             "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими.",
             "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?",
-            "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности."
+            "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности.",
+            "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
+            "Nie ma żadnych przeciwwskazań": "Нет никаких запретов.",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu?": "Разрешено ли тебе в этой ситуации повернуть направо на перекрестке?",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
+            "Skręt w prawo uniemożliwia oznakowanie poziome jezdni": "Поворот направо невозможен из-за наземной (горизонтальной) разметки проезжей части."
         }
     },
     "not_approved": {
@@ -2955,7 +2960,6 @@
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
         "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "Для обгона перед пешеходным переходом, где движение направляется.",
         "Czy zajmujesz właściwy pas ruchu, jeśli na najbliższym skrzyżowaniu zamierzasz skręcić w lewo?": "Занимаете ли вы правильную полосу движения, если вы собираетесь повернуть налево на ближайшем перекрестке?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
@@ -3103,7 +3107,6 @@
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd bezpośrednio przed przejściem dla pieszych?": "В данной ситуации имеете ли вы право припарковать транспортное средство непосредственно перед пешеходным переходом?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo na skrzyżowaniu?": "Разрешено ли тебе в этой ситуации повернуть направо на перекрестке?",
         "Tak, wolno": "Да, разрешается.",
         "Czy wolno samochodem ciężarowym wyposażonym w pasy bezpieczeństwa przewozić dziecko do lat trzech niezabezpieczone pasami bezpieczeństwa i fotelikiem bezpieczeństwa?": "Водителю грузового автомобиля, оснащенного ремнями безопасности, не разрешается перевозить ребенка до трех лет без использования ремней безопасности и детского автокресла.",
         "Nie - dziecko do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko taksówką": "Нет - ребенка до трех лет разрешается перевозить без пристегивания ремнями безопасности только в такси.",
@@ -3404,7 +3407,6 @@
         "Odpowiednio wcześnie, tak aby uniknąć hamowania na łuku drogi": "Своевременно, чтобы избежать торможения на повороте дороги.",
         "Wjeżdżając w łuk": "Въезжая на изгиб.",
         "W którym momencie, kierując motocyklem, powinieneś rozpocząć hamowanie zamierzając pokonać ostry łuk drogi?": "В какой момент, управляя мотоциклом, ты должен начать торможение, намереваясь преодолеть крутой поворот дороги?",
-        "Czy w tej sytuacji masz obowiązek zachowania szczególnej ostrożności?": "В этой ситуации у вас есть обязанность проявления особой осторожности?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
         "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
         "starosta wyda decyzję administracyjną o przedłużeniu okresu, na który zatrzymano prawo jazdy o 6 miesięcy od chwili ujawnienia czynu,": "Староста вынесет административное решение о продлении срока, на который были изъяты водительские права, на 6 месяцев с момента обнаружения правонарушения.",
