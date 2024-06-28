@@ -2883,7 +2883,8 @@
             "Unikać gwałtownych ruchów kierownicą": "Избегать резких движений рулём.",
             "Na podjazdach zwiększyć prędkość": "На подъемах увеличить скорость.",
             "karta pojazdu": "карта автомобиля.",
-            "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле."
+            "nalepka kontrolna na przedniej szybie": "контрольная наклейка на переднем стекле.",
+            "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?"
         }
     },
     "not_approved": {
@@ -2983,7 +2984,6 @@
         "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
-        "Czy w tej sytuacji musisz przewidywać, że zza tramwaju wyjedzie rowerzysta?": "В этой ситуации вы должны предвидеть, что из-за трамвая выедет велосипедист?",
         "Który z wymienionych czynników, może spowodować szybsze zużywanie się opon na kołach przednich w samochodzie osobowym?": "Какой из перечисленных факторов может привести к более быстрому износу шин на передних колесах в легковом автомобиле?",
         "Niewielkie obciążenie przedniej osi pojazdu.Небольшая нагрузка на переднюю ось автомобиля": "Небольшая нагрузка на переднюю ось автомобиля.Небольшая нагрузка на переднюю ось автомобиля.",
         "Nierówna nawierzchnia jezdni.Неровное покрытие проезжей части": "Неровное покрытие проезжей части.Неровное покрытие проезжей части.",
