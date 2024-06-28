@@ -2902,7 +2902,8 @@
             "Czy w tej sytuacji wolno Ci skręcić w prawo?": "В этой ситуации вам разрешено повернуть направо?",
             "Skręt w prawo uniemożliwia oznakowanie poziome jezdni": "Поворот направо невозможен из-за наземной (горизонтальной) разметки проезжей части.",
             "Zamierzając zawrócić należy zająć skrajny lewy pas": "Собираясь развернуться, необходимо занять крайнюю левую полосу.",
-            "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?"
+            "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?",
+            "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи."
         }
     },
     "not_approved": {
@@ -3902,7 +3903,6 @@
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?",
-        "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи.",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену бригады скорой медицинской помощи.",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
@@ -3992,6 +3992,7 @@
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
         "Wykonywanie manewru wyprzedzania nie zwalnia z przestrzegania ograniczeń prędkości": "Выполнение маневра обгона не освобождает от соблюдения ограничений скорости.",
         "Głównym zadaniem systemu ASR jest przeciwdziałanie poślizgowi kół podczas przyspieszania": "Основной задачей системы ASR является противодействие проскальзыванию колес во время ускорения.",
-        "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч."
+        "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч.",
+        "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника."
     }
 }
