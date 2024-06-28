@@ -2888,7 +2888,10 @@
             "Czy w tej sytuacji masz prawo przekroczyć dopuszczalną prędkość, by jak najszybciej zakończyć manewr wyprzedzania?": "В этой ситуации вы имеете право превысить допустимую скорость, чтобы как можно быстрее завершить маневр обгона?",
             "Skręcasz w lewo. Czy w tej sytuacji wolno Ci przejechać przed tramwajem?": "Вы поворачиваете налево. Разрешается ли вам в этой ситуации проехать перед трамваем?",
             "Czy w tej sytuacji masz prawo użyć sygnału dźwiękowego, aby ostrzec pieszego o niebezpieczeństwie?": "Имеете ли вы право в этой ситуации использовать звуковой сигнал, чтобы предупредить пешехода об опасности?",
-            "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи."
+            "Do momentu przyjazdu zespołu ratownictwa medycznego": "До прибытия бригады скорой медицинской помощи.",
+            "Jak długo należy prowadzić uciskanie klatki piersiowej i sztuczne oddychanie u osoby z nagłym zatrzymaniem krążenia?": "Как долго следует проводить компрессию грудной клетки и искусственное дыхание у человека с внезапной остановкой сердца?",
+            "Przez 15 minut": "На протяжении 15 минут.",
+            "Dopóki ciało poszkodowanego zachowuje właściwą ciepłotę": "Пока тело пострадавшего сохраняет надлежащее тепло."
         }
     },
     "not_approved": {
@@ -3037,9 +3040,6 @@
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
-        "Przez 15 minut": "На протяжении 15 минут.",
-        "Jak długo należy prowadzić uciskanie klatki piersiowej i sztuczne oddychanie u osoby z nagłym zatrzymaniem krążenia?": "Как долго следует проводить компрессию грудной клетки и искусственное дыхание у человека с внезапной остановкой сердца?",
-        "Dopóki ciało poszkodowanego zachowuje właściwą ciepłotę": "Пока тело пострадавшего сохраняет надлежащее тепло.",
         "Aż zacznie nią poruszać": "Пока он не начнет ее шевелить.",
         "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?",
         "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
