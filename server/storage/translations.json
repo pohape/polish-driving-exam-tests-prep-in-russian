@@ -2904,7 +2904,10 @@
             "Zamierzając zawrócić należy zająć skrajny lewy pas": "Собираясь развернуться, необходимо занять крайнюю левую полосу.",
             "Czy przewożąc pasażera w wieku 6 lat motorowerem masz prawo poruszać się z prędkością 50 km\/h?": "Перевозя пассажира в возрасте 6 лет мопедом, имеешь ли ты право двигаться со скоростью 50 км\/ч?",
             "Bez względu na okoliczności resuscytację należy zawsze prowadzić do momentu przyjazdu zespołu ratownictwa medycznego": "Несмотря на обстоятельства, реанимацию всегда следует проводить до момента прибытия бригады скорой медицинской помощи.",
-            "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?"
+            "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby ostrzec dzieci, że zbliżasz się do przejścia?": "В этой ситуации обязаны ли вы использовать звуковой сигнал, чтобы предупредить детей о том, что приближаетесь к переходу?",
+            "Na 3 miesięce": "На 3 месяца.",
+            "Na 6 miesięcy": "На 6 месяцев.",
+            "Na 1 miesiąc": "На 1 месяц."
         }
     },
     "not_approved": {
@@ -3937,9 +3940,6 @@
         "Pojazd osiągnął minimalną prędkość określoną przez producenta": "Транспортное средство достигло минимальной скорости, определенной производителем.",
         "Czy postąpisz właściwie umieszczając ostrzegawczy trójkąt odblaskowy w odległości 30-50 m za pojazdem, który uległ awarii na drodze ekspresowej?": "Вы поступите правильно, расположив знак аварийной остановки на расстоянии 30-50 м позади аварийного транспортного средства на \"drodze ekspresowej\"?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo na tym skrzyżowaniu?": "В данной ситуации можно ли тебе повернуть направо на этом перекрестке?",
-        "Na 1 miesiąc": "На 1 месяц.",
-        "Na 3 miesięce": "На 3 месяца.",
-        "Na 6 miesięcy": "На 6 месяцев.",
         "Należy przedsięwziąć odpowiednie środki w celu zapewnienia bezpieczeństwa ruchu w miejscu wypadku": "Необходимо принять соответствующие меры для обеспечения безопасности движения на месте происшествия.",
         "Czy w przedstawionej sytuacji kierujący zespołem pojazdów nr 1 zachował się właściwie?": "В представленной ситуации к водитель автопоезда № 1 поступил правильно?",
         "Czy w tej sytuacji wolno Ci użyć sygnału dźwiękowego?": "В этой ситуации тебе разрешается использовать сигнал звуковой?",
@@ -4001,6 +4001,7 @@
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości w obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения правонарушения, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч.",
         "W jakich przypadkach organ upoważniony do kontroli drogowej może zatrzymać kierującemu pojazdem prawo jazdy?": "В каких случаях орган, уполномоченный на проведение дорожного контроля, может временно изъять у водителя транспортного средства водительское удостоверение?",
         "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения проступка, заключающегося в двукратном превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч.",
-        "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае обнаружения проступка, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 50 км\/ч от разрешенной."
+        "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае обнаружения проступка, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
+        "Odległość ta powinna wynosić 30 - 50 m": "Это расстояние должно составлять 30 - 50 м."
     }
 }
