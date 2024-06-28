@@ -2894,7 +2894,8 @@
             "Dopóki ciało poszkodowanego zachowuje właściwą ciepłotę": "Пока тело пострадавшего сохраняет надлежащее тепло.",
             "Najcięższe bagaże włożę najgłębiej i najniżej, w centralnej części bagażnika": "Самые тяжелые сумки положу самыми последними и самыми нижними, в центральной части багажника.",
             "Najcięższe bagaże włożę w górnej części bagażnika, nad lżejszymi": "Самые тяжелые багажи я положу в верхней части багажника, над более легкими.",
-            "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?"
+            "Która z widocznych na ilustracji lampek kontrolnych sygnalizuje niezapięte pasy bezpieczeństwa?": "Какая из видимых на иллюстрации индикаторных лампочек сигнализирует о непристегнутых ремнях безопасности?",
+            "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности."
         }
     },
     "not_approved": {
@@ -2941,7 +2942,6 @@
         "Czy wszyscy kierujący w sposób właściwy zapewniają swobodny przejazd pojazdu uprzywilejowanego ?": "Все ли водители надлежащим образом обеспечивают беспрепятственный проезд транспортного средства ?",
         "Dlaczego nie?": "Почему бы и нет?",
         "W czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie.": "Во время движения в условиях пониженной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель автомашины обязан одновременно включать ближний или передний противотуманный свет или оба этих света.",
-        "Kierujący pojazdem może używać sygnału dźwiękowego lub świetlnego, w razie gdy zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "Водитель транспортного средства может использовать звуковой или световой сигнал при необходимости предупреждения об опасности.",
         "Czy na tym skrzyżowaniu wolno Ci zawrócić?": "На этом перекрестке вам разрешено развернуться?",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bezpośrednio przed skrzyżowaniem?": "Имеете ли вы право в этой ситуации менять полосу движения непосредственно перед перекрестком?",
         "Czy w tej sytuacji wolno Ci jechać na wprost przez skrzyżowanie?": "В этой ситуации вам разрешено ехать прямо через перекресток?",
@@ -3984,6 +3984,7 @@
         "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
         "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель ТС может использовать задние противотуманные фонари, если сниженная прозрачность воздуха ограничивает видимость на расстояние меньше 50 м.",
         "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
-        "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности."
+        "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
+        "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность."
     }
 }
