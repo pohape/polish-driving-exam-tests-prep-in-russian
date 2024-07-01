@@ -2910,7 +2910,9 @@
             "Na 3 miesięce": "На 3 месяца.",
             "Na 6 miesięcy": "На 6 месяцев.",
             "Na 1 miesiąc": "На 1 месяц.",
-            "Czy w tej sytuacji powinieneś wziąć pod uwagę, że rowerzysta może wjechać na jezdnię?": "В этой ситуации ты должен учесть, что велосипедист может выехать на проезжую часть?"
+            "Czy w tej sytuacji powinieneś wziąć pod uwagę, że rowerzysta może wjechać na jezdnię?": "В этой ситуации ты должен учесть, что велосипедист может выехать на проезжую часть?",
+            "24 godziny": "24 часа.",
+            "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На какой срок действительно свидетельство о временном изъятии, выданное полицейским за перевозку лиц в количестве, превышающем на два количество мест, указанное в регистрационном талоне автомобиля?"
         }
     },
     "not_approved": {
@@ -3656,9 +3658,7 @@
         "Jaki może być skutek używania zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования изношенных щеток стеклоочистителя в автомобиле?",
         "Mniejsze zużycie płynu do spryskiwaczy": "Меньший расход жидкости для омывателя.",
         "Mniejsza widoczność drogi w czasie deszczu": "Уменьшенная видимость дороги во время дождя.",
-        "24 godziny": "24 часа.",
         "72 godziny": "72 часа.",
-        "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На какой срок действительно свидетельство о временном изъятии, выданное полицейским за перевозку лиц в количестве, превышающем на два количество мест, указанное в регистрационном талоне автомобиля?",
         "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
         "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или диски тормозные.",
         "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?": "В каком из перечисленных случаев использование автомобиля не угрожает безопасности дорожного движения?",
