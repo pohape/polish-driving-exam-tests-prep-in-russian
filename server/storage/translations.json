@@ -4037,6 +4037,9 @@
         "Przed naciśnięciem pedału hamulca": "Перед нажатием на педаль тормоза.",
         "Równocześnie z pedałem hamulca": "Одновременно с педалью тормоза.",
         "Gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Когда скорость движения автомобиля упадет до минимальной для текущей передачи.",
-        "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете на педаль сцепления, когда, едучи с большой скоростью автомобилем, планируете выполнить маневр торможения?"
+        "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете на педаль сцепления, когда, едучи с большой скоростью автомобилем, планируете выполнить маневр торможения?",
+        "Nie, wystarczy jeden": "Нет, одного достаточно.",
+        "Tak, ale tylko przy prędkości powyżej 20 km\/h": "Да, но только при скорости выше 20 км\/ч.",
+        "Czy podczas holowania motocykla powinny być sprawne w nim dwa układy hamulcowe?": "Должны ли во время буксировки мотоцикла работать в нем обе тормозные системы?"
     }
 }
