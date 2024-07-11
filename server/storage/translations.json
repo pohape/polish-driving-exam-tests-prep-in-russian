@@ -4049,6 +4049,8 @@
         "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для снижения скорости движения.",
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
-        "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе."
+        "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
+        "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
+        "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?"
     }
 }
