@@ -12,8 +12,7 @@
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Вы переводите текст как: \"В данной ситуации вы приближаетесь к равнозначному перекрестку?\"",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных ближних светах?",
-        "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
-        "Zdecydowanie przyśpieszyć": "Категорически ускориться."
+        "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\"."
     },
     "approved": {
         "upewninie się": {
@@ -2935,7 +2934,8 @@
             "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
             "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
             "Jaki może być skutek niewyważenia kół jezdnych w pojeździe?": "Каким может быть результат небалансировки колес в транспортном средстве?",
-            "Świadectwo zgodności WE": "Сертификат соответствия ЕС."
+            "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
+            "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака."
         }
     },
     "not_approved": {
@@ -3756,7 +3756,6 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
-        "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
         "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
@@ -4064,6 +4063,7 @@
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
         "Czego możesz spodziewać się na tak oznakowanej drodze?": "Чего вы можете ожидать на обозначенной таким образом дороге?",
         "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
-        "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения."
+        "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения.",
+        "Zdecydowanie przyśpieszyć": "Резко ускориться."
     }
 }
