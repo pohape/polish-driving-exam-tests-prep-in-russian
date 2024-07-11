@@ -8,7 +8,6 @@
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
-        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
@@ -4011,6 +4010,7 @@
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
         "Zamierzasz skręcić w prawo. Czy musisz sygnalizować zamiar tego manewru prawym kierunkowskazem?": "Вы намереваетесь повернуть направо. Должны ли вы сигнализировать о намерении выполнить этот маневр правым указателем поворота?",
         "Czy tak pozostawiony na postoju bez opieki pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną?": "Правильно ли оставлено незащищенное транспортное средство на стоянке без присмотра от возможности его запуска неуполномоченным лицом?",
-        "Czy w tej sytuacji masz obowiązek zatrzymać się przed wjazdem na skrzyżowanie?": "В данной ситуации у тебя есть обязанность остановиться перед въездом на перекресток?"
+        "Czy w tej sytuacji masz obowiązek zatrzymać się przed wjazdem na skrzyżowanie?": "В данной ситуации у тебя есть обязанность остановиться перед въездом на перекресток?",
+        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?"
     }
 }
