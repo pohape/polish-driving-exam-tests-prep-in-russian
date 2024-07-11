@@ -2920,7 +2920,8 @@
             "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
             "Włączyć światła awaryjne": "Включите аварийные огни.",
             "Włączyć tylne światło przeciwmgłowe": "Включить задний противотуманный фонарь.",
-            "Umieścić z tyłu po lewej stronie ostrzegawczy trójkąt odblaskowy": "Разместить сзади слева знак аварийной остановки."
+            "Umieścić z tyłu po lewej stronie ostrzegawczy trójkąt odblaskowy": "Разместить сзади слева знак аварийной остановки.",
+            "Jak masz obowiązek oznakować holowany samochód osobowy?": "Как ты обязан обозначить буксируемый автомобиль?"
         }
     },
     "not_approved": {
@@ -4054,7 +4055,6 @@
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
         "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
         "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
-        "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
-        "Jak masz obowiązek oznakować holowany samochód osobowy?": "Как ты обязан обозначить буксируемый автомобиль?"
+        "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?"
     }
 }
