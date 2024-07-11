@@ -2928,7 +2928,9 @@
             "Bezkolizyjnego przepustu pod drogą dla dzikich zwierząt": "Бесконтактного перехода под дорогой для диких животных.",
             "Zabrania się postoju za słupkiem wskaźnikiem z jedną kreską": "Запрещается стоянка за столбиком указателя с одной полосой.",
             "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
-            "W tej sytuacji działa sygnalizacja świetlna": "В этой ситуации работает светофор."
+            "W tej sytuacji działa sygnalizacja świetlna": "В этой ситуации работает светофор.",
+            "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
+            "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?"
         }
     },
     "not_approved": {
@@ -3192,7 +3194,6 @@
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
-        "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
@@ -3913,7 +3914,6 @@
         "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
-        "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену бригады скорой медицинской помощи.",
         "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
@@ -4058,6 +4058,7 @@
         "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
         "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
-        "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко."
+        "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
+        "Kierującemu pojazdem zabrania się: wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю транспортного средства запрещается: обгонять транспортное средство на пешеходном переходе и непосредственно перед ним."
     }
 }
