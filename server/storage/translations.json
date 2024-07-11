@@ -2921,7 +2921,8 @@
             "Włączyć światła awaryjne": "Включите аварийные огни.",
             "Włączyć tylne światło przeciwmgłowe": "Включить задний противотуманный фонарь.",
             "Umieścić z tyłu po lewej stronie ostrzegawczy trójkąt odblaskowy": "Разместить сзади слева знак аварийной остановки.",
-            "Jak masz obowiązek oznakować holowany samochód osobowy?": "Как ты обязан обозначить буксируемый автомобиль?"
+            "Jak masz obowiązek oznakować holowany samochód osobowy?": "Как ты обязан обозначить буксируемый автомобиль?",
+            "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги."
         }
     },
     "not_approved": {
@@ -3399,7 +3400,6 @@
         "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
         "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
         "W którym z wymienionych przypadków, masz obowiązek wymienić oponę na nową w samochodzie osobowym?": "В каком из перечисленных случаев, вы обязаны заменить шину на новую в легковом автомобиле?",
-        "Odłączyć system kontroli trakcji": "Отключить систему контроля тяги.",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
