@@ -2926,7 +2926,9 @@
             "Zwierząt pędzonych przez drogę": "Прогон скота через дорогу.",
             "Dzikich zwierząt przebiegających przez drogę": "Диких животных, перебегающих через дорогу.",
             "Bezkolizyjnego przepustu pod drogą dla dzikich zwierząt": "Бесконтактного перехода под дорогой для диких животных.",
-            "Zabrania się postoju za słupkiem wskaźnikiem z jedną kreską": "Запрещается стоянка за столбиком указателя с одной полосой."
+            "Zabrania się postoju za słupkiem wskaźnikiem z jedną kreską": "Запрещается стоянка за столбиком указателя с одной полосой.",
+            "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
+            "W tej sytuacji działa sygnalizacja świetlna": "В этой ситуации работает светофор."
         }
     },
     "not_approved": {
@@ -4054,9 +4056,7 @@
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для снижения скорости движения.",
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
         "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
-        "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
         "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
-        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
-        "W tej sytuacji działa sygnalizacja świetlna": "В этой ситуации работает светофор."
+        "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения."
     }
 }
