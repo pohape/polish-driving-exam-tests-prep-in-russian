@@ -2913,7 +2913,11 @@
             "24 godziny": "24 часа.",
             "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На какой срок действительно свидетельство о временном изъятии, выданное полицейским за перевозку лиц в количестве, превышающем на два количество мест, указанное в регистрационном талоне автомобиля?",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na taki czas, aby zapewnić pieszym swobodne dojście do chodnika?": "В данной ситуации ты обязан остановить транспортное средство на такое время, чтобы обеспечить пешеходам свободный доступ до тротуара?",
-            "Czy w tej sytuacji powinieneś zachować ograniczone zaufanie wobec wyprzedzanego rowerzysty, który nie trzyma rąk na kierownicy?": "Должны ли вы в этой ситуации сохранять ограниченное доверие к обгоняемому велосипедисту, который не держит рук на руле?"
+            "Czy w tej sytuacji powinieneś zachować ograniczone zaufanie wobec wyprzedzanego rowerzysty, który nie trzyma rąk na kierownicy?": "Должны ли вы в этой ситуации сохранять ограниченное доверие к обгоняемому велосипедисту, который не держит рук на руле?",
+            "Bezpośrednio przed rozpoczęciem podróży": "Непосредственно перед началом поездки.",
+            "Po zakończeniu jazdy": "После окончания поездки.",
+            "Co najmniej dobę przed zaplanowaną podróżą": "Как минимум за сутки до запланированной поездки.",
+            "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?"
         }
     },
     "not_approved": {
@@ -3048,9 +3052,6 @@
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
         "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
-        "Bezpośrednio przed rozpoczęciem podróży": "Непосредственно перед началом поездки.",
-        "Po zakończeniu jazdy": "После окончания поездки.",
-        "Co najmniej dobę przed zaplanowaną podróżą": "Как минимум за сутки до запланированной поездки.",
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
@@ -3501,7 +3502,6 @@
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
-        "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
