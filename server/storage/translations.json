@@ -2929,7 +2929,11 @@
             "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
             "W tej sytuacji działa sygnalizacja świetlna": "В этой ситуации работает светофор.",
             "O wiele wygodniej jest zająć odpowiedni pas w miejscu w którym się rozpoczyna, niż wklejać się pomiędzy pojazdy które się poruszają tym pasem": "Намного удобнее занять соответствующую полосу в месте, где она начинается, чем врезаться между транспортными средствами, которые движутся этой полосой.",
-            "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?"
+            "Czy w tej sytuacji, zamierzając skręcić w prawo, powinieneś jechać dalej zajmowanym pasem ruchu i zmienić go bezpośrednio przed skrzyżowaniem?": "Должен ли ты в этой ситуации, намереваясь повернуть направо, продолжить движение по занятой полосе движения и изменить её непосредственно перед перекрестком?",
+            "Nierównomierne zużycie bieżnika opony": "Неравномерный износ протектора шины.",
+            "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
+            "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
+            "Jaki może być skutek niewyważenia kół jezdnych w pojeździe?": "Каким может быть результат небалансировки колес в транспортном средстве?"
         }
     },
     "not_approved": {
@@ -3182,10 +3186,6 @@
         "Czy w tej sytuacji należy zatrzymać się przed widoczną linią bezwzględnego zatrzymania - stop?": "В данной ситуации нужно остановиться перед видимой линией абсолютной остановки - стоп?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "Zwiększenie okresu eksploatacji opony": "Увеличение срока службы шины.",
-        "Zblokowanie kół jezdnych": "Блокировка ведущих колес.",
-        "Nierównomierne zużycie bieżnika opony": "Неравномерный износ протектора шины.",
-        "Jaki może być skutek niewyważenia kół jezdnych w pojeździe?": "Каким может быть результат небалансировки колес в транспортном средстве?",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
         "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта.",
