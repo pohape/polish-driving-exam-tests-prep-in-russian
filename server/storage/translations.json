@@ -2917,7 +2917,10 @@
             "Bezpośrednio przed rozpoczęciem podróży": "Непосредственно перед началом поездки.",
             "Po zakończeniu jazdy": "После окончания поездки.",
             "Co najmniej dobę przed zaplanowaną podróżą": "Как минимум за сутки до запланированной поездки.",
-            "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?"
+            "Kiedy powinieneś sprawdzać ciśnienie w ogumieniu samochodu osobowego?": "Когда ты должен проверять давление в шинах личного автомобиля?",
+            "Włączyć światła awaryjne": "Включите аварийные огни.",
+            "Włączyć tylne światło przeciwmgłowe": "Включить задний противотуманный фонарь.",
+            "Umieścić z tyłu po lewej stronie ostrzegawczy trójkąt odblaskowy": "Разместить сзади слева знак аварийной остановки."
         }
     },
     "not_approved": {
@@ -3028,7 +3031,6 @@
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
-        "Włączyć światła awaryjne": "Включите аварийные огни.",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
@@ -4052,6 +4054,7 @@
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
         "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
         "Czy w tej sytuacji znak \"ustąp pierwszeństwa\" ustawiony przed skrzyżowaniem ma zastosowanie?": "В этой ситуации знак \"уступи дорогу\" перед перекрестком применим?",
-        "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?"
+        "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
+        "Jak masz obowiązek oznakować holowany samochód osobowy?": "Как ты обязан обозначить буксируемый автомобиль?"
     }
 }
