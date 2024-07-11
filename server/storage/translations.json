@@ -2911,7 +2911,8 @@
             "Na 1 miesiąc": "На 1 месяц.",
             "Czy w tej sytuacji powinieneś wziąć pod uwagę, że rowerzysta może wjechać na jezdnię?": "В этой ситуации ты должен учесть, что велосипедист может выехать на проезжую часть?",
             "24 godziny": "24 часа.",
-            "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На какой срок действительно свидетельство о временном изъятии, выданное полицейским за перевозку лиц в количестве, превышающем на два количество мест, указанное в регистрационном талоне автомобиля?"
+            "Ile czasu jest ważne pokwitowanie zatrzymania przez policjanta prawa jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На какой срок действительно свидетельство о временном изъятии, выданное полицейским за перевозку лиц в количестве, превышающем на два количество мест, указанное в регистрационном талоне автомобиля?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na taki czas, aby zapewnić pieszym swobodne dojście do chodnika?": "В данной ситуации ты обязан остановить транспортное средство на такое время, чтобы обеспечить пешеходам свободный доступ до тротуара?"
         }
     },
     "not_approved": {
@@ -4048,7 +4049,6 @@
         "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для снижения скорости движения.",
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
-        "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
-        "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na taki czas, aby zapewnić pieszym swobodne dojście do chodnika?": "В данной ситуации ты обязан остановить транспортное средство на такое время, чтобы обеспечить пешеходам свободный доступ до тротуара?"
+        "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе."
     }
 }
