@@ -2937,7 +2937,8 @@
             "Świadectwo zgodności WE": "Сертификат соответствия ЕС.",
             "70 km\/h za znakiem zakazu": "70 км\/ч на участке после запрещающего знака.",
             "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
-            "Głównym zadaniem systemu ASR jest przeciwdziałanie poślizgowi kół podczas przyspieszania": "Основной задачей системы ASR является противодействие проскальзыванию колес во время ускорения."
+            "Głównym zadaniem systemu ASR jest przeciwdziałanie poślizgowi kół podczas przyspieszania": "Основной задачей системы ASR является противодействие проскальзыванию колес во время ускорения.",
+            "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej": "Подтверждение оплаты взноса за обязательное страхование гражданской ответственности."
         }
     },
     "not_approved": {
@@ -4078,9 +4079,9 @@
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
         "Profesjonalny dowód rejestracyjny": "Профессиональное свидетельство регистрации.",
-        "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej": "Подтверждение оплаты взноса за обязательное страхование гражданской ответственности.",
         "Dokument potwierdzający opłatę za korzystanie z autostrad i dróg ekspresowych": "Документ, подтверждающий уплату за использование автострад и \"dróg ekspresowych\".",
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
-        "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками."
+        "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
+        "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ об оплате взноса за обязательное страхование гражданской ответственности требуется во время проверки от водителя, управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша."
     }
 }
