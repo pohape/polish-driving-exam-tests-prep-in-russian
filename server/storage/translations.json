@@ -2953,7 +2953,8 @@
             "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
             "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе.",
             "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
-            "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости."
+            "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
+            "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе."
         }
     },
     "not_approved": {
@@ -4054,7 +4055,6 @@
         "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для снижения скорости движения.",
         "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
-        "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
         "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
         "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
