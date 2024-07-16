@@ -2949,7 +2949,8 @@
             "O nieprawidłowo działającym ładowaniu akumulatora": "О неправильно работающей зарядке аккумулятора.",
             "O czym ostrzega, świecąca się na czerwono w czasie jazdy samochodem osobowym, lampka kontrolna z symbolem akumulatora?": "О чем предупреждает, загоревшаяся красным во время езды на автомобиле, контрольная лампочка с символом аккумулятора?",
             "Czy w tej sytuacji masz prawo wykonać manewr wyprzedzania z lewej strony?": "В данной ситуации, имеешь ли ты право выполнить маневр обгона с левой стороны?",
-            "Czy kierujący tymi pojazdami umożliwili swobodny przejazd pojazdom uprzywilejowanym tworząc tzw. \"korytarz życia\"?": "Создали ли водители этих транспортных средств свободный проезд для привилегированных ТС, создавая так называемый \"коридор жизни\"?"
+            "Czy kierujący tymi pojazdami umożliwili swobodny przejazd pojazdom uprzywilejowanym tworząc tzw. \"korytarz życia\"?": "Создали ли водители этих транспортных средств свободный проезд для привилегированных ТС, создавая так называемый \"коридор жизни\"?",
+            "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?"
         }
     },
     "not_approved": {
@@ -3606,7 +3607,6 @@
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
-        "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
         "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
         "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?",
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
