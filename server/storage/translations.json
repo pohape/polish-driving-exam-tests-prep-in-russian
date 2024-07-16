@@ -2942,7 +2942,10 @@
             "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej": "Подтверждение оплаты взноса за обязательное страхование гражданской ответственности.",
             "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na czas przejazdu pojazdu jadącego z przeciwka?": "В этой ситуации обязаны ли вы остановить ТС на время проезда встречного ТС?",
             "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?",
-            "O uszkodzeniu akumulatora": "О повреждении аккумулятора."
+            "O uszkodzeniu akumulatora": "О повреждении аккумулятора.",
+            "O całkowitym rozładowaniu się akumulatora": "О полной разрядке аккумулятора.",
+            "O nieprawidłowo działającym ładowaniu akumulatora": "О неправильно работающей зарядке аккумулятора.",
+            "O czym ostrzega, świecąca się na czerwono w czasie jazdy samochodem osobowym, lampka kontrolna z symbolem akumulatora?": "О чем предупреждает, загоревшаяся красным во время езды на автомобиле, контрольная лампочка с символом аккумулятора?"
         }
     },
     "not_approved": {
@@ -3903,9 +3906,6 @@
         "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
         "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
-        "O całkowitym rozładowaniu się akumulatora": "О полной разрядке аккумулятора.",
-        "O nieprawidłowo działającym ładowaniu akumulatora": "О неправильно работающей зарядке аккумулятора.",
-        "O czym ostrzega, świecąca się na czerwono w czasie jazdy samochodem osobowym, lampka kontrolna z symbolem akumulatora?": "О чем предупреждает, загоревшаяся красным во время езды на автомобиле, контрольная лампочка с символом аккумулятора?",
         "Świecąca się na czerwono lampka kontrolna z symbolem akumulatora świadczy o usterce układu ładowania": "Загоревшаяся красная контрольная лампочка с символом аккумулятора свидетельствует о неисправности системы зарядки.",
         "Niebieski kolor spalin świadczy o tym, że silnik przepala przedostający się do komór spalania olej. Czarny kolor spalin może oznaczać problem z układem wtryskowym w przypadku silników Diesla": "Синий цвет выхлопных газов свидетельствует о том, что двигатель сжигает проникающее в камеры сгорания масло. Черный цвет выхлопных газов может свидетельствовать о проблеме с топливной системой в случае дизельных двигателей.",
         "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса.",
