@@ -2951,7 +2951,9 @@
             "Czy w tej sytuacji masz prawo wykonać manewr wyprzedzania z lewej strony?": "В данной ситуации, имеешь ли ты право выполнить маневр обгона с левой стороны?",
             "Czy kierujący tymi pojazdami umożliwili swobodny przejazd pojazdom uprzywilejowanym tworząc tzw. \"korytarz życia\"?": "Создали ли водители этих транспортных средств свободный проезд для привилегированных ТС, создавая так называемый \"коридор жизни\"?",
             "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
-            "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе."
+            "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе.",
+            "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
+            "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости."
         }
     },
     "not_approved": {
@@ -3367,7 +3369,6 @@
         "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
         "Zajmowany pas służy do skrętu w prawo": "Занятая полоса предназначена для поворота направо.",
-        "Czy w tej sytuacji masz obowiązek zmniejszyć prędkość pojazdu, gdy na drodze nie ma pieszych?": "В этой ситуации, обязаны ли вы снизить скорость транспортного средства, когда на дороге нет пешеходов?",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
         "Czy zatrzymanie w tym miejscu jest dozwolone?": "Разрешена ли остановка в этом месте?",
@@ -3385,7 +3386,6 @@
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
         "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой впереди и позади транспортного средства.",
-        "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
