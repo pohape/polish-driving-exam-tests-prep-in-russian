@@ -14,7 +14,8 @@
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных ближних светах?",
         "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации ты имеешь право остановить транспортное средство на поверхности, исключённой из движения?",
-        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\""
+        "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
+        "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?"
     },
     "approved": {
         "upewninie się": {
@@ -3815,7 +3816,6 @@
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
         "Byłoby to nieuzasadnione użycie sygnału dźwiękowego": "Это было бы необоснованным использованием звукового сигнала.",
         "Oznakowanie poziome na jezdni uniemożliwia zmianę pasa": "Наземная (горизонтальная) разметка на проезжей части не позволяет сменить полосу.",
-        "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
         "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
         "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
