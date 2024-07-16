@@ -2950,7 +2950,8 @@
             "O czym ostrzega, świecąca się na czerwono w czasie jazdy samochodem osobowym, lampka kontrolna z symbolem akumulatora?": "О чем предупреждает, загоревшаяся красным во время езды на автомобиле, контрольная лампочка с символом аккумулятора?",
             "Czy w tej sytuacji masz prawo wykonać manewr wyprzedzania z lewej strony?": "В данной ситуации, имеешь ли ты право выполнить маневр обгона с левой стороны?",
             "Czy kierujący tymi pojazdami umożliwili swobodny przejazd pojazdom uprzywilejowanym tworząc tzw. \"korytarz życia\"?": "Создали ли водители этих транспортных средств свободный проезд для привилегированных ТС, создавая так называемый \"коридор жизни\"?",
-            "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?"
+            "Czy w tej sytuacji zmniejszenie prędkości jest uzasadnione?": "В данной ситуации обосновано ли снижение скорости?",
+            "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе."
         }
     },
     "not_approved": {
@@ -3864,7 +3865,6 @@
         "Czy w tej sytuacji masz pierwszeństwo przed pieszym?": "В этой ситуации у вас есть преимущество перед пешеходом?",
         "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
-        "Kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pieszemu znajdującemu się na przejściu": "Водитель транспортного средства, приближаясь к пешеходному переходу, обязан проявлять особую осторожность и уступить дорогу пешеходу, находящемуся на переходе.",
         "Czy w przedstawionej sytuacji jesteś zobowiązany do zatrzymania pojazdu przed przejściem dla pieszych?": "В представленной ситуации ты обязан остановить транспортное средство перед пешеходным переходом?",
         "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обгонять привилегированный транспортное средство после этого знака?",
