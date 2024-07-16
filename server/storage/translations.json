@@ -2940,7 +2940,8 @@
             "Przeciwdziałanie poślizgowi podczas hamowania silnikiem": "Противодействие проскальзыванию при торможении двигателем.",
             "Głównym zadaniem systemu ASR jest przeciwdziałanie poślizgowi kół podczas przyspieszania": "Основной задачей системы ASR является противодействие проскальзыванию колес во время ускорения.",
             "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej": "Подтверждение оплаты взноса за обязательное страхование гражданской ответственности.",
-            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na czas przejazdu pojazdu jadącego z przeciwka?": "В этой ситуации обязаны ли вы остановить ТС на время проезда встречного ТС?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać pojazd na czas przejazdu pojazdu jadącego z przeciwka?": "В этой ситуации обязаны ли вы остановить ТС на время проезда встречного ТС?",
+            "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?"
         }
     },
     "not_approved": {
@@ -2999,7 +3000,6 @@
         "Czy chcąc wysadzić pasażera, masz prawo zatrzymać się bezpośrednio za tym przejazdem?": "Если вы хотите высадить пассажира, имеете ли вы право остановиться прямо за этим проездом?",
         "Czy na widocznym przejściu dla pieszych wyprzedzanie jest dozwolone?": "Разрешен ли обгон на видимом пешеходном переходе?",
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
-        "Czy wyprzedzając masz prawo użyć sygnału dźwiękowego, jeżeli widoczny pojazd rozpocznie zmianę pasa ruchu?": "Имеете ли вы право при обгоне использовать звуковой сигнал, если видимый автомобиль начинает менять полосу движения?",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "Для обгона перед пешеходным переходом, где движение направляется.",
         "Czy zajmujesz właściwy pas ruchu, jeśli na najbliższym skrzyżowaniu zamierzasz skręcić w lewo?": "Занимаете ли вы правильную полосу движения, если вы собираетесь повернуть налево на ближайшем перекрестке?",
         "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
