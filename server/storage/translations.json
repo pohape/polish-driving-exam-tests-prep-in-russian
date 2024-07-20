@@ -3732,9 +3732,6 @@
         "Zostałeś właśnie wyprzedzony przez pojazd widoczny przed Tobą. Czy bezpośrednio po wyprzedzeniu wolno Ci zwiększyć prędkość?": "Ты только что был обгонен транспортным средством, видимым перед тобой. Можно ли тебе непосредственно после обгона увеличить скорость?",
         "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?",
         "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?",
-        "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
-        "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какую из этих действий ты не имеешь права выполнять, когда участвуешь в аварии, в которой есть погибшие?",
-        "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы оно не затрудняло движение.",
         "Czy w tej sytuacji, dojeżdżając drogą dwukierunkową do wierzchołka wzniesienia, masz prawo wyprzedzić motocykl?": "Имеешь ли ты право обогнать мотоцикл, подъезжая дорогой с двусторонним движением к вершине возвышенности?",
         "Czy w tej sytuacji za znakiem masz prawo zaparkować na jezdni pojazd silnikowy?": "В данной ситуации после знака имеете ли вы право припарковать на проезжей части моторное транспортное средство?",
         "Czy za widocznymi znakami zakazu dozwolony jest postój pojazdu silnikowego na chodniku?": "Возможна ли стоянка моторного транспортного средства на тротуаре за видимыми запрещающими знаками?",
@@ -4082,6 +4079,9 @@
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
         "Tylko lekarz": "Только врач.",
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
-        "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия."
+        "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
+        "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь жертвам катастрофы.",
+        "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
+        "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какое из этих действий ты не имеешь права выполнить, если ты участвуешь в аварии, в которой есть погибшие?"
     }
 }
