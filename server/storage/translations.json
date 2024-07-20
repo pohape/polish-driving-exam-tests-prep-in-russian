@@ -2960,7 +2960,8 @@
             "Aż zacznie nią poruszać": "Пока он не начнет ее шевелить.",
             "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
             "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?",
-            "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какое из этих действий ты не имеешь права выполнить, если ты участвуешь в аварии, в которой есть погибшие?"
+            "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какое из этих действий ты не имеешь права выполнить, если ты участвуешь в аварии, в которой есть погибшие?",
+            "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда."
         }
     },
     "not_approved": {
@@ -3911,7 +3912,6 @@
         "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
-        "Kierujący uczestniczący w wypadku drogowym, w którym są zabici lub ranni ma obowiązek pozostać na miejscu wypadku, a jeżeli wezwanie zespołu ratownictwa medycznego lub Policji wymaga oddalenia się – niezwłocznie powrócić na to miejsce": "Участник дорожно-транспортного происшествия, в котором есть погибшие или раненые, обязан остаться на месте аварии, и если вызов медицинской спасательной службы или полиции требует ухода с места – незамедлительно вернуться туда.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
         "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?",
         "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
