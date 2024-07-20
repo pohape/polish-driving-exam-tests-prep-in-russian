@@ -2959,7 +2959,8 @@
             "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
             "Aż zacznie nią poruszać": "Пока он не начнет ее шевелить.",
             "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
-            "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?"
+            "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?",
+            "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какое из этих действий ты не имеешь права выполнить, если ты участвуешь в аварии, в которой есть погибшие?"
         }
     },
     "not_approved": {
@@ -4081,7 +4082,6 @@
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
         "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь жертвам катастрофы.",
-        "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
-        "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какое из этих действий ты не имеешь права выполнить, если ты участвуешь в аварии, в которой есть погибшие?"
+        "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению."
     }
 }
