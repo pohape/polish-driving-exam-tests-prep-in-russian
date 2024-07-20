@@ -16,7 +16,8 @@
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации ты имеешь право остановить транспортное средство на поверхности, исключённой из движения?",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
-        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана."
+        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
+        "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?"
     },
     "approved": {
         "upewninie się": {
@@ -2993,7 +2994,6 @@
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
-        "Tylko lekarz": "Только врач.",
         "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
@@ -3731,9 +3731,6 @@
         "Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości bezpośrednio po wyprzedzeniu": "Водителю обгоняемого транспортного средства запрещается увеличивать скорость непосредственно после обгона.",
         "Zostałeś właśnie wyprzedzony przez pojazd widoczny przed Tobą. Czy bezpośrednio po wyprzedzeniu wolno Ci zwiększyć prędkość?": "Ты только что был обгонен транспортным средством, видимым перед тобой. Можно ли тебе непосредственно после обгона увеличить скорость?",
         "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?",
-        "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
-        "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь без подвергания себя или другого человека опасности утраты жизни или серьёзного ухудшения здоровья.",
-        "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой потери здоровья и жизни?",
         "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?",
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
         "Której z tych czynności nie masz prawa wykonać, gdy uczestniczysz w wypadku, w którym są zabici?": "Какую из этих действий ты не имеешь права выполнять, когда участвуешь в аварии, в которой есть погибшие?",
@@ -4082,6 +4079,9 @@
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
         "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ об оплате взноса за обязательное страхование гражданской ответственности требуется во время проверки от водителя, управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
-        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения."
+        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
+        "Tylko lekarz": "Только врач.",
+        "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
+        "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия."
     }
 }
