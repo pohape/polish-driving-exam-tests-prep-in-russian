@@ -31,7 +31,7 @@ class Translator extends Base
         $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
         $prompt = 'Фрагмент для перевода: "' . $userData . '"';
         $data = [
-            'model' => 'gpt-4-1106-preview',
+            'model' => 'gpt-4o-mini',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
                 ['role' => 'user', 'content' => $prompt]
