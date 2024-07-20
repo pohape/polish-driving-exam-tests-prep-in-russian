@@ -15,7 +15,8 @@
         "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации ты имеешь право остановить транспортное средство на поверхности, исключённой из движения?",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
-        "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?"
+        "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
+        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана."
     },
     "approved": {
         "upewninie się": {
@@ -2956,7 +2957,8 @@
             "Zachowanie szczególnej ostrożności nie zawsze sprowadza się do zmniejszenia prędkości": "Соблюдение особой осторожности не всегда сводится к снижению скорости.",
             "Znak drogowy informuje jedynie o przejściu": "Дорожный знак информирует только о переходе.",
             "Aż zacznie nią poruszać": "Пока он не начнет ее шевелить.",
-            "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног."
+            "Do czasu stwierdzenia ruchomości jego nóg": "Пока не будет определена подвижность его ног.",
+            "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?"
         }
     },
     "not_approved": {
@@ -3095,7 +3097,6 @@
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
-        "Jak długo należy ręcznie stabilizować głowę poszkodowanego z podejrzeniem urazu kręgosłupa szyjnego?": "Как долго следует вручную стабилизировать голову пострадавшего с подозрением на травму шейного отдела позвоночника?",
         "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
@@ -3725,7 +3726,6 @@
         "Dziecko mające mniej niż 150 cm wzrostu powinno być przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym": "Ребенок ростом менее 150 см должен перевозиться в детском автокресле или другом удерживающем устройстве.",
         "Obowiązek przewożenia dziecka w foteliku nie obowiązuje podczas przewozu taksówką": "Обязательство перевозить ребенка в детском кресле не действует во время перевозки такси.",
         "Jest dozwolone jeżeli dziecko osiągnęło wzrost co najmniej 135 cm i nie jest możliwe ze względu na masę i wzrost zapewnienie fotelika bezpieczeństwa": "Разрешается, если ребенок достиг роста не менее 135 см и невозможно обеспечить безопасное кресло из-за веса и роста.",
-        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony": "Водитель ТС, приближающийся к перекрестку, обязан проявить особую осторожность и уступить дорогу ТС, приближающемуся справа.",
         "Wyjeżdżając ze strefy zamieszkania jesteśmy włączającym się do ruchu": "При выезде из жилой зоны мы включаемся в движение.",
         "Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości bezpośrednio po wyprzedzeniu": "Водителю обгоняемого транспортного средства запрещается увеличивать скорость непосредственно после обгона.",
