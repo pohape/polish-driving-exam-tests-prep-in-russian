@@ -4094,6 +4094,7 @@
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami ruchu": "Допускается обгон справа на дорогах с одной проезжей частью в населённом пункте с выделенными минимум двумя полосами движения.",
         "Czy w tej sytuacji możesz podjąć próbę wyprzedzania rowerzysty?": "Можешь ли ты в этой ситуации попытаться обогнать велосипедиста?",
         "Rower nie jest pojazdem silnikowym. Zabrania się wyprzedzania pojazdu silnikowego na skrzyżowaniu": "Велосипед не является моторным транспортным средством. Запрещается обгонять моторное транспортное средство на перекрестке.",
-        "Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar skręcenia w lewo, może odbywać się tylko z jego prawej strony": "Обгон автомобиля или участника движения, который сигнализирует о намерении повернуть налево, может происходить только с его правой стороны."
+        "Wyprzedzanie pojazdu lub uczestnika ruchu, który sygnalizuje zamiar skręcenia w lewo, może odbywać się tylko z jego prawej strony": "Обгон автомобиля или участника движения, который сигнализирует о намерении повернуть налево, может происходить только с его правой стороны.",
+        "Czy w tej sytuacji możesz rozpocząć wyprzedzanie z prawej strony?": "Можешь ли ты в этой ситуации начать обгон справа?"
     }
 }
