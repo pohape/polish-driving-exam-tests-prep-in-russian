@@ -37,3 +37,6 @@ https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russi
 ## Памятка по вопросам связанным с детским креслом:
 ![Памятка по вопросам связанным с детским креслом](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/notatki/fotelik.png)
 
+## Шпаргалка необходимых слов и выражений для езды с инструктором ([скачать PDF](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/notatki_pdf/jazda.pdf)):
+
+![Шпаргалка необходимых слов и выражений для езды с инструктором](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/notatki/jazda.png)
