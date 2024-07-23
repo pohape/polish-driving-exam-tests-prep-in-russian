@@ -4128,6 +4128,9 @@
         "Omijany pojazd sygnalizuje zamiar zmiany kierunku jazdy w lewo": "Объезжаемое ТС сигнализирует намерение изменить направление движения влево.",
         "Czy w tej sytuacji uzasadnione jest zmniejszenie prędkości podczas omijania?": "В данной ситуации обосновано ли снижение скорости во время объезда?",
         "Z lewej strony uniemożliwia manewr linia podwójna ciągła, a z prawej też się nie da": "С левой стороны маневр невозможен из-за двойной сплошной линии, а с правой стороны тоже нельзя.",
-        "Czy w tej sytuacji wykonałeś manewr omijania?": "В этой ситуации вы выполнили маневр объезда?"
+        "Czy w tej sytuacji wykonałeś manewr omijania?": "В этой ситуации вы выполнили маневр объезда?",
+        "Czy cofanie pojazdem na drodze ekspresowej jest zabronione?": "Разрешено ли движение задним ходом на \"drodze ekspresowej\"?",
+        "Kierujący widocznym samochodem sygnalizuje zamiar skrętu w lewo": "Регулировщик видимого автомобиля сигнализирует намерение повернуть налево.",
+        "Czy w przedstawionej sytuacji należy zwiększyć odstęp podczas omijania tych pojazdów?": "Следует ли увеличить дистанцию во время объезда этих ТС в представленной ситуации?"
     }
 }
