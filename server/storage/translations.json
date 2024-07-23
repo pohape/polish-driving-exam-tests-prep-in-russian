@@ -17,7 +17,8 @@
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
-        "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?"
+        "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
+        "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешен ли в таком месте на дороге обгон мотора?"
     },
     "approved": {
         "upewninie się": {
@@ -4100,7 +4101,6 @@
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność": "Водитель транспортного средства обязан при обгоне проявлять особую осторожность.",
         "Pojazd szynowy wyprzedzamy z prawej strony": "Железнодорожный транспорт обгоняем с правой стороны.",
         "Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości": "Водителю, которого обгоняют, запрещается во время обгона и сразу после него увеличивать скорость.",
-        "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешен ли в таком месте на дороге обгон мотора?",
         "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним."
     }
 }
