@@ -4089,6 +4089,9 @@
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками.",
         "W tej sytuacji nie żadnych podstaw żeby zrezygnować z kontynuowania manewru": "В данной ситуации нет оснований для того, чтобы отказаться от продолжения маневра.",
         "Czy w tej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "Можно ли в этой ситуации обгонять транспортное средство справа?",
-        "Zabronione jest wyprzedzanie z prawej strony w przypadku gdy pasy ruchu nie są wyznaczone": "Обгон с правой стороны запрещен в случае, если полосы движения не обозначены."
+        "Zabronione jest wyprzedzanie z prawej strony w przypadku gdy pasy ruchu nie są wyznaczone": "Обгон с правой стороны запрещен в случае, если полосы движения не обозначены.",
+        "Czy w tej sytuacji, na obszarze zabudowanym, wolno Ci wyprzedzić pojazd z prawej strony?": "Разрешено ли тебе в этой ситуации, в населённом пункте, обгонять транспортное средство справа?",
+        "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami ruchu": "Допускается обгон справа на дорогах с одной проезжей частью в населённом пункте с выделенными минимум двумя полосами движения.",
+        "Czy w tej sytuacji możesz podjąć próbę wyprzedzania rowerzysty?": "Можешь ли ты в этой ситуации попытаться обогнать велосипедиста?"
     }
 }
