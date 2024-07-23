@@ -4086,6 +4086,9 @@
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach, na których ruch odbywa się wokół wyspy": "Допускается обгон на перекрестках, на которых движение происходит вокруг островка.",
         "Czy w tej sytuacji należy zrezygnować z rozpoczęcia wyprzedzania?": "Следует ли в этой ситуации отказаться от начала обгона?",
-        "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками."
+        "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками.",
+        "W tej sytuacji nie żadnych podstaw żeby zrezygnować z kontynuowania manewru": "В данной ситуации нет оснований для того, чтобы отказаться от продолжения маневра.",
+        "Czy w tej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "Можно ли в этой ситуации обгонять транспортное средство справа?",
+        "Zabronione jest wyprzedzanie z prawej strony w przypadku gdy pasy ruchu nie są wyznaczone": "Обгон с правой стороны запрещен в случае, если полосы движения не обозначены."
     }
 }
