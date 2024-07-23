@@ -2978,7 +2978,9 @@
             "Czy w tej sytuacji masz obowiązek sygnalizować manewr wyprzedzania z prawej strony?": "В этой ситуации у тебя есть обязанность сигнализировать маневр обгона справа?",
             "Manewr wyprzedzania odbędzie się bez zmiany pasa ruchu": "Манёвр обгона будет выполнен без смены полосы движения.",
             "Rowerzysta sygnalizuje zamiar skrętu w lewo": "Велосипедист сигнализирует о намерении повернуть налево.",
-            "Czy w tej sytuacji możesz przejechać obok rowerzysty z prawej strony?": "Можешь ли ты в этой ситуации проехать мимо велосипедиста с правой стороны?"
+            "Czy w tej sytuacji możesz przejechać obok rowerzysty z prawej strony?": "Можешь ли ты в этой ситуации проехать мимо велосипедиста с правой стороны?",
+            "W tej sytuacji nie żadnych podstaw żeby zrezygnować z kontynuowania manewru": "В данной ситуации нет оснований для того, чтобы отказаться от продолжения маневра.",
+            "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?"
         }
     },
     "not_approved": {
@@ -3121,7 +3123,6 @@
         "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
-        "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
@@ -4097,7 +4098,6 @@
         "Dopuszcza się wyprzedzanie na skrzyżowaniach, na których ruch odbywa się wokół wyspy": "Допускается обгон на перекрестках, на которых движение происходит вокруг островка.",
         "Czy w tej sytuacji należy zrezygnować z rozpoczęcia wyprzedzania?": "Следует ли в этой ситуации отказаться от начала обгона?",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками.",
-        "W tej sytuacji nie żadnych podstaw żeby zrezygnować z kontynuowania manewru": "В данной ситуации нет оснований для того, чтобы отказаться от продолжения маневра.",
         "Czy w tej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "Можно ли в этой ситуации обгонять транспортное средство справа?",
         "Zabronione jest wyprzedzanie z prawej strony w przypadku gdy pasy ruchu nie są wyznaczone": "Обгон с правой стороны запрещен в случае, если полосы движения не обозначены.",
         "Czy w tej sytuacji, na obszarze zabudowanym, wolno Ci wyprzedzić pojazd z prawej strony?": "Разрешено ли тебе в этой ситуации, в населённом пункте, обгонять транспортное средство справа?",
