@@ -4126,6 +4126,8 @@
         "Nie da się ukryć, że ten pas się kończy": "Нельзя не заметить, что эта полоса заканчивается.",
         "W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов дистанция не может быть меньше 1 м.",
         "Omijany pojazd sygnalizuje zamiar zmiany kierunku jazdy w lewo": "Объезжаемое ТС сигнализирует намерение изменить направление движения влево.",
-        "Czy w tej sytuacji uzasadnione jest zmniejszenie prędkości podczas omijania?": "В данной ситуации обосновано ли снижение скорости во время объезда?"
+        "Czy w tej sytuacji uzasadnione jest zmniejszenie prędkości podczas omijania?": "В данной ситуации обосновано ли снижение скорости во время объезда?",
+        "Z lewej strony uniemożliwia manewr linia podwójna ciągła, a z prawej też się nie da": "С левой стороны маневр невозможен из-за двойной сплошной линии, а с правой стороны тоже нельзя.",
+        "Czy w tej sytuacji wykonałeś manewr omijania?": "В этой ситуации вы выполнили маневр объезда?"
     }
 }
