@@ -2974,7 +2974,9 @@
             "A dlaczego nie?": "А почему нет?",
             "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))",
             "Czy wolno Ci wyprzedzić na przejściu dla pieszych pojazd jadący prawym pasem ruchu?": "Можно ли вам обгонять на пешеходном переходе транспортное средство, движущееся по правой полосе?",
-            "Czy wyprzedzając rowerzystę masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Обгоняя велосипедиста, ты обязан соблюдать дистанцию не менее одного метра?"
+            "Czy wyprzedzając rowerzystę masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Обгоняя велосипедиста, ты обязан соблюдать дистанцию не менее одного метра?",
+            "Czy w tej sytuacji masz obowiązek sygnalizować manewr wyprzedzania z prawej strony?": "В этой ситуации у тебя есть обязанность сигнализировать маневр обгона справа?",
+            "Manewr wyprzedzania odbędzie się bez zmiany pasa ruchu": "Манёвр обгона будет выполнен без смены полосы движения."
         }
     },
     "not_approved": {
@@ -4112,7 +4114,6 @@
         "Czy wolno Ci rozpocząć wyprzedzanie pod wiaduktem?": "Можно ли тебе начать обгон под виадуком?",
         "Wyprzedzanie nie jest zabronione podczas przejeżdżania pod wiaduktem": "Обгон не запрещен во время проезда под мостом.",
         "Czy na tym skrzyżowaniu możesz wyprzedzić pojazd z prawej strony?": "Можешь ли ты обгонять транспортное средство справа на этом перекрестке?",
-        "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone. Obszar zabudowany, dwa wyznaczone pasy ruchu": "Обгон на перекрестках со светофорами разрешен. Населенный пункт, два обозначенных полосы движения.",
-        "Czy w tej sytuacji masz obowiązek sygnalizować manewr wyprzedzania z prawej strony?": "В этой ситуации у тебя есть обязанность сигнализировать маневр обгона справа?"
+        "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone. Obszar zabudowany, dwa wyznaczone pasy ruchu": "Обгон на перекрестках со светофорами разрешен. Населенный пункт, два обозначенных полосы движения."
     }
 }
