@@ -4117,6 +4117,8 @@
         "Czy na tym skrzyżowaniu możesz wyprzedzić pojazd z prawej strony?": "Можешь ли ты обгонять транспортное средство справа на этом перекрестке?",
         "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone. Obszar zabudowany, dwa wyznaczone pasy ruchu": "Обгон на перекрестках со светофорами разрешен. Населенный пункт, два обозначенных полосы движения.",
         "W celu uniknięcia zdarzenia drogowego należy rozpocząć hamowanie": "Чтобы избежать дорожно-транспортного происшествия, необходимо начать торможение.",
-        "Należy zastosować zasadę ograniczonego zaufania": "Необходимо применить принцип ограниченного доверия."
+        "Należy zastosować zasadę ograniczonego zaufania": "Необходимо применить принцип ограниченного доверия.",
+        "Jedziesz drogą z pierwszeństwem przejazdu. Czy w tej sytuacji masz pierwszeństwo przed rowerzystą?": "Вы едете по главной дороге. Есть ли у вас преимущество перед велосипедистом?",
+        "Czy w tej sytuacji, widząc zachowanie rowerzystów, masz obowiązek się zatrzymać?": "В этой ситуации, видя поведение велосипедистов, у тебя есть обязанность остановиться?"
     }
 }
