@@ -18,7 +18,8 @@
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
-        "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешен ли в таком месте на дороге обгон мотора?"
+        "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешен ли в таком месте на дороге обгон мотора?",
+        "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?"
     },
     "approved": {
         "upewninie się": {
@@ -3469,7 +3470,6 @@
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
-        "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
         "Na autostradzie": "На автостраде.",
