@@ -4131,6 +4131,9 @@
         "Czy w tej sytuacji wykonałeś manewr omijania?": "В этой ситуации вы выполнили маневр объезда?",
         "Czy cofanie pojazdem na drodze ekspresowej jest zabronione?": "Разрешено ли движение задним ходом на \"drodze ekspresowej\"?",
         "Kierujący widocznym samochodem sygnalizuje zamiar skrętu w lewo": "Регулировщик видимого автомобиля сигнализирует намерение повернуть налево.",
-        "Czy w przedstawionej sytuacji należy zwiększyć odstęp podczas omijania tych pojazdów?": "Следует ли увеличить дистанцию во время объезда этих ТС в представленной ситуации?"
+        "Czy w przedstawionej sytuacji należy zwiększyć odstęp podczas omijania tych pojazdów?": "Следует ли увеличить дистанцию во время объезда этих ТС в представленной ситуации?",
+        "Przy omijaniu należy zachować bezpieczny odstęp od omijanego pojazdu, uczestnika ruchu lub przeszkody": "Во время объезда необходимо соблюдать безопасную дистанцию от объезжаемого ТС, участника движения или препятствия.",
+        "Czy w tej sytuacji przejeżdżając obok stojącego pojazdu wykonujesz manewr wymijania?": "В этой ситуации, проезжая мимо стоящего ТС, выполняешь маневр встречного разъезда?",
+        "To jest manewr omijania,": "Это маневр объезда,"
     }
 }
