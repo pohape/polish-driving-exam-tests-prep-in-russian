@@ -2976,7 +2976,9 @@
             "Czy wolno Ci wyprzedzić na przejściu dla pieszych pojazd jadący prawym pasem ruchu?": "Можно ли вам обгонять на пешеходном переходе транспортное средство, движущееся по правой полосе?",
             "Czy wyprzedzając rowerzystę masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Обгоняя велосипедиста, ты обязан соблюдать дистанцию не менее одного метра?",
             "Czy w tej sytuacji masz obowiązek sygnalizować manewr wyprzedzania z prawej strony?": "В этой ситуации у тебя есть обязанность сигнализировать маневр обгона справа?",
-            "Manewr wyprzedzania odbędzie się bez zmiany pasa ruchu": "Манёвр обгона будет выполнен без смены полосы движения."
+            "Manewr wyprzedzania odbędzie się bez zmiany pasa ruchu": "Манёвр обгона будет выполнен без смены полосы движения.",
+            "Rowerzysta sygnalizuje zamiar skrętu w lewo": "Велосипедист сигнализирует о намерении повернуть налево.",
+            "Czy w tej sytuacji możesz przejechać obok rowerzysty z prawej strony?": "Можешь ли ты в этой ситуации проехать мимо велосипедиста с правой стороны?"
         }
     },
     "not_approved": {
@@ -3939,7 +3941,6 @@
         "Czy w przedstawionej sytuacji obowiązany jesteś zachować szczególną ostrożność?": "В представленной ситуации обязаны ли вы проявлять особую осторожность?",
         "Czy wolno Ci położyć bezpośrednio na ranę kompres z wyjałowionej gazy?": "Разрешается ли тебе положить прямо на рану компресс из стерильной повязки?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed rowerzystą?": "У вас есть преимущество перед велосипедистом, если вы едете прямо на этом перекрестке?",
-        "Czy w tej sytuacji możesz przejechać obok rowerzysty z prawej strony?": "Можешь ли ты в этой ситуации проехать мимо велосипедиста с правой стороны?",
         "Czy na tym odcinku jezdni jednokierunkowej wolno Ci wyprzedzić pojazd z prawej strony?": "Разрешено ли тебе обгонять транспортное средство с правой стороны на этом участке дороги с односторонним движением?",
         "Czy skręcając w lewo na tym skrzyżowaniu, masz pierwszeństwo przed pojazdem jadącym z przeciwka?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
         "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
