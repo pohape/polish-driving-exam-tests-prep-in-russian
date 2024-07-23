@@ -2972,7 +2972,8 @@
             "Zły stan nawierzchni, ograniczona widoczność, strasznie wąsko": "Плохое состояние дорожного покрытия, ограниченная видимость, ужасно узко.",
             "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
             "A dlaczego nie?": "А почему нет?",
-            "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))"
+            "W kasku nie powinno się stać nic złego :)))))))": "В шлеме не должно случиться ничего плохого :)))))))",
+            "Czy wolno Ci wyprzedzić na przejściu dla pieszych pojazd jadący prawym pasem ruchu?": "Можно ли вам обгонять на пешеходном переходе транспортное средство, движущееся по правой полосе?"
         }
     },
     "not_approved": {
@@ -4109,6 +4110,7 @@
         "Czy w tej sytuacji zamierzając wrócić na prawy pas masz obowiązek sygnalizować ten zamiar prawym kierunkowskazem?": "В этой ситуации, собираясь вернуться на правую полосу, ты обязан сигнализировать это намерение правым поворотником?",
         "Czy wolno Ci rozpocząć wyprzedzanie pod wiaduktem?": "Можно ли тебе начать обгон под виадуком?",
         "Wyprzedzanie nie jest zabronione podczas przejeżdżania pod wiaduktem": "Обгон не запрещен во время проезда под мостом.",
-        "Czy na tym skrzyżowaniu możesz wyprzedzić pojazd z prawej strony?": "Можешь ли ты обгонять транспортное средство справа на этом перекрестке?"
+        "Czy na tym skrzyżowaniu możesz wyprzedzić pojazd z prawej strony?": "Можешь ли ты обгонять транспортное средство справа на этом перекрестке?",
+        "Wyprzedzanie na skrzyżowaniach z sygnalizacją jest dozwolone. Obszar zabudowany, dwa wyznaczone pasy ruchu": "Обгон на перекрестках со светофорами разрешен. Населенный пункт, два обозначенных полосы движения."
     }
 }
