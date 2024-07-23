@@ -19,7 +19,8 @@
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
         "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешен ли в таком месте на дороге обгон мотора?",
-        "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?"
+        "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке с второстепенной дорогой справа?",
+        "Czy w widocznej sytuacji masz prawo wyprzedzić na skrzyżowaniu pojazd poprzedzający ?": "Имеешь ли ты право обогнуть на перекрестке впереди идущее ТС в данной ситуации?"
     },
     "approved": {
         "upewninie się": {
@@ -2967,7 +2968,8 @@
             "Resuscytacja krążeniowo-oddechowa u dziecka poprzedzona jest 5 wdechami wstępnymi (5 wdechów wstępnych, następnie 30 uciśnięć i 2 wdechy)": "Кардиореспираторная реанимация ребенка предваряется 5 вводными вдохами (5 предварительных вдохов, затем 30 надавливаний и 2 вдоха).",
             "Wykonywanie manewru wyprzedzania nie zwalnia z przestrzegania ograniczeń prędkości": "Выполнение маневра обгона не освобождает от соблюдения ограничений скорости.",
             "Czy w widocznej sytuacji manewr wyprzedzania niesie ryzyko poślizgu i spowodowania wypadku drogowego?": "В видимой ситуации маневр обгона несет риск скольжения и возникновения дорожно-транспортного происшествия?",
-            "Zły stan nawierzchni, ograniczona widoczność, strasznie wąsko": "Плохое состояние дорожного покрытия, ограниченная видимость, ужасно узко."
+            "Zły stan nawierzchni, ograniczona widoczność, strasznie wąsko": "Плохое состояние дорожного покрытия, ограниченная видимость, ужасно узко.",
+            "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором."
         }
     },
     "not_approved": {
@@ -3477,7 +3479,6 @@
         "Na autostradzie": "На автостраде.",
         "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
         "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
-        "Dozwolone jest wyprzedzanie na skrzyżowaniu z sygnalizacją": "Разрешается обгон на перекрестке со светофором.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
         "Zabrania się holowania pojazdu na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych": "Запрещается буксировка транспортного средства на автостраде, за исключением буксировки специально предназначенными для этого транспортными средствами до ближайшего выезда или места обслуживания путешественников.",
@@ -4010,7 +4011,6 @@
         "Zgodnie z oznakowaniem poziomym": "Согласно наземной разметке.",
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Prawidłowe obserwowanie drogi polega na patrzeniu przez przednią szybę i obserwowaniu otoczenia pojazdu w lusterkach wstecznych": "Правильное наблюдение за дорогой заключается в том, чтобы смотреть через лобовое стекло и наблюдать за обстановкой вокруг автомобиля в зеркалах заднего вида.",
-        "Czy w widocznej sytuacji masz prawo wyprzedzić na skrzyżowaniu pojazd poprzedzający ?": "Имеешь ли ты право обогнуть на перекрестке впереди идущее ТС в данной ситуации?",
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
         "Zamierzasz skręcić w prawo. Czy musisz sygnalizować zamiar tego manewru prawym kierunkowskazem?": "Вы намереваетесь повернуть направо. Должны ли вы сигнализировать о намерении выполнить этот маневр правым указателем поворота?",
         "Czy tak pozostawiony na postoju bez opieki pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną?": "Правильно ли оставлено незащищенное транспортное средство на стоянке без присмотра от возможности его запуска неуполномоченным лицом?",
@@ -4103,6 +4103,7 @@
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność": "Водитель транспортного средства обязан при обгоне проявлять особую осторожность.",
         "Pojazd szynowy wyprzedzamy z prawej strony": "Железнодорожный транспорт обгоняем с правой стороны.",
         "Kierującemu pojazdem wyprzedzanym zabrania się w czasie wyprzedzania i bezpośrednio po nim zwiększania prędkości": "Водителю, которого обгоняют, запрещается во время обгона и сразу после него увеличивать скорость.",
-        "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним."
+        "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним.",
+        "A dlaczego nie?": "А почему нет?"
     }
 }
