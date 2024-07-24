@@ -4162,6 +4162,8 @@
         "Czy w tej sytuacji zamierzając skręcić w lewo możesz wjechać za sygnalizator?": "В этой ситуации, собираясь повернуть налево, можешь заехать за светофор?",
         "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, после смены сигнала на зеленый, можешь ли ты развернуться на перекрестке?",
         "Czy ten sygnał świetlny oznacza, że przy skręcaniu w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "Означает ли этот сигнал светофора, что при повороте налево нет столкновения с другими участниками движения?",
-        "Sygnalizator S-1 nie zapewnia bezkolizyjnego przejazdu przez skrzyżowanie": "Святфор S-1 не обеспечивает бесконфликтного проезда через перекресток."
+        "Sygnalizator S-1 nie zapewnia bezkolizyjnego przejazdu przez skrzyżowanie": "Святфор S-1 не обеспечивает бесконфликтного проезда через перекресток.",
+        "Czy masz obowiązek zachować bezpieczny odstęp od omijanego pojazdu?": "У тебя есть обязанность соблюдать безопасную дистанцию от объезжаемого транспортного средства?",
+        "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu": "Водитель транспортного средства обязан при объезде соблюдать безопасную дистанцию от объезжаемого транспортного средства."
     }
 }
