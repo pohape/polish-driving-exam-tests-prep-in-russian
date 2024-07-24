@@ -4151,6 +4151,7 @@
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3 позволяют развернуться.",
         "Następnym sygnałem będzie zielony": "Следующим сигналом будет зеленый.",
         "Wskazania sygnalizacji są ważniejsze od znaków drogowych regulujących pierwszeństwem przejazdu": "Показания светофора важнее знаков дорожного регулирования приоритета проезда.",
-        "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?"
+        "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?",
+        "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa tramwajowi skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу трамваю, поворачивающему налево?"
     }
 }
