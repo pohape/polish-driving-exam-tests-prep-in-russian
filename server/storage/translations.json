@@ -4160,6 +4160,8 @@
         "Sygnał oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu": "Сигнал означает, что во время движения в указанном направлении нет столкновения с другими участниками движения.",
         "Czy w tej sytuacji możesz wjechać za sygnalizator, jeśli zatrzymanie wymagałoby gwałtownego hamowania?": "Можешь ли ты в этой ситуации заехать за светофор, если остановка потребовала бы резкого торможения?",
         "Czy w tej sytuacji zamierzając skręcić w lewo możesz wjechać za sygnalizator?": "В этой ситуации, собираясь повернуть налево, можешь заехать за светофор?",
-        "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, после смены сигнала на зеленый, можешь ли ты развернуться на перекрестке?"
+        "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, после смены сигнала на зеленый, можешь ли ты развернуться на перекрестке?",
+        "Czy ten sygnał świetlny oznacza, że przy skręcaniu w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "Означает ли этот сигнал светофора, что при повороте налево нет столкновения с другими участниками движения?",
+        "Sygnalizator S-1 nie zapewnia bezkolizyjnego przejazdu przez skrzyżowanie": "Святфор S-1 не обеспечивает бесконфликтного проезда через перекресток."
     }
 }
