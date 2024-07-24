@@ -4159,6 +4159,7 @@
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr zmiany kierunku jazdy musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, если движение на перекрестке регулируется светофором, водитель, выполняющий маневр смены направления движения, должен уступить дорогу железнодорожному транспорту, движущемуся по прямой.",
         "Czy ten sygnał oznacza bezkolizyjny skręt w lewo?": "Означает ли этот сигнал бесконфликтный поворот налево?",
         "Sygnał oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu": "Сигнал означает, что во время движения в указанном направлении нет столкновения с другими участниками движения.",
-        "Czy w tej sytuacji możesz wjechać za sygnalizator, jeśli zatrzymanie wymagałoby gwałtownego hamowania?": "Можешь ли ты в этой ситуации заехать за светофор, если остановка потребовала бы резкого торможения?"
+        "Czy w tej sytuacji możesz wjechać za sygnalizator, jeśli zatrzymanie wymagałoby gwałtownego hamowania?": "Можешь ли ты в этой ситуации заехать за светофор, если остановка потребовала бы резкого торможения?",
+        "Czy w tej sytuacji zamierzając skręcić w lewo możesz wjechać za sygnalizator?": "В этой ситуации, собираясь повернуть налево, можешь заехать за светофор?"
     }
 }
