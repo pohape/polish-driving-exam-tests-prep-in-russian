@@ -1,7 +1,6 @@
 {
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
-        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3, позволяют выполнить поворот на 180 градусов.",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон препятствует двойная сплошная линия.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
@@ -4148,6 +4147,7 @@
         "Czy w tej sytuacji musisz ograniczyć zaufanie do pieszego?": "Должны ли вы в этой ситуации ограничить доверие к пешеходу?",
         "Pieszy poświęca znaczą część uwagi swojemu rozmówcy": "Пешеход уделяет значительную часть внимания своему собеседнику.",
         "Bez względu na występowanie sygnalizacji kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność": "Несмотря на наличие светофора, водитель транспортного средства, приближаясь к пешеходному переходу, обязан соблюдать особую осторожность.",
-        "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Разрешено ли вам удаляться от транспортного средства, когда у него включенный двигатель?"
+        "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Разрешено ли вам удаляться от транспортного средства, когда у него включенный двигатель?",
+        "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3 позволяют развернуться."
     }
 }
