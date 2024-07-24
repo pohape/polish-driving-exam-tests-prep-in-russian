@@ -5,7 +5,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
-        "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, изменив сигнал на зеленый, Можно ли повернуть на перекрестке?",
         "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
@@ -4160,6 +4159,7 @@
         "Czy ten sygnał oznacza bezkolizyjny skręt w lewo?": "Означает ли этот сигнал бесконфликтный поворот налево?",
         "Sygnał oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu": "Сигнал означает, что во время движения в указанном направлении нет столкновения с другими участниками движения.",
         "Czy w tej sytuacji możesz wjechać za sygnalizator, jeśli zatrzymanie wymagałoby gwałtownego hamowania?": "Можешь ли ты в этой ситуации заехать за светофор, если остановка потребовала бы резкого торможения?",
-        "Czy w tej sytuacji zamierzając skręcić w lewo możesz wjechać za sygnalizator?": "В этой ситуации, собираясь повернуть налево, можешь заехать за светофор?"
+        "Czy w tej sytuacji zamierzając skręcić w lewo możesz wjechać za sygnalizator?": "В этой ситуации, собираясь повернуть налево, можешь заехать за светофор?",
+        "Czy w tej sytuacji, po zmianie sygnału na zielony, możesz zawrócić na skrzyżowaniu?": "В этой ситуации, после смены сигнала на зеленый, можешь ли ты развернуться на перекрестке?"
     }
 }
