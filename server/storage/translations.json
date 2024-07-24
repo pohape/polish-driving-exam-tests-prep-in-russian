@@ -4156,6 +4156,8 @@
         "Skręcając w lewo należy ustąpić pierwszeństwa nadjeżdżającym z przeciwka. PS: Uwaga na tramwaj :D": "Поворачивая налево, необходимо уступить дорогу ТС, приближающимся встречного. ЗС: Внимание на трамвай :D",
         "Czy w tej sytuacji nadawane sygnały świetlne zezwalają Ci na wjazd za sygnalizator?": "Разрешают ли в этой ситуации подаваемые световые сигналы въезд за светофор?",
         "Zamierzasz zawrócić. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Ты собираешься развернуться. Обязан ли ты уступить дорогу железнодорожному транспорту?",
-        "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr zmiany kierunku jazdy musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, если движение на перекрестке регулируется светофором, водитель, выполняющий маневр смены направления движения, должен уступить дорогу железнодорожному транспорту, движущемуся по прямой."
+        "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr zmiany kierunku jazdy musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, если движение на перекрестке регулируется светофором, водитель, выполняющий маневр смены направления движения, должен уступить дорогу железнодорожному транспорту, движущемуся по прямой.",
+        "Czy ten sygnał oznacza bezkolizyjny skręt w lewo?": "Означает ли этот сигнал бесконфликтный поворот налево?",
+        "Sygnał oznacza, że podczas jazdy we wskazanym kierunku nie występuje kolizja z innymi uczestnikami ruchu": "Сигнал означает, что во время движения в указанном направлении нет столкновения с другими участниками движения."
     }
 }
