@@ -2979,7 +2979,8 @@
             "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
             "Po chodniku można jedynie jeździć w poprzek": "По тротуару можно ездить только поперек.",
             "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
-            "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку."
+            "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
+            "Sygnalizator S-2 zobowiązuje się do zatrzymania się przed nim": "Светофор S-2 обязывает останавливаться перед ним."
         }
     },
     "not_approved": {
@@ -4117,7 +4118,6 @@
         "Jedziesz drogą z pierwszeństwem przejazdu. Czy w tej sytuacji masz pierwszeństwo przed rowerzystą?": "Вы едете по главной дороге. Есть ли у вас преимущество перед велосипедистом?",
         "Czy w tej sytuacji, widząc zachowanie rowerzystów, masz obowiązek się zatrzymać?": "В этой ситуации, видя поведение велосипедистов, у тебя есть обязанность остановиться?",
         "Wystarczy obserwować rozwój sytuacji": "Достаточно наблюдать за развитием ситуации.",
-        "Sygnalizator S-2 zobowiązuje się do zatrzymania się przed nim": "Светофор S-2 обязывает останавливаться перед ним.",
         "Nie da się ukryć, że ten pas się kończy": "Нельзя не заметить, что эта полоса заканчивается.",
         "W razie wyprzedzania roweru, wózka rowerowego, motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедной коляски, мопеда, мотоцикла или колонны пешеходов дистанция не может быть меньше 1 м.",
         "Omijany pojazd sygnalizuje zamiar zmiany kierunku jazdy w lewo": "Объезжаемое ТС сигнализирует намерение изменить направление движения влево.",
