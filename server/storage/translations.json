@@ -5,7 +5,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
-        "powinien użyć sygnału dźwiękowego,": "он должен использовать звуковой сигнал,",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Вы переводите текст как: \"В данной ситуации вы приближаетесь к равнозначному перекрестку?\"",
@@ -2995,7 +2994,8 @@
             "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć prawy kierunkowskaz?": "Вы намерены продолжить движение по главной дороге. Должны ли вы включить правый поворотник?",
             "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
             "Oparzenia należy schładzać zimną wodą": "Ожоги следует охлаждать холодной водой.",
-            "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч."
+            "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
+            "powinien użyć sygnału dźwiękowego,": "должен использовать звуковой сигнал,"
         }
     },
     "not_approved": {
