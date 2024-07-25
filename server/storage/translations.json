@@ -3007,7 +3007,9 @@
             "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku": "Водитель транспортного средства обязан соблюдать особую осторожность при проезде мимо обозначенной остановки трамвая, не расположенной у тротуара.",
             "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Проезжая мимо видимой трамвайной остановки, вы освобождены от обязанности проявлять особую осторожность?",
             "Czy w tej sytuacji powinieneś zmniejszyć prędkość i zachować szczególną ostrożność?": "Должен ли ты в этой ситуации снизить скорость и проявить особую осторожность?",
-            "Sytuacja przedstawia omijanie zwykłych pojazdów": "Ситуация представляет собой объезд обычных ТС."
+            "Sytuacja przedstawia omijanie zwykłych pojazdów": "Ситуация представляет собой объезд обычных ТС.",
+            "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
+            "Poruszanie się w strefie zamieszkania nie wymaga nieustającego zachowywania szczególnej ostrożności": "Передвижение в жилой зоне не требует постоянного соблюдения особой осторожности."
         }
     },
     "not_approved": {
@@ -3448,7 +3450,6 @@
         "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
-        "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
@@ -3781,7 +3782,6 @@
         "Czy w przedstawionej sytuacji minimalna odległość jaką należy zachować od rowerzysty podczas wyprzedzania wynosi 1 m?": "В представленной ситуации минимальное расстояние, которое необходимо соблюдать от велосипедиста во время обгона, составляет 1 метр?",
         "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z obowiązku zachowania szczególnej ostrożności?": "Светофор на пешеходном переходе освобождает тебя от обязанности проявления особой осторожности?",
-        "Czy kierując pojazdem w strefie zamieszkania masz obowiązek stale zachowywać szczególną ostrożność?": "Вождя автомобилем в жилой зоне, ты обязан всегда проявлять особую осторожность?",
         "Nie mniejszy niż 50 metrów": "Не меньше чем 50 метров.",
         "Nie mniejszy niż 30 metrów": "Не меньше 30 метров.",
         "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
@@ -4224,6 +4224,7 @@
         "Czy bezpośrednio za tym znakiem masz prawo zaparkować pojazd?": "Имеешь ли ты право припарковать транспортное средство прямо за этим знаком?",
         "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
-        "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом."
+        "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом.",
+        "Czy kierując pojazdem w strefie zamieszkania masz obowiązek stale zachowywać szczególną ostrożność?": "Обязан ли ты, управляя транспортным средством в жилой зоне, постоянно проявлять особую осторожность?"
     }
 }
