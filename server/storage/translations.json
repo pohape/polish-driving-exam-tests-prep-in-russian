@@ -2982,7 +2982,8 @@
             "W tej sytuacji nie żadnych podstaw żeby zrezygnować z kontynuowania manewru": "В данной ситуации нет оснований для того, чтобы отказаться от продолжения маневра.",
             "Czy w tej sytuacji masz prawo kontynuować manewr wyprzedzania?": "Имеете ли вы право продолжать маневр обгона в этой ситуации?",
             "Po chodniku można jedynie jeździć w poprzek": "По тротуару можно ездить только поперек.",
-            "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?"
+            "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
+            "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку."
         }
     },
     "not_approved": {
@@ -2993,7 +2994,6 @@
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
-        "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
