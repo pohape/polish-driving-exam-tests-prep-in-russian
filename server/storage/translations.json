@@ -2988,7 +2988,8 @@
             "Czy w tej sytuacji, kierując pojazdem samochodowym, wolno Ci używac wyłącznie świateł pozycyjnych?": "В этой ситуации, управляя автомобильным транспортом, разрешено ли вам использовать только габаритные огни?",
             "Świateł pozycyjnych używa się podczas postoju": "Габаритные огни используются во время стоянки.",
             "Droga jest oświetlona": "Дорога освещена.",
-            "Mamy do czynienia z oświetloną drogą": "Мы имеем дело с освещенной дорогой."
+            "Mamy do czynienia z oświetloną drogą": "Мы имеем дело с освещенной дорогой.",
+            "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией."
         }
     },
     "not_approved": {
@@ -3612,7 +3613,6 @@
         "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия.",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
         "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одного бока или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м.",
-        "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
