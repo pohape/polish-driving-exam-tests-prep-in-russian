@@ -162,7 +162,7 @@
             "wyprzedzać: обгонять",
             "wyprzedzanie: обгон"
         ],
-        "wymij": [
+        "wymijan": [
             "na bezpieczeństwo podczas wymijania samochodem osobowym innego pojazdu: на безопасность во время встречного разъезда на легковом автомобиле с другим встречным ТС",
             "podczas wymijania pojazdu: во время встречного разъезда с ТС",
             "podczas wymijania samochodu osobowego: во время встречного разъезда с легковым автомобилем",
@@ -320,6 +320,7 @@
         ]
     },
     "dictionary_others": {
+        "wyminięc": "wyminięcie: встречный разъезд",
         "tempomat": "tempomat: круиз-контроль",
         "kołami jednego boku": "kołami jednego boku: колёсами одного бока",
         "kierując": "kierujący ruchem: регулировщик",
