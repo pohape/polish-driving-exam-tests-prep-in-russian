@@ -4175,6 +4175,8 @@
         "Jaka jest maksymalna dopuszczalna długość zespołu pojazdów składającego się z samochodu osobowego i przyczepy kempingowej?": "Какова максимальная допустимая длина автопоезда, состоящего из легкового автомобиля и кемпингового прицепа?",
         "Dopuszczalna długość zespołu pojazdów składającego się z pojazdu i przyczepy wynosi 18,75 m": "Допустимая длина автопоезда, состоящего из автомобиля и прицепа, составляет 18,75 м.",
         "Czy na najbliższym skrzyżowaniu wolno Ci oczekiwać na możliwość zawrócenia w obrębie pasa dzielącego jezdnie?": "Можно ли на ближайшем перекрестке ожидать возможности развернуться в пределах полосы, разделяющей проезжие части?",
-        "Wybierając to miejsce w najmniejszym stopniu utrudniasz ruch": "Выбирая это место, ты в наименьшей степени затрудняешь движение."
+        "Wybierając to miejsce w najmniejszym stopniu utrudniasz ruch": "Выбирая это место, ты в наименьшей степени затрудняешь движение.",
+        "Czy wolno Ci zawrócić na widocznym odcinku drogi?": "Разрешено ли тебе развернуться на видимом участке дороги?",
+        "Zabrania się zawracania na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego": "Запрещается разворачиваться на 'drodze ekspresowej', за исключением перекрестка с второстепенной дорогой справа или места, специально для этого предназначенного."
     }
 }
