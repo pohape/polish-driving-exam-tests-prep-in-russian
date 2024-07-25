@@ -18,7 +18,8 @@
         "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?": "Прибывая к пешеходному переходу, на который входит человек с инвалидностью, использующий специальный знак, или человек с明显но ограниченной подвижностью, должен ли ты учитывать, что тебе придется остановить транспортное средство?",
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
-        "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни."
+        "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
+        "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?"
     },
     "approved": {
         "upewninie się": {
@@ -2996,7 +2997,9 @@
             "Oparzenia należy schładzać zimną wodą": "Ожоги следует охлаждать холодной водой.",
             "Prędkość dopuszczalna w strefie zamieszkania wynosi 20 km\/h": "Допустимая скорость в жилой зоне составляет 20 км\/ч.",
             "powinien użyć sygnału dźwiękowego,": "должен использовать звуковой сигнал,",
-            "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?"
+            "Czy w tej sytuacji masz prawo zatrzymać pojazd na pasie między jezdniami?": "Имеете ли вы право в этой ситуации останавливать автомобиль на полосе между проезжей частью?",
+            "Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką – na całej jej długości": "Запрещается остановка автомобиля на расстоянии менее 15 м от столбика или таблички, обозначающей остановку, а на остановке с карманом – на всей ее длине.",
+            "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?"
         }
     },
     "not_approved": {
@@ -3441,7 +3444,6 @@
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
-        "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
         "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
@@ -4213,8 +4215,6 @@
         "W takiej sytuacji należy zapewnić sobie pomoc": "В такой ситуации нужно обеспечить себе помощь.",
         "Pozycja boczna ustalona zapewnia drożność dróg oddechowych i zabezpiecza osobę ranną przed zachłyśnięciem się": "Боковая позиция обеспечивает проходимость дыхательных путей и защищает раненого от захлебывания.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na autostradzie lub drodze ekspresowej – w każdym przypadku": "Kierujący транспортным средством обязан сигнализировать стоянку транспортного средства с работающим двигателем или прицепа в случае повреждения или аварии на автостраде или \"drodze ekspresowej\" – в любом случае.",
-        "Zabrania się zatrzymania na pasie dzielącym jezdnie": "Запрещается останавливать на полосе, разделяющей проезжие части.",
-        "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
-        "Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką – na całej jej długości": "Запрещается остановка автомобиля на расстоянии менее 15 м от столбика или таблички, обозначающей остановку, а на остановке с карманом – на всей ее длине."
+        "Zabrania się zatrzymania na pasie dzielącym jezdnie": "Запрещается останавливать на полосе, разделяющей проезжие части."
     }
 }
