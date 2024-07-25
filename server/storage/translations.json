@@ -2992,7 +2992,8 @@
             "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
             "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель ТС может использовать задние противотуманные фонари, если сниженная прозрачность воздуха ограничивает видимость на расстояние меньше 50 м.",
             "Kontynuacja jazdy drogą z pierwszeństwem wiąże się z wykonaniem skrętu w prawo na skrzyżowaniu": "Продолжение движения по главной дороге связано с выполнением поворота вправо на перекрестке.",
-            "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć prawy kierunkowskaz?": "Вы намерены продолжить движение по главной дороге. Должны ли вы включить правый поворотник?"
+            "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć prawy kierunkowskaz?": "Вы намерены продолжить движение по главной дороге. Должны ли вы включить правый поворотник?",
+            "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни."
         }
     },
     "not_approved": {
@@ -3281,7 +3282,6 @@
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
-        "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
