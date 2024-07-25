@@ -16,7 +16,6 @@
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
-        "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany": "Кирующему транспортным средством запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним, за исключением перехода, на котором движение регулируется.",
         "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?": "Прибывая к пешеходному переходу, на который входит человек с инвалидностью, использующий специальный знак, или человек с明显но ограниченной подвижностью, должен ли ты учитывать, что тебе придется остановить транспортное средство?",
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник."
     },
@@ -4170,6 +4169,7 @@
         "Czy omijając widoczny po lewej stronie obiekt, masz obowiązek zachowania bezpiecznego odstępu?": "При объезде видимого слева объекта, обязан ли ты соблюдать безопасную дистанцию?",
         "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешается ли в таком месте на дороге обгонять двигательныe транспортные средства?",
         "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?",
-        "Czy w widocznej sytuacji masz prawo wyprzedzić na skrzyżowaniu pojazd poprzedzający ?": "Есть ли у тебя право обогнать на перекрестке впереди идущее ТС в данной ситуации?"
+        "Czy w widocznej sytuacji masz prawo wyprzedzić na skrzyżowaniu pojazd poprzedzający ?": "Есть ли у тебя право обогнать на перекрестке впереди идущее ТС в данной ситуации?",
+        "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany": "Водителю запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним, за исключением перехода, на котором движение регулируется."
     }
 }
