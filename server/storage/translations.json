@@ -2980,7 +2980,8 @@
             "Po chodniku można jedynie jeździć w poprzek": "По тротуару можно ездить только поперек.",
             "Czy masz prawo wjechać na chodnik, by ominąć ten pojazd?": "Есть ли у вас право выехать на тротуар, чтобы обойти этот автомобиль?",
             "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
-            "Sygnalizator S-2 zobowiązuje się do zatrzymania się przed nim": "Светофор S-2 обязывает останавливаться перед ним."
+            "Sygnalizator S-2 zobowiązuje się do zatrzymania się przed nim": "Светофор S-2 обязывает останавливаться перед ним.",
+            "Zatrzymanie powinno nastąpić przed linią lub w miejscu o najlepszej widoczności": "Остановка должна произойти перед стоп-линией или в месте с наилучшей видимостью."
         }
     },
     "not_approved": {
