@@ -20,7 +20,8 @@
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
-        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?"
+        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?",
+        "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "Имеете ли вы право в этой ситуации после обгона транспортного средства переключить фары с ближнего на дальний свет?"
     },
     "approved": {
         "upewninie się": {
@@ -3088,7 +3089,6 @@
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
-        "Czy w tej sytuacji po wyminięciu pojazdu masz prawo zmienić światła mijania na drogowe?": "В этой ситуации, когда вы меняете автомобиль, имеете ли вы право менять ближний свет на Дальний?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
         "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Minimalnie 1 m": "Минимум 1 м.",
