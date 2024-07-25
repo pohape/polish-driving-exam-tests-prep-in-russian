@@ -17,7 +17,8 @@
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Однажды начатая стабилизация шейных позвонков не может быть прервана.",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
         "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?": "Прибывая к пешеходному переходу, на который входит человек с инвалидностью, использующий специальный знак, или человек с明显но ограниченной подвижностью, должен ли ты учитывать, что тебе придется остановить транспортное средство?",
-        "TO nie jest sygnalizator kierunkowy": "Это не поворотник."
+        "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
+        "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом."
     },
     "approved": {
         "upewninie się": {
@@ -3266,7 +3267,6 @@
         "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
-        "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
