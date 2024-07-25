@@ -2989,7 +2989,8 @@
             "Świateł pozycyjnych używa się podczas postoju": "Габаритные огни используются во время стоянки.",
             "Droga jest oświetlona": "Дорога освещена.",
             "Mamy do czynienia z oświetloną drogą": "Мы имеем дело с освещенной дорогой.",
-            "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией."
+            "Świateł awaryjnych można używać tylko w czasie zatrzymania pojazdu związanego z awarią lub wypadkiem": "Аварийные огни можно использовать только во время остановки транспортного средства, связанной с поломкой или аварией.",
+            "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель ТС может использовать задние противотуманные фонари, если сниженная прозрачность воздуха ограничивает видимость на расстояние меньше 50 м."
         }
     },
     "not_approved": {
@@ -4004,7 +4005,6 @@
         "Zastępują światła pozycyjne": "Заменяют габаритные огни.",
         "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства.",
         "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
-        "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель ТС может использовать задние противотуманные фонари, если сниженная прозрачность воздуха ограничивает видимость на расстояние меньше 50 м.",
         "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
