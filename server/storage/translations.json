@@ -2983,7 +2983,10 @@
             "Nie można rozdzielać kolumny rowerowej": "Вы не можете разделить велосипедную колонку.",
             "Sygnalizator S-2 zobowiązuje się do zatrzymania się przed nim": "Светофор S-2 обязывает останавливаться перед ним.",
             "Zatrzymanie powinno nastąpić przed linią lub w miejscu o najlepszej widoczności": "Остановка должна произойти перед стоп-линией или в месте с наилучшей видимостью.",
-            "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой."
+            "W czasie od zmierzchu do świtu, na nieoświetlonych drogach, zamiast świateł mijania lub łącznie z nimi, kierujący pojazdem może używać świateł drogowych, o ile nie oślepi innych kierujących albo pieszych poruszających się w kolumnie": "В период с сумерек до рассвета, на неосвещенных дорогах, вместо ближнего света или вместе с ним, водитель может использовать дальний свет, при условии, что он не ослепляет других водителей или пешеходов, идущих группой.",
+            "Czy w tej sytuacji, kierując pojazdem samochodowym, wolno Ci używac wyłącznie świateł pozycyjnych?": "В этой ситуации, управляя автомобильным транспортом, разрешено ли вам использовать только габаритные огни?",
+            "Świateł pozycyjnych używa się podczas postoju": "Габаритные огни используются во время стоянки.",
+            "Droga jest oświetlona": "Дорога освещена."
         }
     },
     "not_approved": {
