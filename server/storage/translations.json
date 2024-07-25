@@ -2993,7 +2993,8 @@
             "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m": "Водитель ТС может использовать задние противотуманные фонари, если сниженная прозрачность воздуха ограничивает видимость на расстояние меньше 50 м.",
             "Kontynuacja jazdy drogą z pierwszeństwem wiąże się z wykonaniem skrętu w prawo na skrzyżowaniu": "Продолжение движения по главной дороге связано с выполнением поворота вправо на перекрестке.",
             "Zamierzasz kontynuować jazdę drogą z pierwszeństwem przejazdu. Czy musisz włączyć prawy kierunkowskaz?": "Вы намерены продолжить движение по главной дороге. Должны ли вы включить правый поворотник?",
-            "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни."
+            "W czasie od świtu do zmierzchu w warunkach normalnej przejrzystości powietrza, zamiast świateł mijania, kierujący pojazdem może używać świateł do jazdy dziennej": "В период с рассвета до заката при нормальной видимости вместо ближнего света водитель ТС может использовать дневные ходовые огни.",
+            "Oparzenia należy schładzać zimną wodą": "Ожоги следует охлаждать холодной водой."
         }
     },
     "not_approved": {
@@ -4209,6 +4210,7 @@
         "Postój uszkodzonego na drodze ekspresowej pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на \"drodze ekspresowej\" транспортного средства необходимо сигнализировать, в частности, путем размещения знака аварийной остановки на расстоянии 100 м за транспортным средством.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku: na autostradzie lub drodze ekspresowej – w każdym przypadku": "Водитель транспортного средства обязан сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии: на автостраде или \"drodze ekspresowej\" – в каждом случае.",
         "Czy powinieneś, bez wcześniejszego wezwania pomocy, rozpocząć resuscytację potrzebującej jej osoby rannej, gdy jesteś sam na miejscu wypadku drogowego?": "Должен ли ты, не вызвав заранее помощь, начать реанимацию нуждающемуся в ней раненому человеку, если ты один на месте дорожного происшествия?",
-        "W takiej sytuacji należy zapewnić sobie pomoc": "В такой ситуации нужно обеспечить себе помощь."
+        "W takiej sytuacji należy zapewnić sobie pomoc": "В такой ситуации нужно обеспечить себе помощь.",
+        "Pozycja boczna ustalona zapewnia drożność dróg oddechowych i zabezpiecza osobę ranną przed zachłyśnięciem się": "Боковая позиция обеспечивает проходимость дыхательных путей и защищает раненого от захлебывания."
     }
 }
