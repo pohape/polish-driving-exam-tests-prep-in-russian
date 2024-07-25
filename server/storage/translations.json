@@ -3009,7 +3009,9 @@
             "Czy w tej sytuacji powinieneś zmniejszyć prędkość i zachować szczególną ostrożność?": "Должен ли ты в этой ситуации снизить скорость и проявить особую осторожность?",
             "Sytuacja przedstawia omijanie zwykłych pojazdów": "Ситуация представляет собой объезд обычных ТС.",
             "Nie jest to sytuacja wymagająca zachowania szczególnej ostrożności": "Это не ситуация, требующая проявления особой осторожности.",
-            "Poruszanie się w strefie zamieszkania nie wymaga nieustającego zachowywania szczególnej ostrożności": "Передвижение в жилой зоне не требует постоянного соблюдения особой осторожности."
+            "Poruszanie się w strefie zamieszkania nie wymaga nieustającego zachowywania szczególnej ostrożności": "Передвижение в жилой зоне не требует постоянного соблюдения особой осторожности.",
+            "Czy kierując pojazdem w strefie zamieszkania masz obowiązek stale zachowywać szczególną ostrożność?": "Обязан ли ты, управляя транспортным средством в жилой зоне, постоянно проявлять особую осторожность?",
+            "Czy w tej sytuacji podczas wymijania masz obowiązek zachować szczególną ostrożność?": "Есть ли у вас обязанность соблюдать особую осторожность в этой ситуации во время встречного разъезда?"
         }
     },
     "not_approved": {
@@ -4224,7 +4226,6 @@
         "Czy bezpośrednio za tym znakiem masz prawo zaparkować pojazd?": "Имеешь ли ты право припарковать транспортное средство прямо за этим знаком?",
         "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
-        "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом.",
-        "Czy kierując pojazdem w strefie zamieszkania masz obowiązek stale zachowywać szczególną ostrożność?": "Обязан ли ты, управляя транспортным средством в жилой зоне, постоянно проявлять особую осторожность?"
+        "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом."
     }
 }
