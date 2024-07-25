@@ -3001,7 +3001,11 @@
             "Zabrania się zatrzymania pojazdu w odległości mniejszej niż 15 m od słupka lub tablicy oznaczającej przystanek, a na przystanku z zatoką – na całej jej długości": "Запрещается остановка автомобиля на расстоянии менее 15 м от столбика или таблички, обозначающей остановку, а на остановке с карманом – на всей ее длине.",
             "Czy masz prawo zatrzymać pojazd na widocznym moście w celu wysadzenia pasażerów?": "Имеете ли вы право остановить транспортное средство на видимом мосту с целью высадки пассажиров?",
             "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić stojące pojazdy?": "В представленной ситуации разрешено ли вам использовать звуковой сигнал для вызова стоящих транспортных средств?",
-            "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность."
+            "Podczas przejazdu przez skrzyżowanie należy zachować szczególną ostrożność": "Во время проезда через перекресток необходимо соблюдать особую осторожность.",
+            "To nas wyprzedzają": "Это нас обгоняют.",
+            "Czy w przedstawionej sytuacji należy zachować szczególną ostrożność?": "Следует ли соблюдать особую осторожность в представленной ситуации?",
+            "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku": "Водитель транспортного средства обязан соблюдать особую осторожность при проезде мимо обозначенной остановки трамвая, не расположенной у тротуара.",
+            "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Проезжая мимо видимой трамвайной остановки, вы освобождены от обязанности проявлять особую осторожность?"
         }
     },
     "not_approved": {
@@ -3064,7 +3068,6 @@
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
         "W przedstawionej sytuacji zamierzasz jechać na wprost. Czy musisz się zatrzymać przed wjazdem na skrzyżowanie?": "В представленной ситуации вы собираетесь ехать прямо. Нужно ли останавливаться перед въездом на перекресток?",
         "Czy osobę ranną, która odzyskała oddech, ale jest nieprzytomna, należy ułożyć w pozycji bocznej ustalonej?": "Следует ли поместить раненого, который восстановил дыхание, но без сознания, в фиксированное боковое положение?",
-        "Czy przejeżdżając obok widocznego przystanku tramwajowego jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "Проезжая мимо видимой трамвайной остановки, вы освобождены от обязанности проявлять особую осторожность?",
         "Czy w tej sytuacji masz obowiązek kontynuować jazdę prawym pasem ruchu?": "В этой ситуации вы обязаны продолжать движение по правой полосе?",
         "Czy w tej sytuacji wolno Ci pozostać na lewym pasie ruchu, gdy prawy jest wolny?": "В этой ситуации вам разрешено оставаться на левой полосе, когда правая свободна?",
         "Czy w tej sytuacji masz prawo zatrzymać pojazd przy prawej krawędzi jezdni bezpośrednio za przejściem dla pieszych?": "Имеете ли вы право в этой ситуации останавливать транспортное средство у правого края проезжей части прямо за пешеходным переходом?",
@@ -3800,7 +3803,6 @@
         "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
-        "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność przy przejeżdżaniu obok oznaczonego przystanku tramwajowego nieznajdującego się przy chodniku": "Водитель транспортного средства обязан соблюдать особую осторожность при проезде мимо обозначенной остановки трамвая, не расположенной у тротуара.",
         "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
@@ -4220,7 +4222,6 @@
         "Czy bezpośrednio za tym znakiem masz prawo zaparkować pojazd?": "Имеешь ли ты право припарковать транспортное средство прямо за этим знаком?",
         "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
-        "Czy w przedstawionej sytuacji należy zachować szczególną ostrożność?": "Следует ли соблюдать особую осторожность в представленной ситуации?",
-        "To nas wyprzedzają": "Это нас обгоняют."
+        "Czy w tej sytuacji powinieneś zmniejszyć prędkość i zachować szczególną ostrożność?": "Должен ли ты в этой ситуации снизить скорость и проявить особую осторожность?"
     }
 }
