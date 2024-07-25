@@ -19,7 +19,8 @@
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
-        "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?"
+        "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
+        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?"
     },
     "approved": {
         "upewninie się": {
@@ -4227,6 +4228,6 @@
         "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
         "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом.",
-        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?"
+        "Zasada ograniczonego zaufania: \"uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania\" Niepełnosprawność nie jest taką okolicznością!": "Принцип ограниченного доверия: \"участник движения и другое лицо, находящееся на дороге, имеют право рассчитывать, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность иного их поведения\" Инвалидность не является такой обстоятельством!"
     }
 }
