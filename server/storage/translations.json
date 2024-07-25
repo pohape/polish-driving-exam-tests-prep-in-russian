@@ -4183,6 +4183,7 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy skręcając na tym skrzyżowaniu w lewo, zachowałeś właściwy tor jazdy?": "Скручивая на этом перекрестке налево, ты сохранил правильный путь движения?",
         "Czy w tej sytuacji, zmieniając pas ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, меняя полосу движения, обязан ли ты соблюдать особую осторожность?",
-        "Zabrania się zawracania w tunelu": "Запрещается разворачиваться в тоннеле."
+        "Zabrania się zawracania w tunelu": "Запрещается разворачиваться в тоннеле.",
+        "Czy w tej sytuacji dozwolone jest użycie sygnału dźwiękowego?": "Допустимо ли в этой ситуации использование звукового сигнала?"
     }
 }
