@@ -3046,7 +3046,10 @@
             "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
             "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
             "Czy jako uczestnik wypadku drogowego, w którym są ranni, po wezwaniu służb ratunkowych masz prawo oddalić się z miejsca zdarzenia?": "Имеешь ли ты право удалиться с места происшествия, если ты являешься участником дорожно-транспортного происшествия, в котором есть пострадавшие, после вызова спасательных служб?",
-            "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz obowiązek pozostawić pojazd w miejscu zdarzenia?": "Как участник дорожно-транспортного происшествия, в котором есть пострадавшие, обязан ли ты оставить транспортное средство на месте происшествия?"
+            "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz obowiązek pozostawić pojazd w miejscu zdarzenia?": "Как участник дорожно-транспортного происшествия, в котором есть пострадавшие, обязан ли ты оставить транспортное средство на месте происшествия?",
+            "W takiej sytuacji nie ma obowiązku wzywania Policji": "В такой ситуации нет обязанности вызывать полицию.",
+            "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek wezwać Policję?": "Есть ли у вас, как у участника дорожного происшествия, в котором нет погибших или раненых, обязанность вызвать полицию?",
+            "W tej sytuacji należy niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu": "В этой ситуации необходимо незамедлительно удалить транспортное средство с места аварии, чтобы не создавать опасность или затруднение движения."
         }
     },
     "not_approved": {
@@ -4259,6 +4262,6 @@
         "Kierowcy omijający pojazd będą zmuszeni naruszyć linie ciągłą": "Водители, объезжающие транспортное средство, будут вынуждены нарушить сплошную линию.",
         "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?",
         "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии.",
-        "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek wezwać Policję?": "Есть ли у вас, как у участника дорожного происшествия, в котором нет погибших или раненых, обязанность вызвать полицию?"
+        "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek niezwłocznie usunąć pojazd z miejsca zdarzenia?": "Являясь участником дорожно-транспортного происшествия, в котором нет погибших или раненых, обязан ли ты незамедлительно убрать транспортное средство с места происшествия?"
     }
 }
