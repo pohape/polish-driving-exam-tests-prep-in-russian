@@ -20,7 +20,8 @@
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
-        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?"
+        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?",
+        "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?"
     },
     "approved": {
         "upewninie się": {
@@ -3504,7 +3505,6 @@
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
         "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
         "Czy w tej sytuacji wolno Ci ominąć widoczny samochód z prawej strony?": "В этой ситуации разрешается ли тебе обогнать видимый автомобиль с правой стороны?",
-        "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
         "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?": "Во время буксировки транспортного средства разрешено ли тебе использовать аварийные огни?",
         "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
