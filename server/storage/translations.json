@@ -3030,12 +3030,14 @@
             "Na zdjęciu jest widoczny zakaz zatrzymywania z tabliczką \"przed i za znakiem\"": "На фотографии виден знак \"Остановка запрещена\" с табличкой \"до и после знака\".",
             "Dopuszczalne jest parkowanie zgodne z tabliczką": "Допускается парковка в соответствии с дорожным знаком.",
             "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
-            "Linia oddzielająca pobocze jest przerywana": "Линия, отделяющая обочину, прерывистая."
+            "Linia oddzielająca pobocze jest przerywana": "Линия, отделяющая обочину, прерывистая.",
+            "Czy w tej sytuacji zabronione jest zatrzymanie pojazdu na prawym poboczu tej drogi?": "Запрещена ли остановка транспортного средства на правой обочине этой дороги в данной ситуации?",
+            "Pobocze jest oddzielone ciągłą linią": "Обочина отделена сплошной линией.",
+            "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?"
         }
     },
     "not_approved": {
         "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Обязан ли водитель использовать так называемый \"слайд-драйв\", когда нет значительного снижения скорости?",
-        "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
         "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Вы имеете право припарковать автомобиль на левой стороне дороги для велосипедов?",
         "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
@@ -3882,7 +3884,6 @@
         "Dopuszcza się wykonanie manewru cofania na drodze jednokierunkowej": "Разрешается выполнять маневр движения задним ходом на дороге с односторонним движением.",
         "Ze względu na ograniczoną przestrzeń należy zmniejszyć prędkość w celu zapewnienia bezpieczeństwa": "Из-за ограниченного пространства необходимо снизить скорость для обеспечения безопасности.",
         "W tej sytuacji istnieje możliwość oślepienia kierującego wyprzedzającym pojazdem": "В этой ситуации существует вероятность ослепления водителя обгоняющим транспортным средством.",
-        "Pobocze jest oddzielone ciągłą linią": "Обочина отделена сплошной линией.",
         "Linia ciągła oddzielająca lewy pas uniemożliwia wykonanie wyprzedzania": "Сплошная линия, отделяющая левую полосу, запрещает выполнение обгона.",
         "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
         "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
@@ -4244,6 +4245,7 @@
         "Od znaku oznaczającego przystanek należy zachować 15 m": "От знака, обозначающего остановку общественного транспорта, следует соблюдать 15 м.",
         "Jeżeli pasy ruchu na jezdni są wyznaczone, kierujący nie może zajmować więcej niż jednego pasa": "Если полосы движения на проезжей части обозначены, водитель не может занимать более одной полосы.",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
-        "Kierujący pojazdem jest obowiązany zbliżyć się: do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo; do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться: к правому краю проезжей части — если намеревается повернуть направо; к центру проезжей части или на дороге с односторонним движением к левому её краю — если намеревается повернуть налево."
+        "Kierujący pojazdem jest obowiązany zbliżyć się: do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo; do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться: к правому краю проезжей части — если намеревается повернуть направо; к центру проезжей части или на дороге с односторонним движением к левому её краю — если намеревается повернуть налево.",
+        "Pobocze oddzielone jest ciągłą linią": "Обочина отделена сплошной линией."
     }
 }
