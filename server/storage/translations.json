@@ -3043,7 +3043,8 @@
             "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost dotychczasowym pasem ruchu?": "Разрешено ли Вам в этой ситуации продолжать движение прямо по той же полосе движения?",
             "W strefie zamieszkania zabroniony jest postój poza wyznaczonymi miejscami": "В жилой зоне стоянка запрещена вне отведенных мест.",
-            "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?"
+            "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
+            "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи."
         }
     },
     "not_approved": {
@@ -3253,7 +3254,6 @@
         "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
         "O kolejne dwa miesiące": "На следующие два месяца.",
-        "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
         "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
