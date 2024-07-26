@@ -3038,7 +3038,9 @@
             "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
             "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych. Kierujący na lewym pasie powinni zjechać na lewo, a kierujący z pozostałych pasów na prawą stronę": "Создание коридора жизни заключается в обеспечении пространства на дороге для проезда транспортных средств аварийно-спасательных служб. Водители, движущиеся по левой полосе, должны уступить дорогу влево, а водители на остальных полосах - вправо.",
             "Czy kierujący pojazdami w sposób właściwy umożliwili swobodny przejazd pojazdu uprzywilejowanego?": "Предоставили ли водители транспортных средств в должной мере возможность беспрепятственного проезда привилегированного транспортного средства?",
-            "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych": "Создание коридора жизни заключается в создании пространства на дороге для транспортных средств экстренных служб."
+            "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych": "Создание коридора жизни заключается в создании пространства на дороге для транспортных средств экстренных служб.",
+            "Pobocze oddzielone jest ciągłą linią krawędziową": "Обочина отделена сплошной линией края проезжей части.",
+            "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?"
         }
     },
     "not_approved": {
@@ -3653,7 +3655,6 @@
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можешь ли ты, управляя автомобилем, повернуть на участке после знака направо на обозначенную таким образом дорогу?",
         "Czy w przedstawionej sytuacji wolno Ci zmienić pas ruchu na prawy skrajny?": "В данной ситуации разрешается ли тебе сменить полосу на крайнюю правую?",
         "Czy w tej sytuacji masz obowiązek ustąpienia pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka?": "В этой ситуации у вас есть обязанность уступить дорогу приближающемуся встречному ТС?",
-        "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?",
         "Czy w tej sytuacji, podczas zawracania wystąpi kolizja z innymi uczestnikami ruchu?": "Произойдет ли в этой ситуации, во время разворота, столкновение с другими участниками движения?",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
@@ -4248,6 +4249,7 @@
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Kierujący pojazdem jest obowiązany zbliżyć się: do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo; do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться: к правому краю проезжей части — если намеревается повернуть направо; к центру проезжей части или на дороге с односторонним движением к левому её краю — если намеревается повернуть налево.",
         "Pobocze oddzielone jest ciągłą linią": "Обочина отделена сплошной линией.",
-        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?"
+        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?",
+        "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost dotychczasowym pasem ruchu?": "Разрешено ли Вам в этой ситуации продолжать движение прямо по той же полосе движения?"
     }
 }
