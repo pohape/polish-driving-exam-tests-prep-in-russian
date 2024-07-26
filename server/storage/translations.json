@@ -3064,7 +3064,8 @@
             "Ze względu na ograniczoną przestrzeń należy zmniejszyć prędkość w celu zapewnienia bezpieczeństwa": "Из-за ограниченного пространства необходимо снизить скорость для обеспечения безопасности.",
             "Czy w tej sytuacji masz obowiązek zachować szczególną ostrożność i w razie potrzeby zatrzymać pojazd?": "В этой ситуации вы обязаны соблюдать особую осторожность и при необходимости остановить транспортное средство?",
             "Kierujący pojazdem, omijając pojazd oznakowany symbolem wózka, jest zobowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się": "Водитель транспортного средства, объезжая автомобиль, обозначенный символом инвалидной коляски, обязан при посадке или высадке человека с инвалидностью проявлять особую осторожность и при необходимости остановиться.",
-            "Czy w tej sytuacji masz obowiązek zrezygnować z wykonania manewru wyprzedzania?": "В этой ситуации вы обязаны отказаться от выполнения маневра обгона?"
+            "Czy w tej sytuacji masz obowiązek zrezygnować z wykonania manewru wyprzedzania?": "В этой ситуации вы обязаны отказаться от выполнения маневра обгона?",
+            "Czy w tej sytuacji powinieneś umożliwić przejazd pojazdowi uprzywilejowanemu, wysyłającemu niebieskie sygnały świetlne i sygnały dźwiękowe o zmiennym tonie?": "Должны ли вы в этой ситуации уступить дорогу транспортному средству с включёнными синими световыми сигналами и звуковыми сигналами изменяющейся тональности?"
         }
     },
     "not_approved": {
@@ -4268,6 +4269,7 @@
         "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?",
         "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии.",
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
-        "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?"
+        "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
+        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки."
     }
 }
