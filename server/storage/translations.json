@@ -3028,7 +3028,9 @@
             "Przepis mówiący o pozostawieniu 1,5 m szerokości dotyczy chodnika,": "Правило, говорящее о том, чтобы оставить ширину 1,5 м, применимо к тротуару,",
             "Czy dozwolone jest zatrzymanie samochodu osobowego na drodze dla rowerów, jeżeli pozostanie co najmniej 1,5 m szerokości dla rowerzystów?": "Разрешено ли останавливать легковой автомобиль на дороге для велосипедов, если для велосипедистов остается не менее 1,5 м в ширину?",
             "Na zdjęciu jest widoczny zakaz zatrzymywania z tabliczką \"przed i za znakiem\"": "На фотографии виден знак \"Остановка запрещена\" с табличкой \"до и после знака\".",
-            "Dopuszczalne jest parkowanie zgodne z tabliczką": "Допускается парковка в соответствии с дорожным знаком."
+            "Dopuszczalne jest parkowanie zgodne z tabliczką": "Допускается парковка в соответствии с дорожным знаком.",
+            "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
+            "Linia oddzielająca pobocze jest przerywana": "Линия, отделяющая обочину, прерывистая."
         }
     },
     "not_approved": {
@@ -3453,7 +3455,6 @@
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
-        "Czy masz prawo zatrzymać swój pojazd na prawym poboczu tej drogi?": "Имеешь ли ты право остановить свой транспортное средство на правой обочине этой дороги?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
