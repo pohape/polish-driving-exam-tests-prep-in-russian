@@ -3060,7 +3060,11 @@
             "Czy powinieneś, bez wcześniejszego wezwania pomocy, rozpocząć resuscytację potrzebującej jej osoby rannej, gdy jesteś sam na miejscu wypadku drogowego?": "Должен ли ты, не вызвав заранее помощь, начать реанимацию нуждающемуся в ней раненому человеку, если ты один на месте дорожного происшествия?",
             "Dane przekazane służbom ratunkowym mogą się przydać w późniejszym postępowaniu": "Информация, переданная службам спасения, может оказаться полезной в последующих действиях.",
             "Czy zgłaszając wypadek drogowy na numer alarmowy służb ratunkowych powinieneś udostępnić swoje dane identyfikacyjne?": "Должны ли вы предоставить свои идентификационные данные, сообщая о дорожно-транспортном происшествии на номер экстренных служб?",
-            "W tej sytuacji należy zastosować zasadę ograniczonego zaufania": "В этой ситуации следует применять принцип ограниченного доверия."
+            "W tej sytuacji należy zastosować zasadę ograniczonego zaufania": "В этой ситуации следует применять принцип ограниченного доверия.",
+            "Ze względu na ograniczoną przestrzeń należy zmniejszyć prędkość w celu zapewnienia bezpieczeństwa": "Из-за ограниченного пространства необходимо снизить скорость для обеспечения безопасности.",
+            "Czy w tej sytuacji masz obowiązek zachować szczególną ostrożność i w razie potrzeby zatrzymać pojazd?": "В этой ситуации вы обязаны соблюдать особую осторожность и при необходимости остановить транспортное средство?",
+            "Kierujący pojazdem, omijając pojazd oznakowany symbolem wózka, jest zobowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się": "Водитель транспортного средства, объезжая автомобиль, обозначенный символом инвалидной коляски, обязан при посадке или высадке человека с инвалидностью проявлять особую осторожность и при необходимости остановиться.",
+            "Czy w tej sytuacji masz obowiązek zrezygnować z wykonania manewru wyprzedzania?": "В этой ситуации вы обязаны отказаться от выполнения маневра обгона?"
         }
     },
     "not_approved": {
@@ -3902,7 +3906,6 @@
         "Zabrania się wyprzedzania na przejeździe dla rowerzystów oraz bezpośrednio przed nim": "Запрещается обгон на переезде для велосипедистов, а также непосредственно перед ним.",
         "Dwa pasy w tym samym kierunku, wyprzedzanie z lewej strony": "Две полосы в том же направлении, обгон с левой стороны.",
         "Dopuszcza się wykonanie manewru cofania na drodze jednokierunkowej": "Разрешается выполнять маневр движения задним ходом на дороге с односторонним движением.",
-        "Ze względu na ograniczoną przestrzeń należy zmniejszyć prędkość w celu zapewnienia bezpieczeństwa": "Из-за ограниченного пространства необходимо снизить скорость для обеспечения безопасности.",
         "W tej sytuacji istnieje możliwość oślepienia kierującego wyprzedzającym pojazdem": "В этой ситуации существует вероятность ослепления водителя обгоняющим транспортным средством.",
         "Linia ciągła oddzielająca lewy pas uniemożliwia wykonanie wyprzedzania": "Сплошная линия, отделяющая левую полосу, запрещает выполнение обгона.",
         "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
@@ -4203,7 +4206,6 @@
         "Czy masz obowiązek zachować bezpieczny odstęp od omijanego pojazdu?": "У тебя есть обязанность соблюдать безопасную дистанцию от объезжаемого транспортного средства?",
         "Kierujący pojazdem jest obowiązany przy omijaniu zachować bezpieczny odstęp od omijanego pojazdu": "Водитель транспортного средства обязан при объезде соблюдать безопасную дистанцию от объезжаемого транспортного средства.",
         "Czy postąpisz właściwie, jeśli z prawej strony ominiesz poprzedzający pojazd ?": "Поступишь ли ты правильно, если обгонишь впереди идущее ТС справа?",
-        "Kierujący pojazdem, omijając pojazd oznakowany symbolem wózka, jest zobowiązany w czasie wsiadania lub wysiadania osoby niepełnosprawnej zachować szczególną ostrożność i w razie potrzeby zatrzymać się": "Водитель транспортного средства, объезжая автомобиль, обозначенный символом инвалидной коляски, обязан при посадке или высадке человека с инвалидностью проявлять особую осторожность и при необходимости остановиться.",
         "Kierunkowskaz służy do sygnalizowania zamiaru zmiany kierunku jazdy lub pasa ruchu": "Поворотник предназначен для сигнализации о намерении изменить направление движения или полосу движения.",
         "Czy omijając tak oznakowany pojazd masz obowiązek zachować szczególną ostrożność?": "Обходя так обозначенный транспорт, ты обязан проявлять особую осторожность?",
         "Czy masz obowiązek zachować bezpieczny odstęp od omijanej przeszkody?": "У тебя есть обязанность соблюдать безопасную дистанцию от объезжаемого препятствия?",
