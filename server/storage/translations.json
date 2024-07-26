@@ -3053,7 +3053,9 @@
             "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek niezwłocznie usunąć pojazd z miejsca zdarzenia?": "Являясь участником дорожно-транспортного происшествия, в котором нет погибших или раненых, обязан ли ты незамедлительно убрать транспортное средство с места происшествия?",
             "Czy postąpisz właściwie umieszczając ostrzegawczy trójkąt odblaskowy w odległości 30-50 m za pojazdem, który uległ awarii na drodze ekspresowej?": "Вы поступите правильно, расположив знак аварийной остановки на расстоянии 30-50 м позади аварийного транспортного средства на \"drodze ekspresowej\"?",
             "Na drodze ekspresowej odległość ta powinna wynosić 100 m": "На \"drodze ekspresowej\" это расстояние должно составлять 100 м.",
-            "Należy umieścić trójkąt w odległości 30 - 50 m": "Необходимо установить знак аварийной остановки на расстоянии 30 - 50 м."
+            "Należy umieścić trójkąt w odległości 30 - 50 m": "Необходимо установить знак аварийной остановки на расстоянии 30 - 50 м.",
+            "Samochód stoi na poboczu": "Автомобиль стоит на обочине.",
+            "Czy masz prawo zabezpieczyć miejsce wypadku, do którego dojechałeś, ustawiając odpowiednio swój samochód i włączając światła awaryjne?": "Имеете ли вы право обезопасить место происшествия, к которому вы подъехали, правильно расположив свой автомобиль и включив аварийные огни?"
         }
     },
     "not_approved": {
@@ -3703,7 +3705,6 @@
         "Czy w tej sytuacji, jadąc na wprost, musisz mieć stale włączony lewy kierunkowskaz, ponieważ omijasz zaparkowane pojazdy?": "В этой ситуации, двигаясь прямо, должен ли ты постоянно включать левый поворотник, потому что обгоняешь припаркованные транспортные средства?",
         "Czy w przedstawionej sytuacji dozwolone jest zatrzymanie pojazdu na jezdni?": "В данной ситуации разрешена ли остановка транспортного средства на проезжей части?",
         "Czy w przedstawionej sytuacji przed wjazdem na skrzyżowanie obowiązkowo trzeba się zatrzymać?": "В представленной ситуации перед въездом на перекресток обязательно нужно остановиться?",
-        "Czy masz prawo zabezpieczyć miejsce wypadku, do którego dojechałeś, ustawiając odpowiednio swój samochód i włączając światła awaryjne?": "Имеете ли вы право обезопасить место происшествия, к которому вы подъехали, правильно расположив свой автомобиль и включив аварийные огни?",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
         "Zużyciem opon": "Износом шин.",
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
@@ -4234,7 +4235,6 @@
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić kierującego rowerem?": "Можно ли в представленном случае использовать звуковой сигнал, чтобы подтолкнуть регулирующего велосипедистом?",
         "Znak widoczny na zdjęciu ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu": "Знак, видимый на фотографии, предупреждает о выпуклости на проезжей части, примененной для замедления движения.",
         "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?": "В этой ситуации ты обязан сигнализировать о стоянке видимого с достаточного расстояния, поврежденного транспортного средства, на дороге, которая не является \"drogą ekspresową\"?",
-        "Samochód stoi na poboczu": "Автомобиль стоит на обочине.",
         "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
         "Postój uszkodzonego na drodze ekspresowej pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на \"drodze ekspresowej\" транспортного средства необходимо сигнализировать, в частности, путем размещения знака аварийной остановки на расстоянии 100 м за транспортным средством.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku: na autostradzie lub drodze ekspresowej – w każdym przypadku": "Водитель транспортного средства обязан сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии: на автостраде или \"drodze ekspresowej\" – в каждом случае.",
