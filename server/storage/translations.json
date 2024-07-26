@@ -3052,7 +3052,8 @@
             "W tej sytuacji należy niezwłocznie usunąć pojazd z miejsca wypadku, aby nie powodował zagrożenia lub tamowania ruchu": "В этой ситуации необходимо незамедлительно удалить транспортное средство с места аварии, чтобы не создавать опасность или затруднение движения.",
             "Czy jako uczestnik wypadku drogowego, w którym nie ma zabitych lub rannych, masz obowiązek niezwłocznie usunąć pojazd z miejsca zdarzenia?": "Являясь участником дорожно-транспортного происшествия, в котором нет погибших или раненых, обязан ли ты незамедлительно убрать транспортное средство с места происшествия?",
             "Czy postąpisz właściwie umieszczając ostrzegawczy trójkąt odblaskowy w odległości 30-50 m za pojazdem, który uległ awarii na drodze ekspresowej?": "Вы поступите правильно, расположив знак аварийной остановки на расстоянии 30-50 м позади аварийного транспортного средства на \"drodze ekspresowej\"?",
-            "Na drodze ekspresowej odległość ta powinna wynosić 100 m": "На \"drodze ekspresowej\" это расстояние должно составлять 100 м."
+            "Na drodze ekspresowej odległość ta powinna wynosić 100 m": "На \"drodze ekspresowej\" это расстояние должно составлять 100 м.",
+            "Należy umieścić trójkąt w odległości 30 - 50 m": "Необходимо установить знак аварийной остановки на расстоянии 30 - 50 м."
         }
     },
     "not_approved": {
@@ -4263,7 +4264,6 @@
         "Zabrania się zatrzymania pojazdu na jezdni przy jej lewej krawędzi, z wyjątkiem zatrzymania lub postoju pojazdu na obszarze zabudowanym na drodze jednokierunkowej lub na jezdni dwukierunkowej o małym ruchu": "Запрещается остановка транспортного средства на проезжей части у ее левого края, за исключением остановки или стоянки транспортного средства в населенном пункте на дороге с односторонним движением или на проезжей части с двусторонним движением при малом трафике.",
         "Kierowcy omijający pojazd będą zmuszeni naruszyć linie ciągłą": "Водители, объезжающие транспортное средство, будут вынуждены нарушить сплошную линию.",
         "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?",
-        "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии.",
-        "Należy umieścić trójkąt w odległości 30 - 50 m": "Необходимо установить знак аварийной остановки на расстоянии 30 - 50 м."
+        "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии."
     }
 }
