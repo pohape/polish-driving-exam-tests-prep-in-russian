@@ -21,7 +21,8 @@
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
         "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?",
-        "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?"
+        "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
+        "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?"
     },
     "approved": {
         "upewninie się": {
@@ -3902,7 +3903,6 @@
         "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
         "Czy w przedstawionej sytuacji jesteś zobowiązany do zatrzymania pojazdu przed przejściem dla pieszych?": "В представленной ситуации ты обязан остановить транспортное средство перед пешеходным переходом?",
-        "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обгонять привилегированный транспортное средство после этого знака?",
         "Na przejściu nie ma żadnych pieszych": "На переходе нет никаких пешеходов.",
         "Zakaz obowiązuje po tej stronie drogi, po której ustawiono znak": "Запрет действует по той стороне дороги, по которой установлен знак.",
@@ -4247,6 +4247,7 @@
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Kierujący pojazdem jest obowiązany zbliżyć się: do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo; do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться: к правому краю проезжей части — если намеревается повернуть направо; к центру проезжей части или на дороге с односторонним движением к левому её краю — если намеревается повернуть налево.",
         "Pobocze oddzielone jest ciągłą linią": "Обочина отделена сплошной линией.",
-        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?"
+        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?",
+        "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych": "Создание коридора жизни заключается в создании пространства на дороге для транспортных средств экстренных служб."
     }
 }
