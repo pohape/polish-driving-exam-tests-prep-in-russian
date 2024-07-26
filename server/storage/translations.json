@@ -3042,7 +3042,8 @@
             "Pobocze oddzielone jest ciągłą linią krawędziową": "Обочина отделена сплошной линией края проезжей части.",
             "Czy w tej sytuacji wolno Ci zatrzymać się na poboczu jeżeli potrzebujesz odpoczynku?": "Разрешается ли тебе в этой ситуации остановиться на обочине, если тебе нужен отдых?",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost dotychczasowym pasem ruchu?": "Разрешено ли Вам в этой ситуации продолжать движение прямо по той же полосе движения?",
-            "W strefie zamieszkania zabroniony jest postój poza wyznaczonymi miejscami": "В жилой зоне стоянка запрещена вне отведенных мест."
+            "W strefie zamieszkania zabroniony jest postój poza wyznaczonymi miejscami": "В жилой зоне стоянка запрещена вне отведенных мест.",
+            "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?"
         }
     },
     "not_approved": {
@@ -3145,7 +3146,6 @@
         "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
-        "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
@@ -4254,6 +4254,7 @@
         "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?",
         "Zabrania się zatrzymania na wiaduktach": "Запрещается останавливаться на путепроводах.",
         "Zabrania się zatrzymania pojazdu na jezdni przy jej lewej krawędzi, z wyjątkiem zatrzymania lub postoju pojazdu na obszarze zabudowanym na drodze jednokierunkowej lub na jezdni dwukierunkowej o małym ruchu": "Запрещается остановка транспортного средства на проезжей части у ее левого края, за исключением остановки или стоянки транспортного средства в населенном пункте на дороге с односторонним движением или на проезжей части с двусторонним движением при малом трафике.",
-        "Kierowcy omijający pojazd będą zmuszeni naruszyć linie ciągłą": "Водители, объезжающие транспортное средство, будут вынуждены нарушить сплошную линию."
+        "Kierowcy omijający pojazd będą zmuszeni naruszyć linie ciągłą": "Водители, объезжающие транспортное средство, будут вынуждены нарушить сплошную линию.",
+        "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?"
     }
 }
