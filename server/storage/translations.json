@@ -24,7 +24,9 @@
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
         "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, действуя в соответствии с действующими правилами, с пути проезда транспортного средства со специальными правами?",
-        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки."
+        "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
+        "Kierujący pojazdem, przejeżdżając obok pojazdu przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, lub jadąc za nim, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов на водителей, или следуя за ним, обязан соблюдать особую осторожность.",
+        "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?"
     },
     "approved": {
         "upewninie się": {
@@ -3069,7 +3071,8 @@
             "Czy w tej sytuacji powinieneś umożliwić przejazd pojazdowi uprzywilejowanemu, wysyłającemu niebieskie sygnały świetlne i sygnały dźwiękowe o zmiennym tonie?": "Должны ли вы в этой ситуации уступить дорогу транспортному средству с включёнными синими световыми сигналами и звуковыми сигналами изменяющейся тональности?",
             "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani zachować ostrożność albo gdy ustawa tego wymaga – szczególną ostrożność": "Участник движения и другое лицо, находящееся на дороге, обязаны соблюдать осторожность, а если этого требует закон – особую осторожность.",
             "Czy kierując pojazdem od zmierzchu do świtu masz obowiązek stale zachowywać szczególną ostrożność?": "Управляя транспортным средством с сумерек до рассвета, обязан ли ты постоянно соблюдать особую осторожность?",
-            "Czy wyprzedzając ten samochód masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот автомобиль, обязан ли ты соблюдать особую осторожность?"
+            "Czy wyprzedzając ten samochód masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот автомобиль, обязан ли ты соблюдать особую осторожность?",
+            "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем."
         }
     },
     "not_approved": {
@@ -3844,7 +3847,6 @@
         "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
         "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
-        "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
         "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
@@ -4191,7 +4193,6 @@
         "Czy w tej sytuacji musisz ograniczyć zaufanie do pieszego?": "Должны ли вы в этой ситуации ограничить доверие к пешеходу?",
         "Pieszy poświęca znaczą część uwagi swojemu rozmówcy": "Пешеход уделяет значительную часть внимания своему собеседнику.",
         "Bez względu na występowanie sygnalizacji kierujący pojazdem, zbliżając się do przejścia dla pieszych, jest obowiązany zachować szczególną ostrożność": "Несмотря на наличие светофора, водитель транспортного средства, приближаясь к пешеходному переходу, обязан соблюдать особую осторожность.",
-        "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Разрешено ли вам удаляться от транспортного средства, когда у него включенный двигатель?",
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3 позволяют развернуться.",
         "Następnym sygnałem będzie zielony": "Следующим сигналом будет зеленый.",
         "Wskazania sygnalizacji są ważniejsze od znaków drogowych regulujących pierwszeństwem przejazdu": "Показания светофора важнее знаков дорожного регулирования приоритета проезда.",
@@ -4273,7 +4274,6 @@
         "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?",
         "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии.",
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
-        "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
-        "Kierujący pojazdem, przejeżdżając obok pojazdu przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, lub jadąc za nim, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов на водителей, или следуя за ним, обязан соблюдать особую осторожность."
+        "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?"
     }
 }
