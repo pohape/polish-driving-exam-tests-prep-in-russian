@@ -3044,7 +3044,8 @@
             "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost dotychczasowym pasem ruchu?": "Разрешено ли Вам в этой ситуации продолжать движение прямо по той же полосе движения?",
             "W strefie zamieszkania zabroniony jest postój poza wyznaczonymi miejscami": "В жилой зоне стоянка запрещена вне отведенных мест.",
             "Czy w tej sytuacji wolno Ci opuścić miejsce zdarzenia, bo uznałeś, że sprawca wypadku udzieli pomocy poszkodowanemu?": "В этой ситуации вы можете покинуть место происшествия, потому что считаете, что виновник аварии окажет помощь пострадавшему?",
-            "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи."
+            "Może dojść do zachłyśnięcia wodą z kałuży": "Может произойти захлебывание водой из лужи.",
+            "Czy jako uczestnik wypadku drogowego, w którym są ranni, po wezwaniu służb ratunkowych masz prawo oddalić się z miejsca zdarzenia?": "Имеешь ли ты право удалиться с места происшествия, если ты являешься участником дорожно-транспортного происшествия, в котором есть пострадавшие, после вызова спасательных служб?"
         }
     },
     "not_approved": {
