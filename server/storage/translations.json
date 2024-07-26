@@ -22,7 +22,8 @@
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
         "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что каждая инвалид, передвигающийся по тротуару (пешеходной дорожке), не будет соблюдать правила дорожного движения?",
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
-        "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?"
+        "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
+        "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, действуя в соответствии с действующими правилами, с пути проезда транспортного средства со специальными правами?"
     },
     "approved": {
         "upewninie się": {
@@ -3036,7 +3037,8 @@
             "Pobocze jest oddzielone ciągłą linią": "Обочина отделена сплошной линией.",
             "Czy w tej sytuacji masz prawo kontynuować jazdę lewym pasem ruchu?": "Имеете ли вы право продолжать движение по левой полосе?",
             "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych. Kierujący na lewym pasie powinni zjechać na lewo, a kierujący z pozostałych pasów na prawą stronę": "Создание коридора жизни заключается в обеспечении пространства на дороге для проезда транспортных средств аварийно-спасательных служб. Водители, движущиеся по левой полосе, должны уступить дорогу влево, а водители на остальных полосах - вправо.",
-            "Czy kierujący pojazdami w sposób właściwy umożliwili swobodny przejazd pojazdu uprzywilejowanego?": "Предоставили ли водители транспортных средств в должной мере возможность беспрепятственного проезда привилегированного транспортного средства?"
+            "Czy kierujący pojazdami w sposób właściwy umożliwili swobodny przejazd pojazdu uprzywilejowanego?": "Предоставили ли водители транспортных средств в должной мере возможность беспрепятственного проезда привилегированного транспортного средства?",
+            "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych": "Создание коридора жизни заключается в создании пространства на дороге для транспортных средств экстренных служб."
         }
     },
     "not_approved": {
@@ -3586,7 +3588,6 @@
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych oraz znaków drogowych regulujących pierwszeństwem": "Указания светофора важнее общих правил и дорожных знаков, регулирующих преимущество.",
         "Zabrania się zatrzymania pojazdu w tunelu": "Запрещается остановка транспортного средства в туннеле.",
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność,": "Водитель транспортного средства при обгоне обязан соблюдать особую осторожность.",
-        "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Сняли ли водители транспортных средств, двигаясь в соответствии с действующими правилами, с проезжей части дороги для пропуска транспортного средства с преимущественным правом проезда?",
         "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
         "Która z wymienionych okoliczności może świadczyć o złym stanie technicznym samochodu osobowego?": "Какая из перечисленных обстоятельств может свидетельствовать о плохом техническом состоянии автомобиля?",
@@ -4247,7 +4248,6 @@
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Kierujący pojazdem jest obowiązany zbliżyć się: do prawej krawędzi jezdni – jeżeli zamierza skręcić w prawo; do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться: к правому краю проезжей части — если намеревается повернуть направо; к центру проезжей части или на дороге с односторонним движением к левому её краю — если намеревается повернуть налево.",
         "Pobocze oddzielone jest ciągłą linią": "Обочина отделена сплошной линией.",
-        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?",
-        "Utworzenie korytarza życia polega na stworzeniu przestrzeni na drodze dla pojazdów służb ratunkowych": "Создание коридора жизни заключается в создании пространства на дороге для транспортных средств экстренных служб."
+        "Czy w tej sytuacji wjeżdżając do tunelu musisz utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 100 metrów?": "В этой ситуации, въезжая в туннель, должен ли ты поддерживать дистанцию от впереди идущего транспортного средства не менее 100 метров?"
     }
 }
