@@ -4237,6 +4237,9 @@
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 1,5 m?": "При остановке транспортного средства на тротуаре, обязаны ли вы обеспечить пешеходам проход шириной не менее 1,5 м?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd na chodniku po prawej stronie, w odległości 11 metrów od znaku oznaczającego przystanek?": "Имеешь ли ты в этой ситуации право парковать транспортное средство на тротуаре справа, на расстоянии 11 метров от знака, обозначающего остановку?",
-        "Od znaku oznaczającego przystanek należy zachować 15 m": "От знака, обозначающего остановку общественного транспорта, следует соблюдать 15 м."
+        "Od znaku oznaczającego przystanek należy zachować 15 m": "От знака, обозначающего остановку общественного транспорта, следует соблюдать 15 м.",
+        "Jeżeli pasy ruchu na jezdni są wyznaczone, kierujący nie może zajmować więcej niż jednego pasa": "Если полосы движения на проезжей части обозначены, водитель не может занимать более одной полосы.",
+        "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
+        "Czy po tej jezdni masz prawo jechać zajmując jej całą szerokość?": "Имеешь ли ты право ехать по этой проезжей части, занимая всю ее ширину?"
     }
 }
