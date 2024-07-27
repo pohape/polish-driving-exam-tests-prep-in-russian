@@ -3092,7 +3092,9 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "«В представленной ситуации вас предупреждают о влете дороги с правой стороны?»",
             "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
             "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
-            "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?"
+            "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
+            "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?",
+            "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия."
         }
     },
     "not_approved": {
@@ -3653,7 +3655,6 @@
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
         "Czy widoczny nad Twoim pasem ruchu sygnał świetlny zobowiązuje Cię do zatrzymania się przed sygnalizatorem?": "Видимый над вашей полосой движения световой сигнал обязывает вас остановиться перед светофором?",
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
-        "Jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h, uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение разрешенной скорости на населенном пункте более чем на 50 км\/ч разрешает управление транспортным средством?",
         "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче.",
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
         "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
@@ -3676,7 +3677,6 @@
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
         "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?",
         "Ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów": "Груз не может выступать сзади транспортного средства на расстояние большее чем 2 м от задней плоскости контура транспортного средства или автопоезда.",
-        "Pokwitowanie zatrzymania wydanego w kraju prawa jazdy z powodu przekroczenia przez kierującego dopuszczalnej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство о временном изъятии выданного в стране водительского удостоверения из-за превышения водителем допустимой скорости более чем на 50 км\/ч в населенном пункте, уполномочивает на управление транспортным средством в течение 24 часов с момента временного изъятия.",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
         "Dopuszcza się zatrzymanie lub postój na chodniku kołami jednego boku lub przedniej osi pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 2,5 t, pod warunkiem, że szerokość chodnika pozostawionego dla pieszych jest taka, że nie utrudni im ruchu i jest nie mniejsza niż 1,5 m": "Разрешается остановка или стоянка ТС на тротуаре колёсами одного бока или передней оси автомобиля с допустимой общей массой, не превышающей 2,5 т, при условии, что ширина тротуара, оставшегося для пешеходов, такова, что не будет им мешать и не меньше 1,5 м.",
         "Zabrania się wyprzedzania na przejazdach kolejowych": "Запрещается обгон на железнодорожных переездах.",
@@ -4277,6 +4277,7 @@
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
         "Naładowany akumulator": "Заряженный аккумулятор.",
-        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора."
+        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора.",
+        "Trzeba wyjaśniać???": "Нужно объяснять???"
     }
 }
