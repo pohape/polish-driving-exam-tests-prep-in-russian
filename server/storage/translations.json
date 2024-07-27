@@ -28,7 +28,7 @@
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Zasada ograniczonego zaufania: \"uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania\" Niepełnosprawność nie jest taką okolicznością!": "Принцип ограниченного доверия: \"участник движения и другое лицо, находящееся на дороге, имеют право рассчитывать, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность иного их поведения\" Инвалидность не является такой обстоятельством!",
         "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Следует ли предполагать, что каждый инвалид, передвигающийся по тротуару (пешеходной дороге), не будет соблюдать правила дорожного движения?",
-        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин приведет к тому, что двигатель с самовоспламенением не достигнет запускных оборотов?"
+        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?"
     },
     "approved": {
         "upewninie się": {
@@ -3102,7 +3102,8 @@
             "Długość zespołu pojazdów nie może przekroczyć 18,75 m": "Длина автопоезда не может превышать 18,75 м.",
             "Niesprawny rozrusznik": "Неисправный стартер.",
             "Naładowany akumulator": "Заряженный аккумулятор.",
-            "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора."
+            "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора.",
+            "Prędkość pojazdu i stan nawierzchni mają bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Скорость транспортного средства и состояние дорожного покрытия оказывают прямое влияние на полный тормозной путь транспортного средства."
         }
     },
     "not_approved": {
@@ -3971,7 +3972,6 @@
         "To jest zatoka przystankowa": "Это остановка общественного транспорта.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
         "Trójkąt służy do ostrzegania o unieruchomieniu pojazdu na drodze z powodu awarii": "Знак аварийной остановки служит для предупреждения об остановке транспортного средства на дороге по причине поломки.",
-        "Prędkość pojazdu i stan nawierzchni mają bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Скорость транспортного средства и состояние дорожного покрытия оказывают прямое влияние на полный тормозной путь транспортного средства.",
         "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
         "Lampka kontrolna układu chłodzenia zapala się, gdy poziom płynu w układzie chłodzenia jest zbyt niski lub temperatura płynu jest zbyt wysoka": "Индикаторная лампа системы охлаждения загорается, когда уровень жидкости в системе охлаждения слишком низкий или температура жидкости слишком высокая.",
         "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
