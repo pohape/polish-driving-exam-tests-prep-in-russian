@@ -447,12 +447,15 @@
             "Czy w przedstawionej sytuacji zbliżasz się do przejazdu kolejowego z zaporami?": "Вы приближаетесь к железнодорожному переезду с шлагбаумами в представленной ситуации?"
         },
         "wlot": {
+            "Czy widoczny na jezdni napis \"STOP\" potwierdza oznakowanie wlotu na skrzyżowanie znakiem pionowym \"stop\"?": "Является ли надпись \"STOP\" на дороге подтверждением установки знака \"STOP\" на подъезде к перекрёстку?",
+            "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о примыкании с правой стороны другой дороги в нашу?",
             "Skrzyżowanie z wlotem drogi jednokierunkowej występującej z lewej strony poprzedza się innym znakiem (A-6e)": "Перекрестку с примыканием слева односторонней дороги, предшествует другой знак (A-6e)",
             "W przypadku wlotu drogi jednokierunkowej po lewej stronie stosuje się znak A-6e": "В случае примыкания односторонней дороги слева используется знак A-6e.",
             "Czy ten znak ostrzega, że zbliżasz się do skrzyżowania z wlotem drogi jednokierunkowej występującej z lewej strony?": "Предупреждает ли этот знак, что вы приближаетесь к перекрестку с примыканием односторонней дороги, идущей слева?",
-            "Znak ostrzega o zbliżaniu się do wlotu drogi jednokierunkowej z prawej strony": "Знак предупреждает о приближении к примыканию дороги с односторонним движением справа",
-            "O skrzyżowaniu z wlotem drogi jednokierunkowej występującej z lewej strony ostrzega inny znak (A-6e)": "О пересечении с односторонней дорогой, примыкающей слева, предупреждает другой знак (A-6e).",
-            "Znak A-6d: wlot drogi jednokierunkowej z prawej strony": "Знак A-6d: примыкание дороги с односторонним движением справа"
+            "Znak ostrzega o zbliżaniu się do wlotu drogi jednokierunkowej z prawej strony": "Знак предупреждает о приближении к месту, где справа односторонняя дорога примыкает в нашу",
+            "O skrzyżowaniu z wlotem drogi jednokierunkowej występującej z lewej strony ostrzega inny znak (A-6e)": "О пересечении с односторонней дорогой, примыкающей с левой стороны в нашу, предупреждает другой знак (A-6e).",
+            "Znak A-6d: wlot drogi jednokierunkowej z prawej strony": "Знак A-6d: примыкание дороги с односторонним движением с правой стороны в нашу"
         },
         "podporządkowaną": {
             "Znak A-6b - skrzyżowanie z drogą podporządkowaną występującą po prawej stronie": "Знак A-6b - перекресток с второстепенной дорогой справа.",
@@ -743,7 +746,6 @@
             "Która z osób jest zwolniona z obowiązku korzystania z pasów bezpieczeństwa w czasie jazdy samochodem osobowym?": "Кто из людей освобожден от обязанности использования ремней безопасности при вождении легкового автомобиля?",
             "Jaki minimalny odstęp od pojazdu poprzedzającego powinieneś zachować, stojąc w tunelu, w zatorze drogowym tzw korku?": "Какую минимальную дистанцию от впереди идущего ТС должен ты сохранять, стоя в туннеле, в дорожной пробке так называемом корке?",
             "Czy w przedstawionej sytuacji pojazd jadący z przeciwka ma pierwszeństwo?": "Имеет ли ТС, едущий с встречного направления, преимущество в представленной ситуации?",
-            "Czy widoczny na jezdni napis \"STOP\" potwierdza oznakowanie wlotu na skrzyżowanie znakiem pionowym \"stop\"?": "Является ли надпись \"STOP\" на дороге подтверждением установки знака \"STOP\" на подъезде к перекрёстку?",
             "Czy w tym miejscu wolno Ci zmienić pas ruchu, jeżeli zamierzasz pojechać na wprost?": "Разрешается ли вам в этом месте сменить полосу движения, если вы собираетесь поехать прямо?",
             "Czy jadąc tą jezdnią możesz najeżdżać na widoczny z lewej strony pasa ruchu znak poziomy?": "Двигаясь по этой проезжей части, имеете ли Вы право наезжать на наземную (горизонтальную) разметку с левой стороны полосы?",
             "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego, aby skłonić rowerzystę do szybszej jazdy?": "Имеешь ли ты в данной ситуации обязанность использовать звуковой сигнал, чтобы побудить велосипедиста к проехать побыстрее?",
@@ -1854,7 +1856,6 @@
             "Znak informuje o przeznaczeniu pasów ruchu": "Знак информирует о назначении полос движения.",
             "Czy w tej sytuacji wolno Ci kontynuować jazdę na wprost prawym skrajnym pasem ruchu?": "Можешь ли ты в этой ситуации продолжить движение прямо по крайней правой полосе движения?",
             "Widoczny znak nie zabrania się poruszania skrajnym prawym pasem": "Видимый знак не запрещает движение по крайней правой полосе.",
-            "Znak ostrzegający o wlocie drogi jednokierunkowej wygląda inaczej": "Знак, предупреждающий о примыкании слева односторонней дороги, выглядит иначе.",
             "Świadczy o tym układ kresek na tabliczce pod znakiem D-1": "Это указывает расположение полос на табличке под знаком D-1.",
             "Czy ten znak dotyczy pojazdów z materiałami wybuchowymi lub łatwo zapalnymi?": "Этот знак относится к транспортным средствам с взрывчатыми или легковоспламеняющимися материалами?",
             "Wyjeżdzam z obszaru zabudowanego": "Выезжаю из населенного пункта.",
@@ -3084,7 +3085,6 @@
             "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
             "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения.",
             "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
-            "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о примыкании с правой стороны другой дороги в нашу?",
             "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
             "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
             "Czy w tej sytuacji należy sygnalizować zamiar zmiany pasa prawym kierunkowskazem?": "Следует ли в этой ситуации сигнализировать о намерении сменить полосу движения правым сигналом поворота?",
