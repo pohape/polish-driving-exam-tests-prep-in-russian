@@ -3110,7 +3110,10 @@
             "Pojazdy z lewej strony poruszają się drogą podporządkowaną": "Транспортные средства слева движутся по второстепенной дороге.",
             "Oznakowanie pionowe oraz poziome nie zobowiązuje do zatrzymania": "Вертикальная и наземная (горизонтальная) разметка не обязывают остановиться.",
             "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
-            "Pojazd z prawej strony porusza się drogą podporządkowaną": "Транспортное средство справа движется по второстепенной дороге."
+            "Pojazd z prawej strony porusza się drogą podporządkowaną": "Транспортное средство справа движется по второстепенной дороге.",
+            "Świadczy o tym znak \"ustąp pierwszeństwa\" umieszczony przed skrzyżowaniem": "Об этом свидетельствует знак \"уступи преимущество\", расположенный перед перекрестком.",
+            "Czy w tej sytuacji, zamierzając jechać prosto przez skrzyżowanie, masz pierwszeństwo przed innymi uczestnikami ruchu drogowego?": "В этой ситуации, намереваясь проехать прямо через перекресток, имеете ли вы преимущество перед другими участниками дорожного движения?",
+            "Poruszamy się drogą podporządkowaną": "Двигаемся по второстепенной дороге."
         }
     },
     "not_approved": {
@@ -3534,7 +3537,6 @@
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
-        "Świadczy o tym znak \"ustąp pierwszeństwa\" umieszczony przed skrzyżowaniem": "Об этом свидетельствует знак \"уступи преимущество\", расположенный перед перекрестком.",
         "Sygnalizator umożliwia skręt w lewo oraz zawracanie": "Светофор позволяет повернуть налево и развернуться.",
         "Za piłką zazwyczaj biegnie dziecko": "За мячом обычно бежит ребенок.",
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
