@@ -245,6 +245,10 @@
         "Czy ten znak informuje Cię, że na najbliższym skrzyżowaniu masz obowiązek jechać prosto?": [
             1088
         ],
+        "Czy ten znak ostrzega o zbliżaniu się do skrzyżowania z jednokierunkową drogą podporządkowaną, której wlot znajduje się po lewej stronie?": [
+            16381,
+            482
+        ],
         "Czy ten znak poziomy pozwala na zawracanie?": [
             1360
         ],
@@ -328,6 +332,9 @@
         ],
         "Czy w tej sytuacji przejeżdżając obok przystanku autobusowego musisz zachować szczególną ostrożność?": [
             18978
+        ],
+        "Czy w tej sytuacji widoczny znak po prawej informuje Cię, że zbliżasz się do przystanku tramwajowego?": [
+            16368
         ],
         "Czy w tej sytuacji widząc ten znak poziomy w postaci trójkątów masz obowiązek każdorazowego zatrzymania się przed wjazdem na drogę z pierwszeństwem?": [
             15637
