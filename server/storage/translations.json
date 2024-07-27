@@ -17,7 +17,6 @@
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
         "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?": "Прибывая к пешеходному переходу, на который входит человек с инвалидностью, использующий специальный знак, или человек с明显но ограниченной подвижностью, должен ли ты учитывать, что тебе придется остановить транспортное средство?",
         "TO nie jest sygnalizator kierunkowy": "Это не поворотник.",
-        "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Собираясь изменить направление движения, необходимо это ясно и заблаговременно указать сигналом.",
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В данной ситуации подлежит ли убиранию с дороги за счет владельца видимый справа на проезжей части припаркованный транспортное средство, не обозначенное парковочной карточкой?",
@@ -3115,7 +3114,8 @@
             "Czy w tej sytuacji, zamierzając jechać prosto przez skrzyżowanie, masz pierwszeństwo przed innymi uczestnikami ruchu drogowego?": "В этой ситуации, намереваясь проехать прямо через перекресток, имеете ли вы преимущество перед другими участниками дорожного движения?",
             "Poruszamy się drogą podporządkowaną": "Двигаемся по второстепенной дороге.",
             "Pojazdy z lewej tak jak my poruszają się drogą z pierwszeństwem przejazdu, znajdujemy się po ich prawej stronie": "ТС слева, как и мы, движутся по главной дороге, мы находимся справа от них.",
-            "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность."
+            "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность.",
+            "Pojazdy z lewej strony poruszają się drogą z pierwszeństwem": "ТС слева движутся по главной дороге."
         }
     },
     "not_approved": {
@@ -4289,6 +4289,8 @@
         "Bez sprawnego rozrusznika nie uruchomimy silnika": "Без исправного стартера мы не запустим двигатель.",
         "Jedziesz na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?",
-        "Czy w przedstawionej sytuacji wjeżdżając na to skrzyżowanie musisz się bezwzględnie zatrzymać?": "В представленной ситуации при въезде на этот перекресток ты должен обязательно остановиться?"
+        "Czy w przedstawionej sytuacji wjeżdżając na to skrzyżowanie musisz się bezwzględnie zatrzymać?": "В представленной ситуации при въезде на этот перекресток ты должен обязательно остановиться?",
+        "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Намериваясь изменить направление движения, следует это чётко и заблаговременно сигнализировать.",
+        "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania na którym musisz ustąpić pierwszeństwa pojazdom nadjeżdżającym z prawej strony?": "Находясь в представленной ситуации, приближаетесь ли вы к перекрестку, на котором должны уступить дорогу ТС, приближающимся справа?"
     }
 }
