@@ -28,7 +28,8 @@
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Zasada ograniczonego zaufania: \"uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania\" Niepełnosprawność nie jest taką okolicznością!": "Принцип ограниченного доверия: \"участник движения и другое лицо, находящееся на дороге, имеют право рассчитывать, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность иного их поведения\" Инвалидность не является такой обстоятельством!",
         "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Следует ли предполагать, что каждый инвалид, передвигающийся по тротуару (пешеходной дороге), не будет соблюдать правила дорожного движения?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?"
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
+        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какова из перечисленных причин приведет к тому, что двигатель с самовоспламеняющимся зажиганием не достигнет пусковых оборотов?"
     },
     "approved": {
         "upewninie się": {
@@ -4276,7 +4277,6 @@
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
         "Naładowany akumulator": "Заряженный аккумулятор.",
-        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора.",
-        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какова из перечисленных причин приведет к тому, что двигатель с самовоспламеняющимся зажиганием не достигнет пусковых оборотов?"
+        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора."
     }
 }
