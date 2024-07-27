@@ -23,7 +23,8 @@
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, действуя в соответствии с действующими правилами, с пути проезда транспортного средства со специальными правами?",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
-        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?"
+        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
+        "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС."
     },
     "approved": {
         "upewninie się": {
@@ -3261,7 +3262,6 @@
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
         "Czy ten znak zabrania Ci wyprzedzać motocykle jednośladowe?": "Запрещает ли этот знак вам обгонять одноколейные мотоциклы?",
-        "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
         "Ten znak to zakaz ruchu w obu kierunkach": "Этот знак означает запрет движения в обоих направлениях.",
         "Czy pojazd pozostawiony na jezdni za tym znakiem może zostać usunięty na koszt właściciela?": "Может ли автомобиль, оставленный на проезжей части после этого знака, быть отбуксирован за счет владельца?",
