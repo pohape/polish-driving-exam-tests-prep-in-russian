@@ -3077,7 +3077,11 @@
             "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
             "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
             "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом.",
-            "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?"
+            "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?",
+            "Skrócenie drogi hamowania": "Укорочение тормозного пути.",
+            "Zmniejszenie przyczepności opon do jezdni": "Уменьшение сцепления шин с проезжей частью.",
+            "Zwiększenie przyczepności opon do jezdni": "Увеличение сцепления шин с проезжей частью.",
+            "Jakie negatywne skutki dla kierującego pojazdem może powodować zaśnieżenie lub oblodzenie jezdni?": "Какие негативные последствия для водителя может вызвать заснеженность или обледенение проезжей части?"
         }
     },
     "not_approved": {
@@ -3327,10 +3331,6 @@
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy, gdy kierujący pojazdem przekroczył dopuszczalną prędkość o:": "Заместитель главы администрации выносит административное решение о приостановлении прав на управление транспортным средством, когда водитель превысил разрешенную скорость на:",
         "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
-        "Skrócenie drogi hamowania": "Укорочение тормозного пути.",
-        "Zmniejszenie przyczepności opon do jezdni": "Уменьшение сцепления шин с проезжей частью.",
-        "Zwiększenie przyczepności opon do jezdni": "Увеличение сцепления шин с проезжей частью.",
-        "Jakie negatywne skutki dla kierującego pojazdem może powodować zaśnieżenie lub oblodzenie jezdni?": "Какие негативные последствия для водителя может вызвать заснеженность или обледенение проезжей части?",
         "1,6 milimetra": "1,6 миллиметра.",
         "3 milimetry": "3 миллиметра.",
         "2,6 milimetra": "2,6 миллиметра.",
