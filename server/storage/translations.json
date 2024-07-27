@@ -3112,7 +3112,9 @@
             "Pojazdy z lewej tak jak my poruszają się drogą z pierwszeństwem przejazdu, znajdujemy się po ich prawej stronie": "ТС слева, как и мы, движутся по главной дороге, мы находимся справа от них.",
             "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность.",
             "Pojazdy z lewej strony poruszają się drogą z pierwszeństwem": "ТС слева движутся по главной дороге.",
-            "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Приближаешься ли ты к равнозначному перекрестку в описанной ситуации?"
+            "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Приближаешься ли ты к равнозначному перекрестку в описанной ситуации?",
+            "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
+            "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки."
         }
     },
     "not_approved": {
@@ -3258,8 +3260,6 @@
         "Czy przed wjazdem na przejazd kolejowy oznaczony tym znakiem, zawsze masz obowiązek zatrzymania się?": "Перед въездом на железнодорожный переезд, отмеченный этим знаком, вы всегда обязаны остановиться?",
         "Czy ten znak ostrzega o mogącym występować na drodze oszronieniu jezdni lub gołoledzi?": "Предупреждает ли этот знак о возможном обморожении проезжей части или гололедице на дороге?",
         "Znak A-32- oszronienie jezdni": "Знак A-32 - обледенение проезжей части",
-        "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
-        "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
         "Czy ten znak zabrania Ci wyprzedzać motocykle jednośladowe?": "Запрещает ли этот знак вам обгонять одноколейные мотоциклы?",
         "Znak widoczny na zdjęciu uniemożliwia wyprzedzanie pojazdów silnikowych, które zostawiają więcej niż jeden ślad": "Знак, видимый на фотографии, запрещает обгон многоколейных ТС.",
         "Czy w tej sytuacji wolno Ci wjechać na stację paliw wjazdem widocznym po lewej stronie?": "В данной ситуации разрешено ли вам въехать на заправочную станцию через въезд, видимый слева?",
