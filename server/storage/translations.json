@@ -34,9 +34,10 @@
             "Zabrania się pozostawiania otwartych drzwi lub wysiadania bez upewnienia się, że nie spowoduje to zagrożenia bezpieczeństwa ruchu lub jego utrudnienia": "Запрещается оставлять открытыми двери или выходить не убедившись, что это не создаст угрозы безопасности дорожного движения или его затруднения."
         },
         "urządzenia dla powolnej jazdy": {
-            "Czy za tym znakiem, znajdujące się na jezdni urządzenia wymuszające powolną jazdę, mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, расположенные на проезжей части после этого знака, быть не помечены предупреждающими знаками?",
-            "Czy za tym znakiem \"strefa zamieszkania\" urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, на участке после знака \"Жилая зона\" не быть обозначены предупреждающими знаками?",
-            "W strefie zamieszkania urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi": "В жилой зоне устройства, вынуждающие ехать медленнее, могут не быть обозначены предупреждающими знаками."
+            "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли приспособления, вынуждающие ехать медленнее, находиться за видимым знаком, оставаясь не обозначенными предупредительными знаками?",
+            "Czy za tym znakiem, znajdujące się na jezdni urządzenia wymuszające powolną jazdę, mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли приспособления, вынуждающие ехать медленнее, расположенные на проезжей части после этого знака, быть не помечены предупреждающими знаками?",
+            "Czy za tym znakiem \"strefa zamieszkania\" urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли приспособления, вынуждающие ехать медленнее, на участке после знака \"Жилая зона\" не быть обозначены предупреждающими знаками?",
+            "W strefie zamieszkania urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi": "В жилой зоне приспособления, вынуждающие ехать медленнее, могут не быть обозначены предупреждающими знаками."
         },
         "pokwitowanie": {
             "Pokwitowanie zatrzymania prawa jazdy w okresie, w którym upoważnia ono do kierowania": "Свидетельство о временном изъятии водительского удостоверения на период, когда оно дает право на управление.",
@@ -1911,7 +1912,6 @@
             "Ten znak wskazujący przejazd tranzytowy": "Этот знак указывает на транзитный проезд.",
             "Czy w miejscu oznaczonym tym znakiem informacyjnym dozwolone jest cofanie pojazdem?": "Разрешается ли на участке после этого информационного знака двигаться задним ходом?",
             "Czy jadąc tym pasem ruchu masz prawo kontynuować jazdę na wprost?": "Имеешь ли ты право продолжить движение прямо, двигаясь по этой полосе движения?",
-            "Czy za widocznym znakiem urządzenia wymuszające powolną jazdę mogą nie być oznakowane znakami ostrzegawczymi?": "Могут ли устройства, вынуждающие ехать медленнее, находиться за видимым знаком, оставаясь не обозначенными предупредительными знаками?",
             "Czy widoczny znak ostrzega Cię o miejscu wyjazdu pojazdów uprzywilejowanych?": "Видимый знак предупреждает тебя о месте выезда преимущественных транспортных средств?",
             "Instalacja LPG nie jest ładunkiem na pojeździe": "Установка сжиженного углеводородного газа не является грузом на транспортном средстве.",
             "Czy w tej sytuacji w miejscu oznakowanym widoczną linią przystankową mogą się zatrzymywać wyłącznie pojazdy uprawnione?": "В данной ситуации на участке, обозначенном видимой линией остановки, останавливаться могут только уполномоченные транспортные средства?",
