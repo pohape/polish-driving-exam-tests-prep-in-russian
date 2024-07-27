@@ -3082,7 +3082,11 @@
             "Skrócenie drogi hamowania": "Укорочение тормозного пути.",
             "Zmniejszenie przyczepności opon do jezdni": "Уменьшение сцепления шин с проезжей частью.",
             "Zwiększenie przyczepności opon do jezdni": "Увеличение сцепления шин с проезжей частью.",
-            "Jakie negatywne skutki dla kierującego pojazdem może powodować zaśnieżenie lub oblodzenie jezdni?": "Какие негативные последствия для водителя может вызвать заснеженность или обледенение проезжей части?"
+            "Jakie negatywne skutki dla kierującego pojazdem może powodować zaśnieżenie lub oblodzenie jezdni?": "Какие негативные последствия для водителя может вызвать заснеженность или обледенение проезжей части?",
+            "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
+            "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
+            "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств."
         }
     },
     "not_approved": {
@@ -3493,12 +3497,9 @@
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
-        "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
         "Czy w tej sytuacji, jadąc na wprost, masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, двигаясь прямо, у вас есть преимущество перед ТС, приближающемся справа?",
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
-        "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
@@ -3588,7 +3589,6 @@
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr skrętu musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, водитель транспортного средства, выполняющий маневр поворота, должен уступить дорогу железнодорожному транспорту, движущемуся прямо.",
         "Kierujący pojazdem, zbliżając się do oznaczonego przystanku autobusowego (trolejbusowego) na obszarze zabudowanym, jest obowiązany zmniejszyć prędkość, a w razie potrzeby zatrzymać się, aby umożliwić kierującemu autobusem (trolejbusem) włączenie się do ruchu, jeżeli kierujący takim pojazdem sygnalizuje kierunkowskazem zamiar zmiany pasa ruchu lub wjechania z zatoki na jezdnię": "Водитель транспортного средства при приближении к обозначенной остановке общественного транспорта на населенном пункте обязан снизить скорость и, в случае необходимости, остановиться, чтобы позволить водителю автобуса (троллейбуса) включиться в движение, если водитель такого транспортного средства сигнализацией поворотником выражает намерение изменить полосу движения или выехать с остановки общественного транспорта на проезжую часть.",
         "Pojazd jadący z przeciwnego kierunku jest dość daleko i nie porusza się szybko. Nie dojdzie do wymuszenia": "ТС, движущееся с противоположного направления, находится достаточно далеко и не двигается быстро. Не будет нарушения правил.",
-        "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
         "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу.",
         "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym": "Если водитель транспортного средства совершил нарушение, действуя с целью избежать непосредственной опасности, угрожающей законно защищаемому благу, право управления транспортным средством не будет отобрано за превышение разрешённой скорости более чем на 50 км\/ч в населённом пункте.",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
