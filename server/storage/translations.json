@@ -3088,7 +3088,10 @@
             "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
             "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
             "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения.",
-            "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения."
+            "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
+            "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "«В представленной ситуации вас предупреждают о влете дороги с правой стороны?»",
+            "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
+            "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?"
         }
     },
     "not_approved": {
@@ -3296,7 +3299,6 @@
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
         "O kolejne dwa miesiące": "На следующие два месяца.",
         "Prawo jazdy stwierdza posiadanie uprawnienia do kierowania zespołem pojazdów złożonym z pojazdu samochodowego o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t oraz z przyczepy lekkiej": "Водительское удостоверение подтверждает наличие права управлять автопоездом, состоящим из автомобиля с разрешенной максимальной массой не превышающей 3,5 т и легкого прицепа.",
-        "Wyjeżdżając z drogi wewnętrznej następuje włączanie się do ruchu": "При выезде с внутренней дороги происходит включение в движение.",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
@@ -3502,7 +3504,6 @@
         "Motocyklista porusza się drogą podporządkowaną": "Мотоциклист движется по второстепенной дороге.",
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
-        "Czy w tej sytuacji powstrzymasz się od wyprzedzania?": "В этой ситуации ты воздержишься от обгона?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
         "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
         "Nieprawidłowa zbieżność kół przednich": "Неправильное схождение передних колес.",
@@ -4276,7 +4277,6 @@
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
         "Naładowany akumulator": "Заряженный аккумулятор.",
-        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "Предупреждают ли тебя о въезде на дорогу с правой стороны в показанной ситуации?"
+        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора."
     }
 }
