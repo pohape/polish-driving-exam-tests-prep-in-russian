@@ -28,7 +28,6 @@
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Zasada ograniczonego zaufania: \"uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania\" Niepełnosprawność nie jest taką okolicznością!": "Принцип ограниченного доверия: \"участник движения и другое лицо, находящееся на дороге, имеют право рассчитывать, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность иного их поведения\" Инвалидность не является такой обстоятельством!",
         "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Следует ли предполагать, что каждый инвалид, передвигающийся по тротуару (пешеходной дороге), не будет соблюдать правила дорожного движения?",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
         "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какова из перечисленных причин приведет к тому, что двигатель с самовоспламеняющимся зажиганием не достигнет пусковых оборотов?"
     },
     "approved": {
@@ -3088,7 +3087,8 @@
             "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
             "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
             "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
-            "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения."
+            "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения.",
+            "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения."
         }
     },
     "not_approved": {
@@ -3230,7 +3230,6 @@
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
         "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак A-15 - скользкая поверхность.",
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
-        "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
         "Znak widoczny na zdjęciu ostrzega o przed możliwością napotkania na drodze zwierząt gospodarskich": "Знак, показанный на фотографии, предупреждает о возможности встретить на дороге скот.",
@@ -4277,6 +4276,7 @@
         "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
         "Naładowany akumulator": "Заряженный аккумулятор.",
-        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора."
+        "Zbyt luźny pasek klinowy alternatora": "Слишком слабый клиновой ремень генератора.",
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "Предупреждают ли тебя о въезде на дорогу с правой стороны в показанной ситуации?"
     }
 }
