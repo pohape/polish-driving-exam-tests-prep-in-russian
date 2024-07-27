@@ -3113,7 +3113,9 @@
             "Pojazd z prawej strony porusza się drogą podporządkowaną": "Транспортное средство справа движется по второстепенной дороге.",
             "Świadczy o tym znak \"ustąp pierwszeństwa\" umieszczony przed skrzyżowaniem": "Об этом свидетельствует знак \"уступи преимущество\", расположенный перед перекрестком.",
             "Czy w tej sytuacji, zamierzając jechać prosto przez skrzyżowanie, masz pierwszeństwo przed innymi uczestnikami ruchu drogowego?": "В этой ситуации, намереваясь проехать прямо через перекресток, имеете ли вы преимущество перед другими участниками дорожного движения?",
-            "Poruszamy się drogą podporządkowaną": "Двигаемся по второстепенной дороге."
+            "Poruszamy się drogą podporządkowaną": "Двигаемся по второстепенной дороге.",
+            "Pojazdy z lewej tak jak my poruszają się drogą z pierwszeństwem przejazdu, znajdujemy się po ich prawej stronie": "ТС слева, как и мы, движутся по главной дороге, мы находимся справа от них.",
+            "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность."
         }
     },
     "not_approved": {
@@ -3789,7 +3791,6 @@
         "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
         "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?",
         "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости.",
-        "Zbliżając się do skrzyżowania, a także znajdując się na nim należy zachować szczególną ostrożność": "Приближаясь к перекрестку, а также находясь на нем, следует проявлять особую осторожность.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
