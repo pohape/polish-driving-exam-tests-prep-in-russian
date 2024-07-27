@@ -3086,7 +3086,9 @@
             "Kierujący pojazdem jest obowiązany używać świateł mijania podczas jazdy w warunkach normalnej przejrzystości powietrza": "Водитель транспортного средства обязан использовать ближний свет фар во время езды в условиях нормальной прозрачности воздуха.",
             "Czy w tej sytuacji masz obowiązek używać świateł mijania?": "В этой ситуации у тебя есть обязанность использовать ближний свет?",
             "Czy w przedstawionej sytuacji jesteś ostrzegany o częstym występowaniu zablokowania ruchu pojazdów (korka)?": "В представленной ситуации тебя предупреждают о частом возникновении блокировки движения транспортных средств (пробке)?",
-            "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств."
+            "Znak widoczny na zdjęciu ostrzega o częstym występowaniu zablokowania ruchu pojazdów": "Знак, видимый на фотографии, предупреждает о частом возникновении заторов движения транспортных средств.",
+            "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
+            "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения."
         }
     },
     "not_approved": {
@@ -3876,7 +3878,6 @@
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
         "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\"",
         "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать.",
-        "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением и с обозначенными полосами движения.",
         "Nie można używać świateł drogowych jeśli niesie to ryzyko oślepienia innych kierujących": "Нельзя использовать дальний свет, если это несет риск ослепления других водителей.",
         "W miejscach, które poprzedzone są znakami ostrzegawczymi należy zachować szczególną ostrożność": "На участках, которые предупреждаются дорожными знаками, следует проявлять особую осторожность.",
         "Świadczy o tym schemat dróg umieszczony na tabliczce pod znakiem": "Это подтверждает схема дорог, размещенная на табличке под знаком.",
@@ -4261,7 +4262,6 @@
         "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары.",
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 1,5 m?": "При остановке транспортного средства на тротуаре, обязаны ли вы обеспечить пешеходам проход шириной не менее 1,5 м?",
-        "Czy w tej sytuacji masz prawo zaparkować pojazd w odległości 5 m przed przejściem dla pieszych?": "Имеешь ли ты в этой ситуации право припарковать транспортное средство на расстоянии 5 м перед пешеходным переходом?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd na chodniku po prawej stronie, w odległości 11 metrów od znaku oznaczającego przystanek?": "Имеешь ли ты в этой ситуации право парковать транспортное средство на тротуаре справа, на расстоянии 11 метров от знака, обозначающего остановку?",
         "Od znaku oznaczającego przystanek należy zachować 15 m": "От знака, обозначающего остановку общественного транспорта, следует соблюдать 15 м.",
         "Jeżeli pasy ruchu na jezdni są wyznaczone, kierujący nie może zajmować więcej niż jednego pasa": "Если полосы движения на проезжей части обозначены, водитель не может занимать более одной полосы.",
