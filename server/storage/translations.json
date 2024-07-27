@@ -27,7 +27,8 @@
         "Kierujący pojazdem, przejeżdżając obok pojazdu przeznaczonego do szkolenia lub egzaminowania kandydatów na kierowców, lub jadąc za nim, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо транспортного средства, предназначенного для обучения или экзаменования кандидатов на водителей, или следуя за ним, обязан соблюдать особую осторожность.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Zasada ograniczonego zaufania: \"uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania\" Niepełnosprawność nie jest taką okolicznością!": "Принцип ограниченного доверия: \"участник движения и другое лицо, находящееся на дороге, имеют право рассчитывать, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность иного их поведения\" Инвалидность не является такой обстоятельством!",
-        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Следует ли предполагать, что каждый инвалид, передвигающийся по тротуару (пешеходной дороге), не будет соблюдать правила дорожного движения?"
+        "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Следует ли предполагать, что каждый инвалид, передвигающийся по тротуару (пешеходной дороге), не будет соблюдать правила дорожного движения?",
+        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?"
     },
     "approved": {
         "upewninie się": {
@@ -3218,7 +3219,6 @@
         "Отмечен правильный ответ:": "Отмечен правильный ответ:",
         "Na tablicy wyświetlony jest znak ostrzegawczy A-15 - Śliska nawierzchnia": "На табличке изображен предупреждающий знак A-15 - скользкая поверхность.",
         "Na tablicach świetlnych wyświetlone są znaki ostrzegawcze A-30 - Inne niebezpieczeństwa": "На световых досках отображаются предупреждающие знаки A-30 - другие опасности.",
-        "Czy w przedstawionej sytuacji jesteś ostrzegany o wlocie drogi z prawej strony?": "В представленной ситуации вас предупреждают о въезде на дорогу справа?",
         "Znak widoczny na zdjęciu ostrzega o występującym po prawej stronie jezdni zwężeniu, które może powodować utrudnienia ruchu": "Знак, показанный на фотографии, предупреждает о сужении, которое происходит справа от проезжей части, что может вызвать затруднение движения.",
         "Znak widoczny na zdjęciu ostrzega o zbliżaniu się do przejścia dla pieszych": "Знак, показанный на фотографии, предупреждает о приближении к пешеходному переходу.",
         "Czy w przedstawionej sytuacji jesteś ostrzegany o możliwości napotkania na drodze zwierząt gospodarskich?": "В представленной ситуации вас предупреждают о возможности встретить на дороге скот?",
