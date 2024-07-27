@@ -3106,7 +3106,11 @@
             "Prędkość pojazdu i stan nawierzchni mają bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Скорость транспортного средства и состояние дорожного покрытия оказывают прямое влияние на полный тормозной путь транспортного средства.",
             "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem nadjeżdżającym z prawej strony?": "В этой ситуации, поворачивая налево, имеете ли вы преимущество перед ТС, приближающимся справа?",
             "Czy tabliczka umieszczona pod znakiem informacyjnym wskazuje, że po skręceniu w lewo na skrzyżowaniu, będziesz nadal poruszać się drogą z pierwszeństwem?": "Информационная табличка, расположенная под знаком, указывает, что после поворота налево на перекрестке, вы будете продолжать движение по главной дороге?",
-            "Świadczy o tym układ grubej kreski na tabliczce": "Об этом свидетельствует расположение жирной линии на табличке."
+            "Świadczy o tym układ grubej kreski na tabliczce": "Об этом свидетельствует расположение жирной линии на табличке.",
+            "Pojazdy z lewej strony poruszają się drogą podporządkowaną": "Транспортные средства слева движутся по второстепенной дороге.",
+            "Oznakowanie pionowe oraz poziome nie zobowiązuje do zatrzymania": "Вертикальная и наземная (горизонтальная) разметка не обязывают остановиться.",
+            "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
+            "Pojazd z prawej strony porusza się drogą podporządkowaną": "Транспортное средство справа движется по второстепенной дороге."
         }
     },
     "not_approved": {
@@ -3697,7 +3701,6 @@
         "Czy w przedstawionej sytuacji wolno Ci zmienić pas ruchu na prawy skrajny?": "В данной ситуации разрешается ли тебе сменить полосу на крайнюю правую?",
         "Czy w tej sytuacji masz obowiązek ustąpienia pierwszeństwa pojazdowi nadjeżdżającemu z przeciwka?": "В этой ситуации у вас есть обязанность уступить дорогу приближающемуся встречному ТС?",
         "Czy w tej sytuacji, podczas zawracania wystąpi kolizja z innymi uczestnikami ruchu?": "Произойдет ли в этой ситуации, во время разворота, столкновение с другими участниками движения?",
-        "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi z prawej strony?": "В этой ситуации, поворачивая налево на перекрестке, вы обязаны уступить дорогу ТС справа?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
@@ -4283,6 +4286,6 @@
         "Bez sprawnego rozrusznika nie uruchomimy silnika": "Без исправного стартера мы не запустим двигатель.",
         "Jedziesz na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?",
-        "Pojazdy z lewej strony poruszają się drogą podporządkowaną": "Транспортные средства слева движутся по второстепенной дороге."
+        "Czy w przedstawionej sytuacji wjeżdżając na to skrzyżowanie musisz się bezwzględnie zatrzymać?": "В представленной ситуации при въезде на этот перекресток ты должен обязательно остановиться?"
     }
 }
