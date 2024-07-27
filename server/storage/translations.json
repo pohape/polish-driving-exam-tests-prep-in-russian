@@ -3076,7 +3076,8 @@
             "Czy wyprzedzając ten samochód masz obowiązek zachować szczególną ostrożność?": "Обгоняя этот автомобиль, обязан ли ты соблюдать особую осторожность?",
             "Zabrania się kierującemu oddalania się od pojazdu, gdy silnik pracuje": "Запрещается водителю отходить от транспортного средства с работающим двигателем.",
             "Przejazd przez skrzyżowanie wymaga zachowania zasady szczególnej ostrożności": "Проезд через перекресток требует соблюдения правила особой осторожности.",
-            "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом."
+            "Wymijanie pojazdów odbywa się w bezpieczny sposób": "Встречный разъезд с ТС осуществляется безопасным способом.",
+            "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?"
         }
     },
     "not_approved": {
@@ -3186,7 +3187,6 @@
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
-        "Czy w tej sytuacji wjeżdżając na jezdnię drogi publicznej masz obowiązek zastosować zasady związane z włączaniem się do ruchu?": "В этой ситуации, когда вы въезжаете на проезжую часть дороги общего пользования, вы обязаны соблюдать правила, связанные с включением в движение?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
