@@ -3131,7 +3131,9 @@
             "Zabrania się zatrzymania pojazdu w tunelu": "Запрещается остановка транспортного средства в туннеле.",
             "To jest zatoka przystankowa": "Это остановка общественного транспорта.",
             "Czy masz prawo zaparkować pojazd na położonej po lewej stronie drodze dla rowerów?": "Имеете ли вы право припарковать транспортное средство на расположенной слева велодорожке?",
-            "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz obowiązek zbliżyć się do środka jezdni?": "Вы собираетесь повернуть налево. В данной ситуации обязаны ли вы приблизиться к середине проезжей части?"
+            "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz obowiązek zbliżyć się do środka jezdni?": "Вы собираетесь повернуть налево. В данной ситуации обязаны ли вы приблизиться к середине проезжей части?",
+            "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
+            "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?"
         }
     },
     "not_approved": {
@@ -3765,9 +3767,7 @@
         "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
         "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?",
         "Kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h w obszarze zabudowanym może się właśnie tak skończyć": "Управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте, может закончиться именно так.",
-        "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
         "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек касается передних противотуманных фар?",
-        "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
         "Czy w tej sytuacji, skręcając w lewo, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, идущим встречным направлением прямо?",
         "Czy w tej sytuacji, skręcając w prawo, masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы в этой ситуации преимущество перед ТС, приближающимся слева, поворачивая направо?",
         "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpienia pierwszeństwa motocykliście skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу мотоциклисту, поворачивающему налево?",
