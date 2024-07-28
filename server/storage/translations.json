@@ -3122,7 +3122,8 @@
             "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
             "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
             "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3.",
-            "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки."
+            "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки.",
+            "Czy w sytuacji, gdy wszystkie pasy do jazdy na wprost są wolne, masz obowiązek zająć lewy pas ruchu?": "В ситуации, когда все полосы для движения прямо свободны, обязаны ли вы занять левую полосу движения?"
         }
     },
     "not_approved": {
@@ -4261,7 +4262,6 @@
         "Pozycja boczna ustalona zapewnia drożność dróg oddechowych i zabezpiecza osobę ranną przed zachłyśnięciem się": "Боковая позиция обеспечивает проходимость дыхательных путей и защищает раненого от захлебывания.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na autostradzie lub drodze ekspresowej – w każdym przypadku": "Kierujący транспортным средством обязан сигнализировать стоянку транспортного средства с работающим двигателем или прицепа в случае повреждения или аварии на автостраде или \"drodze ekspresowej\" – в любом случае.",
         "Zabrania się zatrzymania na pasie dzielącym jezdnie": "Запрещается останавливать на полосе, разделяющей проезжие части.",
-        "Czy w sytuacji, gdy wszystkie pasy do jazdy na wprost są wolne, masz obowiązek zająć lewy pas ruchu?": "В ситуации, когда все полосы для движения прямо свободны, обязаны ли вы занять левую полосу движения?",
         "Czy bezpośrednio za tym znakiem masz prawo zaparkować pojazd?": "Имеешь ли ты право припарковать транспортное средство прямо за этим знаком?",
         "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары.",
