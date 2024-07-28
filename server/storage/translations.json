@@ -26,7 +26,8 @@
         "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения.",
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
-        "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов."
+        "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
+        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?"
     },
     "approved": {
         "upewninie się": {
@@ -4242,7 +4243,6 @@
         "Zabrania się zawracania na drodze ekspresowej, z wyjątkiem skrzyżowania lub miejsca do tego przeznaczonego": "Запрещается разворачиваться на 'drodze ekspresowej', за исключением перекрестка с второстепенной дорогой справа или места, специально для этого предназначенного.",
         "Kierujący pojazdem jest obowiązany zawczasu i wyraźnie sygnalizować zamiar zmiany kierunku jazdy": "Водитель транспортного средства обязан заранее и четко сигнализировать о намерении изменить направление движения.",
         "Nie ma żadnych podstaw do zrezygnowania z wykonania manewru": "Нет никаких оснований для отказа от выполнения маневра.",
-        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy skręcając na tym skrzyżowaniu w lewo, zachowałeś właściwy tor jazdy?": "Скручивая на этом перекрестке налево, ты сохранил правильный путь движения?",
         "Czy w tej sytuacji, zmieniając pas ruchu, masz obowiązek zachować szczególną ostrożność?": "В этой ситуации, меняя полосу движения, обязан ли ты соблюдать особую осторожность?",
         "Zabrania się zawracania w tunelu": "Запрещается разворачиваться в тоннеле.",
