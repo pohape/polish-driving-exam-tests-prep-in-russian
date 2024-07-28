@@ -24,7 +24,8 @@
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
-        "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения."
+        "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения.",
+        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?"
     },
     "approved": {
         "upewninie się": {
@@ -3123,7 +3124,8 @@
             "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
             "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3.",
             "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки.",
-            "Czy w sytuacji, gdy wszystkie pasy do jazdy na wprost są wolne, masz obowiązek zająć lewy pas ruchu?": "В ситуации, когда все полосы для движения прямо свободны, обязаны ли вы занять левую полосу движения?"
+            "Czy w sytuacji, gdy wszystkie pasy do jazdy na wprost są wolne, masz obowiązek zająć lewy pas ruchu?": "В ситуации, когда все полосы для движения прямо свободны, обязаны ли вы занять левую полосу движения?",
+            "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?"
         }
     },
     "not_approved": {
@@ -4263,9 +4265,7 @@
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na autostradzie lub drodze ekspresowej – w każdym przypadku": "Kierujący транспортным средством обязан сигнализировать стоянку транспортного средства с работающим двигателем или прицепа в случае повреждения или аварии на автостраде или \"drodze ekspresowej\" – в любом случае.",
         "Zabrania się zatrzymania na pasie dzielącym jezdnie": "Запрещается останавливать на полосе, разделяющей проезжие части.",
         "Czy bezpośrednio za tym znakiem masz prawo zaparkować pojazd?": "Имеешь ли ты право припарковать транспортное средство прямо за этим знаком?",
-        "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
         "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары.",
-        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 1,5 m?": "При остановке транспортного средства на тротуаре, обязаны ли вы обеспечить пешеходам проход шириной не менее 1,5 м?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd na chodniku po prawej stronie, w odległości 11 metrów od znaku oznaczającego przystanek?": "Имеешь ли ты в этой ситуации право парковать транспортное средство на тротуаре справа, на расстоянии 11 метров от знака, обозначающего остановку?",
         "Od znaku oznaczającego przystanek należy zachować 15 m": "От знака, обозначающего остановку общественного транспорта, следует соблюдать 15 м.",
