@@ -27,7 +27,11 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения.",
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
-        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?"
+        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
+        "O dowolnym tonie": "О любом тоне.",
+        "O zmiennym tonie": "О переменном тоне.",
+        "O ciągłym nieprzeraźliwym tonie": "О непрерывном непроницаемом тоне.",
+        "Jakiego sygnału dźwiękowego możesz używać w pojeździe samochodowym?": "Какой звуковой сигнал ты можешь использовать в автомобильном транспортном средстве?"
     },
     "approved": {
         "upewninie się": {
