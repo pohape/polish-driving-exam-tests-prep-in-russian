@@ -3117,7 +3117,9 @@
             "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
             "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
             "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
-            "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": "Можешь ли ты, соблюдая особую осторожность, продолжать движение прямо, перевозя инвалида, имеющего при себе парковочную карту?"
+            "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": "Можешь ли ты, соблюдая особую осторожность, продолжать движение прямо, перевозя инвалида, имеющего при себе парковочную карту?",
+            "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
+            "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки."
         }
     },
     "not_approved": {
@@ -3847,8 +3849,6 @@
         "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
         "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
-        "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
-        "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
