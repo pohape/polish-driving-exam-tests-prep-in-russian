@@ -23,7 +23,8 @@
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, действуя в соответствии с действующими правилами, с пути проезда транспортного средства со специальными правами?",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
-        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?"
+        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
+        "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения."
     },
     "approved": {
         "upewninie się": {
@@ -3115,7 +3116,8 @@
             "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania równorzędnego?": "Приближаешься ли ты к равнозначному перекрестку в описанной ситуации?",
             "Skrzyżowanie odwołuje znak ograniczający prędkość": "Перекресток отменяет знак ограничения скорости.",
             "Znak widoczny na zdjęciu to zakaz zatrzymywania": "Знак, видимый на фотографии, означает запрет остановки.",
-            "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП."
+            "Przed przejazdem umieszczono znak STOP": "Перед переездом установлен знак СТОП.",
+            "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": "Можешь ли ты, соблюдая особую осторожность, продолжать движение прямо, перевозя инвалида, имеющего при себе парковочную карту?"
         }
     },
     "not_approved": {
@@ -3845,8 +3847,6 @@
         "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
         "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
-        "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": "Можешь ли ты, соблюдая особую осторожность, продолжать движение прямо, перевозя инвалида, имеющего при себе парковочную карту?",
-        "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения.",
         "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
