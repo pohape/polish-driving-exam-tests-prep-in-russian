@@ -3121,7 +3121,8 @@
             "Czy przewożąc osobę niepełnosprawną legitymującą się kartą parkingową możesz, pod warunkiem zachowania szczególnej ostrożności, nie stosować się do przedstawionego znaku zakazu ?": "Можешь ли ты, перевозя инвалида, имеющего парковочную карту, при условии соблюдения особой осторожности, не придерживаться выполнения представленного запрещающего знака?",
             "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do znaku strefy ograniczonego postoju": "Транспортируя инвалида, предъявляющего парковочную карту, можно не соблюдать знак зоны ограниченной стоянки.",
             "Czy osoba niepełnosprawna kierująca samochodem osobowym, legitymująca się kartą parkingową, może nie stosować się do widocznego znaku zakazu?": "Может ли инвалид, управляющий автомобилем и предъявляющий парковочное удостоверение, не соблюдать видимый запрещающий знак?",
-            "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3."
+            "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3.",
+            "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки."
         }
     },
     "not_approved": {
@@ -3953,7 +3954,6 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение потребления аккумулятора.",
         "Jaki może być skutek używania uszkodzonych lub zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования поврежденных или изношенных щеток стеклоочистителей в автомобиле?",
         "Zużyte pióra nieskutecznie usuwają wodę z szyb samochodu. Wpływa to na pogorszenie widoczności w czasie opadów": "Изношенные щетки стеклоочистителя неэффективно удаляют воду с окон автомобиля. Это влияет на ухудшение видимости во время осадков.",
-        "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки.",
         "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdowi z prawej strony?": "Вы должны уступить дорогу ТС, приближающемуся справа в данной ситуации?",
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek usunąć się z drogi przejazdu pojazdu uprzywilejowanego ?": "В этой ситуации водитель транспортного средства номер 1 обязан уступить дорогу транспортному средству с преимущественным правом проезда?",
         "Jedziesz na wprost, a motocyklista chce skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист хочет повернуть налево. Обязаны ли вы уступить ему преимущество?",
