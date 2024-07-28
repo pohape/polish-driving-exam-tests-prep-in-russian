@@ -3125,7 +3125,9 @@
             "Osoba niepełnosprawna, legitymującą się kartą parkingową można nie stosować się do znaku B-3": "Лицо с инвалидностью, имеющее парковочную карту, может не соблюдать знак B-3.",
             "Posiadanie karty parkingowej nie zwalnia ze stosowania się do znaków zakazujących zatrzymywania": "Владение парковочной картой не освобождает от соблюдения запрещающих знаков остановки.",
             "Czy w sytuacji, gdy wszystkie pasy do jazdy na wprost są wolne, masz obowiązek zająć lewy pas ruchu?": "В ситуации, когда все полосы для движения прямо свободны, обязаны ли вы занять левую полосу движения?",
-            "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?"
+            "Czy zmieniając nieznacznie tor jazdy pojazdu w obrębie dotychczas zajmowanego pasa ruchu, masz obowiązek sygnalizować to wcześniej kierunkowskazem?": "Если незначительно изменяя траекторию движения автомобиля в пределах занимаемой полосы движения, ты обязан заранее сигнализировать об этом указателем поворота?",
+            "Czy w tym miejscu obowiązuje zakaz zatrzymywania pojazdów?": "В этом месте действует запрет на остановку транспортных средств?",
+            "Zabrania się zatrzymania pojazdu w tunelu": "Запрещается остановка транспортного средства в туннеле."
         }
     },
     "not_approved": {
@@ -3643,9 +3645,7 @@
         "Czy w tej sytuacji wolno Ci wjechać na skrzyżowanie bez zatrzymania?": "В этой ситуации разрешено ли тебе въехать на перекресток без остановки?",
         "Czy w tej sytuacji wolno Ci wykorzystać widoczną po lewej stronie powierzchnię jezdni do parkowania pojazdu?": "Разрешается ли тебе в этой ситуации использовать видимую слева поверхность проезжей части для парковки твоего транспортного средства?",
         "Zatrzymałeś właśnie swój pojazd. Czy w związku ze znaczeniem nadawanego sygnału świetlnego zrobiłeś to we właściwym miejscu?": "Вы только что остановили свой транспортное средство. Сделали ли вы это в нужном месте, учитывая значение передаваемого светового сигнала?",
-        "Czy w tym miejscu obowiązuje zakaz zatrzymywania pojazdów?": "В этом месте действует запрет на остановку транспортных средств?",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych oraz znaków drogowych regulujących pierwszeństwem": "Указания светофора важнее общих правил и дорожных знаков, регулирующих преимущество.",
-        "Zabrania się zatrzymania pojazdu w tunelu": "Запрещается остановка транспортного средства в туннеле.",
         "Kierujący pojazdem jest obowiązany przy wyprzedzaniu zachować szczególną ostrożność,": "Водитель транспортного средства при обгоне обязан соблюдать особую осторожность.",
         "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
