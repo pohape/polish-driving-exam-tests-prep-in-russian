@@ -5,7 +5,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
-        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Позиционные огни предназначены для обозначения положения транспортного средства.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных ближних светах?",
         "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
@@ -26,11 +25,7 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя человека с ограниченными возможностями, имеющего парковочную карту, можно не соблюдать запрет движения.",
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
-        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
-        "O dowolnym tonie": "О любом тоне.",
-        "O zmiennym tonie": "О переменном тоне.",
-        "O ciągłym nieprzeraźliwym tonie": "О непрерывном непроницаемом тоне.",
-        "Jakiego sygnału dźwiękowego możesz używać w pojeździe samochodowym?": "Какой звуковой сигнал ты можешь использовать в автомобильном транспортном средстве?"
+        "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?"
     },
     "approved": {
         "upewninie się": {
@@ -4298,6 +4293,12 @@
         "Zgodnie z oznakowaniem pionowym trzeba skręcić w lewo": "Согласно вертикальной разметке, нужно повернуть налево.",
         "Nie należy się zatrzymywać jeśli możliwy jest jednoczesny przejazd obu pojazdów z zachowaniem bezpiecznych odstępów": "Не следует останавливаться, если возможен одновременный проезд обоих транспортных средств с соблюдением безопасных дистанций.",
         "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?": "На автостраде ты обязан включить аварийные огни остановленного из-за аварии транспортного средства, которым управляешь?",
-        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана."
+        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
+        "O dowolnym tonie": "На любом тоне.",
+        "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
+        "O zmiennym tonie": "О переменном тоне.",
+        "Jakiego sygnału dźwiękowego możesz używać w pojeździe samochodowym?": "Какой звуковой сигнал ты можешь использовать в автомобиле?",
+        "Pojazd samochodowy wyposaża się w sygnał dźwiękowy o ciągłym i nieprzeraźliwym tonie": "Автомобиль оснащается звуковым сигналом с непрерывным и негромким тоном.",
+        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства."
     }
 }
