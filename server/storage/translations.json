@@ -3134,7 +3134,8 @@
             "Zamierzasz skręcić w lewo. Czy w tej sytuacji masz obowiązek zbliżyć się do środka jezdni?": "Вы собираетесь повернуть налево. В данной ситуации обязаны ли вы приблизиться к середине проезжей части?",
             "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
             "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
-            "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо."
+            "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
+            "Ten sygnalizator zezwala jedynie na skręcanie w lewo": "Этот светофор разрешает только поворот налево."
         }
     },
     "not_approved": {
