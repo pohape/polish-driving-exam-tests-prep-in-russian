@@ -3136,7 +3136,8 @@
             "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
             "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
             "Ten sygnalizator zezwala jedynie na skręcanie w lewo": "Этот светофор разрешает только поворот налево.",
-            "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\"."
+            "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\".",
+            "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?"
         }
     },
     "not_approved": {
@@ -3209,7 +3210,6 @@
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
         "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Czy w tej sytuacji możesz spodziewać się wtargnięcia pieszego na jezdnię?": "Можете ли вы ожидать, что в этой ситуации вы столкнетесь с пешеходным вторжением на проезжую часть?",
-        "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
