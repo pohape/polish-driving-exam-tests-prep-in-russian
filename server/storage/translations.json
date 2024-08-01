@@ -3141,7 +3141,11 @@
             "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
             "Czy w tej sytuacji należy zwiększyć uwagę i być przygotowanym na możliwość pojawienia się pieszego z lewej strony jezdni?": "В этой ситуации следует увеличить внимание и быть готовым к возможности появления пешехода с левой стороны проезжей части?",
             "W pobliżu przystanku tramwajowego należy zachować szczególną ostrożność": "Вблизи трамвайной остановки следует соблюдать особую осторожность.",
-            "Kierujesz pojazdem w obszarze zabudowanym. Czy w przedstawionej sytuacji masz obowiązek umożliwić kierującemu autobusem włączenie się do ruchu?": "Вы управляете транспортным средством в населенном пункте. В представленной ситуации, обязаны ли вы предоставить водителю автобуса возможность включиться в движение?"
+            "Kierujesz pojazdem w obszarze zabudowanym. Czy w przedstawionej sytuacji masz obowiązek umożliwić kierującemu autobusem włączenie się do ruchu?": "Вы управляете транспортным средством в населенном пункте. В представленной ситуации, обязаны ли вы предоставить водителю автобуса возможность включиться в движение?",
+            "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie, jeżeli zamierzasz jechać na wprost?": "Имеешь ли ты право въехать на перекресток в этой ситуации, если намерен ехать прямо?",
+            "Pozycja policjanta umożliwia wjazd na skrzyżowanie": "Положение полицейского позволяет въезд на перекресток.",
+            "Czy w tej sytuacji masz prawo rozpocząć jazdę?": "В этой ситуации у тебя есть право начать движение?",
+            "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?"
         }
     },
     "not_approved": {
@@ -3193,7 +3197,6 @@
         "Czy w tej sytuacji powinieneś oddalić się od prawej krawędzi jezdni?": "Стоит ли в этой ситуации отходить от правого края проезжей части?",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "Для обгона перед пешеходным переходом, где движение направляется.",
         "Czy zajmujesz właściwy pas ruchu, jeśli na najbliższym skrzyżowaniu zamierzasz skręcić w lewo?": "Занимаете ли вы правильную полосу движения, если вы собираетесь повернуть налево на ближайшем перекрестке?",
-        "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z konieczności zachowania szczególnej ostrożności?": "Освобождает ли светофор на пешеходном переходе вас от необходимости проявлять особую осторожность?",
         "Czy kierujący pojazdami utworzyli prawidłowo \"korytarz życia\" w celu umożliwienia swobodnego przejazdu pojazdu uprzywilejowanego ?": "Правильно ли водители транспортных средств создали \"коридор жизни\", чтобы позволить привилегированному транспортному средству свободно проходить ?",
         "Czy w tej sytuacji, zamierzając skręcić w prawo, masz obowiązek zatrzymać się przed skrzyżowaniem?": "В этой ситуации, намереваясь повернуть направо, Вы обязаны остановиться перед перекрестком?",
@@ -4063,7 +4066,6 @@
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
-        "Czy w tej sytuacji masz prawo rozpocząć jazdę?": "В этой ситуации у тебя есть право начать движение?",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Увеличивают эффективность сигнализации торможения в тумане.",
         "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м.",
         "Do czego służą tylne światła przeciwmgłowe samochodu osobowego?": "Для чего служат задние противотуманные фонари легкового автомобиля?",
@@ -4307,7 +4309,6 @@
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
         "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?": "В представленной ситуации в населенном пункте, обязан ли ты снизить скорость, чтобы позволить водителю автобуса включиться в движение?",
-        "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?": "Обязан ли ты в этой ситуации, двигаясь в населенном пункте, при необходимости остановиться, чтобы позволить автобусу включиться в движение?",
-        "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie, jeżeli zamierzasz jechać na wprost?": "Имеешь ли ты право въехать на перекресток в этой ситуации, если намерен ехать прямо?"
+        "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?": "Обязан ли ты в этой ситуации, двигаясь в населенном пункте, при необходимости остановиться, чтобы позволить автобусу включиться в движение?"
     }
 }
