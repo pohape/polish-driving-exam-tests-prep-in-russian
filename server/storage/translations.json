@@ -3137,7 +3137,9 @@
             "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
             "Ten sygnalizator zezwala jedynie na skręcanie w lewo": "Этот светофор разрешает только поворот налево.",
             "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\".",
-            "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?"
+            "W tej sytuacji wolno Ci kontynuować jazdę?": "В этой ситуации вам разрешено продолжать движение?",
+            "Czy w tej sytuacji należy zwiększyć uwagę i być przygotowanym na możliwość pojawienia się pieszego z lewej strony jezdni?": "В этой ситуации следует увеличить внимание и быть готовым к возможности появления пешехода с левой стороны проезжей части?",
+            "W pobliżu przystanku tramwajowego należy zachować szczególną ostrożność": "Вблизи трамвайной остановки следует соблюдать особую осторожность."
         }
     },
     "not_approved": {
