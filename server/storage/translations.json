@@ -26,7 +26,8 @@
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
-        "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "«Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?»"
+        "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "«Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?»",
+        "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?"
     },
     "approved": {
         "upewninie się": {
@@ -3144,7 +3145,9 @@
             "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie, jeżeli zamierzasz jechać na wprost?": "Имеешь ли ты право въехать на перекресток в этой ситуации, если намерен ехать прямо?",
             "Pozycja policjanta umożliwia wjazd na skrzyżowanie": "Положение полицейского позволяет въезд на перекресток.",
             "Czy w tej sytuacji masz prawo rozpocząć jazdę?": "В этой ситуации у тебя есть право начать движение?",
-            "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?"
+            "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
+            "Czy w tej sytuacji masz obowiązek zatrzymać się i zaczekać na wyjazd autobusu z zatoki?": "В этой ситуации вы обязаны остановиться и дождаться выезда автобуса с остановки?",
+            "Kierujący autobusem nie sygnalizuje zamiaru włączenia się do ruchu": "Водитель автобуса не сигнализирует о намерении включиться в движение."
         }
     },
     "not_approved": {
@@ -3156,7 +3159,6 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
-        "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
