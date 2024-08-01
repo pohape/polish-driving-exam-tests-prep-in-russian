@@ -3135,7 +3135,8 @@
             "Jest to droga dwukierunkowa o dwóch pasach ruchu. 10 metrów przed i za przejściem obowiązuje zakaz zatrzymywania": "Это дорога с двусторонним движением с двумя полосами движения. Запрет остановки действует за 10 метров до и после пешеходного перехода.",
             "Czy na tej drodze dwukierunkowej wolno Ci zaparkować pojazd przy prawej krawędzi jezdni, bezpośrednio za przejściem dla pieszych?": "Разрешается ли вам припарковать транспортное средство у правого края проезжей части на этой дороге с двусторонним движением, непосредственно за пешеходным переходом?",
             "Z tego pasa możliwa jest jedynie jazda prosto": "С этой полосы возможно только движение прямо.",
-            "Ten sygnalizator zezwala jedynie na skręcanie w lewo": "Этот светофор разрешает только поворот налево."
+            "Ten sygnalizator zezwala jedynie na skręcanie w lewo": "Этот светофор разрешает только поворот налево.",
+            "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\"."
         }
     },
     "not_approved": {
@@ -3884,7 +3885,6 @@
         "Tak, nawet wówczas gdy telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Да, даже когда я держу телефон вдали от уха с включенным громкоговорящим режимом.",
         "Czy naruszasz przepisy ruchu drogowego, jeżeli kierując pojazdem rozmawiasz przez telefon trzymając go w ręku?": "Нарушаешь ли ты правила дорожного движения, если, управляя транспортным средством, разговариваешь по телефону, держа его в руке?",
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
-        "Zabrania się zawracania: w tunelu, na moście, wiadukcie lub drodze jednokierunkowej; na autostradzie; na drodze ekspresowej": "Запрещается разворачиваться: в туннеле, на мосту, эстакаде или на дороге с односторонним движением; на автостраде; на \"drodze ekspresowej\".",
         "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
         "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
@@ -4303,6 +4303,7 @@
         "Pojazd samochodowy wyposaża się w sygnał dźwiękowy o ciągłym i nieprzeraźliwym tonie": "Автомобиль оснащается звуковым сигналом с непрерывным и негромким тоном.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
-        "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?"
+        "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
+        "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?": "В представленной ситуации в населенном пункте, обязан ли ты снизить скорость, чтобы позволить водителю автобуса включиться в движение?"
     }
 }
