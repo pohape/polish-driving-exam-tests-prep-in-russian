@@ -3147,7 +3147,8 @@
             "Czy w tej sytuacji masz prawo rozpocząć jazdę?": "В этой ситуации у тебя есть право начать движение?",
             "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się i zaczekać na wyjazd autobusu z zatoki?": "В этой ситуации вы обязаны остановиться и дождаться выезда автобуса с остановки?",
-            "Kierujący autobusem nie sygnalizuje zamiaru włączenia się do ruchu": "Водитель автобуса не сигнализирует о намерении включиться в движение."
+            "Kierujący autobusem nie sygnalizuje zamiaru włączenia się do ruchu": "Водитель автобуса не сигнализирует о намерении включиться в движение.",
+            "Znak D-8: koniec drogi ekspresowej": "Знак D-8: конец \"drogi ekspresowej\""
         }
     },
     "not_approved": {
