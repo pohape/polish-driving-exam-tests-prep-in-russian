@@ -3164,7 +3164,8 @@
             "Sygnalizator S-2 zobowiązuje do zatrzymania": "Светофор S-2 обязывает остановиться.",
             "Sygnalizator świeci na czerwono": "Светофор горит красным.",
             "Sygnalizator umożliwia również zawracanie": "Светофор также позволяет разворачиваться.",
-            "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться."
+            "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться.",
+            "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление."
         }
     },
     "not_approved": {
