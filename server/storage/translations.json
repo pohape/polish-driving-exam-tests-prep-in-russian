@@ -3163,7 +3163,8 @@
             "Czy w tej sytuacji wolno Ci skręcić w prawo po upewnieniu się, że tym manewrem nie utrudnisz ruchu innym uczestnikom?": "Можешь ли ты в этой ситуации повернуть направо, убедившись, что этот манёвр не затруднит движение другим участникам?",
             "Sygnalizator S-2 zobowiązuje do zatrzymania": "Светофор S-2 обязывает остановиться.",
             "Sygnalizator świeci na czerwono": "Светофор горит красным.",
-            "Sygnalizator umożliwia również zawracanie": "Светофор также позволяет разворачиваться."
+            "Sygnalizator umożliwia również zawracanie": "Светофор также позволяет разворачиваться.",
+            "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться."
         }
     },
     "not_approved": {
@@ -4328,7 +4329,6 @@
         "Czy zmieniając pas ruchu nieoznaczony znakami drogowymi jesteś zwolniony z sygnalizowania tego manewru odpowiednim kierunkowskazem?": "Освобождены ли вы от использования соответствующего указателя поворота при выполнении маневра смены полосы движения, не обозначенной дорожными знаками?",
         "Czy w przedstawionej sytuacji kierujący pojazdami koloru czerwonego i zielonego zgodnie z przepisami umożliwiają przejazd pojazdu uprzywilejowanego tworząc tzw. \"korytarz życia\" ?": "Создают ли водители транспортных средств красного и зеленого цвета в представленной ситуации в соответствии с правилами так называемый «коридор жизни» для пропуска транспортного средства с приоритетом?",
         "Czy w tej sytuacji wyprzedzanie rowerzysty z zachowaniem odstępu około 0,5 m jest zabronione?": "Запрещен ли обгон велосипедиста с сохранением дистанции примерно 0,5 м в этой ситуации?",
-        "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться.",
         "Czy w przedstawionej sytuacji wolno Ci poruszać się z włączonymi przednimi światłami przeciwmgłowymi?": "Разрешено ли вам двигаться с включенными передними противотуманными фарами в представленной ситуации?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego w celu ostrzeżenia dzieci, aby nie wbiegały na jezdnie?": "В этой ситуации обязаны ли вы подать звуковой сигнал, чтобы предупредить детей, чтобы они не выбегали на проезжую часть?",
         "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
