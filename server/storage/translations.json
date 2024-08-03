@@ -4343,6 +4343,9 @@
         "Świadczą o tym znak \"Pierwszeństwo przejazdu\" wraz z tabliczką": "Свидетельствует об этом знак \"Главная дорога\" вместе с табличкой.",
         "Masz zamiar skręcić w prawo. Czy w przedstawionej sytuacji zatrzymasz się przed sygnalizatorem?": "Ты собираешься повернуть направо. Остановишься ли ты перед светофором в представленной ситуации?",
         "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?": "Обязаны ли вы уступить дорогу ТС, находящимся на перекрестке с круговым движением в представленной ситуации?",
-        "Pojazdy nadjeżdżające z przeciwka poruszają się drogą podporządkowaną": "Транспортные средства, приближающиеся с противоположной стороны, двигаются по второстепенной дороге."
+        "Pojazdy nadjeżdżające z przeciwka poruszają się drogą podporządkowaną": "Транспортные средства, приближающиеся с противоположной стороны, двигаются по второстепенной дороге.",
+        "W jaki sposób powinieneś hamować awaryjnie samochodem osobowym wyposażonym w układ przeciwblokujący (ABS)?": "Каким образом вы должны производить экстренное торможение автомобилем, оборудованным антиблокировочной системой (ABS)?",
+        "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
+        "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS."
     }
 }
