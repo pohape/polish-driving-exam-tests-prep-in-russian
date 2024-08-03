@@ -4346,6 +4346,7 @@
         "Pojazdy nadjeżdżające z przeciwka poruszają się drogą podporządkowaną": "Транспортные средства, приближающиеся с противоположной стороны, двигаются по второстепенной дороге.",
         "W jaki sposób powinieneś hamować awaryjnie samochodem osobowym wyposażonym w układ przeciwblokujący (ABS)?": "Каким образом вы должны производить экстренное торможение автомобилем, оборудованным антиблокировочной системой (ABS)?",
         "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
-        "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS."
+        "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS.",
+        "Mocno wcisnąć pedał hamulca i zmniejszyć nacisk w chwili zadziałania układu ABS": "Сильно нажать педаль тормоза и уменьшить нажим в момент срабатывания системы ABS."
     }
 }
