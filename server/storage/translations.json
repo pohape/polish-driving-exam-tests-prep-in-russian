@@ -4316,6 +4316,9 @@
         "Czy w tej sytuacji masz obowiązek sygnalizować zamiar skrętu w prawo?": "В данной ситуации должен ли ты сигнализировать о намерении повернуть направо?",
         "Zabrania się najeżdżania na linię ciągłą i przejeżdżania przez nią": "Запрещается наезжать на сплошную линию и пересекать её.",
         "W przedstawionej sytuacji zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy jedziesz właściwym pasem ruchu, aby wykonać ten manewr?": "В представленной ситуации вы намереваетесь повернуть налево на ближайшем перекрестке. Едете ли вы по правильной полосе движения, чтобы выполнить этот маневр?",
-        "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują": "Наземные (горизонтальные) знаки в виде стрелок на проезжей части предписывают движение только в указанном направлении с полос движения, на которых они находятся."
+        "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują": "Наземные (горизонтальные) знаки в виде стрелок на проезжей части предписывают движение только в указанном направлении с полос движения, на которых они находятся.",
+        "Ze względu na oznakowanie poziome oraz pas zieleni zawracanie jest niemożliwe": "Из-за наземной разметки и зеленой полосы разворот невозможен.",
+        "Czy zmieniając pas ruchu nieoznaczony znakami drogowymi jesteś zwolniony z sygnalizowania tego manewru odpowiednim kierunkowskazem?": "Освобождены ли вы от использования соответствующего указателя поворота при выполнении маневра смены полосы движения, не обозначенной дорожными знаками?",
+        "Czy w tej sytuacji skręcając w prawo masz obowiązek sygnalizować ten manewr kierunkowskazem?": "В этой ситуации, поворачивая направо, обязан ли ты сигнализировать этот маневр поворотником?"
     }
 }
