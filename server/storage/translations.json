@@ -4338,6 +4338,8 @@
         "Sygnalizator S-3 nie zobowiązuje do zatrzymania": "Светофор S-3 не обязывает остановиться.",
         "Sygnalizator świeci na zielono": "Светофор светит зелёным.",
         "Czy w widocznej sytuacji z tego pasa ruchu dopuszczalne jest tylko skręcanie w lewo?": "Допускается ли в видимой ситуации с этой полосы движения только поворот налево?",
-        "Znak umieszczony jest na drodze podporządkowanej przed skrzyżowaniem z drogą z pierwszeństwem": "Знак размещен на второстепенной дороге перед перекрестком с главной дорогой."
+        "Znak umieszczony jest na drodze podporządkowanej przed skrzyżowaniem z drogą z pierwszeństwem": "Знак размещен на второстепенной дороге перед перекрестком с главной дорогой.",
+        "Świadczą o tym znak \"Pierwszeństwo przejazdu\" wraz z tabliczką": "Свидетельствует об этом знак \"Главная дорога\" вместе с табличкой.",
+        "Masz zamiar skręcić w prawo. Czy w przedstawionej sytuacji zatrzymasz się przed sygnalizatorem?": "Ты собираешься повернуть направо. Остановишься ли ты перед светофором в представленной ситуации?"
     }
 }
