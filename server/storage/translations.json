@@ -26,7 +26,6 @@
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
-        "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "«Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?»",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?"
     },
@@ -3151,7 +3150,9 @@
             "Kierujący autobusem nie sygnalizuje zamiaru włączenia się do ruchu": "Водитель автобуса не сигнализирует о намерении включиться в движение.",
             "Znak D-8: koniec drogi ekspresowej": "Знак D-8: конец \"drogi ekspresowej\"",
             "Czy w tej sytuacji skręcając w prawo masz obowiązek sygnalizować ten manewr kierunkowskazem?": "В этой ситуации, поворачивая направо, обязан ли ты сигнализировать этот маневр поворотником?",
-            "Zamierzasz skręcić w prawo do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszemu?": "Вы собираетесь повернуть направо к воротам. Обязаны ли вы уступить дорогу пешеходу?"
+            "Zamierzasz skręcić w prawo do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszemu?": "Вы собираетесь повернуть направо к воротам. Обязаны ли вы уступить дорогу пешеходу?",
+            "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
+            "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?"
         }
     },
     "not_approved": {
@@ -3722,7 +3723,6 @@
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
         "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
-        "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
         "Czy masz obowiązek odpowiednio sygnalizować postój uszkodzonego pojazdu na powierzchni wyłączonej z ruchu?": "Обязаны ли вы соответствующим образом сигнализировать о стоянке поврежденного транспортного средства на поверхности, исключенной из движения?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Вы имеете право повернуть направо в этой ситуации при условии, что убедившись, вы не затрудните движение другим его участникам?",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можешь ли ты, управляя автомобилем, повернуть на участке после знака направо на обозначенную таким образом дорогу?",
