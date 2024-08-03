@@ -3154,7 +3154,8 @@
             "Zamierzasz skręcić w prawo do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszemu?": "Вы собираетесь повернуть направо к воротам. Обязаны ли вы уступить дорогу пешеходу?",
             "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
             "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?",
-            "Czego możesz spodziewać się na tak oznakowanej drodze?": "Чего вы можете ожидать на обозначенной таким образом дороге?"
+            "Czego możesz spodziewać się na tak oznakowanej drodze?": "Чего вы можете ожидать на обозначенной таким образом дороге?",
+            "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности."
         }
     },
     "not_approved": {
@@ -3404,7 +3405,6 @@
         "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
-        "W sytuacji gwałtownego ruszania na śliskiej nawierzchni": "В ситуации резкого трогания на скользкой дорожной поверхности.",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
