@@ -3149,7 +3149,9 @@
             "Czy w tej sytuacji możesz zatrzymać pojazd na chodniku tuż przed przystankiem?": "Можете ли вы остановить автомобиль на тротуаре прямо перед остановкой в этой ситуации?",
             "Czy w tej sytuacji masz obowiązek zatrzymać się i zaczekać na wyjazd autobusu z zatoki?": "В этой ситуации вы обязаны остановиться и дождаться выезда автобуса с остановки?",
             "Kierujący autobusem nie sygnalizuje zamiaru włączenia się do ruchu": "Водитель автобуса не сигнализирует о намерении включиться в движение.",
-            "Znak D-8: koniec drogi ekspresowej": "Знак D-8: конец \"drogi ekspresowej\""
+            "Znak D-8: koniec drogi ekspresowej": "Знак D-8: конец \"drogi ekspresowej\"",
+            "Czy w tej sytuacji skręcając w prawo masz obowiązek sygnalizować ten manewr kierunkowskazem?": "В этой ситуации, поворачивая направо, обязан ли ты сигнализировать этот маневр поворотником?",
+            "Zamierzasz skręcić w prawo do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszemu?": "Вы собираетесь повернуть направо к воротам. Обязаны ли вы уступить дорогу пешеходу?"
         }
     },
     "not_approved": {
@@ -4319,6 +4321,6 @@
         "Znaki poziome w postaci strzałek na jezdni, nakazują jazdę tylko we wskazanym kierunku, z pasów ruchu, na których się znajdują": "Наземные (горизонтальные) знаки в виде стрелок на проезжей части предписывают движение только в указанном направлении с полос движения, на которых они находятся.",
         "Ze względu na oznakowanie poziome oraz pas zieleni zawracanie jest niemożliwe": "Из-за наземной разметки и зеленой полосы разворот невозможен.",
         "Czy zmieniając pas ruchu nieoznaczony znakami drogowymi jesteś zwolniony z sygnalizowania tego manewru odpowiednim kierunkowskazem?": "Освобождены ли вы от использования соответствующего указателя поворота при выполнении маневра смены полосы движения, не обозначенной дорожными знаками?",
-        "Czy w tej sytuacji skręcając w prawo masz obowiązek sygnalizować ten manewr kierunkowskazem?": "В этой ситуации, поворачивая направо, обязан ли ты сигнализировать этот маневр поворотником?"
+        "Czy w przedstawionej sytuacji kierujący pojazdami koloru czerwonego i zielonego zgodnie z przepisami umożliwiają przejazd pojazdu uprzywilejowanego tworząc tzw. \"korytarz życia\" ?": "Создают ли водители транспортных средств красного и зеленого цвета в представленной ситуации в соответствии с правилами так называемый «коридор жизни» для пропуска транспортного средства с приоритетом?"
     }
 }
