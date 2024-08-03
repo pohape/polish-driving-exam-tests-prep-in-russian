@@ -4341,6 +4341,7 @@
         "Znak umieszczony jest na drodze podporządkowanej przed skrzyżowaniem z drogą z pierwszeństwem": "Знак размещен на второстепенной дороге перед перекрестком с главной дорогой.",
         "Świadczą o tym znak \"Pierwszeństwo przejazdu\" wraz z tabliczką": "Свидетельствует об этом знак \"Главная дорога\" вместе с табличкой.",
         "Masz zamiar skręcić w prawo. Czy w przedstawionej sytuacji zatrzymasz się przed sygnalizatorem?": "Ты собираешься повернуть направо. Остановишься ли ты перед светофором в представленной ситуации?",
-        "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?": "Обязаны ли вы уступить дорогу ТС, находящимся на перекрестке с круговым движением в представленной ситуации?"
+        "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?": "Обязаны ли вы уступить дорогу ТС, находящимся на перекрестке с круговым движением в представленной ситуации?",
+        "Pojazdy nadjeżdżające z przeciwka poruszają się drogą podporządkowaną": "Транспортные средства, приближающиеся с противоположной стороны, двигаются по второстепенной дороге."
     }
 }
