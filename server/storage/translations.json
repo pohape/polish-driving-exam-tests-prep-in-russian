@@ -3159,7 +3159,8 @@
             "Utrzymywania stałej, niewielkiej prędkości jazdy": "Поддержание постоянной, небольшой скорости движения.",
             "Jakiego zachowania powinieneś unikać podczas jazdy w takich warunkach drogowych?": "Какого поведения следует избегать во время вождения в таких дорожных условиях?",
             "Zdecydowanie przyśpieszyć": "Резко ускориться.",
-            "Czy w tej sytuacji powinieneś ustąpić pierwszeństwa pieszemu?": "В данной ситуации должны ли вы уступить дорогу пешеходу?"
+            "Czy w tej sytuacji powinieneś ustąpić pierwszeństwa pieszemu?": "В данной ситуации должны ли вы уступить дорогу пешеходу?",
+            "Czy w tej sytuacji wolno Ci skręcić w prawo po upewnieniu się, że tym manewrem nie utrudnisz ruchu innym uczestnikom?": "Можешь ли ты в этой ситуации повернуть направо, убедившись, что этот манёвр не затруднит движение другим участникам?"
         }
     },
     "not_approved": {
@@ -4330,7 +4331,6 @@
         "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
         "W dowolnym miejscu na autostradzie": "В любом месте на автостраде.",
         "Po wjeździe na początek pasa wyłączenia (zjazdu)": "Въезд на начало полосы выключения (съезда).",
-        "Poruszasz się autostradą i zamierzasz ją opuścić. W którym miejscu rozpoczniesz hamowanie przed zjazdem z autostrady?": "Вы движетесь по автостраде и собираетесь её покинуть. В каком месте вы начнёте торможение перед съездом с автострады?",
-        "Czy w tej sytuacji wolno Ci skręcić w prawo po upewnieniu się, że tym manewrem nie utrudnisz ruchu innym uczestnikom?": "Можешь ли ты в этой ситуации повернуть направо, убедившись, что этот манёвр не затруднит движение другим участникам?"
+        "Poruszasz się autostradą i zamierzasz ją opuścić. W którym miejscu rozpoczniesz hamowanie przed zjazdem z autostrady?": "Вы движетесь по автостраде и собираетесь её покинуть. В каком месте вы начнёте торможение перед съездом с автострады?"
     }
 }
