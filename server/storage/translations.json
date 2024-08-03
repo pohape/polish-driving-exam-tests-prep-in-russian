@@ -4348,6 +4348,7 @@
         "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
         "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS.",
         "Mocno wcisnąć pedał hamulca i zmniejszyć nacisk w chwili zadziałania układu ABS": "Сильно нажать педаль тормоза и уменьшить нажим в момент срабатывания системы ABS.",
-        "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если удвоить скорость?"
+        "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если удвоить скорость?",
+        "Wraz z dwukrotnym wzrostem prędkości droga hamowania wydłuża się czterokrotnie": "При двукратном увеличении скорости тормозной путь увеличивается вчетверо."
     }
 }
