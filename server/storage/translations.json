@@ -27,7 +27,8 @@
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
-        "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?"
+        "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
+        "Włączenie świateł drogowych": "Включение фар ближнего света."
     },
     "approved": {
         "upewninie się": {
@@ -3152,7 +3153,8 @@
             "Czy w tej sytuacji skręcając w prawo masz obowiązek sygnalizować ten manewr kierunkowskazem?": "В этой ситуации, поворачивая направо, обязан ли ты сигнализировать этот маневр поворотником?",
             "Zamierzasz skręcić w prawo do bramy. Czy masz obowiązek ustąpić pierwszeństwa pieszemu?": "Вы собираетесь повернуть направо к воротам. Обязаны ли вы уступить дорогу пешеходу?",
             "Czy przy omijaniu nietrzeźwego rowerzysty należy zwiększyć odstęp od niego?": "При объезде пьяного велосипедиста следует увеличить дистанцию от него?",
-            "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?"
+            "Czy na widocznym skrzyżowaniu wolno Ci skręcić w prawo z zajmowanego obecnie pasa ruchu?": "Можно ли на видимом перекрестке повернуть направо с занимаемой в данный момент полосы движения?",
+            "Czego możesz spodziewać się na tak oznakowanej drodze?": "Чего вы можете ожидать на обозначенной таким образом дороге?"
         }
     },
     "not_approved": {
@@ -3341,7 +3343,6 @@
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
         "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?",
-        "Włączenie świateł drogowych": "Включение фар ближнего света.",
         "Jeżeli dziecko ma co najmniej 135 cm wzrostu": "Если ребенок имеет рост не менее 135 см.",
         "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
@@ -4139,7 +4140,6 @@
         "Aby zwiększyć bezpieczeństwo podczas podróżowania należy sprawdzić ciśnienie w oponach bezpośrednio przed podróżą": "Чтобы увеличить безопасность во время путешествия, необходимо проверить давление в шинах непосредственно перед поездкой.",
         "ITD w tym zakresie ma takie same uprawnienia co policja": "ИТД (Инспекция Дорожного Транспорта) в этой области имеет такие же полномочия, как и полиция.",
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
-        "Czego możesz spodziewać się na tak oznakowanej drodze?": "Чего вы можете ожидать на обозначенной таким образом дороге?",
         "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
         "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения.",
         "Zdecydowanie przyśpieszyć": "Резко ускориться.",
