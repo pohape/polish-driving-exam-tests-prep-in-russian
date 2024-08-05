@@ -2,7 +2,6 @@
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
-        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "Вы обязаны уступить дорогу ТС, въезжающему на этот перекресток, если вы намереваетесь выполнить разворот?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных ближних светах?",
@@ -4354,6 +4353,7 @@
         "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле,",
         "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается лицо:",
         "która czuje się skrępowana pasami": "которая чувствует себя стеснённой ремнями.",
-        "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске."
+        "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске.",
+        "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "На этом перекрестке, намереваясь развернуться, обязаны ли вы уступить дорогу ТС, въезжающему на него?"
     }
 }
