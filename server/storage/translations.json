@@ -4349,6 +4349,11 @@
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania wydłuża się czterokrotnie": "При двукратном увеличении скорости тормозной путь увеличивается вчетверо.",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя инвалида, имеющего парковочную карту, можно не соблюдать запрещающий знак.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам остановить транспортное средство на поверхности, исключенной из движения?",
-        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон невозможен из-за двойной сплошной линии"
+        "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон невозможен из-за двойной сплошной линии",
+        "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,",
+        "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле,",
+        "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается лицо:",
+        "która czuje się skrępowana pasami": "которая чувствует себя стеснённой ремнями.",
+        "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске."
     }
 }
