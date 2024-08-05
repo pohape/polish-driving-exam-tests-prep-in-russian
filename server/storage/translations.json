@@ -3165,7 +3165,8 @@
             "Sygnalizator świeci na czerwono": "Светофор горит красным.",
             "Sygnalizator umożliwia również zawracanie": "Светофор также позволяет разворачиваться.",
             "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться.",
-            "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление."
+            "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление.",
+            "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?"
         }
     },
     "not_approved": {
@@ -3367,7 +3368,6 @@
         "Nie wolno": "Не разрешается.",
         "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
-        "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
         "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
