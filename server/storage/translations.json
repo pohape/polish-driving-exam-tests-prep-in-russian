@@ -3162,7 +3162,8 @@
             "Sygnalizator umożliwia również zawracanie": "Светофор также позволяет разворачиваться.",
             "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться.",
             "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление.",
-            "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?"
+            "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
+            "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении."
         }
     },
     "not_approved": {
@@ -3694,7 +3695,6 @@
         "Zapobiega zerwaniu przyczepności opon podczas przyspieszania": "Предотвращает потерю сцепления шин при ускорении.",
         "Zezwala się na przewożenie na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci": "Допускается перевозка на заднем сиденье транспортного средства третьего ребенка в возрасте не менее 3 лет, удерживаемого с помощью ремней безопасности, в случае, когда двое детей перевозятся в детских автокреслах или других удерживающих устройствах для детей, установленных на задних сиденьях транспортного средства, и нет возможности установить третье детское автокресло или другое удерживающее устройство для детей.",
         "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
-        "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы имеете преимущество перед ТС, приближающимся слева, поворачивая налево на этом перекрестке?",
