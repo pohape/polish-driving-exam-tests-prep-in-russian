@@ -4360,6 +4360,7 @@
         "Czy ten sygnał oznacza, że podczas jazdy w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "Означает ли этот сигнал, что при повороте налево не возникает столкновений с другими участниками движения?",
         "Włączanie się do ruchu następuje przy wjeżdżaniu na jezdnię z pobocza": "Включение в движение происходит при въезде на проезжую часть с обочины.",
         "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
-        "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka planuje jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а водитель приближающегося встречного ТС планирует ехать прямо. У вас есть преимущество перед встречным ТС?"
+        "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka planuje jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а водитель приближающегося встречного ТС планирует ехать прямо. У вас есть преимущество перед встречным ТС?",
+        "Czy w tej sytuacji musisz umożliwić włączenie się do ruchu pojazdowi ciężarowemu?": "В этой ситуации вы должны позволить грузовому автомобилю включиться в движение?"
     }
 }
