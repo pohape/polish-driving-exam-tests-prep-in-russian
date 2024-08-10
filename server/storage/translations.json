@@ -3222,7 +3222,14 @@
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych tylnych światłach przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных задних противотуманных фонарях?",
             "Kontrolka od przeciwmgłowych tylnych jest barwy żółtej": "Индикатор задних противотуманных фонарей желтого цвета.",
             "Kontrolka od świateł drogowych jest barwy niebieskiej": "Индикатор дальнего света имеет синий цвет.",
-            "Niezapięte pasy sygnalizuje kontrolka \"B\"": "Не пристёгнутые ремни сигнализирует индикатор \"B\""
+            "Niezapięte pasy sygnalizuje kontrolka \"B\"": "Не пристёгнутые ремни сигнализирует индикатор \"B\"",
+            "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
+            "Kontrolka \"B\" świadczy o niskim poziomie oleju silnikowego": "Индикатор \"B\" свидетельствует о низком уровне моторного масла.",
+            "Jaką awarię sygnalizuje szybko migający kierunkowskaz?": "Какую неисправность сигнализирует быстро мигающий указатель поворота?",
+            "Słaby akumulator": "Слабый аккумулятор.",
+            "Zwarcie w przewodach wysokiego napięcia": "Короткое замыкание в проводах высокого напряжения.",
+            "Przepaloną żarówkę kierunkowskazu": "Перегоревшая лампочка указателя поворота.",
+            "W przypadku przepalenia się jednej z żarówek kierunkowskazu wzrasta częstotliwość jego migania": "В случае перегорания одной из лампочек указателя поворота увеличивается частота его мигания."
         }
     },
     "not_approved": {
@@ -3447,7 +3454,6 @@
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "Starosta wydaje decyzję administracyjną o zatrzymaniu prawa jazdy, gdy kierujący pojazdem przekroczył dopuszczalną prędkość o:": "Заместитель главы администрации выносит административное решение о приостановлении прав на управление транспортным средством, когда водитель превысил разрешенную скорость на:",
-        "Po zapaleniu się której z widocznych na ilustracji lampek kontrolnych należy się niezwłocznie zatrzymać i usunąć usterkę?": "После загорания какой-либо из видимых на иллюстрации контрольных лампочек следует незамедлительно остановиться и устранить неисправность?",
         "1,6 milimetra": "1,6 миллиметра.",
         "3 milimetry": "3 миллиметра.",
         "2,6 milimetra": "2,6 миллиметра.",
@@ -3588,10 +3594,6 @@
         "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
         "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности.",
         "Tak, ale jadąc z maksymalną prędkością 20 km\/h": "Да, но двигаясь с максимальной скоростью 20 км\/ч.",
-        "Słaby akumulator": "Слабый аккумулятор.",
-        "Przepaloną żarówkę kierunkowskazu": "Перегоревшая лампочка указателя поворота.",
-        "Zwarcie w przewodach wysokiego napięcia": "Короткое замыкание в проводах высокого напряжения.",
-        "Jaką awarię sygnalizuje szybko migający kierunkowskaz?": "Какую неисправность сигнализирует быстро мигающий указатель поворота?",
         "Tylko obszar przestrzeni obok pojazdu": "Только пространство вокруг автомобиля.",
         "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
