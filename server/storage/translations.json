@@ -31,7 +31,8 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается устройство для поддержания ребенка, предназначенное для его перевозки?",
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "Полицейский временно изъял водительское удостоверение за перевозку пассажиров в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
-        "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами."
+        "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
+        "W jakim przypadku przewożenie dziecka samochodem ciężarowym o dopuszczalnej masie całkowitej powyżej 3,5 t na tylnym siedzeniu, przytrzymywanego jedynie pasami bezpieczeństwa, jest dozwolone?": "В каком случае перевозка ребенка грузовым автомобилем с разрешенной максимальной массой свыше 3,5 т на заднем сиденье, удерживаемым только ремнями безопасности, разрешена?"
     },
     "approved": {
         "starosta": {
@@ -3388,7 +3389,12 @@
             "Przedłuży okres zatrzymania o kolejne trzy miesiące": "Продлит период временного изъятия на следующие три месяца.",
             "Przedłuży okres zatrzymania o kolejne cztery miesiące": "Продлит период временного изъятия на следующие четыре месяца.",
             "Cofnie uprawnienie do kierowania pojazdem": "Отзовет право на управление транспортным средством.",
-            "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużenia okresu zatrzymania prawa jazdy do sześciu miesięcy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "Какое решение примет староста, если вы были остановлены для контроля, управляя транспортным средством, несмотря на продление периода временного изъятия водительского удостоверения до шести месяцев за перевозку людей в количестве, превышающем на два число мест, указанных в свидетельстве о регистрации автомобиля?"
+            "Jaką decyzję podejmie starosta, jeśli zostałeś zatrzymany do kontroli kierując pojazdem pomimo przedłużenia okresu zatrzymania prawa jazdy do sześciu miesięcy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "Какое решение примет староста, если вы были остановлены для контроля, управляя транспортным средством, несмотря на продление периода временного изъятия водительского удостоверения до шести месяцев за перевозку людей в количестве, превышающем на два число мест, указанных в свидетельстве о регистрации автомобиля?",
+            "Nie zatrzyma prawa jazdy": "Не изымет водительского удостоверения.",
+            "Pouczy i skieruje na egzamin kontrolny": "Проинструктирует и направит на контрольный экзамен.",
+            "Jeżeli dziecko osiągnęło wzrost co najmniej 135 cm i nie jest możliwe ze względu na masę i wzrost zapewnienie fotelika bezpieczeństwa": "Если ребенок достиг роста не менее 135 см и невозможно обеспечить автокресло из-за его веса и роста.",
+            "Jeżeli dziecko osiągnęło wzrost co najmniej 135 cm niezależnie od wagi": "Если ребенок достиг роста не менее 135 см независимо от веса.",
+            "Nie ma obowiązku przewożenia dziecka na tylnym siedzeniu samochodu ciężarowego w fotelikach bezpieczeństwa": "Не существует обязательства перевозить ребенка на заднем сиденье грузового автомобиля в детских автокреслах."
         }
     },
     "not_approved": {
@@ -3541,7 +3547,6 @@
         "Tak, wolno": "Да, разрешается.",
         "Czy wolno samochodem ciężarowym wyposażonym w pasy bezpieczeństwa przewozić dziecko do lat trzech niezabezpieczone pasami bezpieczeństwa i fotelikiem bezpieczeństwa?": "Водителю грузового автомобиля, оснащенного ремнями безопасности, не разрешается перевозить ребенка до трех лет без использования ремней безопасности и детского автокресла.",
         "Nie - dziecko do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko taksówką": "Нет - ребенка до трех лет разрешается перевозить без пристегивания ремнями безопасности только в такси.",
-        "Pouczy i skieruje na egzamin kontrolny": "Проинструктирует и направит на контрольный экзамен.",
         "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Должны ли вы соблюдать особую осторожность, включаясь в движение?",
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
@@ -3670,10 +3675,6 @@
         "Tak, ponieważ przepisy na to zezwalają, jeżeli ze względu na masę dziecka nie jest możliwe zapewnienie urządzenia przytrzymującego dla dziecka": "Да, потому что правила это позволяют, если в связи с весом ребенка невозможно обеспечить удерживающее устройство для ребенка.",
         "Nie, ponieważ przepisy dotyczące przewozu dzieci zezwalają na przewóz dzieci o wzroście co najmniej 135 cm bez fotelika lub innego urządzenia przytrzymującego dziecko tylko na tylnym siedzeniu pojazdu": "Нет, потому что правила перевозки детей разрешают перевозить детей ростом не менее 135 см без детского кресла или другого удерживающего устройства только на заднем сиденье транспортного средства.",
         "Czy przewożenie na przednim siedzeniu pojazdu dziecka o wzroście co najmniej 135 cm, zabezpieczonego jedynie pasami bezpieczeństwa, jest dozwolone?": "Допускается ли перевозка ребенка ростом не менее 135 см на переднем сиденье ТС, если он будет защищен только ремнями безопасности?",
-        "Jeżeli dziecko osiągnęło wzrost co najmniej 135 cm niezależnie od wagi": "Если ребенок достиг роста не менее 135 см независимо от веса.",
-        "Nie ma obowiązku przewożenia dziecka na tylnym siedzeniu samochodu ciężarowego w fotelikach bezpieczeństwa": "Не существует обязательства перевозить ребенка на заднем сиденье грузового автомобиля в детских автокреслах.",
-        "Jeżeli dziecko osiągnęło wzrost co najmniej 135 cm i nie jest możliwe ze względu na masę i wzrost zapewnienie fotelika bezpieczeństwa": "Если ребенок достиг роста не менее 135 см и невозможно обеспечить автокресло из-за его веса и роста.",
-        "W jakim przypadku przewożenie dziecka samochodem ciężarowym o dopuszczalnej masie całkowitej powyżej 3,5 t na tylnym siedzeniu, przytrzymywanego jedynie pasami bezpieczeństwa, jest dozwolone?": "В каком случае перевозка ребенка грузовым автомобилем с разрешенной максимальной массой свыше 3,5 т на заднем сиденье, удерживаемым только ремнями безопасности, разрешена?",
         "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
@@ -4019,7 +4020,6 @@
         "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в вождении.",
         "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
         "Czy w tej sytuacji powinieneś był upewnić się, że możesz bezpiecznie zmienić pas ruchu?": "В этой ситуации ты должен был убедиться, что можешь безопасно сменить полосу движения?",
-        "Nie zatrzyma prawa jazdy": "Не изымет водительского удостоверения.",
         "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "он обязан соблюдать способ стоянки, указанный дорожными знаками,",
