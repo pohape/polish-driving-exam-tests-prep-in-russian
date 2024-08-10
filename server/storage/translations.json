@@ -3359,7 +3359,10 @@
             "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
             "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
             "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Каким образом вы установите в транспортном средстве детское автокресло?",
-            "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством."
+            "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
+            "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
+            "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?": "Какие условия должны быть соблюдены при перевозке ребенка на заднем сиденье легкового автомобиля?",
+            "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч."
         }
     },
     "not_approved": {
@@ -3642,10 +3645,6 @@
         "Dozwolone, jeżeli dziecko ma co najmniej 135 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешается, если ребенок имеет хотя бы 135 см роста и невозможно обеспечить ему автокресло из-за его роста и веса.",
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
-        "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч.",
-        "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевезенный ребенок имеет минимум 125 см роста, он пристегнут только ремнями безопасности, так как масса и рост не позволяют перевозить его в детском кресле.",
-        "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?": "Какие условия должны быть соблюдены при перевозке ребенка на заднем сиденье легкового автомобиля?",
-        "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku lub innym urządzeniu przytrzymującym dziecko": "Перевезенный ребенок имеет рост не менее 135 см, пристегнут только ремнями безопасности, поскольку масса и рост не позволяют перевозить в детском кресле или другом устройстве для удержания ребенка.",
         "Prędkość pojazdu nie przekroczy 40 km\/h": "Скорость транспортного средства не превысит 40 км\/ч.",
         "Po spełnieniu, którego z wymienionych warunków można przewozić samochodem osobowym, poza fotelikiem bezpieczeństwa lub innym urządzeniem przytrzymującym, dziecko mające mniej niż 150 cm wzrostu?": "После выполнения какого из перечисленных условий можно перевозить в легковом автомобиле ребенка ростом менее 150 см без использования детского автокресла или другого придерживающего устройства?",
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko": "Транспортное средство имеет дополнительные обозначения, которые указывают на то, что в нём перевозится ребёнок.",
@@ -3830,7 +3829,6 @@
         "Należy ustąpić pierwszeństwa rowerzyście": "Необходимо уступить дорогу велосипедисту.",
         "Jedziesz na wprost, a motocyklista zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист собирается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Przejeżdżając przez chodnik należy zachować szczególną ostrożność": "Перевод фрагмента: \"Проезжая через тротуар, необходимо соблюдать особую осторожность.\"",
-        "To chyba najrozsądniejszy z wariantów odpowiedzi": "Это, наверное, самый разумный из вариантов ответов.",
         "Czy masz obowiązek odpowiednio sygnalizować postój uszkodzonego pojazdu na powierzchni wyłączonej z ruchu?": "Обязаны ли вы соответствующим образом сигнализировать о стоянке поврежденного транспортного средства на поверхности, исключенной из движения?",
         "Czy w tej sytuacji wolno Ci skręcić w prawo pod warunkiem upewnienia się, że nie utrudnisz ruchu innym jego uczestnikom?": "Вы имеете право повернуть направо в этой ситуации при условии, что убедившись, вы не затрудните движение другим его участникам?",
         "Czy jadąc samochodem osobowym możesz skręcić w prawo na tak oznakowaną drogę?": "Можешь ли ты, управляя автомобилем, повернуть на участке после знака направо на обозначенную таким образом дорогу?",
@@ -4395,6 +4393,8 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
+        "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku lub innym urządzeniu przytrzymującym dziecko": "Перевозимое ребенок имеет рост не менее 135 см, пристегнуто только ремнями безопасности, так как масса и рост не позволяют перевозить его в автокресле или другом удерживающем устройстве для детей.",
+        "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевозимый ребенок имеет рост не менее 125 см, закреплен только ремнями безопасности, так как масса и рост не позволяют перевозку в кресле."
     }
 }
