@@ -27,7 +27,8 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми.",
-        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения."
+        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
+        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?"
     },
     "approved": {
         "starosta": {
@@ -3354,7 +3355,10 @@
             "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm samochodem osobowym, w którym jest pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом менее 150 см в легковом автомобиле, в котором пять мест для сидения?",
             "Na przednim siedzeniu bez fotelika lub innego urządzenia przytrzymującego dziecko": "На переднем сидении без детского кресла или другого удерживающего устройства.",
             "Na przednim siedzeniu w innym niż fotelik urządzeniu przytrzymującym dziecko": "На переднем сиденье в другом устройстве для удержания ребенка, отличном от автокресла.",
-            "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности."
+            "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности.",
+            "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
+            "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
+            "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Каким образом вы установите в транспортном средстве детское автокресло?"
         }
     },
     "not_approved": {
@@ -3368,7 +3372,6 @@
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
-        "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Как установить автокресло для перевозки ребенка в автомобиле?",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Wkrótce": "Вскоре",
@@ -3639,8 +3642,6 @@
         "Dozwolone, jeżeli dziecko ma co najmniej 135 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешается, если ребенок имеет хотя бы 135 см роста и невозможно обеспечить ему автокресло из-за его роста и веса.",
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
-        "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
-        "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
         "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч.",
         "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевезенный ребенок имеет минимум 125 см роста, он пристегнут только ремнями безопасности, так как масса и рост не позволяют перевозить его в детском кресле.",
         "Jakie muszą być spełnione warunki podczas przewożenia dziecka na tylnym siedzeniu samochodu osobowego?": "Какие условия должны быть соблюдены при перевозке ребенка на заднем сиденье легкового автомобиля?",
@@ -3709,7 +3710,6 @@
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
-        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
         "Która z wymienionym kategorii uprawnia do kierowania czterokołowcem innym niż lekki?": "Какая из перечисленных категорий даёт право на управление так называемым \"czterokołowcem\" иным, чем лёгкий?",
         "Wyjeżdżając z łuku": "Покидая поворот.",
