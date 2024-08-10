@@ -532,6 +532,9 @@
         "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": [
             15703
         ],
+        "Czy widoczny znak zakazu zabrania skręcania w lewo na skrzyżowaniu?": [
+            15607
+        ],
         "Czy wjeżdżając na widoczne skrzyżowanie o ruchu okrężnym masz pierwszeństwo względem uczestników ruchu znajdujących się już na tym skrzyżowaniu?": [
             15682
         ],
@@ -564,6 +567,9 @@
         ],
         "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": [
             19012
+        ],
+        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": [
+            204
         ],
         "Gdzie należy przeprowadzać okresowe badania techniczne pojazdu?": [
             189
