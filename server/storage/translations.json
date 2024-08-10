@@ -21,8 +21,7 @@
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "Zdecydowanie przyhamować": "Определенно притормозить.",
-        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Увеличивают эффективность сигнализации торможения в тумане."
+        "Zdecydowanie przyhamować": "Определенно притормозить."
     },
     "approved": {
         "upewninie się": {
@@ -3183,7 +3182,10 @@
             "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
             "Do czego służą tylne światła przeciwmgłowe samochodu osobowego?": "Для чего служат задние противотуманные фонари легкового автомобиля?",
             "Zastępują światła pozycyjne": "Заменяют габаритные огни.",
-            "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м."
+            "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м.",
+            "Światło cofania (barwy białej) oświetla drogę z tyłu pojazdu i sygnalizuje wykonywanie manewru cofania": "Свет движения задним ходом (белого цвета) освещает дорогу сзади транспортного средства и сигнализирует о выполнении маневра движения задним ходом.",
+            "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в транспортном средстве выполняют огни заднего хода?",
+            "Pogorszenie widoczności drogi w czasie deszczu": "Ухудшение видимости дороги во время дождя."
         }
     },
     "not_approved": {
@@ -3842,8 +3844,6 @@
         "W każdych warunkach skraca drogę hamowania": "В любых условиях укорачивает путь торможения.",
         "Zapobiega zerwaniu przyczepności kół napędowych podczas rozpędzania pojazdu": "Предотвращает потерю сцепления ведущих колес во время разгона транспортного средства.",
         "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?",
-        "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в автомобиле выполняют задние фонари (света движения задним ходом)?",
-        "Światło cofania (barwy białej) oświetla drogę z tyłu pojazdu i sygnalizuje wykonywanie manewru cofania": "Свет движения задним ходом (белого цвета) освещает дорогу сзади транспортного средства и сигнализирует о выполнении маневра движения задним ходом.",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью.",
         "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты.",
@@ -3978,7 +3978,6 @@
         "Zakaz obowiązuje po tej stronie drogi, po której ustawiono znak": "Запрет действует по той стороне дороги, по которой установлен знак.",
         "W pobliżu przystanku autobusowego należy zachować szczególną ostrożność": "Вблизи остановки автобуса следует соблюдать особую осторожность.",
         "Zmniejszenie zużycia płynu do spryskiwaczy": "Уменьшение расхода жидкости для омывателей.",
-        "Pogorszenie widoczności drogi w czasie deszczu": "Ухудшение видимости дороги во время дождя.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение потребления аккумулятора.",
         "Jaki może być skutek używania uszkodzonych lub zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования поврежденных или изношенных щеток стеклоочистителей в автомобиле?",
         "Zużyte pióra nieskutecznie usuwają wodę z szyb samochodu. Wpływa to na pogorszenie widoczności w czasie opadów": "Изношенные щетки стеклоочистителя неэффективно удаляют воду с окон автомобиля. Это влияет на ухудшение видимости во время осадков.",
@@ -4366,6 +4365,7 @@
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
         "Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?": "Въезжая на этот перекресток, у вас есть преимущество перед ТС слева?",
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
-        "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза."
+        "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
+        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане."
     }
 }
