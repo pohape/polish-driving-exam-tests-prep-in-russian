@@ -3450,7 +3450,10 @@
             "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
             "Wykorzystać maksymalne obroty silnika na każdym biegu": "Использовать максимальные обороты двигателя на каждой передаче.",
             "Prawidłowe dobieranie przełożeń pozytywnie wpływa na dynamikę jazdy": "Правильный выбор передач положительно влияет на динамику движения.",
-            "Patrzeć wyłącznie do przodu": "Смотреть только вперед."
+            "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
+            "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
+            "Prawidłowe obserwowanie drogi polega na patrzeniu przez przednią szybę i obserwowaniu otoczenia pojazdu w lusterkach wstecznych": "Правильное наблюдение за дорогой заключается в том, чтобы смотреть через лобовое стекло и наблюдать за обстановкой вокруг автомобиля в зеркалах заднего вида.",
+            "Zmiany pasa ruchu po wykonaniu wyprzedzania można dokonać tylko w przypadku gdy nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "Смену полосы движения после выполнения обгона можно осуществлять только в случае, если это не заставит водителя обгоняемого транспортного средства тормозить или менять траекторию движения."
         }
     },
     "not_approved": {
@@ -3526,7 +3529,6 @@
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
-        "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
@@ -3735,7 +3737,6 @@
         "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
         "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
         "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
-        "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой впереди и позади транспортного средства.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
@@ -3756,8 +3757,6 @@
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
-        "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Незамедлительно после замечания края обгоняемого транспортного средства во внешнем зеркале.",
-        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после замечания света обгоняемого транспортного средства во внешнем зеркале.",
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
         "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
@@ -4158,7 +4157,6 @@
         "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
         "Odległość ta powinna wynosić 30 - 50 m": "Это расстояние должно составлять 30 - 50 м.",
         "Zgodnie z oznakowaniem poziomym": "Согласно наземной разметке.",
-        "Prawidłowe obserwowanie drogi polega na patrzeniu przez przednią szybę i obserwowaniu otoczenia pojazdu w lusterkach wstecznych": "Правильное наблюдение за дорогой заключается в том, чтобы смотреть через лобовое стекло и наблюдать за обстановкой вокруг автомобиля в зеркалах заднего вида.",
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
         "Zamierzasz skręcić w prawo. Czy musisz sygnalizować zamiar tego manewru prawym kierunkowskazem?": "Вы намереваетесь повернуть направо. Должны ли вы сигнализировать о намерении выполнить этот маневр правым указателем поворота?",
         "Czy tak pozostawiony na postoju bez opieki pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną?": "Правильно ли оставлено незащищенное транспортное средство на стоянке без присмотра от возможности его запуска неуполномоченным лицом?",
@@ -4412,6 +4410,9 @@
         "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
         "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч.",
-        "Podczas cofania kierujący pojazdem jest obowiązany między innymi upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby": "Во время движения задним ходом водитель транспортного средства обязан, среди прочего, убедиться, что за транспортным средством нет препятствий; в случае затруднений в личном убеждении водитель обязан обеспечить себе помощь другого лица."
+        "Podczas cofania kierujący pojazdem jest obowiązany między innymi upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby": "Во время движения задним ходом водитель транспортного средства обязан, среди прочего, убедиться, что за транспортным средством нет препятствий; в случае затруднений в личном убеждении водитель обязан обеспечить себе помощь другого лица.",
+        "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой перед и за транспортным средством.",
+        "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как вы заметите край обгоняемого транспортного средства в наружном зеркале.",
+        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как свет обгоняемого автомобиля будет замечен в наружном зеркале."
     }
 }
