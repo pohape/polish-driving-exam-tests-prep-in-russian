@@ -2,7 +2,6 @@
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
-        "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
@@ -3279,7 +3278,9 @@
             "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
             "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта.",
             "Aby zwiększyć bezpieczeństwo podczas podróżowania należy sprawdzić ciśnienie w oponach bezpośrednio przed podróżą": "Чтобы увеличить безопасность во время путешествия, необходимо проверить давление в шинах непосредственно перед поездкой.",
-            "Ładunek na pojeździe umieszcza się w taki sposób, aby nie naruszał stateczności pojazdu": "Груз на транспортном средстве размещается таким образом, чтобы не нарушать устойчивость транспортного средства."
+            "Ładunek na pojeździe umieszcza się w taki sposób, aby nie naruszał stateczności pojazdu": "Груз на транспортном средстве размещается таким образом, чтобы не нарушать устойчивость транспортного средства.",
+            "Jak przewieziesz ładunek sypki w przyczepie ciągniętej przez samochód osobowy?": "Как перевезти сыпучий груз в прицепе, буксируемом легковым автомобилем?",
+            "Niezasłonięty - umieszczony poniżej wysokości burt": "Незакрытый - размещённый ниже высоты бортов."
         }
     },
     "not_approved": {
@@ -3528,7 +3529,6 @@
         "Czy podczas cofania, przy braku innych uczestników ruchu na tym odcinku drogi, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы отказаться от соблюдения особой осторожности при движении задним ходом, если на этом участке дороги нет других участников движения?",
         "nie ma wpływu na ryzyko powstania obrażeń bez względu na ich rodzaj": "не влияет на риск возникновения травм, независимо от их типа.",
         "zmniejsza ryzyko powstania obrażeń ciężkich lub śmiertelnych": "уменьшает риск возникновения тяжелых или смертельных травм.",
-        "Jak przewieziesz ładunek sypki w przyczepie ciągniętej przez samochód osobowy?": "Как перевезти сыпучий груз в прицепе, буксируемом легковым автомобилем?",
         "Ustawić lusterka, fotel kierowcy i zapiąć pasy bezpieczeństwa": "Настроить зеркала, водительское сиденье и пристегнуть ремни безопасности.",
         "Ustawić fotel kierowcy, lusterka i zapiąć pasy bezpieczeństwa": "Установить сиденье водителя, зеркала и пристегнуть ремни безопасности.",
         "Zapiąć pasy bezpieczeństwa, ustawić lusterka i fotel kierowcy": "Пристегнуть ремни безопасности, настроить зеркала и сиденье водителя.",
@@ -4382,6 +4382,7 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
+        "Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej": "Сыпучий груз может быть размещен только в герметичном грузовом ящике."
     }
 }
