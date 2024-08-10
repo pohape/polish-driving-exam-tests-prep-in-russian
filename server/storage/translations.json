@@ -3218,7 +3218,11 @@
             "Kierunkowskazy oznaczone są lampką \"A\"": "Поворотники обозначены лампочкой \"A\".",
             "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
             "Przeciwmgłowe przednie oznaczone są lampką \"B\"": "Передние противотуманные фары обозначены лампочкой \"B\".",
-            "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Который из видимых на иллюстрации контрольных индикаторов касается передних противотуманных фар?"
+            "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Который из видимых на иллюстрации контрольных индикаторов касается передних противотуманных фар?",
+            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych tylnych światłach przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных задних противотуманных фонарях?",
+            "Kontrolka od przeciwmgłowych tylnych jest barwy żółtej": "Индикатор задних противотуманных фонарей желтого цвета.",
+            "Kontrolka od świateł drogowych jest barwy niebieskiej": "Индикатор дальнего света имеет синий цвет.",
+            "Niezapięte pasy sygnalizuje kontrolka \"B\"": "Не пристёгнутые ремни сигнализирует индикатор \"B\""
         }
     },
     "not_approved": {
@@ -4100,7 +4104,6 @@
         "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
-        "Niezapięte pasy sygnalizuje kontrolka \"B\"": "Не пристёгнутые ремни сигнализирует индикатор \"B\"",
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości w obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения правонарушения, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч.",
         "W jakich przypadkach organ upoważniony do kontroli drogowej może zatrzymać kierującemu pojazdem prawo jazdy?": "В каких случаях орган, уполномоченный на проведение дорожного контроля, может временно изъять у водителя транспортного средства водительское удостоверение?",
         "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения проступка, заключающегося в двукратном превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч.",
@@ -4372,7 +4375,6 @@
         "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych tylnych światłach przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных задних противотуманных фонарях?"
+        "O zmiennym tonie": "О переменном тоне."
     }
 }
