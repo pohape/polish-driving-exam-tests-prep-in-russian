@@ -20,8 +20,7 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
-        "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Перевод фрагмента: \"Поворачивая налево на этом перекрестке, у вас есть преимущество перед приближающимся встречным ТС?\""
+        "Włączenie świateł drogowych": "Включение фар ближнего света."
     },
     "approved": {
         "upewninie się": {
@@ -4362,6 +4361,7 @@
         "Czy podczas wyprzedzania hulajnogi elektrycznej masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Во время обгона электрического самоката вы обязаны соблюдать дистанцию не менее одного метра?",
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В этой ситуации подлежит ли удалению с дороги за счет его владельца видимый с правой стороны проезжей части припаркованный транспорт, не обозначенный парковочной картой?",
         "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, в соответствии с действующими правилами, с дороги проезд транспортного средства с приоритетом?",
-        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Правильно ли ты выбрал полосу движения при повороте налево?"
+        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Правильно ли ты выбрал полосу движения при повороте налево?",
+        "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?"
     }
 }
