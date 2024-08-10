@@ -3423,7 +3423,8 @@
             "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
             "ITD w tym zakresie ma takie same uprawnienia co policja": "ИТД (Инспекция Дорожного Транспорта) в этой области имеет такие же полномочия, как и полиция.",
             "W jakich przypadkach organ upoważniony do kontroli drogowej może zatrzymać kierującemu pojazdem prawo jazdy?": "В каких случаях орган, уполномоченный на проведение дорожного контроля, может временно изъять у водителя транспортного средства водительское удостоверение?",
-            "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości w obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения правонарушения, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч."
+            "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości w obszarze zabudowanym o więcej niż 30 km\/h": "В случае обнаружения правонарушения, заключающегося в превышении разрешенной скорости в населенном пункте более чем на 30 км\/ч.",
+            "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости в населенном пункте более чем на 50 км\/ч дает право на управление транспортным средством?"
         }
     },
     "not_approved": {
@@ -3854,7 +3855,6 @@
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
         "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
-        "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
