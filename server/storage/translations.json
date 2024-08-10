@@ -3277,7 +3277,8 @@
             "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?",
             "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
             "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
-            "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта."
+            "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта.",
+            "Aby zwiększyć bezpieczeństwo podczas podróżowania należy sprawdzić ciśnienie w oponach bezpośrednio przed podróżą": "Чтобы увеличить безопасность во время путешествия, необходимо проверить давление в шинах непосредственно перед поездкой."
         }
     },
     "not_approved": {
@@ -4167,7 +4168,6 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
         "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
         "Kierującemu pojazdem zabrania się: wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю транспортного средства запрещается: обгонять транспортное средство на пешеходном переходе и непосредственно перед ним.",
-        "Aby zwiększyć bezpieczeństwo podczas podróżowania należy sprawdzić ciśnienie w oponach bezpośrednio przed podróżą": "Чтобы увеличить безопасность во время путешествия, необходимо проверить давление в шинах непосредственно перед поездкой.",
         "ITD w tym zakresie ma takie same uprawnienia co policja": "ИТД (Инспекция Дорожного Транспорта) в этой области имеет такие же полномочия, как и полиция.",
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
         "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
