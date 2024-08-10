@@ -3280,7 +3280,12 @@
             "Aby zwiększyć bezpieczeństwo podczas podróżowania należy sprawdzić ciśnienie w oponach bezpośrednio przed podróżą": "Чтобы увеличить безопасность во время путешествия, необходимо проверить давление в шинах непосредственно перед поездкой.",
             "Ładunek na pojeździe umieszcza się w taki sposób, aby nie naruszał stateczności pojazdu": "Груз на транспортном средстве размещается таким образом, чтобы не нарушать устойчивость транспортного средства.",
             "Jak przewieziesz ładunek sypki w przyczepie ciągniętej przez samochód osobowy?": "Как перевезти сыпучий груз в прицепе, буксируемом легковым автомобилем?",
-            "Niezasłonięty - umieszczony poniżej wysokości burt": "Незакрытый - размещённый ниже высоты бортов."
+            "Niezasłonięty - umieszczony poniżej wysokości burt": "Незакрытый - размещённый ниже высоты бортов.",
+            "Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej": "Сыпучий груз может быть размещен только в герметичном грузовом ящике.",
+            "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
+            "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
+            "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
+            "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения."
         }
     },
     "not_approved": {
@@ -3386,9 +3391,6 @@
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-        "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
-        "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
-        "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
         "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
         "Korzystać z radia CB": "Использовать радио CB.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
@@ -3969,7 +3971,6 @@
         "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, oraz pojazdowi wjeżdżającemu na ten pas z prawej strony": "Водитель ТС, изменяющий занимаемую полосу движения, обязан уступить дорогу ТС, движущемуся по полосе движения, на которую он намеревается въехать, а также ТС, въезжающему на эту полосу справа.",
         "Zabrania się wyprzedzania na przejściu dla pieszych oraz bezpośrednio przed nim": "Запрещается обгон на пешеходном переходе, а также непосредственно перед ним.",
         "Pokwitowanie uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство дает право управлять транспортным средством в течение 24 часов с момента временного изъятия.",
-        "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения.",
         "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается останавливаться на поверхности, исключенной из движения.",
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
@@ -4382,7 +4383,6 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
-        "Ładunek sypki może być umieszczony tylko w szczelnej skrzyni ładunkowej": "Сыпучий груз может быть размещен только в герметичном грузовом ящике."
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
     }
 }
