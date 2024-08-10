@@ -3231,7 +3231,10 @@
             "W przypadku przepalenia się jednej z żarówek kierunkowskazu wzrasta częstotliwość jego migania": "В случае перегорания одной из лампочек указателя поворота увеличивается частота его мигания.",
             "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
             "Bez sprawnego rozrusznika nie uruchomimy silnika": "Без исправного стартера мы не запустим двигатель.",
-            "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин приведет к тому, что двигатель с автоматическим зажиганием не достигнет пусковых оборотов?"
+            "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин приведет к тому, что двигатель с автоматическим зажиганием не достигнет пусковых оборотов?",
+            "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
+            "Nieprawidłowa zbieżność kół przednich": "Неправильное схождение передних колес.",
+            "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля."
         }
     },
     "not_approved": {
@@ -3244,7 +3247,6 @@
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
-        "Jednakowe ciśnienie powietrza w kołach pojazdu": "Одинаковое давление воздуха в колесах автомобиля.",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Как установить автокресло для перевозки ребенка в автомобиле?",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
@@ -3610,9 +3612,7 @@
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
         "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
-        "Nieprawidłowa zbieżność kół przednich": "Неправильное схождение передних колес.",
         "Usterka modułu elektronicznego hamulca ręcznego": "Неисправность электронного модуля стояночного тормоза.",
-        "Który z wymienionych czynników, może być przyczyną ściągania samochodu w lewą stronę?": "Какой из перечисленных факторов может быть причиной сноса автомобиля влево?",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
