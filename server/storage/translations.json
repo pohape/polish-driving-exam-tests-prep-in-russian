@@ -3286,7 +3286,8 @@
             "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
             "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
             "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения.",
-            "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление."
+            "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
+            "Ładunek na pojeździe umieszcza się w taki sposób, aby nie zasłaniał świateł, w które pojazd jest wyposażony": "Груз на транспортном средстве располагают таким образом, чтобы он не закрывал световые приборы, которыми оснащено транспортное средство."
         }
     },
     "not_approved": {
@@ -4009,7 +4010,6 @@
         "Zasada ograniczonego zaufania": "Принцип ограниченного доверия.",
         "Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony": "Водитель ТС, используя дальний свет фар, обязан переключить его на ближний свет в случае приближения к впереди идущему ТС, если водитель может быть ослеплён.",
         "Prawidłowe dobieranie przełożeń pozytywnie wpływa na dynamikę jazdy": "Правильный выбор передач положительно влияет на динамику движения.",
-        "Ładunek na pojeździe umieszcza się w taki sposób, aby nie zasłaniał świateł, w które pojazd jest wyposażony": "Груз на транспортном средстве располагают таким образом, чтобы он не закрывал световые приборы, которыми оснащено транспортное средство.",
         "Czy w tej sytuacji masz pierwszeństwo przed pieszym?": "В этой ситуации у вас есть преимущество перед пешеходом?",
         "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
