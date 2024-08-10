@@ -25,7 +25,8 @@
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия."
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
+        "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать."
     },
     "approved": {
         "upewninie się": {
@@ -3262,7 +3263,8 @@
             "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
             "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
             "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
-            "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств."
+            "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
+            "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом."
         }
     },
     "not_approved": {
@@ -3501,7 +3503,6 @@
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
-        "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
@@ -3664,8 +3665,6 @@
         "Czy w tej sytuacji masz obowiązek zabezpieczyć miejsce zdarzenia?": "В этой ситуации у тебя есть обязанность обезопасить место происшествия?",
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
         "Czy w warunkach zmniejszonej przejrzystości powietrza wolno Ci jechać z włączonymi światłami do jazdy dziennej?": "При условиях уменьшенной прозрачности воздуха разрешается ли тебе ехать с включенными дневными ходовыми огнями?",
-        "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
-        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли тебе управлять транспортным средством, номерной знак которого невидим?",
         "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
         "Czy w tej sytuacji wolno Ci ominąć widoczny samochód z prawej strony?": "В этой ситуации разрешается ли тебе обогнать видимый автомобиль с правой стороны?",
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
@@ -4378,6 +4377,8 @@
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне."
+        "O zmiennym tonie": "О переменном тоне.",
+        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми."
     }
 }
