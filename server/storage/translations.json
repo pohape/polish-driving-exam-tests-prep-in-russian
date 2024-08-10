@@ -13,7 +13,6 @@
         "Czy z drogi przejazdu pojazdu uprzywilejowanego utworzonej w sposób przedstawiony na zdjęciu może skorzystać kierujący pojazdem pomocy drogowej biorący udział w akcji ratowniczej ?": "Может ли водитель автомобиля технической помощи, участвующий в спасательной операции, воспользоваться дорогой для проезда транспортного средства с преимущественным правом проезда, образованной так, как показано на фотографии?",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
-        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
@@ -3229,7 +3228,8 @@
             "Słaby akumulator": "Слабый аккумулятор.",
             "Zwarcie w przewodach wysokiego napięcia": "Короткое замыкание в проводах высокого напряжения.",
             "Przepaloną żarówkę kierunkowskazu": "Перегоревшая лампочка указателя поворота.",
-            "W przypadku przepalenia się jednej z żarówek kierunkowskazu wzrasta częstotliwość jego migania": "В случае перегорания одной из лампочек указателя поворота увеличивается частота его мигания."
+            "W przypadku przepalenia się jednej z żarówek kierunkowskazu wzrasta częstotliwość jego migania": "В случае перегорания одной из лампочек указателя поворота увеличивается частота его мигания.",
+            "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза."
         }
     },
     "not_approved": {
@@ -4374,9 +4374,9 @@
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
         "Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?": "Въезжая на этот перекресток, у вас есть преимущество перед ТС слева?",
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
-        "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне."
+        "O zmiennym tonie": "О переменном тоне.",
+        "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин приведет к тому, что двигатель с автоматическим воспламенением не достигнет пусковых оборотов?"
     }
 }
