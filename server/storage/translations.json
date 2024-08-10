@@ -17,7 +17,6 @@
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani ułatwić przejazd pojazdu uprzywilejowanego, w szczególności przez niezwłoczne usunięcie się z jego drogi, a w razie potrzeby zatrzymanie się": "Участник движения и другое лицо, находящееся на дороге, обязаны облегчить проезд привилегированного транспортного средства, в частности, путем немедленного удаления с его пути, а в случае необходимости остановки.",
         "Czy po zaparkowaniu pojazdu wolno Ci oddalić się od niego, gdy ma włączony silnik?": "Можно ли вам отойти от транспортного средства, если у него включен двигатель после парковки?",
         "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": "Какая из перечисленных причин вызовет невозможность достижения работающим двигателем, с самовоспламенением, оборотов пуска?",
-        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Поворачивая налево, выбрали ли вы правильную полосу движения?",
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
@@ -4362,6 +4361,7 @@
         "Czy w tej sytuacji musisz umożliwić włączenie się do ruchu pojazdowi ciężarowemu?": "В этой ситуации вы должны позволить грузовому автомобилю включиться в движение?",
         "Czy podczas wyprzedzania hulajnogi elektrycznej masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Во время обгона электрического самоката вы обязаны соблюдать дистанцию не менее одного метра?",
         "Czy w tej sytuacji widoczny po prawej stronie jezdni zaparkowany pojazd, nieoznakowany kartą parkingową, podlega usunięciu z drogi na koszt jego właściciela?": "В этой ситуации подлежит ли удалению с дороги за счет его владельца видимый с правой стороны проезжей части припаркованный транспорт, не обозначенный парковочной картой?",
-        "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, в соответствии с действующими правилами, с дороги проезд транспортного средства с приоритетом?"
+        "Czy kierujący pojazdami w sposób zgodny z obowiązującymi przepisami usunęli się z drogi przejazdu pojazdu uprzywilejowanego ?": "Убрали ли водители транспортных средств, в соответствии с действующими правилами, с дороги проезд транспортного средства с приоритетом?",
+        "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Правильно ли ты выбрал полосу движения при повороте налево?"
     }
 }
