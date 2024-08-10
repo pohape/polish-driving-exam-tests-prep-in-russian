@@ -3178,7 +3178,8 @@
             "Czy skręcając w lewo na tym skrzyżowaniu, masz pierwszeństwo przed pojazdem jadącym z przeciwka?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
             "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
             "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
-            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?"
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?",
+            "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути."
         }
     },
     "not_approved": {
@@ -3888,7 +3889,6 @@
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
         "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
-        "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
         "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
