@@ -3161,7 +3161,8 @@
             "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление.",
             "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
             "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
-            "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?"
+            "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?",
+            "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w prawo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka i skręcającym w lewo?": "В данной ситуации на ближайшем перекрестке вы намерены повернуть направо. Должны ли вы уступить дорогу велосипедистам, едущим навстречу и поворачивающим налево?"
         }
     },
     "not_approved": {
@@ -3914,7 +3915,6 @@
         "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения.",
         "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается останавливаться на поверхности, исключенной из движения.",
-        "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w prawo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka i skręcającym w lewo?": "В данной ситуации на ближайшем перекрестке вы намерены повернуть направо. Должны ли вы уступить дорогу велосипедистам, едущим навстречу и поворачивающим налево?",
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
         "Byłoby to nieuzasadnione użycie sygnału dźwiękowego": "Это было бы необоснованным использованием звукового сигнала.",
         "Oznakowanie poziome na jezdni uniemożliwia zmianę pasa": "Наземная (горизонтальная) разметка на проезжей части не позволяет сменить полосу.",
