@@ -27,7 +27,8 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми.",
-        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения."
+        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский временно изымет водительское удостоверение с выдачей свидетельства в случае выявления деяния, состоящего на: Полицейский временно изымет"
     },
     "approved": {
         "dowód rejestracyjny": {
@@ -3328,7 +3329,12 @@
             "Czy podczas holowania motocykla powinny być sprawne w nim dwa układy hamulcowe?": "Должны ли во время буксировки мотоцикла работать в нем обе тормозные системы?",
             "Nie, wystarczy jeden": "Нет, одного достаточно.",
             "Tak, ale tylko przy prędkości powyżej 20 km\/h": "Да, но только при скорости выше 20 км\/ч.",
-            "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:": "Детские автокресла и другие удерживающие устройства для детей следует устанавливать в транспортном средстве:"
+            "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:": "Детские автокресла и другие удерживающие устройства для детей следует устанавливать в транспортном средстве:",
+            "w sposób bezpieczny i estetyczny": "безопасным и эстетическим образом.",
+            "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane": "Детские автокресла и другие удерживающие устройства для детей устанавливаются в транспортном средстве согласно рекомендациям производителя устройства, указывающим, каким образом устройство может быть безопасно использовано.",
+            "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
+            "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
+            "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта."
         }
     },
     "not_approved": {
@@ -3523,9 +3529,6 @@
         "Czy w tej sytuacji należy zatrzymać się przed widoczną linią bezwzględnego zatrzymania - stop?": "В данной ситуации нужно остановиться перед видимой линией абсолютной остановки - стоп?",
         "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
         "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
-        "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
-        "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h na obszarze zabudowanym": "управлению транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч в населенном пункте.",
-        "kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o 50 km\/h poza obszarem zabudowanym": "управлении транспортным средством со скоростью, превышающей разрешенную на 50 км\/ч вне населенного пункта.",
         "Kierujący pojazdem jest obowiązany zbliżyć się na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан подъехать на дороге с односторонним движением к ее левой кромке – если он намеревается повернуть налево.",
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности владельца транспортного средства, требуется во время проверки от управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
@@ -3619,7 +3622,6 @@
         "Dozwolone, jeżeli dziecko ma co najmniej 135 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешается, если ребенок имеет хотя бы 135 см роста и невозможно обеспечить ему автокресло из-за его роста и веса.",
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
-        "w sposób bezpieczny i estetyczny": "безопасным и эстетическим образом.",
         "Na kolanach pasażera": "На коленях у пассажира.",
         "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm na przednim siedzeniu samochodu osobowego, który ma pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом меньше 150 см на переднем сиденье легкового автомобиля, имеющего пять посадочных мест?",
         "W foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dziecko": "В детском автокресле или в другом устройстве, удерживающем ребенка.",
@@ -3978,7 +3980,6 @@
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
         "Zmień kategorię prawa jazdy &nbsp;&nbsp;A &nbsp;&nbsp;B &nbsp;&nbsp;C &nbsp;&nbsp;D &nbsp;&nbsp;T": "Измените категорию водительских прав A B C D T",
         "Rzeźba terenu jest czynnikiem, który należy brać pod uwagę dobierając prędkość jazdy na drodze": "Рельеф местности является фактором, который следует учитывать при выборе скорости движения на дороге.",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский временно изымет водительское удостоверение с выдачей свидетельства в случае выявления деяния, состоящего на: Полицейский временно изымет",
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?",
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "На какой срок староста продлит период временного изъятия водительского удостоверения, если тебя остановили для проверки, когда ты управлял транспортным средством, несмотря на то, что ранее изъяли у тебя право управления на три месяца за превышение скорости более чем на 50 км\/ч в населённом пункте?",
         "Czy masz obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu?": "Обязаны ли вы соблюдать безопасную дистанцию от обгоняемого транспортного средства?",
@@ -4047,7 +4048,6 @@
         "Wyprzedzanie kilku pojazdów nie jest zabronione,": "Обгон нескольких транспортных средств не запрещён.",
         "Znajdujemy się z prawej strony nadjeżdżającego pojazdu": "Мы находимся с правой стороны приближающегося транспортного средства.",
         "Obowiązek przewożenia dziecka w foteliku nie obowiązuje gdy dziecko posiada zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "Обязанность перевозить ребенка в автокресле не действует, когда ребенок имеет медицинское свидетельство о противопоказании к перевозке в детском автокресле безопасности или другом удерживающем устройстве для детей.",
-        "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane": "Детские автокресла и другие удерживающие устройства для детей устанавливаются в транспортном средстве согласно рекомендациям производителя устройства, указывающим, каким образом устройство может быть безопасно использовано.",
         "Czy podczas przewożenia osoby niepełnosprawnej legitymującej się kartą parkingową, karta ta powinna znajdować się za dowolną szybą pojazdu samochodowego?": "Должна ли при транспортировке инвалида, имеющего парковочную карту, эта карта находиться за любым стеклом автомобиля?",
         "Czy na każdym skrzyżowaniu wyprzedzanie rowerzysty jest zawsze zabronione?": "Запрещен ли обгон велосипедиста на каждом перекрестке?",
         "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi lewym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися левой полосой?",
