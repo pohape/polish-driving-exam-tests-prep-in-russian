@@ -3445,7 +3445,12 @@
             "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
             "Jedziesz z prędkością 90 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы едете со скоростью 90 км\/ч. Какое начальное положение обеспечит вам оптимальный путь при прохождении поворота?",
             "Na środku jezdni, z częściowym przekroczeniem widocznej linii": "На середине проезжей части, с частичным пересечением видимой линии.",
-            "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?": "Как ты должен поступить, чтобы разогнать автомобиль на плоском участке дороги?"
+            "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?": "Как ты должен поступить, чтобы разогнать автомобиль на плоском участке дороги?",
+            "W każdym przypadku zwiększyć biegi o dwa": "В любом случае увеличьте передачи на два.",
+            "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
+            "Wykorzystać maksymalne obroty silnika na każdym biegu": "Использовать максимальные обороты двигателя на каждой передаче.",
+            "Prawidłowe dobieranie przełożeń pozytywnie wpływa na dynamikę jazdy": "Правильный выбор передач положительно влияет на динамику движения.",
+            "Patrzeć wyłącznie do przodu": "Смотреть только вперед."
         }
     },
     "not_approved": {
@@ -3460,7 +3465,6 @@
         "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
-        "Przyspieszyć do takiej prędkości na niższym biegu, by po włączeniu następnego biegu pojazd nie szarpał i nie dusił się": "Разогнаться до такой скорости на пониженной передаче, чтобы при включении следующей передачи автомобиль не дергался и не задыхался.",
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
@@ -3468,7 +3472,6 @@
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
         "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
         "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
-        "W każdym przypadku zwiększyć biegi o dwa": "В любом случае увеличьте передачи на два.",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
@@ -3524,7 +3527,6 @@
         "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
         "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
-        "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
@@ -3949,7 +3951,6 @@
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
         "Czy w tej sytuacji, po wjechaniu za sygnalizator, masz obowiązek zatrzymać się w miejscu wskazanym znakiem \"stop\"?": "В этой ситуации, после въезда за светофор, обязан ли ты остановиться в месте, указанном знаком \"стоп\"?",
-        "Wykorzystać maksymalne obroty silnika na każdym biegu": "Использовать максимальные обороты двигателя на каждой передаче.",
         "Wyświetlane sygnały zapewniają bezkolizyjny przejazd prosto i skręt w prawo": "Отображаемые сигналы обеспечивают бесконфликтное движение прямо и поворот направо.",
         "Czy zmieniając pas ruchu z lewego na środkowy, miałeś pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "При смене полосы движения с левой на среднюю, у вас было преимущество перед ТС, въезжающим на эту полосу справа?",
         "Czy w tej sytuacji musisz powstrzymać się od wyprzedzania?": "В этой ситуации ты должен воздержаться от обгона?",
@@ -4054,7 +4055,6 @@
         "W tej sytuacji zachodzi konieczność ostrzeżenia o niebezpieczeństwie": "В этой ситуации возникает необходимость предупреждения о опасности.",
         "Zasada ograniczonego zaufania": "Принцип ограниченного доверия.",
         "Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony": "Водитель ТС, используя дальний свет фар, обязан переключить его на ближний свет в случае приближения к впереди идущему ТС, если водитель может быть ослеплён.",
-        "Prawidłowe dobieranie przełożeń pozytywnie wpływa na dynamikę jazdy": "Правильный выбор передач положительно влияет на динамику движения.",
         "Czy w tej sytuacji masz pierwszeństwo przed pieszym?": "В этой ситуации у вас есть преимущество перед пешеходом?",
         "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
@@ -4411,6 +4411,7 @@
         "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка.",
         "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
-        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч."
+        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч.",
+        "Podczas cofania kierujący pojazdem jest obowiązany między innymi upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby": "Во время движения задним ходом водитель транспортного средства обязан, среди прочего, убедиться, что за транспортным средством нет препятствий; в случае затруднений в личном убеждении водитель обязан обеспечить себе помощь другого лица."
     }
 }
