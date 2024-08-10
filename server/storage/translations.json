@@ -3453,7 +3453,10 @@
             "Patrzeć wyłącznie do przodu": "Смотреть только вперед.",
             "Patrzeć do przodu i regularnie kontrolować drogę za pojazdem w lusterkach wstecznych": "Смотрите вперед и регулярно контролируйте дорогу позади автомобиля в зеркалах заднего вида.",
             "Prawidłowe obserwowanie drogi polega na patrzeniu przez przednią szybę i obserwowaniu otoczenia pojazdu w lusterkach wstecznych": "Правильное наблюдение за дорогой заключается в том, чтобы смотреть через лобовое стекло и наблюдать за обстановкой вокруг автомобиля в зеркалах заднего вида.",
-            "Zmiany pasa ruchu po wykonaniu wyprzedzania można dokonać tylko w przypadku gdy nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "Смену полосы движения после выполнения обгона можно осуществлять только в случае, если это не заставит водителя обгоняемого транспортного средства тормозить или менять траекторию движения."
+            "Zmiany pasa ruchu po wykonaniu wyprzedzania można dokonać tylko w przypadku gdy nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "Смену полосы движения после выполнения обгона можно осуществлять только в случае, если это не заставит водителя обгоняемого транспортного средства тормозить или менять траекторию движения.",
+            "Gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Когда скорость движения автомобиля упадет до минимальной для текущей передачи.",
+            "Równocześnie z pedałem hamulca": "Одновременно с педалью тормоза.",
+            "Przed naciśnięciem pedału hamulca": "Перед нажатием на педаль тормоза."
         }
     },
     "not_approved": {
@@ -4184,10 +4187,6 @@
         "Акт технологического транспорта, работы транспортного средства на газе": "Акт технического осмотра транспортного средства, работающего на газе.",
         "Wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe": "Показания светофоров важнее, чем дорожные знаки.",
         "Czy w tej sytuacji zbliżasz się do przejazdu dla rowerzystów i przejścia dla pieszych?": "В этой ситуации вы приближаетесь к переезду для велосипедистов и пешеходному переходу?",
-        "Przed naciśnięciem pedału hamulca": "Перед нажатием на педаль тормоза.",
-        "Równocześnie z pedałem hamulca": "Одновременно с педалью тормоза.",
-        "Gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Когда скорость движения автомобиля упадет до минимальной для текущей передачи.",
-        "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете на педаль сцепления, когда, едучи с большой скоростью автомобилем, планируете выполнить маневр торможения?",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu pojazdowi nadjeżdżającemu z prawej strony?": "В описанной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator, jeżeli nie utrudnisz ruchu pieszym?": "Имеешь ли ты право въехать за светофор в этой ситуации, если не будешь мешать движению пешеходов?",
         "Czy w tej sytuacji masz prawo jechać dalej dopiero po tym, gdy tramwaj ruszy?": "В этой ситуации у тебя есть право продолжить движение только после того, как трамвай тронется?",
@@ -4413,6 +4412,8 @@
         "Podczas cofania kierujący pojazdem jest obowiązany między innymi upewnić się, czy za pojazdem nie znajduje się przeszkoda; w razie trudności w osobistym upewnieniu się kierujący jest obowiązany zapewnić sobie pomoc innej osoby": "Во время движения задним ходом водитель транспортного средства обязан, среди прочего, убедиться, что за транспортным средством нет препятствий; в случае затруднений в личном убеждении водитель обязан обеспечить себе помощь другого лица.",
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой перед и за транспортным средством.",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как вы заметите край обгоняемого транспортного средства в наружном зеркале.",
-        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как свет обгоняемого автомобиля будет замечен в наружном зеркале."
+        "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как свет обгоняемого автомобиля будет замечен в наружном зеркале.",
+        "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете педаль сцепления, если, двигаясь на большой скорости автомобилем, планируете выполнить маневр торможения?",
+        "Użycie sprzęgła podczas hamowania naraża na utratę kontroli nad samochodem, dlatego pedał sprzęgła należy wcisnąć gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Использование сцепления при торможении подвергает риску потерю контроля над автомобилем, поэтому педаль сцепления следует нажимать, когда скорость движения автомобиля упадет до минимума для текущей передачи."
     }
 }
