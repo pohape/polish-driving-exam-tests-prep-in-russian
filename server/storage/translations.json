@@ -3272,7 +3272,8 @@
             "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
             "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
             "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
-            "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч."
+            "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
+            "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?"
         }
     },
     "not_approved": {
@@ -4172,7 +4173,6 @@
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Tak w każdym przypadku": "В каждом случае.",
         "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
-        "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?",
         "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
