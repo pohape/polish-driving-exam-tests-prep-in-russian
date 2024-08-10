@@ -3206,7 +3206,9 @@
             "drogowych": "дальнего света.",
             "pozycyjnych": "габаритов.",
             "Widoczna niebieska lampka kontrolna informuje Cię o włączeniu świateł:": "Видимая синяя контрольная лампа информирует тебя о включении фар:",
-            "Kontrolka barwy niebieskiej informuje o działaniu świateł drogowych": "Индикатор синего цвета информирует о работе дальнего света фар."
+            "Kontrolka barwy niebieskiej informuje o działaniu świateł drogowych": "Индикатор синего цвета информирует о работе дальнего света фар.",
+            "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
+            "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?"
         }
     },
     "not_approved": {
@@ -3304,7 +3306,6 @@
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
-        "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
         "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
@@ -3426,7 +3427,6 @@
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
-        "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
         "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
