@@ -3398,7 +3398,12 @@
             "W jakim przypadku przewożenie dziecka samochodem ciężarowym o dopuszczalnej masie całkowitej powyżej 3,5 t na tylnym siedzeniu, przytrzymywanego jedynie pasami bezpieczeństwa, jest dozwolone?": "В каком случае перевозка ребенка в грузовом автомобиле с допустимой общей массой более 3,5 т на заднем сиденье, удерживаемого только ремнями безопасности, разрешена?",
             "Nie wolno": "Не разрешается.",
             "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
-            "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см."
+            "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
+            "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
+            "Tak, wolno": "Да, разрешается.",
+            "Nie - dziecko do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko taksówką": "Нет - ребенка до трех лет разрешается перевозить без пристегивания ремнями безопасности только в такси.",
+            "Dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Детей до трех лет разрешается перевозить непристегнутыми ремнями безопасности только в автобусах.",
+            "Czy wolno samochodem ciężarowym wyposażonym w pasy bezpieczeństwa przewozić dziecko do lat trzech niezabezpieczone pasami bezpieczeństwa i fotelikiem bezpieczeństwa?": "Разрешается ли перевозить ребенка до трех лет в грузовом автомобиле, оборудованном ремнями безопасности, без использования ремней безопасности и детского кресла?"
         }
     },
     "not_approved": {
@@ -3462,7 +3467,6 @@
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
         "B.Поддержание постоянной, низкой скорости движения": "Б. Поддержание, низкая скорость.",
         "Czy widoczny w przedstawionej sytuacji znak \"Stop\" wyznacza dokładne miejsce wymaganego zatrzymania pojazdu przed wjazdem na skrzyżowanie?": "Обозначает ли знак \"Стоп\", видимый в представленной ситуации, точное место требуемой остановки транспортного средства перед въездом на перекресток?",
-        "Nie - dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Нет-детей до трех лет разрешается перевозить без ремня безопасности только на автобусах.",
         "Czy w tej sytuacji możesz spodziewać się wtargnięcia pieszego na jezdnię?": "Можете ли вы ожидать, что в этой ситуации вы столкнетесь с пешеходным вторжением на проезжую часть?",
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
@@ -3548,9 +3552,6 @@
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd bezpośrednio przed przejściem dla pieszych?": "В данной ситуации имеете ли вы право припарковать транспортное средство непосредственно перед пешеходным переходом?",
-        "Tak, wolno": "Да, разрешается.",
-        "Czy wolno samochodem ciężarowym wyposażonym w pasy bezpieczeństwa przewozić dziecko do lat trzech niezabezpieczone pasami bezpieczeństwa i fotelikiem bezpieczeństwa?": "Водителю грузового автомобиля, оснащенного ремнями безопасности, не разрешается перевозить ребенка до трех лет без использования ремней безопасности и детского автокресла.",
-        "Nie - dziecko do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko taksówką": "Нет - ребенка до трех лет разрешается перевозить без пристегивания ремнями безопасности только в такси.",
         "Czy włączając się do ruchu musisz zachować szczególną ostrożność?": "Должны ли вы соблюдать особую осторожность, включаясь в движение?",
         "Czy w widocznej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В данной видимой ситуации, у вас есть право начать маневр обгона?",
         "Czy w tej sytuacji możesz opuścić skrzyżowanie?": "В данной ситуации можно ли выехать с перекрестка?",
@@ -4119,7 +4120,6 @@
         "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений.",
         "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения.",
         "Oznakowanie pionowe i poziome nie zobowiązują do zatrzymania": "Вертикальные и горизонтальные дорожные знаки не обязывают остановиться.",
-        "Dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Детей до трех лет разрешается перевозить непристегнутыми ремнями безопасности только в автобусах.",
         "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?": "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?",
         "Какой из индикаторов на рисунке указывает на то, что обогрев заднего стекла включен?": "Какой из индикаторов на рисунке указывает на то, что включен подогрев заднего стекла?",
         "Одним из общих правил является обязанность двигаться как можно ближе к правому краю": "Одним из общих правил является обязанность двигаться как можно ближе к правому краю.",
