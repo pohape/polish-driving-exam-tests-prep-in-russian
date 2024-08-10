@@ -3326,7 +3326,9 @@
             "W jaki sposób powinieneś przewozić ładunek w przyczepie ciągniętej przez samochód osobowy?": "Каким образом вы должны перевозить груз в прицепе, буксируемом легковым автомобилем?",
             "Odpowiedzi inne niż nr 3 są bez sensu": "Ответы, отличные от номера 3, бессмысленны.",
             "Czy podczas holowania motocykla powinny być sprawne w nim dwa układy hamulcowe?": "Должны ли во время буксировки мотоцикла работать в нем обе тормозные системы?",
-            "Nie, wystarczy jeden": "Нет, одного достаточно."
+            "Nie, wystarczy jeden": "Нет, одного достаточно.",
+            "Tak, ale tylko przy prędkości powyżej 20 km\/h": "Да, но только при скорости выше 20 км\/ч.",
+            "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:": "Детские автокресла и другие удерживающие устройства для детей следует устанавливать в транспортном средстве:"
         }
     },
     "not_approved": {
@@ -3618,7 +3620,6 @@
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
         "w sposób bezpieczny i estetyczny": "безопасным и эстетическим образом.",
-        "Foteliki bezpieczeństwa dla dzieci oraz inne urządzenia przytrzymujące dla dzieci należy instalować w pojeździe:": "Детские автокресла и другие удерживающие устройства для детей следует устанавливать в транспортном средстве:",
         "Na kolanach pasażera": "На коленях у пассажира.",
         "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm na przednim siedzeniu samochodu osobowego, który ma pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом меньше 150 см на переднем сиденье легкового автомобиля, имеющего пять посадочных мест?",
         "W foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dziecko": "В детском автокресле или в другом устройстве, удерживающем ребенка.",
@@ -4174,7 +4175,6 @@
         "Równocześnie z pedałem hamulca": "Одновременно с педалью тормоза.",
         "Gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Когда скорость движения автомобиля упадет до минимальной для текущей передачи.",
         "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете на педаль сцепления, когда, едучи с большой скоростью автомобилем, планируете выполнить маневр торможения?",
-        "Tak, ale tylko przy prędkości powyżej 20 km\/h": "Да, но только при скорости выше 20 км\/ч.",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu pojazdowi nadjeżdżającemu z prawej strony?": "В описанной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator, jeżeli nie utrudnisz ruchu pieszym?": "Имеешь ли ты право въехать за светофор в этой ситуации, если не будешь мешать движению пешеходов?",
         "Czy w tej sytuacji masz prawo jechać dalej dopiero po tym, gdy tramwaj ruszy?": "В этой ситуации у тебя есть право продолжить движение только после того, как трамвай тронется?",
