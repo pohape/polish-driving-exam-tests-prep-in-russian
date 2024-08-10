@@ -3208,7 +3208,8 @@
             "Widoczna niebieska lampka kontrolna informuje Cię o włączeniu świateł:": "Видимая синяя контрольная лампа информирует тебя о включении фар:",
             "Kontrolka barwy niebieskiej informuje o działaniu świateł drogowych": "Индикатор синего цвета информирует о работе дальнего света фар.",
             "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
-            "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?"
+            "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
+            "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса."
         }
     },
     "not_approved": {
@@ -3973,7 +3974,6 @@
         "Linia ciągła oddzielająca lewy pas uniemożliwia wykonanie wyprzedzania": "Сплошная линия, отделяющая левую полосу, запрещает выполнение обгона.",
         "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
         "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
-        "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса.",
         "Zezwala się na przewożenie na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci": "Разрешается перевозить на заднем сиденье автомобиля ребенка, имеющего не менее 135 см роста, с использованием ремней безопасности в случаях, когда из-за массы и роста ребенка невозможно обеспечить детское автокресло или другое удерживающее устройство для детей.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na poboczu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на обочине?",
         "Czy w tej sytuacji wolno Ci użyć ostrzegawczego sygnału dźwiękowego?": "В данной ситуации разрешено ли вам использовать звуковой предупреждающий сигнал?",
