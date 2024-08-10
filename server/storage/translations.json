@@ -28,7 +28,7 @@
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
         "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми.",
         "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
-        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом вы установите в транспортном средстве удерживающее ребенка устройство, которое служит для его перевозки?"
+        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается устройство для поддержания ребенка, предназначенное для его перевозки?"
     },
     "approved": {
         "starosta": {
@@ -3358,7 +3358,8 @@
             "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности.",
             "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
             "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
-            "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Каким образом вы установите в транспортном средстве детское автокресло?"
+            "W jaki sposób zainstalujesz w pojeździe fotelik bezpieczeństwa służący do przewozu dziecka?": "Каким образом вы установите в транспортном средстве детское автокресло?",
+            "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством."
         }
     },
     "not_approved": {
@@ -3543,7 +3544,6 @@
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
         "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
-        "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
         "Linia pojedyncza ciągła oznacza zakaz przejeżdżania przez linię": "Одинарная сплошная линия означает запрет пересекать линию.",
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
         "Czy na tym skrzyżowaniu wolno Ci skręcić w lewo, jeśli jedziesz prawym pasem?": "Можешь ли ты повернуть налево на этом перекрестке, если едешь правой полосой?",
