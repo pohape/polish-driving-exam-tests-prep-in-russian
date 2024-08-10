@@ -3471,7 +3471,11 @@
             "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
             "Hamowanie silnikiem zmniejsza zużycie paliwa": "Торможение двигателем уменьшает расход топлива.",
             "Należy dostosować prędkość do panujących warunków": "Необходимо адаптировать скорость к текущим дорожным условиям.",
-            "Kilkakrotne cofając i ruszając do przodu zapewnimy sobie w miarę stabilne podłoże": "Несколько раз двигаясь задним ходом и начиная движение вперед, мы обеспечим себе относительно стабильную поверхность."
+            "Kilkakrotne cofając i ruszając do przodu zapewnimy sobie w miarę stabilne podłoże": "Несколько раз двигаясь задним ходом и начиная движение вперед, мы обеспечим себе относительно стабильную поверхность.",
+            "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван чрезмерный люфт (холостой ход) рулевого колеса автомобиля?",
+            "Zużyciem opon": "Износом шин.",
+            "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
+            "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг."
         }
     },
     "not_approved": {
@@ -3917,9 +3921,6 @@
         "Czy w przedstawionej sytuacji dozwolone jest zatrzymanie pojazdu na jezdni?": "В данной ситуации разрешена ли остановка транспортного средства на проезжей части?",
         "Czy w przedstawionej sytuacji przed wjazdem na skrzyżowanie obowiązkowo trzeba się zatrzymać?": "В представленной ситуации перед въездом на перекресток обязательно нужно остановиться?",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
-        "Zużyciem opon": "Износом шин.",
-        "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
-        "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
         "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии.",
@@ -4417,7 +4418,6 @@
         "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами.",
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для уменьшения скорости движения.",
         "Czy w tej sytuacji zatrzymanie przy prawej krawędzi jezdni jest dozwolone?": "Разрешена ли остановка у правого края проезжей части в данной ситуации?",
-        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
-        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван чрезмерный люфт (холостой ход) рулевого колеса автомобиля?"
+        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?"
     }
 }
