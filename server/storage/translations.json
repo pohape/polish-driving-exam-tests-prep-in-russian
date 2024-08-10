@@ -4056,7 +4056,6 @@
         "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений.",
         "Gwałtowne ruszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Резкое начало движения на скользкой поверхности связано с риском возникновения скольжения.",
         "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения.",
-        "Poruszasz się autostradą i zamierzasz ją opuścić. Czy hamowanie rozpoczniesz po wjeździe na pas wyłączenia (zjazdu)?": "Вы двигаетесь по автостраде и собираетесь её покинуть. Начнёте ли вы торможение после въезда на полосу расцепления (съезд)?",
         "Oznakowanie pionowe i poziome nie zobowiązują do zatrzymania": "Вертикальные и горизонтальные дорожные знаки не обязывают остановиться.",
         "Dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Детей до трех лет разрешается перевозить непристегнутыми ремнями безопасности только в автобусах.",
         "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?": "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?",
@@ -4364,6 +4363,8 @@
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Правильно ли ты выбрал полосу движения при повороте налево?",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
         "Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?": "Въезжая на этот перекресток, у вас есть преимущество перед ТС слева?",
-        "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?"
+        "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
+        "Jest to prawidłowe zachowanie w stosunku do innych kierujących. Dzięki temu nie będą musieli hamować kierowcy, którzy będą kontynuować jazdę autostradą": "Это правильное поведение по отношению к другим водителям. Благодаря этому не будут вынуждены тормозить водители, которые будут продолжать движение по автостраде.",
+        "Poruszasz się autostradą i zamierzasz ją opuścić. Czy hamowanie rozpoczniesz po wjeździe na pas wyłączenia (zjazdu)?": "Вы движетесь по автостраде и собираетесь её покинуть. Начнёте ли вы торможение после въезда на полосу съезда?"
     }
 }
