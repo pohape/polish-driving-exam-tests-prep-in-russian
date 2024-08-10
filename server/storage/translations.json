@@ -3405,7 +3405,13 @@
             "Dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Детей до трех лет разрешается перевозить непристегнутыми ремнями безопасности только в автобусах.",
             "Czy wolno samochodem ciężarowym wyposażonym w pasy bezpieczeństwa przewozić dziecko do lat trzech niezabezpieczone pasami bezpieczeństwa i fotelikiem bezpieczeństwa?": "Разрешается ли перевозить ребенка до трех лет в грузовом автомобиле, оборудованном ремнями безопасности, без использования ремней безопасности и детского кресла?",
             "Obowiązek przewożenia dziecka w foteliku nie obowiązuje podczas przewozu taksówką": "Обязательство перевозить ребенка в детском кресле не действует во время перевозки такси.",
-            "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах и нет возможности установить третье автокресло, а третий ребенок достиг возраста 3 лет."
+            "Jeżeli dwoje dzieci przewożonych jest w fotelikach bezpieczeństwa i nie ma możliwości zainstalowania trzeciego fotelika, a trzecie dziecko ma ukończone 3 lata": "Если двое детей перевозятся в детских автокреслах и нет возможности установить третье автокресло, а третий ребенок достиг возраста 3 лет.",
+            "Jeżeli dziecko ma co najmniej 135 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 135 см и из-за массы невозможно обеспечить детское кресло безопасности или другое удерживающее устройство для ребенка.",
+            "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
+            "W jakim przypadku możesz przewozić dziecko na tylnym siedzeniu samochodem osobowym lub ciężarowym o dopuszczalnej masie całkowitej do 3,5 t, przytrzymywane jedynie pasami bezpieczeństwa?": "В каком случае можно перевозить ребенка на заднем сиденье автомобилем или грузовым автомобилем с допустимой полной массой до 3,5 т, удерживаемого только ремнями безопасности?",
+            "Jeżeli dziecko ma co najmniej 135 cm wzrostu": "Если ребенок имеет рост не менее 135 см.",
+            "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
+            "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?"
         }
     },
     "not_approved": {
@@ -3431,7 +3437,6 @@
         "W każdym przypadku zwiększyć biegi o dwa": "В любом случае увеличьте передачи на два.",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
-        "Jeżeli dziecko ukończyło 15 lat": "Если ребенку исполнилось 15 лет.",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
         "Ogólne zasady wyprzedzania i oznakowanie drogi umożliwiają wykonanie manewru": "Общие правила обгона и разметка дороги позволяют выполнить маневр.",
         "Czy jadąc z włączonymi światłami mijania, w intensywnym deszczu ograniczającym widoczność, masz prawo używać świateł przeciwmgłowych przednich?": "При движении с включенными фарами ближнего света в сильный дождь, ограничивающий видимость, Вы имеете право использовать передние противотуманные фары?",
@@ -3567,9 +3572,6 @@
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
         "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?",
-        "Jeżeli dziecko ma co najmniej 135 cm wzrostu": "Если ребенок имеет рост не менее 135 см.",
-        "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
-        "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
@@ -4405,7 +4407,5 @@
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "За обгон перед пешеходным переходом, где движение регулируется.",
         "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных в временном разрешении автомобиля.",
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит период временного изъятия водительского удостоверения, если вас задержали для проверки, когда вы управляли транспортным средством, несмотря на то что ранее водительское удостоверение было изъято на три месяца за перевозку на двух человек больше, чем указано в свидетельстве о регистрации автомобиля?",
-        "Jeżeli dziecko ma co najmniej 135 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 135 см и из-за массы невозможно обеспечить детское кресло безопасности или другое удерживающее устройство для ребенка.",
         "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка."
-    }
-}
+   
