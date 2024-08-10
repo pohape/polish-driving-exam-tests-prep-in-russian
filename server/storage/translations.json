@@ -3441,7 +3441,11 @@
             "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске.",
             "Przewożenie osoby niepełnosprawnej samochodem osobowym nie wymaga nieustannego zachowywania szczególnej ostrożności oraz używania specjalnego oświetlenia": "Перевозка инвалида автомобилем не требует постоянного соблюдения особой осторожности и использования специального освещения.",
             "Stoczenie się pojazdu": "Скатывание транспортного средства.",
-            "Gwałtowne ruszenie": "Быстрый старт."
+            "Gwałtowne ruszenie": "Быстрый старт.",
+            "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
+            "Jedziesz z prędkością 90 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы едете со скоростью 90 км\/ч. Какое начальное положение обеспечит вам оптимальный путь при прохождении поворота?",
+            "Na środku jezdni, z częściowym przekroczeniem widocznej linii": "На середине проезжей части, с частичным пересечением видимой линии.",
+            "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?": "Как ты должен поступить, чтобы разогнать автомобиль на плоском участке дороги?"
         }
     },
     "not_approved": {
@@ -3810,7 +3814,6 @@
         "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
-        "Pokonując zakręt należy wybrać najszerszy z możliwych łuków aby zmniejszyć ryzyko poślizgu": "Проходя поворот, следует выбрать самую широкую из возможных дуг, чтобы уменьшить риск заноса.",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
         "Hamowanie silnikiem": "Торможение двигателем.",
         "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
@@ -3947,7 +3950,6 @@
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
         "Czy w tej sytuacji, po wjechaniu za sygnalizator, masz obowiązek zatrzymać się w miejscu wskazanym znakiem \"stop\"?": "В этой ситуации, после въезда за светофор, обязан ли ты остановиться в месте, указанном знаком \"стоп\"?",
         "Wykorzystać maksymalne obroty silnika na każdym biegu": "Использовать максимальные обороты двигателя на каждой передаче.",
-        "Jak powinieneś postąpić, aby rozpędzić samochód osobowy na płaskim odcinku drogi?": "Как ты должен поступить, чтобы разогнать автомобиль на плоском участке дороги?",
         "Wyświetlane sygnały zapewniają bezkolizyjny przejazd prosto i skręt w prawo": "Отображаемые сигналы обеспечивают бесконфликтное движение прямо и поворот направо.",
         "Czy zmieniając pas ruchu z lewego na środkowy, miałeś pierwszeństwo przed pojazdem wjeżdżającym na ten pas z prawej strony?": "При смене полосы движения с левой на среднюю, у вас было преимущество перед ТС, въезжающим на эту полосу справа?",
         "Czy w tej sytuacji musisz powstrzymać się od wyprzedzania?": "В этой ситуации ты должен воздержаться от обгона?",
@@ -4064,8 +4066,6 @@
         "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdowi z prawej strony?": "Вы должны уступить дорогу ТС, приближающемуся справа в данной ситуации?",
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek usunąć się z drogi przejazdu pojazdu uprzywilejowanego ?": "В этой ситуации водитель транспортного средства номер 1 обязан уступить дорогу транспортному средству с преимущественным правом проезда?",
         "Jedziesz na wprost, a motocyklista chce skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист хочет повернуть налево. Обязаны ли вы уступить ему преимущество?",
-        "Na środku jezdni, z częściowym przekroczeniem widocznej linii": "На середине проезжей части, с частичным пересечением видимой линии.",
-        "Jedziesz z prędkością 90 km\/h. Jaka pozycja początkowa zapewni Ci optymalny tor jazdy po zakręcie?": "Вы едете со скоростью 90 км\/ч. Какое начальное положение обеспечит вам оптимальный путь при прохождении поворота?",
         "W tej sytuacji nie żadnych podstaw żeby zrezygnować z wykonania manewru": "В этой ситуации нет никаких оснований, чтобы отказаться от выполнения маневра.",
         "Na tym skrzyżowaniu pierwszeństwo mają pojazdy poruszające się wokół wyspy. (Ustąp pierwszeństwa przed wjazdem na skrzyżowanie)": "На этом перекрестке преимущество имеют ТС, движущиеся вокруг островка. (Уступи преимущество перед въездом на перекресток)",
         "Wyprzedzanie kilku pojazdów nie jest zabronione,": "Обгон нескольких транспортных средств не запрещён.",
