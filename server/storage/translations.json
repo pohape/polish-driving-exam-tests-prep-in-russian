@@ -4,7 +4,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных ближних светах?",
         "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
@@ -24,7 +23,9 @@
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "O dowolnym tonie": "На любом тоне.",
         "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
-        "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума."
+        "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума.",
+        "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
+        "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов."
     },
     "approved": {
         "upewninie się": {
@@ -3725,7 +3726,6 @@
         "Zapobiega zerwaniu przyczepności opon podczas przyspieszania": "Предотвращает потерю сцепления шин при ускорении.",
         "Zezwala się na przewożenie na tylnym siedzeniu pojazdu, trzeciego dziecka w wieku co najmniej 3 lat, przytrzymywanego za pomocą pasów bezpieczeństwa, w przypadku gdy dwoje dzieci jest przewożonych w fotelikach bezpieczeństwa dla dziecka lub innych urządzeniach przytrzymujących dla dzieci, zainstalowanych na tylnych siedzeniach pojazdu i nie ma możliwości zainstalowania trzeciego fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci": "Допускается перевозка на заднем сиденье транспортного средства третьего ребенка в возрасте не менее 3 лет, удерживаемого с помощью ремней безопасности, в случае, когда двое детей перевозятся в детских автокреслах или других удерживающих устройствах для детей, установленных на задних сиденьях транспортного средства, и нет возможности установить третье детское автокресло или другое удерживающее устройство для детей.",
         "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
-        "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильная схождение может быть причиной чрезмерного износа шин на передних колесах.",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы имеете преимущество перед ТС, приближающимся слева, поворачивая налево на этом перекрестке?",
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
@@ -4175,7 +4175,6 @@
         "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь жертвам катастрофы.",
         "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
-        "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach, na których ruch odbywa się wokół wyspy": "Допускается обгон на перекрестках, на которых движение происходит вокруг островка.",
         "Czy w tej sytuacji należy zrezygnować z rozpoczęcia wyprzedzania?": "Следует ли в этой ситуации отказаться от начала обгона?",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками.",
@@ -4370,6 +4369,7 @@
         "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне."
+        "O zmiennym tonie": "О переменном тоне.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из лампочек на изображении указывает на включенные ближние световые фары?"
     }
 }
