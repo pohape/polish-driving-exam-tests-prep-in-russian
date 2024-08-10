@@ -3317,7 +3317,12 @@
             "Zabrania się holowania pojazdu na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych": "Запрещается буксировка транспортного средства на автостраде, за исключением буксировки специально предназначенными для этого транспортными средствами до ближайшего выезда или места обслуживания путешественников.",
             "Tak, ale jadąc z maksymalną prędkością 20 km\/h": "Да, но двигаясь с максимальной скоростью 20 км\/ч.",
             "Zabrania się holowania na własną rękę na autostradzie": "Запрещается буксировать самостоятельно на автостраде.",
-            "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч."
+            "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч.",
+            "Który z wymienionych przypadków jest prawidłowym sposobem przewożenia ładunku na przyczepie ciągniętej przez samochód osobowy?": "Какой из перечисленных случаев является правильным способом перевозки груза на прицепе, буксируемом автомобилем?",
+            "Ładunek jest zabezpieczony przed przesuwaniem się": "Груз закреплен, чтобы не смещаться.",
+            "Ładunek nie jest zabezpieczony przed zmianą położenia": "Груз не защищен от смещения.",
+            "Ładunek nie jest zabezpieczony przed zmianą położenia, jeżeli prędkość jazdy nie będzie większa niż 30 km\/h": "Груз не закреплен от смещения, если скорость движения не будет превышать 30 км\/ч.",
+            "Ładunek powinien być zabezpieczony przed przemieszczaniem się": "Груз должен быть закреплен, чтобы предотвратить его перемещение."
         }
     },
     "not_approved": {
