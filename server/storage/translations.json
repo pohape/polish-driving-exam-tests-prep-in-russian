@@ -20,7 +20,8 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
-        "Włączenie świateł drogowych": "Включение фар ближнего света."
+        "Włączenie świateł drogowych": "Включение фар ближнего света.",
+        "Zdecydowanie przyhamować": "Определенно притормозить."
     },
     "approved": {
         "upewninie się": {
@@ -3165,7 +3166,9 @@
             "Czy w tej sytuacji możesz wjechać za sygnalizator, jeśli zatrzymanie wymagałoby gwałtownego hamowania?": "Можешь ли ты в этой ситуации заехать за светофор, если остановка потребовала бы резкого торможения?",
             "Sygnał żółty oznacza zakaz wjazdu za sygnalizator, chyba że w chwili zapalenia tego sygnału pojazd znajduje się tak blisko sygnalizatora, że nie może być zatrzymany przed nim bez gwałtownego hamowania": "Жёлтый сигнал означает запрет въезда за светофор, если только в момент загорания этого сигнала транспортное средство не находится так близко к светофору, что не может быть остановлено перед ним без резкого торможения.",
             "TO nie jest sygnalizator kierunkowy": "Это не направленный светофор.",
-            "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr skrętu musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, водитель транспортного средства, выполняющий маневр поворота, должен уступить дорогу железнодорожному транспорту, движущемуся прямо."
+            "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją kierujący pojazdem wykonując manewr skrętu musi ustąpić pierwszeństwa pojazdom szynowym jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, водитель транспортного средства, выполняющий маневр поворота, должен уступить дорогу железнодорожному транспорту, движущемуся прямо.",
+            "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
+            "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?"
         }
     },
     "not_approved": {
@@ -3286,9 +3289,6 @@
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
-        "Płynnie zmniejszyć prędkość": "Плавно уменьшить скорость.",
-        "Zdecydowanie przyhamować": "Определенно притормозить.",
-        "Kierujesz samochodem osobowym podczas ulewnego deszczu. Którą z wymienionych czynności należy wykonać po wjechaniu w koleinę wypełnioną wodą?": "Вы управляете легковым автомобилем во время сильного дождя. Какое из перечисленных действий следует выполнить после въезда в колею, заполненную водой?",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
