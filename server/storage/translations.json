@@ -3160,7 +3160,8 @@
             "Znak B-21 - zakaz skrętu w lewo uniemożliwia zawrócenie": "Знак B-21 - запрет поворота налево не позволяет разворачиваться.",
             "Prawo jazdy, którego minął termin ważności nie uprawnia do kierowania": "Водительское удостоверение, срок действия которого истек, не дает права на управление.",
             "Czy można samochodem ciężarowym przewieźć dziecko o wzroście poniżej 150 cm zabezpieczone tylko pasami bezpieczeństwa?": "Можно ли грузовым автомобилем перевозить ребенка ростом ниже 150 см, защищенного только ремнями безопасности?",
-            "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении."
+            "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania": "ABS - система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении.",
+            "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?"
         }
     },
     "not_approved": {
@@ -4292,7 +4293,6 @@
         "Trzeba wyjaśniać???": "Нужно объяснять???",
         "Bez sprawnego rozrusznika nie uruchomimy silnika": "Без исправного стартера мы не запустим двигатель.",
         "Jedziesz na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. Обязаны ли вы уступить ему дорогу?",
-        "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdom wyjeżdżającym z lewej strony?": "В данной ситуации должны ли вы уступить дорогу транспортным средствам, выезжающим слева?",
         "Czy w przedstawionej sytuacji wjeżdżając na to skrzyżowanie musisz się bezwzględnie zatrzymać?": "В представленной ситуации при въезде на этот перекресток ты должен обязательно остановиться?",
         "Zamierzając zmienić kierunek jazdy należy to wyraźnie i zawczasu zasygnalizować": "Намериваясь изменить направление движения, следует это чётко и заблаговременно сигнализировать.",
         "Czy w przedstawionej sytuacji zbliżasz się do skrzyżowania na którym musisz ustąpić pierwszeństwa pojazdom nadjeżdżającym z prawej strony?": "Находясь в представленной ситуации, приближаетесь ли вы к перекрестку, на котором должны уступить дорогу ТС, приближающимся справа?",
