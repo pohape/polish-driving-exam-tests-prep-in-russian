@@ -3438,7 +3438,8 @@
             "która czuje się skrępowana pasami": "которая чувствует себя скованной ремнями безопасности",
             "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле",
             "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,",
-            "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске."
+            "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске.",
+            "Przewożenie osoby niepełnosprawnej samochodem osobowym nie wymaga nieustannego zachowywania szczególnej ostrożności oraz używania specjalnego oświetlenia": "Перевозка инвалида автомобилем не требует постоянного соблюдения особой осторожности и использования специального освещения."
         }
     },
     "not_approved": {
@@ -3890,7 +3891,6 @@
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
         "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu": "В ситуации спуска с возвышенности по дороге с большей интенсивностью движения.",
-        "Przewożenie osoby niepełnosprawnej samochodem osobowym nie wymaga nieustannego zachowywania szczególnej ostrożności oraz używania specjalnego oświetlenia": "Перевозка инвалида автомобилем не требует постоянного соблюдения особой осторожности и использования специального освещения.",
         "Czy w tej sytuacji możesz skręcić w prawo przed tramwajem?": "В данной ситуации можно ли тебе повернуть направо перед трамваем?",
         "Czy na obszarze zabudowanym na jezdni dwukierunkowej o małym ruchu wolno Ci zaparkować pojazd przy lewej krawędzi jezdni?": "Разрешается ли вам припарковать транспортное средство у левого края проезжей части на дороге с двусторонним движением с небольшим движением в населенном пункте?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić z lewej lub prawej strony pojazd jadący przed Tobą?": "Возможно ли в данной ситуации обогнать с левой или правой стороны транспортное средство, движущееся перед вами?",
