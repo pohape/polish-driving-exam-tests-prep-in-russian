@@ -2,7 +2,6 @@
     "incorrect": {
         "Jeżeli na drodze są umieszczone znaki barwy białej i żółtej wskazujące różny sposób zachowania, to kierujący jest obowiązany stosować się do znaków barwy żółtej. Żółte oznakowanie uniemożliwia skręt w lewo": "Если на дороге установлены знаки белого и желтого цветов, указывающие на различные способы поведения, то водитель обязан следовать знакам желтого цвета. Желтое дорожное разметка запрещает поворот налево.",
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
-        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
@@ -4418,6 +4417,7 @@
         "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами.",
         "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для уменьшения скорости движения.",
         "Czy w tej sytuacji zatrzymanie przy prawej krawędzi jezdni jest dozwolone?": "Разрешена ли остановка у правого края проезжей части в данной ситуации?",
-        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?"
+        "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
+        "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван чрезмерный люфт (холостой ход) рулевого колеса автомобиля?"
     }
 }
