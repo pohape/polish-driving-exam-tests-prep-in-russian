@@ -3255,7 +3255,10 @@
             "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
             "Prawo jazdy": "Водительское удостоверение.",
             "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности.",
-            "Zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy pojazdów złączonych w celu holowania": "Автопоезд - транспортные средства, соединенные между собой для передвижения по дороге как единое целое; не касается транспортных средств, соединенных для буксировки."
+            "Zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy pojazdów złączonych w celu holowania": "Автопоезд - транспортные средства, соединенные между собой для передвижения по дороге как единое целое; не касается транспортных средств, соединенных для буксировки.",
+            "Podnośnik": "Подъемник.",
+            "Kamizelka odblaskowa": "Светоотражающий жилет.",
+            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки."
         }
     },
     "not_approved": {
@@ -3517,8 +3520,6 @@
         "Jakie obowiązki ciążą na osobie, która ma wydane w Polsce prawo jazdy?": "Какие обязанности лежат на лице, которому были выданы в Польше водительские права?",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
-        "Kamizelka odblaskowa": "Светоотражающий жилет.",
-        "Podnośnik": "Подъемник.",
         "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством.",
         "Co powinieneś widzieć w prawidłowo ustawionym lusterku wstecznym (wewnętrznym)?": "Что вы должны видеть в правильно настроенном зеркале заднего вида (внутреннем)?",
         "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
@@ -4103,7 +4104,6 @@
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
         "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства.",
-        "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
         "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
