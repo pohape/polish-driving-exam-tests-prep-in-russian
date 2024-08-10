@@ -3177,7 +3177,8 @@
             "Jest to prawidłowe zachowanie w stosunku do innych kierujących. Dzięki temu nie będą musieli hamować kierowcy, którzy będą kontynuować jazdę autostradą": "Это правильное поведение по отношению к другим водителям. Благодаря этому не будут вынуждены тормозить водители, которые будут продолжать движение по автостраде.",
             "Czy skręcając w lewo na tym skrzyżowaniu, masz pierwszeństwo przed pojazdem jadącym z przeciwka?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
             "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
-            "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?"
+            "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
+            "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?"
         }
     },
     "not_approved": {
@@ -4222,7 +4223,6 @@
         "Oznakowanie poziome, oraz sygnalizator S-3 umożliwiają zawrócenie": "Наземная (горизонтальная) разметка, а также светофор S-3 позволяют развернуться.",
         "Następnym sygnałem będzie zielony": "Следующим сигналом будет зеленый.",
         "Wskazania sygnalizacji są ważniejsze od znaków drogowych regulujących pierwszeństwem przejazdu": "Показания светофора важнее знаков дорожного регулирования приоритета проезда.",
-        "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?",
         "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa tramwajowi skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу трамваю, поворачивающему налево?",
         "Skręcając w lewo należy ustąpić pierwszeństwa nadjeżdżającym z przeciwka. PS: Uwaga na tramwaj :D": "Поворачивая налево, необходимо уступить дорогу ТС, приближающимся встречного. ЗС: Внимание на трамвай :D",
         "Czy w tej sytuacji nadawane sygnały świetlne zezwalają Ci na wjazd za sygnalizator?": "Разрешают ли в этой ситуации подаваемые световые сигналы въезд за светофор?",
