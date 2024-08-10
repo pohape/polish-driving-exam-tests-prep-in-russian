@@ -21,7 +21,8 @@
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "Zdecydowanie przyhamować": "Определенно притормозить."
+        "Zdecydowanie przyhamować": "Определенно притормозить.",
+        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Увеличивают эффективность сигнализации торможения в тумане."
     },
     "approved": {
         "upewninie się": {
@@ -3179,7 +3180,10 @@
             "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
             "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
             "Zamierzasz skręcić w lewo. Czy masz obowiązek ustąpić pierwszeństwa pojazdowi szynowemu?": "Вы собираетесь повернуть налево. Должны ли вы уступить дорогу железнодорожному транспорту?",
-            "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути."
+            "Pozycja boczna między innymi zapobiega niedrożności dróg oddechowych i zachłyśnięciu": "Боковое положение, среди прочего, предотвращает закупорку дыхательных путей и попадание жидкости в дыхательные пути.",
+            "Do czego służą tylne światła przeciwmgłowe samochodu osobowego?": "Для чего служат задние противотуманные фонари легкового автомобиля?",
+            "Zastępują światła pozycyjne": "Заменяют габаритные огни.",
+            "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м."
         }
     },
     "not_approved": {
@@ -4077,10 +4081,6 @@
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
-        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Увеличивают эффективность сигнализации торможения в тумане.",
-        "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м.",
-        "Do czego służą tylne światła przeciwmgłowe samochodu osobowego?": "Для чего служат задние противотуманные фонари легкового автомобиля?",
-        "Zastępują światła pozycyjne": "Заменяют габаритные огни.",
         "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства.",
         "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
         "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
