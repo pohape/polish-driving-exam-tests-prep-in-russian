@@ -725,6 +725,7 @@
             "Odpowiednio dobrana do panujących warunków opona zdecydowanie poprawia właściwości jezdne": "Правильно подобранная к текущим уловиям шина заметно улучшает ходовые свойства."
         },
         "others": {
+            "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem": "Если водитель совершил нарушение, чтобы предотвратить неминуемую опасность, угрожающую тому, что защищено законом.",
             "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
             "Jodynę i gencjanę": "Йод и раствор генцианового фиолета (это специальный антисептик).",
             "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
@@ -4410,7 +4411,6 @@
         "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка.",
         "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
-        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч.",
-        "Jeżeli kierujący pojazdem dopuścił się naruszenia działając w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem": "Если водитель транспортного средства допустил нарушение, действуя с целью устранения непосредственной опасности, угрожающей охраняемому законом благу."
+        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч."
     }
 }
