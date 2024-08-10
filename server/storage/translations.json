@@ -3260,7 +3260,9 @@
             "Podnośnik": "Подъемник.",
             "Kamizelka odblaskowa": "Светоотражающий жилет.",
             "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
-            "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения."
+            "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
+            "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
+            "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств."
         }
     },
     "not_approved": {
@@ -4042,8 +4044,6 @@
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
         "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?",
-        "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
-        "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Соблюл ли водитель автопоезда правила, если остановился посреди проезжей части в отношении водителя привилегированного транспортного средства пожарной службы?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdami jadącymi drogą poprzeczną?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, движущимися по поперечной дороге?",
         "Czy wolno Ci zwiększać prędkość, jeżeli jesteś wyprzedzany przez inny pojazd?": "Разрешено ли тебе увеличивать скорость, если тебя обгоняет другой транспортное средство?",
