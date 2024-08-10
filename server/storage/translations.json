@@ -3241,7 +3241,11 @@
             "Niewielkie obciążenie przedniej osi pojazdu": "Небольшая нагрузка на переднюю ось транспортного средства.",
             "Nieprawidłowa zbieżność": "Неправильное схождение.",
             "Nierówna nawierzchnia jezdni": "Неровная поверхность проезжей части.",
-            "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильное схождение может быть причиной чрезмерного износа шин на передних колесах."
+            "Nieprawidłowa zbieżność może być przyczyną nadmiernego zużywania się opon na przednich kołach": "Неправильное схождение может быть причиной чрезмерного износа шин на передних колесах.",
+            "Asymetrycznie": "Асимметрично.",
+            "Symetrycznie": "Симметрично.",
+            "Prostopadle": "Перпендикулярно.",
+            "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично."
         }
     },
     "not_approved": {
@@ -3345,10 +3349,8 @@
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
-        "Asymetrycznie": "Асимметрично.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-        "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
         "Może swobodnie zwisać z przyczepy": "Он может свободно свисать с прицепа.",
         "Tak, żeby mocowanie nie rozluźniło się": "Чтобы крепление не расслаблялось.",
         "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
@@ -4168,9 +4170,6 @@
         "Tak w każdym przypadku": "В каждом случае.",
         "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
         "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?",
-        "Symetrycznie": "Симметрично.",
-        "Prostopadle": "Перпендикулярно.",
-        "W jaki sposób oświetlają drogę przed samochodem osobowym światła mijania?": "Как освещают дорогу перед автомобилем ближние света?",
         "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
@@ -4377,6 +4376,7 @@
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне."
+        "O zmiennym tonie": "О переменном тоне.",
+        "W jaki sposób oświetlają drogę przed samochodem osobowym światła mijania?": "Каким образом ближний свет фар освещает дорогу перед автомобилем?"
     }
 }
