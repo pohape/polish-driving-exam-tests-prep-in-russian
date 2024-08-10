@@ -3209,7 +3209,8 @@
             "Kontrolka barwy niebieskiej informuje o działaniu świateł drogowych": "Индикатор синего цвета информирует о работе дальнего света фар.",
             "Najdokładniejszego pomiaru oleju można dokonać kiedy ten spłynie do miski olejowej": "Самое точное измерение уровня масла можно произвести, когда оно стечет в поддон.",
             "W której z wymienionych niebezpiecznych sytuacji na drodze najlepiej sprawdzi się pojazd wyposażony w tzw. ASR, czyli układ zapobiegający poślizgowi kół napędzanych podczas ruszania?": "В какой из перечисленных опасных ситуаций на дороге лучше всего подойдет автомобиль, оснащенный так называемой ASR, то есть системой, предотвращающей проскальзывание ведомых колес при трогании с места?",
-            "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса."
+            "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса.",
+            "Gwałtowne ruszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Резкое начало движения на скользкой поверхности связано с риском возникновения скольжения."
         }
     },
     "not_approved": {
@@ -4068,7 +4069,6 @@
         "Znajdując się w strefie ruchu, w której ruch pieszych i pojazdów odbywa się po tej samej powierzchni, kierujący powinien jechać powoli i ustąpić pierwszeństwa pieszym": "Находясь в зоне движения, где движение пешеходов и транспортных средств происходит по одной и той же поверхности, водитель должен ехать медленно и уступить дорогу пешеходам.",
         "Tylko zajmowany pas służy do jazdy": "Только занимаемая полоса предназначена для движения.",
         "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений.",
-        "Gwałtowne ruszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Резкое начало движения на скользкой поверхности связано с риском возникновения скольжения.",
         "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения.",
         "Oznakowanie pionowe i poziome nie zobowiązują do zatrzymania": "Вертикальные и горизонтальные дорожные знаки не обязывают остановиться.",
         "Dzieci do lat trzech wolno przewozić niezapięte w pasy bezpieczeństwa tylko autobusami": "Детей до трех лет разрешается перевозить непристегнутыми ремнями безопасности только в автобусах.",
