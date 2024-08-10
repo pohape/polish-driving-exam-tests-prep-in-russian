@@ -3215,7 +3215,10 @@
             "W sytuacji pokonywania ostrego zakrętu i trudności z utrzymaniem oczekiwanego toru jazdy": "В ситуации, когда приходится преодолевать крутой поворот и возникают трудности с сохранением ожидаемой траектории движения.",
             "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
             "Światłą mijania oznaczone są lampką \"C\"": "Ближний свет обозначается лампочкой \"C\"",
-            "Kierunkowskazy oznaczone są lampką \"A\"": "Поворотники обозначены лампочкой \"A\"."
+            "Kierunkowskazy oznaczone są lampką \"A\"": "Поворотники обозначены лампочкой \"A\".",
+            "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
+            "Przeciwmgłowe przednie oznaczone są lampką \"B\"": "Передние противотуманные фары обозначены лампочкой \"B\".",
+            "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Который из видимых на иллюстрации контрольных индикаторов касается передних противотуманных фар?"
         }
     },
     "not_approved": {
@@ -3816,7 +3819,6 @@
         "Nie, do weryfikacji danych o pojeździe w Centralnej Ewidencji Pojazdów uprawnione są tylko: policja, straż graniczna i służby celno-skarbowe": "Нет, для проверки данных о транспортном средстве в Центральном реестре транспортных средств уполномочены только: полиция, пограничная служба и таможенно-налоговые службы.",
         "Czy inspektor transportu drogowego podczas kontrolowania pojazdu, który wykonuje transport drogowy, ma prawo weryfikować dane o pojeździe w Centralnej Ewidencji Pojazdów?": "Имеет ли инспектор дорожного транспорта при проверке транспортного средства, которое осуществляет дорожную перевозку, право проверять данные о транспортном средстве в Центральном Реестре Транспортных Средств?",
         "Kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h w obszarze zabudowanym może się właśnie tak skończyć": "Управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте, может закончиться именно так.",
-        "Która z widocznych na ilustracji lampek kontrolnych dotyczy przednich świateł przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек касается передних противотуманных фар?",
         "Czy w tej sytuacji, skręcając w lewo, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, идущим встречным направлением прямо?",
         "Czy w tej sytuacji, skręcając w prawo, masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы в этой ситуации преимущество перед ТС, приближающимся слева, поворачивая направо?",
         "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpienia pierwszeństwa motocykliście skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу мотоциклисту, поворачивающему налево?",
@@ -3976,7 +3978,6 @@
         "Dopuszcza się wykonanie manewru cofania na drodze jednokierunkowej": "Разрешается выполнять маневр движения задним ходом на дороге с односторонним движением.",
         "W tej sytuacji istnieje możliwość oślepienia kierującego wyprzedzającym pojazdem": "В этой ситуации существует вероятность ослепления водителя обгоняющим транспортным средством.",
         "Linia ciągła oddzielająca lewy pas uniemożliwia wykonanie wyprzedzania": "Сплошная линия, отделяющая левую полосу, запрещает выполнение обгона.",
-        "Światła pozycyjne oznaczone są lampką \"C\"": "Габаритные огни обозначены лампочкой \"C\".",
         "Zezwala się na przewożenie na tylnym siedzeniu pojazdu, dziecka mającego co najmniej 135 cm wzrostu przytrzymywanego za pomocą pasów bezpieczeństwa w przypadkach, kiedy ze względu na masę i wzrost dziecka nie jest możliwe zapewnienie fotelika bezpieczeństwa dla dziecka lub innego urządzenia przytrzymującego dla dzieci": "Разрешается перевозить на заднем сиденье автомобиля ребенка, имеющего не менее 135 см роста, с использованием ремней безопасности в случаях, когда из-за массы и роста ребенка невозможно обеспечить детское автокресло или другое удерживающее устройство для детей.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na poboczu?": "Разрешено ли тебе в этой ситуации остановить транспортное средство на обочине?",
         "Czy w tej sytuacji wolno Ci użyć ostrzegawczego sygnału dźwiękowego?": "В данной ситуации разрешено ли вам использовать звуковой предупреждающий сигнал?",
@@ -4371,6 +4372,7 @@
         "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне."
+        "O zmiennym tonie": "О переменном тоне.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych tylnych światłach przeciwmgłowych?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных задних противотуманных фонарях?"
     }
 }
