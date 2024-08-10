@@ -24,7 +24,8 @@
         "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума.",
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?"
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
+        "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия."
     },
     "approved": {
         "upewninie się": {
@@ -3258,7 +3259,8 @@
             "Zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy pojazdów złączonych w celu holowania": "Автопоезд - транспортные средства, соединенные между собой для передвижения по дороге как единое целое; не касается транспортных средств, соединенных для буксировки.",
             "Podnośnik": "Подъемник.",
             "Kamizelka odblaskowa": "Светоотражающий жилет.",
-            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки."
+            "Wśród elementów niezbędnego wyposażenia pojazdu na terenie Polski powinien znaleźć się trójkąt ostrzegawczy": "Среди элементов необходимой комплектации ТС на территории Польши должен находиться знак аварийной остановки.",
+            "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения."
         }
     },
     "not_approved": {
@@ -3759,7 +3761,6 @@
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
         "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?",
         "Nie ma przepisu, który by tego zabraniał": "Нет такого правила, которое бы это запрещало.",
-        "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
         "Kierujący pojazdem jest obowiązany utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Водитель транспортного средства обязан поддерживать необходимую дистанцию для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
@@ -3767,7 +3768,6 @@
         "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
         "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
         "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости более чем на 50 км\/ч в населенном пункте уполномочивает на управление транспортным средством?",
-        "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
         "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?",
