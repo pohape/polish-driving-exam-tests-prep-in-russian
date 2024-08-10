@@ -3347,7 +3347,14 @@
             "Kierowaniu pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h w obszarze zabudowanym może się właśnie tak skończyć": "Управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте, может закончиться именно так.",
             "Policjant zatrzyma prawo jazdy za pokwitowaniem w przypadku ujawnienia czynu polegającego na: Policjant zatrzyma": "Полицейский временно изымет водительское удостоверение и даст квитанцию о временном изъятии в случае выявления деяния, заключающегося в:",
             "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm na przednim siedzeniu samochodu osobowego, który ma pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом меньше 150 см на переднем сиденье легкового автомобиля, имеющего пять посадочных мест?",
-            "Na kolanach pasażera": "На коленях у пассажира."
+            "Na kolanach pasażera": "На коленях у пассажира.",
+            "W foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dziecko": "В детском автокресле или в другом устройстве, удерживающем ребенка.",
+            "W foteliku bezpieczeństwa tyłem do kierunku jazdy, jeżeli pojazd ma aktywną poduszkę powietrzną dla pasażera": "В детском автокресле, установленном спиной вперед, если в ТС активирована передняя подушка безопасности для пассажира.",
+            "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
+            "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm samochodem osobowym, w którym jest pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом менее 150 см в легковом автомобиле, в котором пять мест для сидения?",
+            "Na przednim siedzeniu bez fotelika lub innego urządzenia przytrzymującego dziecko": "На переднем сидении без детского кресла или другого удерживающего устройства.",
+            "Na przednim siedzeniu w innym niż fotelik urządzeniu przytrzymującym dziecko": "На переднем сиденье в другом устройстве для удержания ребенка, отличном от автокресла.",
+            "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности."
         }
     },
     "not_approved": {
@@ -3531,7 +3538,6 @@
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
-        "W pojeździe wyposażonym w pasy bezpieczeństwa lub urządzenia przytrzymujące dla dzieci, dziecko mające mniej niż 150 cm wzrostu jest przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "В транспортном средстве, оборудованном ремнями безопасности или удерживающими устройствами для детей, ребенок, рост которого менее 150 см, должен перевозиться в детском автокресле или другом удерживающем устройстве для детей.",
         "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
         "W takim przypadku samochód osobowy powinien być wyposażony w pasy i fotelik bezpieczeństwa": "В таком случае легковой автомобиль должен быть оснащён ремнями и детским удерживающим устройством.",
@@ -3633,12 +3639,6 @@
         "Dozwolone, jeżeli dziecko ma co najmniej 135 cm wzrostu i nie jest możliwe zapewnienie mu fotelika bezpieczeństwa ze względu na jego wzrost i masę": "Разрешается, если ребенок имеет хотя бы 135 см роста и невозможно обеспечить ему автокресло из-за его роста и веса.",
         "Zabronione bez fotelika bezpieczeństwa": "Запрещено без детского автокресла (безопасности).",
         "Przewożenie na tylnym siedzeniu samochodu osobowego dziecka przytrzymywanego za pomocą pasów bezpieczeństwa jest:": "Перевозка ребенка на заднем сидении легкового автомобиля, удерживаемого с помощью ремней безопасности, является:",
-        "W foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dziecko": "В детском автокресле или в другом устройстве, удерживающем ребенка.",
-        "W foteliku bezpieczeństwa tyłem do kierunku jazdy, jeżeli pojazd ma aktywną poduszkę powietrzną dla pasażera": "В детском автокресле, установленном спиной вперед, если в ТС активирована передняя подушка безопасности для пассажира.",
-        "Na przednim siedzeniu w innym niż fotelik urządzeniu przytrzymującym dziecko": "На переднем сиденье в другом устройстве для удержания ребенка, отличном от автокресла.",
-        "Na przednim siedzeniu bez fotelika lub innego urządzenia przytrzymującego dziecko": "На переднем сидении без детского кресла или другого удерживающего устройства.",
-        "Na tylnym siedzeniu bez zapiętych pasów bezpieczeństwa": "На заднем сиденье без пристегнутых ремней безопасности.",
-        "W jaki sposób przewozisz dziecko o wzroście mniejszym niż 150 cm samochodem osobowym, w którym jest pięć miejsc siedzących?": "Каким образом вы перевозите ребенка ростом менее 150 см в легковом автомобиле, в котором пять мест для сидения?",
         "W sposób wygodny dla dziecka": "Удобным для ребенка способом.",
         "Zgodnie z zaleceniami producenta urządzenia": "В соответствии с рекомендациями производителя устройства.",
         "Nie można przekraczać prędkości 50 km\/h": "Нельзя превышать скорость 50 км\/ч.",
