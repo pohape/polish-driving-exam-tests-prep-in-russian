@@ -3271,7 +3271,8 @@
             "Międzynarodowe prawo jazdy jest wydawane na okres 3 lat, nie dłużej jednak niż na okres ważności krajowego prawa jazdy": "Международное водительское удостоверение выдается на срок 3 года, но не дольше срока действия национального водительского удостоверения.",
             "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
             "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
-            "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных."
+            "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
+            "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч."
         }
     },
     "not_approved": {
@@ -3683,7 +3684,6 @@
         "Czy pojazd wjeżdżający na tak oznakowane skrzyżowanie ma pierwszeństwo przed pojazdem poruszającym się dookoła wyspy centralnej?": "Имеет ли ТС, въезжающее на таким образом обозначенный перекресток, преимущество перед ТС, движущимся вокруг центрального островка?",
         "Na autostradzie": "На автостраде.",
         "Na której z tych dróg nie masz prawa holować samochodem osobowym innego pojazdu?": "На какой из этих дорог ты не имеешь права буксировать другое транспортное средство легковым автомобилем?",
-        "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
         "Wraz ze wzrostem siły wywieranej na pedał hamulca wzrasta siła hamowania": "С увеличением силы, приложенной к педали тормоза, увеличивается сила торможения.",
         "Zabrania się holowania pojazdu na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych": "Запрещается буксировка транспортного средства на автостраде, за исключением буксировки специально предназначенными для этого транспортными средствами до ближайшего выезда или места обслуживания путешественников.",
         "Czy wjeżdżając na widoczne skrzyżowanie masz obowiązek - w razie potrzeby - ustąpić pierwszeństwa uczestnikom ruchu nadjeżdżającym z lewej strony?": "При въезде на видимый перекресток обязаны ли вы - в случае необходимости - уступить дорогу участникам движения, приближающимся слева?",
