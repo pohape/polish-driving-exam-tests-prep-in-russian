@@ -3456,7 +3456,13 @@
             "Zmiany pasa ruchu po wykonaniu wyprzedzania można dokonać tylko w przypadku gdy nie zmusi to kierującego pojazdem wyprzedzanym do hamowania lub zmiany toru jazdy": "Смену полосы движения после выполнения обгона можно осуществлять только в случае, если это не заставит водителя обгоняемого транспортного средства тормозить или менять траекторию движения.",
             "Gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Когда скорость движения автомобиля упадет до минимальной для текущей передачи.",
             "Równocześnie z pedałem hamulca": "Одновременно с педалью тормоза.",
-            "Przed naciśnięciem pedału hamulca": "Перед нажатием на педаль тормоза."
+            "Przed naciśnięciem pedału hamulca": "Перед нажатием на педаль тормоза.",
+            "Użycie sprzęgła podczas hamowania naraża na utratę kontroli nad samochodem, dlatego pedał sprzęgła należy wcisnąć gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Использование сцепления при торможении подвергает риску потерю контроля над автомобилем, поэтому педаль сцепления следует нажимать, когда скорость движения автомобиля упадет до минимума для текущей передачи.",
+            "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете педаль сцепления, если, двигаясь на большой скорости автомобилем, планируете выполнить маневр торможения?",
+            "Oczyścić ze śniegu tylko przednią szybę w pojeździe": "Очистить от снега только переднее стекло в транспортном средстве.",
+            "Oczyścić ze śniegu tylko szyby w pojeździe": "Очистить от снега только стекла в транспортном средстве.",
+            "Oczyścić ze śniegu wszystkie szyby, pokrywę silnika, dach i lusterka": "Очистить от снега все стекла, капот, крышу и зеркала.",
+            "Którą z wymienionych czynności masz obowiązek wykonać przed rozpoczęciem jazdy widocznym pojazdem?": "Какое из перечисленных действий вы обязаны выполнить перед началом движения на видимом транспортном средстве?"
         }
     },
     "not_approved": {
@@ -3723,10 +3729,6 @@
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
-        "Oczyścić ze śniegu tylko szyby w pojeździe": "Очистить от снега только стекла в транспортном средстве.",
-        "Oczyścić ze śniegu wszystkie szyby, pokrywę silnika, dach i lusterka": "Очистить от снега все стекла, капот, крышу и зеркала.",
-        "Oczyścić ze śniegu tylko przednią szybę w pojeździe": "Очистить от снега только переднее стекло в транспортном средстве.",
-        "Którą z wymienionych czynności masz obowiązek wykonać przed rozpoczęciem jazdy widocznym pojazdem?": "Какое из перечисленных действий вы обязаны выполнить перед началом движения на заметном ТС?",
         "Zanieczyszczony wkład filtra powietrza": "Загрязнённый элемент воздушного фильтра.",
         "Przegrzewające się elektrody świec zapłonowych": "Перегревающиеся электроды свечей зажигания.",
         "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?": "Какая из перечисленных неисправностей делает безопасное использование автомобиля в дорожном движении невозможным?",
@@ -4413,7 +4415,6 @@
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой перед и за транспортным средством.",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как вы заметите край обгоняемого транспортного средства в наружном зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как свет обгоняемого автомобиля будет замечен в наружном зеркале.",
-        "W którym momencie wciśniesz pedał sprzęgła, gdy jadąc z dużą prędkością samochodem osobowym, planujesz wykonać manewr hamowania?": "В какой момент вы нажмете педаль сцепления, если, двигаясь на большой скорости автомобилем, планируете выполнить маневр торможения?",
-        "Użycie sprzęgła podczas hamowania naraża na utratę kontroli nad samochodem, dlatego pedał sprzęgła należy wcisnąć gdy prędkość poruszania się samochodu spadnie do minimalnej dla aktualnego przełożenia": "Использование сцепления при торможении подвергает риску потерю контроля над автомобилем, поэтому педаль сцепления следует нажимать, когда скорость движения автомобиля упадет до минимума для текущей передачи."
+        "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами."
     }
 }
