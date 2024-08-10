@@ -3462,7 +3462,12 @@
             "Oczyścić ze śniegu tylko przednią szybę w pojeździe": "Очистить от снега только переднее стекло в транспортном средстве.",
             "Oczyścić ze śniegu tylko szyby w pojeździe": "Очистить от снега только стекла в транспортном средстве.",
             "Oczyścić ze śniegu wszystkie szyby, pokrywę silnika, dach i lusterka": "Очистить от снега все стекла, капот, крышу и зеркала.",
-            "Którą z wymienionych czynności masz obowiązek wykonać przed rozpoczęciem jazdy widocznym pojazdem?": "Какое из перечисленных действий вы обязаны выполнить перед началом движения на видимом транспортном средстве?"
+            "Którą z wymienionych czynności masz obowiązek wykonać przed rozpoczęciem jazdy widocznym pojazdem?": "Какое из перечисленных действий вы обязаны выполнить перед началом движения на видимом транспортном средстве?",
+            "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
+            "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": "Какой траекторию движения следует выбрать на начальном этапе прохождения показанного поворота налево?",
+            "Maksymalnie zjeżdżając do środka jezdni, najeżdżając na podwójną ciągłą linię": "Максимально съезжая к середине проезжей части, наезжая на двойную сплошную линию.",
+            "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
+            "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части."
         }
     },
     "not_approved": {
@@ -3516,7 +3521,6 @@
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
-        "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
         "Minimalnie 1 m": "Минимум 1 м.",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
@@ -3857,7 +3861,6 @@
         "Czy kierujący pojazdem poruszającym się prawym pasem ruchu po ominięciu tego znaku ma obowiązek umożliwić Tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе движения после объезда этого знака, уступить вам возможность смены полосы движения?",
         "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче.",
         "Nadjeżdżający pojazd ma nas po prawej stronie": "Приближающееся ТС имеет нас справа.",
-        "Zalegająca na nawierzchni woda może doprowadzić do utraty kontroli nad pojazdem": "Вода, скопившаяся на поверхности дороги, может привести к потере контроля над транспортным средством.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność a w razie potrzeby zatrzymać się?": "В данной ситуации следует ли вам проявлять особую осторожность и, при необходимости, остановиться?",
         "Zamierzasz skręcić w lewo, a pojazd nadjeżdżający z prawej strony chce jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а ТС, приближающееся справа, хочет ехать прямо. У вас есть преимущество перед ним?",
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
@@ -3943,9 +3946,6 @@
         "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa autobusowi jadącemu z przeciwka na wprost?": "Вы собираетесь повернуть налево на перекрестке. Обязаны ли вы уступить дорогу автобусу, идущему навстречу прямо?",
         "Czy skręcając w lewo na tym skrzyżowaniu należy zachować szczególną ostrożność?": "Нужно ли проявлять особую осторожность, поворачивая налево на этом перекрестке?",
         "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?",
-        "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части.",
-        "Maksymalnie zjeżdżając do środka jezdni, najeżdżając na podwójną ciągłą linię": "Максимально съезжая к середине проезжей части, наезжая на двойную сплошную линию.",
-        "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": "Какой траекторию движения следует выбрать на начальном этапе прохождения показанного поворота налево?",
         "Rzeczywistej masy całkowitej samochodu": "Фактическая полная масса автомобиля.",
         "Masy własnej samochodu": "Масса собственная автомобиля.",
         "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
