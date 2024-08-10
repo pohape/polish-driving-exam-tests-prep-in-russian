@@ -3316,7 +3316,8 @@
             "Na autostradzie": "На автостраде.",
             "Zabrania się holowania pojazdu na autostradzie, z wyjątkiem holowania przez pojazdy przeznaczone do holowania do najbliższego wyjazdu lub miejsca obsługi podróżnych": "Запрещается буксировка транспортного средства на автостраде, за исключением буксировки специально предназначенными для этого транспортными средствами до ближайшего выезда или места обслуживания путешественников.",
             "Tak, ale jadąc z maksymalną prędkością 20 km\/h": "Да, но двигаясь с максимальной скоростью 20 км\/ч.",
-            "Zabrania się holowania na własną rękę na autostradzie": "Запрещается буксировать самостоятельно на автостраде."
+            "Zabrania się holowania na własną rękę na autostradzie": "Запрещается буксировать самостоятельно на автостраде.",
+            "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч."
         }
     },
     "not_approved": {
@@ -4124,7 +4125,6 @@
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
-        "Przewożąc motorowerem pasażera poniżej 7 roku życia nie można przekroczyć 40 km\/h": "Перевозя на мопеде пассажира младше 7 лет, нельзя превышать 40 км\/ч.",
         "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
