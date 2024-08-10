@@ -3434,7 +3434,9 @@
             "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
             "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
             "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
-            "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается лицо:",
+            "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается персона:",
+            "która czuje się skrępowana pasami": "которая чувствует себя скованной ремнями безопасности",
+            "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле",
             "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,",
             "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске."
         }
@@ -4409,8 +4411,6 @@
         "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка.",
         "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
         "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
-        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч.",
-        "która czuje się skrępowana pasami": "которая чувствует себя скованной ремнями безопасности.",
-        "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле,"
+        "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч."
     }
 }
