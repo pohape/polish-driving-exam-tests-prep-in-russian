@@ -3201,7 +3201,12 @@
             "Zwiększone zużycie paliwa": "Увеличенный расход топлива.",
             "Pogorszenie widoczności drogi w nocy": "Ухудшение видимости дороги ночью.",
             "Zwiększone zużycie żarówek": "Увеличенный расход лампочек.",
-            "Dobrze wyregulowane reflektory mają za zadanie oświetlać drogę przed pojazdem": "Хорошо отрегулированные фары должны освещать дорогу перед транспортным средством."
+            "Dobrze wyregulowane reflektory mają za zadanie oświetlać drogę przed pojazdem": "Хорошо отрегулированные фары должны освещать дорогу перед транспортным средством.",
+            "mijania": "ближнего света.",
+            "drogowych": "дальнего света.",
+            "pozycyjnych": "габаритов.",
+            "Widoczna niebieska lampka kontrolna informuje Cię o włączeniu świateł:": "Видимая синяя контрольная лампа информирует тебя о включении фар:",
+            "Kontrolka barwy niebieskiej informuje o działaniu świateł drogowych": "Индикатор синего цвета информирует о работе дальнего света фар."
         }
     },
     "not_approved": {
@@ -3473,10 +3478,6 @@
         "Powinna ona pamiętać numer tego dokumentu i podać go policjantowi podczas kontroli": "Она должна помнить номер этого документа и сообщить его полицейскому во время проверки.",
         "Podczas kontroli nie musi go okazywać policjantowi": "Во время проверки он не обязан предъявлять это полицейскому.",
         "Jakie obowiązki ciążą na osobie, która ma wydane w Polsce prawo jazdy?": "Какие обязанности лежат на лице, которому были выданы в Польше водительские права?",
-        "Widoczna niebieska lampka kontrolna informuje Cię o włączeniu świateł:": "Видимая синяя контрольная лампа информирует тебя о включении фар:",
-        "mijania": "ближнего света.",
-        "pozycyjnych": "габаритов.",
-        "drogowych": "дальнего света.",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
         "Kamizelka odblaskowa": "Светоотражающий жилет.",
