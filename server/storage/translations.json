@@ -3254,7 +3254,8 @@
             "Opona z guzami nadaje się do wyrzucenia": "Шина с буграми подлежит утилизации.",
             "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
             "Prawo jazdy": "Водительское удостоверение.",
-            "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности."
+            "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности.",
+            "Zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy pojazdów złączonych w celu holowania": "Автопоезд - транспортные средства, соединенные между собой для передвижения по дороге как единое целое; не касается транспортных средств, соединенных для буксировки."
         }
     },
     "not_approved": {
@@ -4016,7 +4017,6 @@
         "Na tym skrzyżowaniu pierwszeństwo mają pojazdy poruszające się wokół wyspy. (Ustąp pierwszeństwa przed wjazdem na skrzyżowanie)": "На этом перекрестке преимущество имеют ТС, движущиеся вокруг островка. (Уступи преимущество перед въездом на перекресток)",
         "Wyprzedzanie kilku pojazdów nie jest zabronione,": "Обгон нескольких транспортных средств не запрещён.",
         "Znajdujemy się z prawej strony nadjeżdżającego pojazdu": "Мы находимся с правой стороны приближающегося транспортного средства.",
-        "Zespół pojazdów - pojazdy złączone ze sobą w celu poruszania się po drodze jako całość; nie dotyczy pojazdów złączonych w celu holowania": "Автопоезд - транспортные средства, соединенные между собой для передвижения по дороге как единое целое; не касается транспортных средств, соединенных для буксировки.",
         "Obowiązek przewożenia dziecka w foteliku nie obowiązuje gdy dziecko posiada zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "Обязанность перевозить ребенка в автокресле не действует, когда ребенок имеет медицинское свидетельство о противопоказании к перевозке в детском автокресле безопасности или другом удерживающем устройстве для детей.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane": "Детские автокресла и другие удерживающие устройства для детей устанавливаются в транспортном средстве согласно рекомендациям производителя устройства, указывающим, каким образом устройство может быть безопасно использовано.",
         "Czy podczas przewożenia osoby niepełnosprawnej legitymującej się kartą parkingową, karta ta powinna znajdować się za dowolną szybą pojazdu samochodowego?": "Должна ли при транспортировке инвалида, имеющего парковочную карту, эта карта находиться за любым стеклом автомобиля?",
