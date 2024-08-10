@@ -3297,7 +3297,12 @@
             "Korzystać z radia CB": "Использовать радио CB.",
             "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санках.",
             "Zabrania się kierującemu ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Запрещается водителю буксировать за транспортным средством лицо на лыжах, санках, роликах или другом подобном устройстве.",
-            "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения."
+            "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения.",
+            "Czy naruszasz przepisy ruchu drogowego, jeżeli kierując pojazdem rozmawiasz przez telefon trzymając go w ręku?": "Нарушаешь ли ты правила дорожного движения, если, управляя транспортным средством, разговариваешь по телефону, держа его в руке?",
+            "Nie, pod warunkiem panowania nad pojazdem": "Нет, при условии контроля над ТС.",
+            "Nie, pod warunkiem, że telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Нет, при условии, что телефон держу далеко от уха с включенным режимом громкой связи.",
+            "Tak, nawet wówczas gdy telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Да, даже когда я держу телефон вдали от уха с включенным громкоговорящим режимом.",
+            "Prawo jazdy kategorii B uprawnia do kierowania pojazdem samochodowym. Jest on przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;": "Водительское удостоверение категории B дает право управлять моторным транспортным средством. Оно конструктивно предназначено для перевозки не более чем 9 человек вместе с водителем, а также их багажа;"
         }
     },
     "not_approved": {
@@ -3844,7 +3849,6 @@
         "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
         "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
-        "Prawo jazdy kategorii B uprawnia do kierowania pojazdem samochodowym. Jest on przeznaczony konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą oraz ich bagażu;": "Водительское удостоверение категории B дает право управлять моторным транспортным средством. Оно конструктивно предназначено для перевозки не более чем 9 человек вместе с водителем, а также их багажа;",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
         "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии.",
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "У вас есть преимущество перед ТС, приближающимся слева?",
@@ -3961,9 +3965,6 @@
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?",
         "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przekroczenie prędkości o więcej niż 50 km\/h w obszarze zabudowanym?": "На какой срок староста продлит период временного изъятия водительского удостоверения, если тебя остановили для проверки, когда ты управлял транспортным средством, несмотря на то, что ранее изъяли у тебя право управления на три месяца за превышение скорости более чем на 50 км\/ч в населённом пункте?",
         "Czy masz obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu?": "Обязаны ли вы соблюдать безопасную дистанцию от обгоняемого транспортного средства?",
-        "Nie, pod warunkiem, że telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Нет, при условии, что телефон держу далеко от уха с включенным режимом громкой связи.",
-        "Tak, nawet wówczas gdy telefon trzymam oddalony od ucha z włączonym trybem głośnomówiącym": "Да, даже когда я держу телефон вдали от уха с включенным громкоговорящим режимом.",
-        "Czy naruszasz przepisy ruchu drogowego, jeżeli kierując pojazdem rozmawiasz przez telefon trzymając go w ręku?": "Нарушаешь ли ты правила дорожного движения, если, управляя транспортным средством, разговариваешь по телефону, держа его в руке?",
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
         "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
