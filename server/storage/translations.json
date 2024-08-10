@@ -3427,7 +3427,8 @@
             "Na jak długo pokwitowanie zatrzymania prawa jazdy za przekroczenie dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h uprawnia do kierowania pojazdem?": "На какой срок свидетельство о временном изъятии водительского удостоверения за превышение допустимой скорости в населенном пункте более чем на 50 км\/ч дает право на управление транспортным средством?",
             "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
             "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
-            "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале."
+            "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
+            "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?"
         }
     },
     "not_approved": {
@@ -3708,7 +3709,6 @@
         "Zanieczyszczony wkład filtra powietrza": "Загрязнённый элемент воздушного фильтра.",
         "Przegrzewające się elektrody świec zapłonowych": "Перегревающиеся электроды свечей зажигания.",
         "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?": "Какая из перечисленных неисправностей делает безопасное использование автомобиля в дорожном движении невозможным?",
-        "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
         "Zajmowany pas służy do skrętu w prawo": "Занятая полоса предназначена для поворота направо.",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
