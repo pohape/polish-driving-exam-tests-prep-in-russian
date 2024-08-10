@@ -26,7 +26,8 @@
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
-        "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать."
+        "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми."
     },
     "approved": {
         "upewninie się": {
@@ -3264,7 +3265,9 @@
             "Dodatkowemu badaniu technicznemu podlega pojazd skierowany przez organ kontroli ruchu drogowego": "Дополнительному техническому осмотру подлежит транспортное средство, направленное органом контроля дорожного движения.",
             "W podstawowej lub okręgowej stacji kontroli pojazdów": "На базовой или окружной станции технического осмотра транспортных средств.",
             "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
-            "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом."
+            "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
+            "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
+            "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом."
         }
     },
     "not_approved": {
@@ -3707,7 +3710,6 @@
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
-        "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
@@ -3933,7 +3935,6 @@
         "Dowód rejestracyjny stwierdza dopuszczenie pojazdu samochodowego do ruchu": "Свидетельство о регистрации подтверждает допуск автомобиля к участию в движении.",
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
-        "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
         "Zmień kategorię prawa jazdy &nbsp;&nbsp;A &nbsp;&nbsp;B &nbsp;&nbsp;C &nbsp;&nbsp;D &nbsp;&nbsp;T": "Измените категорию водительских прав A B C D T",
@@ -4378,7 +4379,6 @@
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
-        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми."
+        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?"
     }
 }
