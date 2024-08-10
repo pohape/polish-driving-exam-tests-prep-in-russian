@@ -32,7 +32,8 @@
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "Полицейский временно изъял водительское удостоверение за перевозку пассажиров в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
         "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
-        "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте."
+        "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
+        "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле,"
     },
     "approved": {
         "starosta": {
@@ -3430,7 +3431,12 @@
             "Jakie konsekwencje grożą kierującemu za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym, który będzie kierował pojazdem silnikowym mimo decyzji o zatrzymaniu prawa jazdy?": "Какие последствия грозят водителю за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте, который будет управлять моторным транспортным средством, несмотря на решение о приостановлении водительских прав?",
             "Jeżeli jadący z tyłu kierowca drugim pojazdem za pomocą świateł ostrzegawczych i sygnału dźwiękowego dawał znaki do zwiększenia prędkości": "Если водитель, следующий позади вторым транспортным средством, давал знаки к увеличению скорости с помощью предупреждающих огней и звукового сигнала.",
             "Jeżeli kierujący zwiększył prędkość w celu szybszego zjechania ze skrzyżowania dróg przy świecącym się sygnale zielonym": "Если водитель увеличил скорость с целью более быстрого съезда с перекрестка при горящем зеленом сигнале.",
-            "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?"
+            "W jakim przypadku nie zostanie zatrzymane prawo jazdy za przekroczenie dozwolonej prędkości o więcej niż 50 km\/h na obszarze zabudowanym?": "В каком случае не будет изъято водительское удостоверение за превышение разрешенной скорости более чем на 50 км\/ч в населенном пункте?",
+            "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
+            "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
+            "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
+            "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается лицо:",
+            "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,"
         }
     },
     "not_approved": {
@@ -3636,7 +3642,6 @@
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
-        "W przypadku aktywnej poduszki w foteliku przodem do kierunku": "В случае активной подушки: в кресле, лицом в направлении движения.",
         "Czy w tej sytuacji wolno Ci wykonać manewr wyprzedzania?": "В данной ситуации разрешается ли вам выполнить маневр обгона?",
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
@@ -3730,10 +3735,8 @@
         "Te pojazdy poruszają się drogą podporządkowaną": "Эти транспортные средства движутся по второстепенной дороге.",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem z przeciwka będzie jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы намереваетесь повернуть налево, а водитель встречного ТС будет ехать прямо. У вас есть перед ним преимущество?",
         "Czy w tej sytuacji, wjeżdżając na sąsiedni pas ruchu, masz pierwszeństwo?": "Есть ли у вас преимущество в этой ситуации, въезжая на соседнюю полосу движения?",
-        "Zatrzymanie prawa jazdy na okres 3 miesięcy i kontrolne sprawdzenie kwalifikacji": "Отзыв водительских прав на срок 3 месяца и контрольная проверка квалификации.",
         "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
         "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
-        "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
@@ -4376,9 +4379,6 @@
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя инвалида, имеющего парковочную карту, можно не соблюдать запрещающий знак.",
         "Czy w tej sytuacji wolno Ci zatrzymać pojazd na powierzchni wyłączonej z ruchu?": "В этой ситуации разрешено ли вам остановить транспортное средство на поверхности, исключенной из движения?",
         "Wyprzedzanie uniemożliwia linia podwójna ciągła": "Обгон невозможен из-за двойной сплошной линии",
-        "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,",
-        "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле,",
-        "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba:": "От обязанности пользоваться ремнями безопасности в автомобиле освобождается лицо:",
         "która czuje się skrępowana pasami": "которая чувствует себя стеснённой ремнями.",
         "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске.",
         "Czy na tym skrzyżowaniu, zamierzając zawrócić, jesteś obowiązany ustąpić pierwszeństwa wjeżdżającemu na nie pojazdowi?": "На этом перекрестке, намереваясь развернуться, обязаны ли вы уступить дорогу ТС, въезжающему на него?",
