@@ -27,7 +27,8 @@
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Właściciel lub posiadacz pojazdu jest obowiązany wskazać na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, chyba że pojazd został użyty wbrew jego woli i wiedzy przez nieznaną osobę, czemu nie mógł zapobiec": "Владелец или владелец (пользователь) транспортного средства обязан по требованию уполномоченного органа указать, кому он доверил управление или использование транспортного средства в указанный период времени, если только транспортное средство не было использовано против его воли и без его ведома неизвестным лицом, в чем он не мог помешать.",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнализационные устройства, регистрационные таблички или другие требуемые таблички или знаки, которые должны быть видимыми.",
+        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения."
     },
     "approved": {
         "upewninie się": {
@@ -3273,7 +3274,9 @@
             "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
             "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
             "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
-            "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?"
+            "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?",
+            "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
+            "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах."
         }
     },
     "not_approved": {
@@ -3795,7 +3798,6 @@
         "Czy w tej sytuacji, podczas zawracania wystąpi kolizja z innymi uczestnikami ruchu?": "Произойдет ли в этой ситуации, во время разворота, столкновение с другими участниками движения?",
         "Czy w tej sytuacji dozwolony jest przejazd przez skrzyżowanie bez zmniejszenia prędkości pojazdu?": "В данной ситуации разрешен ли проезд через перекресток без снижения скорости транспортного средства?",
         "Czy w tej sytuacji masz prawo wyprzedzać samochód ciężarowy?": "Имеешь ли ты право в данной ситуации обгонять грузовой автомобиль?",
-        "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
         "Czy w tej sytuacji wykonałeś manewr wyprzedzania?": "Выполнили ли вы в этой ситуации маневр обгона?",
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
         "Czy w przedstawionej sytuacji wyprzedzanie jest dozwolone?": "Разрешён ли обгон в представленной ситуации?",
@@ -4172,8 +4174,6 @@
         "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Tak w każdym przypadku": "В каждом случае.",
-        "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
-        "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основе национального водительского удостоверения.",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
         "Profesjonalny dowód rejestracyjny": "Профессиональное свидетельство регистрации.",
@@ -4380,6 +4380,7 @@
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
-        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?"
+        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
     }
 }
