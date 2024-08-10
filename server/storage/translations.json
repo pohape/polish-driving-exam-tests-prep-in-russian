@@ -3267,7 +3267,11 @@
             "Badanie techniczne jest przeprowadzane w podstawowej lub okręgowej stacji kontroli pojazdów": "Технический осмотр проводится на базовой или окружной станции технического осмотра транспортных средств.",
             "Tak, gdy tablica jest przesłonięta przez wystający ładunek": "Да, когда знак закрыт выступающим грузом.",
             "Pojazd zarejestrowany za granicą uczestniczący w ruchu na terytorium Rzeczypospolitej Polskiej powinien być oznaczony znakiem określającym państwo, w którym jest zarejestrowany": "Транспортное средство, зарегистрированное за границей и участвующее в движении на территории Республики Польша, должно быть обозначено знаком, указывающим страну регистрации.",
-            "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом."
+            "Zabrania się kierującemu używania pojazdu w sposób powodujący uciążliwości związane z nadmierną emisją spalin do środowiska lub nadmiernym hałasem": "Запрещается водителю использовать транспортное средство таким образом, чтобы это вызывало неудобства, связанные с чрезмерным выбросом выхлопных газов в окружающую среду или с чрезмерным шумом.",
+            "Międzynarodowe prawo jazdy jest wydawane na okres 3 lat, nie dłużej jednak niż na okres ważności krajowego prawa jazdy": "Международное водительское удостоверение выдается на срок 3 года, но не дольше срока действия национального водительского удостоверения.",
+            "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
+            "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
+            "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных."
         }
     },
     "not_approved": {
@@ -3966,9 +3970,6 @@
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
         "Byłoby to nieuzasadnione użycie sygnału dźwiękowego": "Это было бы необоснованным использованием звукового сигнала.",
         "Oznakowanie poziome na jezdni uniemożliwia zmianę pasa": "Наземная (горизонтальная) разметка на проезжей части не позволяет сменить полосу.",
-        "Tak, ponieważ masz 30 dni na aktualizację danych": "Да, потому что у вас есть 30 дней на обновление данных.",
-        "Tak, jeśli minął dopiero tydzień": "Да, если прошла только неделя.",
-        "Czy masz prawo kierować pojazdem, jeśli Twoje prawo jazdy jest nieważne?": "Имеешь ли ты право управлять транспортным средством, если твои водительские права недействительны?",
         "Czy w przedstawionej sytuacji skręcając w prawo masz obowiązek ustąpić pierwszeństwa pieszemu?": "Есть ли у вас обязанность уступить дорогу пешеходу, когда поворачиваете направо в данной ситуации?",
         "Czy podczas kierowania pojazdem masz obowiązek stale zachowywać ostrożność?": "Следует ли вам всегда проявлять осторожность при вождении транспортного средства?",
         "Czy w tej sytuacji, chcąc bezpiecznie wykonać manewr omijania, masz obowiązek zmniejszyć prędkość pojazdu?": "В данной ситуации, желая безопасно выполнить маневр объезда, обязан ли ты снизить скорость ТС?",
