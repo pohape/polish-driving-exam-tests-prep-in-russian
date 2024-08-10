@@ -3276,7 +3276,8 @@
             "Tak, pod warunkiem jazdy z maksymalną prędkością 30 km\/h": "Да, при условии движения с максимальной скоростью 30 км\/ч.",
             "Czy w celu wydania międzynarodowego prawa jazdy powinieneś zgłosić się do wojewody?": "Должны ли вы обратиться к воеводе с целью получения международного водительского удостоверения?",
             "Nie, takie prawo jazdy wydaje starosta": "Нет, такое водительское удостоверение выдает староста.",
-            "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах."
+            "Dozwolona liczba przewożonych osób jest określona w dowodzie rejestracyjnym": "Допустимое количество перевозимых людей указано в регистрационных документах.",
+            "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта."
         }
     },
     "not_approved": {
@@ -3463,7 +3464,6 @@
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz jechać na wprost. Czy poruszasz się prawidłowym pasem ruchu?": "В представленной ситуации на ближайшем перекрестке вы собираетесь ехать прямо. Вы двигаетесь по правильной полосе движения?",
         "Czy w widocznej sytuacji konieczne jest włączenie kierunkowskazu w celu zasygnalizowania zmiany pasa ruchu?": "Необходимо ли в данной видимой ситуации включение указателя поворота для сигнализации о смене полосы движения?",
-        "Tak, ale tylko poza obszarem zabudowanym": "Да, но только вне населенного пункта.",
         "Nie wolno": "Не разрешается.",
         "Tak, jeżeli wzrost dziecka wynosi co najmniej 135 cm": "Да, если рост ребенка составляет не менее 135 см.",
         "Tak, ale tylko na tylnym siedzeniu": "Да, но только на заднем сиденье.",
