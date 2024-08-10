@@ -3174,7 +3174,10 @@
             "Zwiększyć odległość od poprzedzającego pojazdu": "Увеличить дистанцию от впереди идущего ТС.",
             "Zmniejszyć odległość od poprzedzającego pojazdu": "Уменьшить расстояние от впереди идущего ТС.",
             "Poruszasz się autostradą i zamierzasz ją opuścić. Czy hamowanie rozpoczniesz po wjeździe na pas wyłączenia (zjazdu)?": "Вы движетесь по автостраде и собираетесь её покинуть. Начнёте ли вы торможение после въезда на полосу съезда?",
-            "Jest to prawidłowe zachowanie w stosunku do innych kierujących. Dzięki temu nie będą musieli hamować kierowcy, którzy będą kontynuować jazdę autostradą": "Это правильное поведение по отношению к другим водителям. Благодаря этому не будут вынуждены тормозить водители, которые будут продолжать движение по автостраде."
+            "Jest to prawidłowe zachowanie w stosunku do innych kierujących. Dzięki temu nie będą musieli hamować kierowcy, którzy będą kontynuować jazdę autostradą": "Это правильное поведение по отношению к другим водителям. Благодаря этому не будут вынуждены тормозить водители, которые будут продолжать движение по автостраде.",
+            "Czy skręcając w lewo na tym skrzyżowaniu, masz pierwszeństwo przed pojazdem jadącym z przeciwka?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
+            "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
+            "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?"
         }
     },
     "not_approved": {
@@ -3268,7 +3271,6 @@
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
-        "Czy zjeżdżając z drogi publicznej na parking włączasz się do ruchu?": "Когда вы едете с дороги общего пользования на парковку, вы включаетесь в движение?",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
@@ -4026,7 +4028,6 @@
         "Czy wolno Ci położyć bezpośrednio na ranę kompres z wyjałowionej gazy?": "Разрешается ли тебе положить прямо на рану компресс из стерильной повязки?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed rowerzystą?": "У вас есть преимущество перед велосипедистом, если вы едете прямо на этом перекрестке?",
         "Czy na tym odcinku jezdni jednokierunkowej wolno Ci wyprzedzić pojazd z prawej strony?": "Разрешено ли тебе обгонять транспортное средство с правой стороны на этом участке дороги с односторонним движением?",
-        "Czy skręcając w lewo na tym skrzyżowaniu, masz pierwszeństwo przed pojazdem jadącym z przeciwka?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
         "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
         "Czy zbliżając się do przejścia dla pieszych masz obowiązek obserwować jego otoczenie?": "Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его обстановкой?",
         "Różne pola widzenia kierowców, widoczność kierowców motocykli": "Разные поля зрения водителей, видимость водителей мотоциклов.",
@@ -4356,7 +4357,6 @@
         "Czy w tej sytuacji kierujący pojazdem poruszającym się prawym pasem ruchu jest obowiązany umożliwić tobie zmianę pasa ruchu ?": "Обязан ли водитель транспортного средства, движущегося по правой полосе, позволить вам сменить полосу движения в этой ситуации?",
         "Czy ten sygnał oznacza, że podczas jazdy w lewo nie występuje kolizja z innymi uczestnikami ruchu?": "Означает ли этот сигнал, что при повороте налево не возникает столкновений с другими участниками движения?",
         "Włączanie się do ruchu następuje przy wjeżdżaniu na jezdnię z pobocza": "Включение в движение происходит при въезде на проезжую часть с обочины.",
-        "Włącznie nastąpiłoby przy wyjeździe z parkingu": "Включение произошло бы при выезде с парковки.",
         "Zamierzasz skręcić w lewo, a kierujący pojazdem nadjeżdżającym z przeciwka planuje jechać na wprost. Czy masz przed nim pierwszeństwo?": "Вы собираетесь повернуть налево, а водитель приближающегося встречного ТС планирует ехать прямо. У вас есть преимущество перед встречным ТС?",
         "Czy w tej sytuacji musisz umożliwić włączenie się do ruchu pojazdowi ciężarowemu?": "В этой ситуации вы должны позволить грузовому автомобилю включиться в движение?",
         "Czy podczas wyprzedzania hulajnogi elektrycznej masz obowiązek zachować odstęp nie mniejszy niż jeden metr?": "Во время обгона электрического самоката вы обязаны соблюдать дистанцию не менее одного метра?",
