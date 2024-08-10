@@ -21,7 +21,9 @@
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
         "Włączenie świateł drogowych": "Включение фар ближнего света.",
-        "Zdecydowanie przyhamować": "Определенно притормозить."
+        "Zdecydowanie przyhamować": "Определенно притормозить.",
+        "O dowolnym tonie": "На любом тоне.",
+        "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне."
     },
     "approved": {
         "upewninie się": {
@@ -3185,7 +3187,12 @@
             "Poprawiają widoczność pojazdu w gęstej mgle ograniczającej widoczność do 50 m": "Улучшают видимость транспортного средства в густом тумане, снижающем видимость до 50 м.",
             "Światło cofania (barwy białej) oświetla drogę z tyłu pojazdu i sygnalizuje wykonywanie manewru cofania": "Свет движения задним ходом (белого цвета) освещает дорогу сзади транспортного средства и сигнализирует о выполнении маневра движения задним ходом.",
             "Jaką funkcję w pojeździe samochodowym pełnią światła cofania?": "Какую функцию в транспортном средстве выполняют огни заднего хода?",
-            "Pogorszenie widoczności drogi w czasie deszczu": "Ухудшение видимости дороги во время дождя."
+            "Pogorszenie widoczności drogi w czasie deszczu": "Ухудшение видимости дороги во время дождя.",
+            "Jaki może być skutek używania uszkodzonych lub zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования поврежденных или изношенных щеток стеклоочистителей в автомобиле?",
+            "Zmniejszenie zużycia płynu do spryskiwaczy": "Уменьшение расхода жидкости для омывателей.",
+            "Zużyte pióra nieskutecznie usuwają wodę z szyb samochodu. Wpływa to na pogorszenie widoczności w czasie opadów": "Изношенные щетки стеклоочистителя неэффективно удаляют воду с окон автомобиля. Это влияет на ухудшение видимости во время осадков.",
+            "Jakiego sygnału dźwiękowego możesz używać w pojeździe samochodowym?": "Какой звуковой сигнал ты можешь использовать в автомобиле?",
+            "Pojazd samochodowy wyposaża się w sygnał dźwiękowy o ciągłym i nieprzeraźliwym tonie": "Автомобиль оснащается звуковым сигналом с непрерывным и негромким тоном."
         }
     },
     "not_approved": {
@@ -3977,10 +3984,6 @@
         "Na przejściu nie ma żadnych pieszych": "На переходе нет никаких пешеходов.",
         "Zakaz obowiązuje po tej stronie drogi, po której ustawiono znak": "Запрет действует по той стороне дороги, по которой установлен знак.",
         "W pobliżu przystanku autobusowego należy zachować szczególną ostrożność": "Вблизи остановки автобуса следует соблюдать особую осторожность.",
-        "Zmniejszenie zużycia płynu do spryskiwaczy": "Уменьшение расхода жидкости для омывателей.",
-        "Zmniejszenie zużycia akumulatora": "Уменьшение потребления аккумулятора.",
-        "Jaki może być skutek używania uszkodzonych lub zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования поврежденных или изношенных щеток стеклоочистителей в автомобиле?",
-        "Zużyte pióra nieskutecznie usuwają wodę z szyb samochodu. Wpływa to na pogorszenie widoczności w czasie opadów": "Изношенные щетки стеклоочистителя неэффективно удаляют воду с окон автомобиля. Это влияет на ухудшение видимости во время осадков.",
         "Czy w przedstawionej sytuacji powinieneś ustąpić pierwszeństwa pojazdowi z prawej strony?": "Вы должны уступить дорогу ТС, приближающемуся справа в данной ситуации?",
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek usunąć się z drogi przejazdu pojazdu uprzywilejowanego ?": "В этой ситуации водитель транспортного средства номер 1 обязан уступить дорогу транспортному средству с преимущественным правом проезда?",
         "Jedziesz na wprost, a motocyklista chce skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а мотоциклист хочет повернуть налево. Обязаны ли вы уступить ему преимущество?",
@@ -4304,11 +4307,6 @@
         "Nie należy się zatrzymywać jeśli możliwy jest jednoczesny przejazd obu pojazdów z zachowaniem bezpiecznych odstępów": "Не следует останавливаться, если возможен одновременный проезд обоих транспортных средств с соблюдением безопасных дистанций.",
         "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?": "На автостраде ты обязан включить аварийные огни остановленного из-за аварии транспортного средства, которым управляешь?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
-        "O dowolnym tonie": "На любом тоне.",
-        "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
-        "O zmiennym tonie": "О переменном тоне.",
-        "Jakiego sygnału dźwiękowego możesz używać w pojeździe samochodowym?": "Какой звуковой сигнал ты можешь использовать в автомобиле?",
-        "Pojazd samochodowy wyposaża się w sygnał dźwiękowy o ciągłym i nieprzeraźliwym tonie": "Автомобиль оснащается звуковым сигналом с непрерывным и негромким тоном.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
@@ -4366,6 +4364,8 @@
         "Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?": "Въезжая на этот перекресток, у вас есть преимущество перед ТС слева?",
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
         "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
-        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане."
+        "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
+        "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
+        "O zmiennym tonie": "О переменном тоне."
     }
 }
