@@ -32,7 +32,8 @@
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "Полицейский временно изъял водительское удостоверение за перевозку пассажиров в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
         "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
-        "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте."
+        "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
+        "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус."
     },
     "approved": {
         "starosta": {
@@ -3467,7 +3468,10 @@
             "Jaki tor jazdy powinieneś obrać w początkowej fazie pokonywania pokazanego zakrętu w lewo?": "Какой траекторию движения следует выбрать на начальном этапе прохождения показанного поворота налево?",
             "Maksymalnie zjeżdżając do środka jezdni, najeżdżając na podwójną ciągłą linię": "Максимально съезжая к середине проезжей части, наезжая на двойную сплошную линию.",
             "Zjeżdżając do środka jezdni, ale nie przekraczając podwójnej ciągłej linii": "Съезжая в центр проезжей части, но не пересекая двойную сплошную линию.",
-            "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части."
+            "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части.",
+            "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
+            "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
+            "Hamowanie silnikiem zmniejsza zużycie paliwa": "Торможение двигателем уменьшает расход топлива."
         }
     },
     "not_approved": {
@@ -3561,7 +3565,6 @@
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
-        "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
@@ -3951,7 +3954,6 @@
         "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
         "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?",
         "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости.",
-        "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
         "Czy w tej sytuacji, po wjechaniu za sygnalizator, masz obowiązek zatrzymać się w miejscu wskazanym znakiem \"stop\"?": "В этой ситуации, после въезда за светофор, обязан ли ты остановиться в месте, указанном знаком \"стоп\"?",
@@ -4192,8 +4194,6 @@
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu pojazdowi nadjeżdżającemu z prawej strony?": "В описанной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу ТС, приближающемуся справа?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator, jeżeli nie utrudnisz ruchu pieszym?": "Имеешь ли ты право въехать за светофор в этой ситуации, если не будешь мешать движению пешеходов?",
         "Czy w tej sytuacji masz prawo jechać dalej dopiero po tym, gdy tramwaj ruszy?": "В этой ситуации у тебя есть право продолжить движение только после того, как трамвай тронется?",
-        "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
-        "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для снижения скорости движения.",
         "Czy w tej sytuacji, zmieniając pas ruchu na lewy, masz obowiązek ustąpić pierwszeństwa pojazdom jadącym tym pasem?": "В этой ситуации, перестраиваясь на левую полосу, вы обязаны уступить дорогу ТС, идущим по этой полосе?",
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
         "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
@@ -4415,6 +4415,7 @@
         "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой перед и за транспортным средством.",
         "Niezwłocznie po zauważeniu krawędzi wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как вы заметите край обгоняемого транспортного средства в наружном зеркале.",
         "Niezwłocznie po zauważeniu światła wyprzedzanego pojazdu w lusterku zewnętrznym": "Немедленно после того, как свет обгоняемого автомобиля будет замечен в наружном зеркале.",
-        "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами."
+        "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами.",
+        "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для уменьшения скорости движения."
     }
 }
