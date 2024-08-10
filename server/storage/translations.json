@@ -3382,7 +3382,8 @@
             "Za wymijanie na przejeździe dla rowerzystów": "За встречный разъезд на переезде для велосипедистов.",
             "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km\/h w obszarze zabudowanym, które wydał Ci policjant?": "На какой срок действительно свидетельство о временном изъятии польского водительского удостоверения за превышение скорости более чем на 50 км\/ч в населенном пункте, которое выдал вам полицейский?",
             "72 godziny": "72 часа.",
-            "Pokwitowanie uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство дает право управлять транспортным средством в течение 24 часов с момента временного изъятия."
+            "Pokwitowanie uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство дает право управлять транспортным средством в течение 24 часов с момента временного изъятия.",
+            "O kolejne dwa miesiące": "На следующие два месяца."
         }
     },
     "not_approved": {
@@ -3552,7 +3553,6 @@
         "Jeżeli dziecko ma co najmniej 135 cm wzrostu": "Если ребенок имеет рост не менее 135 см.",
         "Jeżeli w samochodzie tym nie ma możliwości zamontowania fotelika bezpieczeństwa": "Если в этом автомобиле нет возможности установить детское автокресло.",
         "Kiedy wolno przewozić samochodem ciężarowym, na przednim siedzeniu, dziecko mające poniżej 150 cm wzrostu, przytrzymywane jedynie za pomocą pasów bezpieczeństwa?": "Когда разрешается перевозить в грузовом автомобиле, на переднем сидении, ребенка ростом ниже 150 сантиметров, удерживаемого только с помощью ремней безопасности?",
-        "O kolejne dwa miesiące": "На следующие два месяца.",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
