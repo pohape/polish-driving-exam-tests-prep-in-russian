@@ -3287,7 +3287,10 @@
             "Nie musi być zabezpieczone przed spadnięciem podczas jazdy": "Он не должен быть защищен от падения во время вождения.",
             "Ładunek umieszczony na pojeździe powinien być zabezpieczony przed zmianą położenia": "Груз, размещённый на транспортном средстве, должен быть защищён от перемещения.",
             "Umieszczenie nisko ciężkich bagaży obniży środek ciężkości samochodu co pozytywnie wpłynie na kierowanie": "Размещение низкого тяжелого багажа снизит центр тяжести автомобиля, что положительно повлияет на рулевое управление.",
-            "Ładunek na pojeździe umieszcza się w taki sposób, aby nie zasłaniał świateł, w które pojazd jest wyposażony": "Груз на транспортном средстве располагают таким образом, чтобы он не закрывал световые приборы, которыми оснащено транспортное средство."
+            "Ładunek na pojeździe umieszcza się w taki sposób, aby nie zasłaniał świateł, w które pojazd jest wyposażony": "Груз на транспортном средстве располагают таким образом, чтобы он не закрывал световые приборы, которыми оснащено транспортное средство.",
+            "Czego nie możesz robić kierując samochodem osobowym?": "Что ты не можешь делать, управляя легковым автомобилем?",
+            "Korzystać z radia CB": "Использовать радио CB.",
+            "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях."
         }
     },
     "not_approved": {
@@ -3392,8 +3395,6 @@
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-        "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санях.",
-        "Korzystać z radia CB": "Использовать радио CB.",
         "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
         "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
@@ -3548,7 +3549,6 @@
         "Odbicie własnej twarzy": "Отражение собственного лица.",
         "Tak, ale tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Да, но только в том случае, если транспортное средство движется за пределами населенного пункта.",
         "Czy dorosły pasażer samochodu osobowego przewożony na tylnym siedzeniu ma obowiązek używania pasów bezpieczeństwa?": "Обязан ли взрослый пассажир легкового автомобиля, перевозимый на заднем сиденье, пользоваться ремнями безопасности?",
-        "Czego nie możesz robić kierując samochodem osobowym?": "Что ты не можешь делать, управляя легковым автомобилем?",
         "Najbliższy zjazd znajduje się w odległości 3 km. Ten dystans umożliwi wykonanie manewru wyprzedzania": "Ближайший съезд находится на расстоянии 3 км. Это расстояние позволит выполнить маневр обгона.",
         "Jaki jest właściwy sposób przewożenia noworodka samochodem osobowym?": "Какой правильный способ перевозки новорожденного в легковом автомобиле?",
         "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
@@ -4383,6 +4383,7 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
+        "Zabrania się kierującemu ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Запрещается водителю буксировать за транспортным средством лицо на лыжах, санках, роликах или другом подобном устройстве."
     }
 }
