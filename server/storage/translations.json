@@ -3471,7 +3471,9 @@
             "Zbliżyć się do prawej krawędzi jezdni": "Приблизиться к правому краю проезжей части.",
             "Używanie silnika do zmniejszania prędkości jazdy": "Использование двигателя для уменьшения скорости движения.",
             "Częsta zmiana biegów, w celu utrzymania wysokich obrotów silnika": "Частое переключение передач для поддержания высоких оборотов двигателя.",
-            "Hamowanie silnikiem zmniejsza zużycie paliwa": "Торможение двигателем уменьшает расход топлива."
+            "Hamowanie silnikiem zmniejsza zużycie paliwa": "Торможение двигателем уменьшает расход топлива.",
+            "Należy dostosować prędkość do panujących warunków": "Необходимо адаптировать скорость к текущим дорожным условиям.",
+            "Kilkakrotne cofając i ruszając do przodu zapewnimy sobie w miarę stabilne podłoże": "Несколько раз двигаясь задним ходом и начиная движение вперед, мы обеспечим себе относительно стабильную поверхность."
         }
     },
     "not_approved": {
@@ -4149,7 +4151,6 @@
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
         "Cofanie w strefie zamieszkania jest dozwolone": "Движение задним ходом в жилой зоне разрешено.",
-        "Należy dostosować prędkość do panujących warunków": "Необходимо адаптировать скорость к текущим дорожным условиям.",
         "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя.",
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
