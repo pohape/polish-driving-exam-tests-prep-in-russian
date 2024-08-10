@@ -3306,7 +3306,12 @@
             "Jaka jest maksymalna dopuszczalna odległość, licząc od tylnej płaszczyzny obrysu pojazdu, na którą może wystawać ładunek przewożony pojazdem samochodowym?": "Каково максимально допустимое расстояние, исчисляемое от задней плоскости контура автомобиля, на которое может выступать груз, перевозимый транспортным средством?",
             "Ładunek nie może wystawać z tyłu pojazdu na odległość większą niż 2 m od tylnej płaszczyzny obrysu pojazdu lub zespołu pojazdów": "Груз не может выступать сзади транспортного средства на расстояние большее чем 2 м от задней плоскости контура транспортного средства или автопоезда.",
             "Jaka jest maksymalna dopuszczalna długość zespołu pojazdów składającego się z samochodu osobowego i przyczepy kempingowej?": "Какова максимальная допустимая длина автопоезда, состоящего из легкового автомобиля и кемпингового прицепа?",
-            "Dopuszczalna długość zespołu pojazdów składającego się z pojazdu i przyczepy wynosi 18,75 m": "Допустимая длина автопоезда, состоящего из автомобиля и прицепа, составляет 18,75 м."
+            "Dopuszczalna długość zespołu pojazdów składającego się z pojazdu i przyczepy wynosi 18,75 m": "Допустимая длина автопоезда, состоящего из автомобиля и прицепа, составляет 18,75 м.",
+            "Jakiej barwy chorągiewką wolno Ci oznaczyć ładunek wystający z tyłu samochodu osobowego?": "Какого цвета флажком ты можешь пометить груз, выступающий сзади автомобиля?",
+            "Zieloną": "Зелёную.",
+            "Żółtą": "Жёлтая.",
+            "Czerwoną": "Красная.",
+            "Ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm": "Груз, выступающий сзади автомобиля или прицепа, буксируемого автомобилем, должен быть обозначен красным флагом размером не менее 50 х 50 см."
         }
     },
     "not_approved": {
@@ -3996,11 +4001,6 @@
         "Za wymijanie na przejeździe dla rowerzystów": "За встречный разъезд на переезде для велосипедистов.",
         "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "Полицейский временно изъял водительское удостоверение за перевозку пассажиров в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
-        "Czerwoną": "Красная.",
-        "Zieloną": "Зелёную.",
-        "Żółtą": "Жёлтая.",
-        "Jakiej barwy chorągiewką wolno Ci oznaczyć ładunek wystający z tyłu samochodu osobowego?": "Какого цвета флажком ты можешь пометить груз, выступающий сзади автомобиля?",
-        "Ładunek wystający z tyłu samochodu osobowego lub przyczepy ciągniętej przez samochód osobowy może być oznaczony chorągiewką barwy czerwonej o wymiarach co najmniej 50 x 50 cm": "Груз, выступающий сзади автомобиля или прицепа, буксируемого автомобилем, должен быть обозначен красным флагом размером не менее 50 х 50 см.",
         "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
         "powinien zostawić jedno wolne stanowisko postojowe,": "Вы должны оставить одно свободное место для стоянки.",
         "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "он обязан соблюдать способ стоянки, указанный дорожными знаками,",
