@@ -721,6 +721,7 @@
             "Odpowiednio dobrana do panujących warunków opona zdecydowanie poprawia właściwości jezdne": "Правильно подобранная к текущим уловиям шина заметно улучшает ходовые свойства."
         },
         "others": {
+            "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
             "Jodynę i gencjanę": "Йод и раствор генцианового фиолета (это специальный антисептик).",
             "Strzałka naprowadzająca oznacza nakaz wjazdu na sąsiedni pas ruchu wskazany strzałką; nie dotyczy to kierujących pojazdami, dla których jest przeznaczony dalszy odcinek pasa ruchu": "Стрелка-указатель означает обязательство въехать на соседнюю полосу движения, указанную стрелкой; это не касается водителей транспортных средств, для которых предназначен более дальний участок полосы движения.",
             "Czy ze względów bezpieczeństwa wskazane jest, aby używając gaśnicy samochodowej, unikać pełnego otwarcia pokrywy komory silnika?": "С точки зрения безопасности предписано, используя автомобильный огнетушитель, избегать полного открытия капота?",
@@ -3582,7 +3583,6 @@
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
-        "Tak, ale trzeba uiścić opłatę ewidencyjną": "Да, но необходимо уплатить регистрационный сбор.",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
