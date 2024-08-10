@@ -3290,7 +3290,9 @@
             "Ładunek na pojeździe umieszcza się w taki sposób, aby nie zasłaniał świateł, w które pojazd jest wyposażony": "Груз на транспортном средстве располагают таким образом, чтобы он не закрывал световые приборы, которыми оснащено транспортное средство.",
             "Czego nie możesz robić kierując samochodem osobowym?": "Что ты не можешь делать, управляя легковым автомобилем?",
             "Korzystać z radia CB": "Использовать радио CB.",
-            "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санках."
+            "Ciągnąć za pojazdem osoby na sankach": "Тащить за автомобилем человека на санках.",
+            "Zabrania się kierującemu ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Запрещается водителю буксировать за транспортным средством лицо на лыжах, санках, роликах или другом подобном устройстве.",
+            "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения."
         }
     },
     "not_approved": {
@@ -4173,7 +4175,6 @@
         "ITD w tym zakresie ma takie same uprawnienia co policja": "ИТД (Инспекция Дорожного Транспорта) в этой области имеет такие же полномочия, как и полиция.",
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
         "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
-        "Gaśnica powinna być umieszczona w miejscu łatwo dostępnym w razie potrzeby jej użycia i zabezpieczona przed przemieszczaniem się": "Огнетушитель должен быть расположен в легкодоступном месте на случай необходимости его использования и защищен от перемещения.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Tak w każdym przypadku": "В каждом случае.",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
@@ -4383,7 +4384,6 @@
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
         "O zmiennym tonie": "О переменном тоне.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
-        "Zabrania się kierującemu ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Запрещается водителю буксировать за транспортным средством лицо на лыжах, санках, роликах или другом подобном устройстве."
+        "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?"
     }
 }
