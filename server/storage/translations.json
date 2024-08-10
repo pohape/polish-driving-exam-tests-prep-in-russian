@@ -3383,7 +3383,10 @@
             "Ile czasu jest ważne pokwitowanie zatrzymania polskiego prawa jazdy za przekroczenie prędkości o ponad 50 km\/h w obszarze zabudowanym, które wydał Ci policjant?": "На какой срок действительно свидетельство о временном изъятии польского водительского удостоверения за превышение скорости более чем на 50 км\/ч в населенном пункте, которое выдал вам полицейский?",
             "72 godziny": "72 часа.",
             "Pokwitowanie uprawnia do kierowania pojazdem w okresie 24 godzin od chwili zatrzymania": "Свидетельство дает право управлять транспортным средством в течение 24 часов с момента временного изъятия.",
-            "O kolejne dwa miesiące": "На следующие два месяца."
+            "O kolejne dwa miesiące": "На следующие два месяца.",
+            "Przedłuży okres zatrzymania o kolejne trzy miesiące": "Продлит период временного изъятия на следующие три месяца.",
+            "Przedłuży okres zatrzymania o kolejne cztery miesiące": "Продлит период временного изъятия на следующие четыре месяца.",
+            "Cofnie uprawnienie do kierowania pojazdem": "Отзовет право на управление транспортным средством."
         }
     },
     "not_approved": {
@@ -3866,9 +3869,6 @@
         "Czy w tej sytuacji możesz skręcić w prawo przed tramwajem?": "В данной ситуации можно ли тебе повернуть направо перед трамваем?",
         "Czy na obszarze zabudowanym na jezdni dwukierunkowej o małym ruchu wolno Ci zaparkować pojazd przy lewej krawędzi jezdni?": "Разрешается ли вам припарковать транспортное средство у левого края проезжей части на дороге с двусторонним движением с небольшим движением в населенном пункте?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić z lewej lub prawej strony pojazd jadący przed Tobą?": "Возможно ли в данной ситуации обогнать с левой или правой стороны транспортное средство, движущееся перед вами?",
-        "Przedłuży okres zatrzymania o kolejne trzy miesiące": "Продлит период временного изъятия на следующие три месяца.",
-        "Przedłuży okres zatrzymania o kolejne cztery miesiące": "Продлит период временного изъятия на следующие четыре месяца.",
-        "Cofnie uprawnienie do kierowania pojazdem": "Отзовет право на управление транспортным средством.",
         "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
         "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
         "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?",
@@ -4401,6 +4401,8 @@
         "Jaki dokument jesteś zobowiązany mieć przy sobie i okazywać na żądanie uprawnionego organu?": "Какой документ вы обязаны иметь при себе и предъявлять по требованию уполномоченного органа?",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego": "Полицейский временно изымет водительское удостоверение за перевозку людей в количестве, превышающем на два количество мест, указанных в свидетельстве о регистрации автомобиля.",
         "Za wyprzedzanie przed przejściem dla pieszych, gdzie ruch jest kierowany": "За обгон перед пешеходным переходом, где движение регулируется.",
-        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных в временном разрешении автомобиля."
+        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных в временном разрешении автомобиля.",
+        "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит период временного изъятия водительского удостоверения, если вас задержали для проверки, когда вы управляли транспортным средством, несмотря на то что ранее водительское удостоверение было изъято на три месяца за перевозку на двух человек больше, чем указано в свидетельстве о регистрации автомобиля?",
+        "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами."
     }
 }
