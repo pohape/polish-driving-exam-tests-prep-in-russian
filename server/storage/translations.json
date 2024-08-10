@@ -3245,7 +3245,13 @@
             "Asymetrycznie": "Асимметрично.",
             "Symetrycznie": "Симметрично.",
             "Prostopadle": "Перпендикулярно.",
-            "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично."
+            "Światła mijania oświetlają drogę asymetrycznie": "Ближний свет освещает дорогу асимметрично.",
+            "W jaki sposób oświetlają drogę przed samochodem osobowym światła mijania?": "Каким образом ближний свет фар освещает дорогу перед автомобилем?",
+            "W którym z wymienionych przypadków, masz obowiązek wymienić oponę na nową w samochodzie osobowym?": "В каком из перечисленных случаев, вы обязаны заменить шину на новую в легковом автомобиле?",
+            "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
+            "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
+            "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
+            "Opona z guzami nadaje się do wyrzucenia": "Шина с буграми подлежит утилизации."
         }
     },
     "not_approved": {
@@ -3621,10 +3627,6 @@
         "Takiemu kierowcy grozi zatrzymanie prawa jazdy na okres 3 miesięcy": "Такому водителю грозит изъятие водительских прав на срок 3 месяца.",
         "Czy bezpośrednio za tym znakiem masz prawo zatrzymać pojazd na poboczu, jeżeli nie utrudni to ruchu innych pojazdów?": "Имеешь ли ты право остановить транспортное средство на обочине непосредственно после этого знака, если это не будет мешать движению других транспортных средств?",
         "Czy w tej sytuacji masz obowiązek powstrzymać się od ruchu w celu ustąpienia pierwszeństwa pieszemu wchodzącemu na przejście?": "В данной ситуации вы обязаны воздержаться от движения с целью уступить дорогу пешеходу, входящему на пешеходный переход?",
-        "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
-        "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
-        "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
-        "W którym z wymienionych przypadków, masz obowiązek wymienić oponę na nową w samochodzie osobowym?": "В каком из перечисленных случаев, вы обязаны заменить шину на новую в легковом автомобиле?",
         "Zmniejszenie siły tarcia i wydłużenie drogi hamowania": "Уменьшение силы трения и увеличение тормозного пути.",
         "Wzrost siły tarcia": "Увеличение силы трения.",
         "Jakie mogą być konsekwencje użytkowania opon z nadmiernie zużytym bieżnikiem, podczas hamowania na mokrej nawierzchni?": "Какими могут быть последствия использования шин с чрезмерно изношенным протектором при торможении на мокром дорожном покрытии?",
@@ -4376,7 +4378,6 @@
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне.",
-        "W jaki sposób oświetlają drogę przed samochodem osobowym światła mijania?": "Каким образом ближний свет фар освещает дорогу перед автомобилем?"
+        "O zmiennym tonie": "О переменном тоне."
     }
 }
