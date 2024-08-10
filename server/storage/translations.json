@@ -3439,7 +3439,9 @@
             "przewożąca dziecko w foteliku,": "перевозящая ребенка в детском кресле",
             "niepełnosprawna przewożona w wózku inwalidzkim,": "инвалид, перевозимый в инвалидной коляске,",
             "Z obowiązku korzystania z pasów bezpieczeństwa w samochodzie osobowym zwolniona jest osoba niepełnosprawna przewożona w wózku inwalidzkim": "От обязанности использования ремней безопасности в автомобиле освобождён инвалид, перевозимый в инвалидной коляске.",
-            "Przewożenie osoby niepełnosprawnej samochodem osobowym nie wymaga nieustannego zachowywania szczególnej ostrożności oraz używania specjalnego oświetlenia": "Перевозка инвалида автомобилем не требует постоянного соблюдения особой осторожности и использования специального освещения."
+            "Przewożenie osoby niepełnosprawnej samochodem osobowym nie wymaga nieustannego zachowywania szczególnej ostrożności oraz używania specjalnego oświetlenia": "Перевозка инвалида автомобилем не требует постоянного соблюдения особой осторожности и использования специального освещения.",
+            "Stoczenie się pojazdu": "Скатывание транспортного средства.",
+            "Gwałtowne ruszenie": "Быстрый старт."
         }
     },
     "not_approved": {
@@ -3594,8 +3596,6 @@
         "Czy w tej sytuacji możesz zawrócić bezpośrednio za znakiem?": "В этой ситуации можно развернуться сразу после знака?",
         "Czy jako uczestnik wypadku drogowego, w którym są ranni, masz prawo usunąć pojazd z miejsca zdarzenia, aby nie tamować ruchu?": "Вы имеете право убрать ТС с места происшествия, чтобы не препятствовать движению, будучи участником дорожно-транспортного происшествия, в котором есть пострадавшие?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowanie pieszych?": "В данной ситуации ты обязан наблюдать за поведением пешеходов?",
-        "Gwałtowne ruszenie": "Быстрый старт.",
-        "Stoczenie się pojazdu": "Скатывание транспортного средства.",
         "Zwolnić pedał hamulca": "Отпустить педаль тормоза.",
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
