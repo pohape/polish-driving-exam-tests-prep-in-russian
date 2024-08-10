@@ -4,7 +4,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Niezasłonięty - umieszczony poniżej wysokości burt": "Незаполненный-расположен ниже высоты борта.",
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": "Чем может быть вызван ненормальный люфт (свободный ход) рулевого колеса автомобиля?",
-        "Światłą mijania oznaczone są lampką \"C\"": "Фары ближнего света обозначены лампочкой \"C\".",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
         "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
@@ -25,7 +24,8 @@
         "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
         "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума.",
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
-        "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов."
+        "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
+        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?"
     },
     "approved": {
         "upewninie się": {
@@ -3213,7 +3213,9 @@
             "Nagłe przyspieszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Внезапное ускорение на скользком покрытии связано с риском заноса.",
             "Gwałtowne ruszanie na śliskiej nawierzchni obarczone jest ryzykiem powstania poślizgu": "Резкое начало движения на скользкой поверхности связано с риском возникновения скольжения.",
             "W sytuacji pokonywania ostrego zakrętu i trudności z utrzymaniem oczekiwanego toru jazdy": "В ситуации, когда приходится преодолевать крутой поворот и возникают трудности с сохранением ожидаемой траектории движения.",
-            "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги."
+            "ESP sprawdzi się podczas poślizgu na łuku drogi": "ESP окажется полезным при заносе на изгибе дороги.",
+            "Światłą mijania oznaczone są lampką \"C\"": "Ближний свет обозначается лампочкой \"C\"",
+            "Kierunkowskazy oznaczone są lampką \"A\"": "Поворотники обозначены лампочкой \"A\"."
         }
     },
     "not_approved": {
@@ -4369,7 +4371,6 @@
         "Objawem pęknięcia przewodu hamulcowego jest miękki pedał hamulca": "Признаком разрыва тормозного шланга является мягкая педаль тормоза.",
         "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
         "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне.",
-        "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из лампочек на изображении указывает на включенные ближние световые фары?"
+        "O zmiennym tonie": "О переменном тоне."
     }
 }
