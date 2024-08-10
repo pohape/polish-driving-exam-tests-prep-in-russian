@@ -3374,7 +3374,8 @@
             "Dowód własności pojazdu": "Свидетельство о праве собственности на ТС.",
             "Dokument potwierdzający opłatę skarbową": "Документ подтверждающий уплату государственной пошлины.",
             "Dokument potwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej posiadacza pojazdu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, подтверждающий заключение обязательственного страхования гражданской ответственности, требуется во время проверки на территории Республики Польша транспортного средства, которое зарегистрировано за границей.",
-            "Dokument potwierdzający opłatę za korzystanie z autostrad i dróg ekspresowych": "Документ, подтверждающий уплату за использование автострад и \"dróg ekspresowych\"."
+            "Dokument potwierdzający opłatę za korzystanie z autostrad i dróg ekspresowych": "Документ, подтверждающий уплату за использование автострад и \"dróg ekspresowych\".",
+            "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ об оплате взноса за обязательное страхование гражданской ответственности требуется во время проверки от водителя, управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша."
         }
     },
     "not_approved": {
@@ -4195,7 +4196,6 @@
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
-        "Dowód opłacenia składki za obowiązkowe ubezpieczenie odpowiedzialności cywilnej jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ об оплате взноса за обязательное страхование гражданской ответственности требуется во время проверки от водителя, управляющего транспортным средством, зарегистрированным за границей на территории Республики Польша.",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
         "Tylko lekarz": "Только врач.",
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
