@@ -3251,7 +3251,10 @@
             "Gdy uszkodzony jest zawór powietrza": "Когда поврежден воздушный клапан.",
             "Gdy w czole opony znajduje się cienki gwóźdź": "Когда в протекторе шины находится тонкий гвоздь.",
             "Gdy na boku opony są widoczne odkształcenia": "Когда на боковой стороне шины видны деформации.",
-            "Opona z guzami nadaje się do wyrzucenia": "Шина с буграми подлежит утилизации."
+            "Opona z guzami nadaje się do wyrzucenia": "Шина с буграми подлежит утилизации.",
+            "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
+            "Prawo jazdy": "Водительское удостоверение.",
+            "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности."
         }
     },
     "not_approved": {
@@ -3370,7 +3373,6 @@
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
         "Czy wolno Ci zawrócić na tym skrzyżowaniu?": "Вам разрешено развернуться на этом перекрестке?",
         "Testy na prawo jazdy 2024": "Тесты на водительские права 2024",
-        "Prawo jazdy": "Водительское удостоверение.",
         "Pozwolenie do kierowania tramwajem": "Разрешение на управление трамваем",
         "Zaloguj się": "Войти",
         "Akceptacja Regulaminu i Polityki Prywatności": "Принятие условий и политики конфиденциальности",
@@ -3605,8 +3607,6 @@
         "Czy zatrzymanie w tym miejscu jest dozwolone?": "Разрешена ли остановка в этом месте?",
         "Czy w tej sytuacji sygnał świetlny zabrania Ci zawracania na skrzyżowaniu?": "В данной ситуации светофор запрещает вам разворачиваться на перекрестке?",
         "Czy w celu wysadzenia pasażera, wolno Ci zatrzymać pojazd na tym przystanku?": "Разрешается ли вам остановить транспортное средство на этой остановке, чтобы высадить пассажира?",
-        "Który z wymienionych dokumentów określa dopuszczalną liczbę osób przewożonych pojazdem samochodowym?": "Какой из перечисленных документов определяет допустимое количество людей, перевозимых автомобилем?",
-        "Dokument stwierdzający zawarcie umowy obowiązkowego ubezpieczenia odpowiedzialności cywilnej": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности.",
         "Tak, ale jadąc z maksymalną prędkością 20 km\/h": "Да, но двигаясь с максимальной скоростью 20 км\/ч.",
         "Tylko obszar przestrzeni obok pojazdu": "Только пространство вокруг автомобиля.",
         "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
