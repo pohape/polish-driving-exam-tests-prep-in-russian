@@ -30,7 +30,8 @@
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод."
+        "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод.",
+        "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»"
     },
     "approved": {
         "starosta": {
@@ -3514,7 +3515,12 @@
             "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
             "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
             "Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się pojazdu nadjeżdżającego z przeciwka, przy czym jeżeli jeden z kierujących wyłączył światła drogowe – drugi jest obowiązany uczynić to samo": "Водитель транспортного средства, используя дальний свет, обязан переключить его на ближний свет при приближении встречного ТС, при этом если один из водителей выключил дальний свет – второй обязан сделать то же самое.",
-            "Trzeba wyjaśniać???": "Нужно объяснять???"
+            "Trzeba wyjaśniać???": "Нужно объяснять???",
+            "Zwiększone ryzyko poślizgu": "Увеличенный риск скольжения.",
+            "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
+            "Nagłe intensywne hamowanie": "Внезапное интенсивное торможение.",
+            "Hamowanie silnikiem": "Торможение двигателем.",
+            "Jazda ze stałą prędkością": "Езда с постоянной скоростью."
         }
     },
     "not_approved": {
@@ -3860,8 +3866,6 @@
         "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
         "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
-        "Hamowanie silnikiem": "Торможение двигателем.",
-        "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
         "Szczególna ostrożność jest potrzebna podczas omijania takiego pojazdu, w czasie wsiadania lub wysiadania osoby niepełnosprawnej": "Особая осторожность необходима во время объезда такого транспортного средства, когда осуществляется посадка или высадка инвалида.",
@@ -3887,9 +3891,7 @@
         "Czy w tej sytuacji postój samochodu osobowego kołami jednego boku na chodniku 2 metry przed tym znakiem jest dozwolony?": "В данной ситуации, разрешена ли стоянка автомобиля колесами одного бока на тротуаре за 2 метра перед этим знаком?",
         "Uczestniczyłeś w wypadku drogowym jako kierujący pojazdem. Czy po udzieleniu pomocy rannym wolno Ci oddalić się z miejsca zdarzenia przed przybyciem Policji?": "Вы участвовали в дорожно-транспортном происшествии в качестве водителя. Можете ли вы покинуть место происшествия после оказания помощи пострадавшим до прибытия полиции?",
         "Czy w widocznej sytuacji masz prawo zmienić pas ruchu na prawy, aby kontynuować jazdę prosto?": "Имеешь ли ты право в данной ситуации сменить полосу движения на правую, чтобы продолжить движение прямо?",
-        "Zwiększone ryzyko poślizgu": "Увеличенный риск скольжения.",
         "Zapobiega zerwaniu przyczepności opon podczas przyspieszania": "Предотвращает потерю сцепления шин при ускорении.",
-        "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
         "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы имеете преимущество перед ТС, приближающимся слева, поворачивая налево на этом перекрестке?",
         "Czy w przedstawionej sytuacji zamierzając skręcić w lewo masz pierwszeństwo przed pieszym?": "Вы намереваетесь повернуть налево, имеете ли вы преимущество перед пешеходом в данной ситуации?",
         "Czy widoczny nad Twoim pasem ruchu sygnał świetlny zobowiązuje Cię do zatrzymania się przed sygnalizatorem?": "Видимый над вашей полосой движения световой сигнал обязывает вас остановиться перед светофором?",
