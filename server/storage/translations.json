@@ -3662,7 +3662,12 @@
             "Odbicie własnej twarzy": "Отражение собственного лица.",
             "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством.",
             "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
-            "Tylko boki pojazdu": "Только боковые стороны транспортного средства."
+            "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
+            "Nieprawidłowe ustawienie lusterek zewnętrznych w pojeździe samochodowym wpływa negatywnie na obserwacje przestrzeni wokół pojazdu": "Неправильное расположение внешних зеркал в автомобиле негативно влияет на обзор пространства вокруг транспортного средства.",
+            "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
+            "Tylko obszar przestrzeni obok pojazdu": "Только пространство вокруг автомобиля.",
+            "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
+            "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой стороны автомобиля и соответствующая стороне автомобиля область пространства за ним."
         }
     },
     "not_approved": {
@@ -3878,10 +3883,6 @@
         "Czy zatrzymanie w tym miejscu jest dozwolone?": "Разрешена ли остановка в этом месте?",
         "Czy w tej sytuacji sygnał świetlny zabrania Ci zawracania na skrzyżowaniu?": "В данной ситуации светофор запрещает вам разворачиваться на перекрестке?",
         "Czy w celu wysadzenia pasażera, wolno Ci zatrzymać pojazd na tym przystanku?": "Разрешается ли вам остановить транспортное средство на этой остановке, чтобы высадить пассажира?",
-        "Tylko obszar przestrzeni obok pojazdu": "Только пространство вокруг автомобиля.",
-        "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
-        "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой поверхности транспортного средства и соответствующая стороне транспортного средства зона пространства позади него.",
-        "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach z sygnalizacją świetlną": "Разрешается обгон на перекрестках со светофором.",
         "Ten sygnalizator nie reguluje możliwością zmiany kierunku jazdy": "Этот светофор не регулирует возможность изменения направления движения.",
         "Linia warunkowego zatrzymania złożona z trójkątów wskazuje miejsce zatrzymania pojazdu w celu ustąpienia pierwszeństwa wynikającego ze znaku pionowego A-7": "Линия условной остановки, состоящая из треугольников, указывает место остановки ТС для уступки дороги, вытекающей из вертикального знака A-7.",
