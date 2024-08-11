@@ -3578,7 +3578,8 @@
             "W której sytuacji zapięty pas bezpieczeństwa nie będzie działał właściwie?": "В какой ситуации пристегнутый ремень безопасности не будет работать должным образом?",
             "Gdy jest on skręcony": "Когда он повернут.",
             "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи.",
-            "Gdy jest on napięty": "Когда он натянут."
+            "Gdy jest on napięty": "Когда он натянут.",
+            "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи."
         }
     },
     "not_approved": {
@@ -4050,7 +4051,6 @@
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
-        "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
         "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?",
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
