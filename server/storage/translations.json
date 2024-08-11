@@ -20,7 +20,6 @@
         "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
-        "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод.",
         "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
@@ -3750,7 +3749,8 @@
             "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основании национального водительского удостоверения.",
             "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
             "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
-            "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?"
+            "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
+            "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?"
         }
     },
     "not_approved": {
@@ -4327,7 +4327,6 @@
         "Czy masz obowiązek zachować bezpieczny odstęp od omijanej przeszkody?": "У тебя есть обязанность соблюдать безопасную дистанцию от объезжаемого препятствия?",
         "Czy omijając widoczny po lewej stronie obiekt, masz obowiązek zachowania bezpiecznego odstępu?": "При объезде видимого слева объекта, обязан ли ты соблюдать безопасную дистанцию?",
         "Czy w takim miejscu na drodze dopuszcza się wyprzedzanie pojazdu silnikowego?": "Разрешается ли в таком месте на дороге обгонять двигательныe транспортные средства?",
-        "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?",
         "Czy w widocznej sytuacji masz prawo wyprzedzić na skrzyżowaniu pojazd poprzedzający ?": "Есть ли у тебя право обогнать на перекрестке впереди идущее ТС в данной ситуации?",
         "Kierującemu pojazdem zabrania się wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim, z wyjątkiem przejścia, na którym ruch jest kierowany": "Водителю запрещается обгонять транспортное средство на пешеходном переходе и непосредственно перед ним, за исключением перехода, на котором движение регулируется.",
         "Czy na najbliższym skrzyżowaniu wolno Ci oczekiwać na możliwość zawrócenia w obrębie pasa dzielącego jezdnie?": "Можно ли на ближайшем перекрестке ожидать возможности развернуться в пределах полосы, разделяющей проезжие части?",
@@ -4444,6 +4443,7 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
+        "Zużyte pióra rozmazują wilgoć na przedniej szybie": "Изношенные щетки размазывают влагу по лобовому стеклу."
     }
 }
