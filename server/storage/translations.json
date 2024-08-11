@@ -3485,7 +3485,9 @@
             "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
             "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные (горизонтальные) знаки (дорожная разметка), обозначающие полосы движения.",
             "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
-            "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость."
+            "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
+            "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
+            "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости."
         }
     },
     "not_approved": {
@@ -3657,7 +3659,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
-        "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "1,6 milimetra": "1,6 миллиметра.",
         "3 milimetry": "3 миллиметра.",
@@ -3825,7 +3826,6 @@
         "Tylko kierujący i pasażer siedzący na przednim siedzeniu": "Только водитель и пассажир, сидящий на переднем сиденье.",
         "Pojazd jadący z przeciwnego kierunku jest dość daleko i nie porusza się szybko. Nie dojdzie do wymuszenia": "ТС, движущееся с противоположного направления, находится достаточно далеко и не двигается быстро. Не будет нарушения правил.",
         "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу.",
-        "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
         "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "W jaki sposób, podczas kontroli drogowej przez upoważniony organ, następuje zatrzymanie prawa jazdy wydanego w kraju?": "Каким образом, во время дорожного контроля уполномоченным органом, происходит временное изъятие водительского удостоверения, выданного в стране?",
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
