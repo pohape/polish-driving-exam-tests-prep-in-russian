@@ -3680,7 +3680,12 @@
             "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
             "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
             "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
-            "Tylko swój pas ruchu przed pojazdem": "Только свою полосу движения перед транспортным средством."
+            "Tylko swój pas ruchu przed pojazdem": "Только свою полосу движения перед транспортным средством.",
+            "1,6 milimetra": "1,6 миллиметра.",
+            "2,6 milimetra": "2,6 миллиметра.",
+            "3 milimetry": "3 миллиметра.",
+            "Jaka jest dopuszczalna minimalna głębokość bieżnika w oponie niewyposażonej we wskaźnik granicznego jej zużycia?": "Какова допустимая минимальная глубина протектора в шине, не оснащенной индикатором предельного износа?",
+            "Pojazd nie może być wyposażony w opony, których wskaźniki pokazują graniczne zużycie bieżnika, a w odniesieniu do opon niezaopatrzonych w takie wskaźniki – o głębokości rzeźby bieżnika mniejszej niż 1,6 mm": "Транспортное средство не может быть оборудовано шинами, индикаторы которых показывают предельный износ протектора, а в отношении шин, не снабженных такими индикаторами, – с глубиной рисунка протектора менее чем 1,6 мм."
         }
     },
     "not_approved": {
@@ -3829,11 +3834,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
-        "1,6 milimetra": "1,6 миллиметра.",
-        "3 milimetry": "3 миллиметра.",
-        "2,6 milimetra": "2,6 миллиметра.",
-        "Jaka jest dopuszczalna minimalna głębokość bieżnika w oponie niewyposażonej we wskaźnik granicznego jej zużycia?": "Какова допустимая минимальная глубина протектора в шине, не оснащенной индикатором предельного износа?",
-        "Pojazd nie może być wyposażony w opony, których wskaźniki pokazują graniczne zużycie bieżnika, a w odniesieniu do opon niezaopatrzonych w takie wskaźniki – o głębokości rzeźby bieżnika mniejszej niż 1,6 mm": "Транспортное средство не может быть оборудовано шинами, индикаторы которых показывают предельный износ протектора, а в отношении шин, не снабженных такими индикаторами, – с глубиной рисунка протектора менее чем 1,6 мм.",
         "Czas reakcji ma bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Время реакции имеет прямое влияние на общую длину тормозного пути транспортного средства.",
         "Woda zalegająca w koleinie stawia opory toczenia. Żeby uniknąć utraty kontroli nad samochodem nie zaleca się wykonywania żadnych gwałtownych ruchów": "Вода, скопившаяся в колее, создаёт сопротивление качению. Чтобы избежать потери контроля над автомобилем, не рекомендуется делать резких движений.",
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
