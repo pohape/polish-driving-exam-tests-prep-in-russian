@@ -28,7 +28,6 @@
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
-        "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "W miarę możliwości należy obserwować jak tylko można najwięcej": "По мере возможности необходимо наблюдать, как только можно больше.",
@@ -4444,6 +4443,7 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
+        "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного экипажа, мопеда, мотоцикла или колонны пешеходов дистанция не может быть меньше 1 м."
     }
 }
