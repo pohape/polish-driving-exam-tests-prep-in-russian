@@ -465,9 +465,6 @@
         "Czy w tej sytuacji wyjeżdżasz ze strefy zamieszkania?": [
             16398
         ],
-        "Czy w tej sytuacji wystarczy, że zachowasz wyłącznie szczególną ostrożność?": [
-            18297
-        ],
         "Czy w tej sytuacji zbliżasz się do drogi z pierwszeństwem?": [
             15506
         ],
@@ -543,9 +540,6 @@
         ],
         "Czy znak \"Nakaz jazdy prosto\" obowiązuje na najbliższym skrzyżowaniu lub w miejscu, gdzie występuje możliwość zmiany kierunku jazdy?": [
             19001
-        ],
-        "Czy, zachowując szczególną ostrożność, możesz kontynuować jazdę na wprost przewożąc osobę niepełnosprawną legitymującą się kartą parkingową?": [
-            19012
         ],
         "Czym może być spowodowany nadmierny luz (ruch jałowy) koła kierownicy samochodu?": [
             204
@@ -630,11 +624,6 @@
         ],
         "Która z wymienionych przyczyn spowoduje nieosiągnięcie przez silnik, o zapłonie samoczynnym, obrotów rozruchowych?": [
             16273
-        ],
-        "Który z tych przedmiotów stanowi obowiązkowe wyposażenie każdego samochodu osobowego?": [
-            180,
-            181,
-            182
         ],
         "Którą z wymienionych czynności powinieneś wykonać, aby płynnie ruszyć z miejsca?": [
             27
