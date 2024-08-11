@@ -16,7 +16,6 @@
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
-        "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
         "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных во временном дозволении автомобиля.",
@@ -3770,7 +3769,8 @@
             "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля и пассажир, перевозимый в таком автомобиле, оборудованном ремнями безопасности, обязаны использовать эти ремни во время движения.",
             "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
             "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
-            "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья имеют существенное влияние на остроту его зрения."
+            "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья имеют существенное влияние на остроту его зрения.",
+            "Koło dojazdowe jest substytutem koła zapasowego": "Временное запасное колесо является заменителем основного запасного колеса."
         }
     },
     "not_approved": {
