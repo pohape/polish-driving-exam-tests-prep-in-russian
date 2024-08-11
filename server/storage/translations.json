@@ -3640,7 +3640,9 @@
             "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее влияние на определение расстояния до транспортного средства, движущегося перед нами?",
             "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
             "Wraz z dwukrotnym wzrostem prędkości droga hamowania wydłuża się czterokrotnie": "При двукратном увеличении скорости тормозной путь увеличивается вчетверо.",
-            "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если вы увеличите скорость в 2 раза?"
+            "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если вы увеличите скорость в 2 раза?",
+            "Nie należy spowalniać ruchu pojazdów, które dalej będą poruszać się autostradą": "Не следует замедлять движение транспортных средств, которые дальше будут двигаться по автостраде.",
+            "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление."
         }
     },
     "not_approved": {
@@ -3789,7 +3791,6 @@
         "Wyprzedzanie pojazdu uprzywilejowanego poza obszarem zabudowanym jest dozwolone": "Обгон транспортного средства с преимуществом в движении вне населенного пункта разрешен.",
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
-        "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "1,6 milimetra": "1,6 миллиметра.",
@@ -4436,7 +4437,6 @@
         "НЕТ": "НЕТ",
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
-        "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Nie należy spowalniać ruchu pojazdów, które dalej będą poruszać się autostradą": "Не следует замедлять движение транспортных средств, которые дальше будут двигаться по автостраде."
+        "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?"
     }
 }
