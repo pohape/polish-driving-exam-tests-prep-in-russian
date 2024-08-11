@@ -3540,7 +3540,11 @@
             "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
             "Po wjeździe na początek pasa wyłączenia (zjazdu)": "Въезд на начало полосы выключения (съезда).",
             "W dowolnym miejscu na autostradzie": "В любом месте на автостраде.",
-            "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?": "В этой ситуации ты обязан сигнализировать о стоянке видимого с достаточного расстояния, поврежденного транспортного средства, на дороге, которая не является \"drogą ekspresową\"?"
+            "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?": "В этой ситуации ты обязан сигнализировать о стоянке видимого с достаточного расстояния, поврежденного транспортного средства, на дороге, которая не является \"drogą ekspresową\"?",
+            "Nie mniejszy niż 50 metrów": "Не меньше чем 50 метров.",
+            "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
+            "Nie mniejszy niż 30 metrów": "Не меньше 30 метров.",
+            "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?"
         }
     },
     "not_approved": {
@@ -4030,10 +4034,6 @@
         "W przedstawionej sytuacji na najbliższym skrzyżowaniu zamierzasz skręcić w lewo. Czy musisz ustąpić pierwszeństwa przejazdu rowerzystom jadącym z naprzeciwka na wprost?": "В представленной ситуации на ближайшем перекрестке вы собираетесь повернуть налево. Должны ли вы уступить дорогу велосипедистам, едущим напрямую с встречного направления?",
         "Czy w przedstawionej sytuacji minimalna odległość jaką należy zachować od rowerzysty podczas wyprzedzania wynosi 1 m?": "В представленной ситуации минимальное расстояние, которое необходимо соблюдать от велосипедиста во время обгона, составляет 1 метр?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z obowiązku zachowania szczególnej ostrożności?": "Светофор на пешеходном переходе освобождает тебя от обязанности проявления особой осторожности?",
-        "Nie mniejszy niż 50 metrów": "Не меньше чем 50 метров.",
-        "Nie mniejszy niż 30 metrów": "Не меньше 30 метров.",
-        "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
-        "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
         "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
