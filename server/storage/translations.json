@@ -37,7 +37,8 @@
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения пути торможения по крайней мере вдвое.",
-        "Do zniszczenia hamulców": "Для разрушения тормозов."
+        "Do zniszczenia hamulców": "Для разрушения тормозов.",
+        "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?"
     },
     "approved": {
         "starosta": {
@@ -3613,7 +3614,9 @@
             "Prędkość pojazdu nie przekroczy 40 km\/h": "Скорость транспортного средства не превысит 40 км\/ч.",
             "Przepis nie dotyczy dziecka mającego zaświadczenie lekarskie o przeciwwskazaniu do przewożenia w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym dla dzieci": "Правило не касается ребенка, имеющего медицинское свидетельство о противопоказании к перевозке в детском кресле безопасности или другом удерживающем устройстве для детей.",
             "Do czego może doprowadzić zbyt mocne hamowanie samochodu osobowego niewyposażonego w system ABS?": "К чему может привести слишком сильное торможение автомобиля, не оснащенного системой ABS?",
-            "Do utraty sterowności": "К потере управляемости."
+            "Do utraty sterowności": "К потере управляемости.",
+            "Zbyt mocne użycie hamulca może doprowadzić do zablokowania się kół. W sytuacji gdy przednie koła przestają się toczyć samochód przestaje reagować na ruchy wykonywane kierownicą": "Слишком сильное использование тормоза может привести к блокировке колес. В ситуации, когда передние колеса перестают вращаться, автомобиль перестает реагировать на движения, выполняемые рулем.",
+            "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении."
         }
     },
     "not_approved": {
@@ -3752,7 +3755,6 @@
         "Zwolnić pedał hamulca": "Отпустить педаль тормоза.",
         "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
         "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
-        "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какую из действий следует выполнить, когда действующая система ABS выталкивает педаль тормоза во время торможения?",
         "Czy w tej sytuacji skręcając w lewo masz pierwszeństwo przed pojazdem jadącym z przeciwka na wprost?": "В данной ситуации, поворачивая налево, у вас есть преимущество перед встречным ТС, движущимся прямо?",
         "Czy kierujący pojazdem nr 1 ma obowiązek umożliwić zmianę pasa ruchu pojazdowi nr 2?": "Обязан ли водитель транспортного средства № 1 предоставить возможность смены полосы движения транспортному средству № 2?",
         "Zamierzasz skręcić w lewo. Czy w tej sytuacji wolno Ci przejechać przed pojazdem nadjeżdżającym z przeciwka?": "Вы собираетесь повернуть налево. Разрешено ли вам в этой ситуации проехать перед приближающимся встречным ТС?",
@@ -3907,7 +3909,6 @@
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
         "Pojazd jadący z przeciwnego kierunku jest dość daleko i nie porusza się szybko. Nie dojdzie do wymuszenia": "ТС, движущееся с противоположного направления, находится достаточно далеко и не двигается быстро. Не будет нарушения правил.",
         "Jadąc w lewo na skrzyżowaniu nie opuszczamy drogi z pierwszeństwem": "Поворачивая налево на перекрестке, мы не покидаем главную дорогу.",
-        "ABS układ stosowany w pojazdach mechanicznych w celu zapobiegania blokowaniu kół podczas hamowania. W samochodach wyposażonych w ABS nie ryzykujemy utratą sterowności podczas nagłego i mocnego hamowania": "ABS - это система, используемая в механических транспортных средствах для предотвращения блокировки колёс при торможении. В автомобилях, оснащённых ABS, мы не рискуем потерять управление при внезапном и сильном торможении.",
         "W jaki sposób, podczas kontroli drogowej przez upoważniony organ, następuje zatrzymanie prawa jazdy wydanego w kraju?": "Каким образом, во время дорожного контроля уполномоченным органом, происходит временное изъятие водительского удостоверения, выданного в стране?",
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
@@ -4432,7 +4433,6 @@
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
         "ДА": "TAK",
-        "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
-        "Zbyt mocne użycie hamulca może doprowadzić do zablokowania się kół. W sytuacji gdy przednie koła przestają się toczyć samochód przestaje reagować na ruchy wykonywane kierownicą": "Слишком сильное использование тормоза может привести к блокировке колес. В ситуации, когда передние колеса перестают вращаться, автомобиль перестает реагировать на движения, выполняемые рулем."
+        "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?"
     }
 }
