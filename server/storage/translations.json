@@ -3628,7 +3628,12 @@
             "Minimalnie 1 m": "Минимум 1 м.",
             "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
             "Jaki odstęp musisz zachować od omijanej przeszkody?": "Какую дистанцию вы должны соблюсти от объезжаемого препятствия?",
-            "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения."
+            "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения.",
+            "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
+            "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
+            "Im wyższa prędkość tym dłuższa droga hamowania": "Чем выше скорость, тем длиннее тормозной путь.",
+            "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Тормозной путь сокращается с увеличением скорости.",
+            "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения."
         }
     },
     "not_approved": {
@@ -3891,7 +3896,6 @@
         "Czy w tej sytuacji wolno Ci ominąć widoczny samochód z prawej strony?": "В этой ситуации разрешается ли тебе обогнать видимый автомобиль с правой стороны?",
         "Czy w tych warunkach drogowych przedstawiony sposób wykonania manewru zawracania jest zabroniony?": "В этих дорожных условиях представленный способ выполнения маневра разворота запрещен?",
         "Czy podczas holowania pojazdu wolno Ci używać świateł awaryjnych?": "Во время буксировки транспортного средства разрешено ли тебе использовать аварийные огни?",
-        "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
         "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
         "Nie został złamany żaden z przepisów zakazujących zawracania": "Ни одно из правил, запрещающих разворот, не было нарушено.",
         "Czy w przedstawionej sytuacji musisz ustąpić pierwszeństwa pojazdowi, który nadjeżdża z prawej strony?": "В данной ситуации вы должны уступить дорогу ТС, приближающемуся справа?",
@@ -3994,8 +3998,6 @@
         "Czy w tej sytuacji możesz skręcić w prawo przed tramwajem?": "В данной ситуации можно ли тебе повернуть направо перед трамваем?",
         "Czy na obszarze zabudowanym na jezdni dwukierunkowej o małym ruchu wolno Ci zaparkować pojazd przy lewej krawędzi jezdni?": "Разрешается ли вам припарковать транспортное средство у левого края проезжей части на дороге с двусторонним движением с небольшим движением в населенном пункте?",
         "Czy w przedstawionej sytuacji możesz wyprzedzić z lewej lub prawej strony pojazd jadący przed Tobą?": "Возможно ли в данной ситуации обогнать с левой или правой стороны транспортное средство, движущееся перед вами?",
-        "Jak zmienia się droga hamowania pojazdu zależnie od wzrostu prędkości?": "Как меняется тормозной путь транспортного средства в зависимости от увеличения скорости?",
-        "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
         "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed pojazdem jadącym z kierunku przeciwnego na wprost?": "Вы намерены повернуть налево. Имеете ли вы преимущество перед ТС, движущимся из противоположного направления прямо?",
         "Czy w tej sytuacji, jadąc na wprost, musisz mieć stale włączony lewy kierunkowskaz, ponieważ omijasz zaparkowane pojazdy?": "В этой ситуации, двигаясь прямо, должен ли ты постоянно включать левый поворотник, потому что обгоняешь припаркованные транспортные средства?",
         "Czy w przedstawionej sytuacji dozwolone jest zatrzymanie pojazdu na jezdni?": "В данной ситуации разрешена ли остановка транспортного средства на проезжей части?",
@@ -4019,7 +4021,6 @@
         "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa autobusowi jadącemu z przeciwka na wprost?": "Вы собираетесь повернуть налево на перекрестке. Обязаны ли вы уступить дорогу автобусу, идущему навстречу прямо?",
         "Czy skręcając w lewo na tym skrzyżowaniu należy zachować szczególną ostrożność?": "Нужно ли проявлять особую осторожность, поворачивая налево на этом перекрестке?",
         "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?",
-        "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости.",
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
         "Czy w tej sytuacji, po wjechaniu za sygnalizator, masz obowiązek zatrzymać się w miejscu wskazanym znakiem \"stop\"?": "В этой ситуации, после въезда за светофор, обязан ли ты остановиться в месте, указанном знаком \"стоп\"?",
