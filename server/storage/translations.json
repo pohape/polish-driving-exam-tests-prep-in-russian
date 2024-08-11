@@ -37,7 +37,8 @@
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения пути торможения по крайней мере вдвое.",
         "Do zniszczenia hamulców": "Для разрушения тормозов.",
-        "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м."
+        "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
+        "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства."
     },
     "approved": {
         "starosta": {
@@ -4367,7 +4368,6 @@
         "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?": "На автостраде ты обязан включить аварийные огни остановленного из-за аварии транспортного средства, которым управляешь?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
-        "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
         "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?": "В представленной ситуации в населенном пункте, обязан ли ты снизить скорость, чтобы позволить водителю автобуса включиться в движение?",
         "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?": "Обязан ли ты в этой ситуации, двигаясь в населенном пункте, при необходимости остановиться, чтобы позволить автобусу включиться в движение?",
