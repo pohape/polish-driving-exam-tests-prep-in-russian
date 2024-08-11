@@ -4191,7 +4191,6 @@
         "Zamierzasz skręcić w prawo. Czy musisz sygnalizować zamiar tego manewru prawym kierunkowskazem?": "Вы намереваетесь повернуть направо. Должны ли вы сигнализировать о намерении выполнить этот маневр правым указателем поворота?",
         "Czy tak pozostawiony na postoju bez opieki pojazd jest prawidłowo zabezpieczony przed możliwością uruchomienia go przez osobę niepowołaną?": "Правильно ли оставлено незащищенное транспортное средство на стоянке без присмотра от возможности его запуска неуполномоченным лицом?",
         "Czy w tej sytuacji masz obowiązek zatrzymać się przed wjazdem na skrzyżowanie?": "В данной ситуации у тебя есть обязанность остановиться перед въездом на перекресток?",
-        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и загрузка транспортного средства факторами, которые следует учитывать при выборе скорости движения?",
         "Подтверждение владения транспортным средством": "Подтверждение владения транспортным средством.",
         "Документ, подтверждающий гербовый сбор": "Документ, подтверждающий уплату государственной пошлины.",
         "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства": "Документ, подтверждающий заключение договора обязательного страхования гражданской ответственности владельца транспортного средства.",
@@ -4424,6 +4423,7 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK"
+        "ДА": "TAK",
+        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и груз транспортного средства факторами, которые необходимо учитывать при выборе скорости движения?"
     }
 }
