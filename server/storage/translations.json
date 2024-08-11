@@ -3633,7 +3633,8 @@
             "Im wyższa prędkość tym dłuższa droga hamowania": "Чем выше скорость, тем длиннее тормозной путь.",
             "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Тормозной путь сокращается с увеличением скорости.",
             "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
-            "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но при управлении автомобилем с полной массой, превышающей 2,5 тонны."
+            "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но при управлении автомобилем с полной массой, превышающей 2,5 тонны.",
+            "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом."
         }
     },
     "not_approved": {
@@ -4002,7 +4003,6 @@
         "Czy w tej sytuacji, jadąc na wprost, musisz mieć stale włączony lewy kierunkowskaz, ponieważ omijasz zaparkowane pojazdy?": "В этой ситуации, двигаясь прямо, должен ли ты постоянно включать левый поворотник, потому что обгоняешь припаркованные транспортные средства?",
         "Czy w przedstawionej sytuacji dozwolone jest zatrzymanie pojazdu na jezdni?": "В данной ситуации разрешена ли остановка транспортного средства на проезжей части?",
         "Czy w przedstawionej sytuacji przed wjazdem na skrzyżowanie obowiązkowo trzeba się zatrzymać?": "В представленной ситуации перед въездом на перекресток обязательно нужно остановиться?",
-        "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "У вас есть преимущество перед ТС, приближающимся слева?",
         "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na drodze ekspresowej?": "Обязан ли водитель транспортного средства сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии на \"drodze ekspresowej\"?",
