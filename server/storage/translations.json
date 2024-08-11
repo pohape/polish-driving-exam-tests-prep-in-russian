@@ -3769,7 +3769,8 @@
             "O ile czasu starosta wydłuży okres zatrzymania prawa jazdy, jeśli zostałeś zatrzymany do kontroli, gdy prowadziłeś pojazd, pomimo że wcześniej zatrzymano Ci prawo jazdy na trzy miesiące za przewożenie osób w liczbie przekraczającej o dwie liczbę miejsc określoną w dowodzie rejestracyjnym samochodu osobowego?": "На сколько времени староста продлит период временного изъятия водительского удостоверения, если вас задержали для проверки, когда вы управляли транспортным средством, несмотря на то что ранее водительское удостоверение было изъято на три месяца за перевозку на двух человек больше, чем указано в свидетельстве о регистрации автомобиля?",
             "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка.",
             "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
-            "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля и пассажир, перевозимый в таком автомобиле, оборудованном ремнями безопасности, обязаны использовать эти ремни во время движения."
+            "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля и пассажир, перевозимый в таком автомобиле, оборудованном ремнями безопасности, обязаны использовать эти ремни во время движения.",
+            "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене."
         }
     },
     "not_approved": {
@@ -4228,7 +4229,6 @@
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
         "Cofanie w strefie zamieszkania jest dozwolone": "Движение задним ходом в жилой зоне разрешено.",
-        "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
