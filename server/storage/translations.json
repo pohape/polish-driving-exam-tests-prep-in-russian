@@ -3568,7 +3568,12 @@
             "Prawidłowo ustawiony zagłówek powinien znajdować się maksymalnie blisko potylicy, a jego górna krawędź powinna znajdować się na wysokości czubka głowy": "Правильно настроенный подголовник должен находиться максимально близко к затылку, а его верхний край должен находиться на уровне макушки головы.",
             "Osoba przewożona na wózku inwalidzkim": "Человек, перевозимый на инвалидной коляске.",
             "Która osoba ma obowiązek korzystania z pasów bezpieczeństwa?": "Какой человек обязан использовать ремни безопасности?",
-            "Podczas uderzenia w tył pojazdu zagłówek chroni kręgi szyjne przed ich uszkodzeniem": "Во время удара в заднюю часть транспортного средства подголовник защищает шейные позвонки от повреждений."
+            "Podczas uderzenia w tył pojazdu zagłówek chroni kręgi szyjne przed ich uszkodzeniem": "Во время удара в заднюю часть транспортного средства подголовник защищает шейные позвонки от повреждений.",
+            "zmniejsza ryzyko powstania obrażeń ciężkich lub śmiertelnych": "уменьшает риск возникновения тяжелых или смертельных травм.",
+            "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
+            "nie ma wpływu na ryzyko powstania obrażeń bez względu na ich rodzaj": "не влияет на риск возникновения травм, независимо от их типа.",
+            "Korzystanie z pasów zmniejsza ryzyko powstania obrażeń ciężkich lub śmiertelnych": "Использование ремней снижает риск получения тяжелых или смертельных травм.",
+            "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжёлых травм при лобовых столкновениях?"
         }
     },
     "not_approved": {
@@ -3579,12 +3584,10 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
-        "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжелых травм при лобовых столкновениях?",
         "Do zniszczenia hamulców": "Для уничтожения тормозов.",
         "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
-        "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
         "Do utraty sterowności": "К потере управляемости.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
         "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
@@ -3756,8 +3759,6 @@
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
         "Czy podczas cofania, przy braku innych uczestników ruchu na tym odcinku drogi, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы отказаться от соблюдения особой осторожности при движении задним ходом, если на этом участке дороги нет других участников движения?",
-        "nie ma wpływu na ryzyko powstania obrażeń bez względu na ich rodzaj": "не влияет на риск возникновения травм, независимо от их типа.",
-        "zmniejsza ryzyko powstania obrażeń ciężkich lub śmiertelnych": "уменьшает риск возникновения тяжелых или смертельных травм.",
         "Ustawić lusterka, fotel kierowcy i zapiąć pasy bezpieczeństwa": "Настроить зеркала, водительское сиденье и пристегнуть ремни безопасности.",
         "Ustawić fotel kierowcy, lusterka i zapiąć pasy bezpieczeństwa": "Установить сиденье водителя, зеркала и пристегнуть ремни безопасности.",
         "Zapiąć pasy bezpieczeństwa, ustawić lusterka i fotel kierowcy": "Пристегнуть ремни безопасности, настроить зеркала и сиденье водителя.",
@@ -4425,6 +4426,7 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK"
+        "ДА": "TAK",
+        "Gdy jest on napięty": "Когда он натянут."
     }
 }
