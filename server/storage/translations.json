@@ -3521,7 +3521,10 @@
             "Nagłe intensywne hamowanie": "Внезапное интенсивное торможение.",
             "Hamowanie silnikiem": "Торможение двигателем.",
             "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
-            "Gwałtowne skręcenie kierownicy": "Резкий поворот руля."
+            "Gwałtowne skręcenie kierownicy": "Резкий поворот руля.",
+            "Utrzymanie zbyt wysokiej prędkości, zwłaszcza na zakręcie": "Сохранение слишком высокой скорости, особенно на повороте.",
+            "Jazda na drugim biegu": "Езда на второй передаче.",
+            "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии."
         }
     },
     "not_approved": {
@@ -3882,8 +3885,6 @@
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
         "Która z wymienionych okoliczności może świadczyć o złym stanie technicznym samochodu osobowego?": "Какая из перечисленных обстоятельств может свидетельствовать о плохом техническом состоянии автомобиля?",
         "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства.",
-        "Utrzymanie zbyt wysokiej prędkości, zwłaszcza na zakręcie": "Сохранение слишком высокой скорости, особенно на повороте.",
-        "Jazda na drugim biegu": "Езда на второй передаче.",
         "Na przystanku nie ma tramwaju": "На остановке нет трамвая.",
         "Tylko boki pojazdu": "Только боковые стороны транспортного средства.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
@@ -3949,7 +3950,6 @@
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
-        "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии.",
         "Czy w tej sytuacji masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "У вас есть преимущество перед ТС, приближающимся слева?",
         "Czy kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku na drodze ekspresowej?": "Обязан ли водитель транспортного средства сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии на \"drodze ekspresowej\"?",
         "Zamierzasz skręcić w lewo. Czy masz pierwszeństwo przed skręcającym w lewo motocyklistą?": "Вы собираетесь повернуть налево. У вас есть преимущество перед мотоциклистом, поворачивающим налево?",
