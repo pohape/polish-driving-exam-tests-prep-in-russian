@@ -3551,7 +3551,8 @@
             "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Должен ли водитель применять так называемую \"езда в шахматном порядке\", если нет значительного уменьшения скорости?",
             "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
             "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
-            "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления."
+            "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
+            "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?"
         }
     },
     "not_approved": {
@@ -4323,7 +4324,6 @@
         "czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie": "Во время движения в условиях уменьшенной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель транспортного средства обязан включить ближний свет или передние противотуманные фары, или оба этих света одновременно.",
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić kierującego rowerem?": "Можно ли в представленном случае использовать звуковой сигнал, чтобы подтолкнуть регулирующего велосипедистом?",
         "Znak widoczny na zdjęciu ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu": "Знак, видимый на фотографии, предупреждает о выпуклости на проезжей части, примененной для замедления движения.",
-        "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
         "Postój uszkodzonego na drodze ekspresowej pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на \"drodze ekspresowej\" транспортного средства необходимо сигнализировать, в частности, путем размещения знака аварийной остановки на расстоянии 100 м за транспортным средством.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku: na autostradzie lub drodze ekspresowej – w każdym przypadku": "Водитель транспортного средства обязан сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии: на автостраде или \"drodze ekspresowej\" – в любом случае.",
         "Pozycja boczna ustalona zapewnia drożność dróg oddechowych i zabezpiecza osobę ranną przed zachłyśnięciem się": "Боковая позиция обеспечивает проходимость дыхательных путей и защищает раненого от захлебывания.",
