@@ -3705,7 +3705,8 @@
             "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?": "В каком из перечисленных случаев использование автомобиля не угрожает безопасности дорожного движения?",
             "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
             "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
-            "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или тормозные диски."
+            "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или тормозные диски.",
+            "Świecąca się na czerwono lampka kontrolna z symbolem akumulatora świadczy o usterce układu ładowania": "Загоревшаяся красная контрольная лампочка с символом аккумулятора свидетельствует о неисправности системы зарядки."
         }
     },
     "not_approved": {
@@ -4152,7 +4153,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Świecąca się na czerwono lampka kontrolna z symbolem akumulatora świadczy o usterce układu ładowania": "Загоревшаяся красная контрольная лампочка с символом аккумулятора свидетельствует о неисправности системы зарядки.",
         "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса.",
         "Zużycie opony doprowadza do wydłużenia drogi hamowania": "Износ шины приводит к увеличению тормозного пути.",
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
