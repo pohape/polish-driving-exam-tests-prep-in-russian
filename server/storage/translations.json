@@ -3592,7 +3592,13 @@
             "Tak, ale tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Да, но только в том случае, если транспортное средство движется за пределами населенного пункта.",
             "Dziecko mające mniej niż 150 cm wzrostu powinno być przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym": "Ребенок ростом менее 150 см должен перевозиться в детском автокресле или другом удерживающем устройстве.",
             "Czy masz prawo przewozić niemowlaka na kolanach osoby dorosłej?": "Имеете ли вы право перевозить младенца на коленях у взрослого?",
-            "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что этот человек использует ремни безопасности."
+            "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что этот человек использует ремни безопасности.",
+            "Jaki jest właściwy sposób przewożenia noworodka samochodem osobowym?": "Какой правильный способ перевозки новорожденного в легковом автомобиле?",
+            "W dowolnym nosidełku, jeśli jest przypięte pasami bezpieczeństwa": "В любом детском удерживающем устройстве, если оно пристегнуто ремнями безопасности.",
+            "W odpowiednim dla noworodka foteliku ochronnym": "В соответствующем для новорожденного защитном кресле.",
+            "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
+            "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
+            "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства."
         }
     },
     "not_approved": {
@@ -3742,7 +3748,6 @@
         "Czy w widocznej sytuacji konieczne jest włączenie kierunkowskazu w celu zasygnalizowania zmiany pasa ruchu?": "Необходимо ли в данной видимой ситуации включение указателя поворота для сигнализации о смене полосы движения?",
         "Prawo jazdy kat. B stwierdza posiadanie uprawnienia do kierowania motorowerem lub czterokołowcem lekkim": "Водительское удостоверение категории B подтверждает право на управление мопедом или так называемым \"czterokołowcem\" лёгким.",
         "Skręcając w lewo należy ustąpić pierwszeństwa pojazdom nadjeżdżającym z przeciwka": "Поворачивая налево, необходимо уступить дорогу приближающимся встречным транспортным средствам.",
-        "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
         "Stan układu hamulcowego ma bezpośredni wpływ na drogę hamowania": "Состояние тормозной системы имеет прямое влияние на длину тормозного пути.",
         "Linia pojedyncza ciągła oznacza zakaz przejeżdżania przez linię": "Одинарная сплошная линия означает запрет пересекать линию.",
         "Wiesz, że wkrótce na miejsce zdarzenia przybędą służby ratunkowe. Czy powinieneś nakłaniać sprawcę, aby zawiózł poszkodowanego do szpitala?": "Вы знаете, что скоро на место происшествия прибудут спасательные службы. Должны ли вы уговаривать виновника, чтобы он отвез пострадавшего в больницу?",
@@ -3789,10 +3794,6 @@
         "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
         "Odbicie własnej twarzy": "Отражение собственного лица.",
         "Najbliższy zjazd znajduje się w odległości 3 km. Ten dystans umożliwi wykonanie manewru wyprzedzania": "Ближайший съезд находится на расстоянии 3 км. Это расстояние позволит выполнить маневр обгона.",
-        "Jaki jest właściwy sposób przewożenia noworodka samochodem osobowym?": "Какой правильный способ перевозки новорожденного в легковом автомобиле?",
-        "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
-        "W odpowiednim dla noworodka foteliku ochronnym": "В соответствующем для новорожденного защитном кресле.",
-        "W dowolnym nosidełku, jeśli jest przypięte pasami bezpieczeństwa": "В любом детском удерживающем устройстве, если оно пристегнуто ремнями безопасности.",
         "Czy wolno Ci przewozić dziecko powyżej 150 cm wzrostu na przednim siedzeniu w kabinie samochodu ciężarowego?": "Разрешено ли Вам перевозить ребенка выше 150 см роста на переднем сидении в кабине грузового автомобиля?",
         "Tak, pod warunkiem że dziecko będzie siedziało na kolanach innej osoby dorosłej": "Да, при условии, что ребёнок будет сидеть на коленях у другого взрослого.",
         "Tak, wyłącznie w specjalnym foteliku bezpieczeństwa lub innym urządzeniu przytrzymującym dla dzieci, odpowiednim do masy i wagi ciała oraz spełniającym dodatowe warunki techniczne": "Да, исключительно в специальном детском автокресле или другом удерживающем устройстве для детей, подходящем по массе и весу тела, а также соответствующем дополнительным техническим условиям.",
@@ -3860,7 +3861,6 @@
         "Czy jadąc z prędkością 50 km\/h i mając niedostateczną widoczność po prawej stronie, powinieneś na tym skrzyżowaniu zmniejszyć prędkość?": "Должен ли ты снизить скорость, двигаясь со скоростью 50 км\/ч и имея недостаточную видимость справа, на этом перекрестке с второстепенной дорогой справа?",
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
-        "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
         "Która z wymienionym kategorii uprawnia do kierowania czterokołowcem innym niż lekki?": "Какая из перечисленных категорий даёт право на управление так называемым \"czterokołowcem\" иным, чем лёгкий?",
         "Wyjeżdżając z łuku": "Покидая поворот.",
