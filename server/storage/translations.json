@@ -3736,7 +3736,8 @@
             "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
             "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение в ситуации необходимости преодоления нескольких последующих друг за другом поворотов.",
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных фарах ближнего света?",
-            "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку."
+            "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
+            "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана."
         }
     },
     "not_approved": {
@@ -4379,7 +4380,6 @@
         "Zgodnie z oznakowaniem pionowym trzeba skręcić w lewo": "Согласно вертикальной разметке, нужно повернуть налево.",
         "Nie należy się zatrzymywać jeśli możliwy jest jednoczesny przejazd obu pojazdów z zachowaniem bezpiecznych odstępów": "Не следует останавливаться, если возможен одновременный проезд обоих транспортных средств с соблюдением безопасных дистанций.",
         "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?": "На автостраде ты обязан включить аварийные огни остановленного из-за аварии транспортного средства, которым управляешь?",
-        "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
         "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?": "В представленной ситуации в населенном пункте, обязан ли ты снизить скорость, чтобы позволить водителю автобуса включиться в движение?",
         "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?": "Обязан ли ты в этой ситуации, двигаясь в населенном пункте, при необходимости остановиться, чтобы позволить автобусу включиться в движение?",
