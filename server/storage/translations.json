@@ -3548,7 +3548,10 @@
             "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?",
             "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
             "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
-            "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Должен ли водитель применять так называемую \"езда в шахматном порядке\", если нет значительного уменьшения скорости?"
+            "Czy kierujący ma obowiązek stosować tzw. \"jazdę na suwak\", gdy nie ma znacznego zmniejszenia prędkości ?": "Должен ли водитель применять так называемую \"езда в шахматном порядке\", если нет значительного уменьшения скорости?",
+            "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
+            "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
+            "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления."
         }
     },
     "not_approved": {
@@ -3886,9 +3889,6 @@
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
-        "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
-        "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
-        "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
         "Czy w tej sytuacji, poza obszarem zabudowanym, dozwolone jest wyprzedzenie z prawej strony jadącego przed Tobą pojazdu?": "В этой ситуации вне населенного пункта, разрешено ли обгонять справа движущийся перед тобой транспортное средство?",
         "Wyprzedzanie z prawej strony jest dozwolone na drogach \/ jezdniach jednokierunkowych z wyznaczonymi pasami ruchu": "Обгон с правой стороны разрешен на дорогах с односторонним движением с обозначенными полосами движения.",
         "Miejsce zatrzymania wyznacza linia złożona z trójkątów": "Место остановки обозначает линия, состоящая из треугольников.",
