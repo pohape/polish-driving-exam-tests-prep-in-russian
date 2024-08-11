@@ -13,7 +13,6 @@
         "Zabrania się zatrzymania pojazdu na przejeździe dla rowerzystów": "Запрещается остановка автомобиля на переезде для велосипедистов.",
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
-        "Zdecydowanie przyhamować": "Определенно притормозить.",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
         "Dokument dopuszczający pojazd do ruchu jest wymagany podczas kontroli od kierującego pojazdem zarejestrowanym za granicą na terenie RP": "Документ, разрешающий эксплуатацию транспортного средства, требуется при контроле от водителя транспортного средства, зарегистрированного за границей на территории Республики Польша.",
         "Policjant zatrzyma prawo jazdy za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "Полицейский временно изъял водительское удостоверение за перевозку пассажиров в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
@@ -3756,7 +3755,9 @@
             "Czy podczas przewożenia osoby niepełnosprawnej legitymującej się kartą parkingową, karta ta powinna znajdować się za dowolną szybą pojazdu samochodowego?": "Должна ли при транспортировке инвалида, имеющего парковочную карту, эта карта находиться за любым стеклом автомобиля?",
             "Czy w stosunku do każdej osoby niepełnosprawnej poruszającej się po chodniku (drodze dla pieszych), powinieneś zakładać, że nie będzie się ona stosować do przepisów ruchu drogowego?": "Должен ли ты предполагать, что любое лицо с инвалидностью, передвигающееся по тротуару (дороге для пешеходов), не будет соблюдать правила дорожного движения?",
             "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
-            "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "Любое резкое поведение на скользкой поверхности создает риск заноса."
+            "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "Любое резкое поведение на скользкой поверхности создает риск заноса.",
+            "Zdecydowanie przyhamować": "Резко притормозить.",
+            "Woda zalegająca w koleinie stawia opory toczenia. Żeby uniknąć utraty kontroli nad samochodem nie zaleca się wykonywania żadnych gwałtownych ruchów": "Вода, скопившаяся в колее, создаёт сопротивление качению. Чтобы избежать потери контроля над автомобилем, не рекомендуется делать резких движений."
         }
     },
     "not_approved": {
@@ -3898,7 +3899,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
-        "Woda zalegająca w koleinie stawia opory toczenia. Żeby uniknąć utraty kontroli nad samochodem nie zaleca się wykonywania żadnych gwałtownych ruchów": "Вода, скопившаяся в колее, создаёт сопротивление качению. Чтобы избежать потери контроля над автомобилем, не рекомендуется делать резких движений.",
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
