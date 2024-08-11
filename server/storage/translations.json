@@ -3483,7 +3483,9 @@
             "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
             "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты.",
             "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
-            "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные (горизонтальные) знаки (дорожная разметка), обозначающие полосы движения."
+            "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные (горизонтальные) знаки (дорожная разметка), обозначающие полосы движения.",
+            "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
+            "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость."
         }
     },
     "not_approved": {
@@ -3655,8 +3657,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
-        "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
-        "Jak powinieneś się zachować wjeżdżając na odcinek drogi pokryty kałużami?": "Как вы должны вести себя, въезжая на участок дороги, покрытый лужами?",
         "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "1,6 milimetra": "1,6 миллиметра.",
