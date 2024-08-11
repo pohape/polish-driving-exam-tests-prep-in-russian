@@ -3619,7 +3619,8 @@
             "Utrzymać siłę nacisku na pedał hamulca": "Удерживать силу нажатия на педаль тормоза.",
             "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
             "Zwolnić pedał hamulca": "Отпустить педаль тормоза.",
-            "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какое действие следует предпринять, если работающая система ABS выталкивает педаль тормоза во время торможения?"
+            "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какое действие следует предпринять, если работающая система ABS выталкивает педаль тормоза во время торможения?",
+            "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза."
         }
     },
     "not_approved": {
@@ -3913,7 +3914,6 @@
         "Przez wprowadzenie informacji o zatrzymaniu do Centralnej Ewidencji Kierowców i poinformowaniu o tym fakcie, jeżeli nie posiada przy sobie dokumentu": "После внесения информации о временном изъятии в Центральный Регистр Водителей и уведомления об этом факте, если не имеет при себе документа.",
         "Przez zatrzymanie posiadanego prawa jazdy i wprowadzenie do Centralnej Ewidencji Kierowców informacji o zatrzymaniu prawa jazdy": "Через временное изъятие имеющегося водительского удостоверения и введение в Центральный Реестр Водителей информации о временном изъятии водительского удостоверения.",
         "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
-        "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
         "Niezabezpieczony pojazd może doprowadzić do kolejnych szkód": "Незащищённый транспортное средство может привести к дополнительным повреждениям.",
         "Czy w przedstawionej sytuacji zachowanie szczególnej ostrożność jest wymagane?": "В представленной ситуации требуется ли проявление особой осторожности?",
         "Czy na drodze ekspresowej, podczas postoju pojazdu silnikowego, który uległ awarii, masz obowiązek przez cały czas to sygnalizować?": "На \"drodze ekspresowej\", во время стоянки моторного транспортного средства, которое вышло из строя, обязан ли ты сигнализировать об этом все время?",
