@@ -3506,7 +3506,12 @@
             "Jaki może być skutek używania zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования изношенных щеток стеклоочистителя в автомобиле?",
             "Większe zużycie akumulatora": "Больший расход аккумулятора.",
             "Mniejsza widoczność drogi w czasie deszczu": "Уменьшенная видимость дороги во время дождя.",
-            "Mniejsze zużycie płynu do spryskiwaczy": "Меньший расход жидкости для омывателя."
+            "Mniejsze zużycie płynu do spryskiwaczy": "Меньший расход жидкости для омывателя.",
+            "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
+            "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
+            "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
+            "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
+            "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге."
         }
     },
     "not_approved": {
@@ -3579,7 +3584,6 @@
         "Pojazd posiada dodatkowe oznakowanie, które wskazuje, że jest nim przewożone dziecko.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок": "Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.Автомобиль имеет дополнительную маркировку, указывающую на то, что на нем перевозится ребенок.",
         "Zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот": "Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.Снижение сцепления колес с дорожным покрытием, затрудняющее поворот.",
         "Czy w przedstawionej sytuacji wolno Ci rozpocząć wyprzedzanie pojazdów jadących prawym pasem?": "В представленной ситуации разрешено ли вам начать обгон транспортных средств, движущихся по правой полосе?",
-        "Gdy zbliżasz się do pieszego idącego w tym samym kierunku": "Когда вы приближаетесь к пешеходу, идущему в том же направлении.",
         "Gdy zbliżasz się do jadącego przed tobą pojazdu i istnieje możliwość oślepienia kierującego": "Когда вы приближаетесь к движущемуся впереди транспортному средству,и есть вероятность ослепления водителя.",
         "Czy w tej sytuacji masz prawo zmienić pas ruchu bez wcześniejszego sygnalizowania tego manewru?": "Имеете ли вы право в этой ситуации менять полосу движения без предварительного сигнала об этом маневре?",
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
@@ -3693,10 +3697,8 @@
         "Dowolny, ale bezpieczny": "Любой, но безопасный.",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
-        "O silnych czołowych podmuchach wiatru": "О сильных фронтальных порывах ветра.",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
-        "Znak ostrzega przed miejscem, w którym mogą występować silne boczne podmuchy wiatru": "Знак предупреждает о месте, где могут возникать сильные боковые порывы ветра.",
         "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
@@ -3900,8 +3902,6 @@
         "Kierujący pojazdem jest obowiązany utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Водитель транспортного средства обязан поддерживать необходимую дистанцию для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
-        "W którym z wymienionych przypadków masz obowiązek zmienić światła drogowe na mijania?": "В каком из перечисленных случаев у тебя есть обязанность изменить дальний свет на ближний?",
-        "Gdy zbliżasz się do nadjeżdżającego poprzeczną drogą pojazdu": "Когда вы приближаетесь к ТС, движущемуся по поперечной дороге.",
         "Czy w tym miejscu wolno Ci zatrzymać pojazd na jezdni?": "Можно ли тебе остановить транспортное средство на проезжей части в этом месте?",
         "Czy skręcając w lewo na tym skrzyżowaniu wybrałeś właściwy tor jazdy?": "Вы выбрали правильную полосу движения, поворачивая налево на этом перекрестке?",
         "Czy zatrzymując pojazd na chodniku, musisz zapewnić pieszym przejście o szerokości co najmniej 2,5 m?": "Останавливая транспортное средство на тротуаре, должны ли вы обеспечить пешеходам проход шириной не менее 2,5 метра?",
@@ -4417,6 +4417,7 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
+        "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться."
     }
 }
