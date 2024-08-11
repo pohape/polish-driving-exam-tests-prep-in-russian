@@ -3714,7 +3714,8 @@
             "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?",
             "Ruszanie na suchej i płaskiej nawierzchni realizujemy z pierwszego biegu,": "Трогаемся с места на сухой и ровной поверхности на первой передаче.",
             "O czym świadczy skok pedału hamulca do dołu, gdy po jego wciśnięciu uruchomisz silnik pojazdu?": "О чем свидетельствует небольшое проваливание педали тормоза вниз, когда после ее нажатия ты заводишь двигатель автомобиля?",
-            "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы."
+            "Wraz z uruchomieniem silnika zaczyna działać wspomaganie układu hamulcowego": "С момента запуска двигателя начинает работать усилитель тормозной системы.",
+            "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса."
         }
     },
     "not_approved": {
@@ -4153,7 +4154,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса.",
         "Zużycie opony doprowadza do wydłużenia drogi hamowania": "Износ шины приводит к увеличению тормозного пути.",
         "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
