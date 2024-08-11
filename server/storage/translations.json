@@ -3635,7 +3635,10 @@
             "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Тормозной путь сокращается с увеличением скорости.",
             "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
             "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но при управлении автомобилем с полной массой, превышающей 2,5 тонны.",
-            "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом."
+            "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż 50 m- jeżeli kieruje pojazdem o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t lub autobusem": "Вне населенного пункта в туннелях длиной более 500 м водитель транспортного средства обязан соблюдать дистанцию от впереди идущего транспортного средства не менее 50 м, если он управляет транспортным средством с разрешенной максимальной массой не превышающей 3,5 т или автобусом.",
+            "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
+            "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее влияние на определение расстояния до транспортного средства, движущегося перед нами?",
+            "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла."
         }
     },
     "not_approved": {
@@ -3706,13 +3709,11 @@
         "Czy w tej sytuacji wskazania sygnałów świetlnych są ważniejsze niż znaki drogowe?": "Являются ли индикаторы светового сигнала более важными в этой ситуации, чем дорожные знаки?",
         "Czy na tej drodze wolno Ci zrezygnować z sygnalizowania zamiaru skrętu w prawo, jeśli nikt za Tobą nie jedzie?": "На этой дороге вам разрешено отказаться от сигнала о своем намерении повернуть направо, если за вами никто не едет?",
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
-        "Który z wymienionych czynników ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami?": "Какой из перечисленных факторов имеет решающее значение для определения расстояния до транспортного средства, идущего впереди нас?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
-        "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
@@ -4232,7 +4233,6 @@
         "Jest to powierzchnia wyłączona z ruchu": "Это поверхность, исключённая из движения.",
         "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
         "Kierującemu pojazdem zabrania się: wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю транспортного средства запрещается: обгонять транспортное средство на пешеходном переходе и непосредственно перед ним.",
-        "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
