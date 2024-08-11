@@ -334,9 +334,6 @@
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": [
             16697
         ],
-        "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa tramwajowi?": [
-            1601
-        ],
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu?": [
             610
         ],
@@ -344,8 +341,7 @@
             18308
         ],
         "Czy w tej sytuacji masz pierwszeństwo przed tramwajem?": [
-            1375,
-            1600
+            1375
         ],
         "Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd, który jedzie lewym pasem?": [
             959
