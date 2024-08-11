@@ -39,7 +39,8 @@
         "Do zniszczenia hamulców": "Для разрушения тормозов.",
         "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
-        "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения."
+        "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
+        "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством."
     },
     "approved": {
         "starosta": {
@@ -3675,7 +3676,8 @@
             "Pole widzenia zawęża się wraz ze wzrostem prędkości": "Поле зрения сужается с увеличением скорости.",
             "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
             "Zazwyczaj przez szyby obserwuje się drogę": "Обычно через окна наблюдают за дорогой.",
-            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя."
+            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя.",
+            "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?"
         }
     },
     "not_approved": {
@@ -3861,8 +3863,6 @@
         "Czy w przedstawionej sytuacji możesz wykonać manewr wyprzedzania?": "Вы можете выполнить маневр обгона в данной ситуации?",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
-        "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
-        "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
