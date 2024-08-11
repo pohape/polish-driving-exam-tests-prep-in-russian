@@ -3529,7 +3529,11 @@
             "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
             "Jaką funkcję spełnia system przeciwblokujący (ABS)?": "Какую функцию выполняет система противоблокировки (ABS)?",
             "Jak zabezpieczysz krwawienie z rany przy braku jałowego opatrunku?": "Как вы остановите кровотечение из раны при отсутствии стерильной повязки?",
-            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa tramwajowi skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу трамваю, поворачивающему налево?"
+            "Zamierzasz jechać na wprost. Czy masz obowiązek ustąpić pierwszeństwa tramwajowi skręcającemu w lewo?": "Вы собираетесь ехать прямо. Обязаны ли вы уступить дорогу трамваю, поворачивающему налево?",
+            "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS.",
+            "Mocno wcisnąć pedał hamulca i zmniejszyć nacisk w chwili zadziałania układu ABS": "Сильно нажать педаль тормоза и уменьшить нажим в момент срабатывания системы ABS.",
+            "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
+            "W jaki sposób powinieneś hamować awaryjnie samochodem osobowym wyposażonym w układ przeciwblokujący (ABS)?": "Каким образом вы должны производить экстренное торможение автомобилем, оборудованным антиблокировочной системой (ABS)?"
         }
     },
     "not_approved": {
@@ -4371,10 +4375,6 @@
         "Masz zamiar skręcić w prawo. Czy w przedstawionej sytuacji zatrzymasz się przed sygnalizatorem?": "Ты собираешься повернуть направо. Остановишься ли ты перед светофором в представленной ситуации?",
         "Czy w przedstawionej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom znajdującym się na skrzyżowaniu o ruchu okrężnym?": "Обязаны ли вы уступить дорогу ТС, находящимся на перекрестке с круговым движением в представленной ситуации?",
         "Pojazdy nadjeżdżające z przeciwka poruszają się drogą podporządkowaną": "Транспортные средства, приближающиеся с противоположной стороны, двигаются по второстепенной дороге.",
-        "W jaki sposób powinieneś hamować awaryjnie samochodem osobowym wyposażonym w układ przeciwblokujący (ABS)?": "Каким образом вы должны производить экстренное торможение автомобилем, оборудованным антиблокировочной системой (ABS)?",
-        "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
-        "Mocno wcisnąć pedał hamulca i nie zwalniać go w chwili zadziałania układu ABS": "Сильно нажать на педаль тормоза и не отпускать её в момент срабатывания системы ABS.",
-        "Mocno wcisnąć pedał hamulca i zmniejszyć nacisk w chwili zadziałania układu ABS": "Сильно нажать педаль тормоза и уменьшить нажим в момент срабатывания системы ABS.",
         "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если удвоить скорость?",
         "Wraz z dwukrotnym wzrostem prędkości droga hamowania wydłuża się czterokrotnie": "При двукратном увеличении скорости тормозной путь увеличивается вчетверо.",
         "Przewożąc osobę niepełnosprawną legitymującą się kartą parkingową można nie stosować się do zakazu ruchu": "Перевозя инвалида, имеющего парковочную карту, можно не соблюдать запрещающий знак.",
