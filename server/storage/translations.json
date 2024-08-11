@@ -34,7 +34,8 @@
         "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
-        "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения."
+        "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
+        "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения."
     },
     "approved": {
         "starosta": {
@@ -3588,7 +3589,10 @@
             "Tylko kierujący i pasażer siedzący na przednim siedzeniu": "Только водитель и пассажир, сидящий на переднем сиденье.",
             "Kierujący i pasażer - na przednim siedzeniu zawsze, a na tylnym tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Водитель и пассажир - на переднем сиденье всегда, а на заднем только тогда, когда транспортное средство движется за пределами населенного пункта.",
             "Czy dorosły pasażer samochodu osobowego przewożony na tylnym siedzeniu ma obowiązek używania pasów bezpieczeństwa?": "Обязан ли взрослый пассажир легкового автомобиля, перевозимый на заднем сиденье, пользоваться ремнями безопасности?",
-            "Tak, ale tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Да, но только в том случае, если транспортное средство движется за пределами населенного пункта."
+            "Tak, ale tylko wówczas, gdy pojazd porusza się poza obszarem zabudowanym": "Да, но только в том случае, если транспортное средство движется за пределами населенного пункта.",
+            "Dziecko mające mniej niż 150 cm wzrostu powinno być przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym": "Ребенок ростом менее 150 см должен перевозиться в детском автокресле или другом удерживающем устройстве.",
+            "Czy masz prawo przewozić niemowlaka na kolanach osoby dorosłej?": "Имеете ли вы право перевозить младенца на коленях у взрослого?",
+            "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что этот человек использует ремни безопасности."
         }
     },
     "not_approved": {
@@ -3796,10 +3800,8 @@
         "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?": "Будучи участником дорожно-транспортного происшествия, обязаны ли вы оказать помощь пострадавшим, даже если у вас нет медицинских квалификаций?",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego na wprost?": "В данной ситуации, поворачивая налево на перекрестке, обязаны ли вы уступить дорогу ТС, движущемуся прямо из противоположного направления?",
         "Czy w przedstawionej sytuacji możesz wykonać manewr wyprzedzania?": "Вы можете выполнить маневр обгона в данной ситуации?",
-        "Czy masz prawo przewozić niemowlaka na kolanach osoby dorosłej?": "Имеете ли вы право перевозить младенца на коленях у взрослого?",
         "Oznaczanie niesprawnych tylnych świateł pozycyjnych poruszającego się pojazdu": "Обозначение неисправных задних габаритных огней движущегося транспортного средства.",
         "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
-        "Tak, ale pod warunkiem, że osoba ta korzysta z pasów bezpieczeństwa": "Да, но при условии, что эта особа пользуется ремнями безопасности.",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
@@ -4027,7 +4029,6 @@
         "Ten pas służy do jazdy na wprost": "Эта полоса предназначена для движения прямо.",
         "Na wyspie dzielącej jezdnie znajduje się pieszy zamierzający skorzystać z przejścia": "На островке, разделяющем проезжие части, находится пешеход, намеревающийся воспользоваться переходом.",
         "Zabrania się pozostawiania otwartych drzwi": "Запрещается оставлять двери открытыми.",
-        "Dziecko mające mniej niż 150 cm wzrostu powinno być przewożone w foteliku bezpieczeństwa dla dziecka lub innym urządzeniu przytrzymującym": "Ребенок ростом менее 150 см должен перевозиться в детском автокресле или другом удерживающем устройстве.",
         "Kierujący pojazdem, zbliżając się do skrzyżowania, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z prawej strony": "Водитель ТС, приближающийся к перекрестку, обязан проявить особую осторожность и уступить дорогу ТС, приближающемуся справа.",
         "Wyjeżdżając ze strefy zamieszkania jesteśmy włączającym się do ruchu": "При выезде из жилой зоны мы включаемся в движение.",
         "Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości bezpośrednio po wyprzedzeniu": "Водителю обгоняемого транспортного средства запрещается увеличивать скорость непосредственно после обгона.",
@@ -4189,7 +4190,6 @@
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
         "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника.",
-        "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
         "Odległość ta powinna wynosić 30 - 50 m": "Это расстояние должно составлять 30 - 50 м.",
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
