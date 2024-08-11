@@ -3559,7 +3559,10 @@
             "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
             "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Следует ли учитывать состояние и нагрузку транспортного средства при выборе скорости движения?",
             "powinien zostawić jedno wolne stanowisko postojowe,": "должен оставить одно свободное парковочное место,",
-            "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан применять способ стоянки, указанный дорожными знаками,"
+            "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан применять способ стоянки, указанный дорожными знаками,",
+            "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
+            "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
+            "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота."
         }
     },
     "not_approved": {
@@ -3649,8 +3652,6 @@
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
-        "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
-        "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по дуге дороги.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
@@ -3743,7 +3744,6 @@
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
         "Kierujący pojazdem, przejeżdżając obok autobusu szkolnego, jest obowiązany zachować szczególną ostrożność": "Водитель транспортного средства, проезжая мимо школьного автобуса, обязан проявлять особую осторожность.",
-        "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 6 miesięcy": "Если с момента изъятия водительского удостоверения прошло более 6 месяцев.",
         "Ruszanie na suchej nawierzchni należy realizować na pierwszym biegu": "Трогаться на сухом покрытии следует на первой передаче.",
         "Czy w tej sytuacji wolno Ci wykonać manewr wyprzedzania?": "В данной ситуации разрешается ли вам выполнить маневр обгона?",
@@ -3852,7 +3852,6 @@
         "Wjeżdżając w łuk": "Въезжая на изгиб.",
         "W którym momencie, kierując motocyklem, powinieneś rozpocząć hamowanie zamierzając pokonać ostry łuk drogi?": "В какой момент, управляя мотоциклом, ты должен начать торможение, намереваясь преодолеть крутой поворот дороги?",
         "Czy możesz zatrzymać pojazd na chodniku zostawiając przejście o szerokości 2 m, jeśli utrudni to ruch pieszym?": "Можешь ли ты остановить транспортное средство на тротуаре, оставив проход шириной 2 метра, если это затруднит движение пешеходов?",
-        "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
         "Wskazania sygnalizacji są ważniejsze od zasad ogólnych regulujących pierwszeństwem": "Указания светофора важнее общих правил, регулирующих преимущество.",
         "Czy w tej sytuacji masz obowiązek zabezpieczyć miejsce zdarzenia?": "В этой ситуации у тебя есть обязанность обезопасить место происшествия?",
         "Zamierzasz skręcić w prawo, a kierujący nadjeżdżający z przeciwka planuje skręcić w lewo. Czy masz pierwszeństwo?": "Вы планируете повернуть направо, а водитель приближающегося встречного ТС планирует повернуть налево. У вас есть преимущество?",
@@ -4424,6 +4423,7 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK"
+        "ДА": "TAK",
+        "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по изгибу дороги."
     }
 }
