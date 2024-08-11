@@ -37,7 +37,8 @@
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
         "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения пути торможения по крайней мере вдвое.",
-        "Do zniszczenia hamulców": "Для разрушения тормозов."
+        "Do zniszczenia hamulców": "Для разрушения тормозов.",
+        "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м."
     },
     "approved": {
         "starosta": {
@@ -3620,7 +3621,10 @@
             "Zmniejszyć siłę nacisku na pedał hamulca": "Уменьшить силу нажатия на педаль тормоза.",
             "Zwolnić pedał hamulca": "Отпустить педаль тормоза.",
             "Którą z czynności należy wykonać, gdy działający system ABS wypycha w czasie hamowania pedał hamulca?": "Какое действие следует предпринять, если работающая система ABS выталкивает педаль тормоза во время торможения?",
-            "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза."
+            "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
+            "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
+            "Dowolny, ale bezpieczny": "Любой, но безопасный.",
+            "Nie mniejszy niż 0.5 metra": "Не меньше чем 0,5 метра."
         }
     },
     "not_approved": {
@@ -3787,7 +3791,6 @@
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
         "Jeżeli od dnia zatrzymania prawa jazdy upłynął okres przekraczający 1 rok": "Если с момента изъятия водительских прав прошло более 1 года.",
-        "Dowolny, ale bezpieczny": "Любой, но безопасный.",
         "Czy w tym miejscu masz prawo zmienić zajmowany pas ruchu na pas lewy?": "Имеете ли вы право в этом месте перестроиться с занимаемой полосы на левую полосу?",
         "Czy dopuszczalne jest włączenie świateł awaryjnych w pojeździe holującym?": "Допускается ли включение аварийных огней на транспортном средстве, осуществляющем буксировку?",
         "Czy w tej sytuacji powinieneś zachować szczególną ostrożność?": "В этой ситуации следует ли вам проявлять особую осторожность?",
@@ -4076,14 +4079,12 @@
         "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
-        "Nie mniejszy niż 0.5 metra": "Фрагмент для перевода: \"Не меньше чем 0.5 метра.\"",
         "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать.",
         "Nie można używać świateł drogowych jeśli niesie to ryzyko oślepienia innych kierujących": "Нельзя использовать дальний свет, если это несет риск ослепления других водителей.",
         "W miejscach, które poprzedzone są znakami ostrzegawczymi należy zachować szczególną ostrożność": "На участках, которые предупреждаются дорожными знаками, следует проявлять особую осторожность.",
         "Świadczy o tym schemat dróg umieszczony na tabliczce pod znakiem": "Это подтверждает схема дорог, размещенная на табличке под знаком.",
         "Kierujący pojazdem, zmieniając zajmowany pas ruchu, jest obowiązany ustąpić pierwszeństwa pojazdowi jadącemu po pasie ruchu, na który zamierza wjechać, oraz pojazdowi wjeżdżającemu na ten pas z prawej strony": "Водитель ТС, изменяющий занимаемую полосу движения, обязан уступить дорогу ТС, движущемуся по полосе движения, на которую он намеревается въехать, а также ТС, въезжающему на эту полосу справа.",
         "Zabrania się wyprzedzania na przejściu dla pieszych oraz bezpośrednio przed nim": "Запрещается обгон на пешеходном переходе, а также непосредственно перед ним.",
-        "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
         "Zabrania się zatrzymania na powierzchni wyłączonej z ruchu": "Запрещается останавливаться на поверхности, исключенной из движения.",
         "Świadczy o tym umieszczenie znaku \"STOP\"": "Это подтверждает размещение знака \"СТОП\".",
         "Byłoby to nieuzasadnione użycie sygnału dźwiękowego": "Это было бы необоснованным использованием звукового сигнала.",
