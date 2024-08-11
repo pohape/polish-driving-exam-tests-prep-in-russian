@@ -3673,7 +3673,9 @@
             "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
             "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
             "Pole widzenia zawęża się wraz ze wzrostem prędkości": "Поле зрения сужается с увеличением скорости.",
-            "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения."
+            "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
+            "Zazwyczaj przez szyby obserwuje się drogę": "Обычно через окна наблюдают за дорогой.",
+            "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя."
         }
     },
     "not_approved": {
@@ -4200,7 +4202,6 @@
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
         "Chcesz wysadzić pasażera. Czy za tym znakiem możesz się zatrzymać w dowolnym miejscu przy prawej krawędzi jezdni?": "Вы хотите высадить пассажира. Можете ли вы остановиться в любом месте у правого края проезжей части после этого знака?",
         "Cofanie w strefie zamieszkania jest dozwolone": "Движение задним ходом в жилой зоне разрешено.",
-        "Wraz ze wzrostem prędkości zawęża się pole widzenia kierującego": "С увеличением скорости сужается поле зрения водителя.",
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
