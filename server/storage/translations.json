@@ -3482,7 +3482,8 @@
             "Każdy gwałtowny ruch kierownicą na śliskiej nawierzchni zwiększa ryzyko utraty kontroli nad pojazdem": "Любое резкое движение рулем на скользкой поверхности увеличивает риск потери контроля над транспортным средством.",
             "Obfitych opadów śniegu": "Обильных снегопадов.",
             "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
-            "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты."
+            "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты.",
+            "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных."
         }
     },
     "not_approved": {
@@ -4201,7 +4202,6 @@
         "Rowerzysta - cyrkowiec nie wzbudza zaufania. Dość łatwo o upadek": "Велосипедист-циркач не внушает доверия. Падение может случиться довольно легко.",
         "Kierującemu pojazdem zabrania się: wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю транспортного средства запрещается: обгонять транспортное средство на пешеходном переходе и непосредственно перед ним.",
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
-        "Znak widoczny na zdjęciu ostrzega o możliwości napotkania na drodze zwierząt dzikich": "Знак, видимый на фотографии, предупреждает о возможности встречи на дороге диких животных.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
