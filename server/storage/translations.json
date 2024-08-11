@@ -15,7 +15,6 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
-        "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
         "Policjant zatrzyma prawo jazdy za pokwitowaniem gdy upłynął jego termin ważności": "Полицейский временно изъял водительское удостоверение с выдачей свидетельства о временном изъятии, когда истек его срок действия.",
@@ -3734,7 +3733,8 @@
             "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение уровня шума.",
             "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu": "В ситуации спуска с возвышенности по дороге с большей интенсивностью движения.",
             "W sytuacji zjeżdżania ze wzniesienia": "В ситуации спуска с возвышенности.",
-            "W sytuacji nagłego przyspieszenia na mokrej nawierzchni": "В ситуации внезапного ускорения на мокром покрытии."
+            "W sytuacji nagłego przyspieszenia na mokrej nawierzchni": "В ситуации внезапного ускорения на мокром покрытии.",
+            "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге."
         }
     },
     "not_approved": {
@@ -4126,7 +4126,6 @@
         "Czy w przedstawionej sytuacji skręcając w prawo masz obowiązek ustąpić pierwszeństwa pieszemu?": "Есть ли у вас обязанность уступить дорогу пешеходу, когда поворачиваете направо в данной ситуации?",
         "Czy podczas kierowania pojazdem masz obowiązek stale zachowywać ostrożność?": "Следует ли вам всегда проявлять осторожность при вождении транспортного средства?",
         "Czy w tej sytuacji, chcąc bezpiecznie wykonać manewr omijania, masz obowiązek zmniejszyć prędkość pojazdu?": "В данной ситуации, желая безопасно выполнить маневр объезда, обязан ли ты снизить скорость ТС?",
-        "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
         "Czy w tej sytuacji powinieneś był upewnić się, że możesz bezpiecznie zmienić pas ruchu?": "В этой ситуации ты должен был убедиться, что можешь безопасно сменить полосу движения?",
         "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
         "Zabrania się wyprzedzania na przejeździe dla rowerzystów oraz bezpośrednio przed nim": "Запрещается обгон на переезде для велосипедистов, а также непосредственно перед ним.",
@@ -4444,6 +4443,7 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
+        "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения."
     }
 }
