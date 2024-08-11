@@ -3545,7 +3545,8 @@
             "Nie mniejszy niż 40 metrów": "Не меньше чем 40 метров.",
             "Nie mniejszy niż 30 metrów": "Не меньше 30 метров.",
             "Jak duży odstęp od poprzedzającego pojazdu należy utrzymywać, kierując samochodem osobowym poza obszarem zabudowanym w tunelu o długości 600 metrów?": "Какую дистанцию от впереди идущего транспортного средства необходимо сохранять, управляя автомобилем вне населенного пункта в туннеле длиной 600 метров?",
-            "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?"
+            "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
+            "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения."
         }
     },
     "not_approved": {
@@ -4223,7 +4224,6 @@
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
-        "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
         "Tylko lekarz": "Только врач.",
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
         "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
