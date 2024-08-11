@@ -3552,7 +3552,8 @@
             "Przysunę jak najbliżej kierownicy": "Я поднесу как можно ближе к рулю.",
             "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
             "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
-            "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?"
+            "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
+            "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?"
         }
     },
     "not_approved": {
@@ -3684,7 +3685,6 @@
         "Czy w tej sytuacji masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "В этой ситуации имеете ли вы право остановить легковой автомобиль колесами одного бока на тротуаре?",
         "Czy uczestnicząc w wypadku, w którym są ranni, masz obowiązek usunąć swój pojazd z miejsca zdarzenia, aby nie utrudniał ruchu?": "Обязаны ли вы убрать свой автомобиль с места происшествия, где есть пострадавшие, чтобы не мешать движению?",
         "Czy w przedstawionej sytuacji kierujący jest obowiązany zatrzymać pojazd przed jezdnią przy linii złożonej z trójkątów?": "Обязан ли в данной ситуации водитель остановить транспортное средство перед проезжей частью у линии, состоящей из треугольников?",
-        "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
         "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
