@@ -30,7 +30,7 @@
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какого из этих действий вы не имеете права выполнять автомобилем?"
+        "Masy własnej samochodu": "Масса собственная автомобиля."
     },
     "approved": {
         "starosta": {
@@ -3489,7 +3489,10 @@
             "Stopniowo zwiększyć prędkość": "Постепенно увеличить скорость.",
             "Ograniczyć prędkość, ponieważ możesz spodziewać się poślizgu kół": "Снизить скорость, потому что можете ожидать пробуксовки колес.",
             "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej widoczności": "Водитель транспортного средства обязан проявлять особую осторожность во время движения в условиях сниженной видимости.",
-            "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары."
+            "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары.",
+            "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
+            "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какое из этих действий вам не разрешено выполнять автомобилем?",
+            "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства."
         }
     },
     "not_approved": {
@@ -3882,7 +3885,6 @@
         "Czy cofanie na drogę dwukierunkową jest zabronione?": "Запрещено ли двигаться задним ходом на дорогу с двусторонним движением?",
         "Czy masz prawo użyć sygnału dźwiękowego, by ostrzec innych przed bezpośrednim niebezpieczeństwem?": "Имеешь ли ты право использовать звуковой сигнал, чтобы предупредить других о непосредственной опасности?",
         "Nie ma przepisu, który by tego zabraniał": "Нет такого правила, которое бы это запрещало.",
-        "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
         "Kierujący pojazdem jest obowiązany utrzymywać odstęp niezbędny do uniknięcia zderzenia w razie hamowania lub zatrzymania się poprzedzającego pojazdu": "Водитель транспортного средства обязан поддерживать необходимую дистанцию для избежания столкновения в случае торможения или остановки впереди идущего ТС.",
         "Czy w tej sytuacji powinieneś zmienić pas ruchu na prawy?": "В этой ситуации следует ли вам перейти на правую полосу?",
         "Czy masz prawo zatrzymać pojazd pod wiaduktem, gdy znaki tego nie zabraniają?": "Имеете ли вы право остановить транспортное средство под эстакадой, если знаки этого не запрещают?",
@@ -3958,10 +3960,6 @@
         "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa autobusowi jadącemu z przeciwka na wprost?": "Вы собираетесь повернуть налево на перекрестке. Обязаны ли вы уступить дорогу автобусу, идущему навстречу прямо?",
         "Czy skręcając w lewo na tym skrzyżowaniu należy zachować szczególną ostrożność?": "Нужно ли проявлять особую осторожность, поворачивая налево на этом перекрестке?",
         "Czy w przedstawionej sytuacji dozwolona jest dalsza jazda przez skrzyżowanie, jeżeli nastąpi zatrzymanie pojazdu przed sygnalizacją?": "В данной ситуации разрешено ли движение через перекресток, если остановка транспортного средства произошла перед светофором?",
-        "Rzeczywistej masy całkowitej samochodu": "Фактическая полная масса автомобиля.",
-        "Masy własnej samochodu": "Масса собственная автомобиля.",
-        "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической общей массы автомобиля уменьшенной на 40%.",
-        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какой величины не имеет права превышать фактическая общая масса прицепа, буксируемого автомобилем?",
         "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Дистанция торможения уменьшается с увеличением скорости.",
         "Czy w tej sytuacji wolno Ci kontynuować jazdę przez przejście dla pieszych bez zatrzymania?": "Разрешается ли вам в данной ситуации продолжить движение через пешеходный переход без остановки?",
         "Czy w tej sytuacji wolno Ci zrezygnować z użycia kierunkowskazu zanim zmienisz pas ruchu?": "В этой ситуации разрешается ли вам отказаться от использования указателя поворота перед сменой полосы движения?",
@@ -4156,7 +4154,6 @@
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
-        "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства.",
         "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
@@ -4415,6 +4412,9 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
+        "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической полной массы автомобиля, уменьшенной на 40%.",
+        "Rzeczywistej masy całkowitej samochodu": "Фактической полной массы автомобиля.",
+        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какого размера не должна превышать фактическая полная масса прицепа, буксируемого автомобилем?"
     }
 }
