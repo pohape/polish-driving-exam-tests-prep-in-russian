@@ -3748,7 +3748,9 @@
             "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Разрешено ли вам управлять транспортным средством, у которого номерной знак не виден?",
             "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
             "Międzynarodowe prawo jazdy jest wydawane przez każdego starostę, na wniosek osoby zainteresowanej, za opłatą na podstawie krajowego prawa jazdy": "Международное водительское удостоверение выдается каждым старостой по заявлению заинтересованного лица за плату на основании национального водительского удостоверения.",
-            "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?"
+            "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
+            "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
+            "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?"
         }
     },
     "not_approved": {
@@ -4119,7 +4121,6 @@
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
         "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
         "Czy w tej sytuacji masz prawo wyprzedzić rowerzystę, jeżeli wymaga to najechania na podwójną linię ciągłą?": "Имеете ли вы право в этой ситуации обогнать велосипедиста, если для этого требуется занять полосу с двойной сплошной линией?",
-        "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
         "Czy w przedstawionej sytuacji skręcając w prawo ustąpisz pierwszeństwa rowerzyście?": "Вы уступите дорогу велосипедисту, поворачивая направо в представленной ситуации?",
         "Czy zabrania się cofania na drodze jednokierunkowej?": "Запрещается ли движение задним ходом на дороге с односторонним движением?",
         "Linia podwójna ciągła jest linią nieprzekraczalną": "Двойная сплошная линия - это линия, которую нельзя пересекать.",
@@ -4181,7 +4182,6 @@
         "Czy wolno Ci położyć bezpośrednio na ranę kompres z wyjałowionej gazy?": "Разрешается ли тебе положить прямо на рану компресс из стерильной повязки?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed rowerzystą?": "У вас есть преимущество перед велосипедистом, если вы едете прямо на этом перекрестке?",
         "Czy na tym odcinku jezdni jednokierunkowej wolno Ci wyprzedzić pojazd z prawej strony?": "Разрешено ли тебе обгонять транспортное средство с правой стороны на этом участке дороги с односторонним движением?",
-        "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
         "Czy zbliżając się do przejścia dla pieszych masz obowiązek obserwować jego otoczenie?": "Приближаясь к пешеходному переходу, обязан ли ты наблюдать за его обстановкой?",
         "Różne pola widzenia kierowców, widoczność kierowców motocykli": "Разные поля зрения водителей, видимость водителей мотоциклов.",
         "Wyposażenie pojazdu związane z bezpieczeństwem, wykorzystanie środków ochronnych, takich jak rękawice, obuwie, ubranie i kask": "Обязательная часть комплектации ТС, связанная с безопасностью, использование средств защиты, таких как перчатки, обувь, одежда и шлем.",
