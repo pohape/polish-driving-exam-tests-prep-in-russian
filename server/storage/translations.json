@@ -3649,7 +3649,11 @@
             "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
             "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
             "Wraz ze wzrostem prędkości kąt widzenia zawęża się": "С увеличением скорости угол зрения сужается.",
-            "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя."
+            "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя.",
+            "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
+            "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
+            "Lusterko wewnętrzne": "Зеркало внутреннее.",
+            "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой."
         }
     },
     "not_approved": {
@@ -3923,7 +3927,6 @@
         "Poruszamy się drogą podporządkowaną. (Znak \"STOP\")": "Мы движемся по второстепенной дороге. (Знак \"СТОП\")",
         "Pieszy, przechodząc przez jezdnię lub torowisko, jest obowiązany zachować szczególną ostrożność oraz, korzystać z przejścia dla pieszych. Pieszy znajdujący się na tym przejściu ma pierwszeństwo przed pojazdem": "Пешеход, переходя через проезжую часть или пути трамвайные, обязан проявлять особую осторожность и использовать пешеходный переход. Пешеход, находящийся на этом переходе, имеет преимущество перед транспортным средством.",
         "Cofając kierujący ma obowiązek ustąpić pierwszeństwa innemu pojazdowi lub uczestnikowi ruchu i zachować szczególną ostrożność": "Двигаясь задним ходом, водитель обязан уступить дорогу другому транспортному средству или участнику дорожного движения и проявлять особую осторожность.",
-        "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
         "W lusterku wstecznym powinno się widzieć tylną szybę i przestrzeń za pojazdem": "В зеркале заднего вида должно отражаться заднее стекло и пространство позади транспортного средства.",
         "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
         "Kierując się zasadą ograniczonego zaufania należy rozpocząć hamowanie,": "Управляясь принципом ограниченного доверия, следует начать торможение,",
@@ -3995,8 +3998,6 @@
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
         "Czy w przedstawionej sytuacji wyprzedzanie jest dozwolone?": "Разрешён ли обгон в представленной ситуации?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, приближающимся слева?",
-        "Lusterko wewnętrzne": "Внутреннее зеркало.",
-        "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
         "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
         "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
         "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
@@ -4203,7 +4204,6 @@
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
-        "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
         "Odległość ta powinna wynosić 30 - 50 m": "Это расстояние должно составлять 30 - 50 м.",
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
         "Zamierzasz skręcić w prawo. Czy musisz sygnalizować zamiar tego manewru prawym kierunkowskazem?": "Вы намереваетесь повернуть направо. Должны ли вы сигнализировать о намерении выполнить этот маневр правым указателем поворота?",
