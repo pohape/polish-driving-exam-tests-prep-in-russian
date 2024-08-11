@@ -15,7 +15,6 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
-        "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума.",
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
         "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек сообщает о включенных ближних фарах?",
@@ -3731,7 +3730,8 @@
             "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
             "O dowolnym tonie": "Любой тональности",
             "O zmiennym tonie": "Переменной тональности",
-            "O ciągłym nieprzeraźliwym tonie": "Непрерывной спокойной тональности"
+            "O ciągłym nieprzeraźliwym tonie": "Непрерывной спокойной тональности",
+            "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение уровня шума."
         }
     },
     "not_approved": {
