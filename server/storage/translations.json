@@ -32,7 +32,6 @@
         "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
         "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод.",
         "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»",
-        "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
@@ -3633,7 +3632,8 @@
             "Prędkość jazdy nie ma wpływu na drogę hamowania": "Скорость движения не влияет на тормозной путь.",
             "Im wyższa prędkość tym dłuższa droga hamowania": "Чем выше скорость, тем длиннее тормозной путь.",
             "Droga hamowania ulega skróceniu wraz ze wzrostem prędkości": "Тормозной путь сокращается с увеличением скорости.",
-            "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения."
+            "Tylko na prędkość jazdy innych uczestników ruchu": "Только на скорость движения других участников движения.",
+            "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но при управлении автомобилем с полной массой, превышающей 2,5 тонны."
         }
     },
     "not_approved": {
