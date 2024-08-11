@@ -33,7 +33,8 @@
         "Zużyte pióra rozmazują wilgoć na przedniej szybie": ",​ ...\n\n​ .... and ... ... A ..., ...,...... the\n\n Sm Live...… Hopefully ...\n\n ﻿\n\n,​d up\/...... pub\n\n, ...… can d, because ......, pro, ex am ... etc ...… ... ? … A Cur my (... etc...... ...,,,,,…, ...​ ...)..., true my tip OS​ blah;\n\n\n\n\n\n ex ... ...\n\n ... the... a bra... very,,,,….. a guy We're Call of Duty when each methodic Cursed; wait a billion Years and a week after 2021. Значит, несмотря на представленные ошибки, вам нужно перевести польский фрагмент на русский язык. Больше ничего не добавляйте от себя, просто предоставьте перевод.",
         "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
-        "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске."
+        "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
+        "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения."
     },
     "approved": {
         "starosta": {
@@ -3573,7 +3574,11 @@
             "zwiększa ryzyko powstania obrażeń lekkich": "увеличивает риск возникновения легких травм.",
             "nie ma wpływu na ryzyko powstania obrażeń bez względu na ich rodzaj": "не влияет на риск возникновения травм, независимо от их типа.",
             "Korzystanie z pasów zmniejsza ryzyko powstania obrażeń ciężkich lub śmiertelnych": "Использование ремней снижает риск получения тяжелых или смертельных травм.",
-            "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжёлых травм при лобовых столкновениях?"
+            "Jaki wpływ ma stosowanie pasów bezpieczeństwa na powstanie obrażeń ciężkich przy zderzeniach czołowych?": "Какое влияние оказывает использование ремней безопасности на возникновение тяжёлых травм при лобовых столкновениях?",
+            "W której sytuacji zapięty pas bezpieczeństwa nie będzie działał właściwie?": "В какой ситуации пристегнутый ремень безопасности не будет работать должным образом?",
+            "Gdy jest on skręcony": "Когда он повернут.",
+            "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи.",
+            "Gdy jest on napięty": "Когда он натянут."
         }
     },
     "not_approved": {
@@ -3990,9 +3995,6 @@
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu, jeśli zamierzasz zmienić pas ruchu?": "В данной ситуации у вас есть обязанность использования указателя поворота, если вы намереваетесь сменить полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego?": "В этой ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, едущему из противоположного направления?",
         "Jaki odstęp musisz zachować od omijanej przeszkody?": "Какую дистанцию вы должны соблюсти от объезжаемого препятствия?",
-        "Gdy jest on skręcony": "Когда он повернут.",
-        "W której sytuacji zapięty pas bezpieczeństwa nie będzie działał właściwie?": "В какой ситуации пристегнутый ремень безопасности не будет работать должным образом?",
-        "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи.",
         "Czy wyjeżdżając z parkingu powinieneś ustąpić pierwszeństwa pojazdom jadącym po jezdni?": "Выезжая с парковки, должны ли вы уступить дорогу ТС, идущим по проезжей части?",
         "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
         "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или диски тормозные.",
@@ -4426,7 +4428,6 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK",
-        "Gdy jest on napięty": "Когда он натянут."
+        "ДА": "TAK"
     }
 }
