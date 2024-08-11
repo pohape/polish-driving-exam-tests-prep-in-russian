@@ -3647,7 +3647,9 @@
             "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
             "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
             "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
-            "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения."
+            "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
+            "Wraz ze wzrostem prędkości kąt widzenia zawęża się": "С увеличением скорости угол зрения сужается.",
+            "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя."
         }
     },
     "not_approved": {
@@ -3994,7 +3996,6 @@
         "Czy w przedstawionej sytuacji wyprzedzanie jest dozwolone?": "Разрешён ли обгон в представленной ситуации?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, приближающимся слева?",
         "Lusterko wewnętrzne": "Внутреннее зеркало.",
-        "Używanie klimatyzacji podczas opadów deszczu": "Использование кондиционера во время дождя.",
         "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
         "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
         "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
@@ -4437,6 +4438,7 @@
         "НЕТ": "НЕТ",
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
-        "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?"
+        "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
     }
 }
