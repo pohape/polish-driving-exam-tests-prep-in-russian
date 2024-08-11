@@ -3692,7 +3692,9 @@
             "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
             "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
             "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
-            "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства."
+            "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства.",
+            "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
+            "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Снизить скорость и ждать, пока лампочка погаснет."
         }
     },
     "not_approved": {
@@ -3706,7 +3708,6 @@
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
-        "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
         "Dopuszcza się wyprzedzanie na przejściach dla pieszych z sygnalizacją świetlną": "Допускается обгон на пешеходных переходах со светофором.",
@@ -4443,7 +4444,6 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
-        "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Снизить скорость и ждать, пока лампочка погаснет."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
     }
 }
