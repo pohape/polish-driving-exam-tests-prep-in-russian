@@ -40,8 +40,7 @@
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "W miarę możliwości należy obserwować jak tylko można najwięcej": "По мере возможности необходимо наблюдать, как только можно больше.",
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
-        "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
-        "O zmiennym tonie": "О переменном тоне."
+        "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги."
     },
     "approved": {
         "starosta": {
@@ -3730,8 +3729,9 @@
             "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
             "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
             "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-            "O dowolnym tonie": "О любом тоне.",
-            "O ciągłym nieprzeraźliwym tonie": "O непрерывном непронзительном тоне."
+            "O dowolnym tonie": "Любой тональности",
+            "O zmiennym tonie": "Переменной тональности",
+            "O ciągłym nieprzeraźliwym tonie": "Непрерывной спокойной тональности"
         }
     },
     "not_approved": {
