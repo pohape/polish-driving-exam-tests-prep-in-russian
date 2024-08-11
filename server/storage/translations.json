@@ -3476,7 +3476,8 @@
             "Zużyciem opon": "Износом шин.",
             "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
             "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
-            "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?"
+            "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?",
+            "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "За пределами населенного пункта при возникновении тумана водитель должен подавать короткие звуковые сигналы во время обгона или объезда."
         }
     },
     "not_approved": {
