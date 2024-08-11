@@ -4204,7 +4204,6 @@
         "Prędkość pojazdu ma decydujący wpływ na określanie odległości od pojazdu jadącego przed nami": "Скорость транспортного средства имеет решающее влияние на определение расстояния от движущегося перед нами транспортного средства.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
-        "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Принимая во внимание наземные знаки, обозначающие полосы движения.",
         "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
         "Do przejęcia stabilizacji przez członka zespołu ratownictwa medycznego": "Для передачи стабилизации члену команды медицинского спасения.",
@@ -4422,6 +4421,7 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
+        "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные знаки, обозначающие полосы движения."
     }
 }
