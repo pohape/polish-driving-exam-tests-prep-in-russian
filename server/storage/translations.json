@@ -40,7 +40,8 @@
         "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
-        "W miarę możliwości należy obserwować jak tylko można najwięcej": "По мере возможности необходимо наблюдать, как только можно больше."
+        "W miarę możliwości należy obserwować jak tylko można najwięcej": "По мере возможности необходимо наблюдать, как только можно больше.",
+        "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса."
     },
     "approved": {
         "starosta": {
@@ -3700,7 +3701,11 @@
             "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
             "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
             "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
-            "Niebieski kolor spalin świadczy o tym, że silnik przepala przedostający się do komór spalania olej. Czarny kolor spalin może oznaczać problem z układem wtryskowym w przypadku silników Diesla": "Синий цвет выхлопных газов свидетельствует о том, что двигатель сжигает проникающее в камеры сгорания масло. Черный цвет выхлопных газов может свидетельствовать о проблеме с топливной системой в случае дизельных двигателей."
+            "Niebieski kolor spalin świadczy o tym, że silnik przepala przedostający się do komór spalania olej. Czarny kolor spalin może oznaczać problem z układem wtryskowym w przypadku silników Diesla": "Синий цвет выхлопных газов свидетельствует о том, что двигатель сжигает проникающее в камеры сгорания масло. Черный цвет выхлопных газов может свидетельствовать о проблеме с топливной системой в случае дизельных двигателей.",
+            "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?": "В каком из перечисленных случаев использование автомобиля не угрожает безопасности дорожного движения?",
+            "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
+            "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
+            "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или тормозные диски."
         }
     },
     "not_approved": {
@@ -4035,9 +4040,6 @@
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu, jeśli zamierzasz zmienić pas ruchu?": "В данной ситуации у вас есть обязанность использования указателя поворота, если вы намереваетесь сменить полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego?": "В этой ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, едущему из противоположного направления?",
         "Czy wyjeżdżając z parkingu powinieneś ustąpić pierwszeństwa pojazdom jadącym po jezdni?": "Выезжая с парковки, должны ли вы уступить дорогу ТС, идущим по проезжей части?",
-        "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
-        "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или диски тормозные.",
-        "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?": "В каком из перечисленных случаев использование автомобиля не угрожает безопасности дорожного движения?",
         "Znak drogowy informuje jedynie o przejściu dla pieszych": "Дорожный знак информирует только о пешеходном переходе.",
         "Zamierzasz skręcić w lewo na skrzyżowaniu. Czy masz obowiązek ustąpić pierwszeństwa autobusowi jadącemu z przeciwka na wprost?": "Вы собираетесь повернуть налево на перекрестке. Обязаны ли вы уступить дорогу автобусу, идущему навстречу прямо?",
         "Czy skręcając w lewo na tym skrzyżowaniu należy zachować szczególną ostrożność?": "Нужно ли проявлять особую осторожность, поворачивая налево на этом перекрестке?",
@@ -4150,8 +4152,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
-        "Krótkotrwałe użycie koła dojazdowego, gdy jedna z opon uległa uszkodzeniu": "Кратковременное использование запасного колеса, когда одна из шин была повреждена.",
         "Świecąca się na czerwono lampka kontrolna z symbolem akumulatora świadczy o usterce układu ładowania": "Загоревшаяся красная контрольная лампочка с символом аккумулятора свидетельствует о неисправности системы зарядки.",
         "Zużycie przegubów drążka kierowniczego może być przyczyną nadmiernego luzu koła kierownicy": "Износ шарниров рулевой тяги может быть причиной избыточного люфта рулевого колеса.",
         "Zużycie opony doprowadza do wydłużenia drogi hamowania": "Износ шины приводит к увеличению тормозного пути.",
