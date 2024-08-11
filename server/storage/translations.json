@@ -3600,7 +3600,12 @@
             "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
             "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
             "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
-            "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью."
+            "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью.",
+            "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как ты настроишь сиденье водителя перед началом движения транспортного средства?",
+            "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника.",
+            "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
+            "Oznaczanie niesprawnych tylnych świateł pozycyjnych poruszającego się pojazdu": "Обозначение неисправных задних габаритных огней движущегося транспортного средства.",
+            "Trójkąt służy do ostrzegania o unieruchomieniu pojazdu na drodze z powodu awarii": "Знак аварийной остановки служит для предупреждения об остановке транспортного средства на дороге по причине поломки."
         }
     },
     "not_approved": {
@@ -3802,8 +3807,6 @@
         "Czy będąc uczestnikiem wypadku drogowego, masz obowiązek udzielenia pomocy rannym nawet, jeśli nie masz kwalifikacji medycznych?": "Будучи участником дорожно-транспортного происшествия, обязаны ли вы оказать помощь пострадавшим, даже если у вас нет медицинских квалификаций?",
         "Czy w tej sytuacji skręcając w lewo na skrzyżowaniu, masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego na wprost?": "В данной ситуации, поворачивая налево на перекрестке, обязаны ли вы уступить дорогу ТС, движущемуся прямо из противоположного направления?",
         "Czy w przedstawionej sytuacji możesz wykonać manewr wyprzedzania?": "Вы можете выполнить маневр обгона в данной ситуации?",
-        "Oznaczanie niesprawnych tylnych świateł pozycyjnych poruszającego się pojazdu": "Обозначение неисправных задних габаритных огней движущегося транспортного средства.",
-        "Jakie jest przeznaczenie trójkąta, który stanowi obowiązkowe wyposażenie samochodu osobowego?": "Каково назначение треугольника, который является обязательным оборудованием легкового автомобиля?",
         "Tylko swój pas ruchu i prawe pobocze przed pojazdem": "Только свою полосу движения и правую обочину перед транспортным средством.",
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
@@ -4122,7 +4125,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Trójkąt służy do ostrzegania o unieruchomieniu pojazdu na drodze z powodu awarii": "Знак аварийной остановки служит для предупреждения об остановке транспортного средства на дороге по причине поломки.",
         "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
         "Lampka kontrolna układu chłodzenia zapala się, gdy poziom płynu w układzie chłodzenia jest zbyt niski lub temperatura płynu jest zbyt wysoka": "Индикаторная лампа системы охлаждения загорается, когда уровень жидкости в системе охлаждения слишком низкий или температура жидкости слишком высокая.",
         "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
@@ -4188,7 +4190,6 @@
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
-        "Zagłówek chroni odcinek szyjny kręgosłupa": "Подголовник защищает участок шейного отдела позвоночника.",
         "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
         "Odległość ta powinna wynosić 30 - 50 m": "Это расстояние должно составлять 30 - 50 м.",
         "Zamierzasz zmienić pas ruchu na lewy. Czy masz pierwszeństwo przed pojazdami poruszającymi się tym pasem?": "Вы собираетесь сменить полосу движения на левую. У вас есть преимущество перед ТС, движущимися по этой полосе?",
@@ -4427,7 +4428,6 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK",
-        "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как ты настроишь сиденье водителя перед началом движения транспортного средства?"
+        "ДА": "TAK"
     }
 }
