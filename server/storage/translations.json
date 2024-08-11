@@ -28,8 +28,6 @@
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
         "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля, а также пассажир, перевозимый в таком автомобиле, оснащенном ремнями безопасности, обязаны пользоваться этими ремнями во время движения.",
-        "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения пути торможения по крайней мере вдвое.",
-        "Do zniszczenia hamulców": "Для разрушения тормозов.",
         "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
@@ -3743,7 +3741,10 @@
             "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
             "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
             "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
-            "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м."
+            "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
+            "Czas reakcji ma bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Время реакции имеет прямое влияние на общую длину тормозного пути транспортного средства.",
+            "Do zniszczenia hamulców": "До разрушения тормозов.",
+            "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения как минимум наполовину пути торможения."
         }
     },
     "not_approved": {
@@ -3887,7 +3888,6 @@
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
         "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
-        "Czas reakcji ma bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Время реакции имеет прямое влияние на общую длину тормозного пути транспортного средства.",
         "Woda zalegająca w koleinie stawia opory toczenia. Żeby uniknąć utraty kontroli nad samochodem nie zaleca się wykonywania żadnych gwałtownych ruchów": "Вода, скопившаяся в колее, создаёт сопротивление качению. Чтобы избежать потери контроля над автомобилем, не рекомендуется делать резких движений.",
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
