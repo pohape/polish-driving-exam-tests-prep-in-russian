@@ -3479,7 +3479,10 @@
             "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "За пределами населенного пункта при возникновении тумана водитель должен подавать короткие звуковые сигналы во время обгона или объезда.",
             "Włączenie świateł drogowych": "Включение дальнего света.",
             "W początkowej fazie deszczu na powierzchni jezdni lub na główce szyny tworzy się śliska powłoka. Deszczówka miesza się ze wszystkimi drobinkami zalegających zanieczyszczeń": "В начальной фазе дождя на поверхности проезжей части или на головке рельса образуется скользкая пленка. Дождевая вода смешивается со всеми частицами осевших загрязнений.",
-            "Każdy gwałtowny ruch kierownicą na śliskiej nawierzchni zwiększa ryzyko utraty kontroli nad pojazdem": "Любое резкое движение рулем на скользкой поверхности увеличивает риск потери контроля над транспортным средством."
+            "Każdy gwałtowny ruch kierownicą na śliskiej nawierzchni zwiększa ryzyko utraty kontroli nad pojazdem": "Любое резкое движение рулем на скользкой поверхности увеличивает риск потери контроля над транспортным средством.",
+            "Obfitych opadów śniegu": "Обильных снегопадов.",
+            "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
+            "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты."
         }
     },
     "not_approved": {
@@ -3972,7 +3975,6 @@
         "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?",
         "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью.",
-        "Zalegający na jezdni śnieg może być powodem zmniejszonej przyczepności kół do nawierzchni, utrudniającej skręcanie": "Снег, лежащий на проезжей части, может быть причиной снижения сцепления колес с дорожным покрытием, что затрудняет повороты.",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom poruszającym się po drodze twardej, na którą wjeżdżasz?": "В этой ситуации вы обязаны уступить дорогу ТС, движущимся по дороге с твёрдым покрытием, на которую выезжаете?",
         "Czy z tego pasa ruchu dozwolony jest skręt w lewo na skrzyżowaniu?": "Вопрос для перевода: \"Разрешен ли с этой полосы движения поворот налево на перекрестке?\"",
         "Autobus porusza się po drodze z pierwszeństwem": "Автобус движется по главной дороге.",
@@ -4129,8 +4131,6 @@
         "Czy w przedstawionej sytuacji kierujący zespołem pojazdów nr 1 zachował się właściwie?": "В представленной ситуации к водитель автопоезда № 1 поступил правильно?",
         "Czy w tej sytuacji wolno Ci użyć sygnału dźwiękowego?": "В этой ситуации тебе разрешается использовать сигнал звуковой?",
         "Czy podczas omijania pojazdu oznaczonego z przodu i z tyłu widoczną tablicą barwy niebieskiej oraz z włączonymi światłami awaryjnymi, masz obowiązek zachować szczególną ostrożność w czasie wsiadania lub wysiadania osoby niepełnosprawnej?": "Обязан ли ты соблюдать особую осторожность во время входа или выхода инвалида, когда объезжаешь ТС, обозначенное спереди и сзади видимой синей табличкой, а также с включенными аварийными огнями?",
-        "Obfitych opadów śniegu": "Обильных снегопадов.",
-        "Zalegającego śniegu i zasp": "Скопившегося снега и снежных заносов.",
         "Zmniejszę ciśnienie w ogumieniu": "Уменьшу давление в шинах.",
         "Zmniejszę twardość zawieszenia": "Я уменьшу жесткость подвески.",
         "Poinstruuję pasażera o sposobie zachowania na motocyklu": "Я инструктирую пассажира о способе поведения на мотоцикле.",
