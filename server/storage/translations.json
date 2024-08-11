@@ -3525,7 +3525,8 @@
             "Utrzymanie zbyt wysokiej prędkości, zwłaszcza na zakręcie": "Сохранение слишком высокой скорости, особенно на повороте.",
             "Jazda na drugim biegu": "Езда на второй передаче.",
             "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии.",
-            "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?"
+            "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
+            "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?"
         }
     },
     "not_approved": {
@@ -4331,7 +4332,6 @@
         "Kierowcy omijający pojazd będą zmuszeni naruszyć linie ciągłą": "Водители, объезжающие транспортное средство, будут вынуждены нарушить сплошную линию.",
         "Czy w tej sytuacji, pamiętając o własnym bezpieczeństwie, powinieneś ewakuować poszkodowanego z dymiącego samochodu?": "Следует ли в данной ситуации, помня о собственной безопасности, эвакуировать пострадавшего из дымящегося автомобиля?",
         "Kierujący pojazdem w razie uczestniczenia w wypadku drogowym jest obowiązany udzielić niezbędnej pomocy ofiarom wypadku": "Водитель транспортного средства в случае участия в дорожно-транспортном происшествии обязан оказать необходимую помощь жертвам аварии.",
-        "Skręcasz w prawo, a kierujący nadjeżdżający z przeciwka chce skręcić w lewo. Czy masz przed nim pierwszeństwo?": "Вы поворачиваете направо, а водитель, приближающийся навстречу, хочет повернуть налево. Есть ли у вас перед ним преимущество?",
         "Czy jadąc na wprost na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Имеете ли вы преимущество перед ТС, приближающимся слева, двигаясь прямо на этом перекрестке?",
         "Jedziesz na wprost, a kierujący pojazdem nadjeżdżającym z przeciwka zamierza skręcić w lewo. Czy masz obowiązek ustąpić mu pierwszeństwa?": "Вы едете прямо, а водитель приближающегося встречного ТС намеревается повернуть налево. Обязаны ли вы уступить ему дорогу?",
         "Czy w przedstawionej sytuacji wjeżdżając na to skrzyżowanie musisz się bezwzględnie zatrzymać?": "В представленной ситуации при въезде на этот перекресток ты должен обязательно остановиться?",
