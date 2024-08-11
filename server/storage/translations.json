@@ -3740,7 +3740,9 @@
             "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой утраты здоровья и жизни?",
             "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
             "Tylko lekarz": "Только врач.",
-            "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия."
+            "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
+            "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
+            "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии."
         }
     },
     "not_approved": {
@@ -4254,8 +4256,6 @@
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
-        "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь жертвам катастрофы.",
-        "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach, na których ruch odbywa się wokół wyspy": "Допускается обгон на перекрестках, на которых движение происходит вокруг островка.",
         "Czy w tej sytuacji należy zrezygnować z rozpoczęcia wyprzedzania?": "Следует ли в этой ситуации отказаться от начала обгона?",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na zakręcie oznaczonym znakami ostrzegawczymi": "Запрещается обгонять транспортное средство, движущееся по проезжей части, на повороте, обозначенном предупреждающими знаками.",
