@@ -3535,7 +3535,11 @@
             "Hamować pulsacyjnie aż do zadziałania układu ABS": "Прерывисто тормозить до срабатывания системы ABS.",
             "W jaki sposób powinieneś hamować awaryjnie samochodem osobowym wyposażonym w układ przeciwblokujący (ABS)?": "Каким образом вы должны производить экстренное торможение автомобилем, оборудованным антиблокировочной системой (ABS)?",
             "W przypadku ujawnienia czynu polegającego na dwukrotnym przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 30 km\/h": "В случае выявления деяния, заключающегося в двукратном превышении допустимой скорости в населенном пункте более чем на 30 км\/ч.",
-            "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной."
+            "W przypadku ujawnienia czynu polegającego na przekroczeniu dozwolonej prędkości na obszarze zabudowanym o więcej niż 50 km\/h od dozwolonej": "В случае выявления действия, заключающегося в превышении допустимой скорости в населенном пункте более чем на 50 км\/ч от разрешенной.",
+            "Poruszasz się autostradą i zamierzasz ją opuścić. W którym miejscu rozpoczniesz hamowanie przed zjazdem z autostrady?": "Вы движетесь по автостраде и собираетесь её покинуть. В каком месте вы начнёте торможение перед съездом с автострады?",
+            "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
+            "Po wjeździe na początek pasa wyłączenia (zjazdu)": "Въезд на начало полосы выключения (съезда).",
+            "W dowolnym miejscu na autostradzie": "В любом месте на автостраде."
         }
     },
     "not_approved": {
@@ -4365,10 +4369,6 @@
         "Czy w tej sytuacji wyprzedzanie rowerzysty z zachowaniem odstępu około 0,5 m jest zabronione?": "Запрещен ли обгон велосипедиста с сохранением дистанции примерно 0,5 м в этой ситуации?",
         "Czy w przedstawionej sytuacji wolno Ci poruszać się z włączonymi przednimi światłami przeciwmgłowymi?": "Разрешено ли вам двигаться с включенными передними противотуманными фарами в представленной ситуации?",
         "Czy w tej sytuacji masz obowiązek użyć sygnału dźwiękowego w celu ostrzeżenia dzieci, aby nie wbiegały na jezdnie?": "В этой ситуации обязаны ли вы подать звуковой сигнал, чтобы предупредить детей, чтобы они не выбегали на проезжую часть?",
-        "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
-        "W dowolnym miejscu na autostradzie": "В любом месте на автостраде.",
-        "Po wjeździe na początek pasa wyłączenia (zjazdu)": "Въезд на начало полосы выключения (съезда).",
-        "Poruszasz się autostradą i zamierzasz ją opuścić. W którym miejscu rozpoczniesz hamowanie przed zjazdem z autostrady?": "Вы движетесь по автостраде и собираетесь её покинуть. В каком месте вы начнёте торможение перед съездом с автострады?",
         "Sygnalizator S-3 nie zobowiązuje do zatrzymania": "Светофор S-3 не обязывает остановиться.",
         "Sygnalizator świeci na zielono": "Светофор светит зелёным.",
         "Czy w widocznej sytuacji z tego pasa ruchu dopuszczalne jest tylko skręcanie w lewo?": "Допускается ли в видимой ситуации с этой полосы движения только поворот налево?",
