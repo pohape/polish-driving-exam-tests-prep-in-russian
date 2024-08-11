@@ -3555,7 +3555,8 @@
             "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
             "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
             "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": "Разрешает ли видимый сигнал поворот направо без остановки?",
-            "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?"
+            "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
+            "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
         }
     },
     "not_approved": {
@@ -4038,7 +4039,6 @@
         "Czy w przedstawionej sytuacji minimalna odległość jaką należy zachować od rowerzysty podczas wyprzedzania wynosi 1 m?": "В представленной ситуации минимальное расстояние, которое необходимо соблюдать от велосипедиста во время обгона, составляет 1 метр?",
         "Czy sygnalizacja świetlna na przejściu dla pieszych zwalnia Cię z obowiązku zachowania szczególnej ostrożności?": "Светофор на пешеходном переходе освобождает тебя от обязанности проявления особой осторожности?",
         "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
-        "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
         "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
