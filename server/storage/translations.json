@@ -3751,7 +3751,8 @@
             "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
             "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
             "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?",
-            "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться."
+            "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
+            "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?"
         }
     },
     "not_approved": {
@@ -4090,7 +4091,6 @@
         "Wyjeżdżając ze strefy zamieszkania jesteśmy włączającym się do ruchu": "При выезде из жилой зоны мы включаемся в движение.",
         "Kierującemu pojazdem wyprzedzanym zabrania się zwiększania prędkości bezpośrednio po wyprzedzeniu": "Водителю обгоняемого транспортного средства запрещается увеличивать скорость непосредственно после обгона.",
         "Zostałeś właśnie wyprzedzony przez pojazd widoczny przed Tobą. Czy bezpośrednio po wyprzedzeniu wolno Ci zwiększyć prędkość?": "Ты только что был обгонен транспортным средством, видимым перед тобой. Можно ли тебе непосредственно после обгона увеличить скорость?",
-        "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?",
         "Czy w tej sytuacji, zanim włączysz się do ruchu, masz obowiązek obserwacji drogi w lusterku zewnętrznym?": "В этой ситуации, прежде чем включиться в движение, ты обязан наблюдать за дорогой во внешнем зеркале?",
         "Czy w tej sytuacji, dojeżdżając drogą dwukierunkową do wierzchołka wzniesienia, masz prawo wyprzedzić motocykl?": "Имеешь ли ты право обогнать мотоцикл, подъезжая дорогой с двусторонним движением к вершине возвышенности?",
         "Czy w tej sytuacji za znakiem masz prawo zaparkować na jezdni pojazd silnikowy?": "В данной ситуации после знака имеете ли вы право припарковать на проезжей части моторное транспортное средство?",
