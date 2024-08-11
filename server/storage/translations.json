@@ -34,8 +34,7 @@
         "Każde gwałtowne zachowanie na śliskiej nawierzchni powoduje ryzyko wpadnięcia w poślizg": "«Любое резкое поведение на скользком покрытии вызывает риск заноса.»",
         "Tak, ale prowadząc samochód o masie całkowitej przekraczającej 2,5 tony": "Да, но ведя автомобиль с полной массой, превышающей 2,5 тонны.",
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
-        "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения.",
-        "W jakiej kolejności masz obowiązek wykonać poszczególne czynności, gdy przygotowujesz się do jazdy samochodem?": "В какой последовательности обязан выполнить отдельные действия, когда готовишься к вождению автомобилем?"
+        "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное действие ремней безопасности зависит от их надлежащего расположения."
     },
     "approved": {
         "starosta": {
@@ -3582,7 +3581,10 @@
             "Gdy jest on napięty": "Когда он натянут.",
             "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
             "Ustawić fotel kierowcy, lusterka i zapiąć pasy bezpieczeństwa": "Установить сиденье водителя, зеркала и пристегнуть ремни безопасности.",
-            "Ustawić lusterka, fotel kierowcy i zapiąć pasy bezpieczeństwa": "Настроить зеркала, водительское сиденье и пристегнуть ремни безопасности."
+            "Ustawić lusterka, fotel kierowcy i zapiąć pasy bezpieczeństwa": "Настроить зеркала, водительское сиденье и пристегнуть ремни безопасности.",
+            "Zapiąć pasy bezpieczeństwa, ustawić lusterka i fotel kierowcy": "Пристегнуть ремни безопасности, настроить зеркала и сиденье водителя.",
+            "W jakiej kolejności masz obowiązek wykonać poszczególne czynności, gdy przygotowujesz się do jazdy samochodem?": "В каком порядке ты обязан выполнить отдельные действия, когда готовишься к вождению автомобиля?",
+            "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности."
         }
     },
     "not_approved": {
@@ -3768,7 +3770,6 @@
         "Czy masz obowiązek zbliżyć się do prawej krawędzi jezdni, by umożliwić przejazd pojazdu uprzywilejowanego, który nadjeżdża z tyłu?": "Обязаны ли вы подъехать к правому краю проезжей части, чтобы позволить проехать приближающемуся сзади привилегированному ТС?",
         "Czy w przedstawionej sytuacji kierujący pojazdami zgodnie z przepisami umożliwili swobodny przejazd pojazdu uprzywilejowanego, tworząc tzw. \"korytarz życia\" ?": "Учитывая представленную ситуацию, водители, в соответствии с правилами, обеспечили свободный проезд привилегированного транспортного средства, создав так называемый \"коридор жизни\"?",
         "Czy podczas cofania, przy braku innych uczestników ruchu na tym odcinku drogi, możesz zrezygnować z zachowania szczególnej ostrożności?": "Можете ли вы отказаться от соблюдения особой осторожности при движении задним ходом, если на этом участке дороги нет других участников движения?",
-        "Zapiąć pasy bezpieczeństwa, ustawić lusterka i fotel kierowcy": "Пристегнуть ремни безопасности, настроить зеркала и сиденье водителя.",
         "Musi je mieć przy sobie, kiedy kieruje pojazdem": "Он должен иметь их при себе, когда управляет транспортным средством.",
         "Powinna ona pamiętać numer tego dokumentu i podać go policjantowi podczas kontroli": "Она должна помнить номер этого документа и сообщить его полицейскому во время проверки.",
         "Podczas kontroli nie musi go okazywać policjantowi": "Во время проверки он не обязан предъявлять это полицейскому.",
@@ -4184,7 +4185,6 @@
         "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
         "Czy w tej sytuacji, nie widząc innych uczestników ruchu drogowego, jesteś zwolniony z obowiązku zachowania szczególnej ostrożności?": "В данной ситуации, не видя других участников дорожного движения, ты освобожден от обязанности соблюдения особой осторожности?",
         "Czy w tym miejscu wolno Ci zawrócić?": "Разрешено ли тебе в этом месте развернуться?",
-        "Każda zmiana położenia fotela kierowcy wymaga ponownego ustawienia luster i wyregulowania pasów bezpieczeństwa": "Каждое изменение положения водительского сиденья требует повторной настройки зеркал и регулировки ремней безопасности.",
         "Przetarcia, naderwania pasów świadczą o ich osłabionej wytrzymałości": "Потертости, разрывы ремней свидетельствуют об их ослабленной прочности.",
         "Zbliżając się do przejścia, a w tym przypadku również do skrzyżowania należy zachować szczególną ostrożność": "Приближаясь к переходу, и в этом случае также к перекрестку, необходимо проявлять особую осторожность.",
         "Kierujący pojazdem zbliżający się do miejsca oznaczonego znakiem jest obowiązany zmniejszyć prędkość tak, aby nie narazić na niebezpieczeństwo pieszych znajdujących się w tych miejscach lub na nie wchodzących oraz rowerzystów znajdujących się w tych miejscach lub na nie wjeżdżających": "Водитель транспортного средства, приближающийся к месту, обозначенному знаком, обязан снизить скорость так, чтобы не подвергать опасности пешеходов, находящихся в этих местах или на них выходящих, а также велосипедистов, находящихся в этих местах или на них заезжающих.",
