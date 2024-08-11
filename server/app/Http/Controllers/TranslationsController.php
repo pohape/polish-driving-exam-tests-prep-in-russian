@@ -60,7 +60,9 @@ class TranslationsController extends BaseController
             throw new Exception('Specify "text"');
         }
 
-        return $this->response(['error' => (new Translator())->$method($text) ? null : self::ERROR]);
+        $prepared = self::prepareText($text);
+
+        return $this->response(['error' => (new Translator())->$method($prepared['text']) ? null : self::ERROR]);
     }
 
     /**
