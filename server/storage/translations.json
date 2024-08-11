@@ -3562,7 +3562,9 @@
             "jest obowiązany stosować sposób postoju wskazany znakami drogowymi,": "обязан применять способ стоянки, указанный дорожными знаками,",
             "Jaki jest cel stosowania układu ESP w samochodzie osobowym?": "Какова цель использования системы ESP в легковом автомобиле?",
             "Przeciwdziałanie poślizgowi kół podczas hamowania silnikiem": "Противодействие проскальзыванию колес при торможении двигателем.",
-            "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота."
+            "Głównym zadaniem systemu ESP jest stabilizowanie toru jazdy podczas pokonywania zakrętu": "Основной задачей системы ESP является стабилизация траектории движения при прохождении поворота.",
+            "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по изгибу дороги.",
+            "Prawidłowo ustawiony zagłówek powinien znajdować się maksymalnie blisko potylicy, a jego górna krawędź powinna znajdować się na wysokości czubka głowy": "Правильно настроенный подголовник должен находиться максимально близко к затылку, а его верхний край должен находиться на уровне макушки головы."
         }
     },
     "not_approved": {
@@ -4044,7 +4046,6 @@
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana1": "Однажды начатая стабилизация шейного отдела позвоночника не может быть прервана.",
         "Przed skrzyżowaniem znajduje się znak \"Ustąp pierwszeństwa\"": "Перед перекрестком находится знак \"Уступи дорогу\".",
         "Tak, aby jego górna część znajdowała się na wysokości szyi": "Так, чтобы его верхняя часть находилась на уровне шеи.",
-        "Prawidłowo ustawiony zagłówek powinien znajdować się maksymalnie blisko potylicy, a jego górna krawędź powinna znajdować się na wysokości czubka głowy": "Правильно настроенный подголовник должен находиться максимально близко к затылку, а его верхний край должен находиться на уровне макушки головы.",
         "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?",
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
@@ -4423,7 +4424,6 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK",
-        "Stabilizowanie ruchu pojazdu podczas jazdy po łuku drogi": "Стабилизация движения транспортного средства при движении по изгибу дороги."
+        "ДА": "TAK"
     }
 }
