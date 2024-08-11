@@ -3732,7 +3732,9 @@
             "O zmiennym tonie": "Переменной тональности",
             "O ciągłym nieprzeraźliwym tonie": "Непрерывной спокойной тональности",
             "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение уровня шума.",
-            "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu": "В ситуации спуска с возвышенности по дороге с большей интенсивностью движения."
+            "W sytuacji zjeżdżania ze wzniesienia drogą o dużym natężeniu ruchu": "В ситуации спуска с возвышенности по дороге с большей интенсивностью движения.",
+            "W sytuacji zjeżdżania ze wzniesienia": "В ситуации спуска с возвышенности.",
+            "W sytuacji nagłego przyspieszenia na mokrej nawierzchni": "В ситуации внезапного ускорения на мокром покрытии."
         }
     },
     "not_approved": {
@@ -4127,8 +4129,6 @@
         "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
         "Czy w tej sytuacji powinieneś był upewnić się, że możesz bezpiecznie zmienić pas ruchu?": "В этой ситуации ты должен был убедиться, что можешь безопасно сменить полосу движения?",
         "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
-        "W sytuacji nagłego przyspieszenia na mokrej nawierzchni": "В ситуации внезапного ускорения на мокром покрытии.",
-        "W sytuacji zjeżdżania ze wzniesienia": "В ситуации спуска с возвышенности.",
         "Zabrania się wyprzedzania na przejeździe dla rowerzystów oraz bezpośrednio przed nim": "Запрещается обгон на переезде для велосипедистов, а также непосредственно перед ним.",
         "Dwa pasy w tym samym kierunku, wyprzedzanie z lewej strony": "Две полосы в том же направлении, обгон с левой стороны.",
         "Dopuszcza się wykonanie manewru cofania na drodze jednokierunkowej": "Разрешается выполнять маневр движения задним ходом на дороге с односторонним движением.",
