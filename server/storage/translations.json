@@ -3735,7 +3735,8 @@
             "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
             "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
             "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение в ситуации необходимости преодоления нескольких последующих друг за другом поворотов.",
-            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных фарах ближнего света?"
+            "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных фарах ближнего света?",
+            "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку."
         }
     },
     "not_approved": {
@@ -3811,7 +3812,6 @@
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
-        "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
         "Pytania na prawo jazdy kat. A": "Вопросы по вождению кат. а",
