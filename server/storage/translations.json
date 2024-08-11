@@ -3539,7 +3539,8 @@
             "Poruszasz się autostradą i zamierzasz ją opuścić. W którym miejscu rozpoczniesz hamowanie przed zjazdem z autostrady?": "Вы движетесь по автостраде и собираетесь её покинуть. В каком месте вы начнёте торможение перед съездом с автострады?",
             "Przed wjazdem na pas wyłączenia (zjazdu)": "Перед въездом на полосу выключения (съезда).",
             "Po wjeździe na początek pasa wyłączenia (zjazdu)": "Въезд на начало полосы выключения (съезда).",
-            "W dowolnym miejscu na autostradzie": "В любом месте на автостраде."
+            "W dowolnym miejscu na autostradzie": "В любом месте на автостраде.",
+            "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?": "В этой ситуации ты обязан сигнализировать о стоянке видимого с достаточного расстояния, поврежденного транспортного средства, на дороге, которая не является \"drogą ekspresową\"?"
         }
     },
     "not_approved": {
@@ -4322,7 +4323,6 @@
         "czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami kierujący pojazdem silnikowym jest obowiązany włączyć światła mijania lub przeciwmgłowe przednie albo oba te światła jednocześnie": "Во время движения в условиях уменьшенной прозрачности воздуха, вызванной туманом, атмосферными осадками или другими причинами, водитель транспортного средства обязан включить ближний свет или передние противотуманные фары, или оба этих света одновременно.",
         "Czy w przedstawionej sytuacji wolno Ci użyć sygnału dźwiękowego, aby ponaglić kierującego rowerem?": "Можно ли в представленном случае использовать звуковой сигнал, чтобы подтолкнуть регулирующего велосипедистом?",
         "Znak widoczny na zdjęciu ostrzega o wypukłości na jezdni zastosowanej w celu spowolnienia ruchu": "Знак, видимый на фотографии, предупреждает о выпуклости на проезжей части, примененной для замедления движения.",
-        "Czy w tej sytuacji masz obowiązek sygnalizować postój widocznego z dostatecznej odległości, uszkodzonego pojazdu, na drodze, która nie jest drogą ekspresową?": "В этой ситуации ты обязан сигнализировать о стоянке видимого с достаточного расстояния, поврежденного транспортного средства, на дороге, которая не является \"drogą ekspresową\"?",
         "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
         "Postój uszkodzonego na drodze ekspresowej pojazdu należy sygnalizować między innymi poprzez umieszczenie ostrzegawczego trójkąta odblaskowego w odległości 100 m za pojazdem": "Стоянку поврежденного на \"drodze ekspresowej\" транспортного средства необходимо сигнализировать, в частности, путем размещения знака аварийной остановки на расстоянии 100 м за транспортным средством.",
         "Kierujący pojazdem jest obowiązany sygnalizować postój pojazdu silnikowego lub przyczepy z powodu uszkodzenia lub wypadku: na autostradzie lub drodze ekspresowej – w każdym przypadku": "Водитель транспортного средства обязан сигнализировать о стоянке моторного транспортного средства или прицепа из-за повреждения или аварии: на автостраде или \"drodze ekspresowej\" – в любом случае.",
