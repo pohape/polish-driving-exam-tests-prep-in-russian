@@ -3743,8 +3743,8 @@
             "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь пострадавшим в аварии.",
             "Poza obszarem zabudowanym w tunelach o długości przekraczającej 500 m, kierujący pojazdem jest obowiązany utrzymywać odstęp od poprzedzającego pojazdu nie mniejszy niż: 50 m": "Вне населенного пункта в туннелях длиной более 500 м, водитель обязан соблюдать дистанцию от впереди идущего транспортного средства не меньше чем: 50 м.",
             "Czas reakcji ma bezpośredni wpływ na długość całkowitej drogi zatrzymania pojazdu": "Время реакции имеет прямое влияние на общую длину тормозного пути транспортного средства.",
-            "Do zniszczenia hamulców": "До разрушения тормозов.",
-            "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения как минимум наполовину пути торможения."
+            "Do zniszczenia hamulców": "К поломке тормозов.",
+            "Do skrócenia o co najmniej połowę drogi hamowania": "К сокращению пути торможения как минимум наполовину."
         }
     },
     "not_approved": {
