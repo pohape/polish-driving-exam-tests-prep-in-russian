@@ -30,8 +30,7 @@
         "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
-        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные знаки, определяющие полосы движения."
+        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?"
     },
     "approved": {
         "starosta": {
@@ -4420,6 +4419,7 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
+        "Uwzględniając znaki poziome wyznaczające pasy ruchu": "Учитывая наземные знаки, определяющие полосы движения."
     }
 }
