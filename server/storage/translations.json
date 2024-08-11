@@ -3495,7 +3495,8 @@
             "Rzeczywistej masy całkowitej samochodu": "Фактической полной массы автомобиля.",
             "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической полной массы автомобиля, уменьшенной на 40%.",
             "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какую величину не имеет права превышать фактическая полная масса прицепа, буксируемого автомобилем?",
-            "Masy własnej samochodu": "Массы самого автомобиля"
+            "Masy własnej samochodu": "Массы самого автомобиля",
+            "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью."
         }
     },
     "not_approved": {
@@ -4147,7 +4148,6 @@
         "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?": "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?",
         "Какой из индикаторов на рисунке указывает на то, что обогрев заднего стекла включен?": "Какой из индикаторов на рисунке указывает на то, что включен подогрев заднего стекла?",
         "Одним из общих правил является обязанность двигаться как можно ближе к правому краю": "Одним из общих правил является обязанность двигаться как можно ближе к правому краю.",
-        "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью.",
         "Podczas uderzenia w tył pojazdu zagłówek chroni kręgi szyjne przed ich uszkodzeniem": "Во время удара в заднюю часть транспортного средства подголовник защищает шейные позвонки от повреждений.",
         "Czy jako kierujący pojazdem, który uczestniczy w wypadku drogowym, masz obowiązek udzielenia niezbędnej pomocy jego ofiarom?": "Вы как водитель транспортного средства, участвующего в дорожно-транспортном происшествии, обязаны оказать необходимую помощь его жертвам?",
         "Czy na drodze za tym znakiem masz prawo wykonać manewr cofania?": "Имеешь ли ты право выполнить маневр движения задним ходом на дороге после этого знака?",
@@ -4415,6 +4415,7 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
+        "Na drodze mokrej": "На мокрой дороге."
     }
 }
