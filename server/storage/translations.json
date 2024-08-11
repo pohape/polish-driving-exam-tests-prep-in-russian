@@ -3524,7 +3524,8 @@
             "Gwałtowne skręcenie kierownicy": "Резкий поворот руля.",
             "Utrzymanie zbyt wysokiej prędkości, zwłaszcza na zakręcie": "Сохранение слишком высокой скорости, особенно на повороте.",
             "Jazda na drugim biegu": "Езда на второй передаче.",
-            "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии."
+            "Zbyt wysoka prędkość na zakręcie wpływa niekorzystnie na jego bezpieczne pokonanie nawet na suchej nawierzchni": "Слишком высокая скорость на повороте негативно влияет на его безопасное прохождение даже на сухом дорожном покрытии.",
+            "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?"
         }
     },
     "not_approved": {
@@ -3776,7 +3777,6 @@
         "Tak, ponieważ przepisy na to zezwalają, jeżeli ze względu na masę dziecka nie jest możliwe zapewnienie urządzenia przytrzymującego dla dziecka": "Да, потому что правила это позволяют, если в связи с весом ребенка невозможно обеспечить удерживающее устройство для ребенка.",
         "Nie, ponieważ przepisy dotyczące przewozu dzieci zezwalają na przewóz dzieci o wzroście co najmniej 135 cm bez fotelika lub innego urządzenia przytrzymującego dziecko tylko na tylnym siedzeniu pojazdu": "Нет, потому что правила перевозки детей разрешают перевозить детей ростом не менее 135 см без детского кресла или другого удерживающего устройства только на заднем сиденье транспортного средства.",
         "Czy przewożenie na przednim siedzeniu pojazdu dziecka o wzroście co najmniej 135 cm, zabezpieczonego jedynie pasami bezpieczeństwa, jest dozwolone?": "Допускается ли перевозка ребенка ростом не менее 135 см на переднем сиденье ТС, если он будет защищен только ремнями безопасности?",
-        "W którym przypadku nie ma obowiązku przewożenia dziecka w foteliku bezpieczeństwa lub innym urządzeniu podtrzymującym, zapewniającym jego bezpieczeństwo?": "В каком случае нет обязанности перевозить ребенка в детском удерживающем устройстве или другом устройстве, обеспечивающем его безопасность?",
         "Czy w tej sytuacji wolno Ci skręcić w lewo z zajmowanego pasa ruchu?": "Разрешено ли вам в этой ситуации повернуть налево с занимаемой полосы движения?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
