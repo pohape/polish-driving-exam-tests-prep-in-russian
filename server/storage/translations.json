@@ -17,8 +17,7 @@
         "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży i osoby przewożonej na wózku inwalidzkim": "Обязанность использовать ремни безопасности не касается, среди прочего, женщины в видимой беременности и лица, перевозимого на инвалидной коляске.",
         "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 3 ma obowiązek umożliwić kierującemu pojazdem nr 2 zmianę pasa ruchu?": "В условиях значительного снижения скорости на проезжей части обязан ли водитель транспортного средства № 3 разрешить водителю транспортного средства № 2 менять полосу движения?",
-        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных во временном дозволении автомобиля.",
-        "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесение административного решения о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение об отмене права на управление транспортными средствами."
+        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два число мест, указанных во временном дозволении автомобиля."
     },
     "approved": {
         "starosta": {
@@ -3770,7 +3769,8 @@
             "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
             "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья имеют существенное влияние на остроту его зрения.",
             "Koło dojazdowe jest substytutem koła zapasowego": "Временное запасное колесо является заменителем основного запасного колеса.",
-            "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное функционирование ремней безопасности зависит от их правильного расположения."
+            "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное функционирование ремней безопасности зависит от их правильного расположения.",
+            "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении срока временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение об аннулировании права на управление транспортными средствами."
         }
     },
     "not_approved": {
