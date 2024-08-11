@@ -15,8 +15,6 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
-        "O dowolnym tonie": "На любом тоне.",
-        "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
         "Jednym z zadań układu wydechowego jest zmniejszenie emisji hałasu": "Одной из задач выхлопной системы является уменьшение выбросов шума.",
         "ESP znajdzie zastosowanie podczas konieczności ostrego hamowania podczas zmiany pasa ruchu": "ESP найдет применение в ситуации необходимости резкого торможения при смене полосы движения.",
         "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение во время необходимости преодоления нескольких следующих друг за другом поворотов.",
@@ -42,7 +40,8 @@
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "W miarę możliwości należy obserwować jak tylko można najwięcej": "По мере возможности необходимо наблюдать, как только можно больше.",
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
-        "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги."
+        "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть поток света направлен больше к правому обочине дороги.",
+        "O zmiennym tonie": "О переменном тоне."
     },
     "approved": {
         "starosta": {
@@ -3729,7 +3728,8 @@
             "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
             "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся со встречного направления.",
             "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
-            "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане."
+            "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
+            "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора."
         }
     },
     "not_approved": {
@@ -4414,8 +4414,6 @@
         "Czy skręcając w lewo, wybrałeś właściwy tor jazdy?": "Правильно ли ты выбрал полосу движения при повороте налево?",
         "Czy wjeżdżając na to skrzyżowanie masz pierwszeństwo przed pojazdem z lewej strony?": "Въезжая на этот перекресток, у вас есть преимущество перед ТС слева?",
         "Zamierzasz skręcić w prawo na skrzyżowaniu. Czy musisz sygnalizować ten manewr prawym kierunkowskazem?": "Собираешься повернуть направо на перекрестке. Нужно ли сигнализировать этот маневр правым указателем поворота?",
-        "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
-        "O zmiennym tonie": "О переменном тоне.",
         "Czy prawo jazdy kat. B uprawnia do kierowania motorowerem lub czterokołowcem lekkim?": "Дает ли водительское удостоверение категории B право управлять мопедом или так называемым \"czterokołowiec лёгким\"?",
         "Przewożone dziecko ma co najmniej 135 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku lub innym urządzeniu przytrzymującym dziecko": "Перевозимое ребенок имеет рост не менее 135 см, пристегнуто только ремнями безопасности, так как масса и рост не позволяют перевозить его в автокресле или другом удерживающем устройстве для детей.",
         "Przewożone dziecko ma co najmniej 125 cm wzrostu, jest przypięte tylko pasami bezpieczeństwa, gdyż masa i wzrost uniemożliwia przewóz w foteliku": "Перевозимый ребенок имеет рост не менее 125 см, закреплен только ремнями безопасности, так как масса и рост не позволяют перевозку в кресле.",
@@ -4444,6 +4442,8 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
+        "O dowolnym tonie": "О любом тоне.",
+        "O ciągłym nieprzeraźliwym tonie": "O непрерывном непронзительном тоне."
     }
 }
