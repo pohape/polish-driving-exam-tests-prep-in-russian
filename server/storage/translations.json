@@ -29,8 +29,7 @@
         "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством с работающим двигателем, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении периода временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение о лишении права на управление транспортными средствами.",
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изъял водительское удостоверение за управление транспортным средством со скоростью, превышающей разрешенную более чем на 50 км\/ч в населенном пункте.",
         "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо преодолевать повороты, выбирая как можно менее тесный радиус.",
-        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?",
-        "Masy własnej samochodu": "Масса собственная автомобиля."
+        "Czy wolno Ci kierować pojazdem, którego tablica rejestracyjna jest niewidoczna?": "Можете ли вы управлять транспортным средством, регистрационный знак которого невидим?"
     },
     "approved": {
         "starosta": {
@@ -3492,7 +3491,11 @@
             "Kierujący pojazdem może używać tylnych świateł przeciwmgłowych, jeżeli zmniejszona przejrzystość powietrza ogranicza widoczność na odległość mniejszą niż 50 m. W razie poprawy widoczności kierujący pojazdem jest obowiązany niezwłocznie wyłączyć te światła": "Водитель транспортного средства может использовать задние противотуманные фонари, если ухудшенная прозрачность воздуха ограничивает видимость на расстояние менее 50 м. В случае улучшения видимости водитель транспортного средства обязан незамедлительно выключить эти фары.",
             "Kierującemu pojazdem zabrania się ciągnięcia za pojazdem osoby na nartach, sankach, wrotkach lub innym podobnym urządzeniu": "Водителю транспортного средства запрещается буксировать за транспортным средством человека на лыжах, санках, роликовых коньках или другом подобном устройстве.",
             "Której z tych czynności nie masz prawa wykonywać samochodem osobowym?": "Какое из этих действий вам не разрешено выполнять автомобилем?",
-            "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства."
+            "Rzeczywista masa całkowita przyczepy ciągniętej przez: samochód osobowy, samochód ciężarowy o dopuszczalnej masie całkowitej nieprzekraczającej 3,5 t lub autobus – nie może przekraczać rzeczywistej masy całkowitej pojazdu ciągnącego": "Фактическая полная масса прицепа, буксируемого автомобилем, грузовым автомобилем с допустимой полной массой не превышающей 3,5 тонны или автобусом, не может превышать фактическую полную массу буксирующего транспортного средства.",
+            "Rzeczywistej masy całkowitej samochodu": "Фактической полной массы автомобиля.",
+            "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической полной массы автомобиля, уменьшенной на 40%.",
+            "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какую величину не имеет права превышать фактическая полная масса прицепа, буксируемого автомобилем?",
+            "Masy własnej samochodu": "Снаряженная масса автомобиля."
         }
     },
     "not_approved": {
@@ -4412,9 +4415,6 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
-        "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической полной массы автомобиля, уменьшенной на 40%.",
-        "Rzeczywistej masy całkowitej samochodu": "Фактической полной массы автомобиля.",
-        "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какого размера не должна превышать фактическая полная масса прицепа, буксируемого автомобилем?"
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
     }
 }
