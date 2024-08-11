@@ -3685,7 +3685,14 @@
             "2,6 milimetra": "2,6 миллиметра.",
             "3 milimetry": "3 миллиметра.",
             "Jaka jest dopuszczalna minimalna głębokość bieżnika w oponie niewyposażonej we wskaźnik granicznego jej zużycia?": "Какова допустимая минимальная глубина протектора в шине, не оснащенной индикатором предельного износа?",
-            "Pojazd nie może być wyposażony w opony, których wskaźniki pokazują graniczne zużycie bieżnika, a w odniesieniu do opon niezaopatrzonych w takie wskaźniki – o głębokości rzeźby bieżnika mniejszej niż 1,6 mm": "Транспортное средство не может быть оборудовано шинами, индикаторы которых показывают предельный износ протектора, а в отношении шин, не снабженных такими индикаторами, – с глубиной рисунка протектора менее чем 1,6 мм."
+            "Pojazd nie może być wyposażony w opony, których wskaźniki pokazują graniczne zużycie bieżnika, a w odniesieniu do opon niezaopatrzonych w takie wskaźniki – o głębokości rzeźby bieżnika mniejszej niż 1,6 mm": "Транспортное средство не может быть оборудовано шинами, индикаторы которых показывают предельный износ протектора, а в отношении шин, не снабженных такими индикаторами, – с глубиной рисунка протектора менее чем 1,6 мм.",
+            "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?": "Какая из перечисленных неисправностей делает безопасное использование автомобиля в дорожном движении невозможным?",
+            "Zanieczyszczony wkład filtra powietrza": "Загрязнённый элемент воздушного фильтра.",
+            "Przegrzewające się elektrody świec zapłonowych": "Перегревающиеся электроды свечей зажигания.",
+            "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
+            "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
+            "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
+            "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства."
         }
     },
     "not_approved": {
@@ -3696,11 +3703,9 @@
         "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
         "Czy masz prawo zaparkować w tym miejscu na moście?": "Вы имеете право припарковаться в этом месте на мосту?",
         "Czy na tak oznakowanej drodze wolno Ci zawrócić?": "Можно ли на такой обозначенной дороге развернуться?",
-        "Które z wymienionych działań należy podjąć, gdy w czasie jazdy zaświeci się na czerwono lampka kontrolna układu hamulcowego?": "Какие из перечисленных действий следует предпринять, если во время движения загорится красный индикатор тормозной системы?",
         "Wkrótce": "Вскоре",
         "Kierujący pojazdem jest obowiązany zachować szczególną ostrożność w czasie jazdy w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi lub innymi przyczynami": "Водитель транспортного средства обязан проявлять особую осторожность при движении в условиях пониженной прозрачности воздуха, вызванной туманом, осадками или другими причинами.",
         "Foteliki bezpieczeństwa dla dziecka oraz inne urządzenia przytrzymujące dla dzieci są instalowane w pojeździe, zgodnie z zaleceniami producenta urządzenia, wskazującymi, w jaki sposób urządzenie może być bezpiecznie stosowane.\n": "Детские сиденья безопасности и другие детские удерживающие устройства устанавливаются в автомобиле в соответствии с рекомендациями производителя устройства, указывающими, как устройство может быть безопасно использовано.",
-        "Zatrzymać pojazd i sprawdzić poziom płynu hamulcowego": "Остановите автомобиль и проверьте уровень тормозной жидкости.",
         "Zaświecenie się lampki kontrolnej układu hamulcowego może świadczyć o zbyt niskim poziomie płynu hamulcowego, o awarii hamulców lub o zaciągnięciu dźwigni hamulca postojowego": "Если индикатор тормозной системы загорится, это может быть признаком слишком низкого уровня тормозной жидкости, отказа тормозов или включения рычага стояночного тормоза.",
         "Czy w tej sytuacji masz prawo kontynuować wyprzedzanie?": "Имеете ли вы право продолжать обгон в этой ситуации?",
         "Czy masz prawo zatrzymać pojazd w odległości 11m za tym znakiem drogowym?": "Имеете ли вы право остановить автомобиль на расстоянии 11 м за этим дорожным знаком?",
@@ -3764,7 +3769,6 @@
         "Czy w tej sytuacji masz prawo zająć więcej niż jeden pas ruchu?": "Имеете ли вы право занимать более одной полосы движения в этой ситуации?",
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
-        "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
@@ -3882,9 +3886,6 @@
         "Czy przewożenie na przednim siedzeniu pojazdu dziecka o wzroście co najmniej 135 cm, zabezpieczonego jedynie pasami bezpieczeństwa, jest dozwolone?": "Допускается ли перевозка ребенка ростом не менее 135 см на переднем сиденье ТС, если он будет защищен только ремнями безопасности?",
         "Czy uczestnicząc w wypadku drogowym masz obowiązek podać dane właściciela pojazdu na żądanie innej osoby uczestniczącej w tym wypadku?": "Участвуя в дорожно-транспортном происшествии, обязаны ли вы предоставить данные владельца транспортного средства по требованию другого лица, участвующего в этом происшествии?",
         "Czy przed ominięciem widocznej przeszkody masz obowiązek ocenić sytuację za pojazdem na pozostałych pasach ruchu?": "Перед объездом видимого препятствия обязаны ли вы оценить ситуацию за ТС на остальных полосах движения?",
-        "Zanieczyszczony wkład filtra powietrza": "Загрязнённый элемент воздушного фильтра.",
-        "Przegrzewające się elektrody świec zapłonowych": "Перегревающиеся электроды свечей зажигания.",
-        "Która z wymienionych usterek, uniemożliwia bezpieczne używanie samochodu w ruchu drogowym?": "Какая из перечисленных неисправностей делает безопасное использование автомобиля в дорожном движении невозможным?",
         "Zajmowany pas służy do skrętu w prawo": "Занятая полоса предназначена для поворота направо.",
         "Czy w tej sytuacji miałeś obowiązek włączyć kierunkowskaz?": "В данной ситуации у вас была обязанность включить указатель поворота?",
         "Czy w tej sytuacji zabronione jest wyprzedzanie pojazdu szynowego?": "В данной ситуации запрещено ли обгон железнодорожного транспорта?",
@@ -3967,7 +3968,6 @@
         "Pozostawione na miejscu parkowania ślady wycieków płynów eksploatacyjnych": "Оставленные на месте парковки следы утечек эксплуатационных жидкостей.",
         "Zaświecenie się na czerwono lampki kontrolnej ładowania akumulatora przed uruchomieniem silnika": "Загорание красной индикаторной лампы зарядки аккумулятора перед запуском двигателя.",
         "Która z wymienionych okoliczności może świadczyć o złym stanie technicznym samochodu osobowego?": "Какая из перечисленных обстоятельств может свидетельствовать о плохом техническом состоянии автомобиля?",
-        "Kontynuować jazdę i zgłosić ten stan przy najbliższych badaniach okresowych pojazdu": "Продолжайте движение и сообщите об этой ситуации при ближайшем периодическом техническом осмотре транспортного средства.",
         "Na przystanku nie ma tramwaju": "На остановке нет трамвая.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze mają prawo liczyć, że inni uczestnicy tego ruchu przestrzegają przepisów ruchu drogowego, chyba że okoliczności wskazują na możliwość odmiennego ich zachowania": "Участник движения и другой человек, находящийся на дороге, имеют право рассчитывать на то, что другие участники этого движения соблюдают правила дорожного движения, если только обстоятельства не указывают на возможность их иного поведения.",
         "Uczestnik ruchu i inna osoba znajdująca się na drodze są obowiązani unikać wszelkiego działania, które mogłoby spowodować zagrożenie bezpieczeństwa lub porządku ruchu drogowego, ruch ten utrudnić albo w związku z ruchem zakłócić spokój lub porządek publiczny oraz narazić kogokolwiek na szkodę": "Участник движения и другое лицо, находящееся на дороге, обязаны избегать любых действий, которые могли бы создать угрозу безопасности или порядка дорожного движения, этот трафик затруднить или в связи с движением нарушить спокойствие или общественный порядок, а также подвергнуть кого-либо вреду.",
@@ -4146,7 +4146,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Kierunkowskaz jest jednym z obowiązkowych świateł zewnętrznych, w które musi być wyposażony samochód": "Поворотник является одним из обязательных наружных огней, которыми должен быть оборудован автомобиль.",
         "Lampka kontrolna układu chłodzenia zapala się, gdy poziom płynu w układzie chłodzenia jest zbyt niski lub temperatura płynu jest zbyt wysoka": "Индикаторная лампа системы охлаждения загорается, когда уровень жидкости в системе охлаждения слишком низкий или температура жидкости слишком высокая.",
         "Wycieki płynów eksploatacyjnych świadczą o złym stanie technicznym pojazdu": "Течи эксплуатационных жидкостей свидетельствуют о плохом техническом состоянии транспортного средства.",
         "Koło dojazdowe jest substytutem koła zapasowego": "Колесо для временной замены является субститутом запасного колеса.",
@@ -4444,6 +4443,7 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
+        "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Снизить скорость и ждать, пока лампочка погаснет."
     }
 }
