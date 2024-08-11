@@ -3520,7 +3520,8 @@
             "Ryzyko poślizgu drastycznie wzrasta podczas oblodzenia lub zaśnieżenia jezdni": "Риск скольжения драматически возрастает во время обледенения или заснеживания проезжей части.",
             "Nagłe intensywne hamowanie": "Внезапное интенсивное торможение.",
             "Hamowanie silnikiem": "Торможение двигателем.",
-            "Jazda ze stałą prędkością": "Езда с постоянной скоростью."
+            "Jazda ze stałą prędkością": "Езда с постоянной скоростью.",
+            "Gwałtowne skręcenie kierownicy": "Резкий поворот руля."
         }
     },
     "not_approved": {
@@ -3603,7 +3604,6 @@
         "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
-        "Gwałtowne skręcenie kierownicy": "Резкое скручивание руля.",
         "Odpowiedzi inne niż nr 2 nie mają sensu": "Ответы, отличные от № 2, не имеют смысла.",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
         "Czy w tej sytuacji powinieneś użyć sygnału dźwiękowego?": "Следует ли использовать звуковой сигнал в этой ситуации?",
