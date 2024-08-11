@@ -3770,7 +3770,8 @@
             "Jeżeli dziecko ma co najmniej 120 cm wzrostu i ze względu na masę nie jest możliwe zapewnienie fotelika bezpieczeństwa lub innego urządzenia podtrzymującego dziecko": "Если ребенок имеет рост не менее 120 см и из-за массы не возможно обеспечить кресло безопасности или другое удерживающее устройство для ребенка.",
             "Który z wymienionych dokumentów kierujący pojazdem zarejestrowanym na terytorium RP jest zobowiązany przy sobie mieć i okazywać na żądanie uprawnionego organu?": "Какой из перечисленных документов водитель транспортного средства, зарегистрированного на территории Польши, обязан иметь при себе и предъявлять по требованию уполномоченного органа?",
             "Kierujący pojazdem samochodowym oraz osoba przewożona takim pojazdem wyposażonym w pasy bezpieczeństwa są obowiązani korzystać z tych pasów podczas jazdy": "Водитель автомобиля и пассажир, перевозимый в таком автомобиле, оборудованном ремнями безопасности, обязаны использовать эти ремни во время движения.",
-            "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене."
+            "Po wciśnięciu sprzęgła noga powinna być lekko ugięta w kolanie": "После нажатия на сцепление нога должна быть слегка согнута в колене.",
+            "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
         }
     },
     "not_approved": {
@@ -4441,7 +4442,6 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
         "Zużyte pióra rozmazują wilgoć na przedniej szybie": "Изношенные щетки размазывают влагу по лобовому стеклу.",
         "Organ upoważniony do kontroli zatrzyma prawo jazdy za kierowanie pojazdem z prędkością przekraczającą dopuszczalną o więcej niż 50 km\/h na obszarze zabudowanym": "Орган, уполномоченный на проведение контроля, временно изымет водительское удостоверение за управление транспортным средством со скоростью, превышающей допустимую более чем на 50 км\/ч в населенном пункте.",
         "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное функционирование ремней безопасности зависит от их правильного расположения."
