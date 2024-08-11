@@ -15,7 +15,6 @@
         "Czy w tej sytuacji masz obowiązek wcześniej zasygnalizować, że zamierzasz zmienić pas ruchu?": "Есть ли у тебя в этой ситуации обязанность заранее сигнализировать, что собираешься поменять полосу движения?",
         "Czy masz prawo ruszyć, gdy piesi wejdą na chodnik?": "Имеете ли вы право двигаться, когда пешеходы выходят на тротуар?",
         "Czy w widocznej sytuacji znaki poziome na jezdni zezwalają na zmianę pasa ruchu na lewy?": "Позволяют ли в данной ситуации наземные (горизонтальные) знаки на проезжей части на перестроение на левую полосу движения?",
-        "Włączenie świateł drogowych": "Включение фар ближнего света.",
         "Zdecydowanie przyhamować": "Определенно притормозить.",
         "O dowolnym tonie": "На любом тоне.",
         "O ciągłym nieprzeraźliwym tonie": "О непрерывном негромком тоне.",
@@ -3477,7 +3476,8 @@
             "Niewyważeniem kół kierowanych": "Несбалансированностью управляемых колес.",
             "Zużyciem przegubów (końcówek) drążków kierowniczych": "Износом шарниров (концевиков) рулевых тяг.",
             "Czy w tej sytuacji masz prawo rozpocząć manewr wyprzedzania?": "В этой ситуации разрешено начать маневр обгона?",
-            "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "За пределами населенного пункта при возникновении тумана водитель должен подавать короткие звуковые сигналы во время обгона или объезда."
+            "Poza obszarem zabudowanym podczas występowania mgły kierujący powinien dawać krótkotrwałe sygnały dźwiękowe w czasie wyprzedzania lub omijania": "За пределами населенного пункта при возникновении тумана водитель должен подавать короткие звуковые сигналы во время обгона или объезда.",
+            "Włączenie świateł drogowych": "Включение дальнего света."
         }
     },
     "not_approved": {
