@@ -3624,7 +3624,11 @@
             "Wraz z dwukrotnym wzrostem prędkości droga hamowania zwiększa się czterokrotnie": "С удвоением скорости тормозной путь увеличивается в четыре раза.",
             "Stan opon oraz dodatkowa masa pojazdu nie wpływają na postrzeganie": "Состояние шин и дополнительная масса транспортного средства не влияют на восприятие.",
             "Dowolny, ale bezpieczny": "Любой, но безопасный.",
-            "Nie mniejszy niż 0.5 metra": "Не меньше чем 0,5 метра."
+            "Nie mniejszy niż 0.5 metra": "Не меньше чем 0,5 метра.",
+            "Minimalnie 1 m": "Минимум 1 м.",
+            "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
+            "Jaki odstęp musisz zachować od omijanej przeszkody?": "Какую дистанцию вы должны соблюсти от объезжаемого препятствия?",
+            "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения."
         }
     },
     "not_approved": {
@@ -3673,7 +3677,6 @@
         "Czy w tej sytuacji migający sygnał świetlny ostrzega o występującym niebezpieczeństwie lub utrudnieniu ruchu?": "В этой ситуации предупреждает ли мигающий световой сигнал о возникающей опасности или затруднении движения?",
         "Czy na drodze za tym znakiem wolno Ci zatrzymać pojazd na czas do 1 minuty?": "На дороге за этим знаком вам разрешено останавливать автомобиль на срок до 1 минуты?",
         "Czy z zajmowanego obecnie pasa ruchu wolno Ci skręcić w lewo na najbliższym skrzyżowaniu?": "Разрешено ли вам повернуть налево на ближайшем перекрестке с занятой в настоящее время полосы движения?",
-        "Minimalnie 1 m": "Минимум 1 м.",
         "Czy w tej sytuacji możesz ominąć tramwaj?": "Можете ли вы обойти трамвай в этой ситуации?",
         "Czy w przedstawionej sytuacji masz prawo najechać na linię ciągłą?": "В представленной ситуации вы имеете право вторгнуться на сплошную линию?",
         "Czy w tej sytuacji masz obowiązek używać świateł mijania lub świateł do jazdy dziennej?": "Вы обязаны использовать ближний свет или дневные ходовые огни в этой ситуации?",
@@ -3749,7 +3752,6 @@
         "Czy w tej sytuacji masz prawo zatrzymać samochód osobowy kołami jednego boku na chodniku?": "В этой ситуации имеете ли вы право остановить легковой автомобиль колесами одного бока на тротуаре?",
         "Czy uczestnicząc w wypadku, w którym są ranni, masz obowiązek usunąć swój pojazd z miejsca zdarzenia, aby nie utrudniał ruchu?": "Обязаны ли вы убрать свой автомобиль с места происшествия, где есть пострадавшие, чтобы не мешать движению?",
         "Czy w przedstawionej sytuacji kierujący jest obowiązany zatrzymać pojazd przed jezdnią przy linii złożonej z trójkątów?": "Обязан ли в данной ситуации водитель остановить транспортное средство перед проезжей частью у линии, состоящей из треугольников?",
-        "Maksymalnie 10 m, minimalnie 1m": "Максимально 10 метров, минимально 1 метр.",
         "Kierujesz pojazdem na obszarze zabudowanym. Czy w tej sytuacji masz prawo wyprzedzić z prawej strony pojazd jadący przed Tobą?": "Вы управляете транспортным средством в населенном пункте. Имеете ли вы в этой ситуации право обогнать справа транспортное средство, движущееся перед вами?",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd, by umożliwić pieszemu przejście przez jezdnię?": "В этой ситуации обязаны ли вы остановить транспортное средство, чтобы позволить пешеходу перейти через проезжую часть?",
         "Czy w tej sytuacji masz prawo zaparkować pojazd bezpośrednio przed przejściem dla pieszych?": "В данной ситуации имеете ли вы право припарковать транспортное средство непосредственно перед пешеходным переходом?",
@@ -4009,7 +4011,6 @@
         "Czy masz obowiązek zabezpieczyć przed stoczeniem się pojazd zaparkowany na wzniesieniu?": "Вы обязаны обезопасить от скатывания паркованный на возвышенности транспортное средство?",
         "Czy w tej sytuacji masz obowiązek użycia kierunkowskazu, jeśli zamierzasz zmienić pas ruchu?": "В данной ситуации у вас есть обязанность использования указателя поворота, если вы намереваетесь сменить полосу движения?",
         "Czy w tej sytuacji skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z kierunku przeciwnego?": "В этой ситуации, поворачивая налево, обязаны ли вы уступить дорогу ТС, едущему из противоположного направления?",
-        "Jaki odstęp musisz zachować od omijanej przeszkody?": "Какую дистанцию вы должны соблюсти от объезжаемого препятствия?",
         "Czy wyjeżdżając z parkingu powinieneś ustąpić pierwszeństwa pojazdom jadącym po jezdni?": "Выезжая с парковки, должны ли вы уступить дорогу ТС, идущим по проезжей части?",
         "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
         "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или диски тормозные.",
@@ -4180,7 +4181,6 @@
         "Znajdując się w strefie ruchu, w której ruch pieszych i pojazdów odbywa się po tej samej powierzchni, kierujący powinien jechać powoli i ustąpić pierwszeństwa pieszym": "Находясь в зоне движения, где движение пешеходов и транспортных средств происходит по одной и той же поверхности, водитель должен ехать медленно и уступить дорогу пешеходам.",
         "Tylko zajmowany pas służy do jazdy": "Только занимаемая полоса предназначена для движения.",
         "Dopuszcza się wyprzedzanie z prawej na drogach i jezdniach jednokierunkowych z wyznaczonymi pasami ruchu. Z lewej strony w tej sytuacji bez ograniczeń": "Разрешается обгон справа на дорогах и проезжих частях с односторонним движением с обозначенными полосами движения. С левой стороны в этой ситуации без ограничений.",
-        "Głównymi zadaniami ABS są: skrócenie drogi hamowania oraz podtrzymanie kierowalności pojazdu podczas gwałtownego hamowania": "Основные задачи ABS: укорочение тормозного пути и поддержание управляемости автомобиля во время резкого торможения.",
         "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?": "В этой ситуации после обгона вы обязаны перестроиться в правую полосу?",
         "Какой из индикаторов на рисунке указывает на то, что обогрев заднего стекла включен?": "Какой из индикаторов на рисунке указывает на то, что включен подогрев заднего стекла?",
         "Одним из общих правил является обязанность двигаться как можно ближе к правому краю": "Одним из общих правил является обязанность двигаться как можно ближе к правому краю.",
