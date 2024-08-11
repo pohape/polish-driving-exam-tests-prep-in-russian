@@ -38,7 +38,8 @@
         "Do skrócenia o co najmniej połowę drogi hamowania": "Для сокращения пути торможения по крайней мере вдвое.",
         "Do zniszczenia hamulców": "Для разрушения тормозов.",
         "W razie wyprzedzania roweru, wózka rowerowego motoroweru, motocykla lub kolumny pieszych odstęp nie może być mniejszy niż 1 m": "В случае обгона велосипеда, велосипедного возика, мопеда, мотоцикла или колонны пешеходов дистанция не может быть менее 1 м.",
-        "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства."
+        "Trzeba wrócić na prawy pas po upewnieniu się, że nie utrudni się ruchu kierującemu pojazdem wyprzedzanym": "Нужно вернуться на правую полосу, убедившись, что не затруднят движение водителю обгоняемого транспортного средства.",
+        "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения."
     },
     "approved": {
         "starosta": {
@@ -3667,7 +3668,12 @@
             "Co widzi kierujący w dobrze ustawionym lusterku zewnętrznym samochodu osobowego?": "Что видит водитель в хорошо настроенном наружном зеркале легкового автомобиля?",
             "Tylko obszar przestrzeni obok pojazdu": "Только пространство сбоку автомобиля.",
             "Tylko obszar przestrzeni za pojazdem": "Только пространство за ТС.",
-            "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой стороны автомобиля и соответствующая стороне автомобиля область пространства за ним."
+            "Fragment boku pojazdu i odpowiedni do strony pojazdu obszar przestrzeni za nim": "Часть боковой стороны автомобиля и соответствующая стороне автомобиля область пространства за ним.",
+            "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
+            "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
+            "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
+            "Pole widzenia zawęża się wraz ze wzrostem prędkości": "Поле зрения сужается с увеличением скорости.",
+            "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения."
         }
     },
     "not_approved": {
@@ -3739,7 +3745,6 @@
         "Czy w tej sytuacji masz obowiązek uważnie obserwować zachowanie rowerzysty?": "В этой ситуации вы обязаны внимательно следить за поведением велосипедиста?",
         "Wolniej chyba już się nie da ;-)": "Медленнее, наверное, уже не получится ;-)",
         "Czy w przedstawionej sytuacji żółty pojazd pomocy drogowej biorący udział w akcji ratowniczej może poruszać się po drodze przejazdu pojazdu uprzywilejowanego ?": "В представленной ситуации может ли желтое транспортное средство помощи на дороге, участвующее в спасательной операции, двигаться по пути прохождения аварийного транспортного средства ?",
-        "Koncentracja uwagi, aktualne samopoczucie i stan zdrowia mają istotny wpływ na jego ostrość widzenia": "Концентрация внимания, текущее самочувствие и состояние здоровья оказывают существенное влияние на его остроту зрения.",
         "Czy w tej sytuacji masz obowiązek zatrzymać pojazd przed przejściem dla pieszych?": "В этой ситуации вы обязаны остановить транспортное средство от пешеходного перехода?",
         "Czy w przedstawionej sytuacji wolno Ci wyprzedzić pojazd z prawej strony?": "В представленной ситуации вам разрешено обгонять автомобиль с правой стороны?",
         "Czy masz obowiązek zatrzymać się i zainteresować tą osobą?": "Вы обязаны остановиться и заинтересоваться состоянием этого человека?",
@@ -4001,9 +4006,6 @@
         "Czy w przedstawionej sytuacji masz pierwszeństwo przed pojazdem z lewej strony?": "В данной ситуации у вас есть преимущество перед ТС слева?",
         "Czy w przedstawionej sytuacji wyprzedzanie jest dozwolone?": "Разрешён ли обгон в представленной ситуации?",
         "Zamierzasz skręcić w prawo. Czy masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "Вы намереваетесь повернуть направо. У вас есть преимущество перед ТС, приближающимся слева?",
-        "Wraz ze wzrostem prędkości zawęża się pole widzenia": "С увеличением скорости сужается поле зрения.",
-        "Prędkość jazdy nie ma wpływu na pole widzenia kierującego": "Скорость движения не влияет на поле зрения водителя.",
-        "Jaki wpływ na pole widzenia kierującego pojazdem ma prędkość jazdy?": "Какое влияние на поле зрения водителя оказывает скорость движения?",
         "Czy w tej sytuacji zachowanie pieszego wymaga, abyś użył sygnału dźwiękowego?": "Требуется ли в этой ситуации от пешехода, чтобы ты использовал звуковой сигнал?",
         "Kierujący pojazdem jest obowiązany zbliżyć się do środka jezdni lub na jezdni o ruchu jednokierunkowym do lewej jej krawędzi – jeżeli zamierza skręcić w lewo": "Водитель транспортного средства обязан приблизиться к середине проезжей части, а на дороге с односторонним движением к левому краю проезжей части – если намеревается повернуть налево.",
         "Czy na tym skrzyżowaniu masz pierwszeństwo przed pojazdem nadjeżdżającym z lewej strony?": "На этом перекрестке у вас есть преимущество перед ТС, приближающимся слева?",
@@ -4079,7 +4081,6 @@
         "Czy w tej sytuacji, zmieniając pas ruchu, masz pierwszeństwo przed pojazdami jadącymi prawym pasem?": "В этой ситуации, меняя полосу движения, имеете ли вы преимущество перед ТС, движущимися по правой полосе?",
         "Czy ten znak oznacza początek lub kontynuację drogi z pierwszeństwem?": "Этот знак обозначает начало или продолжение главной дороги?",
         "Znak D1 - droga z pierwszeństwem": "Знак D1 - главная дорога.",
-        "W tej sytuacji powinieneś nie doprowadzić do kolizji": "В этой ситуации ты должен не допустить столкновения.",
         "Kierujący pojazdem, zbliżając się do przejazdu dla rowerzystów, jest obowiązany zachować szczególną ostrożność i ustąpić pierwszeństwa rowerowi znajdującemu się na przejeździe": "Водитель ТС, приближаясь к переезду для велосипедистов, обязан проявить особую осторожность и уступить дорогу велосипеду, находящемуся на переезде.",
         "Czy przejeżdżając obok tego przystanku tramwajowego, masz obowiązek zachować szczególną ostrożność?": "Проезжая мимо этой остановки трамвая, обязан ли ты соблюдать особую осторожность?",
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
