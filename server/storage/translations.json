@@ -3752,7 +3752,8 @@
             "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
             "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?",
             "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
-            "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?"
+            "Czy na tak oznakowanym skrzyżowaniu masz prawo wyprzedzać pojazdy poruszające się innymi pasami?": "Имеешь ли ты право обгонять транспортные средства, движущиеся по другим полосам, на перекрестке, обозначенном таким образом?",
+            "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?"
         }
     },
     "not_approved": {
@@ -4117,7 +4118,6 @@
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
         "Zmień kategorię prawa jazdy &nbsp;&nbsp;A &nbsp;&nbsp;B &nbsp;&nbsp;C &nbsp;&nbsp;D &nbsp;&nbsp;T": "Измените категорию водительских прав A B C D T",
-        "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?",
         "Czy masz obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu?": "Обязаны ли вы соблюдать безопасную дистанцию от обгоняемого транспортного средства?",
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
         "Podczas wyprzedzania należy zachować bezpieczny odstęp od wyprzedzanego pojazdu": "Во время обгона необходимо сохранять безопасную дистанцию от обгоняемого транспортного средства.",
