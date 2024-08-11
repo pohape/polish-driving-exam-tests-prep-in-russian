@@ -3750,7 +3750,8 @@
             "Czy w tej sytuacji, podczas postoju na drodze poza obszarem zabudowanym uszkodzonego pojazdu, masz obowiązek umieścić za nim ostrzegawczy trójkąt odblaskowy w odległości 150 m?": "В данной ситуации, во время стоянки на дороге вне населенного пункта у поврежденного транспортного средства, обязан ли ты разместить за ним знак аварийной остановки на расстоянии 150 метров?",
             "Czy w tej sytuacji, podczas postoju uszkodzonego pojazdu poza obszarem zabudowanym, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy bezpośrednio za pojazdem lub na nim ?": "В этой ситуации, во время стоянки поврежденного транспортного средства вне населенного пункта, обязан ли ты разместить знак аварийной остановки непосредственно за транспортным средством или на нем?",
             "Czy w tej sytuacji, poruszając się jezdnią jednokierunkową poza obszarem zabudowanym, możesz wyprzedzać z prawej strony?": "Можешь ли ты в этой ситуации, двигаясь по дороге с односторонним движением вне населенного пункта, обгонять с правой стороны?",
-            "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?"
+            "Czy na tym skrzyżowaniu masz prawo wyprzedzać?": "Имеешь ли ты право обгонять на этом перекрестке?",
+            "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться."
         }
     },
     "not_approved": {
@@ -4437,7 +4438,6 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
         "ДА": "TAK",
