@@ -3553,7 +3553,8 @@
             "Tak, aby zapewnić sobie pionową pozycję": "Так, чтобы обеспечить себе вертикальное положение.",
             "Odsunę jak najdalej do tyłu, tak jednak, abym lewą nogą mógł swobodnie wcisnąć pedał sprzęgła": "Отодвину как можно дальше назад, но так, чтобы левой ногой я мог свободно нажать на педаль сцепления.",
             "Czy zatrzymując na tej drodze pojazd, który uległ awarii, masz obowiązek umieścić ostrzegawczy trójkąt odblaskowy w odległości 100 m za nim?": "При остановке на этой дороге транспортного средства, которое сломалось, обязан ли ты установить знак аварийной остановки на расстоянии 100 м за ним?",
-            "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?"
+            "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
+            "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": "Разрешает ли видимый сигнал поворот направо без остановки?"
         }
     },
     "not_approved": {
@@ -4029,7 +4030,6 @@
         "Czy w tej sytuacji, skręcając w prawo na skrzyżowaniu, wjedziesz na drogę z pierwszeństwem?": "У вас есть преимущество перед ТС?",
         "Czy w tej sytuacji masz prawo wjechać na skrzyżowanie przed zapaleniem się sygnału czerwonego?": "Имеешь ли ты право въехать на перекрёсток перед тем, как загорится красный сигнал?",
         "Czy w tej sytuacji sygnał świetlny nadawany dla twojego kierunku ruchu zezwala na wjazd za sygnalizator?": "В этой ситуации разрешает ли световой сигнал для вашего направления движения въезд за светофор?",
-        "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": "Разрешает ли видимый сигнал поворот направо без остановки?",
         "Czy w przedstawionej sytuacji na tym skrzyżowaniu masz prawo zawrócić?": "Имеешь ли ты право развернуться в данной ситуации на этом перекрестке?",
         "Czy w tej sytuacji masz prawo wjechać za sygnalizator?": "Имеешь ли ты право въехать за светофор в этой ситуации?",
         "Czy w widocznej sytuacji dopuszczalne jest skręcanie w lewo i zawracanie na skrzyżowaniu?": "Допускается ли в данной видимой ситуации поворот налево и разворот на перекрестке?",
