@@ -3556,7 +3556,8 @@
             "Czy wyprzedzenie rowerzysty w tej sytuacji jest zabronione?": "Выполнение обгона велосипедиста в данной ситуации запрещено?",
             "Czy widoczny sygnał zezwala na skręcenie w prawo bez zatrzymania?": "Разрешает ли видимый сигнал поворот направо без остановки?",
             "Czy skręcając w lewo na tym skrzyżowaniu masz pierwszeństwo przed nadjeżdżającym z przeciwka pojazdem?": "Поворачивая налево на этом перекрестке, у вас есть преимущество перед встречным ТС?",
-            "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00."
+            "Nie, jeżeli jedziesz w godzinach od 5.00 do 23.00": "Нет, если вы едете в период с 5:00 до 23:00.",
+            "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Следует ли учитывать состояние и нагрузку транспортного средства при выборе скорости движения?"
         }
     },
     "not_approved": {
@@ -4423,7 +4424,6 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK",
-        "Czy stan i ładunek pojazdu są czynnikami które należy uwzględniać podczas dobierania prędkości jazdy?": "Являются ли состояние и груз транспортного средства факторами, которые необходимо учитывать при выборе скорости движения?"
+        "ДА": "TAK"
     }
 }
