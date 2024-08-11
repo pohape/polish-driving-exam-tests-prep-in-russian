@@ -3656,7 +3656,11 @@
             "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
             "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в вождении.",
             "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
-            "Właściwa pozycja za kierownicą ułatwia obserwowanie drogi": "Правильное положение за рулем облегчает наблюдение за дорогой."
+            "Właściwa pozycja za kierownicą ułatwia obserwowanie drogi": "Правильное положение за рулем облегчает наблюдение за дорогой.",
+            "Co powinieneś widzieć w prawidłowo ustawionym lusterku wstecznym (wewnętrznym)?": "Что вы должны видеть в правильно настроенном зеркале заднего вида (внутреннем)?",
+            "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
+            "Odbicie własnej twarzy": "Отражение собственного лица.",
+            "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством."
         }
     },
     "not_approved": {
@@ -3833,10 +3837,6 @@
         "Jakie obowiązki ciążą na osobie, która ma wydane w Polsce prawo jazdy?": "Какие обязанности лежат на лице, которому были выданы в Польше водительские права?",
         "Czy w tej sytuacji powinieneś uważnie obserwować zachowanie pieszej?": "В этой ситуации следует ли вам внимательно наблюдать за поведением пешехода?",
         "Czy w przedstawionej sytuacji masz prawo zawrócić na skrzyżowaniu?": "В данной ситуации имеете ли вы право развернуться на перекрестке?",
-        "Tylną szybę i drogę za pojazdem": "Заднее стекло и дорогу за транспортным средством.",
-        "Co powinieneś widzieć w prawidłowo ustawionym lusterku wstecznym (wewnętrznym)?": "Что вы должны видеть в правильно настроенном зеркале заднего вида (внутреннем)?",
-        "Dziecko siedzące w foteliku za siedzeniem pasażera": "Ребенок, сидящий в детском кресле за сиденьем пассажира.",
-        "Odbicie własnej twarzy": "Отражение собственного лица.",
         "Najbliższy zjazd znajduje się w odległości 3 km. Ten dystans umożliwi wykonanie manewru wyprzedzania": "Ближайший съезд находится на расстоянии 3 км. Это расстояние позволит выполнить маневр обгона.",
         "Czy wolno Ci przewozić dziecko powyżej 150 cm wzrostu na przednim siedzeniu w kabinie samochodu ciężarowego?": "Разрешено ли Вам перевозить ребенка выше 150 см роста на переднем сидении в кабине грузового автомобиля?",
         "Tak, pod warunkiem że dziecko będzie siedziało na kolanach innej osoby dorosłej": "Да, при условии, что ребёнок будет сидеть на коленях у другого взрослого.",
