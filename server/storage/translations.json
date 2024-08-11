@@ -4,7 +4,6 @@
         "Czy nadawany sygnał oznacza, że za chwilę zapali się sygnał zielony?": "Означает ли данный сигнал, что ненадолго загорится зеленый свет?",
         "Czy przewożąc samochodem osobowym każdego pasażera o ograniczonej sprawności ruchowej, jesteś zwolniony z obowiązku stosowania się do widocznego znaku zakazu?": "Вопрос: \"Если перевозишь автомобилем каждого пассажира с ограниченной подвижностью, ты освобожден от обязанности соблюдения видимого запрещающего знака?\"",
         "Czy w tej sytuacji zabronione jest opuszczenie skrzyżowania prawym pasem ruchu?": "В этой ситуации запрещено покидать перекресток правой полосой движения?",
-        "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае ненадания помощи пострадавшему в дорожном происшествии с прямой угрозой утраты здоровья и жизни?",
         "Czy dojeżdżając do przejścia dla pieszych, na które wchodzi osoba niepełnosprawna, używająca specjalnego znaku lub osoba o widocznej ograniczonej sprawności ruchowej, powinieneś wziąć pod uwagę, że będziesz musiał zatrzymać pojazd?": "Прибывая к пешеходному переходу, на который входит человек с инвалидностью, использующий специальный знак, или человек с明显но ограниченной подвижностью, должен ли ты учитывать, что тебе придется остановить транспортное средство?",
         "Kierujący pojazdem podczas zatrzymania i postoju na nieoświetlonej jezdni, jest zobowiązany do używania świateł pozycyjnych przednich i tylnych lub postojowych": "Водитель транспортного средства во время остановки и стоянки на неосвещенной проезжей части обязан использовать передние и задние габаритные огни или габаритные огни.",
         "Czy wolno Ci zaparkować pojazd w tej zatoce?": "Можно ли вам припарковать автомобиль в этой остановке общественного транспорта?",
@@ -3737,7 +3736,11 @@
             "ESP znajdzie zastosowanie podczas konieczności pokonywania kilku następujących po sobie zakrętów": "ESP найдет применение в ситуации необходимости преодоления нескольких последующих друг за другом поворотов.",
             "Która z widocznych na ilustracji lampek kontrolnych informuje o włączonych światłach mijania?": "Какая из видимых на иллюстрации контрольных лампочек информирует о включенных фарах ближнего света?",
             "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
-            "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана."
+            "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
+            "Kto podlega odpowiedzialności karnej w przypadku nieudzielenia pomocy poszkodowanemu w wypadku drogowym z bezpośrednim zagrożeniu utraty zdrowia i życia?": "Кто подлежит уголовной ответственности в случае неоказания помощи пострадавшему в дорожно-транспортном происшествии с непосредственной угрозой утраты здоровья и жизни?",
+            "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
+            "Tylko lekarz": "Только врач.",
+            "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия."
         }
     },
     "not_approved": {
@@ -4251,9 +4254,6 @@
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
-        "Tylko lekarz": "Только врач.",
-        "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
-        "Tylko uczestnik wypadku drogowego": "Только участник дорожно-транспортного происшествия.",
         "Udzielić niezbędnej pomocy ofiarom wypadku": "Оказать необходимую помощь жертвам катастрофы.",
         "Usunąć pojazdu z drogi, aby nie utrudniał ruchu": "Убрать транспортное средство с дороги, чтобы не мешало движению.",
         "Dopuszcza się wyprzedzanie na skrzyżowaniach, na których ruch odbywa się wokół wyspy": "Допускается обгон на перекрестках, на которых движение происходит вокруг островка.",
