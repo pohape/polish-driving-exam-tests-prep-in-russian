@@ -3729,7 +3729,9 @@
             "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся со встречного направления.",
             "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
             "Zwiększają skuteczność sygnalizowania hamowania we mgle": "Повышают эффективность сигнализации торможения в тумане.",
-            "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора."
+            "Zmniejszenie zużycia akumulatora": "Уменьшение расхода аккумулятора.",
+            "O dowolnym tonie": "О любом тоне.",
+            "O ciągłym nieprzeraźliwym tonie": "O непрерывном непронзительном тоне."
         }
     },
     "not_approved": {
@@ -4442,8 +4444,6 @@
         "ДА": "TAK",
         "Czy przykrycie kocem termoizolacyjnym odwróconym na wierzch złotą stroną chroni osobę ranną w wypadku drogowym przed utratą ciepła?": "Защищает ли покрытие термоизоляционным одеялом, перевернутым золотой стороной наружу, пострадавшего в дорожно-транспортном происшествии от потери тепла?",
         "Czy na drodze za tym znakiem masz obowiązek ustąpić pierwszeństwa pieszemu idącemu środkiem jezdni?": "На дороге за этим знаком вы обязаны уступить дорогу пешеходу, идущему по середине проезжей части?",
-        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется.",
-        "O dowolnym tonie": "О любом тоне.",
-        "O ciągłym nieprzeraźliwym tonie": "O непрерывном непронзительном тоне."
+        "Wraz ze wzrostem prędkości kąt widzenia rozszerza się": "С увеличением скорости угол зрения расширяется."
     }
 }
