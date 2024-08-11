@@ -3598,7 +3598,9 @@
             "W odpowiednim dla noworodka foteliku ochronnym": "В соответствующем для новорожденного защитном кресле.",
             "Na kolanach osoby dorosłej z zapiętymi pasami bezpieczeństwa": "На коленях у взрослого человека с пристегнутыми ремнями безопасности.",
             "Pasy bezpieczeństwa po zapięciu częściowo chronią ludzi przed uszkodzeniami ciała w razie zderzenia lub gwałtownego hamowania pojazdu": "Ремни безопасности после застегивания частично защищают людей от травм тела в случае столкновения или резкого торможения транспортного средства.",
-            "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства."
+            "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
+            "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
+            "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью."
         }
     },
     "not_approved": {
@@ -3685,7 +3687,6 @@
         "Czy w tej sytuacji, wjeżdżając na drogę poprzeczną, włączasz się do ruchu?": "В этой ситуации, въезжая на поперечную дорогу, вы включаетесь в движение?",
         "Czy w tej sytuacji masz prawo wyprzedzić autobus?": "В этой ситуации вы имеете право обогнать автобус?",
         "Zmniejszyć prędkość i czekać, aż lampka zgaśnie": "Уменьшите скорость и дождитесь, пока свет погаснет.",
-        "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как вы устанавливаете водительское сиденье перед тем, как начать движение автомобиля?",
         "Poczekam, aż ktoś użyczy swojej apteczki": "Я подожду, пока кто-нибудь одолжит свою аптечку.",
         "Nauka do testów na prawo jazdy": "Обучение польским ПДД",
         "Testy na prawo jazdy": "Тесты на водительские права",
@@ -4020,8 +4021,6 @@
         "W każdych warunkach skraca drogę hamowania": "В любых условиях укорачивает путь торможения.",
         "Zapobiega zerwaniu przyczepności kół napędowych podczas rozpędzania pojazdu": "Предотвращает потерю сцепления ведущих колес во время разгона транспортного средства.",
         "Jaką funkcję spełnia układ przeciwblokujący (ABS) stosowany w pojazdach?": "Какую функцию выполняет антиблокировочная система (ABS), используемая в транспортных средствах?",
-        "Każdy pasażer w trakcie spożywania posiłku": "Каждый пассажир во время употребления пищи.",
-        "Obowiązek korzystania z pasów bezpieczeństwa nie dotyczy między innymi kobiety w widocznej ciąży": "Обязанность использования ремней безопасности не касается, среди прочего, женщины с видимой беременностью.",
         "Czy w tej sytuacji masz obowiązek ustąpić pierwszeństwa pojazdom poruszającym się po drodze twardej, na którą wjeżdżasz?": "В этой ситуации вы обязаны уступить дорогу ТС, движущимся по дороге с твёрдым покрытием, на которую выезжаете?",
         "Czy z tego pasa ruchu dozwolony jest skręt w lewo na skrzyżowaniu?": "Вопрос для перевода: \"Разрешен ли с этой полосы движения поворот налево на перекрестке?\"",
         "Autobus porusza się po drodze z pierwszeństwem": "Автобус движется по главной дороге.",
@@ -4428,6 +4427,7 @@
         "Ze względu na to, że zalegający na jezdni brud nie zdążył spłynąć": "Из-за того, что грязь, накопившаяся на проезжей части, не успела смыться.",
         "Zwiększenie odległości od poprzedzającego pojazdu znacząco zwiększa szanse na skuteczne reagowanie w przypadku wystąpienia zagrożenia": "Увеличение расстояния от впереди идущего ТС значительно увеличивает шансы на успешное реагирование в случае возникновения угрозы.",
         "НЕТ": "НЕТ",
-        "ДА": "TAK"
+        "ДА": "TAK",
+        "Jak ustawisz fotel kierującego przed rozpoczęciem jazdy pojazdem?": "Как ты настроишь сиденье водителя перед началом движения транспортного средства?"
     }
 }
