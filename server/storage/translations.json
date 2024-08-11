@@ -3760,7 +3760,8 @@
             "Poświęcać tyle samo uwagi na obserwację drogi przed i za pojazdem": "Уделять столько же внимания наблюдению за дорогой перед и за транспортным средством.",
             "W celu zapewnienia sobie widoczności należy oczyścić szyby i lustra. Z nieoczyszczonego dachu i maski w czasie jazdy będzie zwiewało śnieg na nasze szyby oraz na pojazdy przebywające w naszym sąsiedztwie": "Для обеспечения себе видимости необходимо очистить стекла и зеркала. С неочищенной крыши и капота во время движения будет сдувать снег на наши стекла, а также на транспортные средства, находящиеся рядом с нами.",
             "Należy pokonywać zakręty obierając jak najmniej ciasny łuk": "Необходимо проходить повороты, выбирая как можно менее крутой изгиб.",
-            "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для уменьшения скорости движения."
+            "Używanie tylko hamulca roboczego do zmniejszania prędkości jazdy": "Использование только рабочего тормоза для уменьшения скорости движения.",
+            "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте."
         }
     },
     "not_approved": {
@@ -3901,7 +3902,6 @@
         "W przypadku gdy ruch na skrzyżowaniu jest kierowany sygnalizacją pojazd szynowy wykonując manewr skrętu musi ustąpić pierwszeństwa jadącym na wprost": "В случае, когда движение на перекрестке регулируется светофором, железнодорожный транспорт, выполняя маневр поворота, должен уступить дорогу ТС, движущимся прямо.",
         "Sygnalizacja świetlna nadaje zielony sygnał": "Светофор показывает зеленый сигнал.",
         "Czy masz prawo ominąć ten tramwaj, jeśli zachowasz szczególną ostrożność?": "Имеете ли вы право обогнать этот трамвай, если будете соблюдать особую осторожность?",
-        "więcej niż 50 km\/h na obszarze zabudowanym": "более 50 км\/ч в населенном пункте.",
         "Czy w tej sytuacji masz obowiązek zastosować się do znaku \"STOP\"?": "В данной ситуации вы обязаны подчиниться знаку \"STOP\"?",
         "Czy skręcając w lewo masz obowiązek ustąpić pierwszeństwa pojazdowi jadącemu z przeciwka?": "При повороте налево обязаны ли вы уступить дорогу встречному ТС?",
         "Czy kierujący poruszający się prawym pasem ruchu jest obowiązany umożliwić już w tym miejscu zmianę pasa ruchu pojazdowi jadącemu przed Tobą?": "Обязан ли водитель, движущийся по правой полосе движения, уже в этом месте предоставить возможность смены полосы движения ТС, едущему перед вами?",
