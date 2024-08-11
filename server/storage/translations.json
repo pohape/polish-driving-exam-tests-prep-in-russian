@@ -3643,7 +3643,11 @@
             "O ile wzrośnie droga hamowania, jeżeli zwiększysz prędkość 2-krotnie?": "Насколько увеличится тормозной путь, если вы увеличите скорость в 2 раза?",
             "Nie należy spowalniać ruchu pojazdów, które dalej będą poruszać się autostradą": "Не следует замедлять движение транспортных средств, которые дальше будут двигаться по автостраде.",
             "Stan nawierzchni ma bezpośredni wpływ na przyczepność": "Состояние дорожного покрытия имеет прямое влияние на сцепление.",
-            "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения."
+            "Na drodze dwujezdniowej co najmniej o dwóch pasach przeznaczonych dla każdego kierunku ruchu": "На дороге с двумя проезжими частями по крайней мере с двумя полосами, предназначенными для каждого направления движения.",
+            "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
+            "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
+            "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
+            "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения."
         }
     },
     "not_approved": {
@@ -3701,7 +3705,6 @@
         "Czy w takiej sytuacji zawsze jesteś zobowiązany do zatrzymania się?": "В такой ситуации вы всегда обязаны остановиться?",
         "Zamierzasz skręcić w lewo na najbliższym skrzyżowaniu. Czy musisz włączyć lewy kierunkowskaz?": "Вы собираетесь повернуть налево на ближайшем перекрестке. Вам нужно включить левый указатель поворота?",
         "Czy w warunkach znacznego zmniejszenia prędkości na jezdni kierujący pojazdem nr 4 przejeżdża przed kierującym pojazdem nr 2?": "В условиях значительного снижения скорости на проезжей части проезжает ли водитель транспортного средства № 4 перед водителем транспортного средства № 2?",
-        "Czy w tej sytuacji, jadąc na wprost, masz obowiązek umożliwić przejazd pojazdowi uprzywilejowanemu, który skręca w lewo?": "В этой ситуации, когда вы едете прямо, вы обязаны разрешить проезд привилегированному транспортному средству, которое поворачивает налево?",
         "Czy w tej sytuacji postępujesz zgodnie z przepisami, kontynuując jazdę zajmowanym pasem ruchu?": "Соблюдаете ли вы правила в этой ситуации, продолжая движение по занятой полосе движения?",
         "Czy na jezdni za tym znakiem informacyjnym możesz zawrócić?": "Можете ли вы развернуться на проезжей части за этим информационным знаком?",
         "Niewielkie obciążenie przedniej osi pojazdu.Небольшая нагрузка на переднюю ось автомобиля": "Небольшая нагрузка на переднюю ось автомобиля.Небольшая нагрузка на переднюю ось автомобиля.",
@@ -3838,7 +3841,6 @@
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
         "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
         "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
-        "W tej sytuacji zachodzi obowiązek umożliwienia przejazdu pojazdowi uprzywilejowanemu": "В данной ситуации возникает обязанность уступить дорогу привилегированному транспортному средству.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
@@ -4116,7 +4118,6 @@
         "Zasada ograniczonego zaufania": "Принцип ограниченного доверия.",
         "Kierujący pojazdem, używając świateł drogowych, jest obowiązany przełączyć je na światła mijania w razie zbliżania się do pojazdu poprzedzającego, jeżeli kierujący może być oślepiony": "Водитель ТС, используя дальний свет фар, обязан переключить его на ближний свет в случае приближения к впереди идущему ТС, если водитель может быть ослеплён.",
         "Czy w tej sytuacji masz pierwszeństwo przed pieszym?": "В этой ситуации у вас есть преимущество перед пешеходом?",
-        "Czy podczas postoju uszkodzonego pojazdu na drodze twardej poza obszarem zabudowanym musisz pozostawić włączone światła mijania?": "Должны ли вы оставить включенными ближний свет при стоянке поврежденного транспортного средства на дороге с твёрдым покрытием вне населенного пункта?",
         "Dopuszcza się wyprzedzanie z prawej strony na drogach jedno jezdniowych w obszarze zabudowanym z wyznaczonymi minimum dwoma pasami w tym samym kierunku": "Разрешается обгон с правой стороны на дорогах с одной проезжей частью в населенном пункте с обозначенными минимум двумя полосами в том же направлении.",
         "Czy w przedstawionej sytuacji jesteś zobowiązany do zatrzymania pojazdu przed przejściem dla pieszych?": "В представленной ситуации ты обязан остановить транспортное средство перед пешеходным переходом?",
         "Czy za tym znakiem masz prawo wyprzedzić pojazd uprzywilejowany?": "Имеешь ли ты право обгонять привилегированный транспортное средство после этого знака?",
@@ -4238,7 +4239,6 @@
         "Kierującemu pojazdem zabrania się: wyprzedzania pojazdu na przejściu dla pieszych i bezpośrednio przed nim": "Водителю транспортного средства запрещается: обгонять транспортное средство на пешеходном переходе и непосредственно перед ним.",
         "Czy w tym miejscu masz prawo zatrzymać samochód osobowy na drodze w celu wysadzenia pasażera?": "Имеешь ли ты право остановить автомобиль на дороге в этом месте для высадки пассажира?",
         "Czy w tej sytuacji wolno Ci jechać pojazdem z włączonymi światłami przeciwmgłowymi?": "В данной ситуации разрешено ли вам ехать в транспортном средстве с включёнными противотуманными фарами?",
-        "Światła mijania stosuje się w czasie jazdy": "Фары ближнего света используются во время движения.",
         "Świateł przeciwmgłowych używa się w warunkach zmniejszonej przejrzystości powietrza, spowodowanej mgłą, opadami atmosferycznymi": "Передние противотуманные фары используются в условиях сниженной прозрачности воздуха, вызванной туманом, атмосферными осадками.",
         "Tylko lekarz": "Только врач.",
         "Każda osoba, która mogła udzielić pomocy bez narażenia siebie lub innej osoby na niebezpieczeństwo utraty życia lub ciężkiego uszczerbku zdrowia": "Каждый человек, который мог оказать помощь, не подвергая себя или других опасности утраты жизни или тяжелого ущерба здоровью.",
