@@ -3653,7 +3653,10 @@
             "Oślepiające światła innych pojazdów jadących z przeciwka": "Ослепляющие фары других транспортных средств, идущих навстречу.",
             "Oślepiające światła pojazdów nadjeżdżających z przeciwka ograniczają możliwość obserwowania drogi": "Ослепляющие фары приближающихся встречных ТС ограничивают возможность наблюдения за дорогой.",
             "Lusterko wewnętrzne": "Зеркало внутреннее.",
-            "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой."
+            "Światła mijania lub drogowe mają na celu oświetlić drogę przed pojazdem. Ich niewłaściwe ustawienie ograniczy możliwość obserwowania drogi": "Ближний или дальний свет предназначен для освещения дороги перед автомобилем. Их неправильная настройка будет ограничивать возможность наблюдения за дорогой.",
+            "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в вождении.",
+            "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
+            "Właściwa pozycja za kierownicą ułatwia obserwowanie drogi": "Правильное положение за рулем облегчает наблюдение за дорогой."
         }
     },
     "not_approved": {
@@ -3846,7 +3849,6 @@
         "Całą jezdnię i pobocze przed i za pojazdem": "Всю проезжую часть и обочину перед и за транспортным средством.",
         "Tylko swój pas ruchu przed pojazdem": "Только своя полоса движения перед транспортным средством.",
         "Które w wymienionych elementów drogi powinieneś obserwować podczas jazdy autostradą?": "Какие из перечисленных элементов дороги вы должны наблюдать во время движения по автостраде?",
-        "Spożywanie alkoholu w każdej ilości negatywnie wpływa na percepcje kierowcy": "Употребление алкоголя в любом количестве отрицательно влияет на восприятие водителя.",
         "Dozwolone, jeżeli pojazd nie jest wyposażony w pasy bezpieczeństwa": "Разрешено, если транспортное средство не оборудовано ремнями безопасности.",
         "Dozwolone, jeżeli pojazd jest wyposażony w pasy bezpieczeństwa i fotelik dla dziecka": "Допускается, если транспортное средство оборудовано ремнями безопасности и детским креслом.",
         "Przewożenie samochodem osobowym dziecka w wieku poniżej 3 lat jest:": "Перевозка в легковом автомобиле ребенка в возрасте до 3 лет является:",
@@ -4102,7 +4104,6 @@
         "Czy w przedstawionej sytuacji skręcając w prawo masz obowiązek ustąpić pierwszeństwa pieszemu?": "Есть ли у вас обязанность уступить дорогу пешеходу, когда поворачиваете направо в данной ситуации?",
         "Czy podczas kierowania pojazdem masz obowiązek stale zachowywać ostrożność?": "Следует ли вам всегда проявлять осторожность при вождении транспортного средства?",
         "Czy w tej sytuacji, chcąc bezpiecznie wykonać manewr omijania, masz obowiązek zmniejszyć prędkość pojazdu?": "В данной ситуации, желая безопасно выполнить маневр объезда, обязан ли ты снизить скорость ТС?",
-        "Mruganie oczami w czasie przerwy w jeździe": "Моргание глазами во время перерыва в вождении.",
         "W sytuacji konieczności nagłego przyspieszenie na drodze gruntowej": "В ситуации необходимости внезапного ускорения на грунтовой дороге.",
         "Czy w tej sytuacji powinieneś był upewnić się, że możesz bezpiecznie zmienić pas ruchu?": "В этой ситуации ты должен был убедиться, что можешь безопасно сменить полосу движения?",
         "Czy w tak oznakowanym miejscu wolno Ci wyprzedzić z lewej strony pojazd znajdujący się na Twoim pasie ruchu?": "Можешь ли ты обгонять слева транспортное средство, находящееся в твоей полосе движения на участке после знака?",
