@@ -3724,7 +3724,9 @@
             "Zwiększenie przyczepności kół do jezdni": "Увеличение сцепления колёс с проезжей частью.",
             "Zmniejszenie przyczepności kół i sterowności pojazdu": "Уменьшение сцепления колёс и управляемости транспортного средства.",
             "Zwiększenie skuteczności hamowania": "Увеличение эффективности торможения.",
-            "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием."
+            "Elementy zawieszenia powinny zapewniać odpowiednią przyczepność kół do nawierzchni": "Элементы подвески должны обеспечивать соответствующее сцепление колес с дорожным покрытием.",
+            "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
+            "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС."
         }
     },
     "not_approved": {
@@ -4155,7 +4157,6 @@
         "Przed wjazdem na krzyżowanie umieszczono znak \"ustąp pierwszeństwa\"": "Перед въездом на перекресток установлен знак \"уступи дорогу\".",
         "Kartę parkingową umieszcza się za przednią szybą pojazdu samochodowego, a jeśli pojazd nie posiada przedniej szyby - w widocznym miejscu w przedniej części pojazdu, w sposób eksponujący widoczne zabezpieczenia karty oraz umożliwiający odczytanie jej numeru i daty ważności": "Парковочную карту размещают за передним стеклом автомобиля, а если автомобиль не имеет переднего стекла - в видном месте в передней части автомобиля, таким образом, чтобы были видны защитные элементы карточки, а также чтобы можно было прочитать её номер и дату окончания действия.",
         "Zabrania się wyprzedzania pojazdu silnikowego jadącego po jezdni na skrzyżowaniu, z wyjątkiem skrzyżowania o ruchu okrężnym lub na którym ruch jest kierowany. Rower nie jest pojazdem silnikowym": "Запрещается обгонять моторное транспортное средство, движущееся по проезжей части на перекрестке, за исключением перекрестка с круговым движением или на котором движение регулируется. Велосипед не является моторным транспортным средством.",
-        "Oślepianie kierujących nadjeżdżających z przeciwka": "Ослепление водителей приближающихся встречного ТС.",
         "Nieprawidłowo ustawione reflektory świateł mijania mogą skutkować oślepieniem kierującego nadjeżdżających z naprzeciwka": "Неправильно настроенные фары ближнего света могут привести к ослеплению водителя приближающегося с встречного направления.",
         "Prawo jazdy kategorii B1 uprawnia do kierowania trójkołowym lub czterokołowym pojazdem samochodowym o masie własnej nieprzekraczającej 550 kg, z wyjątkiem motocykla": "Водительское удостоверение категории B1 дает право управления трехколесным или так называемым \"czterokołowcem\" автомобильным транспортным средством с собственной массой не превышающей 550 кг, за исключением мотоцикла.",
         "Czy kierujący zespołem pojazdów, który zatrzymał się na środku tej jezdni, zachował się prawidłowo wobec kierującego pojazdem uprzywilejowanym straży pożarnej ?": "Соблюл ли водитель автопоезда правила, если остановился посреди проезжей части в отношении водителя привилегированного транспортного средства пожарной службы?",
@@ -4376,7 +4377,6 @@
         "Nie należy się zatrzymywać jeśli możliwy jest jednoczesny przejazd obu pojazdów z zachowaniem bezpiecznych odstępów": "Не следует останавливаться, если возможен одновременный проезд обоих транспортных средств с соблюдением безопасных дистанций.",
         "Czy na autostradzie masz obowiązek włączyć światła awaryjne unieruchomionego z powodu wypadku pojazdu, którym kierujesz?": "На автостраде ты обязан включить аварийные огни остановленного из-за аварии транспортного средства, которым управляешь?",
         "Raz rozpoczęta stabilizacja kręgosłupa szyjnego nie może zostać przerwana": "Раз начатая стабилизация шейного отдела позвоночника не может быть прервана.",
-        "Światła pozycyjne mają za zadanie określać pozycję pojazdu": "Габаритные огни предназначены для указания положения транспортного средства.",
         "Czy w tej sytuacji zmieniając pas ruchu masz obowiązek włączyć kierunkowskaz?": "В этой ситуации при смене полосы движения у вас есть обязанность включить указатель поворота?",
         "Czy w przedstawionej sytuacji w obszarze zabudowanym, masz obowiązek zmniejszyć prędkość, aby umożliwić kierującemu autobusem włączenie się do ruchu?": "В представленной ситуации в населенном пункте, обязан ли ты снизить скорость, чтобы позволить водителю автобуса включиться в движение?",
         "Czy w tej sytuacji jadąc na obszarze zabudowanym, w razie potrzeby, masz obowiązek zatrzymać się aby umożliwić włączenie się autobusu do ruchu?": "Обязан ли ты в этой ситуации, двигаясь в населенном пункте, при необходимости остановиться, чтобы позволить автобусу включиться в движение?",
