@@ -3496,7 +3496,16 @@
             "Rzeczywistej masy całkowitej samochodu pomniejszonej o 40%": "Фактической полной массы автомобиля, уменьшенной на 40%.",
             "Jakiej wielkości nie ma prawa przekroczyć rzeczywista masa całkowita przyczepy ciągniętej przez samochód osobowy?": "Какую величину не имеет права превышать фактическая полная масса прицепа, буксируемого автомобилем?",
             "Masy własnej samochodu": "Массы самого автомобиля",
-            "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью."
+            "Zalegające na drodze liście zmniejszają przyczepność kół do jezdni": "Лежащие на дороге листья уменьшают сцепление колес с проезжей частью.",
+            "Na drodze mokrej": "На мокрой дороге.",
+            "Na oblodzonej drodze, ze względu na niską przyczepność droga hamowania jest najdłuższa": "На обледенелой дороге, из-за низкого сцепления тормозной путь самый длинный.",
+            "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
+            "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
+            "Rzeźba terenu jest czynnikiem, który należy brać pod uwagę dobierając prędkość jazdy na drodze": "Рельеф местности является фактором, который следует учитывать при выборе скорости движения на дороге.",
+            "Jaki może być skutek używania zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования изношенных щеток стеклоочистителя в автомобиле?",
+            "Większe zużycie akumulatora": "Больший расход аккумулятора.",
+            "Mniejsza widoczność drogi w czasie deszczu": "Уменьшенная видимость дороги во время дождя.",
+            "Mniejsze zużycie płynu do spryskiwaczy": "Меньший расход жидкости для омывателя."
         }
     },
     "not_approved": {
@@ -3791,8 +3800,6 @@
         "Czy w tej sytuacji powinieneś liczyć się z wtargnięciem pieszego na jezdnię?": "Должны ли вы в этой ситуации считаться с тем, что пешеход может внезапно выйти на проезжую часть?",
         "Czy jadąc na wprost, masz obowiązek ustąpić pierwszeństwa pojazdowi nadjeżdżającemu z lewej strony?": "Едущий прямо, обязаны ли вы уступить дорогу ТС, приближающемуся слева?",
         "Każdy pasażer na tylnym siedzeniu pojazdu": "Каждый пассажир на заднем сиденье транспортного средства.",
-        "Nie, jeśli jedziesz z prędkością do 60 km\/h": "Нет, если едешь со скоростью до 60 км\/ч.",
-        "Czy rzeźba terenu jest czynnikiem, który powinieneś brać pod uwagę dobierając prędkość jazdy na drodze?": "Является ли рельеф местности фактором, который вы должны учитывать, выбирая скорость движения на дороге?",
         "Co należy zrobić w przypadku poważnego zranienia przedramienia wywołującego krwotok?": "Что следует сделать в случае серьёзного ранения предплечья, вызывающего кровотечение?",
         "Która z wymienionym kategorii uprawnia do kierowania czterokołowcem innym niż lekki?": "Какая из перечисленных категорий даёт право на управление так называемым \"czterokołowcem\" иным, чем лёгкий?",
         "Wyjeżdżając z łuku": "Покидая поворот.",
@@ -3952,10 +3959,6 @@
         "W której sytuacji zapięty pas bezpieczeństwa nie będzie działał właściwie?": "В какой ситуации пристегнутый ремень безопасности не будет работать должным образом?",
         "Gdy jego górna część jest umieszczona poniżej szyi": "Когда его верхняя часть расположена ниже шеи.",
         "Czy wyjeżdżając z parkingu powinieneś ustąpić pierwszeństwa pojazdom jadącym po jezdni?": "Выезжая с парковки, должны ли вы уступить дорогу ТС, идущим по проезжей части?",
-        "Większe zużycie akumulatora": "Больший расход аккумулятора.",
-        "Jaki może być skutek używania zużytych piór wycieraczek w samochodzie osobowym?": "Каким может быть результат использования изношенных щеток стеклоочистителя в автомобиле?",
-        "Mniejsze zużycie płynu do spryskiwaczy": "Меньший расход жидкости для омывателя.",
-        "Mniejsza widoczność drogi w czasie deszczu": "Уменьшенная видимость дороги во время дождя.",
         "Uszkodzone przednie amortyzatory": "Поврежденные передние амортизаторы.",
         "Nadmiernie zużyte klocki lub tarcze hamulcowe": "Чрезмерно изношенные колодки или диски тормозные.",
         "W którym z wymienionych przypadków, używanie samochodu osobowego nie zagraża bezpieczeństwu ruchu drogowego?": "В каком из перечисленных случаев использование автомобиля не угрожает безопасности дорожного движения?",
@@ -4028,7 +4031,6 @@
         "Testy na prawo jazdy - kategoria C": "Тесты на водительские права - категория C",
         "17512 Pokaż prawidłową odpowiedź": "17512 Покажи правильный ответ",
         "Zmień kategorię prawa jazdy &nbsp;&nbsp;A &nbsp;&nbsp;B &nbsp;&nbsp;C &nbsp;&nbsp;D &nbsp;&nbsp;T": "Измените категорию водительских прав A B C D T",
-        "Rzeźba terenu jest czynnikiem, który należy brać pod uwagę dobierając prędkość jazdy na drodze": "Рельеф местности является фактором, который следует учитывать при выборе скорости движения на дороге.",
         "Czy w tej sytuacji kierujący pojazdem nr 1 ma obowiązek zjechać jak najbliżej lewej krawędzi pasa ruchu?": "В данной ситуации водитель транспортного средства № 1 обязан подъехать как можно ближе к левому краю полосы движения?",
         "Czy masz obowiązek zachować bezpieczny odstęp od wyprzedzanego pojazdu?": "Обязаны ли вы соблюдать безопасную дистанцию от обгоняемого транспортного средства?",
         "Ominięcie przeszkody wymaga wykonania manewru zmiany pasa ruchu": "Объезд препятствия требует выполнения маневра смены полосы движения.",
@@ -4415,7 +4417,6 @@
         "W jaki sposób w pojeździe zainstalujesz podtrzymujące dziecko urządzenie, które służy do jego przewozu?": "Каким образом в транспортном средстве устанавливается поддерживающее ребенка устройство, предназначенное для его перевозки?",
         "Czy w tej sytuacji masz obowiązek obserwować zachowania rowerzysty?": "Обязан ли ты в этой ситуации следить за поведением велосипедиста?",
         "Czy w tej sytuacji masz obowiązek zapewnić bezpieczeństwo ruchu w miejscu wypadku?": "В этой ситуации у вас есть обязанность обеспечить безопасность движения на месте аварии?",
-        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы.",
-        "Na drodze mokrej": "На мокрой дороге."
+        "Zabrania się zakrywania świateł oraz urządzeń sygnalizacyjnych, tablic rejestracyjnych lub innych wymaganych tablic albo znaków, które powinny być widoczne": "Запрещается закрывать фары и сигнальные устройства, регистрационные таблички или другие обязательные таблички либо знаки, которые должны быть видимы."
     }
 }
