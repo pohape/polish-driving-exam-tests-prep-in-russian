@@ -3771,11 +3771,11 @@
             "Koło dojazdowe jest substytutem koła zapasowego": "Временное запасное колесо является заменителем основного запасного колеса.",
             "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное функционирование ремней безопасности зависит от их правильного расположения.",
             "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении срока временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение об аннулировании права на управление транспортными средствами.",
-            "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?"
+            "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
+            "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?"
         }
     },
     "not_approved": {
-        "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
         "Czy w tej sytuacji podczas wyprzedzania wolno Ci wjechać pomiędzy jadące w kolumnie rowery?": "В этой ситуации вам разрешено въезжать между велосипедами, идущими в колонне, во время обгона?",
         "Czy w tej sytuacji następnym sygnałem będzie sygnał czerwony?": "Будет ли следующий сигнал красным в этой ситуации?",
         "Czy sygnał świetlny nad Twoim pasem ruchu zezwala na skręt w lewo?": "Разрешает ли световой сигнал над вашей полосой движения Левый поворот?",
