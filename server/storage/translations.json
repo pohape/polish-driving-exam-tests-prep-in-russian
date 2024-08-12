@@ -3771,7 +3771,8 @@
             "Poprawne działanie pasów bezpieczeństwa zależy od ich właściwego ułożenia": "Правильное функционирование ремней безопасности зависит от их правильного расположения.",
             "Jeżeli osoba kierowała pojazdem silnikowym pomimo wydania decyzji administracyjnej o zatrzymaniu prawa jazdy i przedłużeniu okresu zatrzymania prawa jazdy do 6 miesięcy, starosta wydaje decyzję administracyjną o cofnięciu uprawnień do kierowania pojazdami": "Если лицо управляло транспортным средством, несмотря на вынесенное административное решение о временном изъятии водительского удостоверения и продлении срока временного изъятия водительского удостоверения до 6 месяцев, староста выносит административное решение об аннулировании права на управление транспортными средствами.",
             "Czy w tej sytuacji masz obowiązek zatrzymać się, udzielić niezbędnej pomocy i powiadomić służby ratunkowe?": "В этой ситуации вы обязаны остановиться, оказать необходимую помощь и уведомить службы экстренной помощи?",
-            "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?"
+            "Czy w przedstawionej sytuacji należy rozpocząć hamowanie pojazdu?": "Стоит ли начинать торможение автомобиля в представленной ситуации?",
+            "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля."
         }
     },
     "not_approved": {
@@ -4445,7 +4446,6 @@
         "W miarę możliwości należy obserwować jak tylko można najwięcej": "По возможности следует наблюдать, насколько это возможно, как можно больше.",
         "Światła mijania - oświetlają drogę asymetrycznie, tzn strumień światła skierowany jest bardziej ku prawemu poboczu drogi": "Ближний свет - освещает дорогу асимметрично, то есть световой поток направлен больше к правой обочине дороги.",
         "Czy na drodze za tym znakiem zawsze masz obowiązek ustąpić pierwszeństwa pieszym?": "На дороге после этого знака у вас всегда есть обязанность уступить дорогу пешеходам?",
-        "Za przewożenie osób w liczbie przekraczającej o dwa liczbę miejsc określoną w pozwoleniu czasowym samochodu osobowego": "За перевозку людей в количестве, превышающем на два количество мест, указанное во временном разрешении автомобиля.",
         "W strefie zamieszkania należy ustąpić pierwszeństwa pieszym": "В жилой зоне следует уступить дорогу пешеходам.",
         "Kierującemu autobusem szkolnym należy umożliwić manewr włączenia się do ruchu w obszarze i poza obszarem zabudowanym": "Регулировщику школьного автобуса следует предоставить возможность выполнить манёвр включения в движение в населенном пункте и за его пределами."
     }
