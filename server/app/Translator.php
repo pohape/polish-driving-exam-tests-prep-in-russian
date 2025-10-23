@@ -6,7 +6,6 @@ use Exception;
 
 class Translator extends Base
 {
-    const OPEN_AI_API_KEY_FILE = '../config/open_ai_api_key.txt';
     const CHAT_GPT_PROMPT_FILE = '../config/chat_gpt_prompt.json';
     protected string $filename = 'translations.json';
 
@@ -22,16 +21,19 @@ class Translator extends Base
      */
     private static function requestOpenAI($systemMessage, $userData)
     {
-        $path = __DIR__ . '/' . self::OPEN_AI_API_KEY_FILE;
+        $apiKeys = getenv('OPENAI_API_KEY') ?: env('OPENAI_API_KEY');
 
-        if (!is_file($path)) {
-            throw new Exception('The file with the API key not found: ' . self::OPEN_AI_API_KEY_FILE);
+        if (!$apiKeys) {
+            throw new \Exception('OPENAI_API_KEY is not set. Provide it via environment or server/.env');
         }
 
-        $lines = file($path, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+        // Optional: allow comma-separated multiple keys, pick one at random.
+        $keys = array_map('trim', explode(',', $apiKeys));
+        $apiKey = $keys[array_rand($keys)];
+
         $prompt = 'Фрагмент для перевода: "' . $userData . '"';
         $data = [
-            'model' => 'gpt-4o',
+            'model' => 'gpt-5-mini',
             'messages' => [
                 ['role' => 'system', 'content' => $systemMessage],
                 ['role' => 'user', 'content' => $prompt]
@@ -40,7 +42,7 @@ class Translator extends Base
 
         $headers = [
             'Content-Type: application/json',
-            'Authorization: Bearer ' . trim($lines[array_rand($lines)])
+            'Authorization: Bearer ' . $apiKey,
         ];
 
         $ch = curl_init('https://api.openai.com/v1/chat/completions');
