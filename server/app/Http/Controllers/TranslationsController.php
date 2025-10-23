@@ -84,4 +84,45 @@ class TranslationsController extends BaseController
     {
         return $this->mark($request, 'markIncorrect');
     }
+
+    /**
+     * GET /translations/stats
+     */
+    public function getTranslationStats(Request $request): JsonResponse
+    {
+        $translator = new \App\Translator();
+        $stats = $translator->getStats();
+
+        // Last commit time (best-effort; may be unavailable in container)
+        $gitCommand = 'cd ' . __DIR__ . '; /usr/bin/git log -1 --format=%ct';
+        $lastCommitTimestamp = trim((string) shell_exec($gitCommand));
+
+        if (is_numeric($lastCommitTimestamp)) {
+            $timeSince = time() - (int) $lastCommitTimestamp;
+
+            $stats['last_commit'] = [
+                'timestamp' => (int) $lastCommitTimestamp,
+                'seconds_ago' => $timeSince,
+                'human' => $this->humanTimeDiff($timeSince),
+            ];
+        } else {
+            $stats['last_commit'] = 'Could not determine last commit time';
+        }
+
+        return $this->response($stats);
+    }
+
+    // Human-friendly time diff
+    private function humanTimeDiff(int $seconds): string
+    {
+        if ($seconds < 60) {
+            return "$seconds seconds ago";
+        } elseif ($seconds < 3600) {
+            return floor($seconds / 60) . " minutes ago";
+        } elseif ($seconds < 86400) {
+            return floor($seconds / 3600) . " hours ago";
+        } else {
+            return floor($seconds / 86400) . " days ago";
+        }
+    }
 }
