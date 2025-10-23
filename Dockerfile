@@ -16,18 +16,18 @@ RUN apt-get update \
 WORKDIR /var/www
 COPY server /var/www/server
 
-# Apache -> Lumen public/
-RUN sed -ri -e 's!/var/www/html!/var/www/server/public!g' /etc/apache2/sites-available/000-default.conf \
-    && printf '\n<Directory /var/www/server/public>\n  AllowOverride All\n  Require all granted\n</Directory>\n' >> /etc/apache2/apache2.conf
+# Provide an explicit vhost instead of .htaccess
+COPY apache-vhost.conf /etc/apache2/sites-available/vhost.conf
 
 # Ensure runtime dirs exist and are writable
-RUN mkdir -p /var/www/server/storage/ramdisk_tmpfs \
-    && chown -R www-data:www-data /var/www/server/storage
+RUN mkdir -p /var/www/server/storage/ramdisk_tmpfs chown -R www-data:www-data /var/www/server/storage
+
+# Enable our site, disable default one
+RUN a2dissite 000-default.conf && a2ensite vhost.conf
 
 # Composer
 COPY --from=composer:2 /usr/bin/composer /usr/bin/composer
-RUN cd /var/www/server \
-    && composer install --no-dev --prefer-dist --no-interaction
+RUN cd /var/www/server && composer install --no-dev --prefer-dist --no-interaction
 
 # Expose (internal; not published on host; Caddy will proxy)
 EXPOSE 80
