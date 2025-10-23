@@ -1,0 +1,22 @@
+services:
+  app:
+    # bind-mount the whole server tree for live edits
+    volumes:
+      - ./server:/var/www/server
+      # keep Composer deps in a named volume (mounted AFTER the bind)
+      - dev-vendor:/var/www/server/vendor
+    environment:
+      APP_ENV: local
+    # Ensure storage dirs exist, fix permissions for host bind, auto-install deps once
+    command: >
+      bash -lc '
+        mkdir -p /var/www/server/storage &&
+        chown -R www-data:www-data /var/www/server/storage || true &&
+        if [ ! -f /var/www/server/vendor/autoload.php ]; then
+          cd /var/www/server && composer install --no-interaction --prefer-dist;
+        fi &&
+        exec apache2-foreground
+      '
+
+volumes:
+  dev-vendor: {}
