@@ -14,3 +14,4 @@ $router->post('favorites/remove', 'FavoritesController@remove');
 $router->post('translations/get', 'TranslationsController@getTranslation');
 $router->post('translations/markCorrect', 'TranslationsController@markCorrect');
 $router->post('translations/markIncorrect', 'TranslationsController@markIncorrect');
+$router->get('translations/stats', 'TranslationsController@getTranslationStats');
