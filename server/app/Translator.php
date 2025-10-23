@@ -335,4 +335,21 @@ class Translator extends Base
 
         return $result;
     }
+
+    public function getStats(): array
+    {
+        $translations = $this->load();
+
+        $approvedCount = 0;
+        foreach ($translations['approved'] ?? [] as $category) {
+            $approvedCount += count($category);
+        }
+
+        $notApprovedCount = count($translations['not_approved'] ?? []);
+
+        return [
+            'approved' => $approvedCount,
+            'not_approved' => $notApprovedCount
+        ];
+    }
 }
