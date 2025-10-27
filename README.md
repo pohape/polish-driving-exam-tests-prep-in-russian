@@ -2,7 +2,7 @@
 
 Перевод польских экзаменационных тестов **teoria.pl** на русский язык — автоматически, контекстно и без рекламного мусора. Плюс «Избранные» вопросы и удобные подсказки.
 
-[Установить из Chrome Web Store](https://chromewebstore.google.com/)
+## [Установить из Chrome Web Store](https://chromewebstore.google.com/)
 
 ---
 
