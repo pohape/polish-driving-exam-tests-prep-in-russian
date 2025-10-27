@@ -45,6 +45,10 @@
             deleteLevel: 0
         },
         {
+            selector: 'div.row > div.col-xs-12 > p',
+            deleteLevel: 1
+        },
+        {
             selector: '.right-a.right-a-nl',
             deleteLevel: 0
         },
