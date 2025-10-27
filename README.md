@@ -1,42 +1,94 @@
-# Расширение для браузера для изучения польских тестов ПДД на русском
-Для изучающих польские ПДД и решающих польские тесты ПДД: вопросы, ответы и пояснения дублируются на русском языке.
-А также:
-- Убрана вся реклама с сайта с билетами ПДД
-- Добавлены возможность смотреть картинки и видео к вопросам в полноэкранном режиме
-- Возможность интерактивного просмотра: при наведении курсора на номер дорожного знака появляется его изображение
+# Польские тесты ПДД на русском — расширение Chrome
 
-## Как установить:
+> Перевод польских экзаменационных тестов **teoria.pl** на русский язык — автоматически, контекстно и без рекламного мусора. Плюс «Избранные» вопросы и удобные подсказки.
 
-1. Устанавливаем расширение ViolentMonkey: https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
-2. Заходим в настройки расширения ViolentMonkey, нажав на шестеренку:
+[Установить из Chrome Web Store](https://chromewebstore.google.com/)
 
-![Violentmonekey 1](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/1.png)
+---
 
-3. Добавляем наш скрипт, вставив в расширение URL-адрес скрипта:
-```
-https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/userscript.js
-```
+## Что вы получите
 
-![Violentmonekey 2](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/2.png)
+- **Моментальный перевод** вопросов, ответов и пояснений на русский прямо на странице тестов — оригинал и перевод рядом.
+- **Точный контекст**: перевод учитывает терминологию ПДД, формулировки и структуру заданий.
+- **Переключатель перевода**: одним кликом скрыть/показать русскую версию.
+- **Избранные вопросы**: отмечайте сложные задачи, формируйте свой список задач которые требуют повторения.
+- **Чистый интерфейс**: расширение убирает рекламные блоки, показывает видео‑контролы, разворачивает изображения.
+- **Подсказки по знакам**: коды знаков вида `A-7`, `D-18` автоматически подсвечиваются и при наведении на них мышки можно посмотреть изображение соответствующего знака.
 
-![Violentmonekey 3](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/3.png)
+---
 
-4. Сохраняем, заходим на сайт https://teoria.pl/, решаем тесты и наслаждаемся переводами.
+## Скриншоты
 
+<p>
+  <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/1.png" alt="Скриншот 1" width="888">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/2.png" alt="Скриншот 2" width="888">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/3.png" alt="Скриншот 3" width="888">
+</p>
+<p>
+  <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/4.png" alt="Скриншот 4" width="888">
+</p>
 
-## Скриншоты:
+---
 
-![Teoria.pl 1](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/4.png)
+## Шпаргалки
 
-![Teoria.pl 2](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/5.png)
+### Памятка по вопросам, связанным с детским креслом
 
-![Teoria.pl 3](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/6.png)
+![Памятка по вопросам связанным с детским креслом](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/notatki/fotelik.png)
 
-![Teoria.pl 3](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/screenshots/7.png)
+### Необходимые слова и выражения для езды с инструктором
 
-## Памятка по вопросам связанным с детским креслом:
-![Памятка по вопросам связанным с детским креслом](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/notatki/fotelik.png)
+[Скачать PDF](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/jazda.pdf)
+![Шпаргалка необходимых слов и выражений для езды с инструктором](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/notatki/jazda.png)
 
-## Шпаргалка необходимых слов и выражений для езды с инструктором ([скачать PDF](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/notatki_pdf/jazda.pdf)):
+---
 
-![Шпаргалка необходимых слов и выражений для езды с инструктором](https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/server/public/images/notatki/jazda.png)
+## Для кого
+
+- Для русскоязычных учеников автошкол в Польше, кто хочет готовиться к тестам быстрее и без ручного перевода.
+- Для тех, кому нужна системная практика с фиксацией сложных вопросов.
+
+---
+
+## Быстрый старт
+
+1. Установите расширение из Chrome Web Store.
+   [Установить](https://chromewebstore.google.com/)
+2. Откройте **https://www.teoria.pl/prawo-jazdy/testy** — перевод включится автоматически.
+3. Используйте тумблер, чтобы скрывать/показывать перевод. Ставьте ⭐ на сложных вопросах.
+
+Поддерживаются Chrome и другие браузеры на основе Chromium (Edge, Opera, Яндекс Браузер и так далее).
+
+---
+
+## Советы по использованию
+
+- Хотите быстро скрыть перевод и проверить себя на оригинале — используйте тумблер.
+- Сомневаетесь в корректности формулировки — отметьте «некорректно», модель доучится.
+- «Избранные» работают только при входе в аккаунт teoria.pl — это осознанная защита от смешения списков разных учеников.
+
+---
+
+## FAQ
+
+**Перевод не появился. Что делать?**
+Проверьте, что вы на домене `teoria.pl`, обновите страницу. Если сайт внезапно поменял верстку, расширению может понадобиться обновление.
+
+**Нужно ли создавать учетную запись?**
+Для перевода — нет. Для «Избранных» — да, вы должны быть авторизованы на teoria.pl.
+
+**Работает ли офлайн?**
+Нет. Для перевода требуется доступ к API.
+
+**Можно ли использовать в мобильном Chrome?**
+Мобильные браузеры обычно не поддерживают расширения. Используйте настольный браузер.
+
+---
+
+## Юридическое
+
+Проект не аффилирован с владельцами сайта **teoria.pl**. Используйте с уважением к правилам ресурса и авторским правам. Назначение — учебное.
