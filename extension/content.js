@@ -2,7 +2,7 @@
     'use strict';
 
     const baseUrl = 'https://jazda.webscrapp.rocks/'
-    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server/public/images/znaki/'
+    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-in-russian/main/images/znaki/'
 
     const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
