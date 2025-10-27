@@ -1,0 +1,109 @@
+Privacy Policy for the “Polish Driving Theory Tests in Russian” Chrome Extension
+Effective date: 2025-10-28
+
+1) Overview
+This extension helps users study driving theory on teoria.pl by adding Russian translations, a translation toggle, and a Favorites list. It also hides ads on the site. We respect your privacy and keep data processing minimal.
+
+2) Data We Process
+- We do not collect personal data such as your name, email, address, payment information, or browsing history across the web.
+- To provide translations, the extension may send short text fragments from teoria.pl pages (questions, answers, explanations) to our API at https://jazda.webscrapp.rocks/. These requests contain only the text required to translate.
+- For Favorites, the extension may send question IDs (or the question text when an ID is not available) to the same API, along with a non-personal identifier derived from your teoria.pl account registration date. We do not receive your name, email, or login credentials.
+- The extension does not access content from other sites.
+
+3) Local Storage (Chrome storage / LocalStorage)
+- The extension stores:
+  - cached translations,
+  - the state of the translation toggle,
+  - your local Favorites set,
+  - a non-personal account identifier (registration date) used only to associate Favorites on the API.
+- This data stays in your browser until you clear site data or remove the extension.
+
+4) Cookies
+- The extension does not create or read its own cookies.
+- It may interact with the cookie banner on teoria.pl to simplify the user experience, but it does not use cookies for tracking or advertising.
+
+5) Remote Requests / Remote Code
+- The extension performs HTTPS requests to https://jazda.webscrapp.rocks/ for translation and Favorites operations.
+- No executable code is downloaded or executed from remote servers; only JSON data is fetched.
+
+6) Permissions Justification
+- Host permissions: teoria.pl (to modify pages and show translations) and jazda.webscrapp.rocks (to call the API).
+- storage: to cache translations, save UI preferences, and store Favorites.
+- webNavigation: to detect page changes on teoria.pl and re-apply translations on dynamic navigation.
+
+7) Data Sharing and Selling
+- We do not sell user data.
+- We do not share user data with third parties.
+
+8) Security
+- All API communication uses HTTPS.
+- We limit processing to the minimum necessary to provide functionality.
+
+9) Data Retention and Deletion
+- Local data remains until you clear browser data or uninstall the extension.
+- Server-side Favorites persist until you remove them via the extension or request deletion via email.
+
+10) Children’s Privacy
+- The extension is intended for general audiences and does not knowingly collect information from children under 13.
+
+11) Changes to This Policy
+- We may update this policy. The latest version will always be available with the extension’s listing or repository.
+
+12) Contact
+- Questions or deletion requests: pavelgeveiler@gmail.com
+
+
+----------------------------------------------------------------------
+Политика конфиденциальности для расширения Chrome «Польские тесты ПДД на русском»
+Дата вступления в силу: 2025-10-28
+
+1) Общие положения
+Расширение помогает готовиться к теории на сайте teoria.pl: добавляет перевод на русский, переключатель перевода и список «Избранных», а также скрывает рекламу. Мы уважаем вашу конфиденциальность и сводим обработку данных к минимуму.
+
+2) Обрабатываемые данные
+- Мы не собираем персональные данные (имя, e‑mail, адрес, платежные данные) и не ведем историю просмотра сайтов.
+- Для перевода расширение может отправлять на наш API https://jazda.webscrapp.rocks/ короткие текстовые фрагменты со страниц teoria.pl (вопросы, ответы, пояснения). Передается только текст, необходимый для перевода.
+- Для «Избранных» расширение может отправлять идентификаторы вопросов (или текст вопроса, если ID недоступен) на тот же API вместе с неперсональным идентификатором, полученным из даты регистрации вашего аккаунта на teoria.pl. Мы не получаем ваши имя, e‑mail или учетные данные.
+- Расширение не обрабатывает содержимое других сайтов.
+
+3) Локальное хранение (Chrome storage / LocalStorage)
+- Расширение сохраняет:
+  - кэш перевода,
+  - состояние переключателя перевода,
+  - локальный список «Избранных»,
+  - неперсональный идентификатор (дата регистрации) — только для привязки «Избранных» на API.
+- Эти данные остаются в вашем браузере, пока вы не очистите данные или не удалите расширение.
+
+4) Файлы cookie
+- Расширение не создает и не читает собственные cookie.
+- Оно может взаимодействовать с баннером cookies на teoria.pl для удобства, но не использует cookie для трекинга или рекламы.
+
+5) Внешние запросы / удаленный код
+- Расширение выполняет HTTPS-запросы к https://jazda.webscrapp.rocks/ для перевода и работы «Избранных».
+- Исполняемый код с серверов не загружается и не выполняется; запрашиваются только данные (JSON).
+
+6) Обоснование разрешений
+- Доступ к хостам: teoria.pl (модификация страниц и показ переводов) и jazda.webscrapp.rocks (вызовы API).
+- storage: кэш переводов, настройки интерфейса, «Избранные».
+- webNavigation: определение переходов на teoria.pl и повторное применение перевода при динамической навигации.
+
+7) Передача и продажа данных
+- Мы не продаем данные пользователей.
+- Мы не передаем данные третьим сторонам.
+
+8) Безопасность
+- Все запросы к API выполняются по HTTPS.
+- Обработка сведена к минимуму, достаточному для работы функций.
+
+9) Сроки хранения и удаление
+- Локальные данные остаются до очистки данных браузера или удаления расширения.
+- «Избранные» на сервере хранятся до их удаления через расширение или по вашему запросу на e‑mail.
+
+10) Конфиденциальность детей
+- Расширение предназначено для широкой аудитории и не собирает осознанно информацию о детях младше 13 лет.
+
+11) Изменения политики
+- Мы можем обновлять эту политику. Актуальная версия будет доступна в карточке расширения или репозитории.
+
+12) Контакты
+- Вопросы и запросы на удаление: pavelgeveiler@gmail.com

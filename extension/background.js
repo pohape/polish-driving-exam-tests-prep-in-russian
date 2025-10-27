@@ -11,3 +11,9 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
         return true;
     }
 });
+// Открывать URL по клику на иконку в тулбаре
+chrome.action.onClicked.addListener(() => {
+  chrome.tabs.create({
+    url: 'https://www.teoria.pl/prawo-jazdy/testy'
+  });
+});

@@ -1,8 +1,8 @@
 (function () {
     'use strict';
 
-    const baseUrl = 'http://145.239.80.201:8080/'
-    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-prep-in-russian/main/server/public/images/znaki/'
+    const baseUrl = 'https://jazda.webscrapp.rocks/'
+    const signsImagesBasePath = 'https://raw.githubusercontent.com/pohape/polish-driving-exam-tests-in-russian/main/images/znaki/'
 
     const regexRegistrationDate = /Konto zostało utworzone: (.*?)<\/p>/;
     const switchAdditionalPlaceSelectors = [
@@ -40,6 +40,14 @@
     };
 
     let selectorsToRemove = [
+        {
+            selector: '.mail-us-wrapper',
+            deleteLevel: 0
+        },
+        {
+            selector: 'div.row > div.col-xs-12 > p',
+            deleteLevel: 1
+        },
         {
             selector: '.right-a.right-a-nl',
             deleteLevel: 0
@@ -103,6 +111,13 @@
     }
 
     function loadRegistrationDateAndFavorites() {
+        addMenuItem(
+            'О ПРОЕКТЕ',
+            'https://github.com/pohape/polish-driving-exam-tests-in-russian#readme',
+            false,
+            'green'
+        )
+
         let xpathResult = document.evaluate(
             selectorLogout,
             document,
@@ -144,7 +159,7 @@
         }
     }
 
-    function addMenuItem(menuTitle, menuLink) {
+    function addMenuItem(menuTitle, menuLink, blink = true, color = 'red') {
         const menu = document.getElementById('nav');
 
         if (!menu) {
@@ -155,11 +170,18 @@
         const newMenuItem = document.createElement('li');
         const link = document.createElement('a');
 
-        link.target = "_blank"
+        link.target = "_blank";
         link.href = menuLink;
         link.textContent = menuTitle;
+
         link.style.fontWeight = 'bold';
-        link.style.animation = 'blink 1s step-start infinite';
+        link.style.fontSize = '18px';
+        link.style.color = color;
+        link.style.textTransform = 'uppercase';
+
+        if (blink) {
+            link.style.animation = 'blink 1s step-start infinite';
+        }
 
         newMenuItem.appendChild(link);
         menu.prepend(newMenuItem);
@@ -831,8 +853,8 @@
     style.type = 'text/css';
 
     style.innerHTML = `
-    @keyframes blink { 
-        50% { opacity: 0; } 
+    @keyframes blink {
+        50% { opacity: 0; }
     }
     .breadcumb_area {
         height: 170px !important;
