@@ -168,6 +168,8 @@
         link.textContent = menuTitle;
         link.style.fontWeight = 'bold';
         link.style.animation = 'blink 1s step-start infinite';
+        link.style.fontSize = '18px';
+        link.style.color = 'red';
 
         newMenuItem.appendChild(link);
         menu.prepend(newMenuItem);
