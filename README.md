@@ -25,7 +25,7 @@
       <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/1.png" alt="Скриншот 1" width="400">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/2.png" alt="Скриншот 2" width="400">
+      <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/4.png" alt="Скриншот 4" width="400">
     </td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
       <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/3.png" alt="Скриншот 3" width="400">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/4.png" alt="Скриншот 4" width="400">
+      <img src="https://raw.githubusercontent.com/pohape/teoria_pl_tests_translate/main/images/screenshots/2.png" alt="Скриншот 2" width="400">
     </td>
   </tr>
 </table>
