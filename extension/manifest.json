@@ -48,7 +48,7 @@
         }
     ],
     "host_permissions": [
-        "http://145.239.80.201:8080/*",
+        "https://jazda.webscrapp.rocks/*",
         "https://teoria.pl/*",
         "https://www.teoria.pl/*"
     ]
