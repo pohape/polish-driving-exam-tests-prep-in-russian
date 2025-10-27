@@ -41,6 +41,10 @@
 
     let selectorsToRemove = [
         {
+            selector: '.mail-us-wrapper',
+            deleteLevel: 0
+        },
+        {
             selector: '.right-a.right-a-nl',
             deleteLevel: 0
         },
@@ -831,8 +835,8 @@
     style.type = 'text/css';
 
     style.innerHTML = `
-    @keyframes blink { 
-        50% { opacity: 0; } 
+    @keyframes blink {
+        50% { opacity: 0; }
     }
     .breadcumb_area {
         height: 170px !important;
