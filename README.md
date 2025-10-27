@@ -2,7 +2,7 @@
 
 Перевод польских экзаменационных тестов **teoria.pl** на русский язык — автоматически, контекстно и без рекламного мусора. Плюс «Избранные» вопросы и удобные подсказки.
 
-## [Установить из Chrome Web Store](https://chromewebstore.google.com/)
+## [Установить из Chrome Web Store](https://chromewebstore.google.com/detail/olnagfdebaldcljodoadkjoopgfphhpf)
 
 ---
 
@@ -63,7 +63,7 @@
 ## Быстрый старт
 
 1. Установите расширение из Chrome Web Store.
-   [Установить](https://chromewebstore.google.com/)
+   [Установить](https://chromewebstore.google.com/detail/olnagfdebaldcljodoadkjoopgfphhpf)
 2. Откройте **https://www.teoria.pl/prawo-jazdy/testy** — перевод включится автоматически.
 3. Используйте тумблер, чтобы скрывать/показывать перевод. Ставьте ⭐ на сложных вопросах.
 
