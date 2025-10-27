@@ -111,6 +111,13 @@
     }
 
     function loadRegistrationDateAndFavorites() {
+        addMenuItem(
+            'О ПРОЕКТЕ',
+            'https://github.com/pohape/polish-driving-exam-tests-in-russian#readme',
+            false,
+            'green'
+        )
+
         let xpathResult = document.evaluate(
             selectorLogout,
             document,
@@ -152,7 +159,7 @@
         }
     }
 
-    function addMenuItem(menuTitle, menuLink) {
+    function addMenuItem(menuTitle, menuLink, blink = true, color = 'red') {
         const menu = document.getElementById('nav');
 
         if (!menu) {
@@ -163,13 +170,18 @@
         const newMenuItem = document.createElement('li');
         const link = document.createElement('a');
 
-        link.target = "_blank"
+        link.target = "_blank";
         link.href = menuLink;
         link.textContent = menuTitle;
+
         link.style.fontWeight = 'bold';
-        link.style.animation = 'blink 1s step-start infinite';
         link.style.fontSize = '18px';
-        link.style.color = 'red';
+        link.style.color = color;
+        link.style.textTransform = 'uppercase';
+
+        if (blink) {
+            link.style.animation = 'blink 1s step-start infinite';
+        }
 
         newMenuItem.appendChild(link);
         menu.prepend(newMenuItem);
